@@ -1,0 +1,133 @@
+---
+title: Codex
+type: entity
+tags:
+- Coding Agent
+status: 审核中
+confidence: high
+last_compiled: '2026-04-17'
+source_tags: ''
+source_article_url: ''
+notion_url: https://www.notion.so/249af11e2ddb4404b6cd8ac5e85946c4
+notion_id: 249af11e-2ddb-4404-b6cd-8ac5e85946c4
+---
+
+## 定义
+
+Codex 是 OpenAI 推出的 AI 编程 Agent，从编程助手向全面 **AI 开发平台**演化，支持安全审计、跨应用操作，与 Claude Code 形成直接竞争。
+
+## 关键特点
+
+- 六周内多次重要更新，快速迭代
+
+- 开发者开始混合使用 Codex + Claude Code
+
+- 新增安全审计与跨应用操作能力
+
+- OpenAI 目标：推动个人代理（Personal Agent）发展
+
+- 竞争定位：主打速度和集成（vs Claude Code 主打深度推理）
+
+## 来源引用
+
+- [原文链接](https://x.com/Dimillian/status/2041948910512652313)｜《Codex macOS 插件：让 AI 真正理解 Mac 原生开发》｜来源条目：[摘要：Codex macOS 插件：让 AI 真正理解 Mac 原生开发](summaries/摘要：Codex macOS 插件：让 AI 真正理解 Mac 原生开发.md)
+
+- [原文链接](https://x.com/OpenAI/status/2044861690911850863)｜《Introducing GPT-Rosalind, our frontier reasoning model built to support research across biology, drug discovery, and translational medicine.》｜来源条目：[摘要：GPT-Rosalind：OpenAI 为生命科学打造的专用推理模型](summaries/摘要：GPT-Rosalind：OpenAI 为生命科学打造的专用推理模型.md)
+
+- 摘要：Codex不打算让Claude Code好过
+
+- [原文链接](https://x.com/LawrenceW_Zen/status/2035383740239855810)｜《用 tmux 搭建 Agent Team 的终端舞台：Claude Code + Codex 多窗口协作入门》｜来源条目：[摘要：用 tmux 搭建 Agent Team 的终端舞台：Claude Code + Codex 多窗口协作入门](summaries/摘要：用 tmux 搭建 Agent Team 的终端舞台：Claude Code + Codex 多窗口协作入门.md)
+
+- [原文链接](https://x.com/LawrenceW_Zen/status/2035949835124351009)｜《用 Claude Code 调度 Codex 当 SubAgent：省 Token 的多 Agent 编排实践》｜来源条目：[摘要：用 Claude Code 调度 Codex 当 SubAgent：省 Token 的多 Agent 编排实践](summaries/摘要：用 Claude Code 调度 Codex 当 SubAgent：省 Token 的多 Agent 编排实践.md)
+
+- [原文链接](https://x.com/alin_zone/status/2036000855389020406)｜《前端 Gemini、后端 Codex：用 Claude Code 调度多 Agent 的分工哲学》｜来源条目：[摘要：前端 Gemini、后端 Codex：用 Claude Code 调度多 Agent 的分工哲学](summaries/摘要：前端 Gemini、后端 Codex：用 Claude Code 调度多 Agent 的分工哲学.md)
+
+- 《OpenAI 官方把 Codex 塞进 Claude Code：一个插件，三个命令，一种策略》｜X书签文章｜原文链接：[https://x.com/dotey/status/2038682622180634793](https://x.com/dotey/status/2038682622180634793)｜来源条目：摘要：OpenAI 官方把 Codex 塞进 Claude Code：一个插件，三个命令，一种策略
+
+- [原文链接](https://x.com/fkysly/status/2042440576038289417)｜《Karpathy：AI 能力认知分裂来自使用层级与技术场景差异》｜来源条目：[摘要：Karpathy 今天这个帖子，确实说到我心坎里去了。很好的解释了为什么你会感觉推上和现实空间里存在两种对 AI 的看法。](summaries/摘要：Karpathy 今天这个帖子，确实说到我心坎里去了。很好的解释了为什么你会感觉推上和现实空间里存在两种对 AI 的看法。.md)
+
+- [原文链接](https://x.com/dotey/status/2038682622180634793)｜《OpenAI 官方把 Codex 塞进 Claude Code：一个插件，三个命令，一种策略》｜来源条目：摘要：OpenAI 官方把 Codex 塞进 Claude Code：一个插件，三个命令，一种策略
+
+- [原文链接](https://x.com/AYi_AInotes/status/2042970104921542896)｜《Shopify刚放了个大招，绝大多数人估计半年后才会反应过来。》｜来源条目：Shopify AI Toolkit：把 AI Agent 变成你的电商运营团队
+
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652691349&idx=1&sn=69271496782bf2fae8c8ef9a3281534b&chksm=f033cf80ceece626996a98c0e35ecad40ba8feeb8ca5f194fd92e66c99c6cc1a51296e257f1d#rd)｜《OpenAI惨遭反超！Anthropic狂吞70%新客户，Claude已开启「灵魂校准」》｜来源条目：[摘要：OpenAI惨遭反超！Anthropic狂吞70%新客户，Claude已开启「灵魂校准」](summaries/摘要：OpenAI惨遭反超！Anthropic狂吞70%新客户，Claude已开启「灵魂校准」.md)
+
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651087686&idx=1&sn=ccd23850bf6cc123f742ca0ab691f57a&chksm=bc18565eb20c3c804baec442c16d8737ded0256af536e1936cffb86b03930f08310d29be91b3#rd)｜《OpenAI终究活成了自己最看不上的样子》｜来源条目：[摘要：OpenAI终究活成了自己最看不上的样子](summaries/摘要：OpenAI终究活成了自己最看不上的样子.md)
+
+- [原文链接](https://x.com/shmidtqq/status/2044027418541691041)｜《OpenClaw + GLM 5.1 = FREE AI AGENTS》｜来源条目：[摘要：OpenClaw + GLM 5.1 = FREE AI AGENTS](summaries/摘要：OpenClaw + GLM 5.1 = FREE AI AGENTS.md)
+
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA%3D%3D&mid=2247496517&idx=1&sn=d44a3ec92036cdd1c4b08d57f581f4e2&chksm=fa29fb0bb3df650b0f59072f68108d15c3ba7bef33636218b5cd36107aa8e18f137b62fb214b#rd)｜《没等来 Image 模型，等来了 Codex 大升级。》｜来源条目：[摘要：没等来 Image 模型，等来了 Codex 大升级。](summaries/摘要：没等来 Image 模型，等来了 Codex 大升级。.md)
+
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMDQ0Nw%3D%3D&mid=2247484645&idx=1&sn=b2a8072e31f73857b37fa828a6653a09&chksm=fa3ef1e2aaaa6863d5c2fce89e53e93e1dc5cde21f60251c60befa308e493ec567d7f39f35bf#rd)｜《Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？》｜来源条目：[摘要：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？](summaries/摘要：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？.md)
+
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzY0MDAzNzk3MA%3D%3D&mid=2247484430&idx=1&sn=a8cd136df0161ab4a5fe53b3a6a65990&chksm=f1c76fc519e5fdfca727bfdba977647d756e2865da0de591baae80902002af1c8c1d324b1a9e#rd)｜《136K Stars 的 OpenCode 凭什么碾压 Claude Code SDK？TUI 界面都能被插件替换，Claude Code 一个像素都动不了》｜来源条目：[摘要：136K Stars 的 OpenCode 凭什么碾压 Claude Code SDK？TUI 界面都能被插件替换，Claude Code 一个像素都动不了](summaries/摘要：136K Stars 的 OpenCode 凭什么碾压 Claude Code SDK？TUI 界面都能被插件替换，Claude Code 一个像素都动不了.md)
+
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247515602&idx=1&sn=1b46eb01028eae027c8670917c82299b&chksm=c39464836558ed516d629ccba40c5ce4691f4ac48cb60cb1204a46c672c42091dc39da720fa4#rd)｜《Codex 重大更新，全面解读》｜来源条目：[摘要：Codex 重大更新，全面解读](summaries/摘要：Codex 重大更新，全面解读.md)
+
+- [原文链接](https://x.com/Codex_Changelog/status/2044526487119007827)｜《Sign in with ChatGPT》｜来源条目：[摘要：Sign in with ChatGPT](summaries/摘要：Sign in with ChatGPT.md)
+
+- [原文链接](https://x.com/AnchorNode/status/2044675901775126986)｜《兄弟们，昨天配了一个新的bot，在我的失误下，把两个机器人部署到同一个目录下面，成功把旧bot搞炸了》｜来源条目：[摘要：兄弟们，昨天配了一个新的bot，在我的失误下，把两个机器人部署到同一个目录下面，成功把旧bot搞炸了](summaries/摘要：兄弟们，昨天配了一个新的bot，在我的失误下，把两个机器人部署到同一个目录下面，成功把旧bot搞炸了.md)
+
+- [原文链接](https://x.com/dotey/status/2044879703698526617)｜《Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器》｜来源条目：[摘要：Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器](summaries/摘要：Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器.md)
+
+## 关联概念
+
+- [Claude Code](entities/Claude Code.md)
+
+- [Kimi K2.6](entities/Kimi K2.6.md)
+
+- [任务复杂度分配](concepts/任务复杂度分配.md)
+
+- [AI 服务 KYC 风险](concepts/AI 服务 KYC 风险.md)
+
+- [可验证奖励](concepts/可验证奖励.md)
+
+- [tmux](entities/tmux.md)
+
+- [Orchestrator 模式](concepts/Orchestrator 模式.md)
+
+- [Gemini 3 Pro](entities/Gemini 3 Pro.md)
+
+- [codex-plugin-cc](entities/codex-plugin-cc.md)
+
+- [Shopify AI Toolkit](entities/Shopify AI Toolkit.md)
+
+- [Agent 原生电商后台](concepts/Agent 原生电商后台.md)
+
+- [OpenAI](entities/OpenAI.md)
+
+- [Anthropic](entities/Anthropic.md)
+
+- [企业级编码市场](concepts/企业级编码市场.md)
+
+- [GLM-5.1](entities/GLM-5.1.md)
+
+- [Ollama](entities/Ollama.md)
+
+- [内核可编程性](concepts/内核可编程性.md)
+
+- [OpenCode](entities/OpenCode.md)
+
+- [Claude Agent SDK](entities/Claude Agent SDK.md)
+
+- [Cursor](entities/Cursor.md)
+
+- [Codex 插件系统](concepts/Codex 插件系统.md)
+
+- [Artifact](concepts/Artifact.md)
+
+- [Plugin Marketplace](concepts/Plugin Marketplace.md)
+
+- [记忆控制](concepts/记忆控制.md)
+
+- [TUI 历史反向搜索](concepts/TUI 历史反向搜索.md)
+
+- [bubblewrap](concepts/bubblewrap.md)
+
+- [调用链验证](concepts/调用链验证.md)
+
+- [假模型测试](concepts/假模型测试.md)
+
+- [应用内浏览器](concepts/应用内浏览器.md)
+
+- [浏览器评论模式](concepts/浏览器评论模式.md)

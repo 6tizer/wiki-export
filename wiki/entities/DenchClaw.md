@@ -1,0 +1,30 @@
+---
+title: DenchClaw
+type: entity
+tags:
+- OpenClaw
+- 工作流
+status: 草稿
+confidence: high
+last_compiled: '2026-04-11'
+source_tags: ''
+source_article_url: ''
+notion_url: https://www.notion.so/43265e09abb84d238dd2dcfea83e5fe3
+notion_id: 43265e09-abb8-4d23-8dd2-dcfea83e5fe3
+---
+
+## 定义
+
+DenchClaw 是基于 OpenClaw 构建的本地 AI CRM 产品，强调联系人管理、销售管道和 Agent 自动外展全部在本地运行。
+
+## 关键要点
+
+- 以 `npx denchclaw` 的低门槛安装体验为卖点
+
+- 把 CRM 场景封装成 OpenClaw 生态中的垂直应用
+
+- 适合个人开发者和小团队的本地客户管理场景
+
+## 来源引用
+
+- 《DenchClaw：用 OpenClaw 搭一套本地 AI CRM，一行命令搞定客户管理》｜文章链接：[https://x.com/sitinme/status/2031243653209891023](https://x.com/sitinme/status/2031243653209891023)

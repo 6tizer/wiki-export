@@ -1,0 +1,38 @@
+---
+title: hyperframes
+type: entity
+tags:
+- 内容创作
+- 开发工具
+status: 草稿
+confidence: medium
+last_compiled: '2026-04-17'
+source_tags: ''
+source_article_url: ''
+notion_url: https://www.notion.so/5d35e623c848486ab1518388c73567dc
+notion_id: 5d35e623-c848-486a-b151-8388c73567dc
+---
+
+## 定义
+
+hyperframes 是 HeyGen 推出的代码驱动视频生成工具，可把基于 HTML、CSS、GSAP、Lottie、Three.js 的动态内容渲染为视频，并提供从素材获取、编码到音频混合的完整管线。
+
+## 核心特点
+
+- 支持用网页技术栈描述动画并输出视频
+
+- 覆盖获取、编码、音频混合等完整渲染流程
+
+- 提供可手动调整的编辑器界面
+
+- 相比 [Remotion](entities/Remotion.md)，更强调一体化的视频生产能力
+
+## 关联概念
+
+- [Seedance 2.0](entities/Seedance 2.0.md)
+
+- [Remotion](entities/Remotion.md)
+
+## 来源引用
+
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA%3D%3D&mid=2247496519&idx=1&sn=2adf9db69b25ea0f00dfde36eb91f1ed&chksm=faa12d600f7cd40927f1f603dea8a5c7f2bbdcbe1a1c031a29b7765c432ccd7052a93e9e9f39#rd)｜《HeyGen 发布这个 hyperframes CLI 很强啊》｜来源页面：HeyGen 发布这个 hyperframes CLI 很强啊

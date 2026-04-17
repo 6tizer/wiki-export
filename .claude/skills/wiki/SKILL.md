@@ -1,0 +1,1 @@
+/Users/mac-mini/claude-workspace/wiki-export/wiki-export/.claude/skills/wiki/SKILL.md

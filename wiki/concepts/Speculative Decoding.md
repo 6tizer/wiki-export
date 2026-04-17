@@ -1,0 +1,41 @@
+---
+title: Speculative Decoding
+type: concept
+tags:
+- LLM
+status: 草稿
+confidence: high
+last_compiled: '2026-04-15'
+source_tags: ''
+source_article_url: ''
+notion_url: https://www.notion.so/c372aca9314a459ebcba3c8f7f5bb922
+notion_id: c372aca9-314a-459e-bcba-3c8f7f5bb922
+---
+
+## 定义
+
+Speculative Decoding 是一种大模型推理加速范式。它先由更快的 draft model 生成候选 token，再由更强的 target model 批量验证并提交正确前缀。
+
+## 关键要点
+
+- 核心目标是减少 target model 逐 token 自回归解码的次数
+
+- 加速收益取决于草稿模型质量、验证开销与可提交前缀长度
+
+- DFlash 和 DDTree 都可以视为这一范式下的具体实现路径
+
+- 在工程实践中，batch size、任务类型和命中率都会显著影响真实收益
+
+## 来源引用
+
+- [原文链接](https://x.com/nash_su/status/2043924682802712600)｜《Qwen 推理性能最高提升8倍！》｜项目页：[DDTree](https://liranringel.github.io/ddtree/)｜源文章：DDTree：在 DFlash 基础上再提速，Qwen3 推理性能最高飙升 8 倍
+
+## 关联概念
+
+- [DDTree](concepts/DDTree.md)
+
+- [DFlash](concepts/DFlash.md)
+
+- [Tree Attention](concepts/Tree Attention.md)
+
+- [Block Diffusion](concepts/Block Diffusion.md)
