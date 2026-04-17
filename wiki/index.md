@@ -1,14 +1,14 @@
 ---
 type: index
-total_concepts: 1190
+total_concepts: 1191
 total_entities: 544
-total_syntheses: 48
+total_syntheses: 50
 last_updated: 2026-04-18
 ---
 
 # 📚 知识 Wiki Index
 
-> 1190 concepts · 544 entities · 48 syntheses
+> 1191 concepts · 544 entities · 50 syntheses
 > 导出时间: 2026-04-18
 
 ## 使用方式
@@ -569,6 +569,7 @@ last_updated: 2026-04-18
 - [智能体架构可视化](concepts/智能体架构可视化.md)
 - [模型路由](concepts/模型路由.md)
 - [注意力带宽](concepts/注意力带宽.md)
+- [测试概念：Harness Engineering](concepts/测试概念：Harness Engineering.md)
 - [消息总线](concepts/消息总线.md)
 - [渐进式披露](concepts/渐进式披露.md)
 - [演化式 Harness 优化](concepts/演化式 Harness 优化.md)
@@ -2879,6 +2880,7 @@ last_updated: 2026-04-18
 - [Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进](syntheses/Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进.md)
 - [Coding Agent 多智能体编排：从单体循环到虚拟工程团队的协作范式与架构权衡](syntheses/Coding Agent 多智能体编排：从单体循环到虚拟工程团队的协作范式与架构权衡.md)
 - [Coding Agent 工作流方法论光谱：从验证闭环到自进化开发管线的十种设计模式](syntheses/Coding Agent 工作流方法论光谱：从验证闭环到自进化开发管线的十种设计模式.md)
+- [Coding Agent 开发工具链深度融合：从终端交互到上下文治理的基础设施协同演进](syntheses/Coding Agent 开发工具链深度融合：从终端交互到上下文治理的基础设施协同演进.md)
 - [Coding Agent 开发范式演进：从氛围编程到规范驱动的工程化路径与工具链全景](syntheses/Coding Agent 开发范式演进：从氛围编程到规范驱动的工程化路径与工具链全景.md)
 - [Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式](syntheses/Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式.md)
 - [Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡](syntheses/Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡.md)
@@ -2897,6 +2899,7 @@ last_updated: 2026-04-18
 - [加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂](syntheses/加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂.md)
 - [多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径](syntheses/多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径.md)
 - [大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理](syntheses/大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理.md)
+- [大语言模型商业化分层图谱：从算力竞赛到效率经营的价值捕获路径分化](syntheses/大语言模型商业化分层图谱：从算力竞赛到效率经营的价值捕获路径分化.md)
 - [开发工具如何重塑 Agent 时代的工作流：从部署底座到远程操控的工具化路径演进](syntheses/开发工具如何重塑 Agent 时代的工作流：从部署底座到远程操控的工具化路径演进.md)
 - [知识 Wiki 双轨系统方案：从 Notion 编译引擎到本地 Markdown 分发层](syntheses/知识 Wiki 双轨系统方案：从 Notion 编译引擎到本地 Markdown 分发层.md)
 - [知识 Wiki 系统大升级：V2 设计决策与执行全记录](syntheses/知识 Wiki 系统大升级：V2 设计决策与执行全记录.md)

@@ -5,7 +5,7 @@ tags:
 - Crypto/DeFi
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/aa7e6cad382240faad248452dff468e3
@@ -44,8 +44,4 @@ Agentic DeFi 是 AI Agent 作为 DeFi 协议自主参与者的新范式，Agent 
 
 ## 来源引用
 
-- 摘要：让 DeFi 协议做好迎接 AI Agent 的准备
-
-- 摘要：Crypto 的原住民终于来了
-
-- 摘要：Corporate Audit AI
+- [摘要：Virtuals：把 AI Agent 变成链上经济体，它凭什么有独角兽潜力？](summaries/摘要：Virtuals：把 AI Agent 变成链上经济体，它凭什么有独角兽潜力？.md)

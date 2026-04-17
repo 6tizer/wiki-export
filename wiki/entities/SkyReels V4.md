@@ -5,7 +5,7 @@ tags:
 - 内容创作
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/c420aeb410944931be9d83886566b025
@@ -28,4 +28,4 @@ SkyReels V4 是昆仑万维天工 AI 推出的视频大模型，在 Artificial A
 
 ## 来源引用
 
-- 摘要：刚刚，一口气连发3个王炸模型、亮出2026年AGI战略，昆仑万维夯爆了
+- [摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术](summaries/摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术.md)

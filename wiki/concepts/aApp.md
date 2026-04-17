@@ -5,7 +5,7 @@ tags:
 - Agent 框架
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/71b09e59e2e24091ad8a1175c2f96bca
@@ -56,4 +56,4 @@ aApp（Agentic App）是运行在 rOS 上的 Agent 原生应用形态，以 Agen
 
 **来源引用**
 
-- 《从知识库到 Agent 原生 OS，汪源想为 Agent 造一个操作系统》（极客公园，2026-04-02）
+- [摘要：从知识库到 Agent 原生 OS，汪源想为 Agent 造一个操作系统](summaries/摘要：从知识库到 Agent 原生 OS，汪源想为 Agent 造一个操作系统.md)（极客公园，2026-04-02）

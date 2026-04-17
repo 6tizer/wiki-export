@@ -5,7 +5,7 @@ tags:
 - 内容创作
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/55eb5178a9e14ac587ce99bd235a85ab
@@ -40,4 +40,4 @@ ZeeLin Music 创作者已用 AI 写了上万首歌，出版《一句话玩转 AI
 
 ## 来源引用
 
-- 摘要：这首 AI 歌曲为何戳中所有人，我们从未如此孤独。
+- [摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术](summaries/摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术.md)

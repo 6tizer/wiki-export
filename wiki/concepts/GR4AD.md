@@ -5,7 +5,7 @@ tags:
 - LLM
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/cd8d66f5c12e43c8b554d93c743e2cbf
@@ -28,4 +28,4 @@ notion_id: cd8d66f5-c12e-43c8-b554-d93c743e2cbf
 
 **来源引用**
 
-- 摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术
+- [摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术](summaries/摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术.md)

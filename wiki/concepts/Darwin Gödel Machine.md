@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/9f511bdba82043d58566150aff132dc9
@@ -38,4 +38,6 @@ L4：改控制自身推理和行动的代码
 
 ## 来源引用
 
-- 《循环即实验室》——赛博禅心（微信，2026-04-10），原始文猫arXiv:2505.22954，ICLR 2026
+- [摘要：循环即实验室：八个AI自主研究系统横评](summaries/摘要：循环即实验室：八个AI自主研究系统横评.md)（赛博禅心，微信，2026-04-10）
+
+- [摘要：循环即实验室：八个 AI 自主研究系统横评](summaries/摘要：循环即实验室：八个 AI 自主研究系统横评.md)
