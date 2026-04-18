@@ -30,6 +30,8 @@ Subagents 并行是 Claude Cowork 中的一种多任务执行模式，允许主 
 
 ## 来源引用
 
+- [摘要：这样用 Opus 4.7，才能发挥实力](summaries/摘要：这样用 Opus 4.7，才能发挥实力.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247515662&idx=1&sn=bfcc64cdceb913aef59f697c1ecbfa8d&chksm=c3914681eabbc4c3c559e95297d8d5b85aebabf0c4c93a5d517e6784d086e7b7ff3aa9abee9e#rd)）
+
 - [摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比](summaries/摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比.md)（[原文](https://x.com/servasyy_ai/status/2042951017462169812)，servasyy_ai，2026-04）
 
 - [摘要：让Claude cowork强100倍的17个习惯](summaries/摘要：让Claude cowork强100倍的17个习惯.md)（向量空性，2026-03-03）

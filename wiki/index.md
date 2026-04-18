@@ -1,14 +1,14 @@
 ---
 type: index
-total_concepts: 1193
-total_entities: 559
-total_syntheses: 50
+total_concepts: 1195
+total_entities: 561
+total_syntheses: 52
 last_updated: 2026-04-18
 ---
 
 # 📚 知识 Wiki Index
 
-> 1193 concepts · 559 entities · 50 syntheses
+> 1195 concepts · 561 entities · 52 syntheses
 > 导出时间: 2026-04-18
 
 ## 使用方式
@@ -57,7 +57,6 @@ last_updated: 2026-04-18
 - [Docs Canvas Skill](concepts/Docs Canvas Skill.md)
 - [Extension / Skill 分离](concepts/Extension - Skill 分离.md)
 - [GUI-VLA](concepts/GUI-VLA.md)
-- [Gap Agent](concepts/Gap Agent.md)
 - [Gate MCP Skills](concepts/Gate MCP Skills.md)
 - [Generator 模式](concepts/Generator 模式.md)
 - [Graph of Skills](concepts/Graph of Skills.md)
@@ -119,6 +118,7 @@ last_updated: 2026-04-18
 - [信任分发网络](concepts/信任分发网络.md)
 - [先决条件鸿沟](concepts/先决条件鸿沟.md)
 - [六阶段蒸馏 SOP](concepts/六阶段蒸馏 SOP.md)
+- [关于 Gap Agent](concepts/关于 Gap Agent.md)
 - [内容再利用引擎](concepts/内容再利用引擎.md)
 - [动态工具发现](concepts/动态工具发现.md)
 - [原生搜索生态](concepts/原生搜索生态.md)
@@ -732,6 +732,7 @@ last_updated: 2026-04-18
 - [Generator 模式](concepts/Generator 模式.md)
 - [Goal-Driven Execution](concepts/Goal-Driven Execution.md)
 - [HTTP Hooks](concepts/HTTP Hooks.md)
+- [Headless 模式](concepts/Headless 模式.md)
 - [IRL 模式](concepts/IRL 模式.md)
 - [Idea File](concepts/Idea File.md)
 - [Inversion 模式](concepts/Inversion 模式.md)
@@ -889,6 +890,7 @@ last_updated: 2026-04-18
 - [HarnessCode](entities/HarnessCode.md)
 - [Hermes Agent Self-Evolution](entities/Hermes Agent Self-Evolution.md)
 - [Kimi K2.6](entities/Kimi K2.6.md)
+- [Kiro CLI](entities/Kiro CLI.md)
 - [LiveCodeBench](entities/LiveCodeBench.md)
 - [Logo Generator](entities/Logo Generator.md)
 - [MLE-Bench Lite](entities/MLE-Bench Lite.md)
@@ -917,6 +919,7 @@ last_updated: 2026-04-18
 - [Terminal Bench 2](entities/Terminal Bench 2.md)
 - [TradingView MCP Bridge](entities/TradingView MCP Bridge.md)
 - [Trae](entities/Trae.md)
+- [TypeUI](entities/TypeUI.md)
 - [Vibe Island](entities/Vibe Island.md)
 - [Windsurf](entities/Windsurf.md)
 - [X导师.skill](entities/X导师.skill.md)
@@ -928,6 +931,7 @@ last_updated: 2026-04-18
 - [claude-obsidian](entities/claude-obsidian.md)
 - [code-review-graph](entities/code-review-graph.md)
 - [codex-plugin-cc](entities/codex-plugin-cc.md)
+- [design-md-chrome](entities/design-md-chrome.md)
 - [fireworks-tech-graph](entities/fireworks-tech-graph.md)
 - [free-claude-code](entities/free-claude-code.md)
 - [gpt-image-1.5](entities/gpt-image-1.5.md)
@@ -1211,6 +1215,7 @@ last_updated: 2026-04-18
 - [Shared global mask](concepts/Shared global mask.md)
 - [Simple Self-Distillation](concepts/Simple Self-Distillation.md)
 - [Speculative Decoding](concepts/Speculative Decoding.md)
+- [Step 3.5 Flash](concepts/Step 3.5 Flash.md)
 - [Subliminal Learning](concepts/Subliminal Learning.md)
 - [System Prompt 工程](concepts/System Prompt 工程.md)
 - [System Prompt 泄露](concepts/System Prompt 泄露.md)
@@ -1400,7 +1405,6 @@ last_updated: 2026-04-18
 - [SGLang](entities/SGLang.md)
 - [Sora](entities/Sora.md)
 - [Stargate](entities/Stargate.md)
-- [Step 3.5 Flash](entities/Step 3.5 Flash.md)
 - [SuperGemma4-26B-Abliterated-Multimodal](entities/SuperGemma4-26B-Abliterated-Multimodal.md)
 - [TradingAgents-CN](entities/TradingAgents-CN.md)
 - [VoxCPM](entities/VoxCPM.md)
@@ -2111,6 +2115,7 @@ last_updated: 2026-04-18
 - [Git 组织协议](concepts/Git 组织协议.md)
 - [HTTP Hooks](concepts/HTTP Hooks.md)
 - [Handoff 文档](concepts/Handoff 文档.md)
+- [Headless 模式](concepts/Headless 模式.md)
 - [Heat Seeking Missile for Pain](concepts/Heat Seeking Missile for Pain.md)
 - [Hook Factory](concepts/Hook Factory.md)
 - [Human in the Loop](concepts/Human in the Loop.md)
@@ -2529,6 +2534,7 @@ last_updated: 2026-04-18
 - [camoufox-cli](entities/camoufox-cli.md)
 - [code-review-graph](entities/code-review-graph.md)
 - [db9](entities/db9.md)
+- [design-md-chrome](entities/design-md-chrome.md)
 - [feedgrab](entities/feedgrab.md)
 - [fireworks-tech-graph](entities/fireworks-tech-graph.md)
 - [hyperframes](entities/hyperframes.md)
@@ -2565,7 +2571,6 @@ last_updated: 2026-04-18
 - [Diarization](concepts/Diarization.md)
 - [FTS5 全文检索](concepts/FTS5 全文检索.md)
 - [GEO 提示词](concepts/GEO 提示词.md)
-- [Gap Agent](concepts/Gap Agent.md)
 - [GitHub 私有仓库](concepts/GitHub 私有仓库.md)
 - [GraphRAG](concepts/GraphRAG.md)
 - [Handoff 文档](concepts/Handoff 文档.md)
@@ -2579,7 +2584,6 @@ last_updated: 2026-04-18
 - [Memex](concepts/Memex.md)
 - [Memory Wiki](concepts/Memory Wiki.md)
 - [Notion AI 上下文注入架构](concepts/Notion AI 上下文注入架构.md)
-- [Notion AI（Wiki 协调者）](concepts/Notion AI（Wiki 协调者）.md)
 - [Notion 页面作为 AI 共享记忆接口](concepts/Notion 页面作为 AI 共享记忆接口.md)
 - [Notion 风格 Markdown](concepts/Notion 风格 Markdown.md)
 - [OSINT 情报聚合](concepts/OSINT 情报聚合.md)
@@ -2592,11 +2596,6 @@ last_updated: 2026-04-18
 - [Schema 结构化数据](concepts/Schema 结构化数据.md)
 - [SemHash](concepts/SemHash.md)
 - [Skill Graph](concepts/Skill Graph.md)
-- [Wiki Compiler](concepts/Wiki Compiler.md)
-- [Wiki Fixer](concepts/Wiki Fixer.md)
-- [Wiki Lint Agent](concepts/Wiki Lint Agent.md)
-- [Wiki QA Agent](concepts/Wiki QA Agent.md)
-- [Wiki Synthesizer](concepts/Wiki Synthesizer.md)
 - [Wiki 健康检查](concepts/Wiki 健康检查.md)
 - [X 信息源矩阵](concepts/X 信息源矩阵.md)
 - [X 列表](concepts/X 列表.md)
@@ -2616,6 +2615,13 @@ last_updated: 2026-04-18
 - [信源分级体系](concepts/信源分级体系.md)
 - [假设卡片](concepts/假设卡片.md)
 - [六镜头研究法](concepts/六镜头研究法.md)
+- [关于 Gap Agent](concepts/关于 Gap Agent.md)
+- [关于 Notion AI（Wiki 协调者）](concepts/关于 Notion AI（Wiki 协调者）.md)
+- [关于 Wiki Compiler](concepts/关于 Wiki Compiler.md)
+- [关于 Wiki Fixer](concepts/关于 Wiki Fixer.md)
+- [关于 Wiki Lint Agent](concepts/关于 Wiki Lint Agent.md)
+- [关于 Wiki QA Agent](concepts/关于 Wiki QA Agent.md)
+- [关于 Wiki Synthesizer](concepts/关于 Wiki Synthesizer.md)
 - [历时分析与共时分析](concepts/历时分析与共时分析.md)
 - [原生搜索生态](concepts/原生搜索生态.md)
 - [双向链接](concepts/双向链接.md)
@@ -2688,6 +2694,7 @@ last_updated: 2026-04-18
 - [Social CLI](entities/Social CLI.md)
 - [Spool](entities/Spool.md)
 - [TrustGraph](entities/TrustGraph.md)
+- [TypeUI](entities/TypeUI.md)
 - [YouMind](entities/YouMind.md)
 - [Z-Library](entities/Z-Library.md)
 - [claude-obsidian](entities/claude-obsidian.md)
@@ -2918,6 +2925,7 @@ last_updated: 2026-04-18
 - [Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式](syntheses/Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式.md)
 - [Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡](syntheses/Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡.md)
 - [Coding Agent 记忆系统设计范式：从成本优先的层级压缩到协议驱动的跨项目知识迁移](syntheses/Coding Agent 记忆系统设计范式：从成本优先的层级压缩到协议驱动的跨项目知识迁移.md)
+- [Crypto/DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径](syntheses/Crypto-DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径.md)
 - [LLM 与 Agent 编排的交叉地带：从模型路由到群体智能的多模型协作范式演进](syntheses/LLM 与 Agent 编排的交叉地带：从模型路由到群体智能的多模型协作范式演进.md)
 - [LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略](syntheses/LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略.md)
 - [Notion AI Agent 能力边界与「指挥部」演进路径：从知识库到执行中枢](syntheses/Notion AI Agent 能力边界与「指挥部」演进路径：从知识库到执行中枢.md)
@@ -2927,6 +2935,7 @@ last_updated: 2026-04-18
 - [OpenClaw 技能生态深度解剖：从技能文件到自进化能力系统的架构分层与市场格局](syntheses/OpenClaw 技能生态深度解剖：从技能文件到自进化能力系统的架构分层与市场格局.md)
 - [OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比](syntheses/OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比.md)
 - [OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱](syntheses/OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱.md)
+- [从知识获取到技能封装：Agent 技能与知识管理的双向融合路径](syntheses/从知识获取到技能封装：Agent 技能与知识管理的双向融合路径.md)
 - [从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施](syntheses/从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施.md)
 - [加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进](syntheses/加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进.md)
 - [加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂](syntheses/加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂.md)

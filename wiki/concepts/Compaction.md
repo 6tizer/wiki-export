@@ -53,6 +53,8 @@ Compaction 是 Anthropic Harness 工程指南中推荐的一种**上下文压缩
 
 ## 来源引用
 
+- [摘要：这样用 Opus 4.7，才能发挥实力](summaries/摘要：这样用 Opus 4.7，才能发挥实力.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247515662&idx=1&sn=bfcc64cdceb913aef59f697c1ecbfa8d&chksm=c3914681eabbc4c3c559e95297d8d5b85aebabf0c4c93a5d517e6784d086e7b7ff3aa9abee9e#rd)）
+
 - 《Claude Code Auto Dream 记忆整理功能深度解析》— 数字生命卡兹克（微信）
 
 - 《OpenClaw 深度使用指南：10 个让 Agent 越用越顺手的实战技巧》（sitinme，X书签）— 从实操角度补充手动 /compact 与外部状态文件的搭配策略

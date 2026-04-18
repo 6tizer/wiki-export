@@ -51,6 +51,8 @@ notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 
 - [摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活](summaries/摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk0MjM4Mjc1Mw%3D%3D&mid=2247491139&idx=1&sn=2171d0f8e6e16fc6ba280948b5afa2c6&chksm=c361e5fb85975dba21cb8a655c8654d851dbbf508e8114d091e09d81824750ab3f13c0de9549#rd)）
 
+- [摘要：昨天才开源的浏览器扩展：一键获取任意网站 DESIGN.md](summaries/摘要：昨天才开源的浏览器扩展：一键获取任意网站 DESIGN.md.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MDc2OTQwMw%3D%3D&mid=2456446097&idx=1&sn=3af45a46ce3ee45352e8dd2f7ee413c3&chksm=8943077d2f9183c84189f4fd3139c21b605914b6c441ce81f1a33e60da1a82bf67439eb3a916#rd)）
+
 ## 关联概念
 
 - [Agent Skills](concepts/Agent Skills.md)
@@ -86,3 +88,7 @@ notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 - [面试追问链](concepts/面试追问链.md)
 
 - [标题公式](concepts/标题公式.md)
+
+- [TypeUI](entities/TypeUI.md)
+
+- [design-md-chrome](entities/design-md-chrome.md)

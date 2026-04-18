@@ -4,7 +4,7 @@ type: entity
 tags:
 - Agent 框架
 - Crypto/DeFi
-status: 草稿
+status: 已审核
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''

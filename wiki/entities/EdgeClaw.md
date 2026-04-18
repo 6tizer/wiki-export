@@ -6,7 +6,7 @@ tags:
 - 记忆系统
 status: 审核中
 confidence: high
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/57a0c446447245729c98a2fa2c3ece4b
@@ -45,4 +45,4 @@ EdgeClaw 内置 ClawXRouter 端云协同架构：
 
 - 《EdgeClaw 2.0：把 Claude Code 的顶级记忆系统注入开源 AI Agent 生态》｜X书签文章｜原文链接：[https://x.com/berryxia/status/2039376439204774093](https://x.com/berryxia/status/2039376439204774093)｜来源条目：[摘要：EdgeClaw 2.0：把 Claude Code 的顶级记忆系统注入开源 AI Agent 生态](summaries/摘要：EdgeClaw 2.0：把 Claude Code 的顶级记忆系统注入开源 AI Agent 生态.md)
 
-- 摘要：龙虾成本狂降58%！ClawXRouter开源智能调度员
+- [摘要：龙虾成本狂陆58%！ClawXRouter开源智能调度员](summaries/摘要：龙虾成本狂陆58%！ClawXRouter开源智能调度员.md)

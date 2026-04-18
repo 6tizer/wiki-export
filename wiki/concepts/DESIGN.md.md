@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/73065867e3bc49ada6a200e7a05f8ddb
@@ -29,3 +29,11 @@ notion_id: 73065867-e3bc-49ad-a6a2-00e7a05f8ddb
 - [原文链接](https://x.com/yangyi/status/2040272305277079728)｜《[DESIGN.md](http://design.md/)：用一个 Markdown 文件，让 AI 永远记住你的设计系统》｜源文章：DESIGN.md：用一个 Markdown 文件，让 AI 永远记住你的设计系统
 
 - [原文链接](https://x.com/0xKingsKuan/status/2040357839714275647)｜《Google Stitch 2.0 + Claude Code：独立开发者终于有了自己的设计师》｜源文章：Google Stitch 2.0 + Claude Code：独立开发者终于有了自己的设计师
+
+- [摘要：昨天才开源的浏览器扩展：一键获取任意网站 DESIGN.md](summaries/摘要：昨天才开源的浏览器扩展：一键获取任意网站 DESIGN.md.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MDc2OTQwMw%3D%3D&mid=2456446097&idx=1&sn=3af45a46ce3ee45352e8dd2f7ee413c3&chksm=8943077d2f9183c84189f4fd3139c21b605914b6c441ce81f1a33e60da1a82bf67439eb3a916#rd)）
+
+## 关联概念
+
+- [TypeUI](entities/TypeUI.md)
+
+- [design-md-chrome](entities/design-md-chrome.md)

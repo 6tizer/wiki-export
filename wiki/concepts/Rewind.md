@@ -6,7 +6,7 @@ tags:
 - 记忆系统
 status: 草稿
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/65563cf3325540f0aed6199796b602f9
@@ -28,6 +28,8 @@ Rewind 是 Claude Code 的会话回退机制，允许回到某个历史消息点
 - 在长任务里，每一轮回复都可能成为新的分叉点，因此回退能力本身就是上下文管理工具
 
 ## 来源引用
+
+- [摘要：这样用 Opus 4.7，才能发挥实力](summaries/摘要：这样用 Opus 4.7，才能发挥实力.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247515662&idx=1&sn=bfcc64cdceb913aef59f697c1ecbfa8d&chksm=c3914681eabbc4c3c559e95297d8d5b85aebabf0c4c93a5d517e6784d086e7b7ff3aa9abee9e#rd)）
 
 - [原文链接](https://x.com/trq212/status/2044548257058328723)｜《Using Claude Code: Session Management & 1M Context》｜源文章：Claude Code 会话管理指南：如何驾驭 100 万 Token 的上下文窗口
 
