@@ -32,9 +32,15 @@ Codex 插件系统 是围绕 Codex 构建的可扩展能力层，用技能包形
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247515602&idx=1&sn=1b46eb01028eae027c8670917c82299b&chksm=c39464836558ed516d629ccba40c5ce4691f4ac48cb60cb1204a46c672c42091dc39da720fa4#rd)｜《Codex 重大更新，全面解读》｜来源条目：[摘要：Codex 重大更新，全面解读](summaries/摘要：Codex 重大更新，全面解读.md)
 
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzI4MTIzNDE2NA%3D%3D&mid=2247484788&idx=1&sn=cba1aa9f29e886f730d0178eef8f1a03&chksm=ea5f4895b2405b442b52d72b68edbdd49a7375e2eb08bb943ca674778d50fd46582b0fd37b90#rd)｜《我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线》｜来源条目：[摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线](summaries/摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线.md)
+
 ## 关联概念
 
 - [Codex](entities/Codex.md)
+
+- [Skills Pipeline](concepts/Skills Pipeline.md)
+
+- [角色型 Agent](concepts/角色型 Agent.md)
 
 - [Plugin Marketplace](concepts/Plugin Marketplace.md)
 

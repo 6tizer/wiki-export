@@ -6,7 +6,7 @@ tags:
 - LLM
 status: 审核中
 confidence: high
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/71e1b901a32e499a95475faf4e53bce5
@@ -60,6 +60,8 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 - 有道宝库（国内产品化方案，带溯源问答）
 
 ## 关联概念
+
+- [LanceDB](concepts/LanceDB.md)
 
 - [Idea File](concepts/Idea File.md)
 
@@ -137,13 +139,15 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 
 ## 来源引用
 
-- 摘要：Karpathy又双叒叕发新概念了（花叔，2026-04-07）
+- [摘要：让 AI 帮你自动打理个人知识库，把你的各种文档自动整理成一套相互关联、持续更新的个人维基](summaries/摘要：让 AI 帮你自动打理个人知识库，把你的各种文档自动整理成一套相互关联、持续更新的个人维基.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2MjY1NDIzNg%3D%3D&mid=2247499264&idx=1&sn=4a31c6e7999e7ba2cac50fe8f189c5ca&chksm=cfd4f4f5944b48a7b7a4a628eb12f5ede6b88f74d5471ab8cc43a53c661ff1cc77689da97efb#rd)）
 
-- 摘要：实操指南：如何用Karpathy的LLM+Markdown+Wiki搭建个人知识库（Alphana和大船的AI工作区，2026-04-10）
+- [摘要：Karpathy 又双叒叕发新概念了，这次我替你找到了那个产品](summaries/摘要：Karpathy 又双叒叕发新概念了，这次我替你找到了那个产品.md)（花叔，2026-04-07）
 
-- 摘要：Andrej Karpathy现在成了一个超级AI明星（MacTalk，2026-04-07）
+- [摘要：实操指南：如何用 Karpathy 的 LLM + Markdown + Wiki 搭建个人知识库](summaries/摘要：实操指南：如何用 Karpathy 的 LLM + Markdown + Wiki 搭建个人知识库.md)（Alphana和大船的AI工作区，2026-04-10）
 
-- 摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。（开源星探，2026-04-11）
+- [摘要：Andrej Karpathy 现在成了一个超级 AI 明星。他最近主推的一个 LLM+ MD + Wiki 的个人知识库特别火](summaries/摘要：Andrej Karpathy 现在成了一个超级 AI 明星。他最近主推的一个 LLM+ MD + Wiki 的个人知识库特别火.md)（MacTalk，2026-04-07）
+
+- [摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。](summaries/摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。.md)（开源星探，2026-04-11）
 
 - 《用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践》｜X书签文章｜原文链接：[https://x.com/yanhua1010/status/2039966047378583815](https://x.com/yanhua1010/status/2039966047378583815)｜来源条目：[摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践](summaries/摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践.md)
 

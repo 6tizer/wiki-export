@@ -5,7 +5,7 @@ tags:
 - 商业/生态
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f7bf57a9331043c38914550648f2465c
@@ -58,6 +58,8 @@ GEO 的核心目标是让品牌在 AI 助手生成回答时被引用、被推荐
 
 - [原文链接](https://x.com/laoyaoke/status/2039243404685803619)｜《姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存》｜来源条目：摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存
 
+- [摘要：用 Rust 从零构建企业级 GEO 平台，这个时代，就该考虑为AI 搜索重新定义品牌可见度](summaries/摘要：用 Rust 从零构建企业级 GEO 平台，这个时代，就该考虑为AI 搜索重新定义品牌可见度.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkxNzY0OTA4Mg%3D%3D&mid=2247493249&idx=1&sn=4e3fc5d69bcceb0789e115e5d7d05d7d&chksm=c0cf5ae96e93e68df92027ef56ea2eb1500853b7aefb103779b186837e67324c8f6fd346df90#rd)）
+
 ## 关联概念
 
 - [GEO-SEO Claude Code Skill](concepts/GEO-SEO Claude Code Skill.md)
@@ -67,3 +69,13 @@ GEO 的核心目标是让品牌在 AI 助手生成回答时被引用、被推荐
 - [GEO 提示词](concepts/GEO 提示词.md)
 
 - [Claude Code](entities/Claude Code.md)
+
+- [GEO-bench](concepts/GEO-bench.md)
+
+- [Citation Score](concepts/Citation Score.md)
+
+- [Qdrant](entities/Qdrant.md)
+
+- [Ollama](entities/Ollama.md)
+
+- [RLS 行级安全策略](concepts/RLS 行级安全策略.md)

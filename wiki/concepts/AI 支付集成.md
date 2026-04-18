@@ -5,7 +5,7 @@ tags:
 - 商业/生态
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/06fe52cdc7154d31b4c45f0c8c722191
@@ -30,6 +30,8 @@ notion_id: 06fe52cd-c715-4d31-b4c4-5f0c8c722191
 
 - [摘要：支付宝官方 Skill 刚刚上线 ModelScope：AI 支付进入「官方背书」时代](summaries/摘要：支付宝官方 Skill 刚刚上线 ModelScope：AI 支付进入「官方背书」时代.md)
 
+- [摘要：用开源中转统一接入Claude/OpenAI/Gemini：Sub2API核心功能解析](summaries/摘要：用开源中转统一接入Claude-OpenAI-Gemini：Sub2API核心功能解析.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk0MjcxOTM2Nw%3D%3D&mid=2247502925&idx=1&sn=c5f44b38c0c75259cd2c498915216ee2&chksm=c299a356e1d1244e5ffda156d54336f50b545a4015f3df40854f080b1caedf90457af895153b#rd)）
+
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA%3D%3D&mid=2653588165&idx=1&sn=0e0410e1d88cc5ad869c483fbd623864&chksm=8117dbc85ccbaa434bf29379eae62e8bcf7369e5d40eb167b51fe0d75aedc4c94a5c5efd5171#rd)｜《开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！》｜来源条目：[摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！](summaries/摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！.md)
 
 ## 关联概念
@@ -41,3 +43,5 @@ notion_id: 06fe52cd-c715-4d31-b4c4-5f0c8c722191
 - [Agent 经济闭环](concepts/Agent 经济闭环.md)
 
 - [Agent 支付协议](concepts/Agent 支付协议.md)
+
+- [Sub2API](entities/Sub2API.md)

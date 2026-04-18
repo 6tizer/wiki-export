@@ -6,7 +6,7 @@ tags:
 - 商业/生态
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/c0ff002c86f541ab9acd0fcab3b4e679
@@ -69,6 +69,8 @@ wechat-cli项目等实际项目均由GLM-5.1赞助开发，展示了其在长程
 
 - [原文链接](https://x.com/Zai_org/status/2044741938604093443)｜《GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」》｜来源条目：[摘要：GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」](summaries/摘要：GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」.md)
 
+- [摘要：各家Coding Plan为啥不兼容Claude WebSearch格式](summaries/摘要：各家Coding Plan为啥不兼容Claude WebSearch格式.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyOTY1NzMzNg%3D%3D&mid=2247489376&idx=1&sn=722c4f2ba5f82432e7abff79079f8bef&chksm=c3cb3b3b7b865b2b1cf89b3ea79ebe2a03d32fb1e8749f2f334e444c518356d58f2af2b2561f#rd)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)
@@ -88,3 +90,11 @@ wechat-cli项目等实际项目均由GLM-5.1赞助开发，展示了其在长程
 - [SGLang](entities/SGLang.md)
 
 - [Chat Template](concepts/Chat Template.md)
+
+- [Claude Code](entities/Claude Code.md)
+
+- [Anthropic API](entities/Anthropic API.md)
+
+- [WebSearch](concepts/WebSearch.md)
+
+- [WebFetch](concepts/WebFetch.md)

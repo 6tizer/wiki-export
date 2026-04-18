@@ -27,6 +27,8 @@ notion_id: cef838ab-7418-4abe-8b98-007cf72a8bd5
 
 - 2026-04-15｜《Velocity Card》｜X 线程：Windsurf 2.0 发布与讨论｜原文链接：[https://x.com/windsurf/status/2044513219730186732](https://x.com/windsurf/status/2044513219730186732)｜源页面：Windsurf 2.0：把 IDE 变成 Agent 指挥中心，关上电脑代码还在跑
 
+- 2026-04-18｜《我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线》｜来源条目：[摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线](summaries/摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线.md)｜原文链接：[https://mp.weixin.qq.com/s?__biz=MzI4MTIzNDE2NA==&mid=2247484788&idx=1&sn=cba1aa9f29e886f730d0178eef8f1a03&chksm=ea5f4895b2405b442b52d72b68edbdd49a7375e2eb08bb943ca674778d50fd46582b0fd37b90#rd](https://mp.weixin.qq.com/s?__biz=MzI4MTIzNDE2NA%3D%3D&mid=2247484788&idx=1&sn=cba1aa9f29e886f730d0178eef8f1a03&chksm=ea5f4895b2405b442b52d72b68edbdd49a7375e2eb08bb943ca674778d50fd46582b0fd37b90#rd)
+
 ### 关联概念
 
 - Windsurf
@@ -36,3 +38,7 @@ notion_id: cef838ab-7418-4abe-8b98-007cf72a8bd5
 - Cascade Flows
 
 - Agent Command Center
+
+- [Skills Pipeline](concepts/Skills Pipeline.md)
+
+- [角色型 Agent](concepts/角色型 Agent.md)
