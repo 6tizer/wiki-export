@@ -31,6 +31,8 @@ ALIVE 是文中作者正在推进的一个 **structured context substrate** 项�
 
 - [原文链接](https://x.com/witcheer/status/2044456778843238689)｜《I Went Through Every AI Memory Tool I Could Find. There Are Two Camps.》｜源文章：AI 记忆工具的两大范式：Memory Backend vs Context Substrate，你用的是哪种？
 
+- 摘要：I Went Through Every AI Memory Tool I Could Find. There Are Two Camps.（[原文](https://x.com/witcheer/status/2044456778843238689)）
+
 ## 关联概念
 
 - [Context Engineering](concepts/Context Engineering.md)

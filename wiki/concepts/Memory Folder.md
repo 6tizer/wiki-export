@@ -34,4 +34,4 @@ Memory Folder 是 Anthropic Harness 工程指南中推荐的一种**记忆持久
 
 ## 来源引用
 
-- 《Claude Code Auto Dream 记忆整理功能深度解析》— 数字生命卡兹克（微信）
+- [摘要：Claude Code Auto Dream 记忆整理功能深度解析](summaries/摘要：Claude Code Auto Dream 记忆整理功能深度解析.md)（数字生命卡兹克，微信）

@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-14'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/48ff78c527b046edb6e5cee2ce5f5382
@@ -30,17 +30,17 @@ Subagents 并行是 Claude Cowork 中的一种多任务执行模式，允许主 
 
 ## 来源引用
 
-- [原文链接](https://x.com/servasyy_ai/status/2042951017462169812)｜《同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比》｜来源条目：[摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比](summaries/摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比.md)
+- [摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比](summaries/摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比.md)（[原文](https://x.com/servasyy_ai/status/2042951017462169812)，servasyy_ai，2026-04）
 
-- 《让Claude cowork强100倍的17个习惯》（向量空性，2026-03-03）— 将 Subagents 并行列为第十个核心习惯
+- [摘要：让Claude cowork强100倍的17个习惯](summaries/摘要：让Claude cowork强100倍的17个习惯.md)（向量空性，2026-03-03）
 
-- [原文链接](https://x.com/akshay_pachaar/status/2033456347354996815)｜《Claude Subagents vs Agent Teams：别过早引入多智能体，复杂度需要被赚到》｜来源条目：[摘要：Claude Subagents vs Agent Teams：别过早引入多智能体，复杂度需要被赚到](summaries/摘要：Claude Subagents vs Agent Teams：别过早引入多智能体，复杂度需要被赚到.md)
+- [摘要：Claude Subagents vs Agent Teams：别过早引入多智能体，复杂度需要被赚到](summaries/摘要：Claude Subagents vs Agent Teams：别过早引入多智能体，复杂度需要被赚到.md)（[原文](https://x.com/akshay_pachaar/status/2033456347354996815)，akshay_pachaar，2026-01）
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488335&idx=1&sn=ece0fb7411d313acd1c583c84b748538&chksm=971ff5041a501710ae6c94e032c8f8d009fe38dd0edd9fbf16d3d392baedc9c670020c3bf213#rd)｜《MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流》｜来源条目：[摘要：MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流](summaries/摘要：MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流.md)
+- [摘要：MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流](summaries/摘要：MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488335&idx=1&sn=ece0fb7411d313acd1c583c84b748538)，微信，2026-03）
 
-- [原文链接](https://x.com/trq212/status/2044548257058328723)｜《Using Claude Code: Session Management & 1M Context》｜来源条目：[摘要：Using Claude Code: Session Management & 1M Context](summaries/摘要：Using Claude Code- Session Management & 1M Context.md)
+- [摘要：Using Claude Code: Session Management & 1M Context](summaries/摘要：Using Claude Code- Session Management & 1M Context.md)（[原文](https://x.com/trq212/status/2044548257058328723)，trq212，2026-04）
 
-- [原文链接](https://x.com/AYi_AInotes/status/2044625894556230013)｜《说实话，这才是Anthropic今年最有价值的更新啊，没有之一！！！》｜来源条目：[摘要：说实话，这才是Anthropic今年最有价值的更新啊，没有之一！！！](summaries/摘要：说实话，这才是Anthropic今年最有价值的更新啊，没有之一！！！.md)
+- [摘要：说实话，这才是Anthropic今年最有价值的更新啊，没有之一！！！](summaries/摘要：说实话，这才是Anthropic今年最有价值的更新啊，没有之一！！！.md)（[原文](https://x.com/AYi_AInotes/status/2044625894556230013)，AYi_AInotes，2026-04）
 
 ## 关联概念
 

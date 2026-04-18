@@ -35,4 +35,4 @@ notion_id: 263d46a0-8f2e-4695-aa04-1c9ccdd5cf01
 
 - [原文链接](https://x.com/AYi_AInotes/status/2043033290014147063)｜[摘要：LangChain创始人Harrison Chase这篇，直接点透了现在所有AI Agent的核心问题。](summaries/摘要：LangChain创始人Harrison Chase这篇，直接点透了现在所有AI Agent的核心问题。.md)
 
-- [原文链接](https://x.com/AI_jacksaku/status/2042880330160316846)｜《加粗》｜来源条目：MarkItDown：微软开源的文件转 Markdown 神器，RAG 数据预处理的新标配
+- [摘要：加粗](summaries/摘要：加粗.md)（[原文](https://x.com/AI_jacksaku/status/2042880330160316846)，来源条目）

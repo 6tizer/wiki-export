@@ -43,4 +43,4 @@ GLM-5-Turbo 是智谱发布的全球首个**专为 OpenClaw/Claws 优化**的大
 
 - [摘要：GLM-5-Turbo实测：教你降低60%养虾成本](summaries/摘要：GLM-5-Turbo实测：教你降低60%养虾成本.md)
 
-- [原文链接](https://x.com/oran_ge/status/2033420708815208868)｜《GLM-5-Turbo：全球首个为 OpenClaw 龙虾训练的专属大模型》｜来源条目：[摘要：GLM-5-Turbo：全球首个为 OpenClaw 龙虾训练的专属大模型](summaries/摘要：GLM-5-Turbo：全球首个为 OpenClaw 龙虾训练的专属大模型.md)
+- [摘要：GLM-5-Turbo：全球首个为 OpenClaw 龙虾训练的专属大模型](summaries/摘要：GLM-5-Turbo：全球首个为 OpenClaw 龙虾训练的专属大模型.md)（[原文](https://x.com/oran_ge/status/2033420708815208868)，oran_ge，2026-01）

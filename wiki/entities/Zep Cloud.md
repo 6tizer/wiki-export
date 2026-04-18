@@ -27,3 +27,5 @@ Zep Cloud 是一类面向 Agent 的长期记忆与会话上下文服务，用于
 ## 来源引用
 
 - [原文链接](https://x.com/Saccc_c/status/2030909809676149098)｜《MiroFish：一个大四学生用 10 天「vibe coding」出来的 AI 未来预测引擎》｜来源条目：MiroFish：一个大四学生用 10 天「vibe coding」出来的 AI 未来预测引擎
+
+- 摘要：I Went Through Every AI Memory Tool I Could Find. There Are Two Camps.（[原文](https://x.com/witcheer/status/2044456778843238689)）

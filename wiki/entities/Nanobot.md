@@ -48,10 +48,10 @@ NanoClaw（不同文章中的叫法差异，实为同一项目）
 
 ## 来源引用
 
-- 摘要：ClawWork AI 经济压力测试框架（开源星探，2026-02-18）
+- [摘要：ClawWork AI 经济压力测试框架](summaries/摘要：ClawWork AI 经济压力测试框架.md)（开源星探，2026-02-18）
 
   - GitHub: [https://github.com/HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 
-- 《300万人围观，Karpathy怒喷OpenClaw。然后推荐了一个500行的替代品。》（探索AGI，2026-02-27）
+- [摘要：300万人围观，Karpathy怒喷OpenClaw。然后推荐了一个500行的替代品。](summaries/摘要：300万人围观，Karpathy怒喷OpenClaw。然后推荐了一个500行的替代品。.md)（探索AGI，2026-02-27）
 
   - GitHub: [https://github.com/qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)

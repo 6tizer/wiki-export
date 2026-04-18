@@ -21,7 +21,7 @@ Karpathy 提出用 LLM 算力构建个人知识库（原始资料→LLM编译→
 
 - Karpathy 将 LLM 算力从写代码转向"建知识库"，积累100+篇文章、40万字可问答的 Wiki
 
-- 核心思想：原始资料→LLM自动整理关联→Markdown Wiki→问答/可视化
+- 核心思想：raw/ 目录 → LLM 自动整理关联 → Markdown Wiki → 问答/可视化
 
 - Karpathy 本人承认需要"一个真正的产品，而不是一堆拼凑的脚本"
 

@@ -6,7 +6,7 @@ tags:
 - 内容创作
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0e95b32426ac47c9b1d7927ab2e2abb1
@@ -27,4 +27,4 @@ notion_id: 0e95b324-26ac-47c9-b1d7-927ab2e2abb1
 
 ### 来源引用
 
-- [How to go from zero to 1M views using AI content systems](https://x.com/sharbel/status/2044055375612133727) ｜ X书签 ｜ @sharbel ｜ 2026/04/14 ｜ 源条目：用 AI 内容系统从零到百万播放：一套可复制的流水线
+- 摘要：How to go from zero to 1M views using AI content systems（[原文](https://x.com/sharbel/status/2044055375612133727)）

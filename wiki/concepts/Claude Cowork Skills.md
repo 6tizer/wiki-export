@@ -28,6 +28,6 @@ Claude Cowork Skills 是 Anthropic 推出的一种结构化知识包，包含指
 
 ## 来源引用
 
-- 《我研究了Anthropic金融服务Plugin仓库》（老码小张, 2026-02-28）— Skills 概念详细分析
+- [摘要：我研究了Anthropic这个金融服务Plugin仓库，发现AI正在做一件比写代码更可怕的事](summaries/摘要：我研究了Anthropic这个金融服务Plugin仓库，发现AI正在做一件比写代码更可怕的事.md)（老码小张，2026-02-28）
 
-- 《让Claude cowork强100倍的17个习惯》（向量空性，2026-03-03）— 总结 17 个 Cowork 效率习惯，涵盖自定义 Skill 文件构建、Plugin Management 对话式建插件等实践
+- [摘要：让Claude cowork强100倍的17个习惯](summaries/摘要：让Claude cowork强100倍的17个习惯.md)（向量空性，2026-03-03）

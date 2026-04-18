@@ -48,9 +48,23 @@ Claude Code Hooks 是 Claude Code 2.1 引入的事件驱动钩子机制，允许
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzIyOTY1ODAzNQ%3D%3D&mid=2247484861&idx=1&sn=53c1d6917185609b0f7342e8a06958cf&chksm=e9dd96a4a2b2e8e3b8f6566016312d36df186b16e1f374bd1dd87659ad8b5d9649bbdc1cd05f#rd)｜[摘要：这个开源工具太猛了！让 Claude Code 成本爆降 89%](summaries/摘要：这个开源工具太猛了！让 Claude Code 成本爆降 89%.md)
 
+- [摘要：打造可靠的 AI 编程环境：Claude Code Hooks 完整开发者指南](summaries/摘要：打造可靠的 AI 编程环境：Claude Code Hooks 完整开发者指南.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5NzA1NzMyOQ%3D%3D&mid=2247486947&idx=1&sn=92ca2b4f44cadd181eb6b40087a2531b&chksm=a7e11bb1d385c29bce1587e79207574fba3835086a7fbed287fbf12e86194e37111fb2982d78#rd)）
+
 ## 关联概念
 
 - [Claude Code](entities/Claude Code.md)
+
+- [PreToolUse](concepts/PreToolUse.md)
+
+- [PostToolUse](concepts/PostToolUse.md)
+
+- [Command Hooks](concepts/Command Hooks.md)
+
+- [HTTP Hooks](concepts/HTTP Hooks.md)
+
+- [Prompt Hooks](concepts/Prompt Hooks.md)
+
+- [Agent Hooks](concepts/Agent Hooks.md)
 
 - [CLAUDE.md](concepts/CLAUDE.md.md)
 

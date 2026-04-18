@@ -5,7 +5,7 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f017ef06f33f4f6fb3f9f09740bd4063
@@ -72,6 +72,8 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 
 - [原文链接](https://x.com/jiroucaigou/status/2044249069699428665)｜《Hermes Agent新手教程：从入门到精通，附带变现方式》｜来源条目：[摘要：Hermes Agent新手教程：从入门到精通，附带变现方式](summaries/摘要：Hermes Agent新手教程：从入门到精通，附带变现方式.md)
 
+- [摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活](summaries/摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk0MjM4Mjc1Mw%3D%3D&mid=2247491139&idx=1&sn=2171d0f8e6e16fc6ba280948b5afa2c6&chksm=c361e5fb85975dba21cb8a655c8654d851dbbf508e8114d091e09d81824750ab3f13c0de9549#rd)）
+
 ## 关联概念
 
 - [find-skills](concepts/find-skills.md)
@@ -131,3 +133,11 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 - [多智能体编排](concepts/多智能体编排.md)
 
 - [Cron 自动化](concepts/Cron 自动化.md)
+
+- [awesome-niuma-skills](entities/awesome-niuma-skills.md)
+
+- [填坑式写作](concepts/填坑式写作.md)
+
+- [面试追问链](concepts/面试追问链.md)
+
+- [标题公式](concepts/标题公式.md)

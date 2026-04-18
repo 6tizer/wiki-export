@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/495c710ba0f342138f2d0cfb53ee771d
@@ -49,6 +49,8 @@ notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 
 - 源文章：Hermes Agent 核心文档优化指南：让你的 AI 助手真正「越用越聪明」｜来源条目：[摘要：Hermes 核心文档架构详尽分析与优化方案指南](summaries/摘要：Hermes 核心文档架构详尽分析与优化方案指南.md)
 
+- [摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活](summaries/摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk0MjM4Mjc1Mw%3D%3D&mid=2247491139&idx=1&sn=2171d0f8e6e16fc6ba280948b5afa2c6&chksm=c361e5fb85975dba21cb8a655c8654d851dbbf508e8114d091e09d81824750ab3f13c0de9549#rd)）
+
 ## 关联概念
 
 - [Agent Skills](concepts/Agent Skills.md)
@@ -76,3 +78,11 @@ notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 - [渐进式披露](concepts/渐进式披露.md)
 
 - [AGENTS.md](concepts/AGENTS.md.md)
+
+- [awesome-niuma-skills](entities/awesome-niuma-skills.md)
+
+- [填坑式写作](concepts/填坑式写作.md)
+
+- [面试追问链](concepts/面试追问链.md)
+
+- [标题公式](concepts/标题公式.md)
