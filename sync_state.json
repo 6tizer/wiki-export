@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-18T19:33:16.714917+08:00",
+  "last_sync_time": "2026-04-19T01:34:02.353039+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 2778,
+  "total_pages_exported": 2781,
   "page_mapping": {
     "f67e1c5d-150f-488a-83be-73f65b950f37": {
       "type": "concept",
@@ -281,7 +281,7 @@
     "8edbf2db-aade-4291-9ac4-5c539fb350c9": {
       "type": "concept",
       "file_path": "wiki/concepts/Agent 身份基础设施.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-18T17:29:00.000Z"
     },
     "c6fafd12-0b93-496b-babd-7eb60e75eb3e": {
       "type": "concept",
@@ -1966,7 +1966,7 @@
     "842a872c-175b-40e3-89fb-91a964f18530": {
       "type": "concept",
       "file_path": "wiki/concepts/MCP 协议.md",
-      "last_edited": "2026-04-18T09:32:00.000Z"
+      "last_edited": "2026-04-18T14:32:00.000Z"
     },
     "6d9969bb-5c28-4da4-b5cf-20bdd8bd8d4a": {
       "type": "concept",
@@ -3181,7 +3181,7 @@
     "cf5d62b5-1834-4617-b224-8e1fd8765f8b": {
       "type": "concept",
       "file_path": "wiki/concepts/Vibe Coding.md",
-      "last_edited": "2026-04-18T09:32:00.000Z"
+      "last_edited": "2026-04-18T17:26:00.000Z"
     },
     "fbf33b75-150e-406d-a651-fb580c014c9d": {
       "type": "concept",
@@ -4846,7 +4846,7 @@
     "b287f284-2ebf-48a6-a0e0-8bc773981443": {
       "type": "concept",
       "file_path": "wiki/concepts/测试时推理.md",
-      "last_edited": "2026-04-18T03:51:00.000Z"
+      "last_edited": "2026-04-18T14:21:00.000Z"
     },
     "c95cb538-2bb9-4418-a97f-5e5855420031": {
       "type": "concept",
@@ -5516,7 +5516,7 @@
     "a6ee038a-74e3-440f-bf4a-e114a23b6c55": {
       "type": "concept",
       "file_path": "wiki/concepts/记忆分层架构.md",
-      "last_edited": "2026-04-17T16:30:00.000Z"
+      "last_edited": "2026-04-18T17:29:00.000Z"
     },
     "3527d5b6-d5e8-4876-8551-97f08dcae59b": {
       "type": "concept",
@@ -6151,7 +6151,7 @@
     "486c0d1c-a77a-4a52-b0c8-ea4bd16e25d3": {
       "type": "summary",
       "file_path": "wiki/summaries/摘要：Agency Agents：用 147 个 AI 专家角色，把 Claude Code 变成一整家公司.md",
-      "last_edited": "2026-04-11T18:23:00.000Z"
+      "last_edited": "2026-04-18T14:22:00.000Z"
     },
     "810f40b1-ff2d-46ce-9363-fb3824b33d24": {
       "type": "summary",
@@ -11021,7 +11021,7 @@
     "8fe015e8-d0a6-4073-a667-1d37b97d2277": {
       "type": "entity",
       "file_path": "wiki/entities/Agent World.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-18T17:29:00.000Z"
     },
     "f52c7373-fb6a-4dcb-8024-5790335878d9": {
       "type": "entity",
@@ -11596,7 +11596,7 @@
     "651ee71b-7c79-4c73-8fb3-f5599f6176be": {
       "type": "entity",
       "file_path": "wiki/entities/CME FedWatch Tool.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-18T14:21:00.000Z"
     },
     "2aece881-73a5-4d05-9193-06009528ead1": {
       "type": "entity",
@@ -11681,7 +11681,7 @@
     "4f82b07a-b701-42bb-a05d-c4c0c9462d5d": {
       "type": "entity",
       "file_path": "wiki/entities/Coze 2.5.md",
-      "last_edited": "2026-04-17T19:05:00.000Z"
+      "last_edited": "2026-04-18T17:29:00.000Z"
     },
     "4db36441-6ea0-40bf-a57d-eebceaf7f657": {
       "type": "entity",
@@ -11856,7 +11856,7 @@
     "57a0c446-4472-4572-9c98-a2fa2c3ece4b": {
       "type": "entity",
       "file_path": "wiki/entities/EdgeClaw.md",
-      "last_edited": "2026-04-18T10:30:00.000Z"
+      "last_edited": "2026-04-18T14:32:00.000Z"
     },
     "51cc8c9d-b605-4aaf-a1c3-19956cdb774b": {
       "type": "entity",
@@ -13631,7 +13631,7 @@
     "2e896964-b6e5-4b28-99ff-2b0e06a05bc3": {
       "type": "entity",
       "file_path": "wiki/entities/扣子编程 CLI.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-18T17:29:00.000Z"
     },
     "85799469-1d5e-48f2-87cb-dc583f65eff9": {
       "type": "entity",
@@ -13706,7 +13706,7 @@
     "643c2b2c-abe1-47a5-bf2e-1762c528f1bf": {
       "type": "concept",
       "file_path": "wiki/concepts/测试概念：Harness Engineering.md",
-      "last_edited": "2026-04-17T18:47:00.000Z"
+      "last_edited": "2026-04-18T15:27:00.000Z"
     },
     "f2630e3f-f2fe-4648-a08f-4e3e5e4cf46c": {
       "type": "synthesis",
@@ -13892,6 +13892,21 @@
       "type": "concept",
       "file_path": "wiki/concepts/Headless 模式.md",
       "last_edited": "2026-04-18T06:17:00.000Z"
+    },
+    "79c75d34-0f77-43e9-b49f-89be08104669": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：扣子编程 CLI，对所有 Agent 全面开放.md",
+      "last_edited": "2026-04-18T17:26:00.000Z"
+    },
+    "e64a1476-18e3-49c3-87f7-487e4e50ec7d": {
+      "type": "concept",
+      "file_path": "wiki/concepts/Agent 云设备.md",
+      "last_edited": "2026-04-18T17:28:00.000Z"
+    },
+    "ff9a9f93-f85c-44f6-aeae-4f44e466d1ab": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：扣子2.5，开启全新 Agent World！.md",
+      "last_edited": "2026-04-18T17:29:00.000Z"
     }
   }
 }

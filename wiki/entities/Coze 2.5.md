@@ -45,3 +45,7 @@ notion_id: 4f82b07a-b701-42bb-a05d-c4c0c9462d5d
 - [摘要：Coze 2.5 发布：成为 Agent 的网络](summaries/摘要：Coze 2.5 发布：成为 Agent 的网络.md)
 
 - [摘要：本养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding](summaries/摘要：本养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding.md)
+
+- [摘要：扣子编程 CLI，对所有 Agent 全面开放](summaries/摘要：扣子编程 CLI，对所有 Agent 全面开放.md)
+
+- [摘要：扣子2.5，开启全新 Agent World！](summaries/摘要：扣子2.5，开启全新 Agent World！.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk0MzY0MTMwNA%3D%3D&mid=2247488354&idx=1&sn=4cf6c89cb341e49d85e218bfd9bf28ea&chksm=c2549c1180876b0ec346ce5adaf12e8f994675346315d6061cb27b6b06801e0d760224149c42#rd)）

@@ -30,9 +30,11 @@ Harness Engineering是"AI工程化的驾驭体系"，即除LLM本身之外让Age
 
 - [摘要：万字干货：理解 Harness Engineering，看这一篇就够了](summaries/摘要：万字干货：理解 Harness Engineering，看这一篇就够了.md)
 
-- 《Andrej Karpathy 主推的 LLM+MD+Wiki 个人知识库》（MacTalk）
+- [摘要：Karpathy LLM Wiki 个人知识库方法论](summaries/摘要：Karpathy LLM Wiki 个人知识库方法论.md)（MacTalk）
 
-- [原文链接](https://example.com/article1)｜《深度学习入门指南》
+- [摘要：Karpathy 开源个人 LLM Wiki ——知识编译而非检索](summaries/摘要：Karpathy 开源个人 LLM Wiki ——知识编译而非检索.md)
+
+- [原文链接](https://example.com/article1)｜《深度学习入门指南》（未匹配到 summary）
 
 ## 关联概念
 

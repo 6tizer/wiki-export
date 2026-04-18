@@ -5,7 +5,7 @@ tags:
 - 安全/隐私
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8edbf2dbaade42919ac45c539fb350c9
@@ -65,3 +65,5 @@ Agent身份基础设施（Agent Identity Infrastructure）是指为AI Agent提�
 ## 来源引用
 
 - [摘要：Coze 2.5 发布：成为 Agent 的网络](summaries/摘要：Coze 2.5 发布：成为 Agent 的网络.md)（赛博禅心，2026-04-07）
+
+- [摘要：扣子2.5，开启全新 Agent World！](summaries/摘要：扣子2.5，开启全新 Agent World！.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk0MzY0MTMwNA%3D%3D&mid=2247488354&idx=1&sn=4cf6c89cb341e49d85e218bfd9bf28ea&chksm=c2549c1180876b0ec346ce5adaf12e8f994675346315d6061cb27b6b06801e0d760224149c42#rd)）

@@ -7,7 +7,7 @@ tags:
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
-source_tags: Agent, LLM, Cursor, 自动化
+source_tags: Agent, LLM, Cursor, 自动化, OpenClaw
 source_article_url: https://www.notion.so/335701074b6881fe90eeddfc595037d2
 notion_url: https://www.notion.so/486c0d1ca77a4a52b0c8ea4bd16e25d3
 notion_id: 486c0d1c-a77a-4a52-b0c8-ea4bd16e25d3
@@ -32,6 +32,12 @@ Agency Agents 把不同岗位的职责、流程与交付标准做成可复用 Ma
 - [agency-agents](entities/agency-agents.md)
 
 - [Claude Code 多 Agent 协调](concepts/Claude Code 多 Agent 协调.md)
+
+- [AGENTS.md](concepts/AGENTS.md.md)
+
+- [Agent 人设](concepts/Agent 人设.md)
+
+- [Claude Code](entities/Claude Code.md)
 
 ## 原始文章信息
 

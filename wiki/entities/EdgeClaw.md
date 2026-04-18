@@ -43,6 +43,6 @@ EdgeClaw 内置 ClawXRouter 端云协同架构：
 
 - [摘要：EdgeClaw：把 Claude Code 体验带到 OpenClaw](summaries/摘要：EdgeClaw：把 Claude Code 体验带到 OpenClaw.md)（小华同学ai，微信，2026-04-07）
 
-- 《EdgeClaw 2.0：把 Claude Code 的顶级记忆系统注入开源 AI Agent 生态》｜X书签文章｜原文链接：[https://x.com/berryxia/status/2039376439204774093](https://x.com/berryxia/status/2039376439204774093)｜来源条目：[摘要：EdgeClaw 2.0：把 Claude Code 的顶级记忆系统注入开源 AI Agent 生态](summaries/摘要：EdgeClaw 2.0：把 Claude Code 的顶级记忆系统注入开源 AI Agent 生态.md)
+- [摘要：EdgeClaw 2.0：把 Claude Code 的顶级记忆系统注入开源 AI Agent 生态](summaries/摘要：EdgeClaw 2.0：把 Claude Code 的顶级记忆系统注入开源 AI Agent 生态.md)（X书签文章，[原文](https://x.com/berryxia/status/2039376439204774093)）
 
 - [摘要：龙虾成本狂陆58%！ClawXRouter开源智能调度员](summaries/摘要：龙虾成本狂陆58%！ClawXRouter开源智能调度员.md)

@@ -3,6 +3,7 @@ title: CME FedWatch Tool
 type: entity
 tags:
 - Crypto/DeFi
+- 商业/生态
 status: 草稿
 confidence: high
 last_compiled: '2026-04-11'

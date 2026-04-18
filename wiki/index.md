@@ -1,15 +1,15 @@
 ---
 type: index
-total_concepts: 1195
+total_concepts: 1196
 total_entities: 561
 total_syntheses: 52
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 # 📚 知识 Wiki Index
 
-> 1195 concepts · 561 entities · 52 syntheses
-> 导出时间: 2026-04-18
+> 1196 concepts · 561 entities · 52 syntheses
+> 导出时间: 2026-04-19
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
@@ -27,6 +27,7 @@ last_updated: 2026-04-18
 - [Agent Reach](concepts/Agent Reach.md)
 - [Agent Skills](concepts/Agent Skills.md)
 - [Agent Tool Interface](concepts/Agent Tool Interface.md)
+- [Agent 云设备](concepts/Agent 云设备.md)
 - [Agent 剪藏](concepts/Agent 剪藏.md)
 - [Agent 数据采集 API](concepts/Agent 数据采集 API.md)
 - [Agent-Managed Skills](concepts/Agent-Managed Skills.md)
@@ -248,6 +249,7 @@ last_updated: 2026-04-18
 ## Agent 框架
 ### Concepts
 - [Agent OS](concepts/Agent OS.md)
+- [Agent 云设备](concepts/Agent 云设备.md)
 - [Agent 模板库](concepts/Agent 模板库.md)
 - [EverCore](concepts/EverCore.md)
 - [NanoClaw](concepts/NanoClaw.md)
@@ -1853,6 +1855,7 @@ last_updated: 2026-04-18
 - [Blackwell 200 GPU](entities/Blackwell 200 GPU.md)
 - [BytePlus](entities/BytePlus.md)
 - [CME FedWatch](entities/CME FedWatch.md)
+- [CME FedWatch Tool](entities/CME FedWatch Tool.md)
 - [CREAO](entities/CREAO.md)
 - [Canva](entities/Canva.md)
 - [Claude](entities/Claude.md)
