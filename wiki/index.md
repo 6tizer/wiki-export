@@ -1,14 +1,14 @@
 ---
 type: index
-total_concepts: 1223
-total_entities: 566
+total_concepts: 1219
+total_entities: 570
 total_syntheses: 54
 last_updated: 2026-04-19
 ---
 
 # 📚 知识 Wiki Index
 
-> 1223 concepts · 566 entities · 54 syntheses
+> 1219 concepts · 570 entities · 54 syntheses
 > 导出时间: 2026-04-19
 
 ## 使用方式
@@ -756,7 +756,6 @@ last_updated: 2026-04-19
 - [Pipeline 模式](concepts/Pipeline 模式.md)
 - [PostToolUse](concepts/PostToolUse.md)
 - [PreToolUse](concepts/PreToolUse.md)
-- [Prompt Cache](concepts/Prompt Cache.md)
 - [Prompt Caching](concepts/Prompt Caching.md)
 - [Prompt Engineering](concepts/Prompt Engineering.md)
 - [Prompt Hooks](concepts/Prompt Hooks.md)
@@ -989,10 +988,8 @@ last_updated: 2026-04-19
 - [ERC-8004](concepts/ERC-8004.md)
 - [ERC-8126](concepts/ERC-8126.md)
 - [ERC-8183](concepts/ERC-8183.md)
-- [FRED](concepts/FRED.md)
 - [Farside ETF 资金流追踪](concepts/Farside ETF 资金流追踪.md)
 - [Farside Investors](concepts/Farside Investors.md)
-- [Fiat24](concepts/Fiat24.md)
 - [Frank-Wolfe 算法](concepts/Frank-Wolfe 算法.md)
 - [G.A.M.E 框架](concepts/G.A.M.E 框架.md)
 - [Gate MCP Skills](concepts/Gate MCP Skills.md)
@@ -1015,7 +1012,6 @@ last_updated: 2026-04-19
 - [Radar 机会雷达](concepts/Radar 机会雷达.md)
 - [Real World Attention](concepts/Real World Attention.md)
 - [SOPR 28日均线](concepts/SOPR 28日均线.md)
-- [SafePal](concepts/SafePal.md)
 - [Sessions 机制](concepts/Sessions 机制.md)
 - [Smart Money Concept](concepts/Smart Money Concept.md)
 - [Strategic Bitcoin Reserve](concepts/Strategic Bitcoin Reserve.md)
@@ -1093,6 +1089,8 @@ last_updated: 2026-04-19
 - [Donut](entities/Donut.md)
 - [Dune](entities/Dune.md)
 - [ElizaOS](entities/ElizaOS.md)
+- [FRED](entities/FRED.md)
+- [Fiat24](entities/Fiat24.md)
 - [Helix](entities/Helix.md)
 - [Hyperliquid](entities/Hyperliquid.md)
 - [IdentityHub](entities/IdentityHub.md)
@@ -1113,6 +1111,7 @@ last_updated: 2026-04-19
 - [Pimlico](entities/Pimlico.md)
 - [Polymarket](entities/Polymarket.md)
 - [STRC](entities/STRC.md)
+- [SafePal](entities/SafePal.md)
 - [Smartclaw](entities/Smartclaw.md)
 - [StockClaw](entities/StockClaw.md)
 - [Strategy Studio](entities/Strategy Studio.md)
@@ -1137,7 +1136,7 @@ last_updated: 2026-04-19
 ## LLM
 ### Concepts
 - [1M 上下文](concepts/1M 上下文.md)
-- [3D 高斯泼溅](concepts/3D 高斯泼溅.md)
+- [3D Gaussian Splatting](concepts/3D Gaussian Splatting.md)
 - [AI 幻觉责任风险](concepts/AI 幻觉责任风险.md)
 - [AI 情感回路](concepts/AI 情感回路.md)
 - [AI 模型网关](concepts/AI 模型网关.md)
@@ -1355,6 +1354,7 @@ last_updated: 2026-04-19
 - [账号风控](concepts/账号风控.md)
 - [输出通胀](concepts/输出通胀.md)
 - [过度对齐](concepts/过度对齐.md)
+- [部署安全](concepts/部署安全.md)
 - [金融市场基础模型](concepts/金融市场基础模型.md)
 - [锯齿边界](concepts/锯齿边界.md)
 - [间接提示注入](concepts/间接提示注入.md)
@@ -1391,6 +1391,7 @@ last_updated: 2026-04-19
 - [Gemini 3.1 Flash Image Preview](entities/Gemini 3.1 Flash Image Preview.md)
 - [Gemini Embedding 2](entities/Gemini Embedding 2.md)
 - [Gemini Robotics-ER](entities/Gemini Robotics-ER.md)
+- [Gemma 4](entities/Gemma 4.md)
 - [Gemma4-31B-Opus-4.6-reasoning](entities/Gemma4-31B-Opus-4.6-reasoning.md)
 - [Genie 3](entities/Genie 3.md)
 - [GrandCode](entities/GrandCode.md)
@@ -1408,6 +1409,7 @@ last_updated: 2026-04-19
 - [LangChain](entities/LangChain.md)
 - [Life Sciences Research Plugin](entities/Life Sciences Research Plugin.md)
 - [LiveCodeBench](entities/LiveCodeBench.md)
+- [MLX 框架](entities/MLX 框架.md)
 - [MarkItDown](entities/MarkItDown.md)
 - [Meta Superintelligence Labs](entities/Meta Superintelligence Labs.md)
 - [MiMo-V2-Pro](entities/MiMo-V2-Pro.md)
@@ -1577,7 +1579,6 @@ last_updated: 2026-04-19
 ## 内容创作
 ### Concepts
 - [3D Gaussian Splatting](concepts/3D Gaussian Splatting.md)
-- [3D 高斯泼溅](concepts/3D 高斯泼溅.md)
 - [5 层提示词结构](concepts/5 层提示词结构.md)
 - [AI Content Systems](concepts/AI Content Systems.md)
 - [AI 优先视频工作流](concepts/AI 优先视频工作流.md)
@@ -1774,7 +1775,6 @@ last_updated: 2026-04-19
 - [ERC-8004](concepts/ERC-8004.md)
 - [ERC-8126](concepts/ERC-8126.md)
 - [Execution Bandwidth Ceiling](concepts/Execution Bandwidth Ceiling.md)
-- [FRED](concepts/FRED.md)
 - [Faceless format](concepts/Faceless format.md)
 - [Fanout Backlog](concepts/Fanout Backlog.md)
 - [Farside Investors](concepts/Farside Investors.md)
@@ -1857,6 +1857,7 @@ last_updated: 2026-04-19
 - [结果即服务](concepts/结果即服务.md)
 - [编辑独立性](concepts/编辑独立性.md)
 - [群组支出限额](concepts/群组支出限额.md)
+- [联邦定制化接入](concepts/联邦定制化接入.md)
 - [能力分级开放](concepts/能力分级开放.md)
 - [自优化店铺](concepts/自优化店铺.md)
 - [虚拟卡风控](concepts/虚拟卡风控.md)
@@ -1908,10 +1909,10 @@ last_updated: 2026-04-19
 - [Donut](entities/Donut.md)
 - [EvoMap](entities/EvoMap.md)
 - [Evolver](entities/Evolver.md)
+- [FRED](entities/FRED.md)
 - [FinGPT](entities/FinGPT.md)
 - [GLM-5.1](entities/GLM-5.1.md)
 - [Gemini 3 Pro](entities/Gemini 3 Pro.md)
-- [Gemma 4](entities/Gemma 4.md)
 - [Helion](entities/Helion.md)
 - [Hiro Finance](entities/Hiro Finance.md)
 - [Kalshi](entities/Kalshi.md)
@@ -2067,6 +2068,7 @@ last_updated: 2026-04-19
 - [编排与计算分离](concepts/编排与计算分离.md)
 - [群体异常检测](concepts/群体异常检测.md)
 - [联邦学习](concepts/联邦学习.md)
+- [联邦定制化接入](concepts/联邦定制化接入.md)
 - [能力分级开放](concepts/能力分级开放.md)
 - [虚拟卡风控](concepts/虚拟卡风控.md)
 - [训练数据提取攻击](concepts/训练数据提取攻击.md)
@@ -2079,6 +2081,7 @@ last_updated: 2026-04-19
 - [逆向分析](concepts/逆向分析.md)
 - [选择性披露](concepts/选择性披露.md)
 - [速率限制](concepts/速率限制.md)
+- [部署安全](concepts/部署安全.md)
 - [链式代理](concepts/链式代理.md)
 - [间接提示注入](concepts/间接提示注入.md)
 - [隐私脱敏](concepts/隐私脱敏.md)
@@ -2369,7 +2372,6 @@ last_updated: 2026-04-19
 
 ## 开发工具
 ### Concepts
-- [3D Gaussian Splatting](concepts/3D Gaussian Splatting.md)
 - [AI 生成 BOM](concepts/AI 生成 BOM.md)
 - [API Key 分发](concepts/API Key 分发.md)
 - [Anti-996](concepts/Anti-996.md)
@@ -2409,7 +2411,6 @@ last_updated: 2026-04-19
 - [Kitty 图形协议](concepts/Kitty 图形协议.md)
 - [LZ77/LZMA 家族](concepts/LZ77-LZMA 家族.md)
 - [LanceDB](concepts/LanceDB.md)
-- [MLX 框架](concepts/MLX 框架.md)
 - [Monorepo](concepts/Monorepo.md)
 - [OCR](concepts/OCR.md)
 - [OpenCLI 插件系统](concepts/OpenCLI 插件系统.md)
@@ -2419,7 +2420,6 @@ last_updated: 2026-04-19
 - [Pine Script](concepts/Pine Script.md)
 - [Polling 抢消息](concepts/Polling 抢消息.md)
 - [Pretext 渲染引擎](concepts/Pretext 渲染引擎.md)
-- [Prompt Cache](concepts/Prompt Cache.md)
 - [QUIC 代理](concepts/QUIC 代理.md)
 - [Quick Terminal](concepts/Quick Terminal.md)
 - [RAD 格式](concepts/RAD 格式.md)
@@ -2533,6 +2533,7 @@ last_updated: 2026-04-19
 - [Kubernetes](entities/Kubernetes.md)
 - [LM Studio](entities/LM Studio.md)
 - [Lightpanda](entities/Lightpanda.md)
+- [MLX 框架](entities/MLX 框架.md)
 - [Maps Demo Key](entities/Maps Demo Key.md)
 - [Maps JavaScript API](entities/Maps JavaScript API.md)
 - [MarkItDown](entities/MarkItDown.md)

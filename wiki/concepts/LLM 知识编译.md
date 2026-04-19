@@ -31,8 +31,24 @@ notion_id: a0b2ab8f-ea9c-47eb-9a9f-ec57a199157b
 
 ## 来源引用
 
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzI1MjkyNjI4NQ%3D%3D&mid=2247486639&idx=1&sn=afab9bd6fc7a268a719127ebbf1c368a&chksm=e8fcaa80f3faf33cce6201ed6bc26ddccfa5d6d6fc0c8dc4f51adf0fe53479ebd7ed270f0d14#rd)｜《Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统》｜来源条目：[摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统](summaries/摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统.md)
+
 - [摘要：Karpathy LLM Wiki 个人知识库方法论](summaries/摘要：Karpathy LLM Wiki 个人知识库方法论.md)（来源：微信 / Alphana和大船的AI工作区）——提出 LLM 编译器概念及完整操作框架
 
 - [摘要：Karpathy LLM Wiki 个人知识库方法论](summaries/摘要：Karpathy LLM Wiki 个人知识库方法论.md)（来源：微信 / Alphana和大船的AI工作区）——提出 LLM 编译器概念及完整操作框架
 
 - [原文链接](https://x.com/yanhua1010/status/2039966047378583815)｜[摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践](summaries/摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践.md)
+
+## 关联概念
+
+- [Hermes Agent](entities/Hermes Agent.md)
+
+- [OpenCLI](entities/OpenCLI.md)
+
+- [AutoCLI.ai](entities/AutoCLI.ai.md)
+
+- [Obsidian](entities/Obsidian.md)
+
+- [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)
+
+- [ClawBot](entities/ClawBot.md)

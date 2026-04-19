@@ -35,4 +35,4 @@ HY-World 2.0 中负责将多段生成结果整合为统一可交互 3D 世界的
 
 - HY-WorldStereo
 
-- 3D 高斯泼溅
+- [3D Gaussian Splatting](concepts/3D Gaussian Splatting.md)

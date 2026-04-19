@@ -6,7 +6,7 @@ tags:
 - LLM
 status: 审核中
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/71e1b901a32e499a95475faf4e53bce5
@@ -59,7 +59,19 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 
 - 有道宝库（国内产品化方案，带溯源问答）
 
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzI1MjkyNjI4NQ%3D%3D&mid=2247486639&idx=1&sn=afab9bd6fc7a268a719127ebbf1c368a&chksm=e8fcaa80f3faf33cce6201ed6bc26ddccfa5d6d6fc0c8dc4f51adf0fe53479ebd7ed270f0d14#rd)｜《Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统》｜来源条目：[摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统](summaries/摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统.md)
+
 ## 关联概念
+
+- [Hermes Agent](entities/Hermes Agent.md)
+
+- [OpenCLI](entities/OpenCLI.md)
+
+- [AutoCLI.ai](entities/AutoCLI.ai.md)
+
+- [LLM 知识编译](concepts/LLM 知识编译.md)
+
+- [ClawBot](entities/ClawBot.md)
 
 - [LanceDB](concepts/LanceDB.md)
 

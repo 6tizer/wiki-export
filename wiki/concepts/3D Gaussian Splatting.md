@@ -3,7 +3,7 @@ title: 3D Gaussian Splatting
 type: concept
 tags:
 - 内容创作
-- 开发工具
+- LLM
 status: 草稿
 confidence: high
 last_compiled: '2026-04-15'
@@ -15,7 +15,7 @@ notion_id: 2075ecf9-da44-41e6-a6f0-16a57c9db645
 
 ### 定义
 
-3D Gaussian Splatting，常简称为 3DGS，是一种用大量带透明度和空间参数的高斯椭球来表示真实场景的三维重建与渲染方法，能够用照片快速生成可交互的 3D 内容。
+3D Gaussian Splatting（又称 3D 高斯泼溅），常简称为 3DGS，是一种用大量带透明度和空间参数的高斯椭球来表示真实场景的三维重建与渲染方法，能够用照片快速生成可交互的 3D 内容。
 
 ### 关键要点
 
@@ -33,6 +33,8 @@ notion_id: 2075ecf9-da44-41e6-a6f0-16a57c9db645
 
 - [Three.js](https://x.com/sparkjsdev/status/2044090505982816449)｜源文章：Spark 2.0：把亿级 3D 高斯渲染带进浏览器的开源引擎
 
+- [腾讯混元开源世界模型！2.0版本一键生成3D空间，游戏关卡随心造](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247883767&idx=2&sn=8df1b032989aae3535de8a333936c008&chksm=e9fc388108e5dbf1e19a2001085ecdd219342c067428ab8ea53af13379164860eb756ca8bc30#rd)｜源页面：腾讯混元开源世界模型！2.0版本一键生成3D空间，游戏关卡随心造
+
 ### 关联概念
 
 - Spark 2.0
@@ -44,3 +46,7 @@ notion_id: 2075ecf9-da44-41e6-a6f0-16a57c9db645
 - GPU 虚拟内存
 
 - 注视点渲染
+
+- HY-WorldMirror
+
+- HY-World

@@ -2,10 +2,10 @@
 title: Gemma 4
 type: entity
 tags:
-- 商业/生态
+- LLM
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/09a31eaf99cc4161b51e7029278bc78e
@@ -58,7 +58,7 @@ notion_id: 09a31eaf-99cc-4161-b51e-7029278bc78e
 
 - [mlx_vlm](entities/mlx_vlm.md)
 
-- [MLX 框架](concepts/MLX 框架.md)
+- [MLX 框架](entities/MLX 框架.md)
 
 - [SuperGemma4-26B-Abliterated-Multimodal](entities/SuperGemma4-26B-Abliterated-Multimodal.md)
 
