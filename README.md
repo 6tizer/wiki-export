@@ -5,16 +5,16 @@ AI-compiled personal knowledge base, automatically exported from [Notion](https:
 AI-compiled personal knowledge base, automatically exported from [Notion](https://notion.so) and synced to GitHub.
 
 <!-- stats:start -->
-**2,743+ entries** across 14 topic areas, covering the AI agent ecosystem and beyond.
+**2,839+ entries** across 14 topic areas, covering the AI agent ecosystem and beyond.
 
 ## What's Inside
 
 | Type | Count | Description |
 |------|-------|-------------|
-| Concept | ~1,186 | Core concepts with definitions, key points, and cross-references |
-| Entity | ~542 | Product/company/people profiles with key data and version updates |
-| Synthesis | ~48 | Cross-source analytical essays on major topics |
-| Summary | ~967 | Single-article summaries (linked from concepts, not in index) |
+| Concept | ~1,236 | Core concepts with definitions, key points, and cross-references |
+| Entity | ~569 | Product/company/people profiles with key data and version updates |
+| Synthesis | ~54 | Cross-source analytical essays on major topics |
+| Summary | ~980 | Single-article summaries (linked from concepts, not in index) |
 <!-- stats:end -->
 
 ### Topic Areas
