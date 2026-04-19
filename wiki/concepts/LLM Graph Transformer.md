@@ -5,7 +5,7 @@ tags:
 - LLM
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/6449d112806e4d3ca67bca93875e0919
@@ -54,4 +54,4 @@ graph.add_graph_documents(graph_documents)
 
 ## 来源引用
 
-- LLM Graph Transformer：用 LangChain 把非结构化文本变成知识图谱
+- [摘要：LLM Graph Transformer：用 LangChain 把非结构化文本变成知识图谱](summaries/摘要：LLM Graph Transformer：用 LangChain 把非结构化文本变成知识图谱.md)

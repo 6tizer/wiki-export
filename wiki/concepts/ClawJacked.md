@@ -6,7 +6,7 @@ tags:
 - 安全/隐私
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/95ed9c8266fa4cba9e0bfd3ca84353aa
@@ -31,4 +31,4 @@ ClawJacked 是 OpenClaw 的一个**高危安全漏洞**，由 Oasis Security 发
 
 ## 来源引用
 
-- 摘要：OpenClaw 完全指南：把你的电脑变成一个 24/7 自主运转的 AI 员工
+- [摘要：OpenClaw 完全指南：把你的电脑变成一个 24/7 自主运转的 AI 员工](summaries/摘要：OpenClaw 完全指南：把你的电脑变成一个 24-7 自主运转的 AI 员工.md)

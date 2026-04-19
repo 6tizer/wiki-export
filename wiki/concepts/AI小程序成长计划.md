@@ -5,7 +5,7 @@ tags:
 - 商业/生态
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/fce3a27f94504ba28165c55dfaafb546
@@ -40,4 +40,4 @@ notion_id: fce3a27f-9450-4ba2-8165-c55dfaafb546
 
 ## 来源引用
 
-- 《搞钱副业：AI小程序从0到上架》（@ai_xiaomu，X书签，2026-04-09）
+- [摘要：搞钱副业：AI小程序从0到上架](summaries/摘要：搞钱副业：AI小程序从0到上架.md)（@ai_xiaomu，X书签，2026-04-09）

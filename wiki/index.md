@@ -1,15 +1,15 @@
 ---
 type: index
-total_concepts: 1221
+total_concepts: 1224
 total_entities: 571
 total_syntheses: 55
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 ---
 
 # 📚 知识 Wiki Index
 
-> 1221 concepts · 571 entities · 55 syntheses
-> 导出时间: 2026-04-19
+> 1224 concepts · 571 entities · 55 syntheses
+> 导出时间: 2026-04-20
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
@@ -604,6 +604,7 @@ last_updated: 2026-04-19
 - [群体模拟](concepts/群体模拟.md)
 - [自动科研](concepts/自动科研.md)
 - [自动路由检索](concepts/自动路由检索.md)
+- [自我进化 Agent](concepts/自我进化 Agent.md)
 - [自然语言定时任务](concepts/自然语言定时任务.md)
 - [自生长人格](concepts/自生长人格.md)
 - [自进化 Agent](concepts/自进化 Agent.md)
@@ -770,6 +771,7 @@ last_updated: 2026-04-19
 - [SKILL.md](concepts/SKILL.md.md)
 - [SOL-ExecBench](concepts/SOL-ExecBench.md)
 - [SSOT 路由表](concepts/SSOT 路由表.md)
+- [SWE-bench](concepts/SWE-bench.md)
 - [Schema Drift Detection](concepts/Schema Drift Detection.md)
 - [Schema 校验](concepts/Schema 校验.md)
 - [Scope Reduction Detection](concepts/Scope Reduction Detection.md)
@@ -1151,6 +1153,7 @@ last_updated: 2026-04-19
 - [Attention Matching](concepts/Attention Matching.md)
 - [Attention Residuals](concepts/Attention Residuals.md)
 - [Auxiliary 副驾模型](concepts/Auxiliary 副驾模型.md)
+- [Big Blob of Compute](concepts/Big Blob of Compute.md)
 - [Binary RL](concepts/Binary RL.md)
 - [BixBench](concepts/BixBench.md)
 - [Block Diffusion](concepts/Block Diffusion.md)
@@ -1227,6 +1230,7 @@ last_updated: 2026-04-19
 - [RLVR](concepts/RLVR.md)
 - [Recursive Language Model](concepts/Recursive Language Model.md)
 - [Refusal Direction](concepts/Refusal Direction.md)
+- [SWE-bench](concepts/SWE-bench.md)
 - [Shared global mask](concepts/Shared global mask.md)
 - [Simple Self-Distillation](concepts/Simple Self-Distillation.md)
 - [Speculative Decoding](concepts/Speculative Decoding.md)
@@ -2090,6 +2094,7 @@ last_updated: 2026-04-19
 - [隐私脱敏](concepts/隐私脱敏.md)
 - [隐藏信号传递](concepts/隐藏信号传递.md)
 - [零数据保留](concepts/零数据保留.md)
+- [零日漏洞](concepts/零日漏洞.md)
 - [零知识证明](concepts/零知识证明.md)
 - [静态住宅 IP](concepts/静态住宅 IP.md)
 - [风控环境指纹](concepts/风控环境指纹.md)
@@ -2809,6 +2814,7 @@ last_updated: 2026-04-19
 - [Holographic Reduced Representations](concepts/Holographic Reduced Representations.md)
 - [HyperMem](concepts/HyperMem.md)
 - [KV Cache Compaction](concepts/KV Cache Compaction.md)
+- [KV缓存压缩](concepts/KV缓存压缩.md)
 - [Knowledge Base Layer](concepts/Knowledge Base Layer.md)
 - [L0/L1/L2 分层加载](concepts/L0-L1-L2 分层加载.md)
 - [LLM 重排序](concepts/LLM 重排序.md)

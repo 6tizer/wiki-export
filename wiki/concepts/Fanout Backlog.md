@@ -5,7 +5,7 @@ tags:
 - 商业/生态
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8268d486b89348d889e74a6941f831bc
@@ -38,6 +38,8 @@ Fanout Backlog 是 geo-content-writer 框架中的**内容生产队列管理方�
 
 ## 来源引用
 
-- GitHub: [GEO-SEO/geo-content-writer](https://github.com/GEO-SEO/geo-content-writer)
+- [摘要：GEO-SEO Claude Code Skill：用 AI Agent 给网站做「AI 搜索引擎优化」](summaries/摘要：GEO-SEO Claude Code Skill：用 AI Agent 给网站做「AI 搜索引擎优化」.md)
 
-- 推文：[@tim_geo_seo, 2026-04-09](https://x.com/tim_geo_seo/status/2042096325634953260)
+- [摘要：geo-seo-claude：用 Claude Code 给你的网站做 AI 搜索引擎优化](summaries/摘要：geo-seo-claude：用 Claude Code 给你的网站做 AI 搜索引擎优化.md)
+
+- 推文：[@tim_geo_seo, 2026-04-09](https://x.com/tim_geo_seo/status/2042096325634953260)（未匹配：tim_geo_seo）

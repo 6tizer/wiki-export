@@ -5,7 +5,7 @@ tags:
 - Crypto/DeFi
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/7c9a4c2b025a4e9191fed4196beab4fe
@@ -32,4 +32,4 @@ Polymarket Analytics（[polymarketanalytics.com](http://polymarketanalytics.com/
 
 ## 来源引用
 
-- 摘要：Polymarket 工具全攻略：用这 7 个神器，你的胜率会超过 90% 的交易者
+- [摘要：Polymarket 工具全攻略：用这 7 个神器，你的胜率会超过 90% 的交易者](summaries/摘要：Polymarket 工具全攻略：用这 7 个神器，你的胜率会超过 90% 的交易者.md)

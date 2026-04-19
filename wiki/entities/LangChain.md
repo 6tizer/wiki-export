@@ -6,7 +6,7 @@ tags:
 - LLM
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/51899a21209143d19b0bd28657508e92
@@ -43,18 +43,14 @@ LangChain 是由 Harrison Chase 于 2022 年 10 月创建的开源 LLM 应用开
 
 ## 来源引用
 
-- LangChain + Qdrant S3 语义检索流水线教程
+- [摘要：LangChain + Qdrant：30 分钟搭建一条 S3 多格式文件语义检索流水线](summaries/摘要：LangChain + Qdrant：30 分钟搭建一条 S3 多格式文件语义检索流水线.md)
 
-- Agent Service Toolkit：LangGraph + FastAPI + Streamlit
+- [摘要：Browser Use：让 AI 像人一样操控浏览器的开源利器](summaries/摘要：Browser Use：让 AI 像人一样操控浏览器的开源利器.md)
 
-- Browser Use 开源浏览器自动化
+- [摘要：LLM Graph Transformer：用 LangChain 把非结构化文本变成知识图谱](summaries/摘要：LLM Graph Transformer：用 LangChain 把非结构化文本变成知识图谱.md)
 
-- LangGraph AI 金融分析师 Agent
+- [摘要：Open-SWE：LangChain 开源的异步编程 Agent，让 AI 像队友一样提 PR](summaries/摘要：Open-SWE：LangChain 开源的异步编程 Agent，让 AI 像队友一样提 PR.md)
 
-- ai-gradio 多模型统一接口
+- [摘要：LangChain Deep Agents Deploy：开源 Agent 部署的生产级方案](summaries/摘要：LangChain Deep Agents Deploy：开源 Agent 部署的生产级方案.md)
 
-- LLM Graph Transformer 知识图谱
-
-- Nexus AI 学术研究助手
-
-- Web3 AI Agent 的真相：Vercel AI SDK vs LangChain
+- [摘要：Better-Harness：LangChain 用 Evals 当梯度信号，让 Agent 越跑越强](summaries/摘要：Better-Harness：LangChain 用 Evals 当梯度信号，让 Agent 越跑越强.md)

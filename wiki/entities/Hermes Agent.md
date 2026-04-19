@@ -64,11 +64,11 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [摘要：Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器](summaries/摘要：Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器.md)（[原文](https://x.com/YuLin807/status/2042198758260158535)）
 
-- 《Hermes Agent实测，龙虾新对手是进化爱马仕》——卡尔的AI沃茨（微信，2026-04-08）
+- [摘要：Hermes Agent实测，龙虾新对手是进化爱马仕](summaries/摘要：Hermes Agent实测，龙虾新对手是进化爱马仕.md)（卡尔的AI沃茨，微信，2026-04-08）
 
-- 《？？不是，咋又来了一个 Hermes？》——cxuanAI（微信，2026-04-09）
+- [摘要：？？不是，咋又来了一个 Hermes？](summaries/摘要：？？不是，咋又来了一个 Hermes？.md)（cxuanAI，微信，2026-04-09）
 
-- 摘要：10,000+ markdown files（@AYi_AInotes，2026-04-10）—— GBrain 作为 OpenClaw/Hermes Agent 的官方记忆后端开源
+- [摘要：10,000+ markdown files](summaries/摘要：10,000+ markdown files.md)（@AYi_AInotes，2026-04-10）— GBrain 作为 OpenClaw/Hermes Agent 的官方记忆后端开源
 
 - 《如何使用Hermes Agent稳定爬取公众号文章》——Draco正在VibeCoding（微信，2026-04-11）：介绍了通过 Browser Use / Camoufox 封装微信公众号爬取 skill 的实战流程
 

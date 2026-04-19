@@ -6,7 +6,7 @@ tags:
 - 商业/生态
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/bb112c94669e4eae9ade4a7d6402d6b4
@@ -47,4 +47,4 @@ OpenClaw + MiniMax M2.5 组合的吸引力：
 
 ## 来源引用
 
-- OpenClaw + MiniMax M2.5：用十分之一的成本，打造你的 24 小时 AI 管家
+- [摘要：OpenClaw + MiniMax M2.5：用十分之一的成本，打造你的 24 小时 AI 管家](summaries/摘要：OpenClaw + MiniMax M2.5：用十分之一的成本，打造你的 24 小时 AI 管家.md)

@@ -5,7 +5,7 @@ tags:
 - 记忆系统
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/cce5707add6c4188968ca407dd16b49b
@@ -48,7 +48,7 @@ OpenViking 是字节跳动火山引擎（Volcengine）Viking 团队开源的 Age
 
 ## 来源引用
 
-- OpenViking：字节跳动用「文件系统范式」重构 Agent 记忆，终结扁平 RAG 时代
+- [摘要：OpenViking：字节跳动用「文件系统范式」重构 Agent 记忆，终结扁平 RAG 时代](summaries/摘要：OpenViking：字节跳动用「文件系统范式」重构 Agent 记忆，终结扁平 RAG 时代.md)
 
 - 摘要：memory-lancedb-pro：给你的 OpenClaw Agent 装上真正会记忆的大脑
 
@@ -76,7 +76,7 @@ OpenViking 是字节跳动火山引擎（Volcengine）Viking 团队开源的 Age
 
 - 《memory-lancedb-pro：给你的 OpenClaw Agent 装上真正会记忆的大脑》（axiaisacat，2026-03-07）— 文章将 OpenViking 作为对照，强调其在 Token 效率上的优势
 
-- 《一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析》— X书签，2026-03-16：将 OpenViking 视为 Agent 上下文数据库与文件系统范式代表
+- [摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析](summaries/摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析.md)— 将 OpenViking 视为 Agent 上下文数据库与文件系统范式代表
 
 - [原文链接](https://x.com/ResearchWang/status/2034161775797801206)｜《OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南》｜来源条目：[摘要：OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南](summaries/摘要：OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南.md)
 

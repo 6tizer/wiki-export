@@ -3,6 +3,7 @@ title: 自我进化 Agent
 type: concept
 tags:
 - 记忆系统
+- Agent 编排
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
@@ -45,3 +46,7 @@ notion_id: e81b87c9-5a69-463d-820d-08aed46164c6
 - [Evolver](entities/Evolver.md)
 
 - [AI洗代码](concepts/AI洗代码.md)
+
+- [持久化跨会话记忆](concepts/持久化跨会话记忆.md)
+
+- [Claude Code](entities/Claude Code.md)

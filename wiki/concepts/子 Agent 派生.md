@@ -6,7 +6,7 @@ tags:
 - OpenClaw
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/9b461ffd38fa4b1081a2810ae21f8b71
@@ -35,9 +35,9 @@ notion_id: 9b461ffd-38fa-4b10-81a2-810ae21f8b71
 
 ## 来源引用
 
-- 摘要：OpenClaw 2026.2.17：1M 上下文 + 子 Agent 催生的个人 AI 新范式
+- [摘要：OpenClaw 2026.2.17：1M 上下文 + 子 Agent 催生的个人 AI 新范式](summaries/摘要：OpenClaw 2026.2.17：1M 上下文 + 子 Agent 催生的个人 AI 新范式.md)
 
-- 摘要：OpenClaw 多角色 Telegram 群聊：一个 Gateway 跑产品经理、工程师、QA 的实战指南
+- [摘要：OpenClaw 多角色 Telegram 群聊：一个 Gateway 跑产品经理、工程师、QA 的实战指南](summaries/摘要：OpenClaw 多角色 Telegram 群聊：一个 Gateway 跑产品经理、工程师、QA 的实战指南.md)
 
 ## 关联概念
 
