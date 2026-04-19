@@ -60,7 +60,15 @@ GEO 的核心目标是让品牌在 AI 助手生成回答时被引用、被推荐
 
 - [摘要：用 Rust 从零构建企业级 GEO 平台，这个时代，就该考虑为AI 搜索重新定义品牌可见度](summaries/摘要：用 Rust 从零构建企业级 GEO 平台，这个时代，就该考虑为AI 搜索重新定义品牌可见度.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkxNzY0OTA4Mg%3D%3D&mid=2247493249&idx=1&sn=4e3fc5d69bcceb0789e115e5d7d05d7d&chksm=c0cf5ae96e93e68df92027ef56ea2eb1500853b7aefb103779b186837e67324c8f6fd346df90#rd)）
 
+- [摘要：Perplexity做GEO太恐怖，3天网站流量破5w](summaries/摘要：Perplexity做GEO太恐怖，3天网站流量破5w.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY5NzExMTcwMQ%3D%3D&mid=2247483881&idx=1&sn=fed427c6d0136edbc261ab0119af9562&chksm=f522f05b3273e081092074ba9774308f72abaf930156e8b1fbfe80be63f137123775c10a84c5#rd)）
+
 ## 关联概念
+
+- [Perplexity](entities/Perplexity.md)
+
+- [语义空白](concepts/语义空白.md)
+
+- [事实密度](concepts/事实密度.md)
 
 - [GEO-SEO Claude Code Skill](concepts/GEO-SEO Claude Code Skill.md)
 

@@ -130,6 +130,8 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统](summaries/摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI1MjkyNjI4NQ%3D%3D&mid=2247486639&idx=1&sn=afab9bd6fc7a268a719127ebbf1c368a&chksm=e8fcaa80f3faf33cce6201ed6bc26ddccfa5d6d6fc0c8dc4f51adf0fe53479ebd7ed270f0d14#rd)，来源条目）
 
+- [摘要：我把Hermes官方UI卸载了，换成了这个（强烈推荐）](summaries/摘要：我把Hermes官方UI卸载了，换成了这个（强烈推荐）.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI2NjY5MjQzNQ%3D%3D&mid=2247484066&idx=1&sn=ce0a80a4e845c299dfcd7657277dfcab&chksm=eb567d729812b0d01454660a9b5ca7be3bd1ae5455eaf0ea2cba904bfa35775ad0e17f1bd1d6#rd)）
+
 ## 关联概念
 
 - [OpenCLI](entities/OpenCLI.md)

@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-19T13:32:47.914579+08:00",
+  "last_sync_time": "2026-04-19T19:25:01.047044+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 2828,
+  "total_pages_exported": 2832,
   "page_mapping": {
     "f67e1c5d-150f-488a-83be-73f65b950f37": {
       "type": "concept",
@@ -1156,7 +1156,7 @@
     "53e7e875-8438-4ab9-8502-3fee76a437ac": {
       "type": "concept",
       "file_path": "wiki/concepts/Cron 自动化.md",
-      "last_edited": "2026-04-17T16:31:00.000Z"
+      "last_edited": "2026-04-19T06:29:00.000Z"
     },
     "1867d67f-7e69-4d14-b0bd-09a4c6ff3003": {
       "type": "concept",
@@ -1451,7 +1451,7 @@
     "3eb08e5c-d1a4-4ecc-9c36-2f97edc1cc36": {
       "type": "concept",
       "file_path": "wiki/concepts/FTS5 全文检索.md",
-      "last_edited": "2026-04-17T17:41:00.000Z"
+      "last_edited": "2026-04-19T09:23:00.000Z"
     },
     "8005b6c2-9d46-41ea-ac1c-8d9ce4099125": {
       "type": "concept",
@@ -1506,7 +1506,7 @@
     "f7bf57a9-3310-43c3-8914-550648f2465c": {
       "type": "concept",
       "file_path": "wiki/concepts/GEO.md",
-      "last_edited": "2026-04-18T22:47:00.000Z"
+      "last_edited": "2026-04-19T10:25:00.000Z"
     },
     "f77eb53b-2af2-487b-9980-e1c738cb8b11": {
       "type": "concept",
@@ -3206,7 +3206,7 @@
     "b0df5a30-311d-45ae-bbe1-65ea6781a1c5": {
       "type": "concept",
       "file_path": "wiki/concepts/wake-up 协议.md",
-      "last_edited": "2026-04-17T17:41:00.000Z"
+      "last_edited": "2026-04-19T09:23:00.000Z"
     },
     "1a3e4b98-a8f1-4648-bae0-218a73d5aa3a": {
       "type": "concept",
@@ -4631,7 +4631,7 @@
     "2229655f-26d2-4c5c-ad66-381e693dac44": {
       "type": "concept",
       "file_path": "wiki/concepts/时序知识图谱.md",
-      "last_edited": "2026-04-17T17:41:00.000Z"
+      "last_edited": "2026-04-19T09:23:00.000Z"
     },
     "92cb1b74-7cad-4b0b-bd78-fe815b499231": {
       "type": "concept",
@@ -5051,7 +5051,7 @@
     "b556b630-2fdf-4d6d-ab65-44caf68c1e99": {
       "type": "concept",
       "file_path": "wiki/concepts/知识生命周期.md",
-      "last_edited": "2026-04-17T17:41:00.000Z"
+      "last_edited": "2026-04-19T09:23:00.000Z"
     },
     "5c1a6a7a-7a18-4ed4-91a0-62bfd07e7a4f": {
       "type": "concept",
@@ -12136,7 +12136,7 @@
     "e47e7d37-ec9f-452a-80c2-70954a83ee35": {
       "type": "entity",
       "file_path": "wiki/entities/Hermes Agent.md",
-      "last_edited": "2026-04-19T05:28:00.000Z"
+      "last_edited": "2026-04-19T06:29:00.000Z"
     },
     "d7b1bdca-3e38-43d4-bfeb-dce9b91804e1": {
       "type": "entity",
@@ -12151,7 +12151,7 @@
     "9082f2e4-751f-4574-ba1d-0ea636647df9": {
       "type": "entity",
       "file_path": "wiki/entities/Hermes WebUI.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-19T06:29:00.000Z"
     },
     "bc3b7bf5-b334-41c1-968e-fa8cfa388ac6": {
       "type": "entity",
@@ -13951,12 +13951,12 @@
     "2ebdc9dd-c80e-41e1-aacc-eb06d570d876": {
       "type": "concept",
       "file_path": "wiki/concepts/难负样本挖掘.md",
-      "last_edited": "2026-04-18T22:53:00.000Z"
+      "last_edited": "2026-04-19T09:22:00.000Z"
     },
     "31cab0dd-eef5-4269-86b6-28e7c2d86cd2": {
       "type": "concept",
       "file_path": "wiki/concepts/分布偏移.md",
-      "last_edited": "2026-04-18T22:47:00.000Z"
+      "last_edited": "2026-04-19T09:23:00.000Z"
     },
     "3b9b3b4d-c50b-4dfd-b0fe-0e0ba5101ad8": {
       "type": "summary",
@@ -13996,7 +13996,7 @@
     "5c8777b7-c406-4c5e-ac4c-be9d73ce22d7": {
       "type": "concept",
       "file_path": "wiki/concepts/SkillRouter.md",
-      "last_edited": "2026-04-18T22:53:00.000Z"
+      "last_edited": "2026-04-19T09:23:00.000Z"
     },
     "5d08ec94-3655-442a-bd8f-ecda69f79642": {
       "type": "entity",
@@ -14021,7 +14021,7 @@
     "7a3cc1cb-f207-462a-8a4b-62b59294f9e2": {
       "type": "concept",
       "file_path": "wiki/concepts/黑暗模式.md",
-      "last_edited": "2026-04-18T22:47:00.000Z"
+      "last_edited": "2026-04-19T09:23:00.000Z"
     },
     "8429aac6-30d9-4683-b148-e645ad91c0a2": {
       "type": "summary",
@@ -14061,7 +14061,7 @@
     "ad2544d5-3534-4b85-8caa-dc4d2f57538b": {
       "type": "concept",
       "file_path": "wiki/concepts/知识流形.md",
-      "last_edited": "2026-04-18T22:47:00.000Z"
+      "last_edited": "2026-04-19T09:23:00.000Z"
     },
     "b0641980-52a6-4026-b3b9-90d54ed8e85a": {
       "type": "summary",
@@ -14091,12 +14091,12 @@
     "ccfd280a-a50c-4534-a2a9-5780ff104f0b": {
       "type": "concept",
       "file_path": "wiki/concepts/伦理漂移.md",
-      "last_edited": "2026-04-18T22:47:00.000Z"
+      "last_edited": "2026-04-19T09:23:00.000Z"
     },
     "d10fecd1-399c-4aa1-8e0f-99957f7123a6": {
       "type": "concept",
       "file_path": "wiki/concepts/内在知识治理.md",
-      "last_edited": "2026-04-18T22:47:00.000Z"
+      "last_edited": "2026-04-19T09:23:00.000Z"
     },
     "d9eaa1c4-1006-4549-991f-91e1c6c73889": {
       "type": "summary",
@@ -14111,7 +14111,7 @@
     "fed3bf08-e2a1-4301-9b30-9d50a6708ec4": {
       "type": "concept",
       "file_path": "wiki/concepts/假阴性过滤.md",
-      "last_edited": "2026-04-18T22:53:00.000Z"
+      "last_edited": "2026-04-19T09:22:00.000Z"
     },
     "434bea25-1abc-4c35-8cd6-61a50faa5ae0": {
       "type": "summary",
@@ -14126,12 +14126,42 @@
     "ac9f4e24-fe65-45c4-9ab7-3c8c355f840a": {
       "type": "concept",
       "file_path": "wiki/concepts/部署安全.md",
-      "last_edited": "2026-04-19T03:26:00.000Z"
+      "last_edited": "2026-04-19T09:22:00.000Z"
     },
     "e88397cc-c246-4923-a215-23b67cbdb23c": {
       "type": "concept",
       "file_path": "wiki/concepts/联邦定制化接入.md",
-      "last_edited": "2026-04-19T03:26:00.000Z"
+      "last_edited": "2026-04-19T09:22:00.000Z"
+    },
+    "07ff4c93-e820-48ae-a9b1-4eb152f1b0ac": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：Perplexity做GEO太恐怖，3天网站流量破5w.md",
+      "last_edited": "2026-04-19T10:25:00.000Z"
+    },
+    "3216e29c-1046-4ffb-9487-4dd7d8aee559": {
+      "type": "concept",
+      "file_path": "wiki/concepts/语义空白.md",
+      "last_edited": "2026-04-19T10:25:00.000Z"
+    },
+    "462c5384-9c24-42d2-b63b-7579d463339a": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑.md",
+      "last_edited": "2026-04-19T09:22:00.000Z"
+    },
+    "72ce129c-bd4c-44da-8c8d-858d52e3cc80": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：我把Hermes官方UI卸载了，换成了这个（强烈推荐）.md",
+      "last_edited": "2026-04-19T06:28:00.000Z"
+    },
+    "7b17933e-0487-4ac7-8747-054a8e8105d0": {
+      "type": "entity",
+      "file_path": "wiki/entities/Perplexity.md",
+      "last_edited": "2026-04-19T10:25:00.000Z"
+    },
+    "bc28be05-8841-42d0-b6e3-a477253dba68": {
+      "type": "concept",
+      "file_path": "wiki/concepts/事实密度.md",
+      "last_edited": "2026-04-19T10:25:00.000Z"
     }
   }
 }
