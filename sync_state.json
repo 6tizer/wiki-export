@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-20T01:27:21.451669+08:00",
+  "last_sync_time": "2026-04-20T07:28:50.160902+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 2836,
+  "total_pages_exported": 2838,
   "page_mapping": {
     "f67e1c5d-150f-488a-83be-73f65b950f37": {
       "type": "concept",
@@ -51,7 +51,7 @@
     "2a82a631-fad9-4b52-b195-63c56c6cfdae": {
       "type": "concept",
       "file_path": "wiki/concepts/AaaS 商业模式.md",
-      "last_edited": "2026-04-19T15:21:00.000Z"
+      "last_edited": "2026-04-19T19:46:00.000Z"
     },
     "71b09e59-e2e2-4091-ad8a-1175c2f96bca": {
       "type": "concept",
@@ -581,7 +581,7 @@
     "fce3a27f-9450-4ba2-8165-c55dfaafb546": {
       "type": "concept",
       "file_path": "wiki/concepts/AI小程序成长计划.md",
-      "last_edited": "2026-04-19T15:22:00.000Z"
+      "last_edited": "2026-04-19T19:49:00.000Z"
     },
     "103d3dc0-bafe-4040-8f8b-a4b9ff8a1916": {
       "type": "concept",
@@ -1376,7 +1376,7 @@
     "8268d486-b893-48d8-89e7-4a6941f831bc": {
       "type": "concept",
       "file_path": "wiki/concepts/Fanout Backlog.md",
-      "last_edited": "2026-04-19T15:21:00.000Z"
+      "last_edited": "2026-04-19T21:22:00.000Z"
     },
     "028ff024-1694-4b74-b299-a195d243ad34": {
       "type": "concept",
@@ -1406,7 +1406,7 @@
     "e607b082-3958-41c5-b000-e089b246decf": {
       "type": "entity",
       "file_path": "wiki/entities/Fiat24.md",
-      "last_edited": "2026-04-19T04:31:00.000Z"
+      "last_edited": "2026-04-19T21:23:00.000Z"
     },
     "c75ed412-6293-4d80-b02a-6a40b8b1162c": {
       "type": "concept",
@@ -1856,7 +1856,7 @@
     "6449d112-806e-4d3c-a67b-ca93875e0919": {
       "type": "concept",
       "file_path": "wiki/concepts/LLM Graph Transformer.md",
-      "last_edited": "2026-04-19T15:21:00.000Z"
+      "last_edited": "2026-04-19T19:46:00.000Z"
     },
     "4753c971-7253-4d97-b012-4cf8e798fe6d": {
       "type": "concept",
@@ -4221,7 +4221,7 @@
     "ba11cff7-7d44-4922-9f86-7173b90842c8": {
       "type": "concept",
       "file_path": "wiki/concepts/小红书引流.md",
-      "last_edited": "2026-04-19T15:22:00.000Z"
+      "last_edited": "2026-04-19T19:49:00.000Z"
     },
     "830c302e-0505-405c-a1e1-c5e55e460714": {
       "type": "concept",
@@ -4341,7 +4341,7 @@
     "e79b6a32-3029-4b6d-9240-65dadfcbc2bd": {
       "type": "concept",
       "file_path": "wiki/concepts/思维压缩.md",
-      "last_edited": "2026-04-18T03:51:00.000Z"
+      "last_edited": "2026-04-19T21:22:00.000Z"
     },
     "7678c7f6-181f-4602-a8f6-d8efde09d9c9": {
       "type": "concept",
@@ -5566,7 +5566,7 @@
     "fe8c1e39-69d2-49a7-9e8a-2b9a608bd50d": {
       "type": "concept",
       "file_path": "wiki/concepts/评估感知.md",
-      "last_edited": "2026-04-18T03:51:00.000Z"
+      "last_edited": "2026-04-19T21:22:00.000Z"
     },
     "4d9c3ebd-fb29-4f12-88e0-54634e6947a1": {
       "type": "concept",
@@ -11136,7 +11136,7 @@
     "d701c529-1bde-4f08-ad35-939865cc5865": {
       "type": "entity",
       "file_path": "wiki/entities/ARC-Rig 框架.md",
-      "last_edited": "2026-04-19T15:23:00.000Z"
+      "last_edited": "2026-04-19T20:02:00.000Z"
     },
     "99aeec5f-1a24-4777-88d7-395c0e358824": {
       "type": "entity",
@@ -11176,7 +11176,7 @@
     "a037248e-a62b-49f8-ab36-292f0e93ffac": {
       "type": "entity",
       "file_path": "wiki/entities/AutoGen.md",
-      "last_edited": "2026-04-19T15:23:00.000Z"
+      "last_edited": "2026-04-19T20:02:00.000Z"
     },
     "6a8cb9b4-e047-4053-be1b-5f821ce03cef": {
       "type": "entity",
@@ -12296,7 +12296,7 @@
     "51899a21-2091-43d1-9b0b-d28657508e92": {
       "type": "entity",
       "file_path": "wiki/entities/LangChain.md",
-      "last_edited": "2026-04-19T15:23:00.000Z"
+      "last_edited": "2026-04-19T20:02:00.000Z"
     },
     "c6734e11-29dd-49d4-b791-2730d55bfbe4": {
       "type": "entity",
@@ -12471,7 +12471,7 @@
     "a33347ee-f030-4c96-ac05-7551cb69dc8c": {
       "type": "entity",
       "file_path": "wiki/entities/Meta Superintelligence Labs.md",
-      "last_edited": "2026-04-18T03:51:00.000Z"
+      "last_edited": "2026-04-19T21:22:00.000Z"
     },
     "3e46dd63-52ac-46bb-b68b-ac3542bc2b69": {
       "type": "entity",
@@ -12511,7 +12511,7 @@
     "bb112c94-669e-4eae-9ade-4a7d6402d6b4": {
       "type": "entity",
       "file_path": "wiki/entities/MiniMax M2.5.md",
-      "last_edited": "2026-04-19T15:24:00.000Z"
+      "last_edited": "2026-04-19T20:02:00.000Z"
     },
     "8bca6260-0086-4f3b-9ce1-e029fc869ccd": {
       "type": "entity",
@@ -12991,7 +12991,7 @@
     "fb5b5c5f-c1ff-4620-bed4-688b02f8efff": {
       "type": "entity",
       "file_path": "wiki/entities/Qdrant.md",
-      "last_edited": "2026-04-18T22:47:00.000Z"
+      "last_edited": "2026-04-19T21:21:00.000Z"
     },
     "0e6bb996-e5b1-4f47-8831-ae26191a00ef": {
       "type": "entity",
@@ -14182,6 +14182,16 @@
       "type": "summary",
       "file_path": "wiki/summaries/摘要：刚刚，Claude被扒底裤！Mythos算力带不动，万亿估值全靠末日恐慌.md",
       "last_edited": "2026-04-19T11:41:00.000Z"
+    },
+    "3cb2730c-412d-464d-93b5-5e8dd5306f29": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施.md",
+      "last_edited": "2026-04-19T21:08:00.000Z"
+    },
+    "fb9c9c53-e2a4-499d-bc7a-0cb799592f68": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/LLM 能力边界如何塑造 Agent 技能形态：从结构化工具调用到多模态自主操作的技能架构分层与演进路径.md",
+      "last_edited": "2026-04-19T21:09:00.000Z"
     }
   }
 }

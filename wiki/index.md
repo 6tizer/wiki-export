@@ -2,13 +2,13 @@
 type: index
 total_concepts: 1224
 total_entities: 571
-total_syntheses: 55
+total_syntheses: 57
 last_updated: 2026-04-20
 ---
 
 # 📚 知识 Wiki Index
 
-> 1224 concepts · 571 entities · 55 syntheses
+> 1224 concepts · 571 entities · 57 syntheses
 > 导出时间: 2026-04-20
 
 ## 使用方式
@@ -2978,6 +2978,7 @@ last_updated: 2026-04-20
 - [AI 内容创作全景：从生成式媒体到 Agent 驱动的端到端内容工厂演进路径](syntheses/AI 内容创作全景：从生成式媒体到 Agent 驱动的端到端内容工厂演进路径.md)
 - [AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势](syntheses/AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势.md)
 - [AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路内容工厂的工作流范式分化](syntheses/AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路内容工厂的工作流范式分化.md)
+- [AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施](syntheses/AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施.md)
 - [AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统](syntheses/AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统.md)
 - [AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑](syntheses/AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑.md)
 - [Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进](syntheses/Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进.md)
@@ -2996,6 +2997,7 @@ last_updated: 2026-04-20
 - [Crypto/DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径](syntheses/Crypto-DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径.md)
 - [LLM 与 Agent 编排的交叉地带：从模型路由到群体智能的多模型协作范式演进](syntheses/LLM 与 Agent 编排的交叉地带：从模型路由到群体智能的多模型协作范式演进.md)
 - [LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略](syntheses/LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略.md)
+- [LLM 能力边界如何塑造 Agent 技能形态：从结构化工具调用到多模态自主操作的技能架构分层与演进路径](syntheses/LLM 能力边界如何塑造 Agent 技能形态：从结构化工具调用到多模态自主操作的技能架构分层与演进路径.md)
 - [Notion AI Agent 能力边界与「指挥部」演进路径：从知识库到执行中枢](syntheses/Notion AI Agent 能力边界与「指挥部」演进路径：从知识库到执行中枢.md)
 - [OpenClaw 多智能体编排实践图谱：从单体助手到自组织 Agent 团队的六种架构模式](syntheses/OpenClaw 多智能体编排实践图谱：从单体助手到自组织 Agent 团队的六种架构模式.md)
 - [OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进](syntheses/OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进.md)
