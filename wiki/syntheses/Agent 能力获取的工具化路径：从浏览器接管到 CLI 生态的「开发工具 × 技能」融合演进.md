@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - 开发工具
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
@@ -110,7 +110,7 @@ graph LR
 
 - [网站 CLI 化](concepts/网站 CLI 化.md)
 
-- [OpenCLI 插件系统](concepts/OpenCLI 插件系统.md)
+- [OpenCLI 插件系统](entities/OpenCLI 插件系统.md)
 
 - [结构化网页抓取](concepts/结构化网页抓取.md)
 

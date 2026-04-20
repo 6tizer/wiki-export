@@ -2,7 +2,7 @@
 title: OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比
 type: synthesis
 tags: []
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: ''

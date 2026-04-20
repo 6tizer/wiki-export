@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - Agent 技能
 - Crypto/DeFi
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
@@ -31,7 +31,7 @@ notion_id: 3ba07564-dc70-4fd2-9f72-0d404f8d51d2
 
 | **执行层** | 标准化交易操作与链上执行 | [Untitled](concepts/链上交易 Skill.md)、[Untitled](concepts/托管式链上交易 API.md) | 扫链、下单、风控、多链路由 |
 
-| **分发层** | 内容与信号的跨平台同步 | [Untitled](concepts/6551-twitter-to-binance-square.md) | 监控 → 格式化 → 跨平台发布 |
+| **分发层** | 内容与信号的跨平台同步 | [Untitled](entities/6551-twitter-to-binance-square.md) | 监控 → 格式化 → 跨平台发布 |
 
 这一分层揭示了加密 Agent 技能并非单一的「交易工具」，而是从意图理解到执行再到内容分发的**完整工作流能力链**。
 
@@ -43,7 +43,7 @@ notion_id: 3ba07564-dc70-4fd2-9f72-0d404f8d51d2
 
 | --- | --- | --- |
 
-| **代表** | [Untitled](concepts/Gate MCP Skills.md)、[Untitled](concepts/Binance Skills Hub.md) | [Untitled](concepts/托管式链上交易 API.md)、[Untitled](concepts/链上交易 Skill.md) |
+| **代表** | [Untitled](concepts/Gate MCP Skills.md)、[Untitled](entities/Binance Skills Hub.md) | [Untitled](concepts/托管式链上交易 API.md)、[Untitled](concepts/链上交易 Skill.md) |
 
 | **覆盖范围** | CEX + DEX + 钱包 + 资讯 + 链上分析 | 聚焦链上交易，尤其 Meme/Solana 场景 |
 
@@ -101,11 +101,11 @@ Binance Skills Hub 展示了一个完整的交易决策闭环：
 
 - [Gate MCP Skills](concepts/Gate MCP Skills.md)
 
-- [6551-twitter-to-binance-square](concepts/6551-twitter-to-binance-square.md)
+- [6551-twitter-to-binance-square](entities/6551-twitter-to-binance-square.md)
 
 - [自然语言交易执行](concepts/自然语言交易执行.md)
 
-- [Binance Skills Hub](concepts/Binance Skills Hub.md)
+- [Binance Skills Hub](entities/Binance Skills Hub.md)
 
 - [托管式链上交易 API](concepts/托管式链上交易 API.md)
 

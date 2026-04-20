@@ -3,7 +3,7 @@ title: 知识 Wiki 系统大升级：V2 设计决策与执行全记录
 type: synthesis
 tags:
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''

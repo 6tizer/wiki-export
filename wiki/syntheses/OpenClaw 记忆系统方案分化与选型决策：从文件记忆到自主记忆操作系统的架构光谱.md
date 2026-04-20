@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - OpenClaw
 - 记忆系统
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
@@ -155,7 +155,7 @@ flowchart LR
 
 - [MemOS](entities/MemOS.md)
 
-- [OpenClaw Context Engine](concepts/OpenClaw Context Engine.md)
+- [OpenClaw Context Engine](entities/OpenClaw Context Engine.md)
 
 - [记忆热插拔](concepts/记忆热插拔.md)
 

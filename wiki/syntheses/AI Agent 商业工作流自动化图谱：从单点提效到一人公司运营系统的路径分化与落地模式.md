@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - 商业/生态
 - 工作流
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
@@ -109,7 +109,7 @@ notion_id: 9ec3be29-88df-4c5d-9f6b-851526234d07
 
 ### 概念页
 
-- [AEO Engine](concepts/AEO Engine.md)
+- [AEO Engine](entities/AEO Engine.md)
 
 - [AI CRM](concepts/AI CRM.md)
 

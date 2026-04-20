@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-21T01:42:54.724928+08:00",
+  "last_sync_time": "2026-04-21T07:48:40.041839+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 3231,
+  "total_pages_exported": 3238,
   "page_mapping": {
     "f67e1c5d-150f-488a-83be-73f65b950f37": {
       "type": "concept",
@@ -16,7 +16,7 @@
     "2075ecf9-da44-41e6-a6f0-16a57c9db645": {
       "type": "concept",
       "file_path": "wiki/concepts/3D Gaussian Splatting.md",
-      "last_edited": "2026-04-20T05:39:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "2d2c636b-3898-4358-a35d-61954195791f": {
       "type": "concept",
@@ -29,9 +29,9 @@
       "last_edited": "2026-04-17T14:18:00.000Z"
     },
     "820aa186-39ce-48d0-9e2e-058a45a373e9": {
-      "type": "concept",
-      "file_path": "wiki/concepts/6551-twitter-to-binance-square.md",
-      "last_edited": "2026-04-11T18:57:00.000Z"
+      "type": "entity",
+      "file_path": "wiki/entities/6551-twitter-to-binance-square.md",
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "f5a880f9-619b-42c4-8854-1b3d4616c371": {
       "type": "concept",
@@ -89,9 +89,9 @@
       "last_edited": "2026-04-17T14:18:00.000Z"
     },
     "f7f6da14-b3d7-4773-bcf5-f2fb8104fa5e": {
-      "type": "concept",
-      "file_path": "wiki/concepts/AEO Engine.md",
-      "last_edited": "2026-04-18T03:51:00.000Z"
+      "type": "entity",
+      "file_path": "wiki/entities/AEO Engine.md",
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "21f03935-68e6-4b14-bcfe-91eb6a0f5a40": {
       "type": "concept",
@@ -536,12 +536,12 @@
     "8de4a11e-5361-4523-b5ff-af51a9400218": {
       "type": "concept",
       "file_path": "wiki/concepts/AI 自修改代码.md",
-      "last_edited": "2026-04-20T00:33:00.000Z"
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "b6d40e70-b845-40fb-8873-20e9cc71bd89": {
       "type": "concept",
       "file_path": "wiki/concepts/AI 身份模型.md",
-      "last_edited": "2026-04-20T00:32:00.000Z"
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "06f9bf47-1af8-40c1-a883-734ba6a80ffe": {
       "type": "concept",
@@ -604,9 +604,9 @@
       "last_edited": "2026-04-17T14:18:00.000Z"
     },
     "2ef12e54-151f-4b3a-b38e-4f1445bdc5dd": {
-      "type": "concept",
-      "file_path": "wiki/concepts/andrej-karpathy-skills.md",
-      "last_edited": "2026-04-20T06:26:00.000Z"
+      "type": "entity",
+      "file_path": "wiki/entities/andrej-karpathy-skills.md",
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "236699ac-0dfe-44a6-a55a-d380274cdfa5": {
       "type": "concept",
@@ -679,9 +679,9 @@
       "last_edited": "2026-04-17T16:31:00.000Z"
     },
     "3264e3fa-96a3-41cb-aedf-1563df82316f": {
-      "type": "concept",
-      "file_path": "wiki/concepts/automation-workflows.md",
-      "last_edited": "2026-04-18T03:51:00.000Z"
+      "type": "entity",
+      "file_path": "wiki/entities/automation-workflows.md",
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "2d71f78c-23b7-41ba-8443-c011efd7cbf1": {
       "type": "concept",
@@ -724,9 +724,9 @@
       "last_edited": "2026-04-17T17:29:00.000Z"
     },
     "b38538c7-88ca-4004-8420-ab6767771db4": {
-      "type": "concept",
-      "file_path": "wiki/concepts/Binance Skills Hub.md",
-      "last_edited": "2026-04-18T03:51:00.000Z"
+      "type": "entity",
+      "file_path": "wiki/entities/Binance Skills Hub.md",
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "87b0e99f-0a08-4a21-ac9c-0634e1a49a5c": {
       "type": "concept",
@@ -811,7 +811,7 @@
     "2f0a3acb-3165-4ef3-b48d-844a1bfb865a": {
       "type": "concept",
       "file_path": "wiki/concepts/Builder-Reviewer 模式.md",
-      "last_edited": "2026-04-20T04:41:00.000Z"
+      "last_edited": "2026-04-20T19:48:00.000Z"
     },
     "e88a4b7b-0d83-42f0-8b1f-24295a5bbb00": {
       "type": "concept",
@@ -2219,9 +2219,9 @@
       "last_edited": "2026-04-17T14:38:00.000Z"
     },
     "22cda294-74a5-4c5a-ab5f-545395790afb": {
-      "type": "concept",
-      "file_path": "wiki/concepts/OpenClaw Context Engine.md",
-      "last_edited": "2026-04-18T03:51:00.000Z"
+      "type": "entity",
+      "file_path": "wiki/entities/OpenClaw Context Engine.md",
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "cfaafbf8-dab1-4f57-9f42-a0fab6c78e37": {
       "type": "concept",
@@ -2254,9 +2254,9 @@
       "last_edited": "2026-04-17T14:34:00.000Z"
     },
     "da9113e7-2c44-47d8-820d-52ecdbe7c289": {
-      "type": "concept",
-      "file_path": "wiki/concepts/OpenCLI 插件系统.md",
-      "last_edited": "2026-04-18T03:51:00.000Z"
+      "type": "entity",
+      "file_path": "wiki/entities/OpenCLI 插件系统.md",
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "ccf2a761-ab13-4196-81d0-7eaa48c08637": {
       "type": "concept",
@@ -3069,9 +3069,9 @@
       "last_edited": "2026-04-20T05:48:00.000Z"
     },
     "0158c38c-a6f1-4e60-86ab-57c982672b4c": {
-      "type": "concept",
-      "file_path": "wiki/concepts/Tool Calling 2.0.md",
-      "last_edited": "2026-04-17T16:45:00.000Z"
+      "type": "entity",
+      "file_path": "wiki/entities/Tool Calling 2.0.md",
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "d9806600-4759-4c17-b8aa-54e03bdda907": {
       "type": "concept",
@@ -3299,9 +3299,9 @@
       "last_edited": "2026-04-18T03:51:00.000Z"
     },
     "b183e91a-0d1c-4690-948a-99e5c5750689": {
-      "type": "concept",
-      "file_path": "wiki/concepts/xiaohongshu-skills.md",
-      "last_edited": "2026-04-18T03:51:00.000Z"
+      "type": "entity",
+      "file_path": "wiki/entities/xiaohongshu-skills.md",
+      "last_edited": "2026-04-20T17:43:00.000Z"
     },
     "0ceb4d05-1105-459f-ae80-d23ba620a16b": {
       "type": "concept",
@@ -4016,7 +4016,7 @@
     "f24ad430-054f-4646-b2ab-f5d56d20483d": {
       "type": "concept",
       "file_path": "wiki/concepts/多 Agent 协作工作流.md",
-      "last_edited": "2026-04-20T02:18:00.000Z"
+      "last_edited": "2026-04-20T17:52:00.000Z"
     },
     "708c2cc6-8133-411c-afbe-d90b81d3dcc5": {
       "type": "concept",
@@ -4451,7 +4451,7 @@
     "ae178b4b-1638-47a3-8a1a-0641ea5c491d": {
       "type": "concept",
       "file_path": "wiki/concepts/持久化跨会话记忆.md",
-      "last_edited": "2026-04-20T08:47:00.000Z"
+      "last_edited": "2026-04-20T17:52:00.000Z"
     },
     "9d94a054-4145-469a-9a26-d516d38b747c": {
       "type": "concept",
@@ -10681,242 +10681,242 @@
     "da4fb737-bc39-40ea-8498-aadef8962401": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:46:00.000Z"
     },
     "9276e91f-b3f7-4c23-9198-c13dbb3c7fe0": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Agent 技能从静态封装到工作流原子的演进路径：能力获取、蒸馏复用与质量治理的三重架构分层.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:48:00.000Z"
     },
     "a3d82002-0e42-45ec-86fc-251376d9100d": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Agent 框架的可组合扩展性设计：从技能注入到记忆集成的架构模式对比与选型指南.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "fbbf7203-0f98-40e4-bf8b-3ec537ac3d30": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Agent 框架选型决策维度：从安全隔离到商业分发的多层权衡与实践路径.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "4d83a484-ab1f-41ac-81e3-1c52a1954e76": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Agent 编排与记忆系统的协同演化：从上下文工程到自主人格的架构融合光谱.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "50bbfe44-c5be-4db7-9133-a414d5a962f2": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:46:00.000Z"
     },
     "562985e7-a0ab-4c5d-8430-7c81be6dfe63": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI × Crypto 融合全景：从链上基础设施到自主交易 Agent 的技术栈与策略演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "31f922c0-208f-4cac-a156-0d3307add005": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 商业化路径全景：从内容变现到链上经济体的三条演进主线.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "9ec3be29-88df-4c5d-9f6b-851526234d07": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 商业工作流自动化图谱：从单点提效到一人公司运营系统的路径分化与落地模式.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "96393bc5-20ea-401a-98e9-3065a69f02c8": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 安全基础设施分层图谱：从沙箱隔离到网络身份伪装的开发工具链演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:46:00.000Z"
     },
     "ad6c37c8-ff33-4168-bcf8-ef263d902085": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 安全攻防全景：从提示注入到隐私计算的多层防御体系演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "20c862a6-5f12-426a-a01e-8f4b373d85c1": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 工作流控制体系：从调度执行到自主进化的架构全景.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "175a3009-f1b4-4889-8acd-9e2f9d752267": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 开发工具链全景：从协议标准到技能市场的能力获取路径演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "15476d5c-2750-457b-a978-91286f0c6f79": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 技能生态全景：从静态工具到自进化能力系统的设计范式与落地路径.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "646ea892-9980-4a93-8ae3-baff67bfd77b": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 框架分化全景：从应用层胶水到操作系统级基础设施的架构哲学与路径选择.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "67ed06a9-cd50-459f-b338-aef551cfe7fe": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 编排模式全景：从单体循环到自进化集群的架构演进与设计权衡.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "0406b30a-4be7-4302-b52b-83fc7d53ea93": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 记忆系统工程化全景：从分层存储到智能遗忘的设计模式与实现路径.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "54b26788-ef86-4775-b104-378f5bcf9db4": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 记忆系统方案对比与演进路径.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "901f84dc-5cde-421e-90b9-f7b1155ec938": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI Agent 链上经济协议栈：从身份注册到自主商务的基础设施分层与商业模式演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "6eae3d7f-b17c-4e2e-82a2-7e8608cd539b": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI 内容创作全景：从生成式媒体到 Agent 驱动的端到端内容工厂演进路径.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "e22d10f7-196c-49b8-8fd0-5994a84273f1": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "e603da75-21ba-4c1c-8173-a384d85424c8": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路内容工厂的工作流范式分化.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "a4b34108-2c96-4d48-be0a-a748e9ee0a25": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "7f67557c-5fe3-4dd7-9ae0-65c2aa43a53e": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Coding Agent 多智能体编排：从单体循环到虚拟工程团队的协作范式与架构权衡.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "984c245b-7a6e-4d27-8446-e5ff8b29a6ea": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Coding Agent 工作流方法论光谱：从验证闭环到自进化开发管线的十种设计模式.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:46:00.000Z"
     },
     "d2256ba2-9b03-4a51-a8ee-5e862428c9b0": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Coding Agent 开发范式演进：从氛围编程到规范驱动的工程化路径与工具链全景.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "f1f193fa-32f7-45c5-a07a-39cc6250ca84": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "a73cf2ea-3a6b-4f83-92ec-9d386e5a2ab8": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:46:00.000Z"
     },
     "dae1c662-5a4b-4b7e-bedc-5fc211eaca31": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Coding Agent 记忆系统设计范式：从成本优先的层级压缩到协议驱动的跨项目知识迁移.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "b4510c4b-80ad-488e-b188-c624a95e8445": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/LLM 与 Agent 编排的交叉地带：从模型路由到群体智能的多模型协作范式演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:46:00.000Z"
     },
     "888fa80d-3f30-4bf3-8143-a8c25ad4e30d": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "741e47a0-f6b6-41a2-8ff9-5663a912b442": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Notion AI Agent 能力边界与「指挥部」演进路径：从知识库到执行中枢.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:46:00.000Z"
     },
     "3e5065f6-6866-420f-9088-c8e98c797f91": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/OpenClaw 多智能体编排实践图谱：从单体助手到自组织 Agent 团队的六种架构模式.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:46:00.000Z"
     },
     "db6fb9bc-c961-46ba-b8e7-ec23e26ffc3c": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "7ff75a74-d007-4274-8c94-a42de4412310": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/OpenClaw 平台架构全景：从配置分层到安全治理的模块化设计哲学与工程实践.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "0aa94eb5-b614-4380-bbb6-d6d81093cf57": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/OpenClaw 技能生态深度解剖：从技能文件到自进化能力系统的架构分层与市场格局.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "87fdd728-e9af-4f0a-a172-70f4ec345ae2": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "d1e1e1c3-3c45-41ba-a93d-4b98ca783c19": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "27e6908d-dae7-4cfc-8391-37c06b9863b7": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:46:00.000Z"
     },
     "3ba07564-dc70-4fd2-9f72-0d404f8d51d2": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "e2c8df1f-fe25-428f-964d-78ac23a3d4da": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "8a76074d-33b5-4dc3-97e8-d1eb8cabca11": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "9d35da44-db2b-462a-a221-3f8394ca75ef": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "ec381580-5b9d-4eea-a364-98f7ace69ef5": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/开发工具如何重塑 Agent 时代的工作流：从部署底座到远程操控的工具化路径演进.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:46:00.000Z"
     },
     "22dabdd5-d3a3-49d9-a15b-f6a0e86fda2f": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/知识 Wiki 双轨系统方案：从 Notion 编译引擎到本地 Markdown 分发层.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "5b1488a8-4d2e-4a94-b725-ca25369f61d5": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/知识 Wiki 系统大升级：V2 设计决策与执行全记录.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:44:00.000Z"
     },
     "a8503792-4457-4d79-8b2b-3b4127b09957": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/知识工作流自动化全链路：从信息源筛选到知识资产沉淀的管线设计与演进模式.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:45:00.000Z"
     },
     "1249bdf6-ad33-4e11-ad3d-44fde9cb241f": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/系统重设计方案：状态体系 + Dashboard V2.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "06e393f7-6f70-4903-8758-28f6d4600c1f": {
       "type": "entity",
@@ -11551,7 +11551,7 @@
     "249af11e-2ddb-4404-b6cd-8ac5e85946c4": {
       "type": "entity",
       "file_path": "wiki/entities/Codex.md",
-      "last_edited": "2026-04-20T13:42:00.000Z"
+      "last_edited": "2026-04-20T17:53:00.000Z"
     },
     "b627403d-cb4f-4a5b-b09c-9774e66b1669": {
       "type": "entity",
@@ -12596,7 +12596,7 @@
     "c7c364d3-beb3-49c0-9307-a8bd8df19172": {
       "type": "entity",
       "file_path": "wiki/entities/oh-my-codex.md",
-      "last_edited": "2026-04-17T14:18:00.000Z"
+      "last_edited": "2026-04-20T17:52:00.000Z"
     },
     "a9d76cfc-f27e-4da6-9185-b5e52874aeda": {
       "type": "entity",
@@ -13631,12 +13631,12 @@
     "f2630e3f-f2fe-4648-a08f-4e3e5e4cf46c": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/大语言模型商业化分层图谱：从算力竞赛到效率经营的价值捕获路径分化.md",
-      "last_edited": "2026-04-17T21:23:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "f4ad8ad5-00c2-459a-a05b-8a510866573f": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Coding Agent 开发工具链深度融合：从终端交互到上下文治理的基础设施协同演进.md",
-      "last_edited": "2026-04-17T21:21:00.000Z"
+      "last_edited": "2026-04-20T17:47:00.000Z"
     },
     "08ad50e2-55eb-4612-b186-b9a0321f8ad4": {
       "type": "concept",
@@ -13776,7 +13776,7 @@
     "39b7fd75-23b1-48b1-a987-412a6218bf2e": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/从知识获取到技能封装：Agent 技能与知识管理的双向融合路径.md",
-      "last_edited": "2026-04-18T09:21:00.000Z"
+      "last_edited": "2026-04-20T17:48:00.000Z"
     },
     "622fdd66-b89c-4cc6-8702-5dfc4c47e761": {
       "type": "summary",
@@ -13791,7 +13791,7 @@
     "95e21209-48f7-42ed-b9ef-65762933c7ad": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Crypto-DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径.md",
-      "last_edited": "2026-04-18T09:21:00.000Z"
+      "last_edited": "2026-04-20T17:48:00.000Z"
     },
     "d15ea6c0-695b-49ce-9eb3-e7b150c1775b": {
       "type": "summary",
@@ -13896,7 +13896,7 @@
     "3d09fe58-c5aa-4145-bac1-03b9492bfac4": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/知识管理与记忆系统的架构融合：从文档检索到编译式知识引擎的设计范式演进.md",
-      "last_edited": "2026-04-18T21:22:00.000Z"
+      "last_edited": "2026-04-20T17:48:00.000Z"
     },
     "47ab7af8-f8d0-4abe-93fb-5257c9f0a7d7": {
       "type": "concept",
@@ -13921,7 +13921,7 @@
     "57b48979-1d4c-4038-8af8-58ce0db2a8cf": {
       "type": "concept",
       "file_path": "wiki/concepts/角色型 Agent.md",
-      "last_edited": "2026-04-20T05:34:00.000Z"
+      "last_edited": "2026-04-20T17:52:00.000Z"
     },
     "5c8777b7-c406-4c5e-ac4c-be9d73ce22d7": {
       "type": "concept",
@@ -14011,7 +14011,7 @@
     "c33832e8-8c49-4f68-9625-cfaa349f3631": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/大语言模型驱动的内容生成架构分化：从提示工程到世界模拟器的多模态技术栈演进.md",
-      "last_edited": "2026-04-18T21:23:00.000Z"
+      "last_edited": "2026-04-20T17:48:00.000Z"
     },
     "c62e37d4-9091-4496-bf07-62b20343065e": {
       "type": "concept",
@@ -14076,7 +14076,7 @@
     "462c5384-9c24-42d2-b63b-7579d463339a": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑.md",
-      "last_edited": "2026-04-19T09:22:00.000Z"
+      "last_edited": "2026-04-20T17:48:00.000Z"
     },
     "72ce129c-bd4c-44da-8c8d-858d52e3cc80": {
       "type": "summary",
@@ -14116,12 +14116,12 @@
     "3cb2730c-412d-464d-93b5-5e8dd5306f29": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施.md",
-      "last_edited": "2026-04-19T21:08:00.000Z"
+      "last_edited": "2026-04-20T17:48:00.000Z"
     },
     "fb9c9c53-e2a4-499d-bc7a-0cb799592f68": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/LLM 能力边界如何塑造 Agent 技能形态：从结构化工具调用到多模态自主操作的技能架构分层与演进路径.md",
-      "last_edited": "2026-04-19T21:09:00.000Z"
+      "last_edited": "2026-04-20T17:48:00.000Z"
     },
     "02497170-19be-4620-8a82-76eb7ca7d82f": {
       "type": "concept",
@@ -15696,7 +15696,7 @@
     "a58dd081-ebbc-4a90-938b-42eb8d5a84c0": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/开发工具驱动的知识管理新范式：从手动收藏到 Agent 原生知识编译的工具链演进.md",
-      "last_edited": "2026-04-20T09:13:00.000Z"
+      "last_edited": "2026-04-20T17:48:00.000Z"
     },
     "a5b0d8ec-6939-45c3-a34e-d6afe52f8986": {
       "type": "summary",
@@ -15791,7 +15791,7 @@
     "bf50f3b1-9c24-4d5e-b5c3-c72793d77c26": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/多智能体编排的安全治理架构：从权限隔离到语义可观测的六层防御体系.md",
-      "last_edited": "2026-04-20T09:11:00.000Z"
+      "last_edited": "2026-04-20T17:48:00.000Z"
     },
     "c137d36a-0c20-4f0d-b477-df0dd7d17807": {
       "type": "concept",
@@ -16077,6 +16077,121 @@
       "type": "concept",
       "file_path": "wiki/concepts/Sub agent 上下文隔离.md",
       "last_edited": "2026-04-20T12:08:00.000Z"
+    },
+    "10126b90-59f2-4362-917e-ed403a0b83be": {
+      "type": "concept",
+      "file_path": "wiki/concepts/OFAC SDN 名单.md",
+      "last_edited": "2026-04-20T17:52:00.000Z"
+    },
+    "253644e0-f0a9-4de5-a05d-0f8d3c3b86db": {
+      "type": "entity",
+      "file_path": "wiki/entities/DataFlex.md",
+      "last_edited": "2026-04-20T17:50:00.000Z"
+    },
+    "2621ae61-c7b7-4f4b-a960-737164029ffe": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/Coding Agent 商业化路径分化：从开发者提效工具到消费级软件工厂的价值捕获与生态博弈.md",
+      "last_edited": "2026-04-20T21:23:00.000Z"
+    },
+    "3168aae8-83f6-455f-8d02-e330dd417f69": {
+      "type": "concept",
+      "file_path": "wiki/concepts/动态数据混合.md",
+      "last_edited": "2026-04-20T17:50:00.000Z"
+    },
+    "4ccd48a4-0ead-456d-ba9e-9214737a8548": {
+      "type": "entity",
+      "file_path": "wiki/entities/Kelp DAO.md",
+      "last_edited": "2026-04-20T18:38:00.000Z"
+    },
+    "4df354e1-c6e3-4eb2-9311-185ea17b1f0a": {
+      "type": "entity",
+      "file_path": "wiki/entities/ICLR.md",
+      "last_edited": "2026-04-20T17:52:00.000Z"
+    },
+    "57bdd3cb-d6dc-4696-8ee2-bc344e175735": {
+      "type": "concept",
+      "file_path": "wiki/concepts/动态样本加权.md",
+      "last_edited": "2026-04-20T17:50:00.000Z"
+    },
+    "59cc8550-c100-4934-b883-73a691d773e5": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：HuggingFace 月榜第一！北大开源：你的全自动模型加工厂来了.md",
+      "last_edited": "2026-04-20T17:49:00.000Z"
+    },
+    "5f10c10e-d26c-4cc0-a359-6991b27e58a4": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：Kelp DAO 漏洞深度复盘：揭秘 LayerZero 幽灵消息攻击.md",
+      "last_edited": "2026-04-20T18:39:00.000Z"
+    },
+    "6a7dbf28-83bf-4670-a915-96d69545568f": {
+      "type": "concept",
+      "file_path": "wiki/concepts/双盲审稿.md",
+      "last_edited": "2026-04-20T17:52:00.000Z"
+    },
+    "7631ad25-e5d4-45f1-8146-514a1aa521e7": {
+      "type": "entity",
+      "file_path": "wiki/entities/rsETH.md",
+      "last_edited": "2026-04-20T18:39:00.000Z"
+    },
+    "9c2606d7-8f10-4612-ba3e-7da4bf3f8f43": {
+      "type": "concept",
+      "file_path": "wiki/concepts/1-of-1 DVN 配置.md",
+      "last_edited": "2026-04-20T18:38:00.000Z"
+    },
+    "b2b610da-f497-42f2-ba35-404c0f29196e": {
+      "type": "entity",
+      "file_path": "wiki/entities/cadrille.md",
+      "last_edited": "2026-04-20T17:52:00.000Z"
+    },
+    "b2c44e42-ca25-4085-9ea4-b094e471000c": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：【黑武器】让Codex从单打独斗到AI团队作战，这个开源项目一周暴涨1.1万星！.md",
+      "last_edited": "2026-04-20T17:51:00.000Z"
+    },
+    "b94a2471-9c1f-4c5a-88b5-150054f1660c": {
+      "type": "entity",
+      "file_path": "wiki/entities/LayerZero.md",
+      "last_edited": "2026-04-20T18:38:00.000Z"
+    },
+    "d5c71b0b-4e6a-4917-998f-afa76f9c9bec": {
+      "type": "concept",
+      "file_path": "wiki/concepts/DVN.md",
+      "last_edited": "2026-04-20T18:38:00.000Z"
+    },
+    "d769d503-a2da-45a9-8e22-8622ca160c04": {
+      "type": "concept",
+      "file_path": "wiki/concepts/数据中心动态训练.md",
+      "last_edited": "2026-04-20T17:50:00.000Z"
+    },
+    "dc553a06-b439-40ec-8f2f-cc976a8c5cd6": {
+      "type": "concept",
+      "file_path": "wiki/concepts/动态数据选择.md",
+      "last_edited": "2026-04-20T17:50:00.000Z"
+    },
+    "ea7fc831-eff2-499c-ac8d-be3a928f766b": {
+      "type": "concept",
+      "file_path": "wiki/concepts/Desk Reject.md",
+      "last_edited": "2026-04-20T17:52:00.000Z"
+    },
+    "ef621a2d-4897-4eb4-aae7-6d9fdebb4455": {
+      "type": "entity",
+      "file_path": "wiki/entities/RAIRI.md",
+      "last_edited": "2026-04-20T17:52:00.000Z"
+    },
+    "f6c0ccaf-078f-4ce0-b32c-88a8dcada193": {
+      "type": "entity",
+      "file_path": "wiki/entities/LLaMA-Factory.md",
+      "last_edited": "2026-04-20T17:50:00.000Z"
+    },
+    "fa6d7ac8-5fb8-4b29-a7df-3cd61ca4b6cf": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：ICLR发了Oral又反悔，理由是查到了制裁名单？.md",
+      "last_edited": "2026-04-20T17:52:00.000Z"
+    },
+    "fc5eb35d-75cf-4461-8c2f-38bc1e42e738": {
+      "type": "concept",
+      "file_path": "wiki/concepts/幽灵消息攻击.md",
+      "last_edited": "2026-04-20T18:38:00.000Z"
     }
   }
 }

@@ -3,7 +3,7 @@ title: Coding Agent 开发范式演进：从氛围编程到规范驱动的工程
 type: synthesis
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''

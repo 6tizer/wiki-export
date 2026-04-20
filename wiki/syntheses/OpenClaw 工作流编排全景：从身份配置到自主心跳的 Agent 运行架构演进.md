@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - OpenClaw
 - 工作流
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
@@ -176,7 +176,7 @@ Agent 成本控制概念揭示了四个关键的 **Token 消耗黑洞**：
 
 - OpenClaw
 
-- [automation-workflows](concepts/automation-workflows.md)
+- [automation-workflows](entities/automation-workflows.md)
 
 - [自主探索](concepts/自主探索.md)
 

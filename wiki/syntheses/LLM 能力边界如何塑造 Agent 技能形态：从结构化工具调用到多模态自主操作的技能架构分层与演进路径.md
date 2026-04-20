@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - Agent 技能
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-19'
 source_tags: ''
@@ -41,7 +41,7 @@ notion_id: fb9c9c53-e2a4-499d-bc7a-0cb799592f68
 
 [Tool Calling](concepts/Tool Calling.md) 建立了 Agent 连接外部世界的基础范式：模型输出结构化请求，外部执行器调用真实工具，结果返回上下文。这个机制看似简单，但 [Chat Template](concepts/Chat Template.md) 揭示了其脆弱性——模板层对消息格式的假设一旦过窄，就会导致工具结果丢失或循环调用等「幽灵 Bug」。
 
-[Tool Calling 2.0](concepts/Tool Calling 2.0.md) 通过四大特性实现了质的跃迁：
+[Tool Calling 2.0](entities/Tool Calling 2.0.md) 通过四大特性实现了质的跃迁：
 
 | **特性** | **机制** | **效果** | **工程代价** |
 
@@ -119,7 +119,7 @@ notion_id: fb9c9c53-e2a4-499d-bc7a-0cb799592f68
 
 ### 概念词条（Agent 技能 × LLM 交叉标签）
 
-[web fetch](concepts/web fetch.md) · [Tool Calling 2.0](concepts/Tool Calling 2.0.md) · [Auxiliary 副驾模型](concepts/Auxiliary 副驾模型.md) · [GUI-VLA](concepts/GUI-VLA.md) · [Mano-Action 双向自增强学习框架](concepts/Mano-Action 双向自增强学习框架.md) · [Agentic Vision](concepts/Agentic Vision.md) · [仪表读数识别](concepts/仪表读数识别.md) · [Tool Calling](concepts/Tool Calling.md) · [Chat Template](concepts/Chat Template.md)
+[web fetch](concepts/web fetch.md) · [Tool Calling 2.0](entities/Tool Calling 2.0.md) · [Auxiliary 副驾模型](concepts/Auxiliary 副驾模型.md) · [GUI-VLA](concepts/GUI-VLA.md) · [Mano-Action 双向自增强学习框架](concepts/Mano-Action 双向自增强学习框架.md) · [Agentic Vision](concepts/Agentic Vision.md) · [仪表读数识别](concepts/仪表读数识别.md) · [Tool Calling](concepts/Tool Calling.md) · [Chat Template](concepts/Chat Template.md)
 
 ### 相关概念词条（补充材料）
 

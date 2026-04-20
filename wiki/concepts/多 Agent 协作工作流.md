@@ -39,6 +39,8 @@ notion_id: f24ad430-054f-4646-b2ab-f5d56d20483d
 
 - [摘要：这才是AI做ppt的正确姿势 ！](summaries/摘要：这才是AI做ppt的正确姿势 ！.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg3NzU0NzIxMA%3D%3D&mid=2247511533&idx=1&sn=92a0da3abdf30964dfee5cad8e3d4a37&chksm=cef35009229a433f9fb8123e47f9426a2e6858f506f7d551ce5ad710f6f0545513c6c2a2d595#rd)）
 
+- [摘要：【黑武器】让Codex从单打独斗到AI团队作战，这个开源项目一周暴涨1.1万星！](summaries/摘要：【黑武器】让Codex从单打独斗到AI团队作战，这个开源项目一周暴涨1.1万星！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyNDYyODg0MQ%3D%3D&mid=2247493044&idx=1&sn=81e4fbf67adfc2ca1fa5770827a93b15&chksm=c037d7edf77c26238c0864153f353b6e25d87d7dda1e947a59e6da3be55cfc3a5821f58f07d0#rd)）
+
 ## 关联概念
 
 - [PPT Master](entities/PPT Master.md)
@@ -64,3 +66,11 @@ notion_id: f24ad430-054f-4646-b2ab-f5d56d20483d
 - [ViMax](entities/ViMax.md)
 
 - [FireRed-OpenStoryline](entities/FireRed-OpenStoryline.md)
+
+- [oh-my-codex](entities/oh-my-codex.md)
+
+- [Codex](entities/Codex.md)
+
+- [持久化跨会话记忆](concepts/持久化跨会话记忆.md)
+
+- [角色型 Agent](concepts/角色型 Agent.md)

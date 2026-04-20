@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-19'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/57b489791d4c40388af858ce0db2a8cf
@@ -31,6 +31,10 @@ notion_id: 57b48979-1d4c-4038-8af8-58ce0db2a8cf
 
 - [摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线](summaries/摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI4MTIzNDE2NA%3D%3D&mid=2247484788&idx=1&sn=cba1aa9f29e886f730d0178eef8f1a03&chksm=ea5f4895b2405b442b52d72b68edbdd49a7375e2eb08bb943ca674778d50fd46582b0fd37b90#rd)）
 
+- [摘要：A complete AI agency at your fingertips](summaries/摘要：A complete AI agency at your fingertips.md)（[原文](https://x.com/WY_mask/status/2045306315699093870)）
+
+- [摘要：【黑武器】让Codex从单打独斗到AI团队作战，这个开源项目一周暴涨1.1万星！](summaries/摘要：【黑武器】让Codex从单打独斗到AI团队作战，这个开源项目一周暴涨1.1万星！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyNDYyODg0MQ%3D%3D&mid=2247493044&idx=1&sn=81e4fbf67adfc2ca1fa5770827a93b15&chksm=c037d7edf77c26238c0864153f353b6e25d87d7dda1e947a59e6da3be55cfc3a5821f58f07d0#rd)）
+
 ## 关联概念
 
 - [Skills Pipeline](concepts/Skills Pipeline.md)
@@ -40,3 +44,9 @@ notion_id: 57b48979-1d4c-4038-8af8-58ce0db2a8cf
 - [Agent Runtime](concepts/Agent Runtime.md)
 
 - [Codex](entities/Codex.md)
+
+- [oh-my-codex](entities/oh-my-codex.md)
+
+- [多 Agent 协作工作流](concepts/多 Agent 协作工作流.md)
+
+- [持久化跨会话记忆](concepts/持久化跨会话记忆.md)

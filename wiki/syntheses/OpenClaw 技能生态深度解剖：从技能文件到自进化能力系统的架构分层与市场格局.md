@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - Agent 技能
 - OpenClaw
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
@@ -130,7 +130,7 @@ graph LR
 
 - [Antigravity MCP](concepts/Antigravity MCP.md) · [ClawBio](concepts/ClawBio.md) · [find-skills](concepts/find-skills.md) · OpenClaw-Medical-Skills
 
-- [skill-creator](concepts/skill-creator.md) · [SkillHub](entities/SkillHub.md) · [x-tweet-fetcher](concepts/x-tweet-fetcher.md)
+- [skill-creator](concepts/skill-creator.md) · [SkillHub](entities/SkillHub.md) · [x-tweet-fetcher](entities/x-tweet-fetcher.md)
 
 ### 摘要页面（6 篇）
 

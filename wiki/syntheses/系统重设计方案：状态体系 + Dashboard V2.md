@@ -3,7 +3,7 @@ title: 系统重设计方案：状态体系 + Dashboard V2
 type: synthesis
 tags:
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
@@ -129,19 +129,19 @@ synthesis 是跨资料综合分析，质量对上下文敏感，**不套用 conc
 
 以下 Wiki 元系统页永久豁免孤岛检测、NULL 编译时间检测、草稿状态晋升三类规则：
 
-- [Gap Agent](concepts/Gap Agent.md)
+- [关于 Gap Agent](concepts/关于 Gap Agent.md)
 
-- [Wiki Lint Agent](concepts/Wiki Lint Agent.md)
+- [关于 Wiki Lint Agent](concepts/关于 Wiki Lint Agent.md)
 
-- [Wiki Fixer](concepts/Wiki Fixer.md)
+- [关于 Wiki Fixer](concepts/关于 Wiki Fixer.md)
 
-- [Wiki Compiler](concepts/Wiki Compiler.md)
+- [关于 Wiki Compiler](concepts/关于 Wiki Compiler.md)
 
-- [Wiki QA Agent](concepts/Wiki QA Agent.md)
+- [关于 Wiki QA Agent](concepts/关于 Wiki QA Agent.md)
 
-- [Wiki Synthesizer](concepts/Wiki Synthesizer.md)
+- [关于 Wiki Synthesizer](concepts/关于 Wiki Synthesizer.md)
 
-- [Notion AI（Wiki 协调者）](concepts/Notion AI（Wiki 协调者）.md)
+- [关于 Notion AI（Wiki 协调者）](concepts/关于 Notion AI（Wiki 协调者）.md)
 
 判定方式：这些页都将 `源文章URL` 指向本页或 [知识 Wiki 双轨系统方案：从 Notion 编译引擎到本地 Markdown 分发层](syntheses/知识 Wiki 双轨系统方案：从 Notion 编译引擎到本地 Markdown 分发层.md)，Lint Agent 扫描时若检测到 `源文章URL` 为这两个页，跳过上述三类规则。
 

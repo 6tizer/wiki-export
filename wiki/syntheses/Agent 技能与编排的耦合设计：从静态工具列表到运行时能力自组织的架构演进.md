@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - Agent 技能
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''

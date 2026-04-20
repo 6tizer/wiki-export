@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - 开发工具
 - 安全/隐私
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
@@ -35,7 +35,7 @@ notion_id: 96393bc5-20ea-401a-98e9-3065a69f02c8
 
 | **L3 网络身份层** | Agent 的网络画像如何接近真实用户？ | [Untitled](concepts/C++ 级指纹伪造.md)、[Untitled](concepts/浏览器指纹模拟.md)、[Untitled](concepts/住宅代理轮换.md)、[Untitled](concepts/IP 纯净度检测.md) | 仿真度 vs 成本 vs 合规风险 |
 
-| **L4 安全通信层** | 跨地域通信如何稳定且不被识别？ | [Untitled](concepts/WireGuard.md)、[Untitled](concepts/Exit Node.md)、[Untitled](entities/Hysteria 2.md)、[Untitled](concepts/QUIC 代理.md)、[Untitled](concepts/HTTP-3 流量伪装.md) | 性能 vs 抗干扰 vs 部署复杂度 |
+| **L4 安全通信层** | 跨地域通信如何稳定且不被识别？ | [Untitled](entities/WireGuard.md)、[Untitled](concepts/Exit Node.md)、[Untitled](entities/Hysteria 2.md)、[Untitled](concepts/QUIC 代理.md)、[Untitled](concepts/HTTP-3 流量伪装.md) | 性能 vs 抗干扰 vs 部署复杂度 |
 
 另有 [Cloudflare Email Routing](concepts/Cloudflare Email Routing.md) 和 [Catch-All 邮件路由](concepts/Catch-All 邮件路由.md) 构成**身份管理辅助层**，服务于账号体系而非运行时安全。
 
@@ -100,7 +100,7 @@ flowchart LR
 
 ### 概念页
 
-[SQLCipher 4](concepts/SQLCipher 4.md) · [C++ 级指纹伪造](concepts/C++ 级指纹伪造.md) · [IP 纯净度检测](concepts/IP 纯净度检测.md) · [Docker 沙箱执行](concepts/Docker 沙箱执行.md) · [浏览器指纹模拟](concepts/浏览器指纹模拟.md) · [住宅代理轮换](concepts/住宅代理轮换.md) · [Daytona 沙箱](concepts/Daytona 沙箱.md) · [Exit Node](concepts/Exit Node.md) · [WireGuard](concepts/WireGuard.md) · [V8 Isolate](concepts/V8 Isolate.md) · [Cloudflare Email Routing](concepts/Cloudflare Email Routing.md) · [Hysteria 2](entities/Hysteria 2.md) · [HTTP/3 流量伪装](concepts/HTTP-3 流量伪装.md) · [QUIC 代理](concepts/QUIC 代理.md) · [Catch-All 邮件路由](concepts/Catch-All 邮件路由.md)
+[SQLCipher 4](concepts/SQLCipher 4.md) · [C++ 级指纹伪造](concepts/C++ 级指纹伪造.md) · [IP 纯净度检测](concepts/IP 纯净度检测.md) · [Docker 沙箱执行](concepts/Docker 沙箱执行.md) · [浏览器指纹模拟](concepts/浏览器指纹模拟.md) · [住宅代理轮换](concepts/住宅代理轮换.md) · [Daytona 沙箱](concepts/Daytona 沙箱.md) · [Exit Node](concepts/Exit Node.md) · [WireGuard](entities/WireGuard.md) · [V8 Isolate](concepts/V8 Isolate.md) · [Cloudflare Email Routing](concepts/Cloudflare Email Routing.md) · [Hysteria 2](entities/Hysteria 2.md) · [HTTP/3 流量伪装](concepts/HTTP-3 流量伪装.md) · [QUIC 代理](concepts/QUIC 代理.md) · [Catch-All 邮件路由](concepts/Catch-All 邮件路由.md)
 
 ### 相关摘要页
 

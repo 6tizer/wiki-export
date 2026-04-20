@@ -5,7 +5,7 @@ tags:
 - 知识管理
 - LLM
 - 记忆系统
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
@@ -165,7 +165,7 @@ graph TD
 
 - [Skill Graph](concepts/Skill Graph.md)
 
-- [Spool](concepts/Spool.md)
+- [Spool](entities/Spool.md)
 
 - [三层知识架构](concepts/三层知识架构.md)
 

@@ -3,7 +3,7 @@ title: AI 自修改代码
 type: concept
 tags:
 - Coding Agent
-status: 审核中
+status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
