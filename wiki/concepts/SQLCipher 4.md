@@ -6,7 +6,7 @@ tags:
 - 开发工具
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2f2ec34dd80c41df8116a36323f31d61
@@ -28,6 +28,8 @@ SQLCipher 4 是 SQLite 的加密扩展版本，用于对本地数据库文件进
 ## 关联概念
 
 - [wechat-cli](entities/wechat-cli.md)
+
+- [wx-cli](entities/wx-cli.md)
 
 - [Graphify](entities/Graphify.md)
 

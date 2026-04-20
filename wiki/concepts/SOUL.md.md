@@ -60,6 +60,8 @@ notion_id: 455a7b48-e4c5-4d16-92be-861c43062ea3
 
 - 源文章：Hermes Agent 核心文档优化指南：让你的 AI 助手真正「越用越聪明」｜来源条目：[摘要：Hermes 核心文档架构详尽分析与优化方案指南](summaries/摘要：Hermes 核心文档架构详尽分析与优化方案指南.md)
 
+- [摘要：终于有了一个用龙虾而不是 Claude Code 的理由](summaries/摘要：终于有了一个用龙虾而不是 Claude Code 的理由.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453482949&idx=1&sn=509fac8677449b751dadbb35cb9ec661&chksm=865bf05dbe70dd46c861dfc7a98cfe9b0625c81b849121816b05ca23a2cc8e15976c17ef9009#rd)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)

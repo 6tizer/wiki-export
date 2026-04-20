@@ -33,7 +33,7 @@ gstack 把 Claude Code 的使用方式从单次代码生成升级为多角色工
 
 - [角色分工式 Agent 工作流](concepts/角色分工式 Agent 工作流.md)
 
-- [斜杠命令工作流](concepts/斜杠命令工作流.md)
+- [Slash 命令工作流](concepts/Slash 命令工作流.md)
 
 - [agency-agents](entities/agency-agents.md)
 
