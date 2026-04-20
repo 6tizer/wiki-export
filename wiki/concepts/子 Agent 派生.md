@@ -39,8 +39,14 @@ notion_id: 9b461ffd-38fa-4b10-81a2-810ae21f8b71
 
 - [摘要：OpenClaw 多角色 Telegram 群聊：一个 Gateway 跑产品经理、工程师、QA 的实战指南](summaries/摘要：OpenClaw 多角色 Telegram 群聊：一个 Gateway 跑产品经理、工程师、QA 的实战指南.md)
 
+- [摘要：GBrain Minions：用 Postgres 任务队列，把多 Agent 系统从玩具拉到生产级](summaries/摘要：GBrain Minions：用 Postgres 任务队列，把多 Agent 系统从玩具拉到生产级.md)（[原文](https://x.com/AYi_AInotes/status/2045825582600958461)）
+
 ## 关联概念
 
 - [Telegram 群组路由](concepts/Telegram 群组路由.md)
 
 - [OpenClaw](entities/OpenClaw.md)
+
+- [Minions](concepts/Minions.md)
+
+- [Postgres 任务队列](concepts/Postgres 任务队列.md)

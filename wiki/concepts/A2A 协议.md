@@ -6,7 +6,7 @@ tags:
 - 商业/生态
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-10'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f5a880f9619b42c488541b3d4616c371
@@ -37,6 +37,12 @@ A2A 协议（Agent-to-Agent 协议）是让不同 AI Agent 彼此发现、发送
 
 ## 关联概念
 
+- [A2UI 协议](concepts/A2UI 协议.md)
+
+- [AG2](entities/AG2.md)
+
+- [json-render](entities/json-render.md)
+
 - [Agent Harness](concepts/Agent Harness.md)
 
 - [Google ADK](entities/Google ADK.md)
@@ -51,12 +57,12 @@ A2A 协议（Agent-to-Agent 协议）是让不同 AI Agent 彼此发现、发送
 
 ## 来源引用
 
-- [摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会](summaries/摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会.md) — 通信生态位分析 + AgentComm Skill 案例
+- [摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会](summaries/摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会.md)（[原文](https://x.com/0xKingsKuan/status/2035029914844635315)）
 
-- [原文链接](https://x.com/0xKingsKuan/status/2035029914844635315)｜[摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会](summaries/摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会.md)
+- [摘要：用 50 行 Python 跑通 Google A2A 协议：Hermes + OpenClaw 的多 Agent 互联实践](summaries/摘要：用 50 行 Python 跑通 Google A2A 协议：Hermes + OpenClaw 的多 Agent 互联实践.md)（[原文](https://x.com/YuLin807/status/2041667865477312551)）
 
-- [原文链接](https://x.com/YuLin807/status/2041667865477312551)｜[摘要：用 50 行 Python 跑通 Google A2A 协议：Hermes + OpenClaw 的多 Agent 互联实践](summaries/摘要：用 50 行 Python 跑通 Google A2A 协议：Hermes + OpenClaw 的多 Agent 互联实践.md)
+- [摘要：别人都在卷Harness， 而Google 的沉默振聋发聩](summaries/摘要：别人都在卷Harness， 而Google 的沉默振聋发聩.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247627539&idx=1&sn=da04448ed2172c5381d68b24e0454247&chksm=c31182e7c7ef6bde7a36b46d0bcde4b0b20f049b7cdbbe53d6ae77d1d83ea99c2250b5f96f56#rd)）
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247627539&idx=1&sn=da04448ed2172c5381d68b24e0454247&chksm=c31182e7c7ef6bde7a36b46d0bcde4b0b20f049b7cdbbe53d6ae77d1d83ea99c2250b5f96f56#rd)｜[摘要：别人都在卷Harness， 而Google 的沉默振聋发聩](summaries/摘要：别人都在卷Harness， 而Google 的沉默振聋发聩.md)
+- [摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！](summaries/摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA%3D%3D&mid=2653588165&idx=1&sn=0e0410e1d88cc5ad869c483fbd623864&chksm=8117dbc85ccbaa434bf29379eae62e8bcf7369e5d40eb167b51fe0d75aedc4c94a5c5efd5171#rd)）
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA%3D%3D&mid=2653588165&idx=1&sn=0e0410e1d88cc5ad869c483fbd623864&chksm=8117dbc85ccbaa434bf29379eae62e8bcf7369e5d40eb167b51fe0d75aedc4c94a5c5efd5171#rd)｜[摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！](summaries/摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！.md)
+- [摘要：Google发布A2UI 0.9：AI直接生成界面](summaries/摘要：Google发布A2UI 0.9：AI直接生成界面.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY5MjE2OTU5Mg%3D%3D&mid=2247484380&idx=1&sn=86632002fdf6fcdd5a9c2e5bedae3252&chksm=f5bdb6949b80daed06d25e00b23e76dec8e7771b3f9a448172ebb4de6731c3811c33c0061231#rd)）

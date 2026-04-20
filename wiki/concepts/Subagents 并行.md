@@ -46,6 +46,8 @@ Subagents 并行是 Claude Cowork 中的一种多任务执行模式，允许主 
 
 - [摘要：Single-agent AI coding is a nightmare for engineers](summaries/摘要：Single-agent AI coding is a nightmare for engineers.md)（[原文](https://x.com/MilksandMatcha/status/2044863551186309460)）
 
+- [摘要：Ollama 一键启动 Hermes Agent：免费、本地、会自我进化的 AI 私人助手](summaries/摘要：Ollama 一键启动 Hermes Agent：免费、本地、会自我进化的 AI 私人助手.md)（[原文](https://x.com/Saboo_Shubham_/status/2045692123887050816)）
+
 ## 关联概念
 
 - [OpenClaw](entities/OpenClaw.md)

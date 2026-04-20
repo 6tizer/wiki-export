@@ -28,6 +28,16 @@ Jina Reader 是一个开源的网页内容提取服务，通过 `https://r.jina.
 
 - 适合作为 AI Agent 联网阅读能力的基础组件
 
+## 关联概念
+
+- [Hermes Agent](entities/Hermes Agent.md)
+
+- [Crawl4AI](entities/Crawl4AI.md)
+
+- [CamoFox](entities/CamoFox.md)
+
 ## 来源引用
 
 - [摘要：Agent Reach 一键解锁全网调研超能力](summaries/摘要：Agent Reach 一键解锁全网调研超能力.md)（恶人笔记，2026-02-26）— 介绍 Jina Reader 作为 Agent Reach 的底层网页清洗工具
+
+- [摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通](summaries/摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通.md)（[原文](https://x.com/ResearchWang/status/2045812932538438001)）

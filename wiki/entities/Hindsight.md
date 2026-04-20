@@ -5,7 +5,7 @@ tags:
 - 记忆系统
 status: 草稿
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/04db46f336254f7087d13c2bb6990c99
@@ -30,6 +30,8 @@ Hindsight 是一个面向 Agent 的仿生记忆系统，把长期记忆拆成世
 
 - [原文链接](https://x.com/0xJeff/status/2043656911044870203)｜《3 Things I learnt after 3 weeks of using Hermes as a personal analyst》｜来源条目：[摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst](summaries/摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst.md)
 
+- [摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通](summaries/摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通.md)（[原文](https://x.com/ResearchWang/status/2045812932538438001)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)
@@ -37,3 +39,7 @@ Hindsight 是一个面向 Agent 的仿生记忆系统，把长期记忆拆成世
 - [持久化跨会话记忆](concepts/持久化跨会话记忆.md)
 
 - [Browser Use](entities/Browser Use.md)
+
+- [SOUL.md](concepts/SOUL.md.md)
+
+- [Jina Reader](entities/Jina Reader.md)

@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: high
-last_compiled: '2026-04-13'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2ef12e54151f4b3ab38e4f1445bdc5dd
@@ -34,6 +34,14 @@ notion_id: 2ef12e54-151f-4b3a-b38e-4f1445bdc5dd
 
 ## 关联概念
 
+- [Hermes Agent](entities/Hermes Agent.md)
+
+- [claude-mem](entities/claude-mem.md)
+
+- [Evolver](entities/Evolver.md)
+
+- [GenericAgent](entities/GenericAgent.md)
+
 - [Claude Code](entities/Claude Code.md)
 
 - [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)
@@ -49,6 +57,8 @@ notion_id: 2ef12e54-151f-4b3a-b38e-4f1445bdc5dd
 - [Goal-Driven Execution](concepts/Goal-Driven Execution.md)
 
 ## 来源引用
+
+- [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)（[原文](https://x.com/RoundtableSpace/status/2045906520672461309)）
 
 - 微信文章《11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。》（开源星探，2026-04-11）
 

@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: high
-last_compiled: '2026-04-14'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/dcd58da1f13f4d10bb04047f0678e5c4
@@ -26,6 +26,10 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - 轻量 Harness 的价值常在于更透明、更容易读懂和二次开发
 
 ## 关联概念
+
+- [agentmemory](entities/agentmemory.md)
+
+- [持久化跨会话记忆](concepts/持久化跨会话记忆.md)
 
 - [Better-Harness](entities/Better-Harness.md)
 
@@ -58,6 +62,10 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - [OpenClaw](entities/OpenClaw.md)
 
 - [Thin Harness, Fat Skills](concepts/Thin Harness, Fat Skills.md)
+
+- [Agent 协议层](concepts/Agent 协议层.md)
+
+- [Mediator 层](concepts/Mediator 层.md)
 
 - [Resolver](concepts/Resolver.md)
 
@@ -125,7 +133,17 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 
 - [反蒸馏](concepts/反蒸馏.md)
 
+- [Computer Use](concepts/Computer Use.md)
+
+- [红队演练](concepts/红队演练.md)
+
 ## 来源引用
+
+- [摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」](summaries/摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」.md)（[原文](https://x.com/elder_plinius/status/2045682830383231474)）
+
+- [摘要：Memory](summaries/摘要：Memory.md)（[原文](https://x.com/akshay_pachaar/status/2045510648474530263)）
+
+- [摘要：local-first AI assistant built for personal AI sovereignty](summaries/摘要：local-first AI assistant built for personal AI sovereignty.md)（[原文](https://x.com/ghumare64/status/2045291112454402194)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ%3D%3D&mid=2650996439&idx=1&sn=b0e8f9460d31651bdd374eae18db74f6&chksm=bdd2ba711515b068254cc8fae7b1d613c0f7602c73faca901e0862da74272e110b494db13b0f#rd)｜《汤道生：人工智能正式进入 Harness 时代》｜来源条目：[摘要：汤道生：人工智能正式进入 Harness 时代](summaries/摘要：汤道生：人工智能正式进入 Harness 时代.md)
 

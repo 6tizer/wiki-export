@@ -26,6 +26,18 @@ Recurrent-Depth Transformer 是一种在同一组 Transformer 层上重复执行
 
 - 推理时可通过增加循环次数提升处理更深链式问题的能力。
 
+## 关联概念
+
+- [OpenMythos](entities/OpenMythos.md)
+
+- [Claude Mythos](entities/Claude Mythos.md)
+
+- [MoE 架构](concepts/MoE 架构.md)
+
+- [隐式思维链](concepts/隐式思维链.md)
+
 ## 来源引用
+
+- [摘要：OpenMythos：社区用开源代码重建 Claude Mythos 的循环深度 Transformer 假说](summaries/摘要：OpenMythos：社区用开源代码重建 Claude Mythos 的循环深度 Transformer 假说.md)（[原文](https://x.com/KyeGomezB/status/2045659150340723107)）
 
 - [摘要：Loop, Think, & Generalize：循环深度 Transformer 的隐式推理](summaries/摘要：Loop, Think, & Generalize：循环深度 Transformer 的隐式推理.md)（[原文](https://x.com/yuekun_yao/status/2044229171627639004)）

@@ -6,7 +6,7 @@ tags:
 - Agent 编排
 status: 草稿
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/85f5b637d4cf4e669b83ae64fa107705
@@ -28,6 +28,8 @@ Claude Code Routines 是 Claude Code Desktop 提供的**云端自动化任务能
 - 本质上是把 Coding Agent 从“交互式编程助手”扩展为“可托管运行的自动化执行器”
 
 ## 来源引用
+
+- [摘要：ThinkInAI Weekly AI周刊 VOL.42 Opus 4.7 来了、Qwen 开源 35B、Agent 工具链全面升级](summaries/摘要：ThinkInAI Weekly AI周刊 VOL.42 Opus 4.7 来了、Qwen 开源 35B、Agent 工具链全面升级.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA%3D%3D&mid=2247514009&idx=1&sn=bf15a5a46c8fceb7d84d0b3760d4ade9&chksm=91d6d8d58aad639487948529ced9d124bf6b7e77e01022df6a25570b93843ec362146982cbe9#rd)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw%3D%3D&mid=2247515443&idx=1&sn=83324258b9f56b464f858f0deb0962a1&chksm=e99cecb1a90cbe4df1285e9b663144d03d9aa6cf67951e02148b275d61446970490fc395284c#rd)｜《全新重构版Claude Code Desktop上线！把Codex APP抄了个遍》｜原始条目：全新重构版Claude Code Desktop上线！把Codex APP抄了个遍
 

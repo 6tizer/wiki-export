@@ -38,6 +38,8 @@ notion_id: 93acb148-04ab-4ca2-ab43-ae6162c4ec09
 
 - [摘要：Claude Code 的 99 种开通和 100 种封号方式](summaries/摘要：Claude Code 的 99 种开通和 100 种封号方式.md)（[原文](https://x.com/arkuy99/status/2044287695145611360)）
 
+- [摘要：同样十几刀的 VPS，凭什么有的能开 Netflix，有的连 ChatGPT 都被风控？IP 类型全解析](summaries/摘要：同样十几刀的 VPS，凭什么有的能开 Netflix，有的连 ChatGPT 都被风控？IP 类型全解析.md)（[原文](https://x.com/legacyvps/status/2045785107022393710)）
+
 ## 关联概念
 
 - [OpenClaw](entities/OpenClaw.md)
@@ -61,3 +63,11 @@ notion_id: 93acb148-04ab-4ca2-ab43-ae6162c4ec09
 - [AI 服务 KYC 风险](concepts/AI 服务 KYC 风险.md)
 
 - [Persona Identities](entities/Persona Identities.md)
+
+- [ASN（自治系统号）](concepts/ASN（自治系统号）.md)
+
+- [欺诈值](concepts/欺诈值.md)
+
+- [机房 IP](concepts/机房 IP.md)
+
+- [原生 IP](concepts/原生 IP.md)

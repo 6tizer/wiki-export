@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 草稿
 confidence: high
-last_compiled: '2026-04-13'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/25bc606477f74b46b112e25781c0581c
@@ -30,6 +30,8 @@ delegate_task 是 Hermes 体系里的同步委派机制。父 Agent 把任务拆
 
 - [摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比](summaries/摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比.md)
 
+- [摘要：Hermes 多 Agent 深水区：三个高级实战技巧](summaries/摘要：Hermes 多 Agent 深水区：三个高级实战技巧.md)（[原文](https://x.com/BTCqzy1/status/2045720855137903046)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)
@@ -37,3 +39,7 @@ delegate_task 是 Hermes 体系里的同步委派机制。父 Agent 把任务拆
 - [OpenClaw](entities/OpenClaw.md)
 
 - [Subagents 并行](concepts/Subagents 并行.md)
+
+- [Stateless Ephemeral Unit](concepts/Stateless Ephemeral Unit.md)
+
+- [LLM-Driven Replan](concepts/LLM-Driven Replan.md)

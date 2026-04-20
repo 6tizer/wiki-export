@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/5da673ca2377484498ec12f5679bfbf3
@@ -38,6 +38,8 @@ notion_id: 5da673ca-2377-4844-98ec-12f5679bfbf3
 
 **来源引用**
 
+- [摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论](summaries/摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论.md)（[原文](https://x.com/garrytan/status/2045371983312097409)）
+
 - [摘要：OpenAI Codex CLI 实用最佳实践](summaries/摘要：OpenAI Codex CLI 实用最佳实践.md)
 
 - [摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？](summaries/摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？.md) — 用 [AGENTS.md](http://agents.md/) 与 [SOUL.md](http://soul.md/) 的职责差异讨论调度规则应放在哪里
@@ -61,6 +63,8 @@ notion_id: 5da673ca-2377-4844-98ec-12f5679bfbf3
 - 《OpenClaw 核心文档架构详尽分析与优化方案指南》｜X书签文章｜源文章：OpenClaw：用 Markdown 文件定义 AI Agent 大脑的「文件即代理」框架深度解析
 
 - 源文章：Hermes Agent 核心文档优化指南：让你的 AI 助手真正「越用越聪明」｜来源条目：[摘要：Hermes 核心文档架构详尽分析与优化方案指南](summaries/摘要：Hermes 核心文档架构详尽分析与优化方案指南.md)
+
+- [摘要：Hermes 多 Agent 深水区：三个高级实战技巧](summaries/摘要：Hermes 多 Agent 深水区：三个高级实战技巧.md)（[原文](https://x.com/BTCqzy1/status/2045720855137903046)）
 
 ## 关联概念
 
@@ -93,3 +97,5 @@ notion_id: 5da673ca-2377-4844-98ec-12f5679bfbf3
 - [USER.md](concepts/USER.md.md)
 
 - [SKILL.md](concepts/SKILL.md.md)
+
+- [Subdirectory Hints](concepts/Subdirectory Hints.md)

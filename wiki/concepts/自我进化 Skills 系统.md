@@ -6,7 +6,7 @@ tags:
 - 记忆系统
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-14'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/d6e1a91f9b744a07b2362866698054f0
@@ -36,6 +36,8 @@ notion_id: d6e1a91f-9b74-4a07-b236-2866698054f0
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzkyMDU4ODUwMw%3D%3D&mid=2247491544&idx=1&sn=74e54eb8e10fc81c93dae3e3d94bdf39&chksm=c0a9321173cd0bd2645a10b315050a4e45203835a1003f4b9f723b22140091f833bc5113a12f#rd)｜《用Hermes写的Hermes报告》｜来源条目：[摘要：用Hermes写的Hermes报告](summaries/摘要：用Hermes写的Hermes报告.md)
 
 - [摘要：Hermes Agent Creative Hackathon 正式启动](summaries/摘要：Hermes Agent Creative Hackathon 正式启动.md)（[原文](https://x.com/NousResearch/status/2045225469088326039)）
+
+- [摘要：Ollama 一键启动 Hermes Agent：免费、本地、会自我进化的 AI 私人助手](summaries/摘要：Ollama 一键启动 Hermes Agent：免费、本地、会自我进化的 AI 私人助手.md)（[原文](https://x.com/Saboo_Shubham_/status/2045692123887050816)）
 
 ## 关联概念
 

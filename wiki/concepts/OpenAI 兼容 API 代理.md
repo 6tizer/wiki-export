@@ -28,3 +28,5 @@ OpenAI 兼容 API 代理 是一种把非 OpenAI 模型或账号能力封装成 O
 ## 来源引用
 
 - [原文链接](https://x.com/0xAA_Science/status/2042151683283878146)｜《auth2api：用 Claude Max 订阅伪装成真实 CLI 用户，自建 OpenAI 兼容 API 代理》｜来源页：auth2api：用 Claude Max 订阅伪装成真实 CLI 用户，自建 OpenAI 兼容 API 代理
+
+- [摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型](summaries/摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型.md)（[原文](https://x.com/XDmnnn0616/status/2045801076419686410)）

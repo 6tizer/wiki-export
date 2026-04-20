@@ -6,7 +6,7 @@ tags:
 - 安全/隐私
 status: 草稿
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/96a940e45234480780da7e43537732aa
@@ -31,6 +31,8 @@ Sandbox Agents 是 OpenAI Agents SDK 中为 Agent 提供可控计算环境的一
 
 - [原文链接](https://x.com/jxnlco/status/2044469127696556153)｜《Sandboxes are coming to the Agents SDK》｜源文章：OpenAI Agents SDK 沙盒：让 AI Agent 真正「留下工作成果」
 
+- [摘要：OpenAI Agents SDK：三个原语，搭出你的多 Agent 系统](summaries/摘要：OpenAI Agents SDK：三个原语，搭出你的多 Agent 系统.md)（[原文](https://x.com/_vmlops/status/2045533747857240290)）
+
 ## 关联概念
 
 - [OpenAI Agents SDK](entities/OpenAI Agents SDK.md)
@@ -40,3 +42,9 @@ Sandbox Agents 是 OpenAI Agents SDK 中为 Agent 提供可控计算环境的一
 - [Agent Harness](concepts/Agent Harness.md)
 
 - [Compaction](concepts/Compaction.md)
+
+- [Agent Handoff](concepts/Agent Handoff.md)
+
+- [Agent Traces](concepts/Agent Traces.md)
+
+- [会话记忆](concepts/会话记忆.md)

@@ -98,6 +98,8 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 ## 来源引用
 
+- [摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论](summaries/摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论.md)（[原文](https://x.com/garrytan/status/2045371983312097409)）
+
 - [摘要：我给了他一个梦想：超越 Claude Code](summaries/摘要：我给了他一个梦想：超越 Claude Code.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5NDk5MTA0MQ%3D%3D&mid=2652331368&idx=1&sn=0f4117cecb5e356189ebcacdbf50c07e&chksm=bc5a95231d52bd399537c084f44729c05c12299bad4f0ca346266958f977576301a54030911d#rd)）
 
 - [摘要：How I built harness for my agent using Claude Code leaks](summaries/摘要：How I built harness for my agent using Claude Code leaks.md)（[原文](https://x.com/rohit4verse/status/2041548810804211936)）
@@ -156,6 +158,8 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 - [原文链接](https://blog.ltbase.dev/posts/agents/harness-engineering.html)｜《模型不是笨，是 Harness 没配好》｜来源条目：[摘要：模型不是笨，是 Harness 没配好](summaries/摘要：模型不是笨，是 Harness 没配好.md)
 
+- [摘要：什么才是真正的 Harness Engineering？](summaries/摘要：什么才是真正的 Harness Engineering？.md)（[原文](https://x.com/SaitoWu/status/2045458721929892345)）
+
 ### 补充关联概念
 
 - [群体智能](concepts/群体智能.md)
@@ -191,3 +195,9 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [独立 Evaluator](concepts/独立 Evaluator.md)
 
 - [局部失败恢复](concepts/局部失败恢复.md)
+
+- [Guardrails](concepts/Guardrails.md)
+
+- [Review Agents](concepts/Review Agents.md)
+
+- [渐进式披露](concepts/渐进式披露.md)

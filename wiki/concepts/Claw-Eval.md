@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 草稿
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/b2b220796f454253a9c6024b2b52d700
@@ -24,6 +24,16 @@ Claw-Eval 是一个面向真实世界多步 Agent 任务的评测基准，用来
 
 - 文中用它来说明 Qwen 3.6-Plus 在复杂 Agent 任务上已经逼近第一梯队
 
+## 关联概念
+
+- [Pass^3](concepts/Pass^3.md)
+
+- [Meta Muse Spark](entities/Meta Muse Spark.md)
+
+- [多 Agent 并行推理](concepts/多 Agent 并行推理.md)
+
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247733292&idx=1&sn=e39369ea00846c222739652d5b47bcc8&chksm=913f8f245def967dec5b7fa87346d1d1fb0f05e5f0084f9bccfc6aeaf678203157c80fe2767b#rd)｜《「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？》｜源文章：「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？
+- [摘要：「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？](summaries/摘要：「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？.md)
+
+- [摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三](summaries/摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三.md)（[原文](https://x.com/alexandr_wang/status/2045348588734066794)）

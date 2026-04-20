@@ -58,6 +58,10 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 ## 来源引用
 
+- [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)（[原文](https://x.com/RoundtableSpace/status/2045906520672461309)）
+
+- [摘要：GBrain v0.13 dropped](summaries/摘要：GBrain v0.13 dropped.md)（[原文](https://x.com/garrytan/status/2046002383021555986)）
+
 - [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)（[原文](https://x.com/pritipatelfgoo/status/2045105855662809267)）
 
 - [摘要：Introducing expanded coverage for image generation models in Hermes Agent and Nous Portal Tool Gateway!](summaries/摘要：Introducing expanded coverage for image generation models in Hermes Agent and Nous Portal Tool Gateway!.md)（[原文](https://x.com/NousResearch/status/2045004711699640463)）
@@ -146,9 +150,21 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [摘要：The Ultimate Guide to Running a Headless Mac mini for AI agents](summaries/摘要：The Ultimate Guide to Running a Headless Mac mini for AI agents.md)（[原文](https://x.com/mronge/status/2045234739679011144)）
 
-- 摘要：AI researchers and engineers（[原文](https://x.com/ollama/status/2045282803387158873)）
+- [摘要：AI researchers and engineers](summaries/摘要：AI researchers and engineers.md)（[原文](https://x.com/ollama/status/2045282803387158873)）
+
+- [摘要：Hermes 多 Agent 深水区：三个高级实战技巧](summaries/摘要：Hermes 多 Agent 深水区：三个高级实战技巧.md)（[原文](https://x.com/BTCqzy1/status/2045720855137903046)）
+
+- [摘要：Ollama 一键启动 Hermes Agent：免费、本地、会自我进化的 AI 私人助手](summaries/摘要：Ollama 一键启动 Hermes Agent：免费、本地、会自我进化的 AI 私人助手.md)（[原文](https://x.com/Saboo_Shubham_/status/2045692123887050816)）
+
+- [摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通](summaries/摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通.md)（[原文](https://x.com/ResearchWang/status/2045812932538438001)）
+
+- [摘要：Interesting insights, especially this: Hermes starts off as any other agent does, inefficient and often not sure how to complete a task that is training didnt have priors for. However, solve it once a](summaries/摘要：Interesting insights, especially this- Hermes starts off as any other agent does, inefficient and often not sure how to complete a task that is training didnt have priors for. However, solve it once a.md)（[原文](https://x.com/Teknium/status/2046001396819067008)）
 
 ## 关联概念
+
+- [andrej-karpathy-skills](concepts/andrej-karpathy-skills.md)
+
+- [GenericAgent](entities/GenericAgent.md)
 
 - [Hermes Messaging Gateway](concepts/Hermes Messaging Gateway.md)
 
@@ -194,6 +210,12 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [Subagents 并行](concepts/Subagents 并行.md)
 
+- [Stateless Ephemeral Unit](concepts/Stateless Ephemeral Unit.md)
+
+- [LLM-Driven Replan](concepts/LLM-Driven Replan.md)
+
+- [Subdirectory Hints](concepts/Subdirectory Hints.md)
+
 - [Steer 机制](concepts/Steer 机制.md)
 
 - [异步事件驱动编排](concepts/异步事件驱动编排.md)
@@ -220,6 +242,8 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [持久化跨会话记忆](concepts/持久化跨会话记忆.md)
 
+- [双记忆文件架构](concepts/双记忆文件架构.md)
+
 - [Hindsight](entities/Hindsight.md)
 
 - [Browser Use](entities/Browser Use.md)
@@ -245,6 +269,8 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 - [WSL2](entities/WSL2.md)
 
 - [Ollama](entities/Ollama.md)
+
+- [llm-wiki-compiler](entities/llm-wiki-compiler.md)
 
 - [Context Bleed](concepts/Context Bleed.md)
 
@@ -305,5 +331,11 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 - [Nous Research](entities/Nous Research.md)
 
 - [Nous Portal](entities/Nous Portal.md)
+
+- [Crawl4AI](entities/Crawl4AI.md)
+
+- [CamoFox](entities/CamoFox.md)
+
+- [agency-agents-zh](entities/agency-agents-zh.md)
 
 - [Nous Tool Gateway](entities/Nous Tool Gateway.md)

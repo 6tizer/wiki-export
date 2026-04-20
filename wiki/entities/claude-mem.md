@@ -59,6 +59,12 @@ curl -fsSL https://install.cmem.ai/openclaw.sh | bash
 
 ## 关联概念
 
+- [andrej-karpathy-skills](concepts/andrej-karpathy-skills.md)
+
+- [Evolver](entities/Evolver.md)
+
+- [GenericAgent](entities/GenericAgent.md)
+
 - [CLAUDE.md](concepts/CLAUDE.md.md)
 
 - [Agent Skills](concepts/Agent Skills.md)
@@ -68,6 +74,10 @@ curl -fsSL https://install.cmem.ai/openclaw.sh | bash
 - [Multica](entities/Multica.md)
 
 ## 来源引用
+
+- [摘要：Claude-Mem：让AI编程助手拥有跨会话持久记忆](summaries/摘要：Claude-Mem：让AI编程助手拥有跨会话持久记忆.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2MjIwODc3Mw%3D%3D&mid=2247518172&idx=1&sn=867250666fc5c9f4a7ca9c84f243b970&chksm=cf5ea8e68aca9ab2d4c501de00f8682baffb9866b120a678223699ba9024ea0b302de2a35158#rd)）
+
+- [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)（[原文](https://x.com/RoundtableSpace/status/2045906520672461309)）
 
 - [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)（[原文](https://x.com/pritipatelfgoo/status/2045105855662809267)）
 

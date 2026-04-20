@@ -26,4 +26,14 @@ notion_id: bf5cabcf-7711-4f07-bd30-242feea30853
 
 ## 来源引用
 
-- [原文链接](https://x.com/berryxia/status/2040556372887302229)｜《Open-Multi-Agent：从 Claude Code 源码泄露中诞生的 TypeScript 多智能体框架》｜源文章：Open-Multi-Agent：从 Claude Code 源码泄露中诞生的 TypeScript 多智能体框架
+- Open-Multi-Agent：从 Claude Code 源码泄露中诞生的 TypeScript 多智能体框架（[原文](https://x.com/berryxia/status/2040556372887302229)）
+
+- [摘要：GBrain Minions：用 Postgres 任务队列，把多 Agent 系统从玩具拉到生产级](summaries/摘要：GBrain Minions：用 Postgres 任务队列，把多 Agent 系统从玩具拉到生产级.md)（[原文](https://x.com/AYi_AInotes/status/2045825582600958461)）
+
+## 关联概念
+
+- [Minions](concepts/Minions.md)
+
+- [Postgres 任务队列](concepts/Postgres 任务队列.md)
+
+- [子 Agent 派生](concepts/子 Agent 派生.md)

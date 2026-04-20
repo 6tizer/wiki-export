@@ -6,7 +6,7 @@ tags:
 - Agent 框架
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/5a0a255b3c21485b89fc3bc97e77ae16
@@ -24,6 +24,8 @@ notion_id: 5a0a255b-3c21-485b-89fc-3bc97e77ae16
 - 产品差异点不再只是补全能力，而是能否承载写作、审阅、交付的完整异步闭环
 
 ### 来源引用
+
+- [摘要：ThinkInAI Weekly AI周刊 VOL.42 Opus 4.7 来了、Qwen 开源 35B、Agent 工具链全面升级](summaries/摘要：ThinkInAI Weekly AI周刊 VOL.42 Opus 4.7 来了、Qwen 开源 35B、Agent 工具链全面升级.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA%3D%3D&mid=2247514009&idx=1&sn=bf15a5a46c8fceb7d84d0b3760d4ade9&chksm=91d6d8d58aad639487948529ced9d124bf6b7e77e01022df6a25570b93843ec362146982cbe9#rd)）
 
 - [摘要：Cognition 用 $250M 抄底 Windsurf：当 IDE 变成 Agent 指挥中心，谁来审这些代码？](summaries/摘要：Cognition 用 $250M 抄底 Windsurf：当 IDE 变成 Agent 指挥中心，谁来审这些代码？.md)（[原文](https://x.com/aakashgupta/status/2044619554706604356)）
 

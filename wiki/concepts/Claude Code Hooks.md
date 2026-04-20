@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 已审核
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/88f43e60c3b84b75af2b9ee8ab534371
@@ -34,6 +34,8 @@ Claude Code Hooks 是 Claude Code 2.1 引入的事件驱动钩子机制，允许
 
 ## 来源引用
 
+- [摘要：Claude-Mem：让AI编程助手拥有跨会话持久记忆](summaries/摘要：Claude-Mem：让AI编程助手拥有跨会话持久记忆.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2MjIwODc3Mw%3D%3D&mid=2247518172&idx=1&sn=867250666fc5c9f4a7ca9c84f243b970&chksm=cf5ea8e68aca9ab2d4c501de00f8682baffb9866b120a678223699ba9024ea0b302de2a35158#rd)）
+
 - [摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源](summaries/摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源.md)（老金带你玩AI, 2026-02-28）— 详细讲述 Hooks 在三层记忆系统中的应用
 
 - 《深度使用半年，我总结了 Claude Code 的架构、治理与工程实践》｜X书签文章｜原文链接：[https://x.com/HiTw93/status/2032091246588518683](https://x.com/HiTw93/status/2032091246588518683)
@@ -47,6 +49,8 @@ Claude Code Hooks 是 Claude Code 2.1 引入的事件驱动钩子机制，允许
 - [原文链接](https://x.com/rywiggs/status/2044448092477661638)｜《Creating a Second Brain with Claude Code》｜来源条目：[摘要：Creating a Second Brain with Claude Code](summaries/摘要：Creating a Second Brain with Claude Code.md)
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzIyOTY1ODAzNQ%3D%3D&mid=2247484861&idx=1&sn=53c1d6917185609b0f7342e8a06958cf&chksm=e9dd96a4a2b2e8e3b8f6566016312d36df186b16e1f374bd1dd87659ad8b5d9649bbdc1cd05f#rd)｜[摘要：这个开源工具太猛了！让 Claude Code 成本爆降 89%](summaries/摘要：这个开源工具太猛了！让 Claude Code 成本爆降 89%.md)
+
+- [摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%](summaries/摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%.md)（[原文](https://x.com/laogui/status/2045677115341934867)）
 
 - [摘要：打造可靠的 AI 编程环境：Claude Code Hooks 完整开发者指南](summaries/摘要：打造可靠的 AI 编程环境：Claude Code Hooks 完整开发者指南.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5NzA1NzMyOQ%3D%3D&mid=2247486947&idx=1&sn=92ca2b4f44cadd181eb6b40087a2531b&chksm=a7e11bb1d385c29bce1587e79207574fba3835086a7fbed287fbf12e86194e37111fb2982d78#rd)）
 

@@ -30,6 +30,16 @@ A2UI（Agent-to-UI）是 Google 于 2025 年底发布的开源协议，核心思
 
 - 与 MCP、A2A、AG-UI 共同构成 2026 年 AI Agent 协议栈
 
+## 关联概念
+
+- [A2A 协议](concepts/A2A 协议.md)
+
+- [AG2](entities/AG2.md)
+
+- [json-render](entities/json-render.md)
+
 ## 来源引用
 
-- [摘要：从千问点奶茶说起——Generative UI 协议架构实践](summaries/摘要：从千问点奶茶说起——Generative UI 协议架构实践.md)（老码小张，2026-02-28）
+- [摘要：从千问点奶茶说起——Generative UI 协议架构实践](summaries/摘要：从千问点奶茶说起——Generative UI 协议架构实践.md)
+
+- [摘要：Google发布A2UI 0.9：AI直接生成界面](summaries/摘要：Google发布A2UI 0.9：AI直接生成界面.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY5MjE2OTU5Mg%3D%3D&mid=2247484380&idx=1&sn=86632002fdf6fcdd5a9c2e5bedae3252&chksm=f5bdb6949b80daed06d25e00b23e76dec8e7771b3f9a448172ebb4de6731c3811c33c0061231#rd)）

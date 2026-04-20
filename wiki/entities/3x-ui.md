@@ -29,3 +29,5 @@ notion_id: 47b15190-9550-4a0c-b9df-cd39c4f40dcf
 ## 来源引用
 
 - [摘要：高效率，超快速，极易用](summaries/摘要：高效率，超快速，极易用.md)（[原文](https://x.com/dingyi/status/2045100088616522076)）
+
+- [摘要：Remnawave：比 3x-ui 更现代的代理面板，俄罗斯团队打造的全自动化管理方案](summaries/摘要：Remnawave：比 3x-ui 更现代的代理面板，俄罗斯团队打造的全自动化管理方案.md)（[原文](https://x.com/dingyi/status/2045743670050353594)）

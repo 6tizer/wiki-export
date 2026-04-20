@@ -77,6 +77,8 @@ wechat-cli项目等实际项目均由GLM-5.1赞助开发，展示了其在长程
 
 - [摘要：quantization](summaries/摘要：quantization.md)（[原文](https://x.com/leftcurvedev_/status/2044700338817564814)）
 
+- [摘要：Okay this one is insane. A new 18B frankenstein model was just released on @huggingface — Beats the new Qwen3.6-35B-A3B on a 44-test suite despite requiring 12GB VRAM instead of 24GB 🤯](summaries/摘要：Okay this one is insane. A new 18B frankenstein model was just released on @huggingface — Beats the new Qwen3.6-35B-A3B on a 44-test suite despite requiring 12GB VRAM instead of 24GB 🤯.md)（[原文](https://x.com/leftcurvedev_/status/2045449352827580602)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)
@@ -116,3 +118,9 @@ wechat-cli项目等实际项目均由GLM-5.1赞助开发，展示了其在长程
 - [GGUF](concepts/GGUF.md)
 
 - [MLX 框架](entities/MLX 框架.md)
+
+- [Qwopus-GLM-18B-Merged-GGUF](entities/Qwopus-GLM-18B-Merged-GGUF.md)
+
+- [模型合并](concepts/模型合并.md)
+
+- [Agentic Reasoning](concepts/Agentic Reasoning.md)

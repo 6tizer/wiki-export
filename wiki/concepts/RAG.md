@@ -41,6 +41,8 @@ notion_id: 263d46a0-8f2e-4695-aa04-1c9ccdd5cf01
 
 - [摘要：Here are the 3 Core Pillars of Every AI Agent's Context](summaries/摘要：Here are the 3 Core Pillars of Every AI Agent's Context.md)（[原文](https://x.com/Ai_Vaidehi/status/2045050337149513974)）
 
+- [摘要：用好NotebookLM立省80%Token](summaries/摘要：用好NotebookLM立省80%Token.md)（[原文](https://x.com/MinLiBuilds/status/2046002143937941988)）
+
 ## 关联概念
 
 - [MCP 协议](concepts/MCP 协议.md)
@@ -54,3 +56,11 @@ notion_id: 263d46a0-8f2e-4695-aa04-1c9ccdd5cf01
 - [just-bash](entities/just-bash.md)
 
 - [ChromaDB](entities/ChromaDB.md)
+
+- [NotebookLM](entities/NotebookLM.md)
+
+- [Claude Code](entities/Claude Code.md)
+
+- [Prompt Cache](concepts/Prompt Cache.md)
+
+- [notebooklm-client](entities/notebooklm-client.md)

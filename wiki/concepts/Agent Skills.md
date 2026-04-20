@@ -26,6 +26,8 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 
 ## 来源引用
 
+- [摘要：Memory](summaries/摘要：Memory.md)（[原文](https://x.com/akshay_pachaar/status/2045510648474530263)）
+
 - [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)（[原文](https://x.com/pritipatelfgoo/status/2045105855662809267)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ%3D%3D&mid=2650996439&idx=1&sn=b0e8f9460d31651bdd374eae18db74f6&chksm=bdd2ba711515b068254cc8fae7b1d613c0f7602c73faca901e0862da74272e110b494db13b0f#rd)｜《汤道生：人工智能正式进入 Harness 时代》｜来源条目：[摘要：汤道生：人工智能正式进入 Harness 时代](summaries/摘要：汤道生：人工智能正式进入 Harness 时代.md)
@@ -77,6 +79,10 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 - [摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活](summaries/摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk0MjM4Mjc1Mw%3D%3D&mid=2247491139&idx=1&sn=2171d0f8e6e16fc6ba280948b5afa2c6&chksm=c361e5fb85975dba21cb8a655c8654d851dbbf508e8114d091e09d81824750ab3f13c0de9549#rd)）
 
 - [摘要：Here are the 3 Core Pillars of Every AI Agent's Context](summaries/摘要：Here are the 3 Core Pillars of Every AI Agent's Context.md)（[原文](https://x.com/Ai_Vaidehi/status/2045050337149513974)）
+
+- [摘要：什么才是真正的 Harness Engineering？](summaries/摘要：什么才是真正的 Harness Engineering？.md)（[原文](https://x.com/SaitoWu/status/2045458721929892345)）
+
+- [摘要：Interesting insights, especially this: Hermes starts off as any other agent does, inefficient and often not sure how to complete a task that is training didnt have priors for. However, solve it once a](summaries/摘要：Interesting insights, especially this- Hermes starts off as any other agent does, inefficient and often not sure how to complete a task that is training didnt have priors for. However, solve it once a.md)（[原文](https://x.com/Teknium/status/2046001396819067008)）
 
 ## 关联概念
 
@@ -140,6 +146,10 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 
 - [记忆分层架构](concepts/记忆分层架构.md)
 
+- [Agent 协议层](concepts/Agent 协议层.md)
+
+- [Mediator 层](concepts/Mediator 层.md)
+
 - [Gateway](concepts/Gateway.md)
 
 - [MCP 协议](concepts/MCP 协议.md)
@@ -155,3 +165,7 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 - [面试追问链](concepts/面试追问链.md)
 
 - [标题公式](concepts/标题公式.md)
+
+- [Guardrails](concepts/Guardrails.md)
+
+- [Review Agents](concepts/Review Agents.md)

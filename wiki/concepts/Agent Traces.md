@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 草稿
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/43fe87516eb0469d8a5367fe4cd16dc2
@@ -36,6 +36,16 @@ Agent Traces 指 Agent 执行过程中沉淀的输入、工具调用、中间状
 
 - [Meta-Harness](concepts/Meta-Harness.md)
 
+- [OpenAI Agents SDK](entities/OpenAI Agents SDK.md)
+
+- [Agent Handoff](concepts/Agent Handoff.md)
+
+- [会话记忆](concepts/会话记忆.md)
+
+- [Sandbox Agents](concepts/Sandbox Agents.md)
+
 ## 来源引用
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw%3D%3D&mid=2247523832&idx=1&sn=8a7013894ddc0668c0f1c9f935599450&chksm=c1b17f5bd2d0ca49ee848d1dc13c14fb122c8f551ba00b307b566dfa7edc4c20a52573051f79#rd)｜《字节最火的开源Agent项目，如何思考Agent的自我进化？》｜来源文章：字节最火的开源Agent项目，如何思考Agent的自我进化？
+
+- [摘要：OpenAI Agents SDK：三个原语，搭出你的多 Agent 系统](summaries/摘要：OpenAI Agents SDK：三个原语，搭出你的多 Agent 系统.md)（[原文](https://x.com/_vmlops/status/2045533747857240290)）

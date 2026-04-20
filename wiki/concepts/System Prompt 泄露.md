@@ -31,6 +31,14 @@ System Prompt 泄露是指通过提示注入、逆向分析或社区协作等方
 
 - [提示注入](concepts/提示注入.md)
 
+- [Agent Harness](concepts/Agent Harness.md)
+
+- [Computer Use](concepts/Computer Use.md)
+
+- [红队演练](concepts/红队演练.md)
+
 ## 来源引用
+
+- [摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」](summaries/摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」.md)（[原文](https://x.com/elder_plinius/status/2045682830383231474)）
 
 - 《134k Star 的宝藏仓库：AI 编程工具的 System Prompt 全被扒出来了》（凡人小北，2026-03-05）
