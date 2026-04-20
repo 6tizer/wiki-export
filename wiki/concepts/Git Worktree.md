@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/698addfbefd54f35a35cac9e790bd847
@@ -39,6 +39,8 @@ git worktree remove ../feature-branch               # 删除 worktree
 
 ## 来源引用
 
+- [摘要：Compound Engineering - 4/17/2026](summaries/摘要：Compound Engineering - 4-17-2026.md)（[原文](https://x.com/trevin/status/2045245249392607443)）
+
 - [原文链接](https://x.com/runes_leo/status/2042243228678693244)｜《用半年 Claude Code 踩坑，我验证了 OpenAI/Cursor/Anthropic 三篇 Harness Engineering 的每一条》｜来源条目：[摘要：用半年 Claude Code 踩坑，我验证了 OpenAI/Cursor/Anthropic 三篇 Harness Engineering 的每一条](summaries/摘要：用半年 Claude Code 踩坑，我验证了 OpenAI-Cursor-Anthropic 三篇 Harness Engineering 的每一条.md)
 
 - SuperConductor 官网 [https://super.engineering/](https://super.engineering/) 功能介绍（2026-04-10）
@@ -55,7 +57,11 @@ git worktree remove ../feature-branch               # 删除 worktree
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw%3D%3D&mid=2247515443&idx=1&sn=83324258b9f56b464f858f0deb0962a1&chksm=e99cecb1a90cbe4df1285e9b663144d03d9aa6cf67951e02148b275d61446970490fc395284c#rd)｜《全新重构版Claude Code Desktop上线！把Codex APP抄了个遍》｜来源条目：摘要：全新重构版Claude Code Desktop上线！把Codex APP抄了个遍
 
+- [摘要：How I built harness for my agent using Claude Code leaks](summaries/摘要：How I built harness for my agent using Claude Code leaks.md)（[原文](https://x.com/rohit4verse/status/2041548810804211936)）
+
 ## 关联概念
+
+- [Compound Engineering](concepts/Compound Engineering.md)
 
 - [superpowers 框架](concepts/superpowers 框架.md)
 

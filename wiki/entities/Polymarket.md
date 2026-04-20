@@ -5,7 +5,7 @@ tags:
 - Crypto/DeFi
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/a7d211b5113d4c0ea733b5fda816f582
@@ -66,11 +66,17 @@ OpenClaw 等 AI Agent 框架已被社区用于 Polymarket 套利交易：
 
 - [原文链接](https://x.com/qkl2058/status/2033888534587985936)｜《Polymarket 上的「印钞机」：一篇病毒式营销帖背后的套利真相》｜来源条目：[摘要：Polymarket 上的「印钞机」：一篇病毒式营销帖背后的套利真相](summaries/摘要：Polymarket 上的「印钞机」：一篇病毒式营销帖背后的套利真相.md)
 
+- [摘要：Building a $1K/Day Wolf Hour System on Polymarket With Claude - Full Guide](summaries/摘要：Building a $1K-Day Wolf Hour System on Polymarket With Claude - Full Guide.md)（[原文](https://x.com/SolSt1ne/status/2043685450070831212)）
+
 ## 关联概念
 
 - 跨交易所套利
 
 - [体育延迟套利](concepts/体育延迟套利.md)
+
+- [Wolf Hour](concepts/Wolf Hour.md)
+
+- [逆向选择](concepts/逆向选择.md)
 
 - 《用两个 AI 代理把 $1000 变成 $2265：Rust 套利 vs Python 体育延迟优势实战》（billtheinvestor，2026-03-08）— 补充 Polymarket 在 AI 自动化交易中的延迟优势案例
 

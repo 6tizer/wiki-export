@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/1491972f0db242eaa1e8c04710c655ec
@@ -31,6 +31,8 @@ Qwen3.6-35B-A3B 是阿里 Qwen 发布的开源稀疏 MoE 大模型，总参数 3
 
 ## 来源引用
 
+- [摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see how it performs:](summaries/摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see how it performs-.md)（[原文](https://x.com/stevibe/status/2045087373516492954)）
+
 - [原文链接](https://x.com/Alibaba_Qwen/status/2044768734234243427)｜《⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀》｜源文章：Qwen3.6-35B-A3B：用3B的算力跑35B的智慧，阿里最强开源编程模型来了
 
 - [官方博客](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
@@ -38,3 +40,13 @@ Qwen3.6-35B-A3B 是阿里 Qwen 发布的开源稀疏 MoE 大模型，总参数 3
 - [Hugging Face](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)
 
 - [ModelScope](https://modelscope.cn/models/Qwen/Qwen3.6-35B-A3B)
+
+## 关联概念
+
+- [Ollama](entities/Ollama.md)
+
+- [vLLM](entities/vLLM.md)
+
+- [SGLang](entities/SGLang.md)
+
+- [LM Studio](entities/LM Studio.md)

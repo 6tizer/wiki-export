@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-19'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/48ff78c527b046edb6e5cee2ce5f5382
@@ -44,6 +44,8 @@ Subagents 并行是 Claude Cowork 中的一种多任务执行模式，允许主 
 
 - [摘要：说实话，这才是Anthropic今年最有价值的更新啊，没有之一！！！](summaries/摘要：说实话，这才是Anthropic今年最有价值的更新啊，没有之一！！！.md)（[原文](https://x.com/AYi_AInotes/status/2044625894556230013)，AYi_AInotes，2026-04）
 
+- [摘要：Single-agent AI coding is a nightmare for engineers](summaries/摘要：Single-agent AI coding is a nightmare for engineers.md)（[原文](https://x.com/MilksandMatcha/status/2044863551186309460)）
+
 ## 关联概念
 
 - [OpenClaw](entities/OpenClaw.md)
@@ -65,3 +67,9 @@ Subagents 并行是 Claude Cowork 中的一种多任务执行模式，允许主 
 - [Context Compaction](concepts/Context Compaction.md)
 
 - [Rewind](concepts/Rewind.md)
+
+- [上下文隔离](concepts/上下文隔离.md)
+
+- [阶段式并行执行](concepts/阶段式并行执行.md)
+
+- [Codex Spark](entities/Codex Spark.md)

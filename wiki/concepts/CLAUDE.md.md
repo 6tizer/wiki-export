@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: high
-last_compiled: '2026-04-13'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0927d29642cb48a0b3bfc1243bde0b88
@@ -36,7 +36,19 @@ curl https://raw.githubusercontent.com/.../CLAUDE.md >> CLAUDE.md
 
 ## 关联概念
 
+- [Agent Skills](concepts/Agent Skills.md)
+
+- [Hermes Agent](entities/Hermes Agent.md)
+
+- [claude-mem](entities/claude-mem.md)
+
+- [Multica](entities/Multica.md)
+
 - [Claude Code](entities/Claude Code.md)
+
+- [GLM-5.1](entities/GLM-5.1.md)
+
+- [CC Switch](entities/CC Switch.md)
 
 - [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)
 
@@ -69,6 +81,10 @@ curl https://raw.githubusercontent.com/.../CLAUDE.md >> CLAUDE.md
 - [caveman](entities/caveman.md)
 
 ## 来源引用
+
+- [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)（[原文](https://x.com/pritipatelfgoo/status/2045105855662809267)）
+
+- [摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。](summaries/摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647681650&idx=1&sn=ebe9c3f89ede3094c532f47dcd495081&chksm=f1848a70eb0ed8813b80a31c693a43c481d2e6a4d5180ff577c22c46d4146fd3e97b57ec5be4#rd)）
 
 - [原文链接](https://x.com/runes_leo/status/2042243228678693244)｜《用半年 Claude Code 踩坑，我验证了 OpenAI/Cursor/Anthropic 三篇 Harness Engineering 的每一条》｜来源条目：[摘要：用半年 Claude Code 踩坑，我验证了 OpenAI/Cursor/Anthropic 三篇 Harness Engineering 的每一条](summaries/摘要：用半年 Claude Code 踩坑，我验证了 OpenAI-Cursor-Anthropic 三篇 Harness Engineering 的每一条.md)
 

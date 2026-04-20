@@ -5,7 +5,7 @@ tags:
 - Agent 技能
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-10'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8c07c2e613624b7a88578a612748edf2
@@ -31,6 +31,8 @@ Plugin Marketplace 是 AI 插件的分发和交易市场，第三方开发者可
 - [摘要：我研究了Anthropic这个金融服务Plugin仓库，发现AI正在做一件比写代码更可怕的事](summaries/摘要：我研究了Anthropic这个金融服务Plugin仓库，发现AI正在做一件比写代码更可怕的事.md)（老码小张, 2026-02-28）— Marketplace 设计分析
 
 - [原文链接](https://x.com/Codex_Changelog/status/2044526487119007827)｜《Sign in with ChatGPT》｜来源条目：[摘要：Sign in with ChatGPT](summaries/摘要：Sign in with ChatGPT.md)
+
+- [摘要：Intercom 如何用 Claude Code 实现研发效率 3 倍提升：一份来自真实大厂的完整账单](summaries/摘要：Intercom 如何用 Claude Code 实现研发效率 3 倍提升：一份来自真实大厂的完整账单.md)（[原文](https://x.com/darraghcurran/status/2044847768313987522)）
 
 ## 关联概念
 

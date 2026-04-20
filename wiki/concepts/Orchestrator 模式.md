@@ -6,7 +6,7 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/06e009e6ba284035af6207bc2ce09a32
@@ -35,6 +35,10 @@ Orchestrator 模式是一种让主 Agent 主要负责规划、拆解与调度，
 
 - [原文链接](https://x.com/sujingshen/status/2043898494818410731)｜《三省六部幻觉：为什么"虚拟公司"式多Agent架构在工程上不成立》｜来源条目：三省六部幻觉：为什么「虚拟公司」式多 Agent 架构在工程上走不通
 
+- [摘要：Single-agent AI coding is a nightmare for engineers](summaries/摘要：Single-agent AI coding is a nightmare for engineers.md)（[原文](https://x.com/MilksandMatcha/status/2044863551186309460)）
+
+- [摘要：Composing a Search Engine](summaries/摘要：Composing a Search Engine.md)（[原文](https://exa.ai/blog/composing-a-search-engine)）
+
 ## 关联概念
 
 - [Claude Code](entities/Claude Code.md)
@@ -48,3 +52,9 @@ Orchestrator 模式是一种让主 Agent 主要负责规划、拆解与调度，
 - [显式外部状态](concepts/显式外部状态.md)
 
 - [Context Engineering](concepts/Context Engineering.md)
+
+- [上下文隔离](concepts/上下文隔离.md)
+
+- [阶段式并行执行](concepts/阶段式并行执行.md)
+
+- [Codex Spark](entities/Codex Spark.md)

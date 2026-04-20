@@ -5,7 +5,7 @@ tags:
 - 工作流
 status: 审核中
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/6a8cb9b4e0474053be1b5f821ce03cef
@@ -80,7 +80,13 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 
 - [原文链接](https://x.com/ShopifyEng/status/2044477537200550383)｜《Shopify 开源 pi-autoresearch，用自主实验循环持续挖掘性能优化》｜来源条目：[摘要：Shopify 开源 pi-autoresearch，用自主实验循环持续挖掘性能优化](summaries/摘要：Shopify 开源 pi-autoresearch，用自主实验循环持续挖掘性能优化.md)
 
+- [摘要：Compound Engineering - 4/17/2026](summaries/摘要：Compound Engineering - 4-17-2026.md)（[原文](https://x.com/trevin/status/2045245249392607443)）
+
 ## 关联概念
+
+- [Compound Engineering](concepts/Compound Engineering.md)
+
+- [LLM-as-judge](concepts/LLM-as-judge.md)
 
 - [Autoreason](concepts/Autoreason.md)
 

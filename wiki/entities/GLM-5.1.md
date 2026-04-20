@@ -6,7 +6,7 @@ tags:
 - 商业/生态
 status: 草稿
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/c0ff002c86f541ab9acd0fcab3b4e679
@@ -57,6 +57,10 @@ wechat-cli项目等实际项目均由GLM-5.1赞助开发，展示了其在长程
 
 ## 来源引用
 
+- [摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。](summaries/摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647681650&idx=1&sn=ebe9c3f89ede3094c532f47dcd495081&chksm=f1848a70eb0ed8813b80a31c693a43c481d2e6a4d5180ff577c22c46d4146fd3e97b57ec5be4#rd)）
+
+- [摘要：我给Claude Code 增加了多模型切换功能](summaries/摘要：我给Claude Code 增加了多模型切换功能.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIxNjM4MTMzOA%3D%3D&mid=2247484908&idx=1&sn=47c8fe19d582ad3d2a855cd0357a9078&chksm=96149bde764c82c85d8d9dca7aa660ae3913126cf6047a256cae541d3b55e91dadc9820ea101#rd)）
+
 - 摘要：智谱炸群了：GLM-5.1直接上线，开源第一换人（开发者阿橙，2026-04-08）
 
 - 摘要：开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了（量子位，2026-04-08）
@@ -70,6 +74,8 @@ wechat-cli项目等实际项目均由GLM-5.1赞助开发，展示了其在长程
 - [原文链接](https://x.com/Zai_org/status/2044741938604093443)｜《GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」》｜来源条目：[摘要：GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」](summaries/摘要：GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」.md)
 
 - [摘要：各家Coding Plan为啥不兼容Claude WebSearch格式](summaries/摘要：各家Coding Plan为啥不兼容Claude WebSearch格式.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyOTY1NzMzNg%3D%3D&mid=2247489376&idx=1&sn=722c4f2ba5f82432e7abff79079f8bef&chksm=c3cb3b3b7b865b2b1cf89b3ea79ebe2a03d32fb1e8749f2f334e444c518356d58f2af2b2561f#rd)）
+
+- [摘要：quantization](summaries/摘要：quantization.md)（[原文](https://x.com/leftcurvedev_/status/2044700338817564814)）
 
 ## 关联概念
 
@@ -98,3 +104,15 @@ wechat-cli项目等实际项目均由GLM-5.1赞助开发，展示了其在长程
 - [WebSearch](concepts/WebSearch.md)
 
 - [WebFetch](concepts/WebFetch.md)
+
+- [Qwen3.5](entities/Qwen3.5.md)
+
+- [Qwen3.5-9B-GLM5.1-Distill-v1](entities/Qwen3.5-9B-GLM5.1-Distill-v1.md)
+
+- [模型蒸馏](concepts/模型蒸馏.md)
+
+- [模型量化](concepts/模型量化.md)
+
+- [GGUF](concepts/GGUF.md)
+
+- [MLX 框架](entities/MLX 框架.md)

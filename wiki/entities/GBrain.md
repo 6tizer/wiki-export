@@ -27,10 +27,12 @@ notion_id: 48363a90-5149-4e33-b973-ec2c5324acd3
 
 ## 来源引用
 
+- [摘要：Resolvers: The Routing Table for Intelligence](summaries/摘要：Resolvers- The Routing Table for Intelligence.md)（[原文](https://x.com/garrytan/status/2044479509874020852)）
+
 - [摘要：YC CEO把自己第二大脑系统开源了：专供OpenClaw与Hermes，全息记忆打造迷你AGI](summaries/摘要：YC CEO把自己第二大脑系统开源了：专供OpenClaw与Hermes，全息记忆打造迷你AGI.md)
 
 - [摘要：How GBrain Works, and How to Actually Wire It Into Your Agents](summaries/摘要：How GBrain Works, and How to Actually Wire It Into Your Agents.md)
 
 ## 关联概念
 
-OpenClaw、[Hermes Agent](entities/Hermes Agent.md)、[PGLite](entities/PGLite.md)、[pgvector](concepts/pgvector.md)、[Thin Harness, Fat Skills](concepts/Thin Harness, Fat Skills.md)、[编译真相+时间线模式](concepts/编译真相+时间线模式.md)、[RRF 融合检索](concepts/RRF 融合检索.md)、[意图分类器](concepts/意图分类器.md)、[多查询扩展](concepts/多查询扩展.md)、[混合搜索](concepts/混合搜索.md)、[梦境思考](concepts/梦境思考.md)、[MCP Server](concepts/MCP Server.md)、[gstack](entities/gstack.md)
+[Resolver](concepts/Resolver.md)、OpenClaw、[Hermes Agent](entities/Hermes Agent.md)、[PGLite](entities/PGLite.md)、[pgvector](concepts/pgvector.md)、[Thin Harness, Fat Skills](concepts/Thin Harness, Fat Skills.md)、[编译真相+时间线模式](concepts/编译真相+时间线模式.md)、[RRF 融合检索](concepts/RRF 融合检索.md)、[意图分类器](concepts/意图分类器.md)、[多查询扩展](concepts/多查询扩展.md)、[混合搜索](concepts/混合搜索.md)、[梦境思考](concepts/梦境思考.md)、[MCP Server](concepts/MCP Server.md)、[gstack](entities/gstack.md)

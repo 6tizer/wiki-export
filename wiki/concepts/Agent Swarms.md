@@ -6,7 +6,7 @@ tags:
 - Crypto/DeFi
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8cc7d27018f6462c83ea2caa49dadbd4
@@ -57,8 +57,14 @@ kyegomez 的 Swarms 框架提供了具体的 Swarms 编排模式：
 
 - [原文链接](https://x.com/rywiggs/status/2044448092477661638)｜《Creating a Second Brain with Claude Code》｜来源条目：[摘要：Creating a Second Brain with Claude Code](summaries/摘要：Creating a Second Brain with Claude Code.md)
 
+- [摘要：Single-agent AI coding is a nightmare for engineers](summaries/摘要：Single-agent AI coding is a nightmare for engineers.md)（[原文](https://x.com/MilksandMatcha/status/2044863551186309460)）
+
 ## 关联概念
 
 - [第二大脑系统](concepts/第二大脑系统.md)
 
 - [Claude Code](entities/Claude Code.md)
+
+- [阶段式并行执行](concepts/阶段式并行执行.md)
+
+- [Subagents 并行](concepts/Subagents 并行.md)

@@ -35,6 +35,12 @@ Resolver 是 Agent 系统中的上下文路由机制，用来根据任务类型�
 
 - [Context Engineering](concepts/Context Engineering.md)
 
+- [Trigger Evals](concepts/Trigger Evals.md)
+
+- [check-resolvable](concepts/check-resolvable.md)
+
 ## 来源引用
+
+- [摘要：Resolvers: The Routing Table for Intelligence](summaries/摘要：Resolvers- The Routing Table for Intelligence.md)（[原文](https://x.com/garrytan/status/2044479509874020852)）
 
 - [原文链接](https://x.com/garrytan/status/2042925773300908103)｜《Thin Harness, Fat Skills》｜源文章：Thin Harness, Fat Skills：Garry Tan 的 AI Agent 生产力架构

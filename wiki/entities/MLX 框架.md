@@ -6,7 +6,7 @@ tags:
 - LLM
 status: 草稿
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/3814fd869c2b464ebc5ab8d28a6a2ca6
@@ -33,6 +33,8 @@ MLX 框架 是苹果为 Apple Silicon 统一内存架构打造的机器学习框
 
 - [原文链接](https://x.com/berryxia/status/2043918551552274690)｜《卧槽！本地 AI 又出神器了 🔥》｜源文章：SuperGemma4-26B：本地跑起来的无审查多模态神器，Mac 用户专属
 
+- [摘要：quantization](summaries/摘要：quantization.md)（[原文](https://x.com/leftcurvedev_/status/2044700338817564814)）
+
 ## 关联概念
 
 - [mlx_vlm](entities/mlx_vlm.md)
@@ -40,3 +42,11 @@ MLX 框架 是苹果为 Apple Silicon 统一内存架构打造的机器学习框
 - [Gemma 4](entities/Gemma 4.md)
 
 - [SuperGemma4-26B-Abliterated-Multimodal](entities/SuperGemma4-26B-Abliterated-Multimodal.md)
+
+- [GGUF](concepts/GGUF.md)
+
+- [模型量化](concepts/模型量化.md)
+
+- [Qwen3.5-9B-GLM5.1-Distill-v1](entities/Qwen3.5-9B-GLM5.1-Distill-v1.md)
+
+- [GLM-5.1](entities/GLM-5.1.md)

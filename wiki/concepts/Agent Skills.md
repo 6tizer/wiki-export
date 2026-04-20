@@ -5,7 +5,7 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f017ef06f33f4f6fb3f9f09740bd4063
@@ -25,6 +25,8 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 - 在插件生态中，Skills 往往是连接工作流模板与具体执行能力的基础层
 
 ## 来源引用
+
+- [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)（[原文](https://x.com/pritipatelfgoo/status/2045105855662809267)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ%3D%3D&mid=2650996439&idx=1&sn=b0e8f9460d31651bdd374eae18db74f6&chksm=bdd2ba711515b068254cc8fae7b1d613c0f7602c73faca901e0862da74272e110b494db13b0f#rd)｜《汤道生：人工智能正式进入 Harness 时代》｜来源条目：[摘要：汤道生：人工智能正式进入 Harness 时代](summaries/摘要：汤道生：人工智能正式进入 Harness 时代.md)
 
@@ -74,7 +76,19 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 
 - [摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活](summaries/摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk0MjM4Mjc1Mw%3D%3D&mid=2247491139&idx=1&sn=2171d0f8e6e16fc6ba280948b5afa2c6&chksm=c361e5fb85975dba21cb8a655c8654d851dbbf508e8114d091e09d81824750ab3f13c0de9549#rd)）
 
+- [摘要：Here are the 3 Core Pillars of Every AI Agent's Context](summaries/摘要：Here are the 3 Core Pillars of Every AI Agent's Context.md)（[原文](https://x.com/Ai_Vaidehi/status/2045050337149513974)）
+
 ## 关联概念
+
+- [CLAUDE.md](concepts/CLAUDE.md.md)
+
+- [Hermes Agent](entities/Hermes Agent.md)
+
+- [claude-mem](entities/claude-mem.md)
+
+- [Multica](entities/Multica.md)
+
+- [RAG](concepts/RAG.md)
 
 - [find-skills](concepts/find-skills.md)
 

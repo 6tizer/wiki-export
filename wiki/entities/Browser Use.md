@@ -54,9 +54,11 @@ await agent.run()
 
 ## 相关概念
 
-与 Playwright Skill（确定性脚本自动化）形成对比；与 OpenClaw 的 Computer Use 能力有概念重叠；与 [Claude Code](entities/Claude Code.md) 的官方集成，使其进一步成为 Coding Agent 的云浏览器执行层；与 [云浏览器自动化](concepts/云浏览器自动化.md) 共同构成远程网页操作能力的典型组合；在本文语境下，它与 [Hermes Agent](entities/Hermes Agent.md)、[Hindsight](entities/Hindsight.md) 和 [OpenRouter](entities/OpenRouter.md) 共同构成“个人分析师”工作流中的执行、记忆与模型路由组合
+与 Playwright Skill（确定性脚本自动化）形成对比；与 OpenClaw 的 Computer Use 能力有概念重叠；与 [Claude Code](entities/Claude Code.md) 的官方集成，使其进一步成为 Coding Agent 的云浏览器执行层；与 [云浏览器自动化](concepts/云浏览器自动化.md) 共同构成远程网页操作能力的典型组合；在本文语境下，它与 [Hermes Agent](entities/Hermes Agent.md)、[Hindsight](entities/Hindsight.md) 和 [OpenRouter](entities/OpenRouter.md) 共同构成“个人分析师”工作流中的执行、记忆与模型路由组合；在 [Video Use](entities/Video Use.md) 场景中，这套“结构化感知替代原始感知输入”的方法论被迁移到视频理解流程中。
 
 ## 来源引用
+
+- [摘要：Enable Tool Gateway](summaries/摘要：Enable Tool Gateway.md)（[原文](https://x.com/NousResearch/status/2044878344592699744)）
 
 - [原文链接](https://x.com/YuLin807/status/2042198758260158535)｜《Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器》｜来源条目：[摘要：Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器](summaries/摘要：Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器.md)
 
@@ -71,3 +73,5 @@ await agent.run()
 - [原文链接](https://x.com/berryxia/status/2042941854015197395)｜《免费 + 无限云浏览器小时》｜来源条目：[摘要：免费 + 无限云浏览器小时](summaries/摘要：免费 + 无限云浏览器小时.md)
 
 - [原文链接](https://x.com/0xJeff/status/2043656911044870203)｜《3 Things I learnt after 3 weeks of using Hermes as a personal analyst》｜来源条目：[摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst](summaries/摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst.md)
+
+- [摘要：Video Use：用 Claude Code 把「对着镜头说话」变成一键出片](summaries/摘要：Video Use：用 Claude Code 把「对着镜头说话」变成一键出片.md)（[原文](https://x.com/gregpr07/status/2044554557221675380)）

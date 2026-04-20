@@ -27,4 +27,6 @@ notion_id: 0ef88705-f229-42fc-9b27-e6cc9bcfec49
 
 ## 来源引用
 
+- [摘要：Cognition 用 $250M 抄底 Windsurf：当 IDE 变成 Agent 指挥中心，谁来审这些代码？](summaries/摘要：Cognition 用 $250M 抄底 Windsurf：当 IDE 变成 Agent 指挥中心，谁来审这些代码？.md)（[原文](https://x.com/aakashgupta/status/2044619554706604356)）
+
 - 《LangChain CEO：编程 Agent 正在重塑工程、产品与设计团队的协作方式》｜文章链接：[https://x.com/hwchase17/status/2031051115169808685](https://x.com/hwchase17/status/2031051115169808685)

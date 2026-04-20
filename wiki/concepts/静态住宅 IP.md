@@ -5,7 +5,7 @@ tags:
 - 安全/隐私
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/93acb14804ab4ca2ab43ae6162c4ec09
@@ -35,6 +35,8 @@ notion_id: 93acb148-04ab-4ca2-ab43-ae6162c4ec09
 - [原文链接](https://x.com/chuhaiqu/status/2044701336554643793)｜《这可能是我在 X 上到目前为止看到的最详细最具实操性的 TikTok AI slideshow 手册了，是 Roman 月营收从 0 到 10 万刀的完整路径复盘。》｜来源条目：[摘要：这可能是我在 X 上到目前为止看到的最详细最具实操性的 TikTok AI slideshow 手册了，是 Roman 月营收从 0 到 10 万刀的完整路径复盘。](summaries/摘要：这可能是我在 X 上到目前为止看到的最详细最具实操性的 TikTok AI slideshow 手册了，是 Roman 月营收从 0 到 10 万刀的完整路径复盘。.md)
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzkxMjg4NDA4MA%3D%3D&mid=2247485124&idx=1&sn=85043586a51b77efa1e08dd3978cb95c&chksm=c083e9a265ab0e5499d949cd8d622011a40e324ab5da4405ac97f342bf48649da270086ae923#rd)｜《生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧》｜来源条目：[摘要：生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧](summaries/摘要：生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧.md)
+
+- [摘要：Claude Code 的 99 种开通和 100 种封号方式](summaries/摘要：Claude Code 的 99 种开通和 100 种封号方式.md)（[原文](https://x.com/arkuy99/status/2044287695145611360)）
 
 ## 关联概念
 

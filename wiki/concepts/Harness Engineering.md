@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/b77f7ca635c34485855ccc89f4406e46
@@ -27,6 +27,12 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - 更偏控制与策略层，用来为 Agent 设定工具边界、上下文管理和执行约束；与更偏现实世界模拟的“环境工程”形成互补
 
 ## 关联概念
+
+- [Claude Code](entities/Claude Code.md)
+
+- [Vibe Coding](concepts/Vibe Coding.md)
+
+- [自进化 Agent](concepts/自进化 Agent.md)
 
 - [Better-Harness](entities/Better-Harness.md)
 
@@ -91,6 +97,10 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [Agent Traces](concepts/Agent Traces.md)
 
 ## 来源引用
+
+- [摘要：我给了他一个梦想：超越 Claude Code](summaries/摘要：我给了他一个梦想：超越 Claude Code.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5NDk5MTA0MQ%3D%3D&mid=2652331368&idx=1&sn=0f4117cecb5e356189ebcacdbf50c07e&chksm=bc5a95231d52bd399537c084f44729c05c12299bad4f0ca346266958f977576301a54030911d#rd)）
+
+- [摘要：How I built harness for my agent using Claude Code leaks](summaries/摘要：How I built harness for my agent using Claude Code leaks.md)（[原文](https://x.com/rohit4verse/status/2041548810804211936)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ%3D%3D&mid=2650996439&idx=1&sn=b0e8f9460d31651bdd374eae18db74f6&chksm=bdd2ba711515b068254cc8fae7b1d613c0f7602c73faca901e0862da74272e110b494db13b0f#rd)｜《汤道生：人工智能正式进入 Harness 时代》｜来源条目：[摘要：汤道生：人工智能正式进入 Harness 时代](summaries/摘要：汤道生：人工智能正式进入 Harness 时代.md)
 

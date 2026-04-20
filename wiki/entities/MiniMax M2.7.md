@@ -5,7 +5,7 @@ tags:
 - LLM
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-14'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8bca626000864f3b9ce1e029fc869ccd
@@ -26,6 +26,8 @@ MiniMax M2.7 是 MiniMax 面向 Agent 场景推出的模型，主打低成本、
 
 ## 来源引用
 
+- [摘要：我给Claude Code 增加了多模型切换功能](summaries/摘要：我给Claude Code 增加了多模型切换功能.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIxNjM4MTMzOA%3D%3D&mid=2247484908&idx=1&sn=47c8fe19d582ad3d2a855cd0357a9078&chksm=96149bde764c82c85d8d9dca7aa660ae3913126cf6047a256cae541d3b55e91dadc9820ea101#rd)）
+
 - [原文链接](https://x.com/Khazix0918/status/2034261985542726091)｜《MiniMax M2.7：国产最强 Agent 基模，会自我进化的模型来了》
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488335&idx=1&sn=ece0fb7411d313acd1c583c84b748538&chksm=971ff5041a501710ae6c94e032c8f8d009fe38dd0edd9fbf16d3d392baedc9c670020c3bf213#rd)｜《MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流》｜来源条目：[摘要：MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流](summaries/摘要：MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流.md)
@@ -45,6 +47,12 @@ MiniMax M2.7 是 MiniMax 面向 Agent 场景推出的模型，主打低成本、
 - [持久化跨会话记忆](concepts/持久化跨会话记忆.md)
 
 - [OpenRouter](entities/OpenRouter.md)
+
+- [Claude Code](entities/Claude Code.md)
+
+- [自定义模型接入](concepts/自定义模型接入.md)
+
+- [Anthropic API](entities/Anthropic API.md)
 
 - [GLM-5.1](entities/GLM-5.1.md)
 

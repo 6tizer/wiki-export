@@ -6,7 +6,7 @@ tags:
 - 开发工具
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/635fe6e1bfdd4750b13b1c6546ace4c9
@@ -31,8 +31,16 @@ GGUF 是面向本地大模型推理场景的一种模型文件格式，常用于
 
 - [原文链接](https://x.com/berryxia/status/2043918551552274690)｜《卧槽！本地 AI 又出神器了 🔥》｜源文章：SuperGemma4-26B：本地跑起来的无审查多模态神器，Mac 用户专属
 
+- [摘要：quantization](summaries/摘要：quantization.md)（[原文](https://x.com/leftcurvedev_/status/2044700338817564814)）
+
 ## 关联概念
 
 - [SuperGemma4-26B-Abliterated-Multimodal](entities/SuperGemma4-26B-Abliterated-Multimodal.md)
 
 - [Gemma 4](entities/Gemma 4.md)
+
+- [模型量化](concepts/模型量化.md)
+
+- [MLX 框架](entities/MLX 框架.md)
+
+- [Qwen3.5-9B-GLM5.1-Distill-v1](entities/Qwen3.5-9B-GLM5.1-Distill-v1.md)

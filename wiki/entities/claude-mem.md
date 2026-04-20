@@ -6,7 +6,7 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/9ddf247fa2e844d88f548604a97180f7
@@ -57,6 +57,18 @@ GitHub: [https://github.com/thedotmack/claude-mem](https://github.com/thedotmack
 curl -fsSL https://install.cmem.ai/openclaw.sh | bash
 ```
 
+## 关联概念
+
+- [CLAUDE.md](concepts/CLAUDE.md.md)
+
+- [Agent Skills](concepts/Agent Skills.md)
+
+- [Hermes Agent](entities/Hermes Agent.md)
+
+- [Multica](entities/Multica.md)
+
 ## 来源引用
+
+- [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)（[原文](https://x.com/pritipatelfgoo/status/2045105855662809267)）
 
 - [摘要：脑子是个好东西：为龙虾和 CC 加装外脑之后，这俩货要上天了](summaries/摘要：脑子是个好东西：为龙虾和 CC 加装外脑之后，这俩货要上天了.md)

@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2f0a3acb31654ef3b48d844a1bfb865a
@@ -28,3 +28,5 @@ Builder-Reviewer 模式是指在 AI 编程时代，把团队角色重新分为�
 ## 来源引用
 
 - 《LangChain CEO：编程 Agent 正在重塑工程、产品与设计团队的协作方式》｜文章链接：[https://x.com/hwchase17/status/2031051115169808685](https://x.com/hwchase17/status/2031051115169808685)
+
+- [摘要：Single-agent AI coding is a nightmare for engineers](summaries/摘要：Single-agent AI coding is a nightmare for engineers.md)（[原文](https://x.com/MilksandMatcha/status/2044863551186309460)）

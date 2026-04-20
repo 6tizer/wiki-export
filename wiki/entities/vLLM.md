@@ -6,7 +6,7 @@ tags:
 - 开发工具
 status: 草稿
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-20'
 source_tags: LLM, Agent, 开发者工具
 source_article_url: ''
 notion_url: https://www.notion.so/e0e3be7d69c4408bb2714a2630763a10
@@ -27,9 +27,13 @@ vLLM 是面向大语言模型推理服务的高性能部署框架，强调吞吐
 
 ## 来源引用
 
+- [摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see how it performs:](summaries/摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see how it performs-.md)（[原文](https://x.com/stevibe/status/2045087373516492954)）
+
 - [原文链接](https://x.com/Zai_org/status/2044741938604093443)｜《GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」》｜源文章：GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」
 
 ## 关联概念
+
+- [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
 
 - [GLM-5.1](entities/GLM-5.1.md)
 

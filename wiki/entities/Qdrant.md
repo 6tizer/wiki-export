@@ -2,10 +2,11 @@
 title: Qdrant
 type: entity
 tags:
-- LLM
+- 开发工具
+- 记忆系统
 status: 草稿
 confidence: high
-last_compiled: '2026-04-19'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/fb5b5c5fc1ff4620bed4688b02f8efff

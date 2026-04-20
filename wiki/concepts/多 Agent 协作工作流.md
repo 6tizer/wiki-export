@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f24ad430054f4646b2abf5d56d20483d
@@ -37,7 +37,17 @@ notion_id: f24ad430-054f-4646-b2ab-f5d56d20483d
 
 - 源文章：开源视频 Agent 框架全景扫描：八个项目，哪个适合你？（文中多次讨论多 Agent 分工与协作式视频生产）
 
+- [摘要：这才是AI做ppt的正确姿势 ！](summaries/摘要：这才是AI做ppt的正确姿势 ！.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg3NzU0NzIxMA%3D%3D&mid=2247511533&idx=1&sn=92a0da3abdf30964dfee5cad8e3d4a37&chksm=cef35009229a433f9fb8123e47f9426a2e6858f506f7d551ce5ad710f6f0545513c6c2a2d595#rd)）
+
 ## 关联概念
+
+- [PPT Master](entities/PPT Master.md)
+
+- [DrawingML](concepts/DrawingML.md)
+
+- [串行页面生成](concepts/串行页面生成.md)
+
+- [本地优先处理](concepts/本地优先处理.md)
 
 - [Hermes Agent](entities/Hermes Agent.md)
 

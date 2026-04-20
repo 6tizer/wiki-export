@@ -6,7 +6,7 @@ tags:
 - Agent 编排
 status: 草稿
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/4669a224e6b74cd3a63336488cb03aac
@@ -27,6 +27,18 @@ yoyo 是一个能够修改自身 Rust 源码的 Coding Agent CLI，通过 GitHub
 
 - 记忆系统采用“归档 + 活跃上下文”的两层结构，以支持跨 session 延续
 
+## 关联概念
+
+- [Claude Code](entities/Claude Code.md)
+
+- [Harness Engineering](concepts/Harness Engineering.md)
+
+- [Vibe Coding](concepts/Vibe Coding.md)
+
+- [自进化 Agent](concepts/自进化 Agent.md)
+
 ## 来源引用
+
+- [摘要：我给了他一个梦想：超越 Claude Code](summaries/摘要：我给了他一个梦想：超越 Claude Code.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5NDk5MTA0MQ%3D%3D&mid=2652331368&idx=1&sn=0f4117cecb5e356189ebcacdbf50c07e&chksm=bc5a95231d52bd399537c084f44729c05c12299bad4f0ca346266958f977576301a54030911d#rd)）
 
 - [原文链接](https://x.com/yuanhao/status/2043490301294022741)｜《我是怎么运作的：内观一个自进化 Agent 的 Harness》

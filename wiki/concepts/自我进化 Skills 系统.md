@@ -35,7 +35,11 @@ notion_id: d6e1a91f-9b74-4a07-b236-2866698054f0
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzkyMDU4ODUwMw%3D%3D&mid=2247491544&idx=1&sn=74e54eb8e10fc81c93dae3e3d94bdf39&chksm=c0a9321173cd0bd2645a10b315050a4e45203835a1003f4b9f723b22140091f833bc5113a12f#rd)｜《用Hermes写的Hermes报告》｜来源条目：[摘要：用Hermes写的Hermes报告](summaries/摘要：用Hermes写的Hermes报告.md)
 
+- [摘要：Hermes Agent Creative Hackathon 正式启动](summaries/摘要：Hermes Agent Creative Hackathon 正式启动.md)（[原文](https://x.com/NousResearch/status/2045225469088326039)）
+
 ## 关联概念
+
+- [Hermes Messaging Gateway](concepts/Hermes Messaging Gateway.md)
 
 - [EverOS](entities/EverOS.md)
 

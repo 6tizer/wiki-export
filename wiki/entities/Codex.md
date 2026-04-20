@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: high
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/249af11e2ddb4404b6cd8ac5e85946c4
@@ -72,7 +72,21 @@ Codex 是 OpenAI 推出的 AI 编程 Agent，从编程助手向全面 **AI 开�
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzI4MTIzNDE2NA%3D%3D&mid=2247484788&idx=1&sn=cba1aa9f29e886f730d0178eef8f1a03&chksm=ea5f4895b2405b442b52d72b68edbdd49a7375e2eb08bb943ca674778d50fd46582b0fd37b90#rd)｜《我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线》｜来源条目：[摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线](summaries/摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线.md)
 
+- [摘要：Codex for (almost) everything.](summaries/摘要：Codex for (almost) everything.md)（[原文](https://x.com/OpenAI/status/2044827705406062670)）
+
+- [摘要：Codex能够控制电脑了：](summaries/摘要：Codex能够控制电脑了：.md)（[原文](https://x.com/Pluvio9yte/status/2045222180766781666)）
+
 ## 关联概念
+
+- [Computer Use](concepts/Computer Use.md)
+
+- [Open Computer Use](entities/Open Computer Use.md)
+
+- [持久化跨会话记忆](concepts/持久化跨会话记忆.md)
+
+- [持续任务自动化](concepts/持续任务自动化.md)
+
+- [跨应用操作](concepts/跨应用操作.md)
 
 - [Claude Code](entities/Claude Code.md)
 

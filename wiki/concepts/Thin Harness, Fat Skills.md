@@ -31,6 +31,8 @@ Thin Harness, Fat Skills 是一种 Agent 架构原则：把通用运行时尽量
 
 - [Agent Harness](concepts/Agent Harness.md)
 
+- [Resolver](concepts/Resolver.md)
+
 - [Agent Skills](concepts/Agent Skills.md)
 
 - [Context Engineering](concepts/Context Engineering.md)
@@ -46,6 +48,8 @@ Thin Harness, Fat Skills 是一种 Agent 架构原则：把通用运行时尽量
 - [gstack](entities/gstack.md)
 
 ## 来源引用
+
+- [摘要：Resolvers: The Routing Table for Intelligence](summaries/摘要：Resolvers- The Routing Table for Intelligence.md)（[原文](https://x.com/garrytan/status/2044479509874020852)）
 
 - [原文链接](https://x.com/chenchengpro/status/2043697811993350611)｜《Garry Tan 提炼了他在 agentic engineering 领域的核心心法：Fat Skills, Fat Code, Thin Harness。》｜源文章：Garry Tan 的 Agent 工程心法：Fat Skills、Fat Code、Thin Harness
 
