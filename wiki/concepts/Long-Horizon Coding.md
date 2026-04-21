@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: high
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8ae84932b2aa4d7b908567731ce1b05a
@@ -26,12 +26,14 @@ Long-Horizon Coding 是指 AI 在长时间、多步骤、多文件、多工具�
 
 ## 来源引用
 
-- 摘要：Ship Safe v9.1.0（[原文](https://x.com/Kimi_Moonshot/status/2046249571882500354)）
+- [摘要：Ship Safe v9.1.0](summaries/摘要：Ship Safe v9.1.0.md)（[原文](https://x.com/Kimi_Moonshot/status/2046249571882500354)）
+
+- [摘要：ziggy-llm](summaries/摘要：ziggy-llm.md)（[原文](https://x.com/zxytim/status/2046255419178500408)）
 
 ## 关联概念
 
-- Kimi K2.6
+- [Kimi K2.6](entities/Kimi K2.6.md)
 
-- Kimi Code
+- [Kimi Code](entities/Kimi Code.md)
 
-- Agent Swarms
+- [Agent Swarms](concepts/Agent Swarms.md)
