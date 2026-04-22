@@ -1,14 +1,14 @@
 ---
 type: index
-total_concepts: 1448
-total_entities: 702
+total_concepts: 1447
+total_entities: 703
 total_syntheses: 63
 last_updated: 2026-04-22
 ---
 
 # 📚 知识 Wiki Index
 
-> 1448 concepts · 702 entities · 63 syntheses
+> 1447 concepts · 703 entities · 63 syntheses
 > 导出时间: 2026-04-22
 
 ## 使用方式
@@ -649,6 +649,7 @@ last_updated: 2026-04-22
 - [存在姿态三角形](concepts/存在姿态三角形.md)
 - [客户世界模型](concepts/客户世界模型.md)
 - [对抗式评审](concepts/对抗式评审.md)
+- [对抗性评审](concepts/对抗性评审.md)
 - [局部失败恢复](concepts/局部失败恢复.md)
 - [工具并发分类](concepts/工具并发分类.md)
 - [带类型关系归纳](concepts/带类型关系归纳.md)
@@ -1471,7 +1472,6 @@ last_updated: 2026-04-22
 - [Sigmoid 激活函数](concepts/Sigmoid 激活函数.md)
 - [Simple Self-Distillation](concepts/Simple Self-Distillation.md)
 - [Speculative Decoding](concepts/Speculative Decoding.md)
-- [Step 3.5 Flash](concepts/Step 3.5 Flash.md)
 - [Subliminal Learning](concepts/Subliminal Learning.md)
 - [System Prompt 工程](concepts/System Prompt 工程.md)
 - [System Prompt 泄露](concepts/System Prompt 泄露.md)
@@ -1729,6 +1729,7 @@ last_updated: 2026-04-22
 - [SciTikZ](entities/SciTikZ.md)
 - [Sora](entities/Sora.md)
 - [Stargate](entities/Stargate.md)
+- [Step 3.5 Flash](entities/Step 3.5 Flash.md)
 - [SuperGemma4-26B-Abliterated-Multimodal](entities/SuperGemma4-26B-Abliterated-Multimodal.md)
 - [TimesFM](entities/TimesFM.md)
 - [Tool Calling 2.0](entities/Tool Calling 2.0.md)

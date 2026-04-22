@@ -39,4 +39,4 @@ Dageno 是 geo-content-writer 的数据源层，提供 Fanout 机会发现所需
 
 ## 来源引用
 
-- [摘要：Positioning（GEO Content Writer）](summaries/摘要：Positioning（GEO Content Writer）.md)（[原文](https://x.com/tim_geo_seo/status/2042096325634953260)）
+- [摘要：Positioning（GEO Content Writer）](summaries/摘要：Positioning（GEO Content Writer）.md)
