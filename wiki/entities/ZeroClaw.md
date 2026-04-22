@@ -2,8 +2,7 @@
 title: ZeroClaw
 type: entity
 tags:
-- OpenClaw
-- 开发工具
+- Agent 框架
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

@@ -29,8 +29,8 @@ Claude Token Optimizer 是一类面向项目级提示词与文档压缩的工具
 
 - [CLAUDE.md](concepts/CLAUDE.md.md)
 
-- Caveman Mode
+- [Caveman Mode](concepts/Caveman Mode.md)
 
 ## 来源引用
 
-- 摘要：The fastest and most efficient code intelligence engine for AI coding agents.（[原文](https://x.com/DataChaz/status/2045784379155226971)）
+- [摘要：The fastest and most efficient code intelligence engine for AI coding agents.](summaries/摘要：The fastest and most efficient code intelligence engine for AI coding agents.md)（[原文](https://x.com/DataChaz/status/2045784379155226971)）

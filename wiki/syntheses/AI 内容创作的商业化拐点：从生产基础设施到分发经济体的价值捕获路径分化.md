@@ -4,6 +4,7 @@ type: synthesis
 tags:
 - 内容创作
 - 商业/生态
+- 工作流
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

@@ -2,7 +2,7 @@
 title: CME FedWatch
 type: entity
 tags:
-- 商业/生态
+- Crypto/DeFi
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

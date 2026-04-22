@@ -2,7 +2,9 @@
 title: Qwen3.5
 type: entity
 tags:
-- 商业/生态
+- LLM
+- 多模态
+- Agent 技能
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

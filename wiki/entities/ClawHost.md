@@ -3,7 +3,7 @@ title: ClawHost
 type: entity
 tags:
 - OpenClaw
-- 商业/生态
+- Agent 框架
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

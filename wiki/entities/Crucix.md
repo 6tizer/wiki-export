@@ -2,8 +2,8 @@
 title: Crucix
 type: entity
 tags:
-- 开发工具
-- 安全/隐私
+- AI 产品
+- 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

@@ -29,10 +29,10 @@ Skill Factory 是一个面向 Hermes Agent 的元技能插件，用来观察用�
 
 ## 来源引用
 
-- 摘要：Hermes Agent 生态要炸了，这波进化速度把我整不会了！（[原文](https://x.com/NFTCPS/status/2046076635200553224)）
+- [摘要：Hermes Agent 生态要炸了，这波进化速度把我整不会了！](summaries/摘要：Hermes Agent 生态要炸了，这波进化速度把我整不会了！.md)（[原文](https://x.com/NFTCPS/status/2046076635200553224)）
 
 ## 关联概念
 
-- Hermes Agent
+- [Hermes Agent](entities/Hermes Agent.md)
 
-- Agent Skills
+- [Agent Skills](concepts/Agent Skills.md)

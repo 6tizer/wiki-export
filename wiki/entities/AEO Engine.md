@@ -2,8 +2,9 @@
 title: AEO Engine
 type: entity
 tags:
+- AI 产品
 - 商业/生态
-- 工作流
+- 内容创作
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

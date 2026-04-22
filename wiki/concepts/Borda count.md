@@ -40,7 +40,7 @@ Borda count 是一种按排序位置分配分值的聚合投票方法。在 Auto
 
 - [隔离式 Agent](concepts/隔离式 Agent.md)
 
-- [对抗式评审](concepts/对抗式评审.md)
+- 对抗式评审
 
 - [组织级知识层](concepts/组织级知识层.md)
 

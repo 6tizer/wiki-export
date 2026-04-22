@@ -2,8 +2,9 @@
 title: Aivilization
 type: entity
 tags:
-- 内容创作
-- Agent 框架
+- AI 产品
+- Agent 技能
+- Agent 编排
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

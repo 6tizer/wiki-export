@@ -26,12 +26,12 @@ Proactive Agents 指能够在非显式逐步指令下持续观察环境、主动
 
 ## 来源引用
 
-- 摘要：Ship Safe v9.1.0（[原文](https://x.com/Kimi_Moonshot/status/2046249571882500354)）
+- [摘要：Ship Safe v9.1.0](summaries/摘要：Ship Safe v9.1.0.md)（[原文](https://x.com/Kimi_Moonshot/status/2046249571882500354)）
 
 ## 关联概念
 
-- OpenClaw
+- [OpenClaw](entities/OpenClaw.md)
 
-- Hermes Agent
+- [Hermes Agent](entities/Hermes Agent.md)
 
-- Kimi K2.6
+- [Kimi K2.6](entities/Kimi K2.6.md)

@@ -32,17 +32,17 @@ notion_id: 2dfbcb27-e0c3-4d02-aece-14f69e586625
 
 ## 提取的概念
 
-- Claude Opus 4.7
+- [Claude Opus 4.7](entities/Claude Opus 4.7.md)
 
-- Hook 提取工作流
+- [Hook 提取工作流](concepts/Hook 提取工作流.md)
 
-- SnapTik
+- [SnapTik](entities/SnapTik.md)
 
-- Node.js Canvas 幻灯片生成
+- [Node.js Canvas 幻灯片生成](concepts/Node.js Canvas 幻灯片生成.md)
 
-- Postiz Agent CLI
+- [Postiz Agent CLI](entities/Postiz Agent CLI.md)
 
-- TikTok Draft 发布工作流
+- [TikTok Draft 发布工作流](concepts/TikTok Draft 发布工作流.md)
 
 ## 原始文章信息
 

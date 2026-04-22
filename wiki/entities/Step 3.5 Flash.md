@@ -2,6 +2,9 @@
 title: Step 3.5 Flash
 type: entity
 tags:
+- 推理优化
+- 上下文管理
+- 模型部署
 - LLM
 status: 审核中
 confidence: medium

@@ -2,7 +2,7 @@
 title: Agent 可观测性
 type: concept
 tags:
-- Agent 编排
+- Agent 框架
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

@@ -2,7 +2,7 @@
 title: Cursor CLI /config
 type: concept
 tags:
-- Coding Agent
+- CLI 工具
 - Agent 技能
 status: 草稿
 confidence: medium
@@ -27,4 +27,4 @@ Cursor CLI /config 是 Cursor CLI 内置的配置面板入口，用于查看和�
 
 ## 来源引用
 
-- 摘要：How it works:（[原文](https://x.com/cursor_ai/status/2046324136377721128)）
+- [摘要：How it works:](summaries/摘要：How it works-.md)（[原文](https://x.com/cursor_ai/status/2046324136377721128)）

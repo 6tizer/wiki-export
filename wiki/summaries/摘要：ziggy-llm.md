@@ -2,8 +2,11 @@
 title: 摘要：ziggy-llm
 type: summary
 tags:
-- Coding Agent
-- LLM
+- 推理优化
+- 多Agent协作
+- CLI 工具
+- 开发工具
+- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-21'

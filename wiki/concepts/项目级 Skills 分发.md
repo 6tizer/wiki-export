@@ -31,10 +31,10 @@ notion_id: 86bdb80f-c435-49ae-81c9-3972f66e76f4
 
 ## 关联概念
 
-- Agent Skills
+- [Agent Skills](concepts/Agent Skills.md)
 
-- 符号链接注入
+- [符号链接注入](concepts/符号链接注入.md)
 
-- skills-manage
+- [skills-manage](entities/skills-manage.md)
 
-- SkillStar
+- [SkillStar](entities/SkillStar.md)

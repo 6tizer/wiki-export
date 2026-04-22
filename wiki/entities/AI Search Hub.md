@@ -2,7 +2,8 @@
 title: AI Search Hub
 type: entity
 tags:
-- Agent 技能
+- Agent 编排
+- 工作流
 - 知识管理
 status: 审核中
 confidence: medium

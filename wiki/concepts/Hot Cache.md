@@ -2,8 +2,11 @@
 title: Hot Cache
 type: concept
 tags:
-- 记忆系统
 - 知识管理
+- 上下文管理
+- 长期记忆
+- 记忆系统
+- RAG/检索
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'

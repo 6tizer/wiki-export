@@ -1,0 +1,30 @@
+---
+title: camoufox-cli
+type: entity
+tags:
+- Agent 技能
+- 开发工具
+status: 草稿
+confidence: high
+last_compiled: '2026-04-11'
+source_tags: ''
+source_article_url: ''
+notion_url: https://www.notion.so/627f887f989c4a56aa1a42f2a709dfa3
+notion_id: 627f887f-989c-4a56-aa1a-42f2a709dfa3
+---
+
+## 定义
+
+camoufox-cli 是一个面向 Agent 的浏览器自动化 CLI，封装了基于 Firefox 的反检测浏览器 Camoufox，帮助 Agent 在高风控网站上更稳定地访问页面。
+
+## 关键要点
+
+- 以命令行方式暴露浏览器操作能力，适合被 Agent 直接调用
+
+- 聚焦验证码、登录墙和自动化指纹暴露问题
+
+- 适合作为 OpenClaw、Claude Code 等工具链中的浏览器 Skill
+
+## 来源引用
+
+- 《camoufox-cli：让 AI Agent 的浏览器不再被识破》｜X书签文章｜原文链接：[https://x.com/benn_huang/status/2031634654441460009](https://x.com/benn_huang/status/2031634654441460009)

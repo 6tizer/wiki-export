@@ -3,7 +3,7 @@ title: OpenSpace
 type: entity
 tags:
 - Agent 技能
-- 记忆系统
+- MCP 协议
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

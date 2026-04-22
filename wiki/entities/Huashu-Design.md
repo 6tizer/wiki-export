@@ -2,8 +2,11 @@
 title: Huashu-Design
 type: entity
 tags:
-- 内容创作
+- 开发工具
 - 工作流
+- 代码生成
+- AI 产品
+- 前端开发
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'

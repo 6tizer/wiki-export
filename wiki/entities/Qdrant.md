@@ -2,8 +2,9 @@
 title: Qdrant
 type: entity
 tags:
-- 开发工具
-- 记忆系统
+- RAG/检索
+- 知识管理
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

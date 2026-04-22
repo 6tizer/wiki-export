@@ -4,6 +4,8 @@ type: synthesis
 tags:
 - Agent 编排
 - 内容创作
+- 多Agent协作
+- 工作流
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

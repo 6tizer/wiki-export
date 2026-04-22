@@ -3,6 +3,7 @@ title: Cursor CLI
 type: entity
 tags:
 - Coding Agent
+- CLI 工具
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
@@ -26,4 +27,4 @@ Cursor CLI 是 Cursor 提供的终端侧 AI 编程入口，把模型调用、age
 
 ## 来源引用
 
-- 摘要：How it works:（[原文](https://x.com/cursor_ai/status/2046324136377721128)）
+- [摘要：How it works:](summaries/摘要：How it works-.md)（[原文](https://x.com/cursor_ai/status/2046324136377721128)）

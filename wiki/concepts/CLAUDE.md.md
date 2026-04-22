@@ -58,7 +58,7 @@ curl https://raw.githubusercontent.com/.../CLAUDE.md >> CLAUDE.md
 
 - [三层知识架构](concepts/三层知识架构.md)
 
-- [andrej-karpathy-skills](concepts/andrej-karpathy-skills.md)
+- [andrej-karpathy-skills](entities/andrej-karpathy-skills.md)
 
 - [Think Before Coding](concepts/Think Before Coding.md)
 

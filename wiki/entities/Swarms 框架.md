@@ -3,6 +3,7 @@ title: Swarms 框架
 type: entity
 tags:
 - Agent 框架
+- Agent 编排
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

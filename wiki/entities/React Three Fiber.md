@@ -2,8 +2,7 @@
 title: React Three Fiber
 type: entity
 tags:
-- 内容创作
-- 开发工具
+- 前端开发
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
@@ -33,6 +32,6 @@ React Three Fiber 是 Three.js 的 React 渲染器，让开发者可以用 React
 
 ## 关联概念
 
-- Kimi K2.6
+- [Kimi K2.6](entities/Kimi K2.6.md)
 
-- GSAP
+- [GSAP](entities/GSAP.md)

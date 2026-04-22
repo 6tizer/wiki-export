@@ -2,8 +2,7 @@
 title: GPT-Image-2
 type: entity
 tags:
-- LLM
-- 内容创作
+- 图像生成
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'

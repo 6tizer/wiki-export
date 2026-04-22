@@ -29,8 +29,8 @@ Token Optimizer 是一类用于识别和清理上下文中隐性 token 消耗的
 
 - [Session Intelligence](entities/Session Intelligence.md)
 
-- Context Mode
+- [Context Mode](concepts/Context Mode.md)
 
 ## 来源引用
 
-- 摘要：The fastest and most efficient code intelligence engine for AI coding agents.（[原文](https://x.com/DataChaz/status/2045784379155226971)）
+- [摘要：The fastest and most efficient code intelligence engine for AI coding agents.](summaries/摘要：The fastest and most efficient code intelligence engine for AI coding agents.md)（[原文](https://x.com/DataChaz/status/2045784379155226971)）

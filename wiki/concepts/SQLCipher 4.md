@@ -3,10 +3,9 @@ title: SQLCipher 4
 type: concept
 tags:
 - 安全/隐私
-- 开发工具
-status: 审核中
+status: 草稿
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2f2ec34dd80c41df8116a36323f31d61
@@ -39,8 +38,8 @@ SQLCipher 4 是 SQLite 的加密扩展版本，用于对本地数据库文件进
 
 ## 来源引用
 
-- [原文链接](https://x.com/eternityspring/status/2030669435728708005)｜《wechat-decrypt + OpenClaw：让 AI 帮你把微信群消息变成每日日报》｜来源条目：wechat-decrypt + OpenClaw：让 AI 帮你把微信群消息变成每日日报
+- wechat-decrypt + OpenClaw：让 AI 帮你把微信群消息变成每日日报（[原文](https://x.com/eternityspring/status/2030669435728708005)，来源条目）
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzI2MzA5NjA4MQ%3D%3D&mid=2665365507&idx=1&sn=8efb2e3bb093dcbda21aed892627d696&chksm=f0cdf306ccc0b7fcbef97f62e290b698001da1676e7ee11075b3dbb2b100e3c12bea51b047c6#rd)｜《Wechat-Cli：将微信聊天记录导入 Karpathy 的 LLM Wiki》｜源文章：Wechat-Cli：将微信聊天记录导入 Karpathy 的 LLM Wiki
+- Wechat-Cli：将微信聊天记录导入 Karpathy 的 LLM Wiki（[原文](https://mp.weixin.qq.com/s?__biz=MzI2MzA5NjA4MQ%3D%3D&mid=2665365507&idx=1&sn=8efb2e3bb093dcbda21aed892627d696&chksm=f0cdf306ccc0b7fcbef97f62e290b698001da1676e7ee11075b3dbb2b100e3c12bea51b047c6#rd)，源文章）
 
 - [摘要：从命令行查询本地微信数据](summaries/摘要：从命令行查询本地微信数据.md)（[原文](https://x.com/jakevin7/status/2044983033418461386)）

@@ -3,7 +3,8 @@ title: RPA
 type: concept
 tags:
 - 工作流
-- 开发工具
+- 浏览器自动化
+- Agent 编排
 status: 草稿
 confidence: high
 last_compiled: '2026-04-21'
@@ -27,12 +28,12 @@ RPA 是 Robotic Process Automation 的缩写，指通过脚本、规则引擎或
 
 ## 来源引用
 
-- 摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信...
+- [摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信...](summaries/摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信.md)
 
 ## 关联概念
 
-- Computer Use
+- [Computer Use](concepts/Computer Use.md)
 
-- Agent Skills
+- [Agent Skills](concepts/Agent Skills.md)
 
 - [Turix CUA](entities/Turix CUA.md)

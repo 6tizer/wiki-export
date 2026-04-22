@@ -2,10 +2,13 @@
 title: pikiclaw
 type: entity
 tags:
-- OpenClaw
+- Agent 编排
+- 开发工具
+- CLI 工具
+- MCP 协议
 status: 草稿
 confidence: high
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/dca226112c4844b191d27983a661b301

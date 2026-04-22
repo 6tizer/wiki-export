@@ -3,7 +3,8 @@ title: OpenClaw 九层 System Prompt 架构
 type: concept
 tags:
 - OpenClaw
-- LLM
+- Agent 框架
+- Agent 技能
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

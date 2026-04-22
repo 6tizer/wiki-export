@@ -2,8 +2,11 @@
 title: 子 Agent 派生
 type: concept
 tags:
+- 多Agent协作
 - Agent 编排
 - OpenClaw
+- 工作流
+- Agent 框架
 status: 审核中
 confidence: high
 last_compiled: '2026-04-19'

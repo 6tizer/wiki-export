@@ -3,7 +3,10 @@ title: MiniMax M2.5
 type: entity
 tags:
 - Coding Agent
-- 商业/生态
+- 模型评测
+- 模型部署
+- 多模态
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-19'

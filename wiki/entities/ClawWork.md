@@ -2,7 +2,9 @@
 title: ClawWork
 type: entity
 tags:
-- OpenClaw
+- AI 产品
+- 商业/生态
+- Agent 框架
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

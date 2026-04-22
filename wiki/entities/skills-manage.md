@@ -33,10 +33,10 @@ skills-manage 是一个面向多平台 AI Coding Agent 的 Skill 管理桌面应
 
 ## 关联概念
 
-- Agent Skills
+- [Agent Skills](concepts/Agent Skills.md)
 
-- 符号链接注入
+- [符号链接注入](concepts/符号链接注入.md)
 
-- 项目级 Skills 分发
+- [项目级 Skills 分发](concepts/项目级 Skills 分发.md)
 
-- SkillStar
+- [SkillStar](entities/SkillStar.md)

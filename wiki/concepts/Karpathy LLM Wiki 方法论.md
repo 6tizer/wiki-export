@@ -3,7 +3,9 @@ title: Karpathy LLM Wiki 方法论
 type: concept
 tags:
 - 知识管理
-- LLM
+- 工作流
+- RAG/检索
+- 笔记工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-21'

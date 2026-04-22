@@ -2,8 +2,7 @@
 title: Holo3
 type: entity
 tags:
-- LLM
-- Agent 技能
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

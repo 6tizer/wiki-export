@@ -2,7 +2,6 @@
 title: OpenClaw101
 type: entity
 tags:
-- OpenClaw
 - 知识管理
 status: 草稿
 confidence: medium

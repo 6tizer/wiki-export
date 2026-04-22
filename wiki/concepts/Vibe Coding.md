@@ -3,6 +3,10 @@ title: Vibe Coding
 type: concept
 tags:
 - Coding Agent
+- 工作流
+- 代码生成
+- 前端开发
+- IDE 集成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'

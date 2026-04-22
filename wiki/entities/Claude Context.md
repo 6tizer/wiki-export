@@ -27,10 +27,10 @@ Claude Context 是一类把代码库转化为可检索上下文层的 MCP 工具
 
 ## 关联概念
 
-- Context Mode
+- [Context Mode](concepts/Context Mode.md)
 
 - [codebase-memory-mcp](entities/codebase-memory-mcp.md)
 
 ## 来源引用
 
-- 摘要：The fastest and most efficient code intelligence engine for AI coding agents.（[原文](https://x.com/DataChaz/status/2045784379155226971)）
+- [摘要：The fastest and most efficient code intelligence engine for AI coding agents.](summaries/摘要：The fastest and most efficient code intelligence engine for AI coding agents.md)（[原文](https://x.com/DataChaz/status/2045784379155226971)）

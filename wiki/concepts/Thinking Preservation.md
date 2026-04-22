@@ -2,8 +2,10 @@
 title: Thinking Preservation
 type: concept
 tags:
+- 推理优化
+- 长期记忆
+- 上下文管理
 - 记忆系统
-- LLM
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

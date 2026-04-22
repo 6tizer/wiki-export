@@ -2,7 +2,8 @@
 title: Agent Drift
 type: concept
 tags:
-- Coding Agent
+- Agent 技能
+- Agent 编排
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

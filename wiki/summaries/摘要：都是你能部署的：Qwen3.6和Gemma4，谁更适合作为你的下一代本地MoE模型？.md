@@ -2,8 +2,9 @@
 title: 摘要：都是你能部署的：Qwen3.6和Gemma4，谁更适合作为你的下一代本地MoE模型？
 type: summary
 tags:
-- LLM
 - Coding Agent
+- 模型部署
+- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-21'

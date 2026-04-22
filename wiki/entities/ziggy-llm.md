@@ -2,6 +2,9 @@
 title: ziggy-llm
 type: entity
 tags:
+- 推理优化
+- 模型部署
+- CLI 工具
 - 开发工具
 - LLM
 status: 草稿

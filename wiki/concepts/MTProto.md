@@ -2,7 +2,7 @@
 title: MTProto
 type: concept
 tags:
-- Agent 技能
+- MCP 协议
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

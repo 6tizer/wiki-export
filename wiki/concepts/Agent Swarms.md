@@ -2,7 +2,9 @@
 title: Agent Swarms
 type: concept
 tags:
+- 多Agent协作
 - Agent 编排
+- 商业/生态
 - Crypto/DeFi
 status: 审核中
 confidence: high

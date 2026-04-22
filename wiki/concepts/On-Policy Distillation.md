@@ -2,7 +2,7 @@
 title: On-Policy Distillation
 type: concept
 tags:
-- LLM
+- 训练/微调
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

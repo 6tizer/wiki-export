@@ -3,6 +3,10 @@ title: Claw Groups
 type: concept
 tags:
 - Agent 编排
+- 多Agent协作
+- 工作流
+- 知识管理
+- 内容创作
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
@@ -26,12 +30,12 @@ Claw Groups 是 Kimi K2.6 语境下提出的人机混合协作预览形态，允
 
 ## 来源引用
 
-- 摘要：Ship Safe v9.1.0（[原文](https://x.com/Kimi_Moonshot/status/2046249571882500354)）
+- [摘要：Ship Safe v9.1.0](summaries/摘要：Ship Safe v9.1.0.md)（[原文](https://x.com/Kimi_Moonshot/status/2046249571882500354)）
 
 ## 关联概念
 
-- Agent Swarms
+- [Agent Swarms](concepts/Agent Swarms.md)
 
-- Proactive Agents
+- [Proactive Agents](concepts/Proactive Agents.md)
 
-- Kimi K2.6
+- [Kimi K2.6](entities/Kimi K2.6.md)

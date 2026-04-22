@@ -2,8 +2,11 @@
 title: AutoResearchClaw
 type: entity
 tags:
-- OpenClaw
+- Agent 编排
+- RAG/检索
+- 内容创作
 - 知识管理
+- Agent 技能
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

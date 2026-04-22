@@ -29,10 +29,10 @@ codebase-memory-mcp 是一个面向 AI 编程代理的代码智能引擎与 MCP 
 
 ## 关联概念
 
-- RTK
+- [RTK](entities/RTK.md)
 
-- Context Mode
+- [Context Mode](concepts/Context Mode.md)
 
 ## 来源引用
 
-- 摘要：The fastest and most efficient code intelligence engine for AI coding agents.（[原文](https://x.com/DataChaz/status/2045784379155226971)）
+- [摘要：The fastest and most efficient code intelligence engine for AI coding agents.](summaries/摘要：The fastest and most efficient code intelligence engine for AI coding agents.md)（[原文](https://x.com/DataChaz/status/2045784379155226971)）

@@ -2,8 +2,11 @@
 title: 摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测
 type: summary
 tags:
+- 图像生成
 - 内容创作
-- LLM
+- 工作流
+- AI 产品
+- 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'

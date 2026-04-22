@@ -2,7 +2,9 @@
 title: CoPaw
 type: entity
 tags:
-- Coding Agent
+- AI 产品
+- Agent 框架
+- Agent 技能
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

@@ -2,8 +2,10 @@
 title: 摘要：Claude Design能提供惊艳的设计，但...我认为必须通过GUI操作的已经是上一个时代的产品了。
 type: summary
 tags:
-- 内容创作
+- 开发工具
 - 工作流
+- Agent 编排
+- 内容创作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'

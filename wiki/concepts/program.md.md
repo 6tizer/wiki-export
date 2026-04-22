@@ -2,7 +2,9 @@
 title: program.md
 type: concept
 tags:
-- Coding Agent
+- 工作流
+- Agent 编排
+- 知识管理
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

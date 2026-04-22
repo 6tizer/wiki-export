@@ -2,7 +2,7 @@
 title: social-auto-upload
 type: entity
 tags:
-- 工作流
+- 社交媒体
 - 内容创作
 status: 草稿
 confidence: high

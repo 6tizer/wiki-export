@@ -2,8 +2,8 @@
 title: Baseten
 type: entity
 tags:
-- 开发工具
-- 商业/生态
+- 模型部署
+- 推理优化
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
@@ -27,8 +27,8 @@ Baseten 是面向模型部署与推理服务的基础设施平台，提供托管
 
 ## 来源引用
 
-- 摘要：Kimi K2.6 has landed, and it is live on Baseten!（[原文](https://x.com/baseten/status/2046263526281576573)）
+- [摘要：Kimi K2.6 has landed, and it is live on Baseten!](summaries/摘要：Kimi K2.6 has landed, and it is live on Baseten!.md)（[原文](https://x.com/baseten/status/2046263526281576573)）
 
 ## 关联概念
 
-- Kimi K2.6
+- [Kimi K2.6](entities/Kimi K2.6.md)

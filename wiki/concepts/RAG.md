@@ -2,8 +2,7 @@
 title: RAG
 type: concept
 tags:
-- LLM
-- 记忆系统
+- RAG/检索
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-22'

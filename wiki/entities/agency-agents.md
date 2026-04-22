@@ -2,7 +2,9 @@
 title: agency-agents
 type: entity
 tags:
+- Agent 技能
 - Agent 编排
+- 开发工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

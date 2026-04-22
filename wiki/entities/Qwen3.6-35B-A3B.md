@@ -2,8 +2,10 @@
 title: Qwen3.6-35B-A3B
 type: entity
 tags:
-- LLM
 - Coding Agent
+- 多模态
+- 模型部署
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

@@ -30,7 +30,7 @@ notion_id: 015077c5-3273-4746-8c93-3745164f4ba1
 
 - [CLAUDE.md](concepts/CLAUDE.md.md)
 
-- [andrej-karpathy-skills](concepts/andrej-karpathy-skills.md)
+- [andrej-karpathy-skills](entities/andrej-karpathy-skills.md)
 
 - [Think Before Coding](concepts/Think Before Coding.md)
 

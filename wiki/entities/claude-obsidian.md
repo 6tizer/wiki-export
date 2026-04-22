@@ -2,8 +2,11 @@
 title: claude-obsidian
 type: entity
 tags:
-- Coding Agent
 - 知识管理
+- 笔记工具
+- 上下文管理
+- 长期记忆
+- RAG/检索
 status: 草稿
 confidence: high
 last_compiled: '2026-04-21'

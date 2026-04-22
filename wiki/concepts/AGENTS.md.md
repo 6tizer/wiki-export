@@ -2,7 +2,8 @@
 title: AGENTS.md
 type: concept
 tags:
-- Coding Agent
+- Agent 编排
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

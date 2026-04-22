@@ -2,6 +2,8 @@
 title: Gemma4-26B-A4B
 type: entity
 tags:
+- 推理优化
+- 模型部署
 - LLM
 status: 草稿
 confidence: high

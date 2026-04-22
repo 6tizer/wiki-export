@@ -2,7 +2,9 @@
 title: Seedance 2.0
 type: entity
 tags:
+- 视频/3D
 - 内容创作
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

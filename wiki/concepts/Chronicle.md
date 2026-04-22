@@ -2,8 +2,10 @@
 title: Chronicle
 type: concept
 tags:
-- Coding Agent
 - 记忆系统
+- 长期记忆
+- 上下文管理
+- Coding Agent
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
@@ -29,10 +31,10 @@ Chronicle 是 Codex 正在扩展实验的一层记忆增强能力，用近期屏
 
 ## 来源引用
 
-- 摘要：Last week, we released a preview of memories in Codex.（[原文](https://x.com/OpenAIDevs/status/2046288243768082699)）
+- [摘要：Last week, we released a preview of memories in Codex.](summaries/摘要：Last week, we released a preview of memories in Codex.md)（[原文](https://x.com/OpenAIDevs/status/2046288243768082699)）
 
 ## 关联概念
 
-- Codex
+- [Codex](entities/Codex.md)
 
-- 持久化跨会话记忆
+- [持久化跨会话记忆](concepts/持久化跨会话记忆.md)

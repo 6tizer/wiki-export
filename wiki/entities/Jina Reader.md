@@ -3,6 +3,8 @@ title: Jina Reader
 type: entity
 tags:
 - Agent 技能
+- 开发工具
+- RAG/检索
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'
@@ -34,7 +36,7 @@ Jina Reader 是一个开源的网页内容提取服务，通过 `https://r.jina.
 
 - [Crawl4AI](entities/Crawl4AI.md)
 
-- [CamoFox](entities/CamoFox.md)
+- CamoFox
 
 ## 来源引用
 

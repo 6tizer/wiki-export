@@ -2,11 +2,13 @@
 title: Camoufox
 type: entity
 tags:
-- 安全/隐私
+- 浏览器自动化
 - Agent 技能
+- CLI 工具
+- 开发工具
 status: 草稿
 confidence: high
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/42b13acdc039487ca5d351aff73f80b4

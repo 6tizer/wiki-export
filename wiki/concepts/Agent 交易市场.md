@@ -2,7 +2,8 @@
 title: Agent 交易市场
 type: concept
 tags:
-- 商业/生态
+- AI 交易
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

@@ -3,7 +3,9 @@ title: 摘要：full agentic loop protection pipeline
 type: summary
 tags:
 - 商业/生态
-- Crypto/DeFi
+- Agent 编排
+- Agent 技能
+- Agent 框架
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'
@@ -31,11 +33,11 @@ Coinbase 试图用 [Agentic.market](http://agentic.market/) 在 x402 支付能�
 
 ## 提取的概念
 
-- Agentic.market
+- [Agentic.market](entities/Agentic.market.md)
 
-- x402 协议
+- [x402 协议](concepts/x402 协议.md)
 
-- Agent 服务发现层
+- [Agent 服务发现层](concepts/Agent 服务发现层.md)
 
 ## 原始文章信息
 

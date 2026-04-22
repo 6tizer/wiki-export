@@ -2,8 +2,9 @@
 title: Cloudflare Dynamic Workers
 type: entity
 tags:
-- Agent 技能
-- 安全/隐私
+- 开发工具
+- 工作流
+- Agent 编排
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

@@ -2,6 +2,7 @@
 title: Cursor CLI /statusline
 type: concept
 tags:
+- CLI 工具
 - Coding Agent
 - 开发工具
 status: 草稿
@@ -27,4 +28,4 @@ Cursor CLI /statusline 是 Cursor CLI 的状态栏定制能力，用于把会话
 
 ## 来源引用
 
-- 摘要：How it works:（[原文](https://x.com/cursor_ai/status/2046324136377721128)）
+- [摘要：How it works:](summaries/摘要：How it works-.md)（[原文](https://x.com/cursor_ai/status/2046324136377721128)）

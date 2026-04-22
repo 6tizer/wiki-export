@@ -27,14 +27,14 @@ Postiz Agent CLI 是 Postiz 生态中的命令行工具，用于把图片或视�
 
 ## 关联概念
 
-- TikTok Draft 发布工作流
+- [TikTok Draft 发布工作流](concepts/TikTok Draft 发布工作流.md)
 
-- Node.js Canvas 幻灯片生成
+- [Node.js Canvas 幻灯片生成](concepts/Node.js Canvas 幻灯片生成.md)
 
-- Hook 提取工作流
+- [Hook 提取工作流](concepts/Hook 提取工作流.md)
 
-- Claude Opus 4.7
+- [Claude Opus 4.7](entities/Claude Opus 4.7.md)
 
 ## 来源引用
 
-- 摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)（[原文](https://x.com/alexcooldev/status/2044820024695947654)）
+- [摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](summaries/摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide).md)（[原文](https://x.com/alexcooldev/status/2044820024695947654)）

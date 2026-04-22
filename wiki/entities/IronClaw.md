@@ -3,7 +3,6 @@ title: IronClaw
 type: entity
 tags:
 - Agent 框架
-- 安全/隐私
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

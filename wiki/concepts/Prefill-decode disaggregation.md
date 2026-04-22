@@ -2,7 +2,7 @@
 title: Prefill-decode disaggregation
 type: concept
 tags:
-- LLM
+- 推理优化
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
@@ -24,8 +24,8 @@ Prefill-decode disaggregation 是把大模型推理中的 prefill 阶段与 deco
 
 ## 来源引用
 
-- 摘要：Kimi K2.6 has landed, and it is live on Baseten!（[原文](https://x.com/baseten/status/2046263526281576573)）
+- [摘要：Kimi K2.6 has landed, and it is live on Baseten!](summaries/摘要：Kimi K2.6 has landed, and it is live on Baseten!.md)（[原文](https://x.com/baseten/status/2046263526281576573)）
 
 ## 关联概念
 
-- Kimi K2.6
+- [Kimi K2.6](entities/Kimi K2.6.md)

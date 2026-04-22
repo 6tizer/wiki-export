@@ -39,7 +39,7 @@ Evolver 是 EvoMap 推出的 Agent 自进化引擎，强调通过可继承、可
 
 ## 关联概念
 
-- [andrej-karpathy-skills](concepts/andrej-karpathy-skills.md)
+- [andrej-karpathy-skills](entities/andrej-karpathy-skills.md)
 
 - [claude-mem](entities/claude-mem.md)
 

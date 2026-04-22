@@ -2,7 +2,7 @@
 title: MoE 架构
 type: concept
 tags:
-- LLM
+- 推理优化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

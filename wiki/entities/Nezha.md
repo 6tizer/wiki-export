@@ -3,9 +3,13 @@ title: Nezha
 type: entity
 tags:
 - Coding Agent
+- IDE 集成
+- 代码生成
+- Agent 编排
+- 工作流
 status: 草稿
 confidence: high
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8de74836e2804df0b5026e5310117f53

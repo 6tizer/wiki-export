@@ -3,7 +3,6 @@ title: Qwen3.5-27B
 type: entity
 tags:
 - LLM
-- Coding Agent
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

@@ -3,6 +3,10 @@ title: Long-Horizon Coding
 type: concept
 tags:
 - Coding Agent
+- 工作流
+- 记忆系统
+- 上下文管理
+- 长期记忆
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

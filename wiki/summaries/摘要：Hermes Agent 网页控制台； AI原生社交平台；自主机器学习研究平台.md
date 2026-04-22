@@ -2,8 +2,11 @@
 title: 摘要：Hermes Agent 网页控制台； AI原生社交平台；自主机器学习研究平台
 type: summary
 tags:
+- OpenClaw
 - Agent 框架
 - Agent 编排
+- 工作流
+- 社交媒体
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'

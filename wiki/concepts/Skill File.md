@@ -29,18 +29,18 @@ Skill File 是一种用结构化文本把任务边界、执行步骤、判断标
 
 ## 关联概念
 
-- Thin Harness, Fat Skills
+- [Thin Harness, Fat Skills](concepts/Thin Harness, Fat Skills.md)
 
-- Resolver
+- [Resolver](concepts/Resolver.md)
 
-- Harness Engineering
+- [Harness Engineering](concepts/Harness Engineering.md)
 
-- Agent Skills
+- [Agent Skills](concepts/Agent Skills.md)
 
 - [确定性工具](concepts/确定性工具.md)
 
-- 锯齿边界
+- [锯齿边界](concepts/锯齿边界.md)
 
 ## 来源引用
 
-- 摘要：模型是引擎，系统是车身（[原文](https://x.com/garrytan/status/2045798603059548364)）
+- [摘要：模型是引擎，系统是车身](summaries/摘要：模型是引擎，系统是车身.md)（[原文](https://x.com/garrytan/status/2045798603059548364)）

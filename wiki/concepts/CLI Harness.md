@@ -2,8 +2,10 @@
 title: CLI Harness
 type: concept
 tags:
-- Coding Agent
+- CLI 工具
 - Agent 编排
+- Agent 技能
+- 工作流
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

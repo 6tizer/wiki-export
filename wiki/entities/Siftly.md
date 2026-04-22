@@ -3,7 +3,8 @@ title: Siftly
 type: entity
 tags:
 - 知识管理
-status: 草稿
+- 笔记工具
+status: 审核中
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''

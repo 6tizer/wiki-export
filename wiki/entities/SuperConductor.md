@@ -3,9 +3,12 @@ title: SuperConductor
 type: entity
 tags:
 - Coding Agent
+- Agent 编排
+- 工作流
+- IDE 集成
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/639ff05b20474511958ebc7b6b5c23b7

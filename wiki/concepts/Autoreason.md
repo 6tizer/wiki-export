@@ -42,7 +42,7 @@ Autoreason 是一种面向主观任务的结构化自优化方法，受 [autores
 
 - [隔离式 Agent](concepts/隔离式 Agent.md)
 
-- [对抗式评审](concepts/对抗式评审.md)
+- 对抗式评审
 
 - [组织级知识层](concepts/组织级知识层.md)
 

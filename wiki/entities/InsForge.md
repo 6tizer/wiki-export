@@ -1,0 +1,30 @@
+---
+title: InsForge
+type: entity
+tags:
+- 开发工具
+- Agent 技能
+status: 草稿
+confidence: high
+last_compiled: '2026-04-11'
+source_tags: ''
+source_article_url: ''
+notion_url: https://www.notion.so/848e456e67404d9b87a07fc3dd9193c5
+notion_id: 848e456e-6740-4d9b-87a0-7fc3dd9193c5
+---
+
+## 定义
+
+InsForge 是一个面向 AI 编码 Agent 的开源后端平台，提供数据库、认证、存储、边缘函数和模型网关等基础设施，并通过语义层暴露给 Agent 直接操作。
+
+## 关键要点
+
+- 试图把后端基础设施变成 Agent 可理解、可推理的操作面
+
+- 定位为更 AI-native 的 Supabase 替代方案
+
+- 适合全栈自动化与 Agent 驱动的软件开发工作流
+
+## 来源引用
+
+- 《InsForge：专为 AI 编码 Agent 打造的开源后端平台》｜X书签文章｜原文链接：[https://x.com/Jimmy_JingLv/status/2031492830636683708](https://x.com/Jimmy_JingLv/status/2031492830636683708)

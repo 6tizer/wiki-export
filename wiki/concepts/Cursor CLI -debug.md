@@ -2,8 +2,9 @@
 title: Cursor CLI /debug
 type: concept
 tags:
-- Coding Agent
-- Agent 技能
+- CLI 工具
+- 开发工具
+- 工作流
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
@@ -27,4 +28,4 @@ Cursor CLI /debug 是 Cursor CLI 中面向疑难问题排查的调试命令，�
 
 ## 来源引用
 
-- 摘要：How it works:（[原文](https://x.com/cursor_ai/status/2046324136377721128)）
+- [摘要：How it works:](summaries/摘要：How it works-.md)（[原文](https://x.com/cursor_ai/status/2046324136377721128)）

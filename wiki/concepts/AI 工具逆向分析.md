@@ -2,7 +2,10 @@
 title: AI 工具逆向分析
 type: concept
 tags:
+- Agent 编排
+- Agent 技能
 - 安全/隐私
+- 工作流
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

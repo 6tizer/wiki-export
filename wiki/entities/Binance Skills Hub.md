@@ -2,6 +2,7 @@
 title: Binance Skills Hub
 type: entity
 tags:
+- AI 交易
 - Crypto/DeFi
 - Agent 技能
 status: 草稿
@@ -55,8 +56,6 @@ Binance Skills Hub 是币安于 2026 年 3 月 3 日在 GitHub 开源的 **AI Ag
 
 ## 来源引用
 
-- 摘要：币安 AI Agent Skills：用「模块化技能包」给每个 AI Agent 装上币安级大脑
+- CyberMolt：一键领养带币安全套技能的 AI 交易 Agent
 
-- 摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」
-
-- [原文链接](https://x.com/0xMoon/status/2031346670194327612)｜《CyberMolt：一键领养带币安全套技能的 AI 交易 Agent》｜来源条目：CyberMolt：一键领养带币安全套技能的 AI 交易 Agent
+- [摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」](summaries/摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」.md)

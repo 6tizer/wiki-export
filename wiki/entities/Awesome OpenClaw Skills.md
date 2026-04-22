@@ -3,7 +3,6 @@ title: Awesome OpenClaw Skills
 type: entity
 tags:
 - OpenClaw
-- Agent 技能
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

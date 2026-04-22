@@ -2,6 +2,8 @@
 title: XHS Bridge
 type: concept
 tags:
+- 浏览器自动化
+- Agent 编排
 - Agent 技能
 status: 草稿
 confidence: medium

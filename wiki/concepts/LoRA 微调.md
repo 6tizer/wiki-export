@@ -2,8 +2,7 @@
 title: LoRA 微调
 type: concept
 tags:
-- LLM
-- 开发工具
+- 训练/微调
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
@@ -27,4 +26,4 @@ LoRA 微调是一种参数高效微调方法，通过为预训练模型附加低
 
 ## 来源引用
 
-- 摘要：😱 谷歌偷偷开源了时序预测底座TimesFM 2.5，参数降到200M，上下文飙到16k。（[原文](https://x.com/oragnes/status/2046130320316207431)）
+- [摘要：😱 谷歌偷偷开源了时序预测底座TimesFM 2.5，参数降到200M，上下文飙到16k。](summaries/摘要：😱 谷歌偷偷开源了时序预测底座TimesFM 2.5，参数降到200M，上下文飙到16k。.md)（[原文](https://x.com/oragnes/status/2046130320316207431)）

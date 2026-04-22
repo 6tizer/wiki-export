@@ -2,7 +2,9 @@
 title: Obsidian Skills
 type: concept
 tags:
+- Agent 技能
 - 知识管理
+- 笔记工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

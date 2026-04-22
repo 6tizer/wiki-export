@@ -2,8 +2,10 @@
 title: Kimi K2.6
 type: entity
 tags:
-- Coding Agent
+- 代码生成
 - LLM
+- 开发工具
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

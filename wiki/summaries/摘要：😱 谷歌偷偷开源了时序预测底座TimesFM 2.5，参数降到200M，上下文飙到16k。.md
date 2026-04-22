@@ -2,8 +2,9 @@
 title: 摘要：😱 谷歌偷偷开源了时序预测底座TimesFM 2.5，参数降到200M，上下文飙到16k。
 type: summary
 tags:
-- LLM
-- 开发工具
+- 训练/微调
+- 模型部署
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'
@@ -31,15 +32,15 @@ Google 开源的 TimesFM 2.5 将时间序列预测基座模型压缩到 200M 参
 
 ## 提取的概念
 
-- TimesFM
+- [TimesFM](entities/TimesFM.md)
 
-- 时间序列基座模型
+- [时间序列基座模型](concepts/时间序列基座模型.md)
 
-- 零样本时间序列预测
+- [零样本时间序列预测](concepts/零样本时间序列预测.md)
 
-- 协变量支持
+- [协变量支持](concepts/协变量支持.md)
 
-- LoRA 微调
+- [LoRA 微调](concepts/LoRA 微调.md)
 
 ## 原始文章信息
 

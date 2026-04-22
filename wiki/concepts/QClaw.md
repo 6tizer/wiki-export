@@ -2,8 +2,8 @@
 title: QClaw
 type: concept
 tags:
-- Agent 框架
 - OpenClaw
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

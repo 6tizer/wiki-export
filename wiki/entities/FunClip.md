@@ -2,8 +2,9 @@
 title: FunClip
 type: entity
 tags:
+- 视频/3D
 - 内容创作
-- 开发工具
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-22'

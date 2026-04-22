@@ -2,7 +2,7 @@
 title: BettaFish
 type: entity
 tags:
-- Agent 编排
+- 多Agent协作
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

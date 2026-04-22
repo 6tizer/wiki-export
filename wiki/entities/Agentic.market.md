@@ -2,8 +2,8 @@
 title: Agentic.market
 type: entity
 tags:
+- AI 产品
 - 商业/生态
-- Crypto/DeFi
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
@@ -27,10 +27,10 @@ notion_id: 57a912a2-9195-4e61-82f7-fdfa402651fe
 
 ## 来源引用
 
-- 摘要：full agentic loop protection pipeline
+- [摘要：full agentic loop protection pipeline](summaries/摘要：full agentic loop protection pipeline.md)
 
 ## 关联概念
 
-- x402 协议
+- [x402 协议](concepts/x402 协议.md)
 
-- Agent 服务发现层
+- [Agent 服务发现层](concepts/Agent 服务发现层.md)

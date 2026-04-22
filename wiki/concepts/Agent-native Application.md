@@ -2,8 +2,9 @@
 title: Agent-native Application
 type: concept
 tags:
+- Agent 框架
 - Agent 编排
-- 商业/生态
+- 多Agent协作
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'

@@ -2,7 +2,11 @@
 title: autoresearch
 type: entity
 tags:
-- 工作流
+- Agent 框架
+- Agent 编排
+- Agent 技能
+- Coding Agent
+- 训练/微调
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'
@@ -108,7 +112,7 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 
 - [隔离式 Agent](concepts/隔离式 Agent.md)
 
-- [对抗式评审](concepts/对抗式评审.md)
+- 对抗式评审
 
 - [组织级知识层](concepts/组织级知识层.md)
 

@@ -3,6 +3,9 @@ title: mcp-memory-service
 type: entity
 tags:
 - 记忆系统
+- 上下文管理
+- 长期记忆
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

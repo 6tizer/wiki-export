@@ -3,7 +3,8 @@ title: Dageno
 type: entity
 tags:
 - 内容创作
-- 开发工具
+- 商业/生态
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

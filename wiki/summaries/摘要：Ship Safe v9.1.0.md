@@ -3,7 +3,10 @@ title: 摘要：Ship Safe v9.1.0
 type: summary
 tags:
 - Coding Agent
-- LLM
+- Agent 编排
+- OpenClaw
+- 工作流
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'
@@ -31,19 +34,19 @@ notion_id: b24a6d81-4658-49ac-949d-7684168a0035
 
 ## 提取的概念
 
-- Kimi K2.6
+- [Kimi K2.6](entities/Kimi K2.6.md)
 
-- Kimi Code
+- [Kimi Code](entities/Kimi Code.md)
 
-- Long-Horizon Coding
+- [Long-Horizon Coding](concepts/Long-Horizon Coding.md)
 
-- Agent Swarms
+- [Agent Swarms](concepts/Agent Swarms.md)
 
-- Proactive Agents
+- [Proactive Agents](concepts/Proactive Agents.md)
 
 - [Claw Groups](concepts/Claw Groups.md)
 
-- OpenClaw
+- [OpenClaw](entities/OpenClaw.md)
 
 ## 原始文章信息
 

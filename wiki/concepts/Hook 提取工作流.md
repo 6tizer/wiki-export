@@ -27,14 +27,14 @@ Hook 提取工作流是一种先从已验证的爆款内容中抽取首屏结构
 
 ## 关联概念
 
-- Claude Opus 4.7
+- [Claude Opus 4.7](entities/Claude Opus 4.7.md)
 
-- SnapTik
+- [SnapTik](entities/SnapTik.md)
 
-- Node.js Canvas 幻灯片生成
+- [Node.js Canvas 幻灯片生成](concepts/Node.js Canvas 幻灯片生成.md)
 
-- Postiz Agent CLI
+- [Postiz Agent CLI](entities/Postiz Agent CLI.md)
 
 ## 来源引用
 
-- 摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)（[原文](https://x.com/alexcooldev/status/2044820024695947654)）
+- [摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](summaries/摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide).md)（[原文](https://x.com/alexcooldev/status/2044820024695947654)）

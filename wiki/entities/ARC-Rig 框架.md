@@ -3,6 +3,8 @@ title: ARC/Rig 框架
 type: entity
 tags:
 - Agent 框架
+- Crypto/DeFi
+- AI 交易
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-19'

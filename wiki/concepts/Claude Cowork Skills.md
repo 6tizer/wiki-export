@@ -2,7 +2,9 @@
 title: Claude Cowork Skills
 type: concept
 tags:
-- Coding Agent
+- 知识管理
+- Agent 技能
+- 工作流
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

@@ -2,9 +2,11 @@
 title: Social CLI
 type: entity
 tags:
-- Agent 技能
+- CLI 工具
+- 社交媒体
 - 知识管理
-status: 草稿
+- RAG/检索
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'
 source_tags: ''

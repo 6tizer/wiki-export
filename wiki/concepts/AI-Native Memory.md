@@ -3,6 +3,8 @@ title: AI-Native Memory
 type: concept
 tags:
 - 记忆系统
+- 长期记忆
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

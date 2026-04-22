@@ -2,8 +2,8 @@
 title: Cursor CLI /btw
 type: concept
 tags:
-- Coding Agent
 - Agent 编排
+- 上下文管理
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
@@ -27,4 +27,4 @@ Cursor CLI /btw 是一种侧问机制，允许用户在当前 agent 任务继续
 
 ## 来源引用
 
-- 摘要：How it works:（[原文](https://x.com/cursor_ai/status/2046324136377721128)）
+- [摘要：How it works:](summaries/摘要：How it works-.md)（[原文](https://x.com/cursor_ai/status/2046324136377721128)）

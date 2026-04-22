@@ -2,7 +2,11 @@
 title: Hands 机制
 type: concept
 tags:
+- Agent 框架
 - Agent 编排
+- 工作流
+- 安全/隐私
+- 多Agent协作
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

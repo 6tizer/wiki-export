@@ -3,7 +3,6 @@ title: X 信息源矩阵
 type: concept
 tags:
 - 知识管理
-- 工作流
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-22'

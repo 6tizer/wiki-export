@@ -31,15 +31,15 @@ notion_id: 1190fa04-5bcb-4136-b4f4-17a1586b6d57
 
 ## 提取的概念
 
-- Agent Skills
+- [Agent Skills](concepts/Agent Skills.md)
 
-- skills-manage
+- [skills-manage](entities/skills-manage.md)
 
-- SkillStar
+- [SkillStar](entities/SkillStar.md)
 
-- 符号链接注入
+- [符号链接注入](concepts/符号链接注入.md)
 
-- 项目级 Skills 分发
+- [项目级 Skills 分发](concepts/项目级 Skills 分发.md)
 
 ## 原始文章信息
 

@@ -2,8 +2,9 @@
 title: LLM 知识编译
 type: concept
 tags:
-- LLM
 - 知识管理
+- LLM
+- RAG/检索
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

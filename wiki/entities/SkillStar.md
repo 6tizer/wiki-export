@@ -33,8 +33,8 @@ SkillStar 是一个围绕 AI Agent CLI 的 Skill 管理产品，提供 GUI 与 C
 
 ## 关联概念
 
-- Agent Skills
+- [Agent Skills](concepts/Agent Skills.md)
 
-- 项目级 Skills 分发
+- [项目级 Skills 分发](concepts/项目级 Skills 分发.md)
 
-- skills-manage
+- [skills-manage](entities/skills-manage.md)

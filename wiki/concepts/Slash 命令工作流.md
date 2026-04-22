@@ -2,8 +2,9 @@
 title: Slash 命令工作流
 type: concept
 tags:
-- Coding Agent
 - Agent 编排
+- 工作流
+- Agent 技能
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-21'
