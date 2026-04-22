@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-22T15:53:07.270967+08:00",
+  "last_sync_time": "2026-04-22T21:54:23.035402+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 3321,
+  "total_pages_exported": 3323,
   "page_mapping": {
     "0fe9d271-3d82-4995-ad15-00fc8d446de0": {
       "type": "concept",
@@ -3411,7 +3411,7 @@
     "3220aeff-b5b5-4069-9d9c-9e932024571d": {
       "type": "entity",
       "file_path": "wiki/entities/SafePal.md",
-      "last_edited": "2026-04-19T04:31:00.000Z"
+      "last_edited": "2026-04-22T13:31:00.000Z"
     },
     "32597a4c-5cc9-4c56-b025-aad33925f79d": {
       "type": "entity",
@@ -4386,7 +4386,7 @@
     "42b13acd-c039-487c-a5d3-51aff73f80b4": {
       "type": "entity",
       "file_path": "wiki/entities/Camoufox.md",
-      "last_edited": "2026-04-22T02:17:00.000Z"
+      "last_edited": "2026-04-22T13:32:00.000Z"
     },
     "42caa04b-99f3-4fd6-aecc-2b8e305741f9": {
       "type": "summary",
@@ -9596,7 +9596,7 @@
     "94e3b386-cdba-4ef0-8881-308d13aef4e6": {
       "type": "entity",
       "file_path": "wiki/entities/x-tweet-fetcher.md",
-      "last_edited": "2026-04-18T04:11:00.000Z"
+      "last_edited": "2026-04-22T13:32:00.000Z"
     },
     "94e77acd-3a1e-42d0-925f-3ac2ca770a1d": {
       "type": "summary",
@@ -14956,7 +14956,7 @@
     "e607b082-3958-41c5-b000-e089b246decf": {
       "type": "entity",
       "file_path": "wiki/entities/Fiat24.md",
-      "last_edited": "2026-04-20T01:31:00.000Z"
+      "last_edited": "2026-04-22T13:31:00.000Z"
     },
     "e61b2093-a889-4712-b4ed-6731ee48cc36": {
       "type": "summary",
@@ -16607,6 +16607,16 @@
       "type": "synthesis",
       "file_path": "wiki/syntheses/大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进.md",
       "last_edited": "2026-04-21T21:18:00.000Z"
+    },
+    "157df47a-3087-4afd-ac43-e76b088b710b": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/AI 内容创作的商业化拐点：从生产基础设施到分发经济体的价值捕获路径分化.md",
+      "last_edited": "2026-04-22T09:21:00.000Z"
+    },
+    "9fa92ce1-05a4-4060-9c9f-6d0a58e6ec47": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/Agent 编排如何重塑内容创作：从单点生成到多智能体协同创作系统的架构演进.md",
+      "last_edited": "2026-04-22T09:22:00.000Z"
     }
   }
 }
