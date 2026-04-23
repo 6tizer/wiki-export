@@ -44,6 +44,6 @@ Nezha 的 Agent-First 并行哲学与 OpenClaw 生态高度契合，其 HITL 提
 
 ## 来源引用
 
-- X 推文回复：[https://x.com/berryxia/status/2042603510102184346（@HanshuGithub，2026-04-10）](https://x.com/berryxia/status/2042603510102184346（@HanshuGithub，2026-04-10）)
+- 未匹配：X 推文回复（@HanshuGithub，2026-04-10）
 
-- GitHub README：[https://github.com/hanshuaikang/nezha](https://github.com/hanshuaikang/nezha)
+- 未匹配：GitHub README

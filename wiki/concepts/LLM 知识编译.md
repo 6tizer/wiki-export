@@ -5,7 +5,7 @@ tags:
 - 知识管理
 - LLM
 - RAG/检索
-status: 审核中
+status: 已审核
 confidence: medium
 last_compiled: '2026-04-22'
 source_tags: ''

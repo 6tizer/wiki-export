@@ -6,7 +6,7 @@ tags:
 - Agent 框架
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/a6caec11ce8948e1805cf5027b9555ab
@@ -45,6 +45,16 @@ GenericAgent 是一个极简、可自我进化的自治 Agent 框架，以约 3K
 
 - [记忆分层架构](concepts/记忆分层架构.md)
 
+- [上下文信息密度最大化](concepts/上下文信息密度最大化.md)
+
+- [最小原子工具集](concepts/最小原子工具集.md)
+
+- [自进化智能体](concepts/自进化智能体.md)
+
+- [上下文压缩](concepts/上下文压缩.md)
+
 ## 来源引用
 
 - [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)（[原文](https://x.com/RoundtableSpace/status/2045906520672461309)）
+
+- [摘要：首篇自进化智能体系统技术报告出炉：Token成本直降近10倍，省钱又高效！](summaries/摘要：首篇自进化智能体系统技术报告出炉：Token成本直降近10倍，省钱又高效！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651029237&idx=1&sn=1c9efee6bf552718e0e795a795268f5a&chksm=852bf9401cd18c9b982dd29b8c4c78780b8965ee4b7bb27912e4fdb595df1baf0087f8ac6215#rd)）

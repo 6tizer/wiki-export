@@ -27,6 +27,6 @@ notion_id: 391753ac-8a14-4150-b860-88c9e2e2501d
 
 ## 来源引用
 
-- 《OpenClaw 深度使用指南：10 个让 Agent 越用越顺手的实战技巧》｜文章链接：[https://mp.weixin.qq.com/s/T2nZhcWJ3Di8Nt0iWzsDUA](https://mp.weixin.qq.com/s/T2nZhcWJ3Di8Nt0iWzsDUA)
+- [摘要：OpenClaw 深度使用指南：10 个让 Agent 越用越顺手的实战技巧](summaries/摘要：OpenClaw 深度使用指南：10 个让 Agent 越用越顺手的实战技巧.md)
 
-- 《把 Agent 当新员工带：OpenClaw 深度使用心得》｜文章链接：[https://x.com/sitinme/status/2031210434246676555](https://x.com/sitinme/status/2031210434246676555)
+- [摘要：把 Agent 当新员工带：OpenClaw 深度使用心得](summaries/摘要：把 Agent 当新员工带：OpenClaw 深度使用心得.md)

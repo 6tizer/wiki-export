@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f24ad430054f4646b2abf5d56d20483d
@@ -41,6 +41,8 @@ notion_id: f24ad430-054f-4646-b2ab-f5d56d20483d
 
 - [摘要：【黑武器】让Codex从单打独斗到AI团队作战，这个开源项目一周暴涨1.1万星！](summaries/摘要：【黑武器】让Codex从单打独斗到AI团队作战，这个开源项目一周暴涨1.1万星！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyNDYyODg0MQ%3D%3D&mid=2247493044&idx=1&sn=81e4fbf67adfc2ca1fa5770827a93b15&chksm=c037d7edf77c26238c0864153f353b6e25d87d7dda1e947a59e6da3be55cfc3a5821f58f07d0#rd)）
 
+- [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0ODM5NTEyNA%3D%3D&mid=2247505880&idx=1&sn=f1a5297d812535a2bffac2d7e0d7a9b0&chksm=c290cdf6c57d4eebecc0e36e7eba979efdecf65bf353528554e2a3908ab30c9f60c80f772947#rd)｜《[hermes101.dev](http://hermes101.dev/) 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移》｜来源条目：[摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移](summaries/摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移.md)
+
 ## 关联概念
 
 - [PPT Master](entities/PPT Master.md)
@@ -52,6 +54,8 @@ notion_id: f24ad430-054f-4646-b2ab-f5d56d20483d
 - [本地优先处理](concepts/本地优先处理.md)
 
 - [Hermes Agent](entities/Hermes Agent.md)
+
+- [hermes101.dev](entities/hermes101.dev.md)
 
 - [SOUL.md](concepts/SOUL.md.md)
 

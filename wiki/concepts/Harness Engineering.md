@@ -31,6 +31,16 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 ## 关联概念
 
+- [流量 2.0](concepts/流量 2.0.md)
+
+- [Token 经济学](concepts/Token 经济学.md)
+
+- [AaaS 商业模式](concepts/AaaS 商业模式.md)
+
+- [DAA](concepts/DAA.md)
+
+- [意图即交易](concepts/意图即交易.md)
+
 - [Claude Code](entities/Claude Code.md)
 
 - [Vibe Coding](concepts/Vibe Coding.md)
@@ -109,6 +119,10 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 - [Browser Harness](entities/Browser Harness.md)
 
+- [外部化](concepts/外部化.md)
+
+- [AG-UI](concepts/AG-UI.md)
+
 ## 来源引用
 
 - [摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论](summaries/摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论.md)（[原文](https://x.com/garrytan/status/2045371983312097409)）
@@ -176,6 +190,10 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [摘要：模型是引擎，系统是车身](summaries/摘要：模型是引擎，系统是车身.md)（[原文](https://x.com/garrytan/status/2045798603059548364)）
 
 - [摘要：self-healing](summaries/摘要：self-healing.md)（[原文](https://x.com/Gorden_Sun/status/2046228429662794153)）
+
+- [摘要：流量 2.0 时代](summaries/摘要：流量 2.0 时代.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ%3D%3D&mid=2650996683&idx=1&sn=aa6250a4cf1d43eda59489b2dc43e6e8&chksm=bd7fae4f5e696fc2d4d5ae5137085ac0911ce5f256732c241f544e82c9015d09658babf4a088#rd)）
+
+- [摘要：上交大54页综述讲透Agent认知外部化的演进之路](summaries/摘要：上交大54页综述讲透Agent认知外部化的演进之路.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651029194&idx=2&sn=d468f16ac694682f072e150ac531e5a2&chksm=85cd02c33fc1ca1088db4f4f1a5b2219ed652157b32c004b7ef2cfb994654cfdfdd0d38512e7#rd)）
 
 ### 补充关联概念
 

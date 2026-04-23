@@ -47,6 +47,20 @@ AaaS（Agent-as-a-Service）是一种新兴商业范式：将 AI Agent 作为服
 
 OpenClaw 就是典型的 AaaS 实践：不只是聊天框，而是替人持续完成工作任务。和 HITL 流程相结合，延伸出人+Agent 协作模式。
 
+## 关联概念
+
+- [流量 2.0](concepts/流量 2.0.md)
+
+- [Token 经济学](concepts/Token 经济学.md)
+
+- [DAA](concepts/DAA.md)
+
+- [意图即交易](concepts/意图即交易.md)
+
+- [Harness Engineering](concepts/Harness Engineering.md)
+
 ## 来源引用
+
+- [摘要：流量 2.0 时代](summaries/摘要：流量 2.0 时代.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ%3D%3D&mid=2650996683&idx=1&sn=aa6250a4cf1d43eda59489b2dc43e6e8&chksm=bd7fae4f5e696fc2d4d5ae5137085ac0911ce5f256732c241f544e82c9015d09658babf4a088#rd)）
 
 - [摘要：互联网已死，Agent 永生：oran_ge 的六刀与四块基石](summaries/摘要：互联网已死，Agent 永生：oran_ge 的六刀与四块基石.md)

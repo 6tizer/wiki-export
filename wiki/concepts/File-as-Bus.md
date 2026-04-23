@@ -21,12 +21,20 @@ notion_id: c75ed412-6293-4d80-b02a-6a40b8b1162c
 
 ### 关键要点
 
-- 它让系统形成 evidence-driven loop，而不是空转式重试。
+- 文件既是状态载体，也是跨代理协作的事实来源（多代理协调协议视角）
 
-- 它对后半程 refinement 的价值大于对项目初始搭建的价值。
+- 它让系统形成 evidence-driven loop，而不是空转式重试
 
-- 消融实验显示，移除后会显著削弱高水平结果的达成能力。
+- 适合长周期任务，运行痕迹持续保留在磁盘中，便于审计、恢复和复用
+
+- 它对后半程 refinement 的价值大于对项目初始搭建的价值
+
+- 消融实验显示，移除后会显著削弱高水平结果的达成能力
+
+- 通过让代理直接读写工作区文件，可以降低厚状态任务中的上下文丢失风险
 
 ### 来源引用
 
 - [AI 真能把一篇论文一路做到实验结果吗？人大团队提出 AiScientist，长程研究工程迈出关键一步](https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDgzMA%3D%3D&mid=2247557693&idx=1&sn=367f8f10f46f5c95eecef42bd9280dc9&chksm=cf967e47a56f2e2647889686f1659551c441eaf8328436186303bca812623542fdfc4e646bf3#rd)｜作者：机智流｜源页面：AI 真能把一篇论文一路做到实验结果吗？人大团队提出 AiScientist，长程研究工程迈出关键一步
+
+- [原文链接](https://mp.weixin.qq.com/s/5hQGUC6o-vLdcHVxVsOQwg)｜《Hermes Agent 网页控制台； AI原生社交平台；自主机器学习研究平台》｜源文章：Hermes Agent 网页控制台； AI原生社交平台；自主机器学习研究平台

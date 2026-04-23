@@ -6,7 +6,7 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/af2fc402059c4656b0997fc81e03baa2
@@ -27,4 +27,4 @@ total-recall 是 OpenClaw 生态中的自主记忆系统，通过观察、反思
 
 ## 来源引用
 
-- 《OpenClaw 长期记忆终极方案：memory-lancedb-pro vs total-recall 深度对比》
+- [摘要：OpenClaw 长期记忆终极方案：memory-lancedb-pro vs total-recall 深度对比](summaries/摘要：OpenClaw 长期记忆终极方案：memory-lancedb-pro vs total-recall 深度对比.md)

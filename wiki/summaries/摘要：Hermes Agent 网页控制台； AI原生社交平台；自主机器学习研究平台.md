@@ -44,7 +44,7 @@ notion_id: 2ab952e5-0a6b-49dc-a745-b8122b3809d3
 
 - [AI Scientist](entities/AI Scientist.md)
 
-- [文件即总线](concepts/文件即总线.md)
+- [File-as-Bus](concepts/File-as-Bus.md)
 
 - [多模型混合编排](concepts/多模型混合编排.md)
 

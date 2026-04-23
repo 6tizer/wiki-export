@@ -5,7 +5,7 @@ tags:
 - Crypto/DeFi
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/6512283b6eee4eaa9723a1971b49c482
@@ -26,7 +26,7 @@ OnchainOS Signal 是 OKX OnchainOS 行情技能中的信号模块，用于把聪
 
 ## 来源引用
 
-- 《OKX OnchainOS Signal：让 AI Agent 替你盯住聪明钱、KOL 和巨鲸的每一笔买入》（OKX中文，2026-03-06）— 介绍了 Signal 的定位、过滤条件和使用场景
+- [摘要：OKX OnchainOS Signal：让 AI Agent 替你盯住聪明钱、KOL 和巨鲸的每一笔买入](summaries/摘要：OKX OnchainOS Signal：让 AI Agent 替你盯住聪明钱、KOL 和巨鲸的每一笔买入.md)（OKX中文，2026-03-06）— 介绍了 Signal 的定位、过滤条件和使用场景
 
 ## 关联概念
 

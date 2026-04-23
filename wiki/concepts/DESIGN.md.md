@@ -32,6 +32,8 @@ notion_id: 73065867-e3bc-49ad-a6a2-00e7a05f8ddb
 
 - [摘要：昨天才开源的浏览器扩展：一键获取任意网站 DESIGN.md](summaries/摘要：昨天才开源的浏览器扩展：一键获取任意网站 DESIGN.md.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MDc2OTQwMw%3D%3D&mid=2456446097&idx=1&sn=3af45a46ce3ee45352e8dd2f7ee413c3&chksm=8943077d2f9183c84189f4fd3139c21b605914b6c441ce81f1a33e60da1a82bf67439eb3a916#rd)）
 
+- [摘要：开源的Chrome 浏览器插件，一键扒光网站设计，让 AI 帮你复刻](summaries/摘要：开源的Chrome 浏览器插件，一键扒光网站设计，让 AI 帮你复刻.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2MjY1NDIzNg%3D%3D&mid=2247499291&idx=1&sn=e594d6f818da6cf6f862cb91bbefa3d8&chksm=cf669d5aca8d3d26ae43d2adca0d6a522314fa1e06aeef38d7a215e02fbbcd22bcbf5cd4f70f#rd)）
+
 ## 关联概念
 
 - [TypeUI](entities/TypeUI.md)

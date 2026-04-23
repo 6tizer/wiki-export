@@ -39,6 +39,16 @@ GEP 协议是 EvoMap / Evolver 体系中用于描述 Agent 能力“继承、变
 
 - [记忆分层架构](concepts/记忆分层架构.md)
 
+- [Gene](concepts/Gene.md)
+
+- [Procedural Skill](concepts/Procedural Skill.md)
+
+- [AVOID 警告](concepts/AVOID 警告.md)
+
+- [CritPt](entities/CritPt.md)
+
 ## 来源引用
+
+- [摘要：你写的Skill，正在拖慢模型？策略式Gene才是正确答案](summaries/摘要：你写的Skill，正在拖慢模型？策略式Gene才是正确答案.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651029194&idx=1&sn=74444aa55fa4caff4666f024133d1896&chksm=8556a7658823460534cdb2c17157b616b7b4dc1061276c088fe77b3338d30db85b2e60109ba7#rd)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506451&idx=1&sn=aec841a1c8c8ec2a99d64536babf7eae&chksm=cf1f5a4baf411e277ea71f2add117a204ea05d54a3884c6c63f8d79ec931d7d3a48694ae7f43#rd)｜《妈耶 HermesAgent直播回应抄没抄国内开发者》｜来源条目：[摘要：妈耶 HermesAgent直播回应抄没抄国内开发者](summaries/摘要：妈耶 HermesAgent直播回应抄没抄国内开发者.md)

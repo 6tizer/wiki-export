@@ -41,4 +41,4 @@ SuperConductor 是一款原生 macOS 的 AI Coding Agent 管理工具，采用 1
 
 ## 来源引用
 
-- X 推文：[https://x.com/berryxia/status/2042603510102184346（@berryxia，2026-04-10）](https://x.com/berryxia/status/2042603510102184346（@berryxia，2026-04-10）)
+- 未匹配：X 推文（@berryxia，2026-04-10）

@@ -55,7 +55,15 @@ A2A 协议（Agent-to-Agent 协议）是让不同 AI Agent 彼此发现、发送
 
 - [Agent 经济闭环](concepts/Agent 经济闭环.md)
 
+- [MCP 协议](concepts/MCP 协议.md)
+
+- [AG-UI](concepts/AG-UI.md)
+
+- [外部化](concepts/外部化.md)
+
 ## 来源引用
+
+- [摘要：没有「身份证」的 Agent，接管不了世界](summaries/摘要：没有「身份证」的 Agent，接管不了世界.md)（[原文](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653104491&idx=1&sn=9d2e0837580b4d9cc5cb5af901faef7c&chksm=7f84afe217328ff0a83664012a2c38639db2a6cb1572651e9b0b6aec39ef8aab9d5263cf1715#rd)）
 
 - [摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会](summaries/摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会.md)（[原文](https://x.com/0xKingsKuan/status/2035029914844635315)）
 
@@ -66,3 +74,5 @@ A2A 协议（Agent-to-Agent 协议）是让不同 AI Agent 彼此发现、发送
 - [摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！](summaries/摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA%3D%3D&mid=2653588165&idx=1&sn=0e0410e1d88cc5ad869c483fbd623864&chksm=8117dbc85ccbaa434bf29379eae62e8bcf7369e5d40eb167b51fe0d75aedc4c94a5c5efd5171#rd)）
 
 - [摘要：Google发布A2UI 0.9：AI直接生成界面](summaries/摘要：Google发布A2UI 0.9：AI直接生成界面.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY5MjE2OTU5Mg%3D%3D&mid=2247484380&idx=1&sn=86632002fdf6fcdd5a9c2e5bedae3252&chksm=f5bdb6949b80daed06d25e00b23e76dec8e7771b3f9a448172ebb4de6731c3811c33c0061231#rd)）
+
+- [摘要：上交大54页综述讲透Agent认知外部化的演进之路](summaries/摘要：上交大54页综述讲透Agent认知外部化的演进之路.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651029194&idx=2&sn=d468f16ac694682f072e150ac531e5a2&chksm=85cd02c33fc1ca1088db4f4f1a5b2219ed652157b32c004b7ef2cfb994654cfdfdd0d38512e7#rd)）

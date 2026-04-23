@@ -7,7 +7,7 @@ tags:
 - 知识管理
 status: 审核中
 confidence: high
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f017ef06f33f4f6fb3f9f09740bd4063
@@ -90,6 +90,8 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 
 - [摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信...](summaries/摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信.md)
 
+- [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0ODM5NTEyNA%3D%3D&mid=2247505880&idx=1&sn=f1a5297d812535a2bffac2d7e0d7a9b0&chksm=c290cdf6c57d4eebecc0e36e7eba979efdecf65bf353528554e2a3908ab30c9f60c80f772947#rd)｜《[hermes101.dev](http://hermes101.dev/) 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移》｜来源条目：[摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移](summaries/摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移.md)
+
 ## 关联概念
 
 - [CLAUDE.md](concepts/CLAUDE.md.md)
@@ -121,6 +123,8 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 - [Prompt Engineering](concepts/Prompt Engineering.md)
 
 - [OpenClaw](entities/OpenClaw.md)
+
+- [hermes101.dev](entities/hermes101.dev.md)
 
 - [Meoo](entities/Meoo.md)
 

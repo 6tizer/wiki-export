@@ -27,4 +27,4 @@ notion_id: 691af645-e561-4651-8fa3-9ef9e749e3ad
 
 ## 来源引用
 
-- 《Twitter Buddy：让 AI 帮你刷推特，自动采集、分析、发现优质账号》｜X书签文章｜原文链接：[https://x.com/frozenraspberry/status/2031918478815609333](https://x.com/frozenraspberry/status/2031918478815609333)
+- [摘要：Twitter Buddy：让 AI 帮你刷推特，自动采集、分析、发现优质账号](summaries/摘要：Twitter Buddy：让 AI 帮你刷推特，自动采集、分析、发现优质账号.md)

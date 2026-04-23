@@ -27,4 +27,4 @@ Context Agent 是一种专门负责为大模型获取、组织并更新上下文
 
 ## 来源引用
 
-- 《从搜索到导航：Context Agent 如何重新定义 AI 的上下文获取方式》｜X书签文章｜原文链接：[https://x.com/ashpreetbedi/status/2031416367610744960](https://x.com/ashpreetbedi/status/2031416367610744960)
+- [摘要：从搜索到导航：Context Agent 如何重新定义 AI 的上下文获取方式](summaries/摘要：从搜索到导航：Context Agent 如何重新定义 AI 的上下文获取方式.md)

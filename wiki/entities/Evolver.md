@@ -31,6 +31,8 @@ Evolver 是 EvoMap 推出的 Agent 自进化引擎，强调通过可继承、可
 
 ## 来源引用
 
+- [摘要：你写的Skill，正在拖慢模型？策略式Gene才是正确答案](summaries/摘要：你写的Skill，正在拖慢模型？策略式Gene才是正确答案.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651029194&idx=1&sn=74444aa55fa4caff4666f024133d1896&chksm=8556a7658823460534cdb2c17157b616b7b4dc1061276c088fe77b3338d30db85b2e60109ba7#rd)）
+
 - [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)（[原文](https://x.com/RoundtableSpace/status/2045906520672461309)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652692364&idx=1&sn=806ef08f63d5bf567d421f8808528c22&chksm=f047438bdb7b8b7734f13ec8b0c731b8c3a0085d501b9d6454c92b66b5d973bec5e7bce653ea#rd)｜《Hermes Agent抄袭中国团队代码实锤！被锤后回应：你删号》
@@ -52,6 +54,14 @@ Evolver 是 EvoMap 推出的 Agent 自进化引擎，强调通过可继承、可
 - [GEP 协议](concepts/GEP 协议.md)
 
 - [GEPA](concepts/GEPA.md)
+
+- [Gene](concepts/Gene.md)
+
+- [Procedural Skill](concepts/Procedural Skill.md)
+
+- [AVOID 警告](concepts/AVOID 警告.md)
+
+- [CritPt](entities/CritPt.md)
 
 - [自我进化 Agent](concepts/自我进化 Agent.md)
 

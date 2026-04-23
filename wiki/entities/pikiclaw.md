@@ -45,6 +45,6 @@ pikiclaw 是一个开源 Node.js 工具，通过 Telegram、飞书、微信等 I
 
 ## 来源引用
 
-- X 推文回复：[https://x.com/berryxia/status/2042603510102184346（@sthnavy，2026-04-10）](https://x.com/berryxia/status/2042603510102184346（@sthnavy，2026-04-10）)
+- 未匹配：X 推文回复（@sthnavy，2026-04-10）
 
-- GitHub README：[https://github.com/xiaotonng/pikiclaw](https://github.com/xiaotonng/pikiclaw)
+- 未匹配：GitHub README
