@@ -6,7 +6,7 @@ tags:
 - 开发工具
 status: 草稿
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/dae3b69817484625b141d97a28e9fac2
@@ -54,3 +54,5 @@ Remotion 是一个用 React 和代码方式生成视频的开源框架，适合�
 - [摘要：HeyGen开源HyperFrames框架：Remotion劲敌，用HTML写视频的时代来了](summaries/摘要：HeyGen开源HyperFrames框架：Remotion劲敌，用HTML写视频的时代来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA5MTIxNTY4MQ%3D%3D&mid=2461159423&idx=1&sn=f74418143cc1f6e6fb9dabb1db5b0d86&chksm=86c98175cb612164ddc9393fe4dc74f7486313483ec5199c0c3a3a97d81fd5fe3984e5f3abcb#rd)）
 
 - [摘要：Video Use：用 Claude Code 把「对着镜头说话」变成一键出片](summaries/摘要：Video Use：用 Claude Code 把「对着镜头说话」变成一键出片.md)（[原文](https://x.com/gregpr07/status/2044554557221675380)）
+
+- [摘要：🚨 Goodbye Video editing](summaries/摘要：🚨 Goodbye Video editing.md)（[原文](https://x.com/TawohAwa/status/2046566836012306544)）

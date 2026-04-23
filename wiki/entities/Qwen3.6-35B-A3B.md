@@ -8,7 +8,7 @@ tags:
 - AI 产品
 status: 草稿
 confidence: high
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/1491972f0db242eaa1e8c04710c655ec
@@ -33,6 +33,8 @@ Qwen3.6-35B-A3B 是阿里 Qwen 发布的开源稀疏 MoE 大模型，总参数 3
 
 ## 来源引用
 
+- [摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb](summaries/摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb.md)（[原文](https://x.com/hxiao/status/2047004358500614152)）
+
 - [摘要：ThinkInAI Weekly AI周刊 VOL.42 Opus 4.7 来了、Qwen 开源 35B、Agent 工具链全面升级](summaries/摘要：ThinkInAI Weekly AI周刊 VOL.42 Opus 4.7 来了、Qwen 开源 35B、Agent 工具链全面升级.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA%3D%3D&mid=2247514009&idx=1&sn=bf15a5a46c8fceb7d84d0b3760d4ade9&chksm=91d6d8d58aad639487948529ced9d124bf6b7e77e01022df6a25570b93843ec362146982cbe9#rd)）
 
 - [摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see how it performs:](summaries/摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see how it performs-.md)（[原文](https://x.com/stevibe/status/2045087373516492954)）
@@ -53,9 +55,17 @@ Qwen3.6-35B-A3B 是阿里 Qwen 发布的开源稀疏 MoE 大模型，总参数 3
 
 - [MoE 架构](concepts/MoE 架构.md)
 
+- [Dense 模型](concepts/Dense 模型.md)
+
+- [Qwen3.6-27B](entities/Qwen3.6-27B.md)
+
 - [Thinking Preservation](concepts/Thinking Preservation.md)
 
 - [Agentic Coding](concepts/Agentic Coding.md)
+
+- [SWE-bench](concepts/SWE-bench.md)
+
+- [Terminal-Bench 2.0](concepts/Terminal-Bench 2.0.md)
 
 - [Gemma4-26B-A4B](entities/Gemma4-26B-A4B.md)
 

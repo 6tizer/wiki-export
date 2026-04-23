@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/33d15d9620e145199826491d8c15cbcf
@@ -31,6 +31,8 @@ Video Use 是 browser-use 团队推出的一个 Claude Code Skill，用自然语
 
 - [摘要：Video Use：用 Claude Code 把「对着镜头说话」变成一键出片](summaries/摘要：Video Use：用 Claude Code 把「对着镜头说话」变成一键出片.md)（[原文](https://x.com/gregpr07/status/2044554557221675380)）
 
+- [摘要：🚨 Goodbye Video editing](summaries/摘要：🚨 Goodbye Video editing.md)（[原文](https://x.com/TawohAwa/status/2046566836012306544)）
+
 ## 关联概念
 
 - [Claude Code](entities/Claude Code.md)
@@ -44,3 +46,5 @@ Video Use 是 browser-use 团队推出的一个 Claude Code Skill，用自然语
 - [ElevenLabs Scribe](entities/ElevenLabs Scribe.md)
 
 - [Manim](entities/Manim.md)
+
+- [Agent 原生视频编辑](concepts/Agent 原生视频编辑.md)

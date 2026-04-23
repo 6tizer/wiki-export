@@ -36,7 +36,19 @@ Anthropic 是一家以安全、可解释性与价值观对齐为核心叙事的 
 
 - [摘要：Anthropic的一万亿，与DeepSeek的100亿](summaries/摘要：Anthropic的一万亿，与DeepSeek的100亿.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyMTczNjE3Nw%3D%3D&mid=2247489444&idx=1&sn=4bc689d2efb7c57b6397ff4e4529291d&chksm=c0433b81e561b7a2551fb219379862d38b195b301b2fcba2184b8a432afb52f1e09952d19a79#rd)）
 
+- [摘要：Anthropic 最新博客：MCP 没死，它又来了](summaries/摘要：Anthropic 最新博客：MCP 没死，它又来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483055&idx=1&sn=aca9f531006d4ae5c50feb6d4cc5229e&chksm=86732b338b1b484418b20621dcb0a955f7260a88990b6194acc039e8dc4969bb5bf99c3b9f8e#rd)）
+
+- [摘要：Anthropic said Mythos was too dangerous to release. Then four random guys in a Discord gained access on day one by guessing the URL...](summaries/摘要：Anthropic said Mythos was too dangerous to release. Then four random guys in a Discord gained access on day one by guessing the URL.md)（[原文](https://x.com/JoshKale/status/2046774243799511156)）
+
 ## 关联概念
+
+- [MCP 协议](concepts/MCP 协议.md)
+
+- [Agent Skills](concepts/Agent Skills.md)
+
+- [Claude Cowork](entities/Claude Cowork.md)
+
+- [Tool Search](concepts/Tool Search.md)
 
 - [Sam Bankman-Fried](entities/Sam Bankman-Fried.md)
 
@@ -57,3 +69,9 @@ Anthropic 是一家以安全、可解释性与价值观对齐为核心叙事的 
 - [Claude Mythos](entities/Claude Mythos.md)
 
 - [Big Blob of Compute](concepts/Big Blob of Compute.md)
+
+- [基于角色的访问控制](concepts/基于角色的访问控制.md)
+
+- [凭证轮换](concepts/凭证轮换.md)
+
+- [端点枚举](concepts/端点枚举.md)

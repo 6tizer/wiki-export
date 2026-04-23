@@ -32,6 +32,8 @@ Borda count 是一种按排序位置分配分值的聚合投票方法。在 Auto
 
 - [原文链接](https://x.com/shannholmberg/status/2043983746094026984)｜《how to use autoreason for marketing》｜来源条目：[摘要：how to use autoreason for marketing](summaries/摘要：how to use autoreason for marketing.md)
 
+- [摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.](summaries/摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.md)（[原文](https://x.com/shannholmberg/status/2046891905389334958)）
+
 ## 关联概念
 
 - [Autoreason](concepts/Autoreason.md)

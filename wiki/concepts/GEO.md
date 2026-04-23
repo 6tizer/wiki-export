@@ -62,6 +62,8 @@ GEO 的核心目标是让品牌在 AI 助手生成回答时被引用、被推荐
 
 - [摘要：Perplexity做GEO太恐怖，3天网站流量破5w](summaries/摘要：Perplexity做GEO太恐怖，3天网站流量破5w.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY5NzExMTcwMQ%3D%3D&mid=2247483881&idx=1&sn=fed427c6d0136edbc261ab0119af9562&chksm=f522f05b3273e081092074ba9774308f72abaf930156e8b1fbfe80be63f137123775c10a84c5#rd)）
 
+- [摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.](summaries/摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.md)（[原文](https://x.com/shannholmberg/status/2046891905389334958)）
+
 ## 关联概念
 
 - [Perplexity](entities/Perplexity.md)

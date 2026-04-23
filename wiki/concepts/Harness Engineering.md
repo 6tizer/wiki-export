@@ -8,7 +8,7 @@ tags:
 - Agent 框架
 status: 审核中
 confidence: high
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/b77f7ca635c34485855ccc89f4406e46
@@ -123,6 +123,14 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 - [AG-UI](concepts/AG-UI.md)
 
+- [Xiaomi MiMo-V2.5-Pro](entities/Xiaomi MiMo-V2.5-Pro.md)
+
+- [Xiaomi MiMo-V2.5](entities/Xiaomi MiMo-V2.5.md)
+
+- [MiMo Coding Bench](concepts/MiMo Coding Bench.md)
+
+- [Claw-Eval](concepts/Claw-Eval.md)
+
 ## 来源引用
 
 - [摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论](summaries/摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论.md)（[原文](https://x.com/garrytan/status/2045371983312097409)）
@@ -195,6 +203,10 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 - [摘要：上交大54页综述讲透Agent认知外部化的演进之路](summaries/摘要：上交大54页综述讲透Agent认知外部化的演进之路.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651029194&idx=2&sn=d468f16ac694682f072e150ac531e5a2&chksm=85cd02c33fc1ca1088db4f4f1a5b2219ed652157b32c004b7ef2cfb994654cfdfdd0d38512e7#rd)）
 
+- [摘要：Xiaomi MiMo-V2.5 Series: Pushing Open-Source Agents Forward](summaries/摘要：Xiaomi MiMo-V2.5 Series- Pushing Open-Source Agents Forward.md)（[原文](https://x.com/XiaomiMiMo/status/2046988157888209365)）
+
+- [摘要：Compound Engineering v3](summaries/摘要：Compound Engineering v3.md)（[原文](https://x.com/trevin/status/2047066108763770998)）
+
 ### 补充关联概念
 
 - [群体智能](concepts/群体智能.md)
@@ -236,3 +248,7 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [Review Agents](concepts/Review Agents.md)
 
 - [渐进式披露](concepts/渐进式披露.md)
+
+- [需求可追溯性](concepts/需求可追溯性.md)
+
+- [逐项审查](concepts/逐项审查.md)

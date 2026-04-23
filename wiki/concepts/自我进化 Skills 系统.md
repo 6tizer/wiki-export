@@ -6,7 +6,7 @@ tags:
 - 记忆系统
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/d6e1a91f9b744a07b2362866698054f0
@@ -26,6 +26,8 @@ notion_id: d6e1a91f-9b74-4a07-b236-2866698054f0
 - 是长期伴随型 Agent 的重要能力来源
 
 ## 来源引用
+
+- [摘要：Hermes Agent 生态继续疯涨](summaries/摘要：Hermes Agent 生态继续疯涨.md)（[原文](https://x.com/GitTrend0x/status/2046526941038280756)）
 
 - [原文链接](https://x.com/TheTuringPost/status/2040936147720048909)｜《Hermes WebUI：给 Hermes Agent 装上浏览器界面，CLI 党也能优雅用 AI》｜源文章：Hermes WebUI：给 Hermes Agent 装上浏览器界面，CLI 党也能优雅用 AI
 
@@ -50,6 +52,8 @@ notion_id: d6e1a91f-9b74-4a07-b236-2866698054f0
 - [HyperMem](concepts/HyperMem.md)
 
 - [Hermes Agent](entities/Hermes Agent.md)
+
+- [自反思](concepts/自反思.md)
 
 - [LLM 长期记忆](concepts/LLM 长期记忆.md)
 

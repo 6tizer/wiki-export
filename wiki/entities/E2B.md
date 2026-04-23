@@ -30,3 +30,5 @@ E2B 是一个面向 AI 应用的沙盒运行环境服务，在这篇文章里作
 ### 来源引用
 
 - 《Clone & Install》｜X书签｜2026-04-14｜[原文链接](https://x.com/wsl8297/status/2044052818022281642)｜[源页面](https://www.notion.so/343701074b6881f997fbdb5ecd25a32c)
+
+- [摘要：Blazing-fast cold start:](summaries/摘要：Blazing-fast cold start-.md)（[原文](https://x.com/nash_su/status/2046778396844454105)）

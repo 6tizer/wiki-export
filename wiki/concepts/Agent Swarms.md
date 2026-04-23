@@ -8,7 +8,7 @@ tags:
 - Crypto/DeFi
 status: 审核中
 confidence: high
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8cc7d27018f6462c83ea2caa49dadbd4
@@ -50,6 +50,8 @@ kyegomez 的 Swarms 框架提供了具体的 Swarms 编排模式：
 - AutoSwarm（自动任务分解）
 
 ## 来源引用
+
+- [摘要：The Ultimate Open-Source Dev Stack](summaries/摘要：The Ultimate Open-Source Dev Stack.md)（[原文](https://x.com/AlphaSignalAI/status/2047014600713842728)）
 
 - [摘要：Ship Safe v9.1.0](summaries/摘要：Ship Safe v9.1.0.md)（[原文](https://x.com/Kimi_Moonshot/status/2046249571882500354)）
 

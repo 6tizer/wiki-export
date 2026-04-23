@@ -6,7 +6,7 @@ tags:
 - 知识管理
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/5da673ca2377484498ec12f5679bfbf3
@@ -69,6 +69,8 @@ notion_id: 5da673ca-2377-4844-98ec-12f5679bfbf3
 
 - [摘要：ziggy-llm](summaries/摘要：ziggy-llm.md)（[原文](https://x.com/zxytim/status/2046255419178500408)）
 
+- [摘要：markdown knowledge bases](summaries/摘要：markdown knowledge bases.md)（[原文](https://x.com/lucaronin/status/2046877445748322418)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)
@@ -102,3 +104,9 @@ notion_id: 5da673ca-2377-4844-98ec-12f5679bfbf3
 - [SKILL.md](concepts/SKILL.md.md)
 
 - [Subdirectory Hints](concepts/Subdirectory Hints.md)
+
+- [Tolaria](entities/Tolaria.md)
+
+- [YAML frontmatter](concepts/YAML frontmatter.md)
+
+- [Architecture Decision Records](concepts/Architecture Decision Records.md)

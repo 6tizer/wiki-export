@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/dcd58da1f13f4d10bb04047f0678e5c4
@@ -26,6 +26,10 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - 轻量 Harness 的价值常在于更透明、更容易读懂和二次开发
 
 ## 关联概念
+
+- [Lifecycle Hooks](concepts/Lifecycle Hooks.md)
+
+- [权限与安全层](concepts/权限与安全层.md)
 
 - [agentmemory](entities/agentmemory.md)
 
@@ -137,7 +141,19 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 
 - [红队演练](concepts/红队演练.md)
 
+- [CrabTrap](entities/CrabTrap.md)
+
+- [TLS 拦截](concepts/TLS 拦截.md)
+
+- [流量归纳策略](concepts/流量归纳策略.md)
+
+- [策略回放评测](concepts/策略回放评测.md)
+
 ## 来源引用
+
+- [摘要：What is an Agent Harness](summaries/摘要：What is an Agent Harness.md)（[原文](https://x.com/aparnadhinak/status/2046980769747533830)）
+
+- [摘要：CrabTrap: an LLM-as-a-judge HTTP proxy to secure agents in production](summaries/摘要：CrabTrap- an LLM-as-a-judge HTTP proxy to secure agents in production.md)（[原文](https://x.com/pedroh96/status/2046604993982009825)）
 
 - [摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」](summaries/摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」.md)（[原文](https://x.com/elder_plinius/status/2045682830383231474)）
 

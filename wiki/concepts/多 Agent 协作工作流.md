@@ -43,6 +43,8 @@ notion_id: f24ad430-054f-4646-b2ab-f5d56d20483d
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0ODM5NTEyNA%3D%3D&mid=2247505880&idx=1&sn=f1a5297d812535a2bffac2d7e0d7a9b0&chksm=c290cdf6c57d4eebecc0e36e7eba979efdecf65bf353528554e2a3908ab30c9f60c80f772947#rd)｜《[hermes101.dev](http://hermes101.dev/) 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移》｜来源条目：[摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移](summaries/摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移.md)
 
+- [摘要：Agent 可以被分享以后，协作自然而然发生](summaries/摘要：Agent 可以被分享以后，协作自然而然发生.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA%3D%3D&mid=2247496617&idx=1&sn=16a34380d19c26568405fa6523bea315&chksm=fa72b49794e86068018fa9708f018db395ff789a84e7d185aa0852a9b07da08d0b7f8da89718#rd)）
+
 ## 关联概念
 
 - [PPT Master](entities/PPT Master.md)
@@ -78,3 +80,5 @@ notion_id: f24ad430-054f-4646-b2ab-f5d56d20483d
 - [持久化跨会话记忆](concepts/持久化跨会话记忆.md)
 
 - [角色型 Agent](concepts/角色型 Agent.md)
+
+- [Bloome](entities/Bloome.md)

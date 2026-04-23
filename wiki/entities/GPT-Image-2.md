@@ -5,7 +5,7 @@ tags:
 - 图像生成
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/80940aa0a0e746b2a61a1bf0db011084
@@ -34,6 +34,10 @@ GPT-Image-2 是 OpenAI 的图像生成与编辑模型。在这篇实测中，它
 
 - [摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测](summaries/摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA%3D%3D&mid=2247496592&idx=1&sn=ff0599ff60bf5fbbd07b5b18d626c9cd&chksm=faeab77a93137cfd2ee02971d6731162f1562e3b988e6d38a012b94116546d5ade80a17278c6#rd)）
 
+- [摘要：GPT-image-2全量开放！狂刷几百张后，我整理了13个必看案例！](summaries/摘要：GPT-image-2全量开放！狂刷几百张后，我整理了13个必看案例！.md)（[原文](https://x.com/MrLarus/status/2046627021674168640)）
+
+- [摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。](summaries/摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA%3D%3D&mid=2247581929&idx=1&sn=6a712effd9a8be038430cdb37779664a&chksm=c1f685aae61a7de7eedcabb001c18193133287f8b36412cb2a5c9ae5cba2c130d99372441951#rd)）
+
 ## 关联概念
 
 - [Vibe Coding](concepts/Vibe Coding.md)
@@ -41,3 +45,23 @@ GPT-Image-2 是 OpenAI 的图像生成与编辑模型。在这篇实测中，它
 - [CodePilot](entities/CodePilot.md)
 
 - [Seedance 2.0](entities/Seedance 2.0.md)
+
+- [中文文字渲染](concepts/中文文字渲染.md)
+
+- [对话式图像编辑](concepts/对话式图像编辑.md)
+
+- [极简 Prompt](concepts/极简 Prompt.md)
+
+- [信息图生成](concepts/信息图生成.md)
+
+- [Agent 化图像生成](concepts/Agent 化图像生成.md)
+
+- [Lovart](entities/Lovart.md)
+
+- [Font Generator](concepts/Font Generator.md)
+
+- [无限画布交互](concepts/无限画布交互.md)
+
+- [Touch Edit](concepts/Touch Edit.md)
+
+- [Nano Banana Pro](entities/Nano Banana Pro.md)

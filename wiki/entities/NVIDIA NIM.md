@@ -6,7 +6,7 @@ tags:
 - 开发工具
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: LLM, API Key, 开发者工具
 source_article_url: ''
 notion_url: https://www.notion.so/bc8f41f55358454c92c35223c5bb49a1
@@ -28,3 +28,7 @@ NVIDIA NIM 是英伟达推出的推理微服务平台，用统一接口封装多
 ## 来源引用
 
 - [摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型](summaries/摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型.md)（[原文](https://x.com/XDmnnn0616/status/2045801076419686410)）
+
+- [摘要：Goodbye Claude Code subscription fees.](summaries/摘要：Goodbye Claude Code subscription fees.md)（[原文](https://x.com/hasantoxr/status/2046898117241635240)）
+
+- [摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes](summaries/摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode - Cursor - Hermes.md)（[原文](https://x.com/dhruvtwt_/status/2047006444701274380)）

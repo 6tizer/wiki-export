@@ -58,6 +58,12 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 ## 来源引用
 
+- [摘要：The Ultimate Open-Source Dev Stack](summaries/摘要：The Ultimate Open-Source Dev Stack.md)（[原文](https://x.com/AlphaSignalAI/status/2047014600713842728)）
+
+- [摘要：Hermes Agent 生态继续疯涨](summaries/摘要：Hermes Agent 生态继续疯涨.md)（[原文](https://x.com/GitTrend0x/status/2046526941038280756)）
+
+- [摘要：Hermes Agent 生态继续狂飙，又卷出一大批全新进化体！](summaries/摘要：Hermes Agent 生态继续狂飙，又卷出一大批全新进化体！.md)（[原文](https://x.com/GitTrend0x/status/2045837379827896407)）
+
 - [摘要：【万字】CC vs OpenClaw vs Hermes：一文深入拆解三大 Agent 框架](summaries/摘要：【万字】CC vs OpenClaw vs Hermes：一文深入拆解三大 Agent 框架.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5NjE3NjYzMw%3D%3D&mid=2247496422&idx=1&sn=811535695480b3dedead76bdd49ebfc0&chksm=a707de0ce8531ae0d9d8a14dd5c1029fc10a9cf68cd3421d8de580646f70da173af4f671ec62#rd)）
 
 - [摘要：Hermes Agent 生态要炸了，这波进化速度把我整不会了！](summaries/摘要：Hermes Agent 生态要炸了，这波进化速度把我整不会了！.md)（[原文](https://x.com/NFTCPS/status/2046076635200553224)）
@@ -166,7 +172,17 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0ODM5NTEyNA%3D%3D&mid=2247505880&idx=1&sn=f1a5297d812535a2bffac2d7e0d7a9b0&chksm=c290cdf6c57d4eebecc0e36e7eba979efdecf65bf353528554e2a3908ab30c9f60c80f772947#rd)｜《[hermes101.dev](http://hermes101.dev/) 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移》｜来源条目：[摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移](summaries/摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移.md)
 
+- [摘要：How to really stop your agents from making the same mistakes](summaries/摘要：How to really stop your agents from making the same mistakes.md)（[原文](https://x.com/garrytan/status/2046876981711769720)）
+
+- [摘要：Mercury: The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real](summaries/摘要：Mercury- The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real.md)（[原文](https://x.com/Ctrl_Alt_Zaid/status/2046902326657749114)）
+
+- [摘要：Lossless Context Management plugin for Hermes Agent](summaries/摘要：Lossless Context Management plugin for Hermes Agent.md)（[原文](https://x.com/GitTrend0x/status/2046932331001512385)）
+
+- [摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes](summaries/摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode - Cursor - Hermes.md)（[原文](https://x.com/dhruvtwt_/status/2047006444701274380)）
+
 ## 关联概念
+
+- [hermes-agent-camel](entities/hermes-agent-camel.md)
 
 - [agentskills.io](concepts/agentskills.io.md)
 
@@ -218,11 +234,21 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [OpenClaw](entities/OpenClaw.md)
 
+- [Mercury](entities/Mercury.md)
+
 - [hermes101.dev](entities/hermes101.dev.md)
 
 - [文件即大脑](concepts/文件即大脑.md)
 
 - [Hermes WebUI](entities/Hermes WebUI.md)
+
+- [hermes-lcm](entities/hermes-lcm.md)
+
+- [Hermes Neurovision](entities/Hermes Neurovision.md)
+
+- [Supermemory](entities/Supermemory.md)
+
+- [web-search-plus](entities/web-search-plus.md)
 
 - [Gateway](concepts/Gateway.md)
 
@@ -326,6 +352,8 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [Agent Skills](concepts/Agent Skills.md)
 
+- [Skillify](concepts/Skillify.md)
+
 - [记忆分层架构](concepts/记忆分层架构.md)
 
 - [多智能体编排](concepts/多智能体编排.md)
@@ -347,6 +375,10 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 - [Refusal Direction](concepts/Refusal Direction.md)
 
 - [过度对齐](concepts/过度对齐.md)
+
+- [Hermes Atlas](entities/Hermes Atlas.md)
+
+- [自反思](concepts/自反思.md)
 
 - [Nous Research](entities/Nous Research.md)
 

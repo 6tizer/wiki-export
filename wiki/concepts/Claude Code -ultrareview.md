@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/b6d0a360de404c6cbc91d842efc2d958
@@ -32,6 +32,12 @@ Claude Code /ultrareview 是 Claude Code 提供的深度代码审查命令，用
 
 - [Builder-Reviewer 模式](concepts/Builder-Reviewer 模式.md)
 
+- [对抗性代码审查](concepts/对抗性代码审查.md)
+
+- [代码执行沙箱](concepts/代码执行沙箱.md)
+
 ## 来源引用
 
 - [摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动](summaries/摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动.md)（[原文](https://x.com/cerebral_valley/status/2045249129950097535)）
+
+- [摘要：New in Claude Code: /ultrareview (research preview) runs a fleet of bug-hunting agents in the cloud.](summaries/摘要：New in Claude Code- -ultrareview (research preview) runs a fleet of bug-hunting agents in the cloud.md)（[原文](https://x.com/ClaudeDevs/status/2046999435239133246)）

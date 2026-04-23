@@ -32,6 +32,8 @@ notion_id: e9fd0758-1240-4250-bdf0-b7fc23f551bc
 
 - [原文链接](https://x.com/nyk_builderz/status/2044472463279710344)｜《The Ultimate Hermes Guide - from one agent to a 4-profile team that still feels coherent on day 30》｜来源条目：[摘要：The Ultimate Hermes Guide - from one agent to a 4-profile team that still feels coherent on day 30](summaries/摘要：The Ultimate Hermes Guide - from one agent to a 4-profile team that still feels coherent on day 30.md)
 
+- [摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.](summaries/摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.md)（[原文](https://x.com/shannholmberg/status/2046891905389334958)）
+
 ## 关联概念
 
 - [Autoreason](concepts/Autoreason.md)

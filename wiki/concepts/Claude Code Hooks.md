@@ -56,6 +56,8 @@ Claude Code Hooks 是 Claude Code 2.1 引入的事件驱动钩子机制，允许
 
 - [摘要：用了这么久 Claude Code，很多人都在研究 CLAUDE.md、Hooks、Sub-Agent，但其实它 GitHub 仓库里还藏着一批官方插件，很多人根本没注意到。](summaries/摘要：用了这么久 Claude Code，很多人都在研究 CLAUDE.md、Hooks、Sub-Agent，但其实它 GitHub 仓库里还藏着一批官方插件，很多人根本没注意到。.md)（[原文](https://x.com/sitinme/status/2045127135195439279)）
 
+- [摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题](summaries/摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题.md)（[原文](https://x.com/garrytan/status/2046981289031667961)）
+
 ## 关联概念
 
 - [Claude Code](entities/Claude Code.md)

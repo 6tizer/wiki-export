@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 草稿
 confidence: high
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/ab7f8a165c2e486b9a40391be3fbfa48
@@ -29,9 +29,15 @@ CaMeL 信任边界是一种将 Agent 运行时中的**可信控制**与**不可�
 
 ## 来源引用
 
+- [摘要：Hermes Agent 生态继续疯涨](summaries/摘要：Hermes Agent 生态继续疯涨.md)（[原文](https://x.com/GitTrend0x/status/2046526941038280756)）
+
+- [摘要：Hermes Agent 生态继续狂飙，又卷出一大批全新进化体！](summaries/摘要：Hermes Agent 生态继续狂飙，又卷出一大批全新进化体！.md)（[原文](https://x.com/GitTrend0x/status/2045837379827896407)）
+
 - [摘要：Hermes Agent 生态要炸了，这波进化速度把我整不会了！](summaries/摘要：Hermes Agent 生态要炸了，这波进化速度把我整不会了！.md)（[原文](https://x.com/NFTCPS/status/2046076635200553224)）
 
 ## 关联概念
+
+- [hermes-agent-camel](entities/hermes-agent-camel.md)
 
 - [Hermes Agent](entities/Hermes Agent.md)
 

@@ -6,7 +6,7 @@ tags:
 - 商业/生态
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2aaa31af764247f89c3207919284ceea
@@ -28,3 +28,17 @@ Claude Cowork 是 Anthropic 推出的 agentic 协作产品，目标是让 Claude
 ### 来源引用
 
 - 2026-04-09｜@claudeai｜[Claude Cowork is now generally available to all paid plans](https://x.com/claudeai/status/2042273755485888810)｜源页：Claude Cowork 正式开放：Anthropic 的企业级 AI 协作工具全面落地
+
+- [摘要：Anthropic 最新博客：MCP 没死，它又来了](summaries/摘要：Anthropic 最新博客：MCP 没死，它又来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483055&idx=1&sn=aca9f531006d4ae5c50feb6d4cc5229e&chksm=86732b338b1b484418b20621dcb0a955f7260a88990b6194acc039e8dc4969bb5bf99c3b9f8e#rd)）
+
+## 关联概念
+
+- [Anthropic](entities/Anthropic.md)
+
+- [MCP 协议](concepts/MCP 协议.md)
+
+- [Agent Skills](concepts/Agent Skills.md)
+
+- [Tool Search](concepts/Tool Search.md)
+
+- [程序化工具调用](concepts/程序化工具调用.md)

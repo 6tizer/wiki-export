@@ -28,6 +28,8 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 
 ## 来源引用
 
+- [摘要：What is an Agent Harness](summaries/摘要：What is an Agent Harness.md)（[原文](https://x.com/aparnadhinak/status/2046980769747533830)）
+
 - [摘要：Memory](summaries/摘要：Memory.md)（[原文](https://x.com/akshay_pachaar/status/2045510648474530263)）
 
 - [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)（[原文](https://x.com/pritipatelfgoo/status/2045105855662809267)）
@@ -92,7 +94,17 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0ODM5NTEyNA%3D%3D&mid=2247505880&idx=1&sn=f1a5297d812535a2bffac2d7e0d7a9b0&chksm=c290cdf6c57d4eebecc0e36e7eba979efdecf65bf353528554e2a3908ab30c9f60c80f772947#rd)｜《[hermes101.dev](http://hermes101.dev/) 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移》｜来源条目：[摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移](summaries/摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移.md)
 
+- [摘要：Anthropic 最新博客：MCP 没死，它又来了](summaries/摘要：Anthropic 最新博客：MCP 没死，它又来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483055&idx=1&sn=aca9f531006d4ae5c50feb6d4cc5229e&chksm=86732b338b1b484418b20621dcb0a955f7260a88990b6194acc039e8dc4969bb5bf99c3b9f8e#rd)）
+
 ## 关联概念
+
+- [Tool Search](concepts/Tool Search.md)
+
+- [程序化工具调用](concepts/程序化工具调用.md)
+
+- [代码编排](concepts/代码编排.md)
+
+- [Claude Cowork](entities/Claude Cowork.md)
 
 - [CLAUDE.md](concepts/CLAUDE.md.md)
 

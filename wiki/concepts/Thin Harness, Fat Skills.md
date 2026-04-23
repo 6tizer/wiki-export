@@ -53,6 +53,8 @@ Thin Harness, Fat Skills 是一种 Agent 架构原则：把通用运行时尽量
 
 - [锯齿边界](concepts/锯齿边界.md)
 
+- [Skillify](concepts/Skillify.md)
+
 ## 来源引用
 
 - [摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论](summaries/摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论.md)（[原文](https://x.com/garrytan/status/2045371983312097409)）
@@ -68,3 +70,5 @@ Thin Harness, Fat Skills 是一种 Agent 架构原则：把通用运行时尽量
 - [原文链接](https://x.com/AlphaSignalAI/status/2044461541232148986)｜《How GBrain Works, and How to Actually Wire It Into Your Agents》｜来源条目：[摘要：How GBrain Works, and How to Actually Wire It Into Your Agents](summaries/摘要：How GBrain Works, and How to Actually Wire It Into Your Agents.md)
 
 - [摘要：模型是引擎，系统是车身](summaries/摘要：模型是引擎，系统是车身.md)（[原文](https://x.com/garrytan/status/2045798603059548364)）
+
+- [摘要：How to really stop your agents from making the same mistakes](summaries/摘要：How to really stop your agents from making the same mistakes.md)（[原文](https://x.com/garrytan/status/2046876981711769720)）

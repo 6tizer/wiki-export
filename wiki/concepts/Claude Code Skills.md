@@ -42,3 +42,5 @@ Claude Code Skills 指 Claude Code 中可复用的技能扩展机制，通常以
 - 源页面：Logo Generator Skill：用 Gemini 一键生成 SVG Logo 和专业展示图
 
 - GitHub：[https://github.com/op7418/logo-generator-skill](https://github.com/op7418/logo-generator-skill)
+
+- [摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题](summaries/摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题.md)（[原文](https://x.com/garrytan/status/2046981289031667961)）

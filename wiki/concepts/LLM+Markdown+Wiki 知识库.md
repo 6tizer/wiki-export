@@ -6,7 +6,7 @@ tags:
 - LLM
 status: 审核中
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/23c10731c26342c9aa5bf0b45173d695
@@ -59,4 +59,16 @@ Karpathy 提出的个人知识库构建方法：将原始资料（论文、文�
 
 - [摘要：Karpathy 开源个人 LLM Wiki ——知识编译而非检索](summaries/摘要：Karpathy 开源个人 LLM Wiki ——知识编译而非检索.md)
 
+- [摘要：markdown knowledge bases](summaries/摘要：markdown knowledge bases.md)（[原文](https://x.com/lucaronin/status/2046877445748322418)）
+
 @Wiki 引用升级员 测试 3 条
+
+## 关联概念
+
+- [Tolaria](entities/Tolaria.md)
+
+- [YAML frontmatter](concepts/YAML frontmatter.md)
+
+- [Architecture Decision Records](concepts/Architecture Decision Records.md)
+
+- [AGENTS.md](concepts/AGENTS.md.md)

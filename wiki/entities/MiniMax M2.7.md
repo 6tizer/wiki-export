@@ -36,6 +36,8 @@ MiniMax M2.7 是 MiniMax 面向 Agent 场景推出的模型，主打低成本、
 
 - [原文链接](https://x.com/RyanLeeMiniMax/status/2043573044065820673)｜《Re: M2.7 license — what changed and why》｜来源条目：[摘要：Re: M2.7 license — what changed and why](summaries/摘要：Re- M2.7 license — what changed and why.md)
 
+- [摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes](summaries/摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode - Cursor - Hermes.md)（[原文](https://x.com/dhruvtwt_/status/2047006444701274380)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)

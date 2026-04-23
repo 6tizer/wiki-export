@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2ef12e54151f4b3ab38e4f1445bdc5dd
@@ -57,6 +57,8 @@ notion_id: 2ef12e54-151f-4b3a-b38e-4f1445bdc5dd
 - [Goal-Driven Execution](concepts/Goal-Driven Execution.md)
 
 ## 来源引用
+
+- [摘要：The Ultimate Open-Source Dev Stack](summaries/摘要：The Ultimate Open-Source Dev Stack.md)（[原文](https://x.com/AlphaSignalAI/status/2047014600713842728)）
 
 - [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)（[原文](https://x.com/RoundtableSpace/status/2045906520672461309)）
 

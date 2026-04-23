@@ -5,7 +5,7 @@ tags:
 - 内容创作
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/e9a473a69ea84574a44da8d744524e62
@@ -24,8 +24,18 @@ Nano Banana Pro 是文中用于批量生成 TikTok 图片 slideshow 画面的 AI
 
 - 目标不是追求“AI 感”，而是模拟 iPhone 前置镜头、自然光、轻微压缩痕迹等真实 UGC 质感
 
+## 关联概念
+
+- [GPT-Image-2](entities/GPT-Image-2.md)
+
+- [Lovart](entities/Lovart.md)
+
+- [Touch Edit](concepts/Touch Edit.md)
+
 ## 来源引用
 
 - [原文链接](https://x.com/chuhaiqu/status/2044701336554643793)｜《这可能是我在 X 上到目前为止看到的最详细最具实操性的 TikTok AI slideshow 手册了，是 Roman 月营收从 0 到 10 万刀的完整路径复盘。》｜源条目：Roman Khaves 的 TikTok AI Slideshow 手册：从 0 到月入 10 万刀的完整路径
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506447&idx=1&sn=a3919f3cc497777d3c05efdecc0401cf&chksm=cf0412324a3f794db03b4dad004fd229a024e1bbd7f35187f3bdcd3264062cf4e911cb5448de#rd)｜《五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了》｜源条目：五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了
+
+- [摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。](summaries/摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA%3D%3D&mid=2247581929&idx=1&sn=6a712effd9a8be038430cdb37779664a&chksm=c1f685aae61a7de7eedcabb001c18193133287f8b36412cb2a5c9ae5cba2c130d99372441951#rd)）

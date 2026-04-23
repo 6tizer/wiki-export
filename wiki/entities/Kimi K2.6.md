@@ -8,7 +8,7 @@ tags:
 - AI 产品
 status: 草稿
 confidence: high
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/531518c2ee794184b4d3cb11b26fbc3e
@@ -30,6 +30,8 @@ Kimi K2.6 是月之暗面面向 AI 编程场景推出的模型版本，可通过
 - 更适合承接日常开发、小模块、数据预处理、快速原型等中等复杂度任务。
 
 ## 来源引用
+
+- [摘要：The Ultimate Open-Source Dev Stack](summaries/摘要：The Ultimate Open-Source Dev Stack.md)（[原文](https://x.com/AlphaSignalAI/status/2047014600713842728)）
 
 - [摘要：Ship Safe v9.1.0](summaries/摘要：Ship Safe v9.1.0.md)（[原文](https://x.com/Kimi_Moonshot/status/2046249571882500354)）
 

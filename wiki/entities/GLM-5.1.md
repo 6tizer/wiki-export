@@ -79,6 +79,8 @@ wechat-cli项目等实际项目均由GLM-5.1赞助开发，展示了其在长程
 
 - [摘要：Okay this one is insane. A new 18B frankenstein model was just released on @huggingface — Beats the new Qwen3.6-35B-A3B on a 44-test suite despite requiring 12GB VRAM instead of 24GB 🤯](summaries/摘要：Okay this one is insane. A new 18B frankenstein model was just released on @huggingface — Beats the new Qwen3.6-35B-A3B on a 44-test suite despite requiring 12GB VRAM instead of 24GB 🤯.md)（[原文](https://x.com/leftcurvedev_/status/2045449352827580602)）
 
+- [摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes](summaries/摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode - Cursor - Hermes.md)（[原文](https://x.com/dhruvtwt_/status/2047006444701274380)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)

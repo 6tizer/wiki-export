@@ -6,7 +6,7 @@ tags:
 - LLM
 status: 草稿
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/3814fd869c2b464ebc5ab8d28a6a2ca6
@@ -35,6 +35,8 @@ MLX 框架 是苹果为 Apple Silicon 统一内存架构打造的机器学习框
 
 - [摘要：quantization](summaries/摘要：quantization.md)（[原文](https://x.com/leftcurvedev_/status/2044700338817564814)）
 
+- [摘要：Tree-based speculative decoding for Apple Silicon.](summaries/摘要：Tree-based speculative decoding for Apple Silicon.md)（[原文](https://x.com/QingQ77/status/2045500092527087861)）
+
 ## 关联概念
 
 - [mlx_vlm](entities/mlx_vlm.md)
@@ -50,3 +52,9 @@ MLX 框架 是苹果为 Apple Silicon 统一内存架构打造的机器学习框
 - [Qwen3.5-9B-GLM5.1-Distill-v1](entities/Qwen3.5-9B-GLM5.1-Distill-v1.md)
 
 - [GLM-5.1](entities/GLM-5.1.md)
+
+- [ddtree-mlx](entities/ddtree-mlx.md)
+
+- [Qwen3.5-27B](entities/Qwen3.5-27B.md)
+
+- [GatedDeltaNet](concepts/GatedDeltaNet.md)

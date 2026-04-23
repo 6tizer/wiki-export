@@ -9,7 +9,7 @@ tags:
 - 训练/微调
 status: 审核中
 confidence: high
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/6a8cb9b4e0474053be1b5f821ce03cef
@@ -88,6 +88,8 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 
 - [摘要：custom slash commands](summaries/摘要：custom slash commands.md)（[原文](https://x.com/hasantoxr/status/2046174499226403038)）
 
+- [摘要：A curated, high-signal index of autonomous improvement loops, research agents, and descendants inspired by](summaries/摘要：A curated, high-signal index of autonomous improvement loops, research agents, and descendants inspired by.md)（[原文](https://x.com/aiwithmayank/status/2046914454353510893)）
+
 ## 关联概念
 
 - [Compound Engineering](concepts/Compound Engineering.md)
@@ -119,3 +121,9 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 - [置信度评分](concepts/置信度评分.md)
 
 - [Extension / Skill 分离](concepts/Extension - Skill 分离.md)
+
+- [Awesome Autoresearch](entities/Awesome Autoresearch.md)
+
+- [Keep-or-revert loop](concepts/Keep-or-revert loop.md)
+
+- [Research Agent](concepts/Research Agent.md)

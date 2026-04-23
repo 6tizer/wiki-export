@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0c445748e9294f00a39b12a0c0c2ecca
@@ -26,6 +26,14 @@ Terminal-Bench 2.0 是一个面向终端场景的编程能力测试基准，用�
 
 ## 关联概念
 
+- [Qwen3.6-27B](entities/Qwen3.6-27B.md)
+
+- [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
+
+- [Dense 模型](concepts/Dense 模型.md)
+
+- [SWE-bench](concepts/SWE-bench.md)
+
 - [Meta-Harness](concepts/Meta-Harness.md)
 
 - [Harness Engineering](concepts/Harness Engineering.md)
@@ -33,6 +41,8 @@ Terminal-Bench 2.0 是一个面向终端场景的编程能力测试基准，用�
 - [长时程信用分配](concepts/长时程信用分配.md)
 
 ## 来源引用
+
+- [摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb](summaries/摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb.md)（[原文](https://x.com/hxiao/status/2047004358500614152)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247733292&idx=1&sn=e39369ea00846c222739652d5b47bcc8&chksm=913f8f245def967dec5b7fa87346d1d1fb0f05e5f0084f9bccfc6aeaf678203157c80fe2767b#rd)｜《「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？》｜源文章：「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？
 

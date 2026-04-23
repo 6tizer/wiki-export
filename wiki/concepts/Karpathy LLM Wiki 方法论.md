@@ -8,7 +8,7 @@ tags:
 - 笔记工具
 status: 审核中
 confidence: high
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/71e1b901a32e499a95475faf4e53bce5
@@ -171,7 +171,15 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 
 - [个人 Agent](concepts/个人 Agent.md)
 
+- [Tolaria](entities/Tolaria.md)
+
+- [YAML frontmatter](concepts/YAML frontmatter.md)
+
+- [Architecture Decision Records](concepts/Architecture Decision Records.md)
+
 ## 来源引用
+
+- [摘要：The Ultimate Open-Source Dev Stack](summaries/摘要：The Ultimate Open-Source Dev Stack.md)（[原文](https://x.com/AlphaSignalAI/status/2047014600713842728)）
 
 - [摘要：AI researchers and engineers](summaries/摘要：AI researchers and engineers.md)（[原文](https://x.com/ollama/status/2045282803387158873)）
 
@@ -222,3 +230,5 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 - [摘要：从"人肉路由"到 Agent 网络——AI Native 组织的构想](summaries/摘要：从人肉路由到 Agent 网络——AI Native 组织的构想.md)｜来源条目：[摘要：从"人肉路由"到 Agent 网络——AI Native 组织的构想](summaries/摘要：从人肉路由到 Agent 网络——AI Native 组织的构想.md)
 
 - [摘要：custom slash commands](summaries/摘要：custom slash commands.md)（[原文](https://x.com/hasantoxr/status/2046174499226403038)）
+
+- [摘要：markdown knowledge bases](summaries/摘要：markdown knowledge bases.md)（[原文](https://x.com/lucaronin/status/2046877445748322418)）
