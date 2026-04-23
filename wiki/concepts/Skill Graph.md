@@ -5,7 +5,7 @@ tags:
 - 知识管理
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/65d235b8d2094ed2b075ed2f4daf2b6a
@@ -53,3 +53,15 @@ notion_id: 65d235b8-d209-4ed2-b075-ed2f4daf2b6a
 **来源引用**
 
 - [摘要：Skill Graph > SKILL.md 渐进式披露典范](summaries/摘要：Skill Graph  SKILL.md 渐进式披露典范.md)
+
+- [摘要：A new way to think about composing skills to increase leverage: Skill Graphs 2.0](summaries/摘要：A new way to think about composing skills to increase leverage- Skill Graphs 2.0.md)（[原文](https://x.com/shivsakhuja/status/2047124337191444844)）
+
+- [摘要：skills](summaries/摘要：skills.md)（[原文](https://x.com/garrytan/status/2047183884266402275)）
+
+**关联概念**
+
+- [原子-分子-化合物技能分层](concepts/原子-分子-化合物技能分层.md)
+
+- [Sub agent 上下文隔离](concepts/Sub agent 上下文隔离.md)
+
+- [Brain RAM 杠杆模型](concepts/Brain RAM 杠杆模型.md)

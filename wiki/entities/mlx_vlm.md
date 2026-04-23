@@ -3,7 +3,7 @@ title: mlx_vlm
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''

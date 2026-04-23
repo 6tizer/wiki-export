@@ -4,7 +4,7 @@ type: concept
 tags:
 - Coding Agent
 - 工作流
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化, Agent, LLM

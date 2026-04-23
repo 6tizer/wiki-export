@@ -43,6 +43,10 @@ OpenRouter 是全球最大的模型聚合平台，提供统一 API 接入多家 
 
 - [原文链接](https://x.com/AnchorNode/status/2044675901775126986)｜《兄弟们，昨天配了一个新的bot，在我的失误下，把两个机器人部署到同一个目录下面，成功把旧bot搞炸了》｜来源条目：[摘要：兄弟们，昨天配了一个新的bot，在我的失误下，把两个机器人部署到同一个目录下面，成功把旧bot搞炸了](summaries/摘要：兄弟们，昨天配了一个新的bot，在我的失误下，把两个机器人部署到同一个目录下面，成功把旧bot搞炸了.md)
 
+- [摘要：New from K-Dense: mimeo.](summaries/摘要：New from K-Dense- mimeo.md)（[原文](https://x.com/k_dense_ai/status/2047020939590992051)）
+
+- [摘要：Anthropic has quietly shipped third-party inference for Cowork and Code in Claude Desktop.](summaries/摘要：Anthropic has quietly shipped third-party inference for Cowork and Code in Claude Desktop.md)（[原文](https://x.com/PawelHuryn/status/2047039360856387944)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)
@@ -76,3 +80,7 @@ OpenRouter 是全球最大的模型聚合平台，提供统一 API 接入多家 
 - [调用链验证](concepts/调用链验证.md)
 
 - [Token 污染](concepts/Token 污染.md)
+
+- [mimeo](entities/mimeo.md)
+
+- [Parallel Search API](entities/Parallel Search API.md)

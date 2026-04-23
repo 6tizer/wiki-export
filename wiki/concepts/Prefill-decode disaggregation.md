@@ -24,8 +24,14 @@ Prefill-decode disaggregation 是把大模型推理中的 prefill 阶段与 deco
 
 ## 来源引用
 
+- [摘要：Traditional ML Inference vs. LLM Inference](summaries/摘要：Traditional ML Inference vs. LLM Inference.md)（[原文](https://x.com/_avichawla/status/2026224423460843665)）
+
 - [摘要：Kimi K2.6 has landed, and it is live on Baseten!](summaries/摘要：Kimi K2.6 has landed, and it is live on Baseten!.md)（[原文](https://x.com/baseten/status/2046263526281576573)）
 
 ## 关联概念
 
 - [Kimi K2.6](entities/Kimi K2.6.md)
+
+- [Continuous batching](concepts/Continuous batching.md)
+
+- [KV-aware routing](concepts/KV-aware routing.md)

@@ -5,7 +5,7 @@ tags:
 - 商业/生态
 status: 草稿
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/cd33b8f7203e44419b4cc12ec82c6dae
@@ -27,3 +27,5 @@ Claude 是 Anthropic 推出的通用大模型与 AI 助手产品线，在企业�
 ## 来源引用
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652691349&idx=1&sn=69271496782bf2fae8c8ef9a3281534b&chksm=f033cf80ceece626996a98c0e35ecad40ba8feeb8ca5f194fd92e66c99c6cc1a51296e257f1d#rd)｜《OpenAI惨遭反超！Anthropic狂吞70%新客户，Claude已开启「灵魂校准」》｜源文章：OpenAI惨遭反超！Anthropic狂吞70%新客户，Claude已开启「灵魂校准」
+
+- [摘要：20-year-old Chinese developer made more than $100,000 starting by building products for a kids game, he simply transferred the object tracking model thanks to Verse.](summaries/摘要：20-year-old Chinese developer made more than $100,000 starting by building products for a kids game, he simply transferred the object tracking model thanks to Verse.md)（[原文](https://x.com/noisyb0y1/status/2046962651373109474)）

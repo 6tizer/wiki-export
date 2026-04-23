@@ -31,11 +31,17 @@ skills-manage 是一个面向多平台 AI Coding Agent 的 Skill 管理桌面应
 
 - [摘要：统一编排 Skill，按项目精准分发到不同 Agent CLI。](summaries/摘要：统一编排 Skill，按项目精准分发到不同 Agent CLI。.md)（[原文](https://x.com/iamzhihui/status/2046063506609635552)）
 
+- [摘要：skills-manage：让一个 Skill 仓库驱动 20+ AI 编程工具](summaries/摘要：skills-manage：让一个 Skill 仓库驱动 20+ AI 编程工具.md)（[原文](https://x.com/gkxspace/status/2046938571395760307)）
+
 ## 关联概念
 
 - [Agent Skills](concepts/Agent Skills.md)
 
 - [符号链接注入](concepts/符号链接注入.md)
+
+- [中央 Skill 仓库](concepts/中央 Skill 仓库.md)
+
+- [Skill Collection](concepts/Skill Collection.md)
 
 - [项目级 Skills 分发](concepts/项目级 Skills 分发.md)
 

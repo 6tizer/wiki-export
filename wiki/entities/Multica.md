@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/348701074b6881c38186e6b19148faaa
 notion_url: https://www.notion.so/1e70a63c096448d38362136335c944d1
@@ -37,6 +37,16 @@ Multica 是一个开源托管智能体平台，目标是把编程智能体从单
 
 - [Agent Skills](concepts/Agent Skills.md)
 
+- [Workspace Agents](entities/Workspace Agents.md)
+
+- [Agent Runtime](concepts/Agent Runtime.md)
+
+- [Workspace-level Isolation](concepts/Workspace-level Isolation.md)
+
+- [Coding Agent](concepts/Coding Agent.md)
+
 ## 来源引用
 
 - [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)（[原文](https://x.com/pritipatelfgoo/status/2045105855662809267)）
+
+- [摘要：Your next 10 hires won't be human.](summaries/摘要：Your next 10 hires won't be human.md)（[原文](https://x.com/jiayuan_jy/status/2047014163097227478)）

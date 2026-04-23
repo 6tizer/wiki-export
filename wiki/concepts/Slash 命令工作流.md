@@ -7,7 +7,7 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-23'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
 notion_url: https://www.notion.so/a1efeafe848b44f986678110e43a5807
@@ -34,6 +34,14 @@ Slash 命令工作流（又称斜杠命令工作流）是通过预设一组结�
 
 - [Hot Cache](concepts/Hot Cache.md)
 
+- [Claude Code](entities/Claude Code.md)
+
+- [Git Worktree](concepts/Git Worktree.md)
+
+- [tmux](entities/tmux.md)
+
+- [Codebase Q&A](concepts/Codebase Q&A.md)
+
 ## 来源引用
 
 - [摘要：gstack：YC CEO Garry Tan 的 Claude Code 虚拟工程团队配置](summaries/摘要：gstack：YC CEO Garry Tan 的 Claude Code 虚拟工程团队配置.md)
@@ -41,3 +49,5 @@ Slash 命令工作流（又称斜杠命令工作流）是通过预设一组结�
 - [摘要：gstack：YC CEO 把自己的 AI 工程团队「外脑」开源了](summaries/摘要：gstack：YC CEO 把自己的 AI 工程团队「外脑」开源了.md)
 
 - [摘要：custom slash commands](summaries/摘要：custom slash commands.md)（[原文](https://x.com/hasantoxr/status/2046174499226403038)）
+
+- [摘要：30 分钟精通 Claude Code](summaries/摘要：30 分钟精通 Claude Code.md)（[原文](https://x.com/SaitoWu/status/2046952505947648217)）

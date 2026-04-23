@@ -4,9 +4,9 @@ type: entity
 tags:
 - Agent 框架
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/4db364416ea040bfa57deebceaf7f657
@@ -35,6 +35,8 @@ CREAO 是文中案例所在的 Agent 平台，也是作者用来实践 AI-first 
 
 - [原文链接](https://x.com/CreaoAI/status/2044391152586207272)｜X书签文章：CREAO Pioneer Program：AI Agent 时代的「先锋计划」
 
+- [摘要：2026 年了，我发现我不用自己刷 X 了。](summaries/摘要：2026 年了，我发现我不用自己刷 X 了。.md)（[原文](https://x.com/yanhua1010/status/2046907292566905248)）
+
 - [官网](https://creao.ai/)
 
 ## 关联概念
@@ -44,3 +46,9 @@ CREAO 是文中案例所在的 Agent 平台，也是作者用来实践 AI-first 
 - [Architect-Operator](concepts/Architect-Operator.md)
 
 - [Execution Bandwidth Ceiling](concepts/Execution Bandwidth Ceiling.md)
+
+- [Super Agent](concepts/Super Agent.md)
+
+- [Scheduled Run](concepts/Scheduled Run.md)
+
+- [Tool Maker](concepts/Tool Maker.md)

@@ -135,6 +135,10 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 - [Agent Loop](concepts/Agent Loop.md)
 
+- [Skillify](concepts/Skillify.md)
+
+- [self-improving-agent](concepts/self-improving-agent.md)
+
 ## 来源引用
 
 - [摘要：刚刚！Generic Agent 中文教程发布！比Hermes省10倍Token](summaries/摘要：刚刚！Generic Agent 中文教程发布！比Hermes省10倍Token.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg%3D%3D&mid=2247722227&idx=1&sn=91cdeb9ed199ea27bf816d8f58822044&chksm=e9e6f905566630299ab381060e0037338ce5baf7cf72c2c15b502fae874a19d1aaf2acb5d20c#rd)）
@@ -154,6 +158,12 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - 《Harness Engineering：决定 AI Agent 能跑 10 分钟还是 10 小时的那层系统》｜X书签文章｜原文链接：[https://x.com/shao__meng/status/2031532690034606549](https://x.com/shao__meng/status/2031532690034606549)
 
 - 《Anthropic 的 Agent OS 野心：从 Managed Agents 看未来 Agent 基础设施》｜X书签文章｜原文链接：[https://x.com/blackanger/status/2041951380836147479](https://x.com/blackanger/status/2041951380836147479)｜来源条目：[摘要：Anthropic 的 Agent OS 野心：从 Managed Agents 看未来 Agent 基础设施](summaries/摘要：Anthropic 的 Agent OS 野心：从 Managed Agents 看未来 Agent 基础设施.md)
+
+- [摘要：Defining Continual Learning](summaries/摘要：Defining Continual Learning.md)（[原文](https://x.com/carnot_cyclist/status/2041479655035679163)）
+
+- [摘要：Had no idea but there is a lot of simultaneous discovery in agentic engineering these days](summaries/摘要：Had no idea but there is a lot of simultaneous discovery in agentic engineering these days.md)（[原文](https://x.com/garrytan/status/2047039110326673872)）
+
+- [摘要：The Definitive Guide to Harness Engineering](summaries/摘要：The Definitive Guide to Harness Engineering.md)（[原文](https://x.com/Trae_ai/status/2047145274200768969)）
 
 ## 关联概念
 
@@ -213,6 +223,10 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 - [摘要：Compound Engineering v3](summaries/摘要：Compound Engineering v3.md)（[原文](https://x.com/trevin/status/2047066108763770998)）
 
+- [Continual Learning](concepts/Continual Learning.md)
+
+- [参数化持续学习](concepts/参数化持续学习.md)
+
 ### 补充关联概念
 
 - [群体智能](concepts/群体智能.md)
@@ -258,3 +272,15 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [需求可追溯性](concepts/需求可追溯性.md)
 
 - [逐项审查](concepts/逐项审查.md)
+
+### 本文关联补充
+
+- [R.E.S.T模型](concepts/R.E.S.T模型.md)
+
+- [PPAF循环](concepts/PPAF循环.md)
+
+- [REPL Harness](concepts/REPL Harness.md)
+
+- [Token Transformation Pipeline](concepts/Token Transformation Pipeline.md)
+
+- [控制面 / 数据面架构](concepts/控制面 - 数据面架构.md)

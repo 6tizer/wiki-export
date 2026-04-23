@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 草稿
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/eabdce1ef9de4f4c852d11bad9ee6ad4
@@ -30,3 +30,13 @@ notion_id: eabdce1e-f9de-4f4c-852d-11bad9ee6ad4
 ## 来源引用
 
 - [摘要：Notion AI × Sub Agent：把检索隔离写进长期指令的实战](summaries/摘要：Notion AI × Sub Agent：把检索隔离写进长期指令的实战.md)（[原始对话](https://www.notion.so/)）
+
+- [摘要：A new way to think about composing skills to increase leverage: Skill Graphs 2.0](summaries/摘要：A new way to think about composing skills to increase leverage- Skill Graphs 2.0.md)（[原文](https://x.com/shivsakhuja/status/2047124337191444844)）
+
+## 关联概念
+
+- [Skill Graph](concepts/Skill Graph.md)
+
+- [原子-分子-化合物技能分层](concepts/原子-分子-化合物技能分层.md)
+
+- [Brain RAM 杠杆模型](concepts/Brain RAM 杠杆模型.md)

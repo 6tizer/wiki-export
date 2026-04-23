@@ -3,7 +3,7 @@ title: DFlash
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
@@ -32,6 +32,8 @@ DFlash 是一种基于 block diffusion 的 speculative decoding 加速方法。�
 
 - [摘要：Tree-based speculative decoding for Apple Silicon.](summaries/摘要：Tree-based speculative decoding for Apple Silicon.md)（[原文](https://x.com/QingQ77/status/2045500092527087861)）
 
+- [摘要：Worklanes, not just tabs.](summaries/摘要：Worklanes, not just tabs.md)（[原文](https://x.com/iotcoi/status/2046950805568164168)）
+
 ## 关联概念
 
 - [DDTree](concepts/DDTree.md)
@@ -45,3 +47,7 @@ DFlash 是一种基于 block diffusion 的 speculative decoding 加速方法。�
 - [ddtree-mlx](entities/ddtree-mlx.md)
 
 - [MLX 框架](entities/MLX 框架.md)
+
+- [vLLM](entities/vLLM.md)
+
+- [Qwen3.6-27B](entities/Qwen3.6-27B.md)

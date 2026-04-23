@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/73065867e3bc49ada6a200e7a05f8ddb
@@ -26,16 +26,30 @@ notion_id: 73065867-e3bc-49ad-a6a2-00e7a05f8ddb
 
 ## 来源引用
 
-- [原文链接](https://x.com/yangyi/status/2040272305277079728)｜《[DESIGN.md](http://design.md/)：用一个 Markdown 文件，让 AI 永远记住你的设计系统》｜源文章：DESIGN.md：用一个 Markdown 文件，让 AI 永远记住你的设计系统
+- [摘要：DESIGN.md：用一个 Markdown 文件，让 AI 永远记住你的设计系统](summaries/摘要：DESIGN.md：用一个 Markdown 文件，让 AI 永远记住你的设计系统.md)（[原文](https://x.com/yangyi/status/2040272305277079728)）
 
-- [原文链接](https://x.com/0xKingsKuan/status/2040357839714275647)｜《Google Stitch 2.0 + Claude Code：独立开发者终于有了自己的设计师》｜源文章：Google Stitch 2.0 + Claude Code：独立开发者终于有了自己的设计师
+- [摘要：Google Stitch 2.0 + Claude Code：独立开发者终于有了自己的设计师](summaries/摘要：Google Stitch 2.0 + Claude Code：独立开发者终于有了自己的设计师.md)（[原文](https://x.com/0xKingsKuan/status/2040357839714275647)）
 
 - [摘要：昨天才开源的浏览器扩展：一键获取任意网站 DESIGN.md](summaries/摘要：昨天才开源的浏览器扩展：一键获取任意网站 DESIGN.md.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MDc2OTQwMw%3D%3D&mid=2456446097&idx=1&sn=3af45a46ce3ee45352e8dd2f7ee413c3&chksm=8943077d2f9183c84189f4fd3139c21b605914b6c441ce81f1a33e60da1a82bf67439eb3a916#rd)）
 
 - [摘要：开源的Chrome 浏览器插件，一键扒光网站设计，让 AI 帮你复刻](summaries/摘要：开源的Chrome 浏览器插件，一键扒光网站设计，让 AI 帮你复刻.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2MjY1NDIzNg%3D%3D&mid=2247499291&idx=1&sn=e594d6f818da6cf6f862cb91bbefa3d8&chksm=cf669d5aca8d3d26ae43d2adca0d6a522314fa1e06aeef38d7a215e02fbbcd22bcbf5cd4f70f#rd)）
 
+- [摘要：DESIGN.md](summaries/摘要：DESIGN.md.md)（[原文](https://x.com/AYi_AInotes/status/2046673666394456497)）
+
+- [摘要：DESIGN.md 正式发布为开放标准！期待 Codex、Claude Code、Cursor 跟进支持](summaries/摘要：DESIGN.md 正式发布为开放标准！期待 Codex、Claude Code、Cursor 跟进支持.md)（[原文](https://x.com/shao__meng/status/2046758188834267480)）
+
 ## 关联概念
+
+- [Google Stitch](entities/Google Stitch.md)
+
+- [Design Token](concepts/Design Token.md)
+
+- [WCAG 可访问性](concepts/WCAG 可访问性.md)
 
 - [TypeUI](entities/TypeUI.md)
 
 - [design-md-chrome](entities/design-md-chrome.md)
+
+- [YAML frontmatter](concepts/YAML frontmatter.md)
+
+- [W3C DTCG 标准](concepts/W3C DTCG 标准.md)

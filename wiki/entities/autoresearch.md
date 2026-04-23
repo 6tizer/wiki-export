@@ -90,6 +90,8 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 
 - [摘要：A curated, high-signal index of autonomous improvement loops, research agents, and descendants inspired by](summaries/摘要：A curated, high-signal index of autonomous improvement loops, research agents, and descendants inspired by.md)（[原文](https://x.com/aiwithmayank/status/2046914454353510893)）
 
+- [摘要：new update to the LLM Knowledge base](summaries/摘要：new update to the LLM Knowledge base.md)（[原文](https://x.com/shannholmberg/status/2047013785857302550)）
+
 ## 关联概念
 
 - [Compound Engineering](concepts/Compound Engineering.md)

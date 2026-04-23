@@ -6,7 +6,7 @@ tags:
 - 记忆系统
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/ab005533aacb4dc7b3b484ca8fe67969
@@ -42,6 +42,8 @@ notion_id: ab005533-aacb-4dc7-b3b4-84ca8fe67969
 - 《OpenClaw 核心文档架构详尽分析与优化方案指南》｜X书签文章｜源文章：OpenClaw：用 Markdown 文件定义 AI Agent 大脑的「文件即代理」框架深度解析
 
 - 源文章：Hermes Agent 核心文档优化指南：让你的 AI 助手真正「越用越聪明」｜来源条目：[摘要：Hermes 核心文档架构详尽分析与优化方案指南](summaries/摘要：Hermes 核心文档架构详尽分析与优化方案指南.md)
+
+- [摘要：The @karpathy SOUL is now live:](summaries/摘要：The @karpathy SOUL is now live-.md)（[原文](https://x.com/aeonframework/status/2046964241211507055)）
 
 ## 关联概念
 

@@ -24,8 +24,16 @@ KV-aware routing 是一种在推理请求分发时感知 KV cache 状态的路�
 
 ## 来源引用
 
+- [摘要：Traditional ML Inference vs. LLM Inference](summaries/摘要：Traditional ML Inference vs. LLM Inference.md)（[原文](https://x.com/_avichawla/status/2026224423460843665)）
+
 - [摘要：Kimi K2.6 has landed, and it is live on Baseten!](summaries/摘要：Kimi K2.6 has landed, and it is live on Baseten!.md)（[原文](https://x.com/baseten/status/2046263526281576573)）
 
 ## 关联概念
 
 - [Kimi K2.6](entities/Kimi K2.6.md)
+
+- [KV Prefix Caching](concepts/KV Prefix Caching.md)
+
+- [Paged Attention](concepts/Paged Attention.md)
+
+- [Continuous batching](concepts/Continuous batching.md)

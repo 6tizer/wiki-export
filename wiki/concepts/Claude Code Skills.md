@@ -4,9 +4,9 @@ type: concept
 tags:
 - Coding Agent
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/991bbc8488a74c6580c90dd1433be967
@@ -42,5 +42,7 @@ Claude Code Skills 指 Claude Code 中可复用的技能扩展机制，通常以
 - 源页面：Logo Generator Skill：用 Gemini 一键生成 SVG Logo 和专业展示图
 
 - GitHub：[https://github.com/op7418/logo-generator-skill](https://github.com/op7418/logo-generator-skill)
+
+- [摘要：来了！来了！我把大家呼声最高的微信聊天记录解析全流程封装成了一个Skill](summaries/摘要：来了！来了！我把大家呼声最高的微信聊天记录解析全流程封装成了一个Skill.md)（[原文](https://x.com/gengdaJ/status/2046944097789993059)）
 
 - [摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题](summaries/摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题.md)（[原文](https://x.com/garrytan/status/2046981289031667961)）

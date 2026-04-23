@@ -3,7 +3,7 @@ title: Qwen Code
 type: entity
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
@@ -27,3 +27,13 @@ Qwen Code 是阿里巴巴 Qwen 团队推出的开源终端 AI 编程 Agent，强
 ## 来源引用
 
 - [原文链接](https://x.com/Alibaba_Qwen/status/2042551216769765449)｜《Qwen Code v0.14：用手机遥控你的服务器，终端 AI 编程助手的新玩法》｜源文章：Qwen Code v0.14：用手机遥控你的服务器，终端 AI 编程助手的新玩法
+
+- [摘要：Meet Qwen3-Coder-30B-A3B-Instruct-GGUF: a specialized 30B parameter coding assistant that's been optimized for efficiency. This model isn't just another chatbot. It's a powerhouse fine-tuned for under](summaries/摘要：Meet Qwen3-Coder-30B-A3B-Instruct-GGUF- a specialized 30B parameter coding assistant that's been optimized for efficiency. This model isn't just another chatbot. It's a powerhouse fine-tuned for under.md)（[原文](https://x.com/HuggingModels/status/2047160797911216364)）
+
+## 关联概念
+
+- [Qwen3-Coder-30B-A3B-Instruct-GGUF](entities/Qwen3-Coder-30B-A3B-Instruct-GGUF.md)
+
+- [Agentic Coding](concepts/Agentic Coding.md)
+
+- [Cline](entities/Cline.md)

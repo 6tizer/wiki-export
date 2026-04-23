@@ -6,7 +6,7 @@ tags:
 - 开发工具
 status: 审核中
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/39ee05afb1684bcb8b99f04c9ab1f838
@@ -28,5 +28,7 @@ ComfyUI 是以节点式工作流为核心的本地生成界面与编排工具，
 - 在视频创作场景中适合作为底层生成引擎
 
 ## 来源引用
+
+- [摘要：10 Github repos that replace $855/month of paid AI tools](summaries/摘要：10 Github repos that replace $855-month of paid AI tools.md)（[原文](https://x.com/DeRonin_/status/2046903404279009472)）
 
 - 源文章：开源视频 Agent 框架全景扫描：八个项目，哪个适合你？

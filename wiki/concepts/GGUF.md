@@ -4,9 +4,9 @@ type: concept
 tags:
 - LLM
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/635fe6e1bfdd4750b13b1c6546ace4c9
@@ -35,6 +35,10 @@ GGUF 是面向本地大模型推理场景的一种模型文件格式，常用于
 
 - [摘要：Okay this one is insane. A new 18B frankenstein model was just released on @huggingface — Beats the new Qwen3.6-35B-A3B on a 44-test suite despite requiring 12GB VRAM instead of 24GB 🤯](summaries/摘要：Okay this one is insane. A new 18B frankenstein model was just released on @huggingface — Beats the new Qwen3.6-35B-A3B on a 44-test suite despite requiring 12GB VRAM instead of 24GB 🤯.md)（[原文](https://x.com/leftcurvedev_/status/2045449352827580602)）
 
+- [摘要：Meet Qwen3-Coder-30B-A3B-Instruct-GGUF: a specialized 30B parameter coding assistant that's been optimized for efficiency. This model isn't just another chatbot. It's a powerhouse fine-tuned for under](summaries/摘要：Meet Qwen3-Coder-30B-A3B-Instruct-GGUF- a specialized 30B parameter coding assistant that's been optimized for efficiency. This model isn't just another chatbot. It's a powerhouse fine-tuned for under.md)（[原文](https://x.com/HuggingModels/status/2047160797911216364)）
+
+- [摘要：Meet ruvltra-claude-code: a GGUF-quantized model that's making waves in the AI community. This isn't just another code generator. It's a self-learning, swarm-optimized system that adapts as it works.](summaries/摘要：Meet ruvltra-claude-code- a GGUF-quantized model that's making waves in the AI community. This isn't just another code generator. It's a self-learning, swarm-optimized system that adapts as it works.md)（[原文](https://x.com/HuggingModels/status/2047160797772775537)）
+
 ## 关联概念
 
 - [Qwopus-GLM-18B-Merged-GGUF](entities/Qwopus-GLM-18B-Merged-GGUF.md)
@@ -50,3 +54,7 @@ GGUF 是面向本地大模型推理场景的一种模型文件格式，常用于
 - [MLX 框架](entities/MLX 框架.md)
 
 - [Qwen3.5-9B-GLM5.1-Distill-v1](entities/Qwen3.5-9B-GLM5.1-Distill-v1.md)
+
+- [RuvLTRA Claude Code](entities/RuvLTRA Claude Code.md)
+
+- [llama.cpp](entities/llama.cpp.md)

@@ -7,7 +7,7 @@ tags:
 - CLI 工具
 status: 审核中
 confidence: high
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8807c76b1e4a4d8680df35198ec709b5
@@ -29,3 +29,13 @@ tmux 是一个终端复用器，可以在单个终端窗口内创建多个会话
 ## 来源引用
 
 - [摘要：用 tmux 搭建 Agent Team 的终端舞台：Claude Code + Codex 多窗口协作入门](summaries/摘要：用 tmux 搭建 Agent Team 的终端舞台：Claude Code + Codex 多窗口协作入门.md)
+
+- [摘要：30 分钟精通 Claude Code](summaries/摘要：30 分钟精通 Claude Code.md)（[原文](https://x.com/SaitoWu/status/2046952505947648217)）
+
+## 关联概念
+
+- [Claude Code](entities/Claude Code.md)
+
+- [Git Worktree](concepts/Git Worktree.md)
+
+- [Slash 命令工作流](concepts/Slash 命令工作流.md)

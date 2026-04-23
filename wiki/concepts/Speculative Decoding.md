@@ -32,6 +32,8 @@ Speculative Decoding 是一种大模型推理加速范式。它先由更快的 d
 
 - [摘要：Tree-based speculative decoding for Apple Silicon.](summaries/摘要：Tree-based speculative decoding for Apple Silicon.md)（[原文](https://x.com/QingQ77/status/2045500092527087861)）
 
+- [摘要：Worklanes, not just tabs.](summaries/摘要：Worklanes, not just tabs.md)（[原文](https://x.com/iotcoi/status/2046950805568164168)）
+
 ## 关联概念
 
 - [DDTree](concepts/DDTree.md)
@@ -45,3 +47,7 @@ Speculative Decoding 是一种大模型推理加速范式。它先由更快的 d
 - [ddtree-mlx](entities/ddtree-mlx.md)
 
 - [Qwen3.5-27B](entities/Qwen3.5-27B.md)
+
+- [vLLM](entities/vLLM.md)
+
+- [Qwen3.6-27B](entities/Qwen3.6-27B.md)

@@ -3,7 +3,7 @@ title: GPT-Image-2
 type: entity
 tags:
 - 图像生成
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
@@ -38,7 +38,17 @@ GPT-Image-2 是 OpenAI 的图像生成与编辑模型。在这篇实测中，它
 
 - [摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。](summaries/摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA%3D%3D&mid=2247581929&idx=1&sn=6a712effd9a8be038430cdb37779664a&chksm=c1f685aae61a7de7eedcabb001c18193133287f8b36412cb2a5c9ae5cba2c130d99372441951#rd)）
 
+- [摘要：GPT-Image-2 爆款案例 + 完整提示词（X 高赞合集 · 可复制）](summaries/摘要：GPT-Image-2 爆款案例 + 完整提示词（X 高赞合集 · 可复制）.md)（[原文](https://x.com/Formulasearch/status/2046790896482455890)）
+
+- [摘要：坏了！这下真能玩了](summaries/摘要：坏了！这下真能玩了.md)（[原文](https://x.com/op7418/status/2046854932620525750)）
+
+- [摘要：GPT Image 2 Is 24 Hours Old. /last30days Became an Expert and Wrote Me Perfect Prompts](summaries/摘要：GPT Image 2 Is 24 Hours Old. -last30days Became an Expert and Wrote Me Perfect Prompts.md)（[原文](https://x.com/mvanhorn/status/2047016569923064055)）
+
 ## 关联概念
+
+- [图像提示词资产库](concepts/图像提示词资产库.md)
+
+- [仿真截图生成](concepts/仿真截图生成.md)
 
 - [Vibe Coding](concepts/Vibe Coding.md)
 
@@ -65,3 +75,13 @@ GPT-Image-2 是 OpenAI 的图像生成与编辑模型。在这篇实测中，它
 - [Touch Edit](concepts/Touch Edit.md)
 
 - [Nano Banana Pro](entities/Nano Banana Pro.md)
+
+- [静态概念图动态化](concepts/静态概念图动态化.md)
+
+- [last30days-skill](concepts/last30days-skill.md)
+
+- [思考模型重写](concepts/思考模型重写.md)
+
+- [精确像素比例控制](concepts/精确像素比例控制.md)
+
+- [场景-主体-细节-约束框架](concepts/场景-主体-细节-约束框架.md)

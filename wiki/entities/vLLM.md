@@ -31,6 +31,8 @@ vLLM 是面向大语言模型推理服务的高性能部署框架，强调吞吐
 
 - [原文链接](https://x.com/Zai_org/status/2044741938604093443)｜《GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」》｜源文章：GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」
 
+- [摘要：Worklanes, not just tabs.](summaries/摘要：Worklanes, not just tabs.md)（[原文](https://x.com/iotcoi/status/2046950805568164168)）
+
 ## 关联概念
 
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
@@ -38,3 +40,11 @@ vLLM 是面向大语言模型推理服务的高性能部署框架，强调吞吐
 - [GLM-5.1](entities/GLM-5.1.md)
 
 - [Tool Calling](concepts/Tool Calling.md)
+
+- [Qwen3.6-27B](entities/Qwen3.6-27B.md)
+
+- [DFlash](concepts/DFlash.md)
+
+- [DDTree](concepts/DDTree.md)
+
+- [Speculative Decoding](concepts/Speculative Decoding.md)

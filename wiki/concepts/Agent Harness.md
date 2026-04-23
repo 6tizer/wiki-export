@@ -4,7 +4,7 @@ type: concept
 tags:
 - Agent 编排
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
@@ -26,6 +26,8 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - 轻量 Harness 的价值常在于更透明、更容易读懂和二次开发
 
 ## 关联概念
+
+- [OpenHarness](entities/OpenHarness.md)
 
 - [Lifecycle Hooks](concepts/Lifecycle Hooks.md)
 
@@ -150,6 +152,8 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - [策略回放评测](concepts/策略回放评测.md)
 
 ## 来源引用
+
+- [摘要：Lightweight agent harness for building AI agents!](summaries/摘要：Lightweight agent harness for building AI agents!.md)（[原文](https://x.com/Sumanth_077/status/2046929191795593517)）
 
 - [摘要：What is an Agent Harness](summaries/摘要：What is an Agent Harness.md)（[原文](https://x.com/aparnadhinak/status/2046980769747533830)）
 

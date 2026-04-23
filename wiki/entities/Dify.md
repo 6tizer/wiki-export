@@ -39,6 +39,8 @@ Dify 是一个开源的 AI 应用开发平台，v1.0 引入插件化架构，支
 
 ## 来源引用
 
+- [摘要：10 Github repos that replace $855/month of paid AI tools](summaries/摘要：10 Github repos that replace $855-month of paid AI tools.md)（[原文](https://x.com/DeRonin_/status/2046903404279009472)）
+
 - [摘要：Dify v1.0 正式开源发布](summaries/摘要：Dify v1.0 正式开源发布.md)（字节笔记本，2025-03-01）
 
   - GitHub: [https://github.com/langgenius/dify](https://github.com/langgenius/dify)

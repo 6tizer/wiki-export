@@ -3,9 +3,9 @@ title: Think Before Coding
 type: concept
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: high
-last_compiled: '2026-04-13'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/4a508f69c46c4d2bb07aae83229d7d45
@@ -38,6 +38,12 @@ notion_id: 4a508f69-c46c-4d2b-b07a-ae83229d7d45
 
 - [Goal-Driven Execution](concepts/Goal-Driven Execution.md)
 
+- [Claude Code](entities/Claude Code.md)
+
+- [Codebase Q&A](concepts/Codebase Q&A.md)
+
+- [Slash 命令工作流](concepts/Slash 命令工作流.md)
+
 ## 来源引用
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzU3NTg5MjU1Mw%3D%3D&mid=2247496984&idx=1&sn=98f3a18047c1908f1b961052640e85a9&chksm=fc1c6bb03b47cbb0ba7d773e7d7e2f214a2492c4f081e9d9750d237912643aabf4e8b6628c58#rd)｜《一个 [CLAUDE.md](http://claude.md/) 文件竟然拿下 1.7 万 star，它到底写了什么》｜来源条目：[摘要：一个 CLAUDE.md 文件竟然拿下 1.7 万 star，它到底写了什么](summaries/摘要：一个 CLAUDE.md 文件竟然拿下 1.7 万 star，它到底写了什么.md)
@@ -45,3 +51,5 @@ notion_id: 4a508f69-c46c-4d2b-b07a-ae83229d7d45
 - [原文链接](https://x.com/axiaisacat/status/2044260023161831620)｜《Looking for a managed agents platform?》｜来源条目：[摘要：Looking for a managed agents platform?](summaries/摘要：Looking for a managed agents platform.md)
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0ODk2NDIyMQ%3D%3D&mid=2247502836&idx=1&sn=bc1037b3490abbe4c22277672f9f0191&chksm=e86fcdd39fd3d2961bc8025efd7d093f04b7608ae7887433e37539f88532a95a6bfee7812824#rd)｜《就一个 skills，凭啥 4w Star？》｜来源条目：[摘要：就一个 skills，凭啥 4w Star？](summaries/摘要：就一个 skills，凭啥 4w Star？.md)
+
+- [摘要：30 分钟精通 Claude Code](summaries/摘要：30 分钟精通 Claude Code.md)（[原文](https://x.com/SaitoWu/status/2046952505947648217)）

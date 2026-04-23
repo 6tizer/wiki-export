@@ -4,7 +4,7 @@ type: concept
 tags:
 - 记忆系统
 - 工作流
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-14'
 source_tags: Agent, LLM, 自动化

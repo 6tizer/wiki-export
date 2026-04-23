@@ -9,7 +9,7 @@ tags:
 - RAG/检索
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/4b23cf57ea1a43bba6ab7a447cfcede1
@@ -38,6 +38,14 @@ Hot Cache 是一种会话级高频知识缓存层，通常把最近的重要上�
 
 - [Obsidian Bases](concepts/Obsidian Bases.md)
 
+- [第二大脑系统](concepts/第二大脑系统.md)
+
+- [autoresearch](entities/autoresearch.md)
+
+- [Contradiction Callouts](concepts/Contradiction Callouts.md)
+
 ## 来源引用
 
 - [摘要：custom slash commands](summaries/摘要：custom slash commands.md)（[原文](https://x.com/hasantoxr/status/2046174499226403038)）
+
+- [摘要：new update to the LLM Knowledge base](summaries/摘要：new update to the LLM Knowledge base.md)（[原文](https://x.com/shannholmberg/status/2047013785857302550)）

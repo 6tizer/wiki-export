@@ -4,9 +4,9 @@ type: concept
 tags:
 - Coding Agent
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: high
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/16953cb5369a45628e01882f5fb62c25
@@ -72,3 +72,5 @@ Thin Harness, Fat Skills 是一种 Agent 架构原则：把通用运行时尽量
 - [摘要：模型是引擎，系统是车身](summaries/摘要：模型是引擎，系统是车身.md)（[原文](https://x.com/garrytan/status/2045798603059548364)）
 
 - [摘要：How to really stop your agents from making the same mistakes](summaries/摘要：How to really stop your agents from making the same mistakes.md)（[原文](https://x.com/garrytan/status/2046876981711769720)）
+
+- [摘要：skills](summaries/摘要：skills.md)（[原文](https://x.com/garrytan/status/2047183884266402275)）

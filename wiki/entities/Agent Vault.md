@@ -30,3 +30,7 @@ Agent Vault 是 Infisical 推出的开源 HTTP 凭证代理与保险库，目标
 ## 来源引用
 
 - [摘要：Agent Vault never reveals vault-stored credentials to agents](summaries/摘要：Agent Vault never reveals vault-stored credentials to agents.md)（[原文](https://x.com/dangtony98/status/2046983159502586323)）
+
+- [摘要：Agent Vault: The Open Source Credential Proxy and Vault for Agents](summaries/摘要：Agent Vault- The Open Source Credential Proxy and Vault for Agents.md)（[原文](https://x.com/dangtony98/status/2046982854710857762)）
+
+- [摘要：A dream come true for every human anxious about their agents leaking secrets.](summaries/摘要：A dream come true for every human anxious about their agents leaking secrets.md)（[原文](https://x.com/dangtony98/status/2047036513536622918)）

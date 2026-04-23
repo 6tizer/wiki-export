@@ -3,7 +3,7 @@ title: Documentary Montage
 type: concept
 tags:
 - 内容创作
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''

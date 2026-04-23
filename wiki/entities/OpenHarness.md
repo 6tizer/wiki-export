@@ -2,11 +2,11 @@
 title: OpenHarness
 type: entity
 tags:
-- OpenClaw
-- 工作流
+- Agent 框架
+- Agent 编排
 status: 审核中
 confidence: high
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/6b6f273febd242bf9ca08d4a8ec0906c
@@ -15,9 +15,9 @@ notion_id: 6b6f273f-ebd2-42bf-9ca0-8d4a8ec0906c
 
 ## 定义
 
-OpenHarness 是清华 THUNLP 实验室发布的开源 Harness 框架，基于 Harness Engineering（驾驭工程）理念构建，支持 7*24 小时不间断自治运行的 AI 代理执行框架，是 OpenClaw 的黄金搭档。
+OpenHarness 是一个开源 Agent Harness 框架，目标是为 LLM 补上工具、记忆、权限与协作等执行基础设施，适合作为可研究、可改造的轻量底座。
 
-GitHub: [https://github.com/thu-nmrc/OpenHarness](https://github.com/thu-nmrc/OpenHarness)
+GitHub: [https://github.com/HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)
 
 ## 核心组件（对应 Harness Engineering 六大组件）
 
@@ -55,6 +55,14 @@ GitHub: [https://github.com/thu-nmrc/OpenHarness](https://github.com/thu-nmrc/Op
 
 基于文件系统 IPC，协调器通过 inbox/outbox 目录分发任务
 
+### 模块化能力面
+
+- 工具、Skills、插件、权限、记忆、任务与多 Agent 协作被视为一等子系统
+
+- 默认询问、自动放行、计划只读等执行模式体现出明显的权限分层思想
+
+- 可通过 ohmo 这类上层代理接入 Feishu、Slack、Telegram、Discord 等入口，延展到真实工作流
+
 ## 关键设计
 
 - **外部化验证**：验证脚本独立于 AI 主体，避免「自证完成」的偏见
@@ -64,12 +72,26 @@ GitHub: [https://github.com/thu-nmrc/OpenHarness](https://github.com/thu-nmrc/Op
 ## 安装
 
 ```bash
-git clone https://github.com/thu-nmrc/OpenHarness ~/.openclaw/workspace/harness
+git clone https://github.com/HKUDS/OpenHarness ~/.openclaw/workspace/harness
 ```
 
 OpenClaw 自动识别 [SKILL.md](http://skill.md/)，赋予 Harness 能力。
 
+## 关联概念
+
+- [Agent Harness](concepts/Agent Harness.md)
+
+- [权限与安全层](concepts/权限与安全层.md)
+
+- [持久化跨会话记忆](concepts/持久化跨会话记忆.md)
+
+- [上下文压缩](concepts/上下文压缩.md)
+
+- [多 Agent 协作工作流](concepts/多 Agent 协作工作流.md)
+
 ## 来源引用
+
+- [摘要：Lightweight agent harness for building AI agents!](summaries/摘要：Lightweight agent harness for building AI agents!.md)（[原文](https://x.com/Sumanth_077/status/2046929191795593517)）
 
 - [摘要：首发开源7*24小时不停干活的Harness for OpenClaw！](summaries/摘要：首发开源724小时不停干活的Harness for OpenClaw！.md)
 

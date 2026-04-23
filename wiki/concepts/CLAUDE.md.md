@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0927d29642cb48a0b3bfc1243bde0b88
@@ -35,6 +35,12 @@ curl https://raw.githubusercontent.com/.../CLAUDE.md >> CLAUDE.md
 ```
 
 ## 关联概念
+
+- [规划/检索/执行三层隔离](concepts/规划-检索-执行三层隔离.md)
+
+- [自退火循环](concepts/自退火循环.md)
+
+- [内容创作工程化](concepts/内容创作工程化.md)
 
 - [Agent Skills](concepts/Agent Skills.md)
 
@@ -80,7 +86,13 @@ curl https://raw.githubusercontent.com/.../CLAUDE.md >> CLAUDE.md
 
 - [caveman](entities/caveman.md)
 
+- [Codebase Q&A](concepts/Codebase Q&A.md)
+
 ## 来源引用
+
+- [摘要：how I automate my X contents pipeline using claude code.](summaries/摘要：how I automate my X contents pipeline using claude code.md)（[原文](https://x.com/exploraX_/status/2046950874237337808)）
+
+- [摘要：30 分钟精通 Claude Code](summaries/摘要：30 分钟精通 Claude Code.md)（[原文](https://x.com/SaitoWu/status/2046952505947648217)）
 
 - [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)（[原文](https://x.com/pritipatelfgoo/status/2045105855662809267)）
 

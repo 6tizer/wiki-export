@@ -33,6 +33,8 @@ Workspace Agents 是 OpenAI 在 ChatGPT 中推出的组织级 Agent 产品形态
 
 - [摘要：刚刚！OpenAI 凌晨甩出 Workspace Agents：一句话，给整个团队造一个 Agent](summaries/摘要：刚刚！OpenAI 凌晨甩出 Workspace Agents：一句话，给整个团队造一个 Agent.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU3NTg5MjU1Mw%3D%3D&mid=2247497089&idx=1&sn=4cc6bfa310b514c8e9d8b4367bf700c8&chksm=fc3fbce205cb5b3072e644178272bd0ccbe6c46ff678e7026f9c4847273899fff95151fd9e4f#rd)）
 
+- [摘要：Your next 10 hires won't be human.](summaries/摘要：Your next 10 hires won't be human.md)（[原文](https://x.com/jiayuan_jy/status/2047014163097227478)）
+
 ## 关联概念
 
 - [Codex](entities/Codex.md)
@@ -44,3 +46,13 @@ Workspace Agents 是 OpenAI 在 ChatGPT 中推出的组织级 Agent 产品形态
 - [Agent 治理](concepts/Agent 治理.md)
 
 - [Compliance API](concepts/Compliance API.md)
+
+- [Multica](entities/Multica.md)
+
+- [Agent Runtime](concepts/Agent Runtime.md)
+
+- [Agent Skills](concepts/Agent Skills.md)
+
+- [Workspace-level Isolation](concepts/Workspace-level Isolation.md)
+
+- [Coding Agent](concepts/Coding Agent.md)

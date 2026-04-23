@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/698addfbefd54f35a35cac9e790bd847
@@ -38,6 +38,8 @@ git worktree remove ../feature-branch               # 删除 worktree
 ```
 
 ## 来源引用
+
+- [摘要：30 分钟精通 Claude Code](summaries/摘要：30 分钟精通 Claude Code.md)（[原文](https://x.com/SaitoWu/status/2046952505947648217)）
 
 - [摘要：Compound Engineering - 4/17/2026](summaries/摘要：Compound Engineering - 4-17-2026.md)（[原文](https://x.com/trevin/status/2045245249392607443)）
 
@@ -80,3 +82,9 @@ git worktree remove ../feature-branch               # 删除 worktree
 - Claude Code Desktop
 
 - [Claude Code Routines](concepts/Claude Code Routines.md)
+
+- [tmux](entities/tmux.md)
+
+- [Slash 命令工作流](concepts/Slash 命令工作流.md)
+
+- [Codebase Q&A](concepts/Codebase Q&A.md)

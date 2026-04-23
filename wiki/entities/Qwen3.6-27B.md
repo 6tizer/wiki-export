@@ -49,8 +49,20 @@ Qwen3.6-27B 是阿里通义千问发布的 27B 参数稠密开源模型，主打
 
 - [Thinking Preservation](concepts/Thinking Preservation.md)
 
+- [DFlash](concepts/DFlash.md)
+
+- [DDTree](concepts/DDTree.md)
+
+- [vLLM](entities/vLLM.md)
+
+- [Speculative Decoding](concepts/Speculative Decoding.md)
+
 ## 来源引用
 
 - [摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb](summaries/摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb.md)（[原文](https://x.com/hxiao/status/2047004358500614152)）
 
 - [摘要：Qwen3.6-27B](summaries/摘要：Qwen3.6-27B.md)（[原文](https://x.com/Alibaba_Qwen/status/2046939764428009914)）
+
+- [摘要：Worklanes, not just tabs.](summaries/摘要：Worklanes, not just tabs.md)（[原文](https://x.com/iotcoi/status/2046950805568164168)）
+
+- [摘要：Qwen 3.6 27B model is available on Ollama!](summaries/摘要：Qwen 3.6 27B model is available on Ollama!.md)（[原文](https://x.com/ollama/status/2047066252523507916)）

@@ -28,3 +28,5 @@ eBPF 网络隔离是利用内核态可编程能力，对沙箱实例之间以及
 ## 来源引用
 
 - [摘要：Blazing-fast cold start:](summaries/摘要：Blazing-fast cold start-.md)（[原文](https://x.com/nash_su/status/2046778396844454105)）
+
+- [摘要：腾讯云开源了 AI Agent 沙盒 Cube Sandbox，Rust 编写，Apache 2.0 协议。](summaries/摘要：腾讯云开源了 AI Agent 沙盒 Cube Sandbox，Rust 编写，Apache 2.0 协议。.md)（[原文](https://x.com/0xLogicrw/status/2046515815940592100)）

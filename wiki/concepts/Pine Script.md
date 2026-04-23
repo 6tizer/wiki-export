@@ -3,9 +3,9 @@ title: Pine Script
 type: concept
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/64c0543b38c24425a26c9543736407e3
@@ -30,6 +30,8 @@ Pine Script 是 TradingView 生态中的专用脚本语言，用于编写指标�
 
 - [原文链接](https://x.com/milesdeutscher/status/2044536031991763414)｜《How to Connect Claude to TradingView (FULL GUIDE)》｜源文章：Claude × TradingView：用 MCP 把 AI 变成你的专属交易桌面助手
 
+- [摘要：Build Your First TradingView Indicator with Claude (Full Guide)](summaries/摘要：Build Your First TradingView Indicator with Claude (Full Guide).md)（[原文](https://x.com/KoroushAK/status/2046950514743529688)）
+
 ## 关联概念
 
 - [Claude Code](entities/Claude Code.md)
@@ -37,3 +39,7 @@ Pine Script 是 TradingView 生态中的专用脚本语言，用于编写指标�
 - [TradingView MCP Bridge](entities/TradingView MCP Bridge.md)
 
 - [Chrome DevTools Protocol](concepts/Chrome DevTools Protocol.md)
+
+- [Open Interest](concepts/Open Interest.md)
+
+- [ZCT Momentum Filter](concepts/ZCT Momentum Filter.md)

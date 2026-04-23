@@ -4,7 +4,7 @@ type: concept
 tags:
 - OpenClaw
 - Agent 技能
-status: 草稿
+status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''

@@ -67,6 +67,8 @@ kyegomez 的 Swarms 框架提供了具体的 Swarms 编排模式：
 
 - [摘要：ziggy-llm](summaries/摘要：ziggy-llm.md)（[原文](https://x.com/zxytim/status/2046255419178500408)）
 
+- [摘要：Meet ruvltra-claude-code: a GGUF-quantized model that's making waves in the AI community. This isn't just another code generator. It's a self-learning, swarm-optimized system that adapts as it works.](summaries/摘要：Meet ruvltra-claude-code- a GGUF-quantized model that's making waves in the AI community. This isn't just another code generator. It's a self-learning, swarm-optimized system that adapts as it works.md)（[原文](https://x.com/HuggingModels/status/2047160797772775537)）
+
 ## 关联概念
 
 - [Kimi K2.6](entities/Kimi K2.6.md)
@@ -82,3 +84,5 @@ kyegomez 的 Swarms 框架提供了具体的 Swarms 编排模式：
 - [阶段式并行执行](concepts/阶段式并行执行.md)
 
 - [Subagents 并行](concepts/Subagents 并行.md)
+
+- [RuvLTRA Claude Code](entities/RuvLTRA Claude Code.md)

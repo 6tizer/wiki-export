@@ -3,7 +3,7 @@ title: Codex 插件系统
 type: concept
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-19'
 source_tags: ''

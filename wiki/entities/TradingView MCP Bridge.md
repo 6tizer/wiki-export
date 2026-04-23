@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8fe8c2b16ae54741858dd0dcbded9eac
@@ -33,6 +33,8 @@ TradingView MCP Bridge 是一个把 [Claude Code](entities/Claude Code.md) 与�
 
 - [原文链接](https://x.com/milesdeutscher/status/2044536031991763414)｜《How to Connect Claude to TradingView (FULL GUIDE)》｜源文章：Claude × TradingView：用 MCP 把 AI 变成你的专属交易桌面助手
 
+- [摘要：Build Your First TradingView Indicator with Claude (Full Guide)](summaries/摘要：Build Your First TradingView Indicator with Claude (Full Guide).md)（[原文](https://x.com/KoroushAK/status/2046950514743529688)）
+
 ## 关联概念
 
 - [MCP 协议](concepts/MCP 协议.md)
@@ -40,3 +42,9 @@ TradingView MCP Bridge 是一个把 [Claude Code](entities/Claude Code.md) 与�
 - [Chrome DevTools Protocol](concepts/Chrome DevTools Protocol.md)
 
 - [Claude Code](entities/Claude Code.md)
+
+- [Pine Script](concepts/Pine Script.md)
+
+- [Open Interest](concepts/Open Interest.md)
+
+- [ZCT Momentum Filter](concepts/ZCT Momentum Filter.md)

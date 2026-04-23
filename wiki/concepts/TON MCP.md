@@ -4,7 +4,7 @@ type: concept
 tags:
 - Agent 技能
 - Crypto/DeFi
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''

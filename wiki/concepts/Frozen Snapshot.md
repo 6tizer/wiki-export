@@ -3,7 +3,7 @@ title: Frozen Snapshot
 type: concept
 tags:
 - 记忆系统
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''

@@ -6,7 +6,7 @@ tags:
 - 安全/隐私
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/5e76ad0257d24e3ea9693d57d6576aca
@@ -32,3 +32,5 @@ E2B 是一个面向 AI 应用的沙盒运行环境服务，在这篇文章里作
 - 《Clone & Install》｜X书签｜2026-04-14｜[原文链接](https://x.com/wsl8297/status/2044052818022281642)｜[源页面](https://www.notion.so/343701074b6881f997fbdb5ecd25a32c)
 
 - [摘要：Blazing-fast cold start:](summaries/摘要：Blazing-fast cold start-.md)（[原文](https://x.com/nash_su/status/2046778396844454105)）
+
+- [摘要：腾讯云开源了 AI Agent 沙盒 Cube Sandbox，Rust 编写，Apache 2.0 协议。](summaries/摘要：腾讯云开源了 AI Agent 沙盒 Cube Sandbox，Rust 编写，Apache 2.0 协议。.md)（[原文](https://x.com/0xLogicrw/status/2046515815940592100)）

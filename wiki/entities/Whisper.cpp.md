@@ -3,9 +3,9 @@ title: Whisper.cpp
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/a45202f1eb064672a54d76e1b77b481a
@@ -33,3 +33,13 @@ Whisper.cpp 是 OpenAI Whisper 语音识别模型的 C/C++ 移植版，支持在
 - [摘要：Meeting Minutes 本地 AI 会议助手](summaries/摘要：Meeting Minutes 本地 AI 会议助手.md)（CTOLib码库，2025-03-04）
 
   - GitHub: [https://github.com/Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
+
+- [摘要：Obsidian + AI：8 个值得搭的自动化工作流，记得收藏！](summaries/摘要：Obsidian + AI：8 个值得搭的自动化工作流，记得收藏！.md)（[原文](https://x.com/xiangxiang103/status/2046845848244617468)）
+
+## 关联概念
+
+- [Obsidian](entities/Obsidian.md)
+
+- [Claude Code](entities/Claude Code.md)
+
+- [OpenClaw](entities/OpenClaw.md)

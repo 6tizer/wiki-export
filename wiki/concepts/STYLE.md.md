@@ -6,7 +6,7 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/bba51b1e51554f2388b0cc3af9a71be5
@@ -28,6 +28,8 @@ notion_id: bba51b1e-5155-4f23-88b0-cc3af9a71be5
 ## 来源引用
 
 - 源文章：OpenClaw：用 Markdown 文件定义 AI Agent 大脑的「文件即代理」框架深度解析
+
+- [摘要：The @karpathy SOUL is now live:](summaries/摘要：The @karpathy SOUL is now live-.md)（[原文](https://x.com/aeonframework/status/2046964241211507055)）
 
 ## 关联概念
 

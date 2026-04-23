@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-19'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/cef838ab74184abe8b98007cf72a8bd5
@@ -29,6 +29,10 @@ notion_id: cef838ab-7418-4abe-8b98-007cf72a8bd5
 
 - 2026-04-18｜《我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线》｜来源条目：[摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线](summaries/摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线.md)｜原文链接：[https://mp.weixin.qq.com/s?__biz=MzI4MTIzNDE2NA==&mid=2247484788&idx=1&sn=cba1aa9f29e886f730d0178eef8f1a03&chksm=ea5f4895b2405b442b52d72b68edbdd49a7375e2eb08bb943ca674778d50fd46582b0fd37b90#rd](https://mp.weixin.qq.com/s?__biz=MzI4MTIzNDE2NA%3D%3D&mid=2247484788&idx=1&sn=cba1aa9f29e886f730d0178eef8f1a03&chksm=ea5f4895b2405b442b52d72b68edbdd49a7375e2eb08bb943ca674778d50fd46582b0fd37b90#rd)
 
+- [摘要：5 Agent Design patterns for Long-running AI Agents](summaries/摘要：5 Agent Design patterns for Long-running AI Agents.md)（[原文](https://x.com/GoogleCloudTech/status/2046989964077146490)）
+
+- [摘要：Your next 10 hires won't be human.](summaries/摘要：Your next 10 hires won't be human.md)（[原文](https://x.com/jiayuan_jy/status/2047014163097227478)）
+
 ### 关联概念
 
 - Windsurf
@@ -42,3 +46,13 @@ notion_id: cef838ab-7418-4abe-8b98-007cf72a8bd5
 - [Skills Pipeline](concepts/Skills Pipeline.md)
 
 - [角色型 Agent](concepts/角色型 Agent.md)
+
+- [Multica](entities/Multica.md)
+
+- [Workspace Agents](entities/Workspace Agents.md)
+
+- [Agent Skills](concepts/Agent Skills.md)
+
+- [Workspace-level Isolation](concepts/Workspace-level Isolation.md)
+
+- [Coding Agent](concepts/Coding Agent.md)

@@ -55,6 +55,8 @@ notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 
 - [摘要：开源的Chrome 浏览器插件，一键扒光网站设计，让 AI 帮你复刻](summaries/摘要：开源的Chrome 浏览器插件，一键扒光网站设计，让 AI 帮你复刻.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2MjY1NDIzNg%3D%3D&mid=2247499291&idx=1&sn=e594d6f818da6cf6f862cb91bbefa3d8&chksm=cf669d5aca8d3d26ae43d2adca0d6a522314fa1e06aeef38d7a215e02fbbcd22bcbf5cd4f70f#rd)）
 
+- [摘要：New from K-Dense: mimeo.](summaries/摘要：New from K-Dense- mimeo.md)（[原文](https://x.com/k_dense_ai/status/2047020939590992051)）
+
 ## 关联概念
 
 - [Agent Skills](concepts/Agent Skills.md)
@@ -82,6 +84,8 @@ notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 - [渐进式披露](concepts/渐进式披露.md)
 
 - [AGENTS.md](concepts/AGENTS.md.md)
+
+- [mimeo](entities/mimeo.md)
 
 - [awesome-niuma-skills](entities/awesome-niuma-skills.md)
 

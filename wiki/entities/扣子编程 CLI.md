@@ -3,7 +3,7 @@ title: 扣子编程 CLI
 type: entity
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''

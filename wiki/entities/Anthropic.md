@@ -40,6 +40,8 @@ Anthropic 是一家以安全、可解释性与价值观对齐为核心叙事的 
 
 - [摘要：Anthropic said Mythos was too dangerous to release. Then four random guys in a Discord gained access on day one by guessing the URL...](summaries/摘要：Anthropic said Mythos was too dangerous to release. Then four random guys in a Discord gained access on day one by guessing the URL.md)（[原文](https://x.com/JoshKale/status/2046774243799511156)）
 
+- [摘要：Last month, we published our look into what 81,000 people told us they want from AI.](summaries/摘要：Last month, we published our look into what 81,000 people told us they want from AI.md)（[原文](https://www.anthropic.com/research/81k-economics)）
+
 ## 关联概念
 
 - [MCP 协议](concepts/MCP 协议.md)
@@ -75,3 +77,9 @@ Anthropic 是一家以安全、可解释性与价值观对齐为核心叙事的 
 - [凭证轮换](concepts/凭证轮换.md)
 
 - [端点枚举](concepts/端点枚举.md)
+
+- [AI 暴露度](concepts/AI 暴露度.md)
+
+- [岗位替代焦虑](concepts/岗位替代焦虑.md)
+
+- [工作范围扩展](concepts/工作范围扩展.md)

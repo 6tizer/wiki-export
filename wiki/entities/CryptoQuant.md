@@ -3,7 +3,7 @@ title: CryptoQuant
 type: entity
 tags:
 - Crypto/DeFi
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''

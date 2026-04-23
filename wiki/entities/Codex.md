@@ -8,7 +8,7 @@ tags:
 - 安全/隐私
 status: 审核中
 confidence: high
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/249af11e2ddb4404b6cd8ac5e85946c4
@@ -90,6 +90,8 @@ Codex 是 OpenAI 推出的 AI 编程 Agent，从编程助手向全面 **AI 开�
 - [摘要：刚刚！OpenAI 凌晨甩出 Workspace Agents：一句话，给整个团队造一个 Agent](summaries/摘要：刚刚！OpenAI 凌晨甩出 Workspace Agents：一句话，给整个团队造一个 Agent.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU3NTg5MjU1Mw%3D%3D&mid=2247497089&idx=1&sn=4cc6bfa310b514c8e9d8b4367bf700c8&chksm=fc3fbce205cb5b3072e644178272bd0ccbe6c46ff678e7026f9c4847273899fff95151fd9e4f#rd)）
 
 - [摘要：Agent 可以被分享以后，协作自然而然发生](summaries/摘要：Agent 可以被分享以后，协作自然而然发生.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA%3D%3D&mid=2247496617&idx=1&sn=16a34380d19c26568405fa6523bea315&chksm=fa72b49794e86068018fa9708f018db395ff789a84e7d185aa0852a9b07da08d0b7f8da89718#rd)）
+
+- [摘要：Obsidian + AI：8 个值得搭的自动化工作流，记得收藏！](summaries/摘要：Obsidian + AI：8 个值得搭的自动化工作流，记得收藏！.md)（[原文](https://x.com/xiangxiang103/status/2046845848244617468)）
 
 ## 关联概念
 

@@ -4,7 +4,7 @@ type: concept
 tags:
 - Agent 编排
 - 工作流
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
@@ -27,6 +27,8 @@ notion_id: f24ad430-054f-4646-b2ab-f5d56d20483d
 
 ## 来源引用
 
+- [摘要：Lightweight agent harness for building AI agents!](summaries/摘要：Lightweight agent harness for building AI agents!.md)（[原文](https://x.com/Sumanth_077/status/2046929191795593517)）
+
 - [原文链接](https://x.com/AlchainHust/status/2041144820098367592)｜《花叔用多个 OpenClaw Agent 联动，给自己的推文自动生成运营分析报告》｜源文章：花叔用多个 OpenClaw Agent 联动，给自己的推文自动生成运营分析报告
 
 - [原文链接](https://x.com/YuLin807/status/2041667865477312551)｜《用 50 行 Python 跑通 Google A2A 协议：Hermes + OpenClaw 的多 Agent 互联实践》｜源文章：用 50 行 Python 跑通 Google A2A 协议：Hermes + OpenClaw 的多 Agent 互联实践
@@ -46,6 +48,10 @@ notion_id: f24ad430-054f-4646-b2ab-f5d56d20483d
 - [摘要：Agent 可以被分享以后，协作自然而然发生](summaries/摘要：Agent 可以被分享以后，协作自然而然发生.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA%3D%3D&mid=2247496617&idx=1&sn=16a34380d19c26568405fa6523bea315&chksm=fa72b49794e86068018fa9708f018db395ff789a84e7d185aa0852a9b07da08d0b7f8da89718#rd)）
 
 ## 关联概念
+
+- [Agent Harness](concepts/Agent Harness.md)
+
+- [OpenHarness](entities/OpenHarness.md)
 
 - [PPT Master](entities/PPT Master.md)
 

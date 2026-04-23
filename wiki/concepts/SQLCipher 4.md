@@ -36,6 +36,12 @@ SQLCipher 4 是 SQLite 的加密扩展版本，用于对本地数据库文件进
 
 - [暗知识编译](concepts/暗知识编译.md)
 
+- [wechat-daily](entities/wechat-daily.md)
+
+- [Frida 密钥提取](concepts/Frida 密钥提取.md)
+
+- [微信聊天日报](concepts/微信聊天日报.md)
+
 ## 来源引用
 
 - wechat-decrypt + OpenClaw：让 AI 帮你把微信群消息变成每日日报（[原文](https://x.com/eternityspring/status/2030669435728708005)，来源条目）
@@ -43,3 +49,5 @@ SQLCipher 4 是 SQLite 的加密扩展版本，用于对本地数据库文件进
 - Wechat-Cli：将微信聊天记录导入 Karpathy 的 LLM Wiki（[原文](https://mp.weixin.qq.com/s?__biz=MzI2MzA5NjA4MQ%3D%3D&mid=2665365507&idx=1&sn=8efb2e3bb093dcbda21aed892627d696&chksm=f0cdf306ccc0b7fcbef97f62e290b698001da1676e7ee11075b3dbb2b100e3c12bea51b047c6#rd)，源文章）
 
 - [摘要：从命令行查询本地微信数据](summaries/摘要：从命令行查询本地微信数据.md)（[原文](https://x.com/jakevin7/status/2044983033418461386)）
+
+- [摘要：来了！来了！我把大家呼声最高的微信聊天记录解析全流程封装成了一个Skill](summaries/摘要：来了！来了！我把大家呼声最高的微信聊天记录解析全流程封装成了一个Skill.md)（[原文](https://x.com/gengdaJ/status/2046944097789993059)）

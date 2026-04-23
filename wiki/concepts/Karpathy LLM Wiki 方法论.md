@@ -179,7 +179,11 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 
 - [Architecture Decision Records](concepts/Architecture Decision Records.md)
 
+- [FalkorDB](entities/FalkorDB.md)
+
 ## 来源引用
+
+- [摘要：queryable Property Graph database to leverage sparse matrices](summaries/摘要：queryable Property Graph database to leverage sparse matrices.md)（[原文](https://x.com/akshay_pachaar/status/2047220248081015110)）
 
 - [摘要：llm_wiki：基于 Karpathy 思想的个人知识库，有人做成桌面应用了！](summaries/摘要：llm_wiki：基于 Karpathy 思想的个人知识库，有人做成桌面应用了！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY5NzIxODM2MQ%3D%3D&mid=2247484633&idx=1&sn=311e49b83bfa4f98e042c17c90cc4aaf&chksm=f55972c32b51ea33bf6130aee2a9d5b519a1f41f3905bdf9249b9ffa3524e430c8fd577026ba#rd)）
 

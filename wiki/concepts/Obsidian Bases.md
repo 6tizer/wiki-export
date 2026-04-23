@@ -5,7 +5,7 @@ tags:
 - 知识管理
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/3b873956ae0d4cb484ac302ad22ab812
@@ -36,6 +36,14 @@ Obsidian Bases 是 Obsidian 的结构化视图能力，用于把 Markdown 笔记
 
 - [Slash 命令工作流](concepts/Slash 命令工作流.md)
 
+- [第二大脑系统](concepts/第二大脑系统.md)
+
+- [置信度评分](concepts/置信度评分.md)
+
+- [Contradiction Callouts](concepts/Contradiction Callouts.md)
+
 ## 来源引用
 
 - [摘要：custom slash commands](summaries/摘要：custom slash commands.md)（[原文](https://x.com/hasantoxr/status/2046174499226403038)）
+
+- [摘要：new update to the LLM Knowledge base](summaries/摘要：new update to the LLM Knowledge base.md)（[原文](https://x.com/shannholmberg/status/2047013785857302550)）

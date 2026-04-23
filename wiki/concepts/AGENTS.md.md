@@ -71,6 +71,10 @@ notion_id: 5da673ca-2377-4844-98ec-12f5679bfbf3
 
 - [摘要：markdown knowledge bases](summaries/摘要：markdown knowledge bases.md)（[原文](https://x.com/lucaronin/status/2046877445748322418)）
 
+- [摘要：New from K-Dense: mimeo.](summaries/摘要：New from K-Dense- mimeo.md)（[原文](https://x.com/k_dense_ai/status/2047020939590992051)）
+
+- [摘要：A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all.](summaries/摘要：A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all.md)（[原文](https://x.com/augmentcode/status/2047164534310494709)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)
@@ -102,6 +106,8 @@ notion_id: 5da673ca-2377-4844-98ec-12f5679bfbf3
 - [USER.md](concepts/USER.md.md)
 
 - [SKILL.md](concepts/SKILL.md.md)
+
+- [mimeo](entities/mimeo.md)
 
 - [Subdirectory Hints](concepts/Subdirectory Hints.md)
 

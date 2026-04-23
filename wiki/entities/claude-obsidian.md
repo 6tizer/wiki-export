@@ -9,7 +9,7 @@ tags:
 - RAG/检索
 status: 审核中
 confidence: high
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/1f1ac4dbf52442eabf913f64a1a18dcc
@@ -52,8 +52,16 @@ claude-obsidian 是一个面向 Claude Code 的 Obsidian 插件与技能包组�
 
 - [Slash 命令工作流](concepts/Slash 命令工作流.md)
 
+- [第二大脑系统](concepts/第二大脑系统.md)
+
+- [Contradiction Callouts](concepts/Contradiction Callouts.md)
+
+- [置信度评分](concepts/置信度评分.md)
+
 ## 来源引用
 
 - [原文链接](https://x.com/defileo/status/2043762213597397179)｜《Claude + Obsidian | How to use your second brain》｜源文章：claude-obsidian：用 Karpathy 的 LLM Wiki 模式打造永不遗忘的第二大脑
 
 - [摘要：custom slash commands](summaries/摘要：custom slash commands.md)（[原文](https://x.com/hasantoxr/status/2046174499226403038)）
+
+- [摘要：new update to the LLM Knowledge base](summaries/摘要：new update to the LLM Knowledge base.md)（[原文](https://x.com/shannholmberg/status/2047013785857302550)）

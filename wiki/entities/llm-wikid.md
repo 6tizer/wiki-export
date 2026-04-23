@@ -4,9 +4,9 @@ type: entity
 tags:
 - 知识管理
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/ffc46f07b27541cea0583ae70997692f
@@ -32,6 +32,8 @@ llm-wikid 是 Shann Holmberg 开源的知识层框架与仓库，用于把原始
 - [原文链接](https://x.com/shannholmberg/status/2044111115878326444)｜《AI Knowledge Layer (and why your agents are useless without it)》｜源文章：LLM Wikid：让你的 AI Agent 真正「认识你」的知识层架构
 
 - [项目仓库](https://github.com/shannhk/llm-wikid.git)
+
+- [摘要：new update to the LLM Knowledge base](summaries/摘要：new update to the LLM Knowledge base.md)（[原文](https://x.com/shannholmberg/status/2047013785857302550)）
 
 ## 关联概念
 

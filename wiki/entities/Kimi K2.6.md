@@ -43,6 +43,8 @@ Kimi K2.6 是月之暗面面向 AI 编程场景推出的模型版本，可通过
 
 - [摘要：ziggy-llm](summaries/摘要：ziggy-llm.md)（[原文](https://x.com/zxytim/status/2046255419178500408)）
 
+- [摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel AI Gateway.](summaries/摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel AI Gateway.md)（[原文](https://x.com/cline/status/2047038658470142148)）
+
 ## 关联概念
 
 - [Kimi Code](entities/Kimi Code.md)
@@ -66,3 +68,7 @@ Kimi K2.6 是月之暗面面向 AI 编程场景推出的模型版本，可通过
 - [React Three Fiber](entities/React Three Fiber.md)
 
 - [WebGL Shader](concepts/WebGL Shader.md)
+
+- [Cline](entities/Cline.md)
+
+- [Vercel AI Gateway](entities/Vercel AI Gateway.md)

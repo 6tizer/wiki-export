@@ -27,4 +27,16 @@ notion_id: 8b3c330c-e748-4abd-a3be-a3bafed2fe4d
 
 ## 来源引用
 
+- [摘要：用 Claude Code 在飞书搭任务系统，14 个字段砍到 11 个才真正用起来](summaries/摘要：用 Claude Code 在飞书搭任务系统，14 个字段砍到 11 个才真正用起来.md)（[原文](https://x.com/alin_zone/status/2046916887913591154)）
+
 - 《飞书新品发布会深度解析：aily + 妙搭，国内最肥沃的 Agent 平台来了》｜X书签｜原文链接：[http://x.com/i/article/2034558739316129792](http://x.com/i/article/2034558739316129792)｜来源条目：飞书新品发布会深度解析：aily + 妙搭，国内最肥沃的 Agent 平台来了
+
+## 关联概念
+
+- [Claude Code](entities/Claude Code.md)
+
+- [持续任务自动化](concepts/持续任务自动化.md)
+
+- [低摩擦录入](concepts/低摩擦录入.md)
+
+- [最小字段设计](concepts/最小字段设计.md)

@@ -3,7 +3,7 @@ title: Terminal-Bench 2.0
 type: concept
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
@@ -40,6 +40,12 @@ Terminal-Bench 2.0 是一个面向终端场景的编程能力测试基准，用�
 
 - [长时程信用分配](concepts/长时程信用分配.md)
 
+- [Kimi K2.6](entities/Kimi K2.6.md)
+
+- [Cline](entities/Cline.md)
+
+- [Vercel AI Gateway](entities/Vercel AI Gateway.md)
+
 ## 来源引用
 
 - [摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb](summaries/摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb.md)（[原文](https://x.com/hxiao/status/2047004358500614152)）
@@ -49,3 +55,5 @@ Terminal-Bench 2.0 是一个面向终端场景的编程能力测试基准，用�
 - [原文链接](https://x.com/yoonholeee/status/2044442372864700510)｜《Meta-Harness 代码开源：让 Agent 在新领域自主优化 Harness》｜来源条目：[摘要：Meta-Harness 代码开源：让 Agent 在新领域自主优化 Harness](summaries/摘要：Meta-Harness 代码开源：让 Agent 在新领域自主优化 Harness.md)
 
 - [摘要：刚刚，千问最强模型发布，登顶国产最佳](summaries/摘要：刚刚，千问最强模型发布，登顶国产最佳.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651088482&idx=1&sn=f82d4a5697aef837b57ea6353285d4be&chksm=bcff0435172cd02b80b80bc26991b8c0718cb409d76938cfb784f9aa171331118262579e5653#rd)）
+
+- [摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel AI Gateway.](summaries/摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel AI Gateway.md)（[原文](https://x.com/cline/status/2047038658470142148)）
