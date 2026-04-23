@@ -4,6 +4,7 @@ type: entity
 tags:
 - 工作流
 - 开发工具
+- Agent 技能
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-11'

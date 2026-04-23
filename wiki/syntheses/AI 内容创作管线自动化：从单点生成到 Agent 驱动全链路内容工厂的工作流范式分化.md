@@ -3,7 +3,7 @@ title: AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路
 type: synthesis
 tags:
 - 内容创作
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-04-14'
 source_tags: ''
@@ -136,7 +136,7 @@ Agent 游戏和 Agent NPC 的概念揭示了一个被其他内容类型忽视的
 
 ### 概念词条
 
-[MusiCoT](concepts/MusiCoT.md) · [Impeccable](concepts/Impeccable.md) · [Meta Muse Spark](entities/Meta Muse Spark.md) · [Agent NPC](concepts/Agent NPC.md) · [ZeeLin Music](entities/ZeeLin Music.md) · [内容工厂工作流](concepts/内容工厂工作流.md) · [设计反模式](concepts/设计反模式.md) · [X 列表](concepts/X 列表.md) · [geo-content-writer](concepts/geo-content-writer.md) · [MMDiT 双流架构](concepts/MMDiT 双流架构.md) · [参与感设计](concepts/参与感设计.md) · [xiaohongshu-skills](entities/xiaohongshu-skills.md) · [设计词汇](concepts/设计词汇.md) · [传播飞轮](concepts/传播飞轮.md) · [Agent 游戏](concepts/Agent 游戏.md) · [Vibe Design](concepts/Vibe Design.md) · [UGC 广告流水线](concepts/UGC 广告流水线.md) · [Vibe Advertising](concepts/Vibe Advertising.md) · [短视频自动化工作流](concepts/短视频自动化工作流.md) · [JSON Prompt](concepts/JSON Prompt.md) · [Image-to-Prompt](concepts/Image-to-Prompt.md) · 图片转 Prompt · [内容发布自动化](concepts/内容发布自动化.md) · [无限画布交互](concepts/无限画布交互.md) · [文本分镜设计](concepts/文本分镜设计.md) · [上下文感知创作](concepts/上下文感知创作.md)
+[MusiCoT](concepts/MusiCoT.md) · [Impeccable](entities/Impeccable.md) · [Meta Muse Spark](entities/Meta Muse Spark.md) · [Agent NPC](concepts/Agent NPC.md) · [ZeeLin Music](entities/ZeeLin Music.md) · [内容工厂工作流](concepts/内容工厂工作流.md) · [设计反模式](concepts/设计反模式.md) · [X 列表](concepts/X 列表.md) · [geo-content-writer](concepts/geo-content-writer.md) · [MMDiT 双流架构](concepts/MMDiT 双流架构.md) · [参与感设计](concepts/参与感设计.md) · [xiaohongshu-skills](entities/xiaohongshu-skills.md) · [设计词汇](concepts/设计词汇.md) · [传播飞轮](concepts/传播飞轮.md) · [Agent 游戏](concepts/Agent 游戏.md) · [Vibe Design](concepts/Vibe Design.md) · [UGC 广告流水线](concepts/UGC 广告流水线.md) · [Vibe Advertising](concepts/Vibe Advertising.md) · [短视频自动化工作流](concepts/短视频自动化工作流.md) · [JSON Prompt](concepts/JSON Prompt.md) · [Image-to-Prompt](concepts/Image-to-Prompt.md) · 图片转 Prompt · [内容发布自动化](concepts/内容发布自动化.md) · [无限画布交互](concepts/无限画布交互.md) · [文本分镜设计](concepts/文本分镜设计.md) · [上下文感知创作](concepts/上下文感知创作.md)
 
 ### 摘要来源
 

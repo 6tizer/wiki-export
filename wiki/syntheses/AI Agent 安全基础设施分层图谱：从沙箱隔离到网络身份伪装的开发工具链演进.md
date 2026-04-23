@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - 开发工具
 - 安全/隐私
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
@@ -104,7 +104,7 @@ flowchart LR
 
 ### 相关摘要页
 
-[摘要：OpenClaw × SearxNG：零成本给你的 AI 助手装上「搜索外脑」](summaries/摘要：OpenClaw × SearxNG：零成本给你的 AI 助手装上「搜索外脑」.md) · [摘要：PinchTab：12MB 二进制文件，AI Agent 的极简浏览器控制层](summaries/摘要：PinchTab：12MB 二进制文件，AI Agent 的极简浏览器控制层.md) · [摘要：ChromeAppHeroes：25K Star 的 Chrome 插件军火库，把浏览器变成生产力神器](summaries/摘要：ChromeAppHeroes：25K Star 的 Chrome 插件军火库，把浏览器变成生产力神器.md)
+[摘要：OpenClaw × SearxNG：零成本给你的 AI 助手装上「搜索外脑」](summaries/摘要：OpenClaw × SearxNG：零成本给你的 AI 助手装上「搜索外脑」.md) · 摘要：PinchTab：12MB 二进制文件，AI Agent 的极简浏览器控制层 · [摘要：ChromeAppHeroes：25K Star 的 Chrome 插件军火库，把浏览器变成生产力神器](summaries/摘要：ChromeAppHeroes：25K Star 的 Chrome 插件军火库，把浏览器变成生产力神器.md)
 
 ## 行动建议
 

@@ -4,7 +4,7 @@ type: entity
 tags:
 - Crypto/DeFi
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''

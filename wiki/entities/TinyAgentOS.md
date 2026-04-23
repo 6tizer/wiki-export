@@ -4,7 +4,7 @@ type: entity
 tags:
 - Agent 框架
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''

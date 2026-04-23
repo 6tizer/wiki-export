@@ -7,7 +7,7 @@ tags:
 - 工作流
 - 上下文管理
 - Agent 编排
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
@@ -130,7 +130,7 @@ notion_id: 50a71f99-da17-449d-9573-fad71578de8a
 
 - [Image-to-Prompt](concepts/Image-to-Prompt.md)
 
-- [Impeccable](concepts/Impeccable.md)
+- [Impeccable](entities/Impeccable.md)
 
 - [设计反模式](concepts/设计反模式.md)
 

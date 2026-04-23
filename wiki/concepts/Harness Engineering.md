@@ -131,7 +131,13 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 - [Claw-Eval](concepts/Claw-Eval.md)
 
+- [GenericAgent](entities/GenericAgent.md)
+
+- [Agent Loop](concepts/Agent Loop.md)
+
 ## 来源引用
+
+- [摘要：刚刚！Generic Agent 中文教程发布！比Hermes省10倍Token](summaries/摘要：刚刚！Generic Agent 中文教程发布！比Hermes省10倍Token.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg%3D%3D&mid=2247722227&idx=1&sn=91cdeb9ed199ea27bf816d8f58822044&chksm=e9e6f905566630299ab381060e0037338ce5baf7cf72c2c15b502fae874a19d1aaf2acb5d20c#rd)）
 
 - [摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论](summaries/摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论.md)（[原文](https://x.com/garrytan/status/2045371983312097409)）
 

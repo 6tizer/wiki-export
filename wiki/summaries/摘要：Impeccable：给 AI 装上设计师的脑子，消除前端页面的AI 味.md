@@ -26,7 +26,7 @@ Impeccable 通过补充设计词汇、斜杠命令和设计反模式清单，提
 
 ## 提取的概念
 
-- [Impeccable](concepts/Impeccable.md)
+- [Impeccable](entities/Impeccable.md)
 
 - [设计反模式](concepts/设计反模式.md)
 

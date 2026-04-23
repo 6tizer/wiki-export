@@ -3,7 +3,7 @@ title: CVD 背离
 type: concept
 tags:
 - Crypto/DeFi
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'
 source_tags: ''

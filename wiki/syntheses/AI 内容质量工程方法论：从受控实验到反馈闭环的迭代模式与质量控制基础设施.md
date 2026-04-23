@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - 内容创作
 - 工作流
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-04-19'
 source_tags: ''

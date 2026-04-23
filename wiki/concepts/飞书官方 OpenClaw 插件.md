@@ -3,9 +3,9 @@ title: 飞书官方 OpenClaw 插件
 type: concept
 tags:
 - OpenClaw
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/7ae23b9889974d189f8e8c48035cf9f5

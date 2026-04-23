@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - Coding Agent
 - 商业/生态
-status: 草稿
+status: 已审核
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
@@ -127,7 +127,7 @@ Coding Agent 的普及也带来了新型风险。Hermes Agent 抄袭事件暴露
 
 - [消费级 Coding Agent](concepts/消费级 Coding Agent.md)
 
-- [每 PR 成本](concepts/每 PR 成本.md)
+- 每 PR 成本
 
 ### 摘要页
 

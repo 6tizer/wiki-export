@@ -7,7 +7,7 @@ tags:
 - Agent 技能
 - 工作流
 - 多模态
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-06-12'
 source_tags: ''

@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 草稿
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/c3e4e3423d8f478492a2f54443df0e85
@@ -27,6 +27,8 @@ Wiki 健康检查是对知识库做周期性质量巡检的一组流程，用来
 
 ## 来源引用
 
+- [摘要：llm_wiki：基于 Karpathy 思想的个人知识库，有人做成桌面应用了！](summaries/摘要：llm_wiki：基于 Karpathy 思想的个人知识库，有人做成桌面应用了！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY5NzIxODM2MQ%3D%3D&mid=2247484633&idx=1&sn=311e49b83bfa4f98e042c17c90cc4aaf&chksm=f55972c32b51ea33bf6130aee2a9d5b519a1f41f3905bdf9249b9ffa3524e430c8fd577026ba#rd)）
+
 - [原文链接](https://x.com/karpathy/status/2040470801506541998)｜《Automated multi-source ingestion》｜源文章：Karpathy 的 LLM Wiki：用 AI 编译你的私人知识库，告别 RAG
 
 - [原文链接](https://x.com/lxfater/status/2042848343949480173)｜《Obsidian + Claude Code：用 AI 大神 Karpathy 的方法搭一个真正可用的第二大脑（全教程）》｜来源条目：[摘要：Obsidian + Claude Code：用 AI 大神 Karpathy 的方法搭一个真正可用的第二大脑（全教程）](summaries/摘要：Obsidian + Claude Code：用 AI 大神 Karpathy 的方法搭一个真正可用的第二大脑（全教程）.md)
@@ -46,5 +48,9 @@ Wiki 健康检查是对知识库做周期性质量巡检的一组流程，用来
 - [三层知识架构](concepts/三层知识架构.md)
 
 - [编译式知识库](concepts/编译式知识库.md)
+
+- [llm-wiki](entities/llm-wiki.md)
+
+- [异步审查](concepts/异步审查.md)
 
 - [Ingest 摄入流程](concepts/Ingest 摄入流程.md)

@@ -27,7 +27,7 @@ ChromeAppHeroes 通过长期维护的中文教程与精选清单，把零散的 
 
 ### 提取的概念
 
-- [ChromeAppHeroes](concepts/ChromeAppHeroes.md)
+- [ChromeAppHeroes](entities/ChromeAppHeroes.md)
 
 - [沉浸式翻译](concepts/沉浸式翻译.md)
 

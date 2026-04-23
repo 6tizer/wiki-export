@@ -97,6 +97,8 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 
 - [Wiki 健康检查](concepts/Wiki 健康检查.md)
 
+- [异步审查](concepts/异步审查.md)
+
 - [CLAUDE.md](concepts/CLAUDE.md.md)
 
 - [Obsidian](entities/Obsidian.md)
@@ -178,6 +180,8 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 - [Architecture Decision Records](concepts/Architecture Decision Records.md)
 
 ## 来源引用
+
+- [摘要：llm_wiki：基于 Karpathy 思想的个人知识库，有人做成桌面应用了！](summaries/摘要：llm_wiki：基于 Karpathy 思想的个人知识库，有人做成桌面应用了！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY5NzIxODM2MQ%3D%3D&mid=2247484633&idx=1&sn=311e49b83bfa4f98e042c17c90cc4aaf&chksm=f55972c32b51ea33bf6130aee2a9d5b519a1f41f3905bdf9249b9ffa3524e430c8fd577026ba#rd)）
 
 - [摘要：The Ultimate Open-Source Dev Stack](summaries/摘要：The Ultimate Open-Source Dev Stack.md)（[原文](https://x.com/AlphaSignalAI/status/2047014600713842728)）
 

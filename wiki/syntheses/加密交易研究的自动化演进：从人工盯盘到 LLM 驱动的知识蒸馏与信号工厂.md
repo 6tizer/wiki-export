@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - Crypto/DeFi
 - 工作流
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''

@@ -53,7 +53,13 @@ GenericAgent 是一个极简、可自我进化的自治 Agent 框架，以约 3K
 
 - [上下文压缩](concepts/上下文压缩.md)
 
+- [Harness Engineering](concepts/Harness Engineering.md)
+
+- [Agent Loop](concepts/Agent Loop.md)
+
 ## 来源引用
+
+- [摘要：刚刚！Generic Agent 中文教程发布！比Hermes省10倍Token](summaries/摘要：刚刚！Generic Agent 中文教程发布！比Hermes省10倍Token.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg%3D%3D&mid=2247722227&idx=1&sn=91cdeb9ed199ea27bf816d8f58822044&chksm=e9e6f905566630299ab381060e0037338ce5baf7cf72c2c15b502fae874a19d1aaf2acb5d20c#rd)）
 
 - [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)（[原文](https://x.com/RoundtableSpace/status/2045906520672461309)）
 

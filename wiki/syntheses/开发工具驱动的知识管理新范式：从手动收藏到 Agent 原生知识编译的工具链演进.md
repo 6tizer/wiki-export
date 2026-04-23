@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - 开发工具
 - 知识管理
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''

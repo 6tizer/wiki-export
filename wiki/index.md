@@ -1,15 +1,15 @@
 ---
 type: index
-total_concepts: 1570
-total_entities: 762
+total_concepts: 1567
+total_entities: 765
 total_syntheses: 77
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 ---
 
 # 📚 知识 Wiki Index
 
-> 1570 concepts · 762 entities · 77 syntheses
-> 导出时间: 2026-04-23
+> 1567 concepts · 765 entities · 77 syntheses
+> 导出时间: 2026-04-24
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
@@ -257,7 +257,6 @@ last_updated: 2026-04-23
 - [阶段导演技能](concepts/阶段导演技能.md)
 - [面试追问链](concepts/面试追问链.md)
 - [项目级 Skills 分发](concepts/项目级 Skills 分发.md)
-- [飞书 CLI](concepts/飞书 CLI.md)
 
 ### Entitys
 - [6551-twitter-to-binance-square](entities/6551-twitter-to-binance-square.md)
@@ -340,6 +339,7 @@ last_updated: 2026-04-23
 - [Tool Calling 2.0](entities/Tool Calling 2.0.md)
 - [TradingView MCP Bridge](entities/TradingView MCP Bridge.md)
 - [Turix CUA](entities/Turix CUA.md)
+- [Twitter Buddy](entities/Twitter Buddy.md)
 - [Unusual Whales](entities/Unusual Whales.md)
 - [Vane](entities/Vane.md)
 - [WhisperX](entities/WhisperX.md)
@@ -385,6 +385,7 @@ last_updated: 2026-04-23
 - [达尔文.skill](entities/达尔文.skill.md)
 - [钉钉 CLI](entities/钉钉 CLI.md)
 - [锁妖塔 Skill](entities/锁妖塔 Skill.md)
+- [飞书 CLI](entities/飞书 CLI.md)
 
 ## Agent 框架
 ### Concepts
@@ -478,6 +479,7 @@ last_updated: 2026-04-23
 - [LeviX](entities/LeviX.md)
 - [Manus](entities/Manus.md)
 - [Mercury](entities/Mercury.md)
+- [MetaClaw](entities/MetaClaw.md)
 - [Moltbook](entities/Moltbook.md)
 - [Moss](entities/Moss.md)
 - [MuleRun](entities/MuleRun.md)
@@ -1187,7 +1189,6 @@ last_updated: 2026-04-23
 - [模型 UX](concepts/模型 UX.md)
 - [模型受阻 Backlog](concepts/模型受阻 Backlog.md)
 - [歧义税](concepts/歧义税.md)
-- [每 PR 成本](concepts/每 PR 成本.md)
 - [每 PR 成本](concepts/每 PR 成本.md)
 - [流式工具执行](concepts/流式工具执行.md)
 - [测试驱动开发](concepts/测试驱动开发.md)
@@ -2216,7 +2217,6 @@ last_updated: 2026-04-23
 - [IPO 媒体化](concepts/IPO 媒体化.md)
 - [Image-to-3D](concepts/Image-to-3D.md)
 - [Image-to-Prompt](concepts/Image-to-Prompt.md)
-- [Impeccable](concepts/Impeccable.md)
 - [JSON Prompt](concepts/JSON Prompt.md)
 - [LLM 投研工作流](concepts/LLM 投研工作流.md)
 - [MMDiT 双流架构](concepts/MMDiT 双流架构.md)
@@ -2335,6 +2335,7 @@ last_updated: 2026-04-23
 - [HY-WorldMirror](entities/HY-WorldMirror.md)
 - [HY-WorldStereo](entities/HY-WorldStereo.md)
 - [HappyOyster](entities/HappyOyster.md)
+- [Impeccable](entities/Impeccable.md)
 - [KrillinAI](entities/KrillinAI.md)
 - [LibTV](entities/LibTV.md)
 - [Logo Generator](entities/Logo Generator.md)
@@ -2549,7 +2550,6 @@ last_updated: 2026-04-23
 - [模型偷换](concepts/模型偷换.md)
 - [模型即应用](concepts/模型即应用.md)
 - [正向猜疑链](concepts/正向猜疑链.md)
-- [每 PR 成本](concepts/每 PR 成本.md)
 - [每 PR 成本](concepts/每 PR 成本.md)
 - [法币思维](concepts/法币思维.md)
 - [注册代理](concepts/注册代理.md)
@@ -3179,6 +3179,7 @@ last_updated: 2026-04-23
 - [工作流自动化代理](concepts/工作流自动化代理.md)
 - [工作流蒸馏](concepts/工作流蒸馏.md)
 - [异常值逻辑](concepts/异常值逻辑.md)
+- [异步审查](concepts/异步审查.md)
 - [微信草稿箱自动上传](concepts/微信草稿箱自动上传.md)
 - [心跳系统](concepts/心跳系统.md)
 - [心跳调度](concepts/心跳调度.md)
@@ -3349,7 +3350,6 @@ last_updated: 2026-04-23
 - [CUDA 内核优化](concepts/CUDA 内核优化.md)
 - [Catch-All 邮件路由](concepts/Catch-All 邮件路由.md)
 - [ChromaFs](concepts/ChromaFs.md)
-- [ChromeAppHeroes](concepts/ChromeAppHeroes.md)
 - [Cloud Native](concepts/Cloud Native.md)
 - [Cloudflare Email Routing](concepts/Cloudflare Email Routing.md)
 - [Cloudflare 全家桶](concepts/Cloudflare 全家桶.md)
@@ -3510,6 +3510,7 @@ last_updated: 2026-04-23
 - [Canon 编排器](entities/Canon 编排器.md)
 - [Cerebras](entities/Cerebras.md)
 - [ChromaDB](entities/ChromaDB.md)
+- [ChromeAppHeroes](entities/ChromeAppHeroes.md)
 - [Cloudflare D1](entities/Cloudflare D1.md)
 - [Cloudflare Dynamic Workers](entities/Cloudflare Dynamic Workers.md)
 - [Cloudflare R2](entities/Cloudflare R2.md)
@@ -3647,6 +3648,7 @@ last_updated: 2026-04-23
 - [hyperframes](entities/hyperframes.md)
 - [json-render](entities/json-render.md)
 - [just-bash](entities/just-bash.md)
+- [llm-wiki](entities/llm-wiki.md)
 - [llm-wiki-compiler](entities/llm-wiki-compiler.md)
 - [llmfit](entities/llmfit.md)
 - [mlx_vlm](entities/mlx_vlm.md)
@@ -3848,6 +3850,7 @@ last_updated: 2026-04-23
 - [字母表化](concepts/字母表化.md)
 - [实体解析](concepts/实体解析.md)
 - [实验规范](concepts/实验规范.md)
+- [异步审查](concepts/异步审查.md)
 - [悬浮战略家陷阱](concepts/悬浮战略家陷阱.md)
 - [意识上传](concepts/意识上传.md)
 - [持续新鲜上下文](concepts/持续新鲜上下文.md)

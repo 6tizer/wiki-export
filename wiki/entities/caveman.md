@@ -4,7 +4,7 @@ type: entity
 tags:
 - Coding Agent
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-21'
 source_tags: ''

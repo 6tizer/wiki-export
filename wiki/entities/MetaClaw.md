@@ -4,6 +4,7 @@ type: entity
 tags:
 - OpenClaw
 - 记忆系统
+- Agent 框架
 status: 草稿
 confidence: high
 last_compiled: '2026-04-11'

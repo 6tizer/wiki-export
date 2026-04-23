@@ -4,7 +4,7 @@ type: entity
 tags:
 - 安全/隐私
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'
 source_tags: ''

@@ -7,7 +7,7 @@ tags:
 - OpenClaw
 - 内容创作
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''

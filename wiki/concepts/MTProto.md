@@ -3,7 +3,7 @@ title: MTProto
 type: concept
 tags:
 - MCP 协议
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'
 source_tags: ''

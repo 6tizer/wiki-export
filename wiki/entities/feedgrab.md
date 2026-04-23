@@ -5,7 +5,7 @@ tags:
 - 知识管理
 - 笔记工具
 - 内容创作
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'
 source_tags: ''
