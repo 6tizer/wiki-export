@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/c3e4e3423d8f478492a2f54443df0e85
@@ -37,6 +37,8 @@ Wiki 健康检查是对知识库做周期性质量巡检的一组流程，用来
 
 - [原文链接](https://x.com/sitinme/status/2043865262982869105)｜《别再用 RAG 了，让 AI 帮你养一个会长大的知识库！》｜来源条目：[摘要：别再用 RAG 了，让 AI 帮你养一个会长大的知识库！](summaries/摘要：别再用 RAG 了，让 AI 帮你养一个会长大的知识库！.md)
 
+- [摘要：llm Wiki 养了三周，开始出毛病了](summaries/摘要：llm Wiki 养了三周，开始出毛病了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3NjE4OTAyMg%3D%3D&mid=2247488578&idx=1&sn=bd42d9c055bdc8ed9b7c46feb5b0e26d&chksm=ea6d6762607f43554101098e9913cd15d2e58637de0dbb68b7f67d697c0f2d68b998beff99e7#rd)）
+
 ## 关联概念
 
 - [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)
@@ -54,3 +56,9 @@ Wiki 健康检查是对知识库做周期性质量巡检的一组流程，用来
 - [异步审查](concepts/异步审查.md)
 
 - [Ingest 摄入流程](concepts/Ingest 摄入流程.md)
+
+- [知识漂移](concepts/知识漂移.md)
+
+- [行号级溯源](concepts/行号级溯源.md)
+
+- [确定性检索](concepts/确定性检索.md)

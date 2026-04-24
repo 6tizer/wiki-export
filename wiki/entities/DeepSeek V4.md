@@ -3,7 +3,7 @@ title: DeepSeek V4
 type: entity
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
@@ -29,3 +29,13 @@ notion_id: 68a41e76-b0d4-4071-8cca-217cdd1b9810
 **来源引用**
 
 - [摘要：Deepseek V4模型将采用华为芯片](summaries/摘要：Deepseek V4模型将采用华为芯片.md)
+
+- [摘要：OpenAI向左，DeepSeek向右](summaries/摘要：OpenAI向左，DeepSeek向右.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyMTczNjE3Nw%3D%3D&mid=2247489590&idx=1&sn=b4f11af74f7db2eb6c83bb54d29b47ca&chksm=c0537dfb7031e02180867ee6a96eb2ad14fe19930d5592a59a0b29200f7c019e75189890e76a#rd)）
+
+**关联概念**
+
+- [国产算力基础设施](concepts/国产算力基础设施.md)
+
+- [1M 上下文](concepts/1M 上下文.md)
+
+- [端侧模型](concepts/端侧模型.md)

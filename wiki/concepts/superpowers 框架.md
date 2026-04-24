@@ -8,7 +8,7 @@ tags:
 - 工作流
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/3dc1f1f67b884a08b4b76283952f086c
@@ -61,9 +61,9 @@ GitHub：[https://github.com/obra/superpowers](https://github.com/obra/superpowe
 
 ## 来源引用
 
-- 摘要：superpowers：把 AI 编码代理关进工程规范「笼子」的开源框架
+- [摘要：Superpowers：给你的 AI 编码代理装上一套严格的开发方法论](summaries/摘要：Superpowers：给你的 AI 编码代理装上一套严格的开发方法论.md)
 
-- 摘要：obra/superpowers：让 AI 写代码真正靠谱的方法论（X书签文章）
+- [摘要：Claude Superpowers：开发者的纪律框架，营销人的效率利器](summaries/摘要：Claude Superpowers：开发者的纪律框架，营销人的效率利器.md)
 
 - [原文链接](https://x.com/shannholmberg/status/2032892199751528486)｜《Claude Superpowers：开发者的纪律框架，营销人的效率利器》｜来源条目：[摘要：Claude Superpowers：开发者的纪律框架，营销人的效率利器](summaries/摘要：Claude Superpowers：开发者的纪律框架，营销人的效率利器.md)
 
