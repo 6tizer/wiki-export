@@ -5,7 +5,7 @@ tags:
 - LLM
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-13'
+last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/e76b14cc95894b4f98a4bc05a276f573
@@ -30,4 +30,4 @@ RLVR 是文中作为对照提到的标准推理训练范式，用来衬托循环
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247882749&idx=1&sn=2c5b489ce91054109b22b36188b08e7d&chksm=e912871f3bcec6edb33f9d3bbe2448cd2e302161209286bca16ddf778484c2f0d06c176fa3a7#rd)｜《Claude强到不敢发的Mythos，被质疑用了字节Seed技术》｜源文章：Claude强到不敢发的Mythos，被质疑用了字节Seed技术
+- [摘要：Claude强到不敢发的Mythos，被质疑用了字节Seed技术](summaries/摘要：Claude强到不敢发的Mythos，被质疑用了字节Seed技术.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247882749&idx=1&sn=2c5b489ce91054109b22b36188b08e7d&chksm=e912871f3bcec6edb33f9d3bbe2448cd2e302161209286bca16ddf778484c2f0d06c176fa3a7#rd)）

@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-24T07:09:25.520496+08:00",
+  "last_sync_time": "2026-04-24T13:11:15.555274+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 3813,
+  "total_pages_exported": 3821,
   "page_mapping": {
     "0fe9d271-3d82-4995-ad15-00fc8d446de0": {
       "type": "concept",
@@ -286,7 +286,7 @@
     "0c445748-e929-4f00-a39b-12a0c0c2ecca": {
       "type": "concept",
       "file_path": "wiki/concepts/Terminal-Bench 2.0.md",
-      "last_edited": "2026-04-23T18:40:00.000Z"
+      "last_edited": "2026-04-24T03:20:00.000Z"
     },
     "0ac98d71-8cef-4ed4-8e4d-869cbdb09a3e": {
       "type": "concept",
@@ -2511,7 +2511,7 @@
     "249af11e-2ddb-4404-b6cd-8ac5e85946c4": {
       "type": "entity",
       "file_path": "wiki/entities/Codex.md",
-      "last_edited": "2026-04-23T17:51:00.000Z"
+      "last_edited": "2026-04-24T03:19:00.000Z"
     },
     "24aa72c2-4b43-4b7c-ad72-0ab8cbccaf74": {
       "type": "entity",
@@ -3216,7 +3216,7 @@
     "2fd84f4a-28ea-4c8c-8708-4352cb600101": {
       "type": "concept",
       "file_path": "wiki/concepts/智能遗忘.md",
-      "last_edited": "2026-04-23T21:36:00.000Z"
+      "last_edited": "2026-04-24T04:32:00.000Z"
     },
     "2fe51a8e-58dd-458c-afe4-0d983f945237": {
       "type": "summary",
@@ -4086,7 +4086,7 @@
     "3dc1f1f6-7b88-4a08-b4b7-6283952f086c": {
       "type": "concept",
       "file_path": "wiki/concepts/superpowers 框架.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-24T02:12:00.000Z"
     },
     "3dd87046-84ab-4478-8cb4-ebc096025ca4": {
       "type": "summary",
@@ -5340,8 +5340,8 @@
     },
     "51cc8c9d-b605-4aaf-a1c3-19956cdb774b": {
       "type": "entity",
-      "file_path": "wiki/entities/Elephant.md",
-      "last_edited": "2026-04-23T10:24:00.000Z"
+      "file_path": "wiki/entities/Ling-2.6-flash.md",
+      "last_edited": "2026-04-24T02:39:00.000Z"
     },
     "51da9cd0-3323-4135-bdfa-d3c4477edab3": {
       "type": "entity",
@@ -8536,7 +8536,7 @@
     "84d580f5-3ccd-480f-bb4d-06050a993c0f": {
       "type": "concept",
       "file_path": "wiki/concepts/持续任务自动化.md",
-      "last_edited": "2026-04-23T18:07:00.000Z"
+      "last_edited": "2026-04-24T03:20:00.000Z"
     },
     "84d694d9-3e02-4d7d-b1d0-fe558d682553": {
       "type": "entity",
@@ -8716,7 +8716,7 @@
     "87eb00f1-dede-4d15-9714-97af627a8383": {
       "type": "concept",
       "file_path": "wiki/concepts/Agentic AI.md",
-      "last_edited": "2026-04-23T16:46:00.000Z"
+      "last_edited": "2026-04-24T02:12:00.000Z"
     },
     "87ec81c4-53a5-45c5-8566-33eb0c54969c": {
       "type": "entity",
@@ -8861,7 +8861,7 @@
     "8a5a5816-4ae5-47d5-bd59-eb5258918082": {
       "type": "concept",
       "file_path": "wiki/concepts/Agentic Coding.md",
-      "last_edited": "2026-04-23T18:59:00.000Z"
+      "last_edited": "2026-04-24T03:19:00.000Z"
     },
     "8a5e5b5d-57c8-4ac1-8cb2-324f61ee98ff": {
       "type": "concept",
@@ -10371,7 +10371,7 @@
     "a0b2ab8f-ea9c-47eb-9a9f-ec57a199157b": {
       "type": "concept",
       "file_path": "wiki/concepts/LLM 知识编译.md",
-      "last_edited": "2026-04-23T14:30:00.000Z"
+      "last_edited": "2026-04-24T03:31:00.000Z"
     },
     "a0ebe1a3-e25c-43c8-9610-6b9f4dac3f45": {
       "type": "entity",
@@ -10921,7 +10921,7 @@
     "a9669a86-29a3-4770-8a59-fa2700716269": {
       "type": "concept",
       "file_path": "wiki/concepts/MoE 架构.md",
-      "last_edited": "2026-04-23T17:32:00.000Z"
+      "last_edited": "2026-04-24T02:39:00.000Z"
     },
     "a990ab41-1af7-40b7-8a90-0fc7194d8621": {
       "type": "summary",
@@ -11106,7 +11106,7 @@
     "abe9dbec-9815-4f52-ac8f-6f452ef71e53": {
       "type": "concept",
       "file_path": "wiki/concepts/线性注意力.md",
-      "last_edited": "2026-04-23T14:33:00.000Z"
+      "last_edited": "2026-04-24T02:39:00.000Z"
     },
     "abf66854-5e94-4c40-b6e1-add370a3b921": {
       "type": "entity",
@@ -12141,7 +12141,7 @@
     "bb7af8f6-b2b9-487b-9308-6ece805b8c4a": {
       "type": "concept",
       "file_path": "wiki/concepts/Multi-Token Prediction.md",
-      "last_edited": "2026-04-23T10:13:00.000Z"
+      "last_edited": "2026-04-24T02:39:00.000Z"
     },
     "bb9153b6-7253-4bef-b65c-e1b4daf4145f": {
       "type": "summary",
@@ -14756,7 +14756,7 @@
     "e2d64655-5092-49e0-bfb2-002d206b2359": {
       "type": "entity",
       "file_path": "wiki/entities/Claude Code.md",
-      "last_edited": "2026-04-23T18:45:00.000Z"
+      "last_edited": "2026-04-24T03:12:00.000Z"
     },
     "e330f908-6a96-4112-b73c-11b8bc89a9e2": {
       "type": "summary",
@@ -15036,7 +15036,7 @@
     "e76b14cc-9589-4b4f-98a4-bc05a276f573": {
       "type": "concept",
       "file_path": "wiki/concepts/RLVR.md",
-      "last_edited": "2026-04-23T21:39:00.000Z"
+      "last_edited": "2026-04-24T04:33:00.000Z"
     },
     "e79b6a32-3029-4b6d-9240-65dadfcbc2bd": {
       "type": "concept",
@@ -19067,6 +19067,46 @@
       "type": "summary",
       "file_path": "wiki/summaries/摘要：We've published new research on how we post-train models for accurate search-augmented answers.md",
       "last_edited": "2026-04-23T18:31:00.000Z"
+    },
+    "0c0b72dd-e40c-400b-9c5a-ce92f1154947": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：后续来了兄弟们，卧槽真的太炸了，同样的任务，同样的配置，速度比Claude Sonnet 4.6还快 6 倍，成本低约 50 倍，.md",
+      "last_edited": "2026-04-24T02:35:00.000Z"
+    },
+    "3d446411-720e-453a-ba67-bc0feab0bdfc": {
+      "type": "concept",
+      "file_path": "wiki/concepts/画布式 Agent 编排.md",
+      "last_edited": "2026-04-24T01:38:00.000Z"
+    },
+    "5295bc19-3df2-49a0-bcca-914c255fafb7": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：Claude Code 就质量下滑发布事后复盘并重置配额.md",
+      "last_edited": "2026-04-24T03:12:00.000Z"
+    },
+    "61bd381e-f9e6-4cc6-bf60-63828e656197": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：Introducing GPT-5.5.md",
+      "last_edited": "2026-04-24T03:19:00.000Z"
+    },
+    "692d91b0-3e64-4187-b26c-d376da33ea1a": {
+      "type": "concept",
+      "file_path": "wiki/concepts/自我校验.md",
+      "last_edited": "2026-04-24T03:18:00.000Z"
+    },
+    "6a3f0645-6a5b-476a-b469-8832d8a829bd": {
+      "type": "entity",
+      "file_path": "wiki/entities/Open Swarm.md",
+      "last_edited": "2026-04-24T01:38:00.000Z"
+    },
+    "9a2ff505-c4a5-47bb-9041-b023edfc34eb": {
+      "type": "concept",
+      "file_path": "wiki/concepts/Human-In-The-Loop.md",
+      "last_edited": "2026-04-24T01:38:00.000Z"
+    },
+    "ee288d72-ef5a-4121-949b-79333675a02a": {
+      "type": "entity",
+      "file_path": "wiki/entities/GPT-5.5.md",
+      "last_edited": "2026-04-24T03:18:00.000Z"
     }
   }
 }

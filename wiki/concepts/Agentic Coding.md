@@ -30,6 +30,10 @@ Agentic Coding 是一种以 **AI Agent** 为执行主体的软件开发范式，
 
 ## 关联概念
 
+- [GPT-5.5](entities/GPT-5.5.md)
+
+- [自我校验](concepts/自我校验.md)
+
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
 
 - [Qwen3.5-27B](entities/Qwen3.5-27B.md)
@@ -41,6 +45,8 @@ Agentic Coding 是一种以 **AI Agent** 为执行主体的软件开发范式，
 - [Dense 模型](concepts/Dense 模型.md)
 
 ## 来源引用
+
+- [摘要：Introducing GPT-5.5](summaries/摘要：Introducing GPT-5.5.md)（[原文](https://x.com/OpenAI/status/2047376561205325845)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247733292&idx=1&sn=e39369ea00846c222739652d5b47bcc8&chksm=913f8f245def967dec5b7fa87346d1d1fb0f05e5f0084f9bccfc6aeaf678203157c80fe2767b#rd)｜《「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？》｜源文章：「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？
 

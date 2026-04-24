@@ -1,14 +1,14 @@
 ---
 type: index
-total_concepts: 1688
-total_entities: 805
+total_concepts: 1691
+total_entities: 807
 total_syntheses: 82
 last_updated: 2026-04-24
 ---
 
 # 📚 知识 Wiki Index
 
-> 1688 concepts · 805 entities · 82 syntheses
+> 1691 concepts · 807 entities · 82 syntheses
 > 导出时间: 2026-04-24
 
 ## 使用方式
@@ -440,6 +440,7 @@ last_updated: 2026-04-24
 - [本地 Agent 工作空间](concepts/本地 Agent 工作空间.md)
 - [权限硬化架构](concepts/权限硬化架构.md)
 - [桌面 Agent](concepts/桌面 Agent.md)
+- [画布式 Agent 编排](concepts/画布式 Agent 编排.md)
 - [私有化部署](concepts/私有化部署.md)
 - [自我进化 Skills 系统](concepts/自我进化 Skills 系统.md)
 
@@ -511,6 +512,7 @@ last_updated: 2026-04-24
 - [Octo](entities/Octo.md)
 - [Open Agent SDK](entities/Open Agent SDK.md)
 - [Open Agents](entities/Open Agents.md)
+- [Open Swarm](entities/Open Swarm.md)
 - [OpenAI Agents SDK](entities/OpenAI Agents SDK.md)
 - [OpenASE](entities/OpenASE.md)
 - [OpenAlice](entities/OpenAlice.md)
@@ -676,6 +678,7 @@ last_updated: 2026-04-24
 - [Hands 机制](concepts/Hands 机制.md)
 - [Holdout Set](concepts/Holdout Set.md)
 - [Human in the Loop](concepts/Human in the Loop.md)
+- [Human-In-The-Loop](concepts/Human-In-The-Loop.md)
 - [IACT 协议](concepts/IACT 协议.md)
 - [IDENTITY.md](concepts/IDENTITY.md.md)
 - [IM 集成 Agent](concepts/IM 集成 Agent.md)
@@ -883,6 +886,7 @@ last_updated: 2026-04-24
 - [环境工程](concepts/环境工程.md)
 - [生成-自评能力差距](concepts/生成-自评能力差距.md)
 - [生成者+验证者](concepts/生成者+验证者.md)
+- [画布式 Agent 编排](concepts/画布式 Agent 编排.md)
 - [目标对齐](concepts/目标对齐.md)
 - [盲评裁判团](concepts/盲评裁判团.md)
 - [研究操作系统](concepts/研究操作系统.md)
@@ -904,6 +908,7 @@ last_updated: 2026-04-24
 - [自动科研](concepts/自动科研.md)
 - [自动路由检索](concepts/自动路由检索.md)
 - [自反思](concepts/自反思.md)
+- [自我校验](concepts/自我校验.md)
 - [自我进化 Agent](concepts/自我进化 Agent.md)
 - [自然语言定时任务](concepts/自然语言定时任务.md)
 - [自生长人格](concepts/自生长人格.md)
@@ -986,6 +991,7 @@ last_updated: 2026-04-24
 - [Multica](entities/Multica.md)
 - [NemoClaw](entities/NemoClaw.md)
 - [Nezha](entities/Nezha.md)
+- [Open Swarm](entities/Open Swarm.md)
 - [Open-Multi-Agent](entities/Open-Multi-Agent.md)
 - [OpenClaw Context Engine](entities/OpenClaw Context Engine.md)
 - [OpenFang](entities/OpenFang.md)
@@ -1271,6 +1277,7 @@ last_updated: 2026-04-24
 - [置信度评分](concepts/置信度评分.md)
 - [自定义模型接入](concepts/自定义模型接入.md)
 - [自愈反馈闭环](concepts/自愈反馈闭环.md)
+- [自我校验](concepts/自我校验.md)
 - [自退火循环](concepts/自退火循环.md)
 - [自适应思考](concepts/自适应思考.md)
 - [虚拟分支](concepts/虚拟分支.md)
@@ -1329,6 +1336,7 @@ last_updated: 2026-04-24
 - [EvoForge](entities/EvoForge.md)
 - [GLM-5.1](entities/GLM-5.1.md)
 - [GLM-5V-Turbo](entities/GLM-5V-Turbo.md)
+- [GPT-5.5](entities/GPT-5.5.md)
 - [GSD](entities/GSD.md)
 - [Gemini CLI](entities/Gemini CLI.md)
 - [GenericAgent](entities/GenericAgent.md)
@@ -1979,13 +1987,13 @@ last_updated: 2026-04-24
 - [Dola](entities/Dola.md)
 - [DreamZero](entities/DreamZero.md)
 - [Echo](entities/Echo.md)
-- [Elephant](entities/Elephant.md)
 - [EverMind](entities/EverMind.md)
 - [FinGPT](entities/FinGPT.md)
 - [GEN-1](entities/GEN-1.md)
 - [GLM-5-Turbo](entities/GLM-5-Turbo.md)
 - [GLM-5V-Turbo](entities/GLM-5V-Turbo.md)
 - [GPT-5.4-Cyber](entities/GPT-5.4-Cyber.md)
+- [GPT-5.5](entities/GPT-5.5.md)
 - [GPT-Rosalind](entities/GPT-Rosalind.md)
 - [Gemini 3 Pro](entities/Gemini 3 Pro.md)
 - [Gemini 3.1 Flash Image Preview](entities/Gemini 3.1 Flash Image Preview.md)
@@ -2012,6 +2020,7 @@ last_updated: 2026-04-24
 - [LLaMA-Factory](entities/LLaMA-Factory.md)
 - [LangChain](entities/LangChain.md)
 - [Life Sciences Research Plugin](entities/Life Sciences Research Plugin.md)
+- [Ling-2.6-flash](entities/Ling-2.6-flash.md)
 - [Lingbot-VA](entities/Lingbot-VA.md)
 - [LiveCodeBench](entities/LiveCodeBench.md)
 - [MLX 框架](entities/MLX 框架.md)
@@ -3644,7 +3653,6 @@ last_updated: 2026-04-24
 - [fork-to-Star 比例](concepts/fork-to-Star 比例.md)
 - [navmesh](concepts/navmesh.md)
 - [rDNS 反查](concepts/rDNS 反查.md)
-- [superpowers 框架](concepts/superpowers 框架.md)
 - [tect-brain](concepts/tect-brain.md)
 - [transcript 模式](concepts/transcript 模式.md)
 - [wechat-decrypt](concepts/wechat-decrypt.md)

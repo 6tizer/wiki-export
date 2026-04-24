@@ -26,6 +26,10 @@ Terminal-Bench 2.0 是一个面向终端场景的编程能力测试基准，用�
 
 ## 关联概念
 
+- [GPT-5.5](entities/GPT-5.5.md)
+
+- [Agentic Coding](concepts/Agentic Coding.md)
+
 - [Qwen3.6-27B](entities/Qwen3.6-27B.md)
 
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
@@ -47,6 +51,8 @@ Terminal-Bench 2.0 是一个面向终端场景的编程能力测试基准，用�
 - [Vercel AI Gateway](entities/Vercel AI Gateway.md)
 
 ## 来源引用
+
+- [摘要：Introducing GPT-5.5](summaries/摘要：Introducing GPT-5.5.md)（[原文](https://x.com/OpenAI/status/2047376561205325845)）
 
 - [摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb](summaries/摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb.md)（[原文](https://x.com/hxiao/status/2047004358500614152)）
 

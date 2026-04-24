@@ -7,7 +7,7 @@ tags:
 - RAG/检索
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/a0b2ab8fea9c47eb9a9fec57a199157b
@@ -32,7 +32,7 @@ notion_id: a0b2ab8f-ea9c-47eb-9a9f-ec57a199157b
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzI1MjkyNjI4NQ%3D%3D&mid=2247486639&idx=1&sn=afab9bd6fc7a268a719127ebbf1c368a&chksm=e8fcaa80f3faf33cce6201ed6bc26ddccfa5d6d6fc0c8dc4f51adf0fe53479ebd7ed270f0d14#rd)｜《Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统》｜来源条目：[摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统](summaries/摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统.md)
+- [摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统](summaries/摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI1MjkyNjI4NQ%3D%3D&mid=2247486639&idx=1&sn=afab9bd6fc7a268a719127ebbf1c368a&chksm=e8fcaa80f3faf33cce6201ed6bc26ddccfa5d6d6fc0c8dc4f51adf0fe53479ebd7ed270f0d14#rd)）
 
 - [摘要：Karpathy LLM Wiki 个人知识库方法论](summaries/摘要：Karpathy LLM Wiki 个人知识库方法论.md)（来源：微信 / Alphana和大船的AI工作区）——提出 LLM 编译器概念及完整操作框架
 

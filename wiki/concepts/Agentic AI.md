@@ -3,7 +3,7 @@ title: Agentic AI
 type: concept
 tags:
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: LLM, Agent, Claude, openai
