@@ -9,7 +9,7 @@ tags:
 - 工作流
 status: 草稿
 confidence: high
-last_compiled: '2026-04-24'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8de74836e2804df0b5026e5310117f53
@@ -44,6 +44,6 @@ Nezha 的 Agent-First 并行哲学与 OpenClaw 生态高度契合，其 HITL 提
 
 ## 来源引用
 
-- 未匹配：X 推文回复（@HanshuGithub，2026-04-10）
+- [摘要：用 Claude 替代彭博终端：10 个提示词让你在家搭建私人量化分析师](summaries/摘要：用 Claude 替代彭博终端：10 个提示词让你在家搭建私人量化分析师.md)（[原文](https://x.com/NextBullReady/status/2031248942915268815)，文章链接）
 
 - 未匹配：GitHub README

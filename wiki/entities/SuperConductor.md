@@ -8,7 +8,7 @@ tags:
 - IDE 集成
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-24'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/639ff05b20474511958ebc7b6b5c23b7
@@ -41,4 +41,4 @@ SuperConductor 是一款原生 macOS 的 AI Coding Agent 管理工具，采用 1
 
 ## 来源引用
 
-- 未匹配：X 推文（@berryxia，2026-04-10）
+- [摘要：用 Claude 替代彭博终端：10 个提示词让你在家搭建私人量化分析师](summaries/摘要：用 Claude 替代彭博终端：10 个提示词让你在家搭建私人量化分析师.md)（[原文](https://x.com/NextBullReady/status/2031248942915268815)，文章链接）

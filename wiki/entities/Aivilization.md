@@ -5,9 +5,9 @@ tags:
 - AI 产品
 - Agent 技能
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/45c26857a125455999e3e8a2a767c8ce
@@ -28,4 +28,4 @@ Aivilization 是一类以 AI Agent 驱动角色或世界交互的游戏化项目
 
 ## 来源引用
 
-- 《OpenClaw 版星露谷：让 Agent 帮你种菜偷菜，游戏的乐趣边界在哪里？》｜文章链接：[https://x.com/0xAikoDai/status/2031214574301753836](https://x.com/0xAikoDai/status/2031214574301753836)
+- [摘要：Lightweight agent harness for building AI agents!](summaries/摘要：Lightweight agent harness for building AI agents!.md)

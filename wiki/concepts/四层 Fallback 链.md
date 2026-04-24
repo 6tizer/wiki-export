@@ -4,9 +4,9 @@ type: concept
 tags:
 - Agent 编排
 - Agent 框架
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/3e60e7fbba0b48609ee97638cda58ab6
@@ -27,4 +27,4 @@ notion_id: 3e60e7fb-ba0b-4860-9ee9-7638cda58ab6
 
 ## 来源引用
 
-- 《OmniRoute：一个入口接管 67+ AI 提供商，让你永远不用担心限速和封号》｜文章链接：[https://x.com/QingQ77/status/2031011360977678528](https://x.com/QingQ77/status/2031011360977678528)
+- [摘要：30 分钟精通 Claude Code](summaries/摘要：30 分钟精通 Claude Code.md)

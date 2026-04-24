@@ -3,9 +3,9 @@ title: FRED
 type: entity
 tags:
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2e874e0504cb4cc19b770eaccba62d06
@@ -26,4 +26,4 @@ FRED 是圣路易斯联储维护的官方宏观经济数据库，提供 M2、资
 
 ## 来源引用
 
-- 《看懂「水往哪流」：六个顶级宏观与链上数据工具深度盘点》
+- [摘要：国内自建 Peer Relay 实现 Tailscale 加速：RTT 160ms → 30ms](summaries/摘要：国内自建 Peer Relay 实现 Tailscale 加速：RTT 160ms → 30ms.md)

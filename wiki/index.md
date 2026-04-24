@@ -1,15 +1,15 @@
 ---
 type: index
-total_concepts: 1688
-total_entities: 814
+total_concepts: 1693
+total_entities: 817
 total_syntheses: 84
-last_updated: 2026-04-24
+last_updated: 2026-04-25
 ---
 
 # 📚 知识 Wiki Index
 
-> 1688 concepts · 814 entities · 84 syntheses
-> 导出时间: 2026-04-24
+> 1693 concepts · 817 entities · 84 syntheses
+> 导出时间: 2026-04-25
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
@@ -671,6 +671,7 @@ last_updated: 2026-04-24
 - [GEP 协议](concepts/GEP 协议.md)
 - [Gene](concepts/Gene.md)
 - [Git 共享记忆层](concepts/Git 共享记忆层.md)
+- [Global State 数据总线架构](concepts/Global State 数据总线架构.md)
 - [Graph of Skills](concepts/Graph of Skills.md)
 - [Guardrails](concepts/Guardrails.md)
 - [Hands 机制](concepts/Hands 机制.md)
@@ -1676,6 +1677,7 @@ last_updated: 2026-04-24
 - [Attention Matching](concepts/Attention Matching.md)
 - [Attention Residuals](concepts/Attention Residuals.md)
 - [Auxiliary 副驾模型](concepts/Auxiliary 副驾模型.md)
+- [Benchmark Gallery](concepts/Benchmark Gallery.md)
 - [Big Blob of Compute](concepts/Big Blob of Compute.md)
 - [Binary RL](concepts/Binary RL.md)
 - [Block Diffusion](concepts/Block Diffusion.md)
@@ -1747,9 +1749,11 @@ last_updated: 2026-04-24
 - [Memory Interleaving](concepts/Memory Interleaving.md)
 - [Memory Parallel](concepts/Memory Parallel.md)
 - [Memory Sparse Attention](concepts/Memory Sparse Attention.md)
+- [Metric Library](concepts/Metric Library.md)
 - [MiMo Coding Bench](concepts/MiMo Coding Bench.md)
 - [Mixture-of-Recursions](concepts/Mixture-of-Recursions.md)
 - [Multi-Token Prediction](concepts/Multi-Token Prediction.md)
+- [Muon 优化器](concepts/Muon 优化器.md)
 - [Next-State Signal](concepts/Next-State Signal.md)
 - [OCR](concepts/OCR.md)
 - [On-Policy RL](concepts/On-Policy RL.md)
@@ -1915,6 +1919,7 @@ last_updated: 2026-04-24
 - [监督微调](concepts/监督微调.md)
 - [知识操作](concepts/知识操作.md)
 - [知识流形](concepts/知识流形.md)
+- [稀疏注意力](concepts/稀疏注意力.md)
 - [端侧模型](concepts/端侧模型.md)
 - [签名指纹](concepts/签名指纹.md)
 - [算力霸权](concepts/算力霸权.md)
@@ -1986,6 +1991,7 @@ last_updated: 2026-04-24
 - [DataFlex](entities/DataFlex.md)
 - [Deep Research](entities/Deep Research.md)
 - [DeepSeek](entities/DeepSeek.md)
+- [DeepSeek V4](entities/DeepSeek V4.md)
 - [Dola](entities/Dola.md)
 - [DreamZero](entities/DreamZero.md)
 - [Echo](entities/Echo.md)
@@ -2040,6 +2046,7 @@ last_updated: 2026-04-24
 - [Nous Portal](entities/Nous Portal.md)
 - [Nous Research](entities/Nous Research.md)
 - [OmniRoute](entities/OmniRoute.md)
+- [One-Eval](entities/One-Eval.md)
 - [OpenAI](entities/OpenAI.md)
 - [OpenAI Privacy Filter](entities/OpenAI Privacy Filter.md)
 - [OpenKB](entities/OpenKB.md)
@@ -2480,6 +2487,7 @@ last_updated: 2026-04-24
 - [Nova](entities/Nova.md)
 - [Octo](entities/Octo.md)
 - [OiiOii](entities/OiiOii.md)
+- [Open CoDesign](entities/Open CoDesign.md)
 - [Open Generative AI](entities/Open Generative AI.md)
 - [OpenMontage](entities/OpenMontage.md)
 - [PANews Skills](entities/PANews Skills.md)
@@ -3228,6 +3236,7 @@ last_updated: 2026-04-24
 - [Git Worktree](concepts/Git Worktree.md)
 - [Git 作为 Agent 记忆](concepts/Git 作为 Agent 记忆.md)
 - [Git 组织协议](concepts/Git 组织协议.md)
+- [Global State 数据总线架构](concepts/Global State 数据总线架构.md)
 - [HTTP Hooks](concepts/HTTP Hooks.md)
 - [Handoff 文档](concepts/Handoff 文档.md)
 - [Hands 机制](concepts/Hands 机制.md)
@@ -3513,6 +3522,7 @@ last_updated: 2026-04-24
 - [Cloudflare Dynamic Workers](entities/Cloudflare Dynamic Workers.md)
 - [Cloudflare R2](entities/Cloudflare R2.md)
 - [Cloudflare Workers](entities/Cloudflare Workers.md)
+- [DataFlow](entities/DataFlow.md)
 - [Dify](entities/Dify.md)
 - [GSD](entities/GSD.md)
 - [GoBot](entities/GoBot.md)
@@ -3558,6 +3568,7 @@ last_updated: 2026-04-24
 - [Backend Context Engineering](concepts/Backend Context Engineering.md)
 - [Bash 浏览器自动化](concepts/Bash 浏览器自动化.md)
 - [Batching & Yielding](concepts/Batching & Yielding.md)
+- [Benchmark Gallery](concepts/Benchmark Gallery.md)
 - [Bug-for-bug 兼容](concepts/Bug-for-bug 兼容.md)
 - [Burrows-Wheeler Transform](concepts/Burrows-Wheeler Transform.md)
 - [C++ 级指纹伪造](concepts/C++ 级指纹伪造.md)
@@ -3607,6 +3618,7 @@ last_updated: 2026-04-24
 - [LanceDB](concepts/LanceDB.md)
 - [Layout-aware PDF Parsing](concepts/Layout-aware PDF Parsing.md)
 - [MagicDNS](concepts/MagicDNS.md)
+- [Metric Library](concepts/Metric Library.md)
 - [Monorepo](concepts/Monorepo.md)
 - [Nordic UART Service](concepts/Nordic UART Service.md)
 - [OCR](concepts/OCR.md)
@@ -3772,6 +3784,7 @@ last_updated: 2026-04-24
 - [Cube Sandbox](entities/Cube Sandbox.md)
 - [DGX Cloud](entities/DGX Cloud.md)
 - [DataFlex](entities/DataFlex.md)
+- [DataFlow](entities/DataFlow.md)
 - [Dataview](entities/Dataview.md)
 - [Depth Anything V2](entities/Depth Anything V2.md)
 - [Dify](entities/Dify.md)
@@ -3835,6 +3848,8 @@ last_updated: 2026-04-24
 - [Obsidian Git](entities/Obsidian Git.md)
 - [Obsidian Web Clipper](entities/Obsidian Web Clipper.md)
 - [Ollama](entities/Ollama.md)
+- [One-Eval](entities/One-Eval.md)
+- [Open CoDesign](entities/Open CoDesign.md)
 - [Open Generative AI](entities/Open Generative AI.md)
 - [Open Lovable](entities/Open Lovable.md)
 - [Open WebUI](entities/Open WebUI.md)

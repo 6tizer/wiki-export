@@ -8,7 +8,7 @@ tags:
 - MCP 协议
 status: 草稿
 confidence: high
-last_compiled: '2026-04-24'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/dca226112c4844b191d27983a661b301
@@ -45,6 +45,6 @@ pikiclaw 是一个开源 Node.js 工具，通过 Telegram、飞书、微信等 I
 
 ## 来源引用
 
-- 未匹配：X 推文回复（@sthnavy，2026-04-10）
+- [摘要：用 Claude 替代彭博终端：10 个提示词让你在家搭建私人量化分析师](summaries/摘要：用 Claude 替代彭博终端：10 个提示词让你在家搭建私人量化分析师.md)（[原文](https://x.com/NextBullReady/status/2031248942915268815)，文章链接）
 
 - 未匹配：GitHub README

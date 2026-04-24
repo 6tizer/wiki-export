@@ -4,7 +4,7 @@ type: entity
 tags:
 - 记忆系统
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''

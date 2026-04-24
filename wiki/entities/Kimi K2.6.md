@@ -8,7 +8,7 @@ tags:
 - AI 产品
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/531518c2ee794184b4d3cb11b26fbc3e
@@ -44,6 +44,8 @@ Kimi K2.6 是月之暗面面向 AI 编程场景推出的模型版本，可通过
 - [摘要：ziggy-llm](summaries/摘要：ziggy-llm.md)（[原文](https://x.com/zxytim/status/2046255419178500408)）
 
 - [摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel AI Gateway.](summaries/摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel AI Gateway.md)（[原文](https://x.com/cline/status/2047038658470142148)）
+
+- [摘要：没想到！DeepSeek V4里，竟还藏着一个中国万亿开源模型](summaries/摘要：没想到！DeepSeek V4里，竟还藏着一个中国万亿开源模型.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652695014&idx=1&sn=f81382e51e476c13729ea001ffe75420&chksm=f0c02cf19ac3820ed9dbd1dac8fdbc7a605ff4e7415e7f0073c959a057da3463cc44512e18b7#rd)）
 
 ## 关联概念
 
