@@ -5,7 +5,7 @@ tags:
 - LLM
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/357d72a5fe0a404b95247c5607c35001
@@ -26,4 +26,4 @@ notion_id: 357d72a5-fe0a-404b-9524-7c5607c35001
 
 ## 来源引用
 
-- 《Gemini Embedding 2：Google 首个原生多模态向量模型，让文字、图片、视频、音频住进同一个语义空间》｜X书签文章｜原文链接：[https://x.com/GoogleAIStudio/status/2031421162123870239](https://x.com/GoogleAIStudio/status/2031421162123870239)
+- [摘要：Gemini Embedding 2：Google 首个原生多模态向量模型，让文字、图片、视频、音频住进同一个语义空间](summaries/摘要：Gemini Embedding 2：Google 首个原生多模态向量模型，让文字、图片、视频、音频住进同一个语义空间.md)（X书签文章）

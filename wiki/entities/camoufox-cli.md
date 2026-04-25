@@ -6,7 +6,7 @@ tags:
 - 开发工具
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/627f887f989c4a56aa1a42f2a709dfa3
@@ -27,4 +27,4 @@ camoufox-cli 是一个面向 Agent 的浏览器自动化 CLI，封装了基于 F
 
 ## 来源引用
 
-- 《camoufox-cli：让 AI Agent 的浏览器不再被识破》｜X书签文章｜原文链接：[https://x.com/benn_huang/status/2031634654441460009](https://x.com/benn_huang/status/2031634654441460009)
+- 未匹配：camoufox-cli：让 AI Agent 的浏览器不再被识破

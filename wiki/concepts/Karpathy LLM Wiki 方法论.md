@@ -213,7 +213,7 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 
 - [摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。](summaries/摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。.md)（开源星探，2026-04-11）
 
-- 《用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践》｜X书签文章｜原文链接：[https://x.com/yanhua1010/status/2039966047378583815](https://x.com/yanhua1010/status/2039966047378583815)｜来源条目：[摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践](summaries/摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践.md)
+- [摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践](summaries/摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践.md)（X书签文章，[原文](https://x.com/yanhua1010/status/2039966047378583815)）
 
 - [原文链接](https://x.com/karpathy/status/2040470801506541998)｜Karpathy 的 LLM Wiki：用 AI 编译你的私人知识库，告别 RAG｜源文章：Karpathy 的 LLM Wiki：用 AI 编译你的私人知识库，告别 RAG
 

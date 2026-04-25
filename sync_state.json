@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-25T11:19:05.804133+08:00",
+  "last_sync_time": "2026-04-25T17:20:29.186063+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 3850,
+  "total_pages_exported": 3846,
   "page_mapping": {
     "0fe9d271-3d82-4995-ad15-00fc8d446de0": {
       "type": "concept",
@@ -401,7 +401,7 @@
     "0673adc5-ec4e-42d9-987d-d004beb44094": {
       "type": "concept",
       "file_path": "wiki/concepts/插件化架构.md",
-      "last_edited": "2026-04-23T18:09:00.000Z"
+      "last_edited": "2026-04-25T03:32:00.000Z"
     },
     "072080fe-a519-4b91-8dd8-a8a866aabdd9": {
       "type": "concept",
@@ -2096,7 +2096,7 @@
     "1e9b20c3-6bf1-4e35-aa49-6be61ac13bb3": {
       "type": "entity",
       "file_path": "wiki/entities/SuperHQ.md",
-      "last_edited": "2026-04-25T02:24:00.000Z"
+      "last_edited": "2026-04-25T03:32:00.000Z"
     },
     "1e9cf5fc-9213-4536-ab04-4033aa3c3019": {
       "type": "concept",
@@ -2606,7 +2606,7 @@
     "263d46a0-8f2e-4695-aa04-1c9ccdd5cf01": {
       "type": "concept",
       "file_path": "wiki/concepts/RAG.md",
-      "last_edited": "2026-04-23T10:13:00.000Z"
+      "last_edited": "2026-04-25T03:32:00.000Z"
     },
     "264972e9-e45f-4fc7-8029-17d9b321ca6c": {
       "type": "concept",
@@ -3456,7 +3456,7 @@
     "32ee3661-a7cd-4907-954c-782ab877a00a": {
       "type": "entity",
       "file_path": "wiki/entities/ClawWork.md",
-      "last_edited": "2026-04-23T14:31:00.000Z"
+      "last_edited": "2026-04-25T03:32:00.000Z"
     },
     "32fc1575-e7b4-4f27-8878-e4a46d68b211": {
       "type": "entity",
@@ -3596,7 +3596,7 @@
     "357d72a5-fe0a-404b-9524-7c5607c35001": {
       "type": "concept",
       "file_path": "wiki/concepts/原生多模态 Embedding.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T07:26:00.000Z"
     },
     "359f7c00-6ae2-4d5e-8ec1-366c7537ccee": {
       "type": "summary",
@@ -3806,7 +3806,7 @@
     "3904abe4-5856-4543-88d3-c7162da0a66d": {
       "type": "concept",
       "file_path": "wiki/concepts/Agentic Navigation.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T07:26:00.000Z"
     },
     "391753ac-8a14-4150-b860-88c9e2e2501d": {
       "type": "concept",
@@ -4816,7 +4816,7 @@
     "497b9923-799f-4126-9a4b-cc22932f7cfc": {
       "type": "concept",
       "file_path": "wiki/concepts/C++ 级指纹伪造.md",
-      "last_edited": "2026-04-23T16:34:00.000Z"
+      "last_edited": "2026-04-25T07:26:00.000Z"
     },
     "4987bdc3-a240-4298-a252-5ede49893bb3": {
       "type": "entity",
@@ -5696,7 +5696,7 @@
     "580241e7-4f0a-4714-bd24-f85de2e3047a": {
       "type": "entity",
       "file_path": "wiki/entities/Cloudflare -crawl.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T07:26:00.000Z"
     },
     "580ef5de-0fa0-4057-a53d-87f076b30250": {
       "type": "concept",
@@ -5706,7 +5706,7 @@
     "581efb11-8b00-4958-8f21-92179d5458cf": {
       "type": "concept",
       "file_path": "wiki/concepts/Agent 可观测性.md",
-      "last_edited": "2026-04-23T14:35:00.000Z"
+      "last_edited": "2026-04-25T03:32:00.000Z"
     },
     "58221f1b-643d-4879-beee-b39a6cc80204": {
       "type": "concept",
@@ -6331,7 +6331,7 @@
     "627f887f-989c-4a56-aa1a-42f2a709dfa3": {
       "type": "entity",
       "file_path": "wiki/entities/camoufox-cli.md",
-      "last_edited": "2026-04-23T17:35:00.000Z"
+      "last_edited": "2026-04-25T07:26:00.000Z"
     },
     "628fef81-a1b2-47de-9d91-340fc81b0e35": {
       "type": "concept",
@@ -7336,7 +7336,7 @@
     "71e1b901-a32e-499a-9547-5faf4e53bce5": {
       "type": "concept",
       "file_path": "wiki/concepts/Karpathy LLM Wiki 方法论.md",
-      "last_edited": "2026-04-25T02:25:00.000Z"
+      "last_edited": "2026-04-25T03:30:00.000Z"
     },
     "71edb3b7-4600-4acf-bb8c-05ff8f142e98": {
       "type": "concept",
@@ -7441,7 +7441,7 @@
     "73ca15df-54ca-4708-9801-1eccd389e395": {
       "type": "entity",
       "file_path": "wiki/entities/Dify.md",
-      "last_edited": "2026-04-23T18:01:00.000Z"
+      "last_edited": "2026-04-25T03:32:00.000Z"
     },
     "73f2de8e-1fbe-451f-a655-8e2ff1fe03d8": {
       "type": "concept",
@@ -7941,7 +7941,7 @@
     "7c007ace-3f10-49e7-8455-0051433ee997": {
       "type": "concept",
       "file_path": "wiki/concepts/Browser Rendering.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T07:26:00.000Z"
     },
     "7c0cf719-f3a4-416c-a0dc-d503eae82f52": {
       "type": "summary",
@@ -8401,7 +8401,7 @@
     "8378bcae-d69e-4c7d-9107-2b0620aaf996": {
       "type": "concept",
       "file_path": "wiki/concepts/书签 AI 管道.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T07:25:00.000Z"
     },
     "8389b9ea-0517-492a-8b84-bb0a20b17120": {
       "type": "concept",
@@ -9231,7 +9231,7 @@
     "90aefb21-b990-48e1-be00-ce7bc5068a5f": {
       "type": "concept",
       "file_path": "wiki/concepts/AI Crawl Control.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T07:26:00.000Z"
     },
     "90d5e545-e3ac-4af1-abcd-4018b57aaa43": {
       "type": "entity",
@@ -10181,7 +10181,7 @@
     "9f112634-2935-4910-a39f-09b999557f41": {
       "type": "concept",
       "file_path": "wiki/concepts/Claude Code 上下文管理.md",
-      "last_edited": "2026-04-24T06:35:00.000Z"
+      "last_edited": "2026-04-25T03:31:00.000Z"
     },
     "9f20c591-e5be-4301-ae81-18b0b1def0a4": {
       "type": "entity",
@@ -10321,7 +10321,7 @@
     "a0b2ab8f-ea9c-47eb-9a9f-ec57a199157b": {
       "type": "concept",
       "file_path": "wiki/concepts/LLM 知识编译.md",
-      "last_edited": "2026-04-24T03:31:00.000Z"
+      "last_edited": "2026-04-25T03:32:00.000Z"
     },
     "a0ebe1a3-e25c-43c8-9610-6b9f4dac3f45": {
       "type": "entity",
@@ -11791,7 +11791,7 @@
     "b6d40e70-b845-40fb-8873-20e9cc71bd89": {
       "type": "concept",
       "file_path": "wiki/concepts/AI 身份模型.md",
-      "last_edited": "2026-04-23T14:32:00.000Z"
+      "last_edited": "2026-04-25T03:32:00.000Z"
     },
     "b6d5a03e-55bc-4538-a9be-d129dfe4ffba": {
       "type": "summary",
@@ -14276,7 +14276,7 @@
     "db6a3255-8b1c-48e8-8f34-8d27ae28ddcc": {
       "type": "concept",
       "file_path": "wiki/concepts/find-skills.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T07:25:00.000Z"
     },
     "db6fb9bc-c961-46ba-b8e7-ec23e26ffc3c": {
       "type": "synthesis",
@@ -16176,7 +16176,7 @@
     "fb9e659b-f8df-4e87-a1c5-3580c0910364": {
       "type": "concept",
       "file_path": "wiki/concepts/多步骤研究规划.md",
-      "last_edited": "2026-04-23T14:32:00.000Z"
+      "last_edited": "2026-04-25T03:32:00.000Z"
     },
     "fbaa045c-eb5f-40ac-9586-c883f8c4840c": {
       "type": "entity",
@@ -19222,6 +19222,16 @@
       "type": "entity",
       "file_path": "wiki/entities/Strategy.md",
       "last_edited": "2026-04-24T23:25:00.000Z"
+    },
+    "e401405a-571e-49f3-aa7a-4627e534bd9a": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md",
+      "last_edited": "2026-04-25T09:12:00.000Z"
+    },
+    "f07cd155-83a4-4710-bcb3-6ba9cab51940": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/Agent 技能的商业化拓扑：从免费能力模块到可计价服务单元的价值捕获路径与生态博弈.md",
+      "last_edited": "2026-04-25T09:12:00.000Z"
     }
   }
 }

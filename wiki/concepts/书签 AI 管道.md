@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8378bcaed69e4c7d91072b0620aaf996
@@ -27,4 +27,4 @@ notion_id: 8378bcae-d69e-4c7d-9107-2b0620aaf996
 
 ## 来源引用
 
-- 《Siftly：把你堆积如山的 X 书签变成本地 AI 知识库》｜X书签文章
+- [摘要：Siftly：把你堆积如山的 X 书签变成本地 AI 知识库](summaries/摘要：Siftly：把你堆积如山的 X 书签变成本地 AI 知识库.md)（X书签文章）
