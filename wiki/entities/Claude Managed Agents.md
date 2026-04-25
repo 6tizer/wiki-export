@@ -100,3 +100,5 @@ Claude Managed Agents 是 Anthropic 推出的托管式 Agent 方案，将更多 
 - [原文链接](https://x.com/dotey/status/2043904844608532640)｜《Vercel 开源了 Open Agents，一个用来搭建企业自有编程 Agent 平台的参考实现。》｜来源条目：[摘要：Vercel 开源了 Open Agents，一个用来搭建企业自有编程 Agent 平台的参考实现。](summaries/摘要：Vercel 开源了 Open Agents，一个用来搭建企业自有编程 Agent 平台的参考实现。.md)
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247627539&idx=1&sn=da04448ed2172c5381d68b24e0454247&chksm=c31182e7c7ef6bde7a36b46d0bcde4b0b20f049b7cdbbe53d6ae77d1d83ea99c2250b5f96f56#rd)｜《别人都在卷Harness， 而Google 的沉默振聋发聩》｜源文章：别人都在卷Harness， 而Google 的沉默振聋发聩
+
+- [摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心](summaries/摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652695027&idx=2&sn=95c7c69c2170bdfcc5acec870d14cd59&chksm=f0e3f5d6d7d4b599e156421a54e77bfae306b7fb7b21299b37c7ddcf43d8de24ef5723b0a15c#rd)）

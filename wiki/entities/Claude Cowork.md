@@ -33,6 +33,8 @@ Claude Cowork 是 Anthropic 推出的 agentic 协作产品，目标是让 Claude
 
 - [摘要：Anthropic has quietly shipped third-party inference for Cowork and Code in Claude Desktop.](summaries/摘要：Anthropic has quietly shipped third-party inference for Cowork and Code in Claude Desktop.md)（[原文](https://x.com/PawelHuryn/status/2047039360856387944)）
 
+- [摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心](summaries/摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652695027&idx=2&sn=95c7c69c2170bdfcc5acec870d14cd59&chksm=f0e3f5d6d7d4b599e156421a54e77bfae306b7fb7b21299b37c7ddcf43d8de24ef5723b0a15c#rd)）
+
 ## 关联概念
 
 - [Anthropic](entities/Anthropic.md)

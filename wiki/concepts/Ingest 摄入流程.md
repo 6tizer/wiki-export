@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 审核中
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/628fef81a1b247de9d91340fc81b0e35
@@ -33,6 +33,8 @@ Ingest 摄入流程是 LLM Wiki 工作流中的入口操作：当新资料进入
 
 - 《Claude + Obsidian | How to use your second brain》｜X书签文章｜原文链接：[https://x.com/defileo/status/2043762213597397179](https://x.com/defileo/status/2043762213597397179)｜来源条目：[摘要：Claude + Obsidian | How to use your second brain](summaries/摘要：Claude + Obsidian  How to use your second brain.md)
 
+- [摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打造的 AI 知识库应用！](summaries/摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打造的 AI 知识库应用！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkwMjQ0NzI0OQ%3D%3D&mid=2247505963&idx=1&sn=b590481b7f9c1dd86ea25cf168a2d7a4&chksm=c117c2239e6f0d9f4bcb402b081126525c06d59d365925b3d4a00f67978b1b98416d0fadb10a#rd)）
+
 ## 关联概念
 
 - [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)
@@ -46,3 +48,5 @@ Ingest 摄入流程是 LLM Wiki 工作流中的入口操作：当新资料进入
 - [Idea File](concepts/Idea File.md)
 
 - [claude-obsidian](entities/claude-obsidian.md)
+
+- [SHA256 增量缓存](concepts/SHA256 增量缓存.md)

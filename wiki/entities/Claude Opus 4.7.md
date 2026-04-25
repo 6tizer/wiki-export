@@ -5,7 +5,7 @@ tags:
 - LLM
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/9cf7cd9ec5cc40379de18fd46150f022
@@ -44,6 +44,12 @@ Claude Opus 4.7 是 Anthropic Claude 系列中的一个模型版本。按本文�
 
 - [TikTok Draft 发布工作流](concepts/TikTok Draft 发布工作流.md)
 
+- [GPT-5.5](entities/GPT-5.5.md)
+
+- [SWE-bench Pro](concepts/SWE-bench Pro.md)
+
+- [模型路由](concepts/模型路由.md)
+
 ## 来源引用
 
 - [摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](summaries/摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide).md)（[原文](https://x.com/alexcooldev/status/2044820024695947654)）
@@ -55,3 +61,5 @@ Claude Opus 4.7 是 Anthropic Claude 系列中的一个模型版本。按本文�
 - [摘要：Claude Design](summaries/摘要：Claude Design.md)（[原文](https://x.com/claudeai/status/2045156267690213649)）
 
 - [摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动](summaries/摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动.md)（[原文](https://x.com/cerebral_valley/status/2045249129950097535)）
+
+- [摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。](summaries/摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI0ODk2NDIyMQ%3D%3D&mid=2247503221&idx=1&sn=3abe9c7d236f01328eff06cd93eb7286&chksm=e82a4c1d62d3dd1ee3fd07f99ef1de65c916585b4cb636d26a2e714edc4dfd62c9315a534f8c#rd)）

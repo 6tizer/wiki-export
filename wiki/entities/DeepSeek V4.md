@@ -6,7 +6,7 @@ tags:
 - LLM
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-24'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/68a41e76b0d440718cca217cdd1b9810
@@ -35,6 +35,8 @@ notion_id: 68a41e76-b0d4-4071-8cca-217cdd1b9810
 
 - [摘要：没想到！DeepSeek V4里，竟还藏着一个中国万亿开源模型](summaries/摘要：没想到！DeepSeek V4里，竟还藏着一个中国万亿开源模型.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652695014&idx=1&sn=f81382e51e476c13729ea001ffe75420&chksm=f0c02cf19ac3820ed9dbd1dac8fdbc7a605ff4e7415e7f0073c959a057da3463cc44512e18b7#rd)）
 
+- [摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。](summaries/摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI0ODk2NDIyMQ%3D%3D&mid=2247503221&idx=1&sn=3abe9c7d236f01328eff06cd93eb7286&chksm=e82a4c1d62d3dd1ee3fd07f99ef1de65c916585b4cb636d26a2e714edc4dfd62c9315a534f8c#rd)）
+
 **关联概念**
 
 - [国产算力基础设施](concepts/国产算力基础设施.md)
@@ -42,3 +44,9 @@ notion_id: 68a41e76-b0d4-4071-8cca-217cdd1b9810
 - [1M 上下文](concepts/1M 上下文.md)
 
 - [端侧模型](concepts/端侧模型.md)
+
+- [GPT-5.5](entities/GPT-5.5.md)
+
+- [Claude Opus 4.7](entities/Claude Opus 4.7.md)
+
+- [模型路由](concepts/模型路由.md)

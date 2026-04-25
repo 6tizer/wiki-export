@@ -3,9 +3,9 @@ title: Louvain 社区检测
 type: concept
 tags:
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/84d70afe2c774ba8a0e0b5bafa8fe1f5
@@ -34,8 +34,12 @@ Louvain 社区检测是一种图网络聚类方法，用来把知识图谱中的
 
 - [LanceDB](concepts/LanceDB.md)
 
+- [四信号知识图谱](concepts/四信号知识图谱.md)
+
 ## 来源引用
 
 - [摘要：让 AI 帮你自动打理个人知识库，把你的各种文档自动整理成一套相互关联、持续更新的个人维基](summaries/摘要：让 AI 帮你自动打理个人知识库，把你的各种文档自动整理成一套相互关联、持续更新的个人维基.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2MjY1NDIzNg%3D%3D&mid=2247499264&idx=1&sn=4a31c6e7999e7ba2cac50fe8f189c5ca&chksm=cfd4f4f5944b48a7b7a4a628eb12f5ede6b88f74d5471ab8cc43a53c661ff1cc77689da97efb#rd)）
 
 - [原文链接](https://x.com/nash_su/status/2042441606616568263)｜《llm-wiki v0.2.0：用知识图谱和社区检测，让你的个人知识库真正「活」起来》｜源文章：llm-wiki v0.2.0：用知识图谱和社区检测，让你的个人知识库真正「活」起来
+
+- [摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打造的 AI 知识库应用！](summaries/摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打造的 AI 知识库应用！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkwMjQ0NzI0OQ%3D%3D&mid=2247505963&idx=1&sn=b590481b7f9c1dd86ea25cf168a2d7a4&chksm=c117c2239e6f0d9f4bcb402b081126525c06d59d365925b3d4a00f67978b1b98416d0fadb10a#rd)）

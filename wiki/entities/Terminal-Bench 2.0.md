@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0c445748e9294f00a39b12a0c0c2ecca
@@ -50,6 +50,16 @@ Terminal-Bench 2.0 是一个面向终端场景的编程能力测试基准，用�
 
 - [Vercel AI Gateway](entities/Vercel AI Gateway.md)
 
+- [Claude Opus 4.7](entities/Claude Opus 4.7.md)
+
+- [SWE-bench Pro](concepts/SWE-bench Pro.md)
+
+- [OSWorld-Verified](entities/OSWorld-Verified.md)
+
+- [Agentic Workflow](concepts/Agentic Workflow.md)
+
+- [自托管](concepts/自托管.md)
+
 ## 来源引用
 
 - [摘要：Introducing GPT-5.5](summaries/摘要：Introducing GPT-5.5.md)（[原文](https://x.com/OpenAI/status/2047376561205325845)）
@@ -63,3 +73,7 @@ Terminal-Bench 2.0 是一个面向终端场景的编程能力测试基准，用�
 - [摘要：刚刚，千问最强模型发布，登顶国产最佳](summaries/摘要：刚刚，千问最强模型发布，登顶国产最佳.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651088482&idx=1&sn=f82d4a5697aef837b57ea6353285d4be&chksm=bcff0435172cd02b80b80bc26991b8c0718cb409d76938cfb784f9aa171331118262579e5653#rd)）
 
 - [摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel AI Gateway.](summaries/摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel AI Gateway.md)（[原文](https://x.com/cline/status/2047038658470142148)）
+
+- [摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。](summaries/摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI0ODk2NDIyMQ%3D%3D&mid=2247503221&idx=1&sn=3abe9c7d236f01328eff06cd93eb7286&chksm=e82a4c1d62d3dd1ee3fd07f99ef1de65c916585b4cb636d26a2e714edc4dfd62c9315a534f8c#rd)）
+
+- [摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙](summaries/摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU4OTY4MDU4MQ%3D%3D&mid=2247490900&idx=1&sn=823e360812006af69f9c2e01cf2d3601&chksm=fc955696662d95b68a7dfab13245552377720ba90794116217337957a434e9e8544f71d19a9d#rd)）

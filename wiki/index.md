@@ -1,14 +1,14 @@
 ---
 type: index
-total_concepts: 1693
-total_entities: 817
-total_syntheses: 84
+total_concepts: 1698
+total_entities: 819
+total_syntheses: 86
 last_updated: 2026-04-25
 ---
 
 # 📚 知识 Wiki Index
 
-> 1693 concepts · 817 entities · 84 syntheses
+> 1698 concepts · 819 entities · 86 syntheses
 > 导出时间: 2026-04-25
 
 ## 使用方式
@@ -83,6 +83,7 @@ last_updated: 2026-04-25
 - [Agent 云设备](concepts/Agent 云设备.md)
 - [Agent 剪藏](concepts/Agent 剪藏.md)
 - [Agent 封装粒度](concepts/Agent 封装粒度.md)
+- [Agent 扩展生态](concepts/Agent 扩展生态.md)
 - [Agent 数据采集 API](concepts/Agent 数据采集 API.md)
 - [Agent 自我调试](concepts/Agent 自我调试.md)
 - [Agent-Managed Skills](concepts/Agent-Managed Skills.md)
@@ -461,6 +462,7 @@ last_updated: 2026-04-25
 - [CREAO](entities/CREAO.md)
 - [Claude Agent SDK](entities/Claude Agent SDK.md)
 - [Claude Cowork](entities/Claude Cowork.md)
+- [Claude Dispatch](entities/Claude Dispatch.md)
 - [Claude Managed Agents](entities/Claude Managed Agents.md)
 - [ClawHost](entities/ClawHost.md)
 - [ClawOS](entities/ClawOS.md)
@@ -841,6 +843,7 @@ last_updated: 2026-04-25
 - [工作流蒸馏](concepts/工作流蒸馏.md)
 - [工具并发分类](concepts/工具并发分类.md)
 - [带类型关系归纳](concepts/带类型关系归纳.md)
+- [常驻智能体](concepts/常驻智能体.md)
 - [异步事件驱动编排](concepts/异步事件驱动编排.md)
 - [异步生成器](concepts/异步生成器.md)
 - [异步编程 Agent](concepts/异步编程 Agent.md)
@@ -1537,9 +1540,11 @@ last_updated: 2026-04-25
 - [情绪雷达](concepts/情绪雷达.md)
 - [托管式链上交易 API](concepts/托管式链上交易 API.md)
 - [提示词驱动量化研究](concepts/提示词驱动量化研究.md)
+- [数字资产财库](concepts/数字资产财库.md)
 - [整数规划](concepts/整数规划.md)
 - [智能钱包追踪](concepts/智能钱包追踪.md)
 - [正向猜疑链](concepts/正向猜疑链.md)
+- [比特币增益](concepts/比特币增益.md)
 - [法币思维](concepts/法币思维.md)
 - [稳定币收益聚合](concepts/稳定币收益聚合.md)
 - [统计套利](concepts/统计套利.md)
@@ -1623,6 +1628,7 @@ last_updated: 2026-04-25
 - [Sam Bankman-Fried](entities/Sam Bankman-Fried.md)
 - [Smartclaw](entities/Smartclaw.md)
 - [StockClaw](entities/StockClaw.md)
+- [Strategy](entities/Strategy.md)
 - [Strategy Studio](entities/Strategy Studio.md)
 - [TON Pay SDK](entities/TON Pay SDK.md)
 - [TON Wallet](entities/TON Wallet.md)
@@ -2359,7 +2365,6 @@ last_updated: 2026-04-25
 - [Voice Calibration](concepts/Voice Calibration.md)
 - [Voice Design](concepts/Voice Design.md)
 - [WCAG 可访问性](concepts/WCAG 可访问性.md)
-- [Wish Coding](concepts/Wish Coding.md)
 - [Workflow Studio](concepts/Workflow Studio.md)
 - [geo-content-writer](concepts/geo-content-writer.md)
 - [khazix-writer](concepts/khazix-writer.md)
@@ -2575,6 +2580,7 @@ last_updated: 2026-04-25
 - [Agent Mindshare](concepts/Agent Mindshare.md)
 - [Agent Swarms](concepts/Agent Swarms.md)
 - [Agent 原生电商后台](concepts/Agent 原生电商后台.md)
+- [Agent 扩展生态](concepts/Agent 扩展生态.md)
 - [Agent 支付协议](concepts/Agent 支付协议.md)
 - [Agent 经济闭环](concepts/Agent 经济闭环.md)
 - [Agent 身份认证](concepts/Agent 身份认证.md)
@@ -2692,6 +2698,7 @@ last_updated: 2026-04-25
 - [按需付费](concepts/按需付费.md)
 - [接码平台](concepts/接码平台.md)
 - [数字同事](concepts/数字同事.md)
+- [数字资产财库](concepts/数字资产财库.md)
 - [数据护城河](concepts/数据护城河.md)
 - [数据飞轮](concepts/数据飞轮.md)
 - [文档抽取流水线](concepts/文档抽取流水线.md)
@@ -2702,6 +2709,7 @@ last_updated: 2026-04-25
 - [模型即应用](concepts/模型即应用.md)
 - [正向猜疑链](concepts/正向猜疑链.md)
 - [每 PR 成本](concepts/每 PR 成本.md)
+- [比特币增益](concepts/比特币增益.md)
 - [法币思维](concepts/法币思维.md)
 - [注册代理](concepts/注册代理.md)
 - [流量 2.0](concepts/流量 2.0.md)
@@ -2826,6 +2834,7 @@ last_updated: 2026-04-25
 - [Sigrid Jin](entities/Sigrid Jin.md)
 - [SimpleClosure](entities/SimpleClosure.md)
 - [Stargate](entities/Stargate.md)
+- [Strategy](entities/Strategy.md)
 - [Sub2API](entities/Sub2API.md)
 - [Sunset](entities/Sunset.md)
 - [TBPN](entities/TBPN.md)
@@ -3278,6 +3287,7 @@ last_updated: 2026-04-25
 - [Research Skill Graph](concepts/Research Skill Graph.md)
 - [Routines](concepts/Routines.md)
 - [SESSION.md](concepts/SESSION.md.md)
+- [SHA256 增量缓存](concepts/SHA256 增量缓存.md)
 - [SSH 直连工作流](concepts/SSH 直连工作流.md)
 - [Scheduled Run](concepts/Scheduled Run.md)
 - [Scope Reduction Detection](concepts/Scope Reduction Detection.md)
@@ -3310,7 +3320,6 @@ last_updated: 2026-04-25
 - [WSS 实时推送](concepts/WSS 实时推送.md)
 - [Webhook 幂等性](concepts/Webhook 幂等性.md)
 - [Wiki 健康检查](concepts/Wiki 健康检查.md)
-- [Wish Coding](concepts/Wish Coding.md)
 - [Wolf Hour](concepts/Wolf Hour.md)
 - [Workflow Studio](concepts/Workflow Studio.md)
 - [Zero DevOps](concepts/Zero DevOps.md)
@@ -3388,6 +3397,7 @@ last_updated: 2026-04-25
 - [工作流自动化代理](concepts/工作流自动化代理.md)
 - [工作流蒸馏](concepts/工作流蒸馏.md)
 - [工作范围扩展](concepts/工作范围扩展.md)
+- [常驻智能体](concepts/常驻智能体.md)
 - [异常值逻辑](concepts/异常值逻辑.md)
 - [异步审查](concepts/异步审查.md)
 - [微信聊天日报](concepts/微信聊天日报.md)
@@ -3515,6 +3525,7 @@ last_updated: 2026-04-25
 - [Canon 编排器](entities/Canon 编排器.md)
 - [Canva Grow](entities/Canva Grow.md)
 - [Chrome Skills](entities/Chrome Skills.md)
+- [Claude Dispatch](entities/Claude Dispatch.md)
 - [ClawFeed](entities/ClawFeed.md)
 - [ClawFlows](entities/ClawFlows.md)
 - [ClawForce](entities/ClawForce.md)
@@ -3736,6 +3747,7 @@ last_updated: 2026-04-25
 - [网页变更检测](concepts/网页变更检测.md)
 - [能力发现](concepts/能力发现.md)
 - [自动生成接线图](concepts/自动生成接线图.md)
+- [自托管](concepts/自托管.md)
 - [自然语言硬件设计](concepts/自然语言硬件设计.md)
 - [虚拟分支](concepts/虚拟分支.md)
 - [记忆化](concepts/记忆化.md)
@@ -4088,6 +4100,7 @@ last_updated: 2026-04-25
 - [Resolver](concepts/Resolver.md)
 - [Retain 记忆闭环](concepts/Retain 记忆闭环.md)
 - [SESSION.md](concepts/SESSION.md.md)
+- [SHA256 增量缓存](concepts/SHA256 增量缓存.md)
 - [SSOT 路由表](concepts/SSOT 路由表.md)
 - [Schema 结构化数据](concepts/Schema 结构化数据.md)
 - [Selfware 文件协议](concepts/Selfware 文件协议.md)
@@ -4135,6 +4148,7 @@ last_updated: 2026-04-25
 - [原生搜索生态](concepts/原生搜索生态.md)
 - [双向链接](concepts/双向链接.md)
 - [双循环反馈](concepts/双循环反馈.md)
+- [四信号知识图谱](concepts/四信号知识图谱.md)
 - [四文件 Soul 系统](concepts/四文件 Soul 系统.md)
 - [图推理](concepts/图推理.md)
 - [图谱洞察](concepts/图谱洞察.md)
@@ -4158,7 +4172,6 @@ last_updated: 2026-04-25
 - [文件即大脑](concepts/文件即大脑.md)
 - [文档转 Markdown](concepts/文档转 Markdown.md)
 - [新学徒期](concepts/新学徒期.md)
-- [时序知识图谱](concepts/时序知识图谱.md)
 - [时序知识图谱](concepts/时序知识图谱.md)
 - [暗知识编译](concepts/暗知识编译.md)
 - [最小字段设计](concepts/最小字段设计.md)
@@ -4429,7 +4442,6 @@ last_updated: 2026-04-25
 - [持续新鲜上下文](concepts/持续新鲜上下文.md)
 - [数字分身](concepts/数字分身.md)
 - [时序知识图谱](concepts/时序知识图谱.md)
-- [时序知识图谱](concepts/时序知识图谱.md)
 - [显式外部状态](concepts/显式外部状态.md)
 - [智能遗忘](concepts/智能遗忘.md)
 - [来源权威层级](concepts/来源权威层级.md)
@@ -4589,6 +4601,7 @@ last_updated: 2026-04-25
 - [Agent 技能安全治理的四层防线：从供应链审计到运行时信任隔离的攻防架构演进](syntheses/Agent 技能安全治理的四层防线：从供应链审计到运行时信任隔离的攻防架构演进.md)
 - [Agent 框架与编排模式的架构张力：从框架选型约束到编排自由度的设计哲学分化与收敛路径](syntheses/Agent 框架与编排模式的架构张力：从框架选型约束到编排自由度的设计哲学分化与收敛路径.md)
 - [Agent 框架对 LLM-技能-工作流三角的结构性约束：正交分层同构、微内核悖论与 Token 资源治理的操作系统隐喻](syntheses/Agent 框架对 LLM-技能-工作流三角的结构性约束：正交分层同构、微内核悖论与 Token 资源治理的操作系统隐喻.md)
+- [Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径](syntheses/Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径.md)
 - [Agent 框架的可组合扩展性设计：从技能注入到记忆集成的架构模式对比与选型指南](syntheses/Agent 框架的可组合扩展性设计：从技能注入到记忆集成的架构模式对比与选型指南.md)
 - [Agent 框架的商业化分叉：从开源底座到托管平台的价值捕获路径与生态锁定博弈](syntheses/Agent 框架的商业化分叉：从开源底座到托管平台的价值捕获路径与生态锁定博弈.md)
 - [Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南](syntheses/Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南.md)
@@ -4602,6 +4615,7 @@ last_updated: 2026-04-25
 - [Coding Agent 多智能体编排：从单体循环到虚拟工程团队的协作范式与架构权衡](syntheses/Coding Agent 多智能体编排：从单体循环到虚拟工程团队的协作范式与架构权衡.md)
 - [Coding Agent 工作流方法论光谱：从验证闭环到自进化开发管线的十种设计模式](syntheses/Coding Agent 工作流方法论光谱：从验证闭环到自进化开发管线的十种设计模式.md)
 - [Coding Agent 开发工具链深度融合：从终端交互到上下文治理的基础设施协同演进](syntheses/Coding Agent 开发工具链深度融合：从终端交互到上下文治理的基础设施协同演进.md)
+- [Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路](syntheses/Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路.md)
 - [Coding Agent 开发范式演进：从氛围编程到规范驱动的工程化路径与工具链全景](syntheses/Coding Agent 开发范式演进：从氛围编程到规范驱动的工程化路径与工具链全景.md)
 - [Coding Agent 技能生命周期工程：从 Skill 原子化封装到工作流自进化管线的三维驱动模型](syntheses/Coding Agent 技能生命周期工程：从 Skill 原子化封装到工作流自进化管线的三维驱动模型.md)
 - [Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式](syntheses/Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式.md)
