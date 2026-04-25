@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-25T17:20:29.186063+08:00",
+  "last_sync_time": "2026-04-25T23:22:14.815392+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 3846,
+  "total_pages_exported": 3869,
   "page_mapping": {
     "0fe9d271-3d82-4995-ad15-00fc8d446de0": {
       "type": "concept",
@@ -201,7 +201,7 @@
     "03ffe2bb-180a-4375-a548-12fa33e92be0": {
       "type": "concept",
       "file_path": "wiki/concepts/Personalized AI.md",
-      "last_edited": "2026-04-23T12:03:00.000Z"
+      "last_edited": "2026-04-25T14:13:00.000Z"
     },
     "07396a44-01cf-4c83-9be2-9ffc004f0318": {
       "type": "concept",
@@ -2456,7 +2456,7 @@
     "23c0344a-a6ea-4d0a-b8c8-5c1a236589ec": {
       "type": "concept",
       "file_path": "wiki/concepts/多模态 K 线形态匹配.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:28:00.000Z"
     },
     "23c10731-c263-42c9-aa5b-f0b45173d695": {
       "type": "concept",
@@ -2591,7 +2591,7 @@
     "25ffa3ca-8b5d-49c4-a6df-b75374128fbf": {
       "type": "concept",
       "file_path": "wiki/concepts/屏幕上下文记忆.md",
-      "last_edited": "2026-04-23T12:03:00.000Z"
+      "last_edited": "2026-04-25T12:19:00.000Z"
     },
     "26170ed2-8bf2-43bf-86ac-0193fe476fae": {
       "type": "summary",
@@ -3401,7 +3401,7 @@
     "3264e3fa-96a3-41cb-aedf-1563df82316f": {
       "type": "entity",
       "file_path": "wiki/entities/automation-workflows.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:30:00.000Z"
     },
     "3268a628-7b69-409b-9fb6-163bf440e3a7": {
       "type": "concept",
@@ -3721,7 +3721,7 @@
     "376c1ca3-ed52-454d-8cb3-6846f3a54938": {
       "type": "entity",
       "file_path": "wiki/entities/Twitter Buddy.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:29:00.000Z"
     },
     "3775256c-f8be-4649-aa70-7437e04d5f32": {
       "type": "summary",
@@ -5751,7 +5751,7 @@
     "5913e1d0-4928-4e25-a7c1-c63861ded129": {
       "type": "entity",
       "file_path": "wiki/entities/Stargate.md",
-      "last_edited": "2026-04-23T19:51:00.000Z"
+      "last_edited": "2026-04-25T12:24:00.000Z"
     },
     "591868f9-2abf-4306-b745-fba62df66991": {
       "type": "summary",
@@ -6086,7 +6086,7 @@
     "5e3d5c1e-456c-4219-9dd2-8a6b386338d6": {
       "type": "summary",
       "file_path": "wiki/summaries/摘要：Claude Code 的七层记忆架构：从毫秒级 Token 裁剪到「睡眠整理」系统.md",
-      "last_edited": "2026-04-23T10:13:00.000Z"
+      "last_edited": "2026-04-25T14:13:00.000Z"
     },
     "5e5b0a0b-55c8-446c-8f37-6497603842dd": {
       "type": "concept",
@@ -6201,7 +6201,7 @@
     "602cc4ec-9637-40d0-bce1-35ea67112846": {
       "type": "entity",
       "file_path": "wiki/entities/TPU.md",
-      "last_edited": "2026-04-23T17:48:00.000Z"
+      "last_edited": "2026-04-25T12:24:00.000Z"
     },
     "6041f47f-1347-4d86-9e8e-d083f94dd341": {
       "type": "entity",
@@ -6286,7 +6286,7 @@
     "622354f2-3542-44b2-a32d-3eb457e0d095": {
       "type": "concept",
       "file_path": "wiki/concepts/Dreaming 记忆机制.md",
-      "last_edited": "2026-04-23T17:22:00.000Z"
+      "last_edited": "2026-04-25T14:13:00.000Z"
     },
     "622fdd66-b89c-4cc6-8702-5dfc4c47e761": {
       "type": "summary",
@@ -6586,7 +6586,7 @@
     "66394392-6d88-444f-97a9-2d1499e5d7c3": {
       "type": "concept",
       "file_path": "wiki/concepts/记忆技术债.md",
-      "last_edited": "2026-04-23T14:30:00.000Z"
+      "last_edited": "2026-04-25T14:13:00.000Z"
     },
     "6654a022-45ea-4b35-a628-df072d62454a": {
       "type": "summary",
@@ -7641,7 +7641,7 @@
     "779b33f4-f1c6-450a-98d4-5d4f218ba2ba": {
       "type": "entity",
       "file_path": "wiki/entities/Moltbook.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:28:00.000Z"
     },
     "77a8aa5b-b931-4dda-af31-c3666c3ae6cc": {
       "type": "summary",
@@ -8281,7 +8281,7 @@
     "81ba96a2-3360-4aff-90b3-7e4ab69d713f": {
       "type": "concept",
       "file_path": "wiki/concepts/Skill-Based Agent 架构.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:29:00.000Z"
     },
     "81e3b56f-ea9f-43b3-aa73-498a9cb2466f": {
       "type": "summary",
@@ -8371,7 +8371,7 @@
     "8333a055-0eea-4916-a916-5ab3ab0778d8": {
       "type": "concept",
       "file_path": "wiki/concepts/Chrome DevTools Protocol.md",
-      "last_edited": "2026-04-23T10:13:00.000Z"
+      "last_edited": "2026-04-25T14:26:00.000Z"
     },
     "833f1800-1ed0-414a-86e9-b5e3b53258de": {
       "type": "concept",
@@ -8581,7 +8581,7 @@
     "866df98e-993d-4d94-9adb-207f25c59d48": {
       "type": "concept",
       "file_path": "wiki/concepts/历史人物人格唤醒.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:29:00.000Z"
     },
     "8686e90c-56df-4849-a1e4-6bc6568af627": {
       "type": "summary",
@@ -8781,7 +8781,7 @@
     "89ca347d-0c72-4e76-89aa-30ae2c4e340b": {
       "type": "concept",
       "file_path": "wiki/concepts/Next-State Signal.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:28:00.000Z"
     },
     "89ce1218-88e7-4840-a3d2-92b818a8eabb": {
       "type": "summary",
@@ -11216,7 +11216,7 @@
     "ae178b4b-1638-47a3-8a1a-0641ea5c491d": {
       "type": "concept",
       "file_path": "wiki/concepts/持久化跨会话记忆.md",
-      "last_edited": "2026-04-23T18:07:00.000Z"
+      "last_edited": "2026-04-25T12:19:00.000Z"
     },
     "ae17afe3-abe1-44d8-b171-c4cb2af1a972": {
       "type": "entity",
@@ -11826,7 +11826,7 @@
     "b749bf7f-ab69-4233-a04e-1327cbe4c1fc": {
       "type": "concept",
       "file_path": "wiki/concepts/语义层.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:28:00.000Z"
     },
     "b76c0e3d-f03d-438b-bc3b-c1919fd4f731": {
       "type": "entity",
@@ -11836,7 +11836,7 @@
     "b77f7ca6-35c3-4485-855c-cc89f4406e46": {
       "type": "concept",
       "file_path": "wiki/concepts/Harness Engineering.md",
-      "last_edited": "2026-04-23T18:59:00.000Z"
+      "last_edited": "2026-04-25T12:33:00.000Z"
     },
     "b79e92c2-edf1-4a95-aa71-bc3e1ee2063e": {
       "type": "summary",
@@ -12631,7 +12631,7 @@
     "c3dca096-ad2f-40e1-805b-6e9e7afca981": {
       "type": "concept",
       "file_path": "wiki/concepts/设计词汇.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:29:00.000Z"
     },
     "c3e4e342-3d8f-4784-92a2-f54443df0e85": {
       "type": "concept",
@@ -13136,7 +13136,7 @@
     "cb6c731d-1d90-46e8-bb3d-4a1e62318404": {
       "type": "concept",
       "file_path": "wiki/concepts/Agent Tool Interface.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:29:00.000Z"
     },
     "cb75d6f8-d1cd-4e6b-9f47-b546e9b91f2e": {
       "type": "summary",
@@ -13171,7 +13171,7 @@
     "cba999b6-0a10-4d3e-91a8-f854c0d358ee": {
       "type": "concept",
       "file_path": "wiki/concepts/Claude Code Handoff.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:28:00.000Z"
     },
     "cbc1ab65-b115-4715-8a79-94c038709f0f": {
       "type": "concept",
@@ -13206,7 +13206,7 @@
     "cc3d1b7b-c600-4283-ba3d-c48c56c2fc85": {
       "type": "entity",
       "file_path": "wiki/entities/OpenAI.md",
-      "last_edited": "2026-04-23T19:54:00.000Z"
+      "last_edited": "2026-04-25T12:24:00.000Z"
     },
     "cc91aa3f-1603-41ef-94fd-ecb966369c78": {
       "type": "summary",
@@ -13341,7 +13341,7 @@
     "ce26a2ef-d269-4cd4-baf1-d3492f441eed": {
       "type": "concept",
       "file_path": "wiki/concepts/LLM 重排序.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:28:00.000Z"
     },
     "ce28cefc-7c1b-4022-bcf4-8aa61dafe217": {
       "type": "summary",
@@ -13486,7 +13486,7 @@
     "d0233dcc-e669-4d12-a023-f549f3c33372": {
       "type": "summary",
       "file_path": "wiki/summaries/摘要：女娲.skill：输入一个名字，让芒格、费曼、马斯克给你打工.md",
-      "last_edited": "2026-04-23T10:13:00.000Z"
+      "last_edited": "2026-04-25T14:13:00.000Z"
     },
     "d0300800-a558-49cb-8b5b-4815493ce84f": {
       "type": "concept",
@@ -13751,7 +13751,7 @@
     "d44757ff-adcf-4d76-9300-7a4aa6cfc334": {
       "type": "concept",
       "file_path": "wiki/concepts/跨次账号评分.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:29:00.000Z"
     },
     "d456f9e4-3e38-43d5-9bac-de05c82e9813": {
       "type": "entity",
@@ -13966,7 +13966,7 @@
     "d6e7c795-b093-4215-94af-9267a732aa08": {
       "type": "concept",
       "file_path": "wiki/concepts/链式代理.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:30:00.000Z"
     },
     "d6f143df-32ba-4bda-a298-842c5aa3c40c": {
       "type": "summary",
@@ -14071,7 +14071,7 @@
     "d8b1448e-6f3f-4de8-99e2-ed461e684ee7": {
       "type": "concept",
       "file_path": "wiki/concepts/web fetch.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:28:00.000Z"
     },
     "d8b27216-fa70-447f-8593-297e712c66c8": {
       "type": "concept",
@@ -14751,7 +14751,7 @@
     "e41e9608-19b2-498c-a059-eae245d811cc": {
       "type": "concept",
       "file_path": "wiki/concepts/Chronicle.md",
-      "last_edited": "2026-04-23T12:03:00.000Z"
+      "last_edited": "2026-04-25T12:19:00.000Z"
     },
     "e4212c3f-812e-4f57-b9a7-8a3981b9d9cb": {
       "type": "concept",
@@ -15121,7 +15121,7 @@
     "e9b6274a-9b87-42d3-9937-8a759f0b3f66": {
       "type": "entity",
       "file_path": "wiki/entities/Pal.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:27:00.000Z"
     },
     "e9c3eea0-2659-49c9-971d-624f2b8412e4": {
       "type": "summary",
@@ -15131,7 +15131,7 @@
     "e9ca80d2-a3fb-4383-8f4b-21be14dde5e7": {
       "type": "entity",
       "file_path": "wiki/entities/Gemini Embedding 2.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:27:00.000Z"
     },
     "e9e31e55-42d8-4107-95a7-e9cdf2df3a02": {
       "type": "summary",
@@ -15296,7 +15296,7 @@
     "ecbcdd8d-7720-42ff-9bf7-256653eab9c7": {
       "type": "entity",
       "file_path": "wiki/entities/Anthropic.md",
-      "last_edited": "2026-04-24T19:37:00.000Z"
+      "last_edited": "2026-04-25T12:24:00.000Z"
     },
     "ece328e2-09e2-43c7-89a5-5eb30a9c84b4": {
       "type": "concept",
@@ -15456,7 +15456,7 @@
     "efe08340-d522-4098-aabd-d3840a94cc15": {
       "type": "summary",
       "file_path": "wiki/summaries/摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构.md",
-      "last_edited": "2026-04-23T10:13:00.000Z"
+      "last_edited": "2026-04-25T14:13:00.000Z"
     },
     "efe59494-deb5-4db2-a047-feb26a8ca39e": {
       "type": "entity",
@@ -15721,7 +15721,7 @@
     "f511bd30-17ea-4360-bba6-8a03cf3d66fe": {
       "type": "concept",
       "file_path": "wiki/concepts/AI 公司操作系统.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-25T14:28:00.000Z"
     },
     "f52c7373-fb6a-4dcb-8024-5790335878d9": {
       "type": "entity",
@@ -15826,7 +15826,7 @@
     "f663b17e-afa4-4237-874b-2ab2d233a5d4": {
       "type": "summary",
       "file_path": "wiki/summaries/摘要：女娲.skill：让乔布斯、芒格、费曼在 Claude Code 里给你打工.md",
-      "last_edited": "2026-04-23T10:13:00.000Z"
+      "last_edited": "2026-04-25T14:13:00.000Z"
     },
     "f67e1c5d-150f-488a-83be-73f65b950f37": {
       "type": "concept",
@@ -16341,7 +16341,7 @@
     "fd962195-a009-4773-a9db-f9788d95ac22": {
       "type": "concept",
       "file_path": "wiki/concepts/本地优先.md",
-      "last_edited": "2026-04-24T17:38:00.000Z"
+      "last_edited": "2026-04-25T12:19:00.000Z"
     },
     "fd9cc7d8-8e8c-41a2-b20c-df91676b4249": {
       "type": "entity",
@@ -19232,6 +19232,121 @@
       "type": "synthesis",
       "file_path": "wiki/syntheses/Agent 技能的商业化拓扑：从免费能力模块到可计价服务单元的价值捕获路径与生态博弈.md",
       "last_edited": "2026-04-25T09:12:00.000Z"
+    },
+    "0030666d-e15d-415c-9998-c4cceecb824c": {
+      "type": "concept",
+      "file_path": "wiki/concepts/M⋆.md",
+      "last_edited": "2026-04-25T12:32:00.000Z"
+    },
+    "03d9b6b1-49ab-42ab-b24d-d99d0c410c28": {
+      "type": "concept",
+      "file_path": "wiki/concepts/AutoHarness.md",
+      "last_edited": "2026-04-25T12:32:00.000Z"
+    },
+    "0d3dd2a6-f327-4b3e-aec5-53de569779ec": {
+      "type": "concept",
+      "file_path": "wiki/concepts/导师型 AI.md",
+      "last_edited": "2026-04-25T12:36:00.000Z"
+    },
+    "1c487af5-1060-4531-a4e9-c35dee1235d8": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：谷歌跪了？400亿砸向死敌！AI御三家终结，OpenAI孤立无援.md",
+      "last_edited": "2026-04-25T12:24:00.000Z"
+    },
+    "1cd148e9-fcec-456b-b862-c8b5f3c75832": {
+      "type": "concept",
+      "file_path": "wiki/concepts/建设性挣扎.md",
+      "last_edited": "2026-04-25T12:36:00.000Z"
+    },
+    "2253d179-34f9-418b-adf6-9bb279dcb11d": {
+      "type": "concept",
+      "file_path": "wiki/concepts/工作流记忆.md",
+      "last_edited": "2026-04-25T12:19:00.000Z"
+    },
+    "2f6d9dd0-eb79-4ca8-8589-89243a1598b0": {
+      "type": "entity",
+      "file_path": "wiki/entities/Gemini.md",
+      "last_edited": "2026-04-25T12:22:00.000Z"
+    },
+    "3c9c6656-9a2a-4bde-927c-8f62d8d00dd9": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：在OpenAI把Chronicle做成订阅功能48小时后，一群00后把它开源了.md",
+      "last_edited": "2026-04-25T12:19:00.000Z"
+    },
+    "3df50d5e-bdab-4beb-a6d7-a8bdecc666a1": {
+      "type": "concept",
+      "file_path": "wiki/concepts/预期基准偏移.md",
+      "last_edited": "2026-04-25T12:36:00.000Z"
+    },
+    "43038a7b-fdcb-4f27-87d2-8dffae81b792": {
+      "type": "concept",
+      "file_path": "wiki/concepts/共享记忆层.md",
+      "last_edited": "2026-04-25T12:19:00.000Z"
+    },
+    "474424bf-e421-4a4e-8353-f1fd9ecb1c8d": {
+      "type": "concept",
+      "file_path": "wiki/concepts/认知债务.md",
+      "last_edited": "2026-04-25T12:36:00.000Z"
+    },
+    "4dc4b4e3-ab69-4399-8b96-ab1f0db8a507": {
+      "type": "concept",
+      "file_path": "wiki/concepts/可访问性树.md",
+      "last_edited": "2026-04-25T12:15:00.000Z"
+    },
+    "4ef7d830-33f4-476d-b506-bc59e3c9a21a": {
+      "type": "entity",
+      "file_path": "wiki/entities/Trainium.md",
+      "last_edited": "2026-04-25T12:22:00.000Z"
+    },
+    "584c06c3-f9c9-4a92-9381-72ad19b4b8bb": {
+      "type": "concept",
+      "file_path": "wiki/concepts/Harness-as-Policy.md",
+      "last_edited": "2026-04-25T12:32:00.000Z"
+    },
+    "65349b24-a2ff-4d7c-b9f9-89dee4004290": {
+      "type": "entity",
+      "file_path": "wiki/entities/agent-browser.md",
+      "last_edited": "2026-04-25T12:15:00.000Z"
+    },
+    "730808bc-87e2-42f2-ac3a-18bbdec3f356": {
+      "type": "concept",
+      "file_path": "wiki/concepts/算力护城河.md",
+      "last_edited": "2026-04-25T12:23:00.000Z"
+    },
+    "81c6e1a5-91ff-404f-9397-05eb7bceecd0": {
+      "type": "concept",
+      "file_path": "wiki/concepts/Snapshot 引用机制.md",
+      "last_edited": "2026-04-25T12:15:00.000Z"
+    },
+    "a4628d33-47bb-4c4b-ba60-fdfb51b276ce": {
+      "type": "concept",
+      "file_path": "wiki/concepts/Population-based Search.md",
+      "last_edited": "2026-04-25T12:32:00.000Z"
+    },
+    "dcaef0d9-f3d5-4210-8b40-86d6fd2d8e52": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：agent-browser：为AI Agent 写的浏览器CLI.md",
+      "last_edited": "2026-04-25T12:16:00.000Z"
+    },
+    "deba0b0c-9a0f-49ba-8034-30ffc0fbf160": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：只需 10 分钟，AI 就能「养废」你的大脑.md",
+      "last_edited": "2026-04-25T12:36:00.000Z"
+    },
+    "ebf393d9-facb-4844-bcc8-59b7a0bddf4b": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软.md",
+      "last_edited": "2026-04-25T12:33:00.000Z"
+    },
+    "fb3b3045-4378-4fa4-9f5d-bae06a33545d": {
+      "type": "concept",
+      "file_path": "wiki/concepts/Reflective Code Evolution.md",
+      "last_edited": "2026-04-25T12:32:00.000Z"
+    },
+    "fe978556-3555-41c3-81cc-873e02df6a00": {
+      "type": "entity",
+      "file_path": "wiki/entities/OpenChronicle.md",
+      "last_edited": "2026-04-25T12:19:00.000Z"
     }
   }
 }

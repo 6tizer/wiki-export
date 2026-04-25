@@ -7,7 +7,7 @@ tags:
 - Agent 技能
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/376c1ca3ed52454d8cb36846f3a54938
@@ -28,4 +28,4 @@ Twitter Buddy 是一个本地运行的 X 时间线自动采集与分析工具，
 
 ## 来源引用
 
-- 《Twitter Buddy：让 AI 帮你刷推特，自动采集、分析、发现优质账号》｜X书签文章｜原文链接：[https://x.com/frozenraspberry/status/2031918478815609333](https://x.com/frozenraspberry/status/2031918478815609333)
+- 摘要：Twitter Buddy：让 AI 帮你刷推特（X书签）

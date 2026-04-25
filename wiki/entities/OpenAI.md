@@ -6,7 +6,7 @@ tags:
 - 商业/生态
 status: 审核中
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/cc3d1b7bc6004283ba3dc48c56c2fc85
@@ -32,3 +32,19 @@ OpenAI 是一家以 ChatGPT、Codex、Sora 等产品为核心的 AI 公司。本
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651087686&idx=1&sn=ccd23850bf6cc123f742ca0ab691f57a&chksm=bc18565eb20c3c804baec442c16d8737ded0256af536e1936cffb86b03930f08310d29be91b3#rd)｜《OpenAI终究活成了自己最看不上的样子》｜源文章：OpenAI终究活成了自己最看不上的样子
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzkwMjUxNTkwNQ%3D%3D&mid=2247632216&idx=1&sn=85c61025297776e3390a465850dd3736&chksm=c1027e614b339be0e9960bc30c5adf87eca9481c9e572226b20a267f5838607e211c4d489eea#rd)｜《OpenAI买了个脱口秀公司》｜源文章：OpenAI买了个脱口秀公司
+
+- [摘要：谷歌跪了？400亿砸向死敌！AI御三家终结，OpenAI孤立无援](summaries/摘要：谷歌跪了？400亿砸向死敌！AI御三家终结，OpenAI孤立无援.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652695053&idx=1&sn=8f356eac39edde031591068b3c52d425&chksm=f02c8c64f11397311f21840827437da69d07bbc4941b244eb7549e92ef552b61822037657b21#rd)）
+
+## 关联概念
+
+- [Anthropic](entities/Anthropic.md)
+
+- [Gemini](entities/Gemini.md)
+
+- [TPU](entities/TPU.md)
+
+- [Trainium](entities/Trainium.md)
+
+- [Stargate](entities/Stargate.md)
+
+- [算力护城河](concepts/算力护城河.md)

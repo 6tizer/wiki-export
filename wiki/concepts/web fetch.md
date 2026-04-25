@@ -6,7 +6,7 @@ tags:
 - LLM
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/d8b1448e6f3f4de899e2ed461e684ee7
@@ -27,4 +27,4 @@ web fetch 是 Agent 直接抓取网页正文并将结果注入当前上下文的
 
 ## 来源引用
 
-- 《OpenClaw 烧 Token 的真相：最贵的不是写代码，而是 web fetch》｜X书签文章｜原文链接：[https://x.com/marvin_tong/status/2031557670826815705](https://x.com/marvin_tong/status/2031557670826815705)
+- 摘要：OpenClaw 烧 Token 的真相：最贵的不是写代码，而是 web fetch（X书签）

@@ -129,7 +129,7 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 - [MiMo Coding Bench](concepts/MiMo Coding Bench.md)
 
-- [Claw-Eval](concepts/Claw-Eval.md)
+- [Claw-Eval](entities/Claw-Eval.md)
 
 - [GenericAgent](entities/GenericAgent.md)
 
@@ -164,6 +164,8 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [摘要：Had no idea but there is a lot of simultaneous discovery in agentic engineering these days](summaries/摘要：Had no idea but there is a lot of simultaneous discovery in agentic engineering these days.md)（[原文](https://x.com/garrytan/status/2047039110326673872)）
 
 - [摘要：The Definitive Guide to Harness Engineering](summaries/摘要：The Definitive Guide to Harness Engineering.md)（[原文](https://x.com/Trae_ai/status/2047145274200768969)）
+
+- [摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软](summaries/摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng%3D%3D&mid=2247665936&idx=1&sn=3a22066240ebfea5f456ecfaa39e9892&chksm=e8c800edc26b20940eeca6d9cd263fa15ef276abf030f9a15cb64f86fb2ee59005c2588a8a9d#rd)）
 
 ## 关联概念
 
@@ -284,3 +286,13 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [Token Transformation Pipeline](concepts/Token Transformation Pipeline.md)
 
 - [控制面 / 数据面架构](concepts/控制面 - 数据面架构.md)
+
+- [M⋆](concepts/M⋆.md)
+
+- [AutoHarness](concepts/AutoHarness.md)
+
+- [Reflective Code Evolution](concepts/Reflective Code Evolution.md)
+
+- [Population-based Search](concepts/Population-based Search.md)
+
+- [Harness-as-Policy](concepts/Harness-as-Policy.md)

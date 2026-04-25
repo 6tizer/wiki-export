@@ -5,7 +5,7 @@ tags:
 - 商业/生态
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/ecbcdd8d772042ff9bf7256653eab9c7
@@ -41,6 +41,8 @@ Anthropic 是一家以安全、可解释性与价值观对齐为核心叙事的 
 - [摘要：Anthropic said Mythos was too dangerous to release. Then four random guys in a Discord gained access on day one by guessing the URL...](summaries/摘要：Anthropic said Mythos was too dangerous to release. Then four random guys in a Discord gained access on day one by guessing the URL.md)（[原文](https://x.com/JoshKale/status/2046774243799511156)）
 
 - [摘要：Last month, we published our look into what 81,000 people told us they want from AI.](summaries/摘要：Last month, we published our look into what 81,000 people told us they want from AI.md)（[原文](https://www.anthropic.com/research/81k-economics)）
+
+- [摘要：谷歌跪了？400亿砸向死敌！AI御三家终结，OpenAI孤立无援](summaries/摘要：谷歌跪了？400亿砸向死敌！AI御三家终结，OpenAI孤立无援.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652695053&idx=1&sn=8f356eac39edde031591068b3c52d425&chksm=f02c8c64f11397311f21840827437da69d07bbc4941b244eb7549e92ef552b61822037657b21#rd)）
 
 ## 关联概念
 
@@ -83,3 +85,13 @@ Anthropic 是一家以安全、可解释性与价值观对齐为核心叙事的 
 - [岗位替代焦虑](concepts/岗位替代焦虑.md)
 
 - [工作范围扩展](concepts/工作范围扩展.md)
+
+- [TPU](entities/TPU.md)
+
+- [Gemini](entities/Gemini.md)
+
+- [Trainium](entities/Trainium.md)
+
+- [Stargate](entities/Stargate.md)
+
+- [算力护城河](concepts/算力护城河.md)

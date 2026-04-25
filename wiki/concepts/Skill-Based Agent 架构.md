@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/81ba96a233604aff90b37e4ab69d713f
@@ -27,4 +27,4 @@ Skill-Based Agent 架构是把 Agent 的行为拆成多个职责明确的 Skill 
 
 ## 来源引用
 
-- 《用 Claude 搭一套 Polymarket 交易 Agent：Skill 架构比临场判断更靠谱吗？》｜X书签文章｜原文链接：[https://x.com/Mikocrypto11/status/2031992492166693272](https://x.com/Mikocrypto11/status/2031992492166693272)
+- 摘要：用 Claude 搭一套 Polymarket 交易 Agent（X书签）

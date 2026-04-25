@@ -6,7 +6,7 @@ tags:
 - LLM
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/23c0344aa6ea4d0ab8c85c1a236589ec
@@ -27,4 +27,4 @@ notion_id: 23c0344a-a6ea-4d0a-b8c8-5c1a236589ec
 
 ## 来源引用
 
-- 《用多模态 Embedding 匹配 K 线形态：让 AI 把「刻舟求剑」玩出新高度》｜X书签文章｜原文链接：[https://x.com/CryptoPainter/status/2031501507754123430](https://x.com/CryptoPainter/status/2031501507754123430)
+- 摘要：用多模态 Embedding 匹配 K 线形态（X书签）
