@@ -1,15 +1,15 @@
 ---
 type: index
-total_concepts: 1712
-total_entities: 823
+total_concepts: 1717
+total_entities: 826
 total_syntheses: 88
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
 # 📚 知识 Wiki Index
 
-> 1712 concepts · 823 entities · 88 syntheses
-> 导出时间: 2026-04-25
+> 1717 concepts · 826 entities · 88 syntheses
+> 导出时间: 2026-04-26
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
@@ -1065,6 +1065,7 @@ last_updated: 2026-04-25
 - [AI-First Engineering](concepts/AI-First Engineering.md)
 - [AI洗代码](concepts/AI洗代码.md)
 - [APEX-SWE](concepts/APEX-SWE.md)
+- [AST 感知分块](concepts/AST 感知分块.md)
 - [AVOID 警告](concepts/AVOID 警告.md)
 - [Agent Command Center](concepts/Agent Command Center.md)
 - [Agent Harness](concepts/Agent Harness.md)
@@ -1356,6 +1357,7 @@ last_updated: 2026-04-25
 - [Gemini CLI](entities/Gemini CLI.md)
 - [GenericAgent](entities/GenericAgent.md)
 - [Ghostty](entities/Ghostty.md)
+- [GitNexus](entities/GitNexus.md)
 - [GrandCode](entities/GrandCode.md)
 - [Graphite](entities/Graphite.md)
 - [Grok CLI](entities/Grok CLI.md)
@@ -1678,6 +1680,8 @@ last_updated: 2026-04-25
 ### Concepts
 - [1M 上下文](concepts/1M 上下文.md)
 - [3D Gaussian Splatting](concepts/3D Gaussian Splatting.md)
+- [AGI 学习路径](concepts/AGI 学习路径.md)
+- [AI 基础学科知识地图](concepts/AI 基础学科知识地图.md)
 - [AI 幻觉责任风险](concepts/AI 幻觉责任风险.md)
 - [AI 情感回路](concepts/AI 情感回路.md)
 - [AI 暴露度](concepts/AI 暴露度.md)
@@ -2073,6 +2077,7 @@ last_updated: 2026-04-25
 - [OpenKB](entities/OpenKB.md)
 - [OpenMythos](entities/OpenMythos.md)
 - [Ouro](entities/Ouro.md)
+- [Path2AGI](entities/Path2AGI.md)
 - [Persona-MME](entities/Persona-MME.md)
 - [PersonaVLM](entities/PersonaVLM.md)
 - [Physical Intelligence](entities/Physical Intelligence.md)
@@ -2284,7 +2289,6 @@ last_updated: 2026-04-25
 - [Chronicle](concepts/Chronicle.md)
 - [Computer Use](concepts/Computer Use.md)
 - [Cursor CLI /btw](concepts/Cursor CLI -btw.md)
-- [Dreaming 记忆整合](concepts/Dreaming 记忆整合.md)
 - [Harness Engineering](concepts/Harness Engineering.md)
 - [Hot Cache](concepts/Hot Cache.md)
 - [Long-Horizon Coding](concepts/Long-Horizon Coding.md)
@@ -3716,6 +3720,7 @@ last_updated: 2026-04-25
 - [二进制载荷协商](concepts/二进制载荷协商.md)
 - [二进制逆向工程](concepts/二进制逆向工程.md)
 - [代理池](concepts/代理池.md)
+- [代码库自动文档生成](concepts/代码库自动文档生成.md)
 - [代码知识图谱](concepts/代码知识图谱.md)
 - [代码编排](concepts/代码编排.md)
 - [住宅代理轮换](concepts/住宅代理轮换.md)
@@ -3735,6 +3740,7 @@ last_updated: 2026-04-25
 - [增量更新](concepts/增量更新.md)
 - [声明式视频时间轴](concepts/声明式视频时间轴.md)
 - [多模态模型聚合](concepts/多模态模型聚合.md)
+- [多模态知识图谱](concepts/多模态知识图谱.md)
 - [并发控制](concepts/并发控制.md)
 - [应用内浏览器](concepts/应用内浏览器.md)
 - [异步作业式生成](concepts/异步作业式生成.md)
@@ -3839,6 +3845,8 @@ last_updated: 2026-04-25
 - [GEO Optimizer](entities/GEO Optimizer.md)
 - [Ghostty](entities/Ghostty.md)
 - [GitButler](entities/GitButler.md)
+- [GitNexus](entities/GitNexus.md)
+- [GitNexus](entities/GitNexus.md)
 - [Google Maps Platform](entities/Google Maps Platform.md)
 - [Google Stitch](entities/Google Stitch.md)
 - [Graphify](entities/Graphify.md)
@@ -4070,11 +4078,14 @@ last_updated: 2026-04-25
 ## 知识管理
 ### Concepts
 - [AGENTS.md](concepts/AGENTS.md.md)
+- [AGI 学习路径](concepts/AGI 学习路径.md)
 - [AI Knowledge Layer](concepts/AI Knowledge Layer.md)
 - [AI Native Human](concepts/AI Native Human.md)
 - [AI 公共领域](concepts/AI 公共领域.md)
+- [AI 基础学科知识地图](concepts/AI 基础学科知识地图.md)
 - [AI 情报员工作流](concepts/AI 情报员工作流.md)
 - [AI 研究 AI](concepts/AI 研究 AI.md)
+- [AST 感知分块](concepts/AST 感知分块.md)
 - [AST+LLM 双阶段提取](concepts/AST+LLM 双阶段提取.md)
 - [Agent Skills](concepts/Agent Skills.md)
 - [Agent 上下文数据库](concepts/Agent 上下文数据库.md)
@@ -4150,9 +4161,11 @@ last_updated: 2026-04-25
 - [书签 AI 管道](concepts/书签 AI 管道.md)
 - [二跳推理](concepts/二跳推理.md)
 - [五层信息价值链](concepts/五层信息价值链.md)
+- [五条能力路径](concepts/五条能力路径.md)
 - [交互式字幕时间轴](concepts/交互式字幕时间轴.md)
 - [人格蒸馏](concepts/人格蒸馏.md)
 - [人的四个未来化](concepts/人的四个未来化.md)
+- [代码库自动文档生成](concepts/代码库自动文档生成.md)
 - [代码知识图谱](concepts/代码知识图谱.md)
 - [企业上下文图谱](concepts/企业上下文图谱.md)
 - [企业微信文档同步](concepts/企业微信文档同步.md)
@@ -4183,6 +4196,7 @@ last_updated: 2026-04-25
 - [填坑式写作](concepts/填坑式写作.md)
 - [多平台 AI 搜索聚合](concepts/多平台 AI 搜索聚合.md)
 - [多查询扩展](concepts/多查询扩展.md)
+- [多模态知识图谱](concepts/多模态知识图谱.md)
 - [多模态知识生产管线](concepts/多模态知识生产管线.md)
 - [多源自动摄取](concepts/多源自动摄取.md)
 - [字母表化](concepts/字母表化.md)
@@ -4263,6 +4277,7 @@ last_updated: 2026-04-25
 - [FRED](entities/FRED.md)
 - [FalkorDB](entities/FalkorDB.md)
 - [GBrain](entities/GBrain.md)
+- [GitNexus](entities/GitNexus.md)
 - [Graphify](entities/Graphify.md)
 - [HyperGraph](entities/HyperGraph.md)
 - [HyperSkill](entities/HyperSkill.md)
@@ -4278,6 +4293,7 @@ last_updated: 2026-04-25
 - [OpenAlex](entities/OpenAlex.md)
 - [OpenClaw101](entities/OpenClaw101.md)
 - [OpenKB](entities/OpenKB.md)
+- [Path2AGI](entities/Path2AGI.md)
 - [Perplexica](entities/Perplexica.md)
 - [QMD](entities/QMD.md)
 - [Qdrant](entities/Qdrant.md)
@@ -4383,7 +4399,6 @@ last_updated: 2026-04-25
 - [Context Rot](concepts/Context Rot.md)
 - [Continual Learning](concepts/Continual Learning.md)
 - [Document-wise RoPE](concepts/Document-wise RoPE.md)
-- [Dreaming 记忆整合](concepts/Dreaming 记忆整合.md)
 - [Dreaming 记忆机制](concepts/Dreaming 记忆机制.md)
 - [ECL 管道](concepts/ECL 管道.md)
 - [EverCore](concepts/EverCore.md)
@@ -4589,7 +4604,6 @@ last_updated: 2026-04-25
 - [AI 身份模型](concepts/AI 身份模型.md)
 - [AI-Native Memory](concepts/AI-Native Memory.md)
 - [Chronicle](concepts/Chronicle.md)
-- [Dreaming 记忆整合](concepts/Dreaming 记忆整合.md)
 - [Git 共享记忆层](concepts/Git 共享记忆层.md)
 - [Harness Engineering](concepts/Harness Engineering.md)
 - [Hot Cache](concepts/Hot Cache.md)

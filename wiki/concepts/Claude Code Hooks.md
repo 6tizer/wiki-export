@@ -34,6 +34,8 @@ Claude Code Hooks 是 Claude Code 2.1 引入的事件驱动钩子机制，允许
 
 ## 来源引用
 
+- [摘要：AI Agent的"海姆达尔计划"：让大模型看见代码的双眼](summaries/摘要：AI Agent的海姆达尔计划：让大模型看见代码的双眼.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI4MTc1Njg0MA%3D%3D&mid=2247486027&idx=1&sn=5044a57bef3d70a570db55273e382056&chksm=ea4fee508bee3d6d05240803fd1567e72c1dcc6d4a527b35a60dbca6b604e8a90021341f6c90#rd)）
+
 - [摘要：Claude-Mem：让AI编程助手拥有跨会话持久记忆](summaries/摘要：Claude-Mem：让AI编程助手拥有跨会话持久记忆.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2MjIwODc3Mw%3D%3D&mid=2247518172&idx=1&sn=867250666fc5c9f4a7ca9c84f243b970&chksm=cf5ea8e68aca9ab2d4c501de00f8682baffb9866b120a678223699ba9024ea0b302de2a35158#rd)）
 
 - [摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源](summaries/摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源.md)（老金带你玩AI, 2026-02-28）— 详细讲述 Hooks 在三层记忆系统中的应用
@@ -59,6 +61,10 @@ Claude Code Hooks 是 Claude Code 2.1 引入的事件驱动钩子机制，允许
 - [摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题](summaries/摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题.md)（[原文](https://x.com/garrytan/status/2046981289031667961)）
 
 ## 关联概念
+
+- [GitNexus](entities/GitNexus.md)
+
+- [QMD](entities/QMD.md)
 
 - [Claude Code](entities/Claude Code.md)
 

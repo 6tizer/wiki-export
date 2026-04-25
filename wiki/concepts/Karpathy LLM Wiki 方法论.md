@@ -191,6 +191,14 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 
 - [SHA256 增量缓存](concepts/SHA256 增量缓存.md)
 
+- [GitNexus](entities/GitNexus.md)
+
+- [代码库自动文档生成](concepts/代码库自动文档生成.md)
+
+- [代码知识图谱](concepts/代码知识图谱.md)
+
+- [私有化部署](concepts/私有化部署.md)
+
 ## 来源引用
 
 - [摘要：queryable Property Graph database to leverage sparse matrices](summaries/摘要：queryable Property Graph database to leverage sparse matrices.md)（[原文](https://x.com/akshay_pachaar/status/2047220248081015110)）
@@ -254,3 +262,5 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 - [摘要：llm Wiki 养了三周，开始出毛病了](summaries/摘要：llm Wiki 养了三周，开始出毛病了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3NjE4OTAyMg%3D%3D&mid=2247488578&idx=1&sn=bd42d9c055bdc8ed9b7c46feb5b0e26d&chksm=ea6d6762607f43554101098e9913cd15d2e58637de0dbb68b7f67d697c0f2d68b998beff99e7#rd)）
 
 - [摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打造的 AI 知识库应用！](summaries/摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打造的 AI 知识库应用！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkwMjQ0NzI0OQ%3D%3D&mid=2247505963&idx=1&sn=b590481b7f9c1dd86ea25cf168a2d7a4&chksm=c117c2239e6f0d9f4bcb402b081126525c06d59d365925b3d4a00f67978b1b98416d0fadb10a#rd)）
+
+- [摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基](summaries/摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY4MTIyMDE5NA%3D%3D&mid=2247484305&idx=1&sn=8285d7e5a1d4afe2b7ff893e2ba7cbce&chksm=f2e5e6c281611370b3ee4bf810854a3f2c40b58c0cb3f837e9276489597fd7944edb90e721f1#rd)）

@@ -27,6 +27,8 @@ QMD 是 Tobias Lütke 推出的本地语义搜索引擎与 Agent 记忆后端，
 
 ## 来源引用
 
+- [摘要：AI Agent的"海姆达尔计划"：让大模型看见代码的双眼](summaries/摘要：AI Agent的海姆达尔计划：让大模型看见代码的双眼.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI4MTc1Njg0MA%3D%3D&mid=2247486027&idx=1&sn=5044a57bef3d70a570db55273e382056&chksm=ea4fee508bee3d6d05240803fd1567e72c1dcc6d4a527b35a60dbca6b604e8a90021341f6c90#rd)）
+
 - 摘要：QMD：Shopify CEO 亲手做的本地语义搜索引擎，给 AI Agent 配上「精准导航」（[原文](https://x.com/shangdu2005/status/2031548027513745858)）
 
 - [原文链接](https://x.com/ResearchWang/status/2034161775797801206)｜《OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南》｜来源条目：[摘要：OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南](summaries/摘要：OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南.md)
@@ -36,6 +38,12 @@ QMD 是 Tobias Lütke 推出的本地语义搜索引擎与 Agent 记忆后端，
 - [摘要：llm Wiki 养了三周，开始出毛病了](summaries/摘要：llm Wiki 养了三周，开始出毛病了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3NjE4OTAyMg%3D%3D&mid=2247488578&idx=1&sn=bd42d9c055bdc8ed9b7c46feb5b0e26d&chksm=ea6d6762607f43554101098e9913cd15d2e58637de0dbb68b7f67d697c0f2d68b998beff99e7#rd)）
 
 ## 关联概念
+
+- [GitNexus](entities/GitNexus.md)
+
+- [代码知识图谱](concepts/代码知识图谱.md)
+
+- [AST 感知分块](concepts/AST 感知分块.md)
 
 - [第二大脑系统](concepts/第二大脑系统.md)
 

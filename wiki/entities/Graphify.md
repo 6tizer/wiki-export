@@ -6,7 +6,7 @@ tags:
 - 开发工具
 status: 审核中
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/69eda18812b542f48b18c6ceab6776ac
@@ -32,6 +32,8 @@ Graphify 是一个面向 AI 编码助手的知识图谱编译工具，可将 Mar
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzA3OTEwNjUwMw%3D%3D&mid=2451582189&idx=1&sn=5f669d3b8e480a52044f20c318c907f5&chksm=8989bab920c529851a230e42f6a695b110e2da878b190d07b8792b21b3e41274d73bfc02c081#rd)｜《用 werss-cli 将公众号历史文章重新保存到本地，再用 graphify 把 100 多篇文章变成知识图谱》｜来源条目：[摘要：用 werss-cli 将公众号历史文章重新保存到本地，再用 graphify 把 100 多篇文章变成知识图谱](summaries/摘要：用 werss-cli 将公众号历史文章重新保存到本地，再用 graphify 把 100 多篇文章变成知识图谱.md)
 
 - [摘要：Graphify-让Karpathy方法构建的知识库实现71.5倍效率提升](summaries/摘要：Graphify-让Karpathy方法构建的知识库实现71.5倍效率提升.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzcwMjIwMDk2Mg%3D%3D&mid=2247483836&idx=1&sn=87efe38320d976ed8850cded7a9919e8&chksm=f5738db7a5afe6ffd094c3453e8877b6266c1beda961858dc1d414bc80f787a3f74103f66e4c#rd)）
+
+- [摘要：Graphify 与 GitNexus，正在用知识图谱把“代码理解”从搜索升级为结构化认知](summaries/摘要：Graphify 与 GitNexus，正在用知识图谱把“代码理解”从搜索升级为结构化认知.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU2NzkxNDY0Ng%3D%3D&mid=2247490280&idx=1&sn=3e04564d5f02e3aa99ad4b4ffe55acf7&chksm=fd80f854d8e46df0ea29f4b9de0c72b7150b1c6bbfef9ef3265e32acd6d554fa0ed6dea09c83#rd)）
 
 ## 关联概念
 

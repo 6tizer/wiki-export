@@ -6,7 +6,7 @@ tags:
 - 开发工具
 - CLI 工具
 - MCP 协议
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-25'
 source_tags: ''
