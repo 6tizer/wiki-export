@@ -2,10 +2,10 @@
 title: 可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto/DeFi 协议栈的跨域范式碰撞
 type: synthesis
 tags:
-- Coding Agent
-- 知识管理
-- 记忆系统
-- Crypto/DeFi
+- 长期记忆
+- 上下文管理
+- 稳定币
+- 链上协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'

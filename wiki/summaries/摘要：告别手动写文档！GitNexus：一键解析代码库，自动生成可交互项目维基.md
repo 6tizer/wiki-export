@@ -2,8 +2,9 @@
 title: 摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基
 type: summary
 tags:
-- 开发工具
 - 知识管理
+- RAG/检索
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-25'

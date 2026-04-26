@@ -2,8 +2,9 @@
 title: Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱
 type: synthesis
 tags:
-- Agent 编排
-- 开发工具
+- 多Agent协作
+- CLI 工具
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

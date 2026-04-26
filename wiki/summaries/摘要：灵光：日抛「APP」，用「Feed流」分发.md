@@ -35,9 +35,9 @@ notion_id: 78f79957-f0fd-463e-ad43-897ed791c24b
 
 - [灵光圈](entities/灵光圈.md)
 
-- [闪应用](concepts/闪应用.md)
+- [闪应用](entities/闪应用.md)
 
-- [Wish Coding](concepts/Wish Coding.md)
+- Wish Coding
 
 - [Feed 流分发](concepts/Feed 流分发.md)
 

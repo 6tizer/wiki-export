@@ -2,9 +2,9 @@
 title: Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融
 type: synthesis
 tags:
-- Agent 技能
-- 开发工具
-- 工作流
+- CLI 工具
+- 浏览器自动化
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

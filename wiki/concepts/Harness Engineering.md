@@ -2,13 +2,11 @@
 title: Harness Engineering
 type: concept
 tags:
+- Harness 工程
 - 上下文管理
-- 长期记忆
-- 记忆系统
-- Agent 框架
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/b77f7ca635c34485855ccc89f4406e46
@@ -30,6 +28,10 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - 更偏控制与策略层，用来为 Agent 设定工具边界、上下文管理和执行约束；与更偏现实世界模拟的“环境工程”形成互补
 
 ## 关联概念
+
+- [Claude Cowork](entities/Claude Cowork.md)
+
+- [Computer Use](concepts/Computer Use.md)
 
 - [流量 2.0](concepts/流量 2.0.md)
 
@@ -141,6 +143,8 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 
 ## 来源引用
 
+- [摘要：100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？](summaries/摘要：100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247661592&idx=2&sn=082fae28b6d28dd20f4f170661e9f133&chksm=fa6939a427f7f5095ddb361059b2d161a84b92566f670dc5f2a7959561d1b745cf88e9b5cc6c#rd)）
+
 - [摘要：刚刚！Generic Agent 中文教程发布！比Hermes省10倍Token](summaries/摘要：刚刚！Generic Agent 中文教程发布！比Hermes省10倍Token.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg%3D%3D&mid=2247722227&idx=1&sn=91cdeb9ed199ea27bf816d8f58822044&chksm=e9e6f905566630299ab381060e0037338ce5baf7cf72c2c15b502fae874a19d1aaf2acb5d20c#rd)）
 
 - [摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论](summaries/摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论.md)（[原文](https://x.com/garrytan/status/2045371983312097409)）
@@ -166,6 +170,8 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [摘要：The Definitive Guide to Harness Engineering](summaries/摘要：The Definitive Guide to Harness Engineering.md)（[原文](https://x.com/Trae_ai/status/2047145274200768969)）
 
 - [摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软](summaries/摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng%3D%3D&mid=2247665936&idx=1&sn=3a22066240ebfea5f456ecfaa39e9892&chksm=e8c800edc26b20940eeca6d9cd263fa15ef276abf030f9a15cb64f86fb2ee59005c2588a8a9d#rd)）
+
+- [摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经](summaries/摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw%3D%3D&mid=2651051564&idx=1&sn=babc1b1e75b77826a63d304d33c348e0&chksm=8dd911d417729de737132383124e9f75bf193b1c2ce831b08c3e001f0552438ebac7eae45e1d#rd)）
 
 ## 关联概念
 
@@ -296,3 +302,11 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [Population-based Search](concepts/Population-based Search.md)
 
 - [Harness-as-Policy](concepts/Harness-as-Policy.md)
+
+- [Slock](entities/Slock.md)
+
+- [Kimi CLI](entities/Kimi CLI.md)
+
+- [Agent 动力学](concepts/Agent 动力学.md)
+
+- [任务认领机制](concepts/任务认领机制.md)

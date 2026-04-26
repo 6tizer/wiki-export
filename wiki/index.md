@@ -1,36 +1,20 @@
 ---
 type: index
-total_concepts: 1723
-total_entities: 828
+total_concepts: 1745
+total_entities: 840
 total_syntheses: 93
 last_updated: 2026-04-26
 ---
 
 # 📚 知识 Wiki Index
 
-> 1723 concepts · 828 entities · 93 syntheses
+> 1745 concepts · 840 entities · 93 syntheses
 > 导出时间: 2026-04-26
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
 2. 沿文件路径读取具体 .md 文件
 3. 沿关联概念的 wikilinks 跳转探索
-
-## AI 交易
-### Concepts
-- [AI Wallet Matcher](concepts/AI Wallet Matcher.md)
-- [交易信号自动化](concepts/交易信号自动化.md)
-- [内部人士买入筛查](concepts/内部人士买入筛查.md)
-- [跨交易所套利](concepts/跨交易所套利.md)
-- [鲸鱼跟单](concepts/鲸鱼跟单.md)
-
-### Entitys
-- [ARC/Rig 框架](entities/ARC-Rig 框架.md)
-- [Binance Skills Hub](entities/Binance Skills Hub.md)
-- [D0](entities/D0.md)
-- [Donut](entities/Donut.md)
-- [OpenInsider](entities/OpenInsider.md)
-- [TradingAgents-CN](entities/TradingAgents-CN.md)
 
 ## AI 产品
 ### Concepts
@@ -52,6 +36,7 @@ last_updated: 2026-04-26
 - [DenchClaw](entities/DenchClaw.md)
 - [Dify](entities/Dify.md)
 - [EqualVPN](entities/EqualVPN.md)
+- [FinceptTerminal](entities/FinceptTerminal.md)
 - [FunClip](entities/FunClip.md)
 - [Holo3](entities/Holo3.md)
 - [Huashu-Design](entities/Huashu-Design.md)
@@ -62,11 +47,24 @@ last_updated: 2026-04-26
 - [Qdrant](entities/Qdrant.md)
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
 - [Seedance 2.0](entities/Seedance 2.0.md)
+- [Slock](entities/Slock.md)
 - [TimesFM](entities/TimesFM.md)
 - [db9](entities/db9.md)
 - [prompts.chat](entities/prompts.chat.md)
 - [xiaohongshu-skills](entities/xiaohongshu-skills.md)
 
+## AI 对齐
+## AI 政策
+## Agent 协作模式
+### Concepts
+- [Agent 动力学](concepts/Agent 动力学.md)
+- [Multi-Agent 群聊](concepts/Multi-Agent 群聊.md)
+- [任务认领机制](concepts/任务认领机制.md)
+
+### Entitys
+- [Slock](entities/Slock.md)
+
+## Agent 安全
 ## Agent 技能
 ### Concepts
 - [8维度评估体系](concepts/8维度评估体系.md)
@@ -74,6 +72,7 @@ last_updated: 2026-04-26
 - [AI Crawl Control](concepts/AI Crawl Control.md)
 - [AI 工具逆向分析](concepts/AI 工具逆向分析.md)
 - [AI 自修改代码](concepts/AI 自修改代码.md)
+- [AOT 编译](concepts/AOT 编译.md)
 - [AP2](concepts/AP2.md)
 - [Accessibility Tree](concepts/Accessibility Tree.md)
 - [Advisor Tool](concepts/Advisor Tool.md)
@@ -132,6 +131,7 @@ last_updated: 2026-04-26
 - [Heuristics-first Parsing](concepts/Heuristics-first Parsing.md)
 - [IACT 协议](concepts/IACT 协议.md)
 - [Inversion 模式](concepts/Inversion 模式.md)
+- [JIT 优化](concepts/JIT 优化.md)
 - [Layout-aware PDF Parsing](concepts/Layout-aware PDF Parsing.md)
 - [Lifecycle Hooks](concepts/Lifecycle Hooks.md)
 - [MCP Server](concepts/MCP Server.md)
@@ -206,6 +206,7 @@ last_updated: 2026-04-26
 - [云浏览器自动化](concepts/云浏览器自动化.md)
 - [云端浏览器](concepts/云端浏览器.md)
 - [人格蒸馏](concepts/人格蒸馏.md)
+- [代码固化](concepts/代码固化.md)
 - [代码执行沙箱](concepts/代码执行沙箱.md)
 - [仪表读数识别](concepts/仪表读数识别.md)
 - [企业微信办公自动化](concepts/企业微信办公自动化.md)
@@ -215,8 +216,10 @@ last_updated: 2026-04-26
 - [六阶段蒸馏 SOP](concepts/六阶段蒸馏 SOP.md)
 - [关于 Gap Agent](concepts/关于 Gap Agent.md)
 - [内容再利用引擎](concepts/内容再利用引擎.md)
+- [内部人士买入筛查](concepts/内部人士买入筛查.md)
 - [凭证代理](concepts/凭证代理.md)
 - [动态工具发现](concepts/动态工具发现.md)
+- [原始能力](concepts/原始能力.md)
 - [原子-分子-化合物技能分层](concepts/原子-分子-化合物技能分层.md)
 - [原生搜索生态](concepts/原生搜索生态.md)
 - [反向约束设计](concepts/反向约束设计.md)
@@ -252,6 +255,7 @@ last_updated: 2026-04-26
 - [浏览器登录态复用](concepts/浏览器登录态复用.md)
 - [浏览器评论模式](concepts/浏览器评论模式.md)
 - [混合种子检索](concepts/混合种子检索.md)
+- [环境绑定](concepts/环境绑定.md)
 - [监控式搜索](concepts/监控式搜索.md)
 - [知识精馏](concepts/知识精馏.md)
 - [短期凭证](concepts/短期凭证.md)
@@ -350,6 +354,7 @@ last_updated: 2026-04-26
 - [Qwen3.5](entities/Qwen3.5.md)
 - [Scrapling](entities/Scrapling.md)
 - [Shopify AI Toolkit](entities/Shopify AI Toolkit.md)
+- [SkVM](entities/SkVM.md)
 - [Skill Factory](entities/Skill Factory.md)
 - [SkillHub](entities/SkillHub.md)
 - [SkillNote](entities/SkillNote.md)
@@ -424,7 +429,6 @@ last_updated: 2026-04-26
 - [BMAD Method](concepts/BMAD Method.md)
 - [EverCore](concepts/EverCore.md)
 - [Hands 机制](concepts/Hands 机制.md)
-- [Harness Engineering](concepts/Harness Engineering.md)
 - [Hermes Messaging Gateway](concepts/Hermes Messaging Gateway.md)
 - [NanoClaw](concepts/NanoClaw.md)
 - [OpenClaw 九层 System Prompt 架构](concepts/OpenClaw 九层 System Prompt 架构.md)
@@ -580,6 +584,7 @@ last_updated: 2026-04-26
 - [AI 研究 AI](concepts/AI 研究 AI.md)
 - [AI-First Engineering](concepts/AI-First Engineering.md)
 - [AI自主研究循环](concepts/AI自主研究循环.md)
+- [AOT 编译](concepts/AOT 编译.md)
 - [APEX 多槽位编排器](concepts/APEX 多槽位编排器.md)
 - [AVOID 警告](concepts/AVOID 警告.md)
 - [AaaS 商业模式](concepts/AaaS 商业模式.md)
@@ -706,7 +711,6 @@ last_updated: 2026-04-26
 - [Meta-Harness](concepts/Meta-Harness.md)
 - [Minions](concepts/Minions.md)
 - [Molty SOUL](concepts/Molty SOUL.md)
-- [Multi-Agent 群聊](concepts/Multi-Agent 群聊.md)
 - [M⋆](concepts/M⋆.md)
 - [Notion AI 上下文注入架构](concepts/Notion AI 上下文注入架构.md)
 - [Notion 页面作为 AI 共享记忆接口](concepts/Notion 页面作为 AI 共享记忆接口.md)
@@ -891,7 +895,6 @@ last_updated: 2026-04-26
 - [测试概念：Harness Engineering](concepts/测试概念：Harness Engineering.md)
 - [消息总线](concepts/消息总线.md)
 - [混合模型策略](concepts/混合模型策略.md)
-- [渐进式披露](concepts/渐进式披露.md)
 - [演化式 Harness 优化](concepts/演化式 Harness 优化.md)
 - [状态漂移](concepts/状态漂移.md)
 - [状态驱动增量处理](concepts/状态驱动增量处理.md)
@@ -1012,6 +1015,7 @@ last_updated: 2026-04-26
 - [OpenFang](entities/OpenFang.md)
 - [OpenHarness](entities/OpenHarness.md)
 - [React Flow](entities/React Flow.md)
+- [SkVM](entities/SkVM.md)
 - [StockClaw](entities/StockClaw.md)
 - [SuperConductor](entities/SuperConductor.md)
 - [SuperHQ](entities/SuperHQ.md)
@@ -1046,6 +1050,7 @@ last_updated: 2026-04-26
 - [Camoufox](entities/Camoufox.md)
 - [Context Hub](entities/Context Hub.md)
 - [Cursor CLI](entities/Cursor CLI.md)
+- [Kimi CLI](entities/Kimi CLI.md)
 - [OpenCLI 插件系统](entities/OpenCLI 插件系统.md)
 - [Social CLI](entities/Social CLI.md)
 - [pikiclaw](entities/pikiclaw.md)
@@ -1144,6 +1149,7 @@ last_updated: 2026-04-26
 - [IRL 模式](concepts/IRL 模式.md)
 - [Idea File](concepts/Idea File.md)
 - [Inversion 模式](concepts/Inversion 模式.md)
+- [JIT 优化](concepts/JIT 优化.md)
 - [LLM-as-a-Verifier](concepts/LLM-as-a-Verifier.md)
 - [Latent vs. Deterministic](concepts/Latent vs. Deterministic.md)
 - [Long-Horizon Coding](concepts/Long-Horizon Coding.md)
@@ -1233,6 +1239,7 @@ last_updated: 2026-04-26
 - [主动性强制](concepts/主动性强制.md)
 - [云浏览器自动化](concepts/云浏览器自动化.md)
 - [人均 PR 吞吐量](concepts/人均 PR 吞吐量.md)
+- [代码固化](concepts/代码固化.md)
 - [代码库到架构图工作流](concepts/代码库到架构图工作流.md)
 - [任务复杂度分配](concepts/任务复杂度分配.md)
 - [任务预算](concepts/任务预算.md)
@@ -1472,6 +1479,7 @@ last_updated: 2026-04-26
 - [1-of-1 DVN 配置](concepts/1-of-1 DVN 配置.md)
 - [ACP（Agent Commerce Protocol）](concepts/ACP（Agent Commerce Protocol）.md)
 - [AI Oracle 链上 AI 预言机](concepts/AI Oracle 链上 AI 预言机.md)
+- [AI Quant Lab](concepts/AI Quant Lab.md)
 - [AI Token](concepts/AI Token.md)
 - [AI Wallet Matcher](concepts/AI Wallet Matcher.md)
 - [AI 生存压力机制](concepts/AI 生存压力机制.md)
@@ -1543,6 +1551,7 @@ last_updated: 2026-04-26
 - [全同态加密](concepts/全同态加密.md)
 - [共识输出](concepts/共识输出.md)
 - [共识验证](concepts/共识验证.md)
+- [内部人士买入筛查](concepts/内部人士买入筛查.md)
 - [前端篡改](concepts/前端篡改.md)
 - [动态手续费](concepts/动态手续费.md)
 - [原生数字资产](concepts/原生数字资产.md)
@@ -1610,14 +1619,17 @@ last_updated: 2026-04-26
 - [ClawDrive](entities/ClawDrive.md)
 - [Cocoon](entities/Cocoon.md)
 - [CoinFello](entities/CoinFello.md)
+- [Coinbase](entities/Coinbase.md)
 - [Coinglass](entities/Coinglass.md)
 - [CryptoQuant](entities/CryptoQuant.md)
 - [CyberMolt](entities/CyberMolt.md)
+- [D0](entities/D0.md)
 - [DailyNews](entities/DailyNews.md)
 - [DeFiLlama](entities/DeFiLlama.md)
 - [Donut](entities/Donut.md)
 - [Dune](entities/Dune.md)
 - [ERC-8183](entities/ERC-8183.md)
+- [EURC](entities/EURC.md)
 - [Echo](entities/Echo.md)
 - [ElizaOS](entities/ElizaOS.md)
 - [Fiat24](entities/Fiat24.md)
@@ -1639,11 +1651,13 @@ last_updated: 2026-04-26
 - [OKX Agent Trade Kit](entities/OKX Agent Trade Kit.md)
 - [OpenAlice](entities/OpenAlice.md)
 - [OpenBB](entities/OpenBB.md)
+- [OpenInsider](entities/OpenInsider.md)
 - [OpenNews MCP](entities/OpenNews MCP.md)
 - [OpenTwitter MCP](entities/OpenTwitter MCP.md)
 - [Orbis](entities/Orbis.md)
 - [Pimlico](entities/Pimlico.md)
 - [Polymarket](entities/Polymarket.md)
+- [QuantLib](entities/QuantLib.md)
 - [STRC](entities/STRC.md)
 - [SafePal](entities/SafePal.md)
 - [Sam Bankman-Fried](entities/Sam Bankman-Fried.md)
@@ -1671,6 +1685,13 @@ last_updated: 2026-04-26
 - [比特时代 / AEX](entities/比特时代 - AEX.md)
 - [锁妖塔 Skill](entities/锁妖塔 Skill.md)
 - [黄天威](entities/黄天威.md)
+
+## Harness 工程
+### Concepts
+- [Harness Engineering](concepts/Harness Engineering.md)
+
+### Entitys
+- [Kimi CLI](entities/Kimi CLI.md)
 
 ## IDE 集成
 ### Concepts
@@ -1703,6 +1724,7 @@ last_updated: 2026-04-26
 - [Agentic Learning Flywheel](concepts/Agentic Learning Flywheel.md)
 - [Agentic Vision](concepts/Agentic Vision.md)
 - [Agentic 编程轨迹蒸馏](concepts/Agentic 编程轨迹蒸馏.md)
+- [Artifacts](concepts/Artifacts.md)
 - [Attention Matching](concepts/Attention Matching.md)
 - [Attention Residuals](concepts/Attention Residuals.md)
 - [Auxiliary 副驾模型](concepts/Auxiliary 副驾模型.md)
@@ -1746,6 +1768,7 @@ last_updated: 2026-04-26
 - [GraphRAG](concepts/GraphRAG.md)
 - [GraphWalks BFS](concepts/GraphWalks BFS.md)
 - [Grokking](concepts/Grokking.md)
+- [Guided Learning](concepts/Guided Learning.md)
 - [HumanEval](concepts/HumanEval.md)
 - [Hybrid Attention](concepts/Hybrid Attention.md)
 - [HyperMem](concepts/HyperMem.md)
@@ -1830,6 +1853,7 @@ last_updated: 2026-04-26
 - [Tree Attention](concepts/Tree Attention.md)
 - [Universal Transformer](concepts/Universal Transformer.md)
 - [VLA](concepts/VLA.md)
+- [Vibe Mathing](concepts/Vibe Mathing.md)
 - [Vision Transformer](concepts/Vision Transformer.md)
 - [Web Session 转 API](concepts/Web Session 转 API.md)
 - [World Action Model](concepts/World Action Model.md)
@@ -1847,6 +1871,7 @@ last_updated: 2026-04-26
 - [世界统一模型](concepts/世界统一模型.md)
 - [个人超级智能](concepts/个人超级智能.md)
 - [中文文字渲染](concepts/中文文字渲染.md)
+- [交互式可视化](concepts/交互式可视化.md)
 - [人格超信念](concepts/人格超信念.md)
 - [仪表读数识别](concepts/仪表读数识别.md)
 - [伦理漂移](concepts/伦理漂移.md)
@@ -1854,6 +1879,7 @@ last_updated: 2026-04-26
 - [全球南方数字平权](concepts/全球南方数字平权.md)
 - [共享初始化](concepts/共享初始化.md)
 - [内在知识治理](concepts/内在知识治理.md)
+- [冯·曼戈尔特函数](concepts/冯·曼戈尔特函数.md)
 - [决策辅助型 AI](concepts/决策辅助型 AI.md)
 - [分层模型路由](concepts/分层模型路由.md)
 - [分层离散 Tokenizer](concepts/分层离散 Tokenizer.md)
@@ -1862,9 +1888,12 @@ last_updated: 2026-04-26
 - [动态数据混合](concepts/动态数据混合.md)
 - [动态数据选择](concepts/动态数据选择.md)
 - [动态样本加权](concepts/动态样本加权.md)
+- [动态视觉解释](concepts/动态视觉解释.md)
 - [协变量支持](concepts/协变量支持.md)
 - [历史人物人格唤醒](concepts/历史人物人格唤醒.md)
 - [原始/派生权衡](concepts/原始-派生权衡.md)
+- [原始能力](concepts/原始能力.md)
+- [原始集](concepts/原始集.md)
 - [原生多模态 Embedding](concepts/原生多模态 Embedding.md)
 - [原生本体感](concepts/原生本体感.md)
 - [参数化持续学习](concepts/参数化持续学习.md)
@@ -1998,6 +2027,7 @@ last_updated: 2026-04-26
 - [零样本泛化](concepts/零样本泛化.md)
 - [零样本金融预测](concepts/零样本金融预测.md)
 - [首Token延迟](concepts/首Token延迟.md)
+- [马尔可夫链方法](concepts/马尔可夫链方法.md)
 - [验证计算扩展](concepts/验证计算扩展.md)
 - [验证问题](concepts/验证问题.md)
 - [高分辨率视觉](concepts/高分辨率视觉.md)
@@ -2015,6 +2045,7 @@ last_updated: 2026-04-26
 - [CLIProxyAPI](entities/CLIProxyAPI.md)
 - [Canva Design Model](entities/Canva Design Model.md)
 - [Cerebras](entities/Cerebras.md)
+- [ChatGPT](entities/ChatGPT.md)
 - [Claude Mythos](entities/Claude Mythos.md)
 - [Claude Opus](entities/Claude Opus.md)
 - [Claude Opus 4.7](entities/Claude Opus 4.7.md)
@@ -2033,6 +2064,7 @@ last_updated: 2026-04-26
 - [GEN-1](entities/GEN-1.md)
 - [GLM-5-Turbo](entities/GLM-5-Turbo.md)
 - [GLM-5V-Turbo](entities/GLM-5V-Turbo.md)
+- [GPT-5.4 Pro](entities/GPT-5.4 Pro.md)
 - [GPT-5.4-Cyber](entities/GPT-5.4-Cyber.md)
 - [GPT-5.5](entities/GPT-5.5.md)
 - [GPT-Rosalind](entities/GPT-Rosalind.md)
@@ -2170,6 +2202,7 @@ last_updated: 2026-04-26
 - [Memory Wiki](concepts/Memory Wiki.md)
 - [Minions](concepts/Minions.md)
 - [Molty SOUL](concepts/Molty SOUL.md)
+- [Multi-Agent 群聊](concepts/Multi-Agent 群聊.md)
 - [Next-State Signal](concepts/Next-State Signal.md)
 - [OpenClaw Expert Suite](concepts/OpenClaw Expert Suite.md)
 - [OpenClaw Web Search](concepts/OpenClaw Web Search.md)
@@ -2306,10 +2339,13 @@ last_updated: 2026-04-26
 - [Memory Folder](concepts/Memory Folder.md)
 - [Thinking Preservation](concepts/Thinking Preservation.md)
 - [可回放设计流程](concepts/可回放设计流程.md)
+- [可恢复的内存压缩](concepts/可恢复的内存压缩.md)
+- [外部记忆](concepts/外部记忆.md)
 - [屏幕上下文记忆](concepts/屏幕上下文记忆.md)
 - [思想钢印](concepts/思想钢印.md)
 - [持久化跨会话记忆](concepts/持久化跨会话记忆.md)
 - [混合注意力](concepts/混合注意力.md)
+- [渐进式披露](concepts/渐进式披露.md)
 - [记忆技术债](concepts/记忆技术债.md)
 
 ### Entitys
@@ -2405,6 +2441,7 @@ last_updated: 2026-04-26
 - [世界演化建模](concepts/世界演化建模.md)
 - [中文文字渲染](concepts/中文文字渲染.md)
 - [串行页面生成](concepts/串行页面生成.md)
+- [交互式可视化](concepts/交互式可视化.md)
 - [人物一致性](concepts/人物一致性.md)
 - [仿真截图生成](concepts/仿真截图生成.md)
 - [传播飞轮](concepts/传播飞轮.md)
@@ -2416,6 +2453,7 @@ last_updated: 2026-04-26
 - [内容发布自动化](concepts/内容发布自动化.md)
 - [内容工厂工作流](concepts/内容工厂工作流.md)
 - [内容生产基础设施](concepts/内容生产基础设施.md)
+- [动态视觉解释](concepts/动态视觉解释.md)
 - [动画风格库](concepts/动画风格库.md)
 - [单变量受控迭代](concepts/单变量受控迭代.md)
 - [单目深度估计](concepts/单目深度估计.md)
@@ -2821,6 +2859,7 @@ last_updated: 2026-04-26
 - [ClawWork](entities/ClawWork.md)
 - [Cocoon](entities/Cocoon.md)
 - [Cognition](entities/Cognition.md)
+- [Coinbase](entities/Coinbase.md)
 - [ColdIQ](entities/ColdIQ.md)
 - [CrewClaw](entities/CrewClaw.md)
 - [Dageno](entities/Dageno.md)
@@ -2828,6 +2867,7 @@ last_updated: 2026-04-26
 - [DeepSeek V4](entities/DeepSeek V4.md)
 - [DenchClaw](entities/DenchClaw.md)
 - [Dola](entities/Dola.md)
+- [EURC](entities/EURC.md)
 - [EvoMap](entities/EvoMap.md)
 - [Evolver](entities/Evolver.md)
 - [Exa](entities/Exa.md)
@@ -2933,7 +2973,10 @@ last_updated: 2026-04-26
 - [BMAD Method](concepts/BMAD Method.md)
 - [Claw Groups](concepts/Claw Groups.md)
 - [Hands 机制](concepts/Hands 机制.md)
+- [Multi-Agent 群聊](concepts/Multi-Agent 群聊.md)
 - [Subagents 并行](concepts/Subagents 并行.md)
+- [TuriX Parallelum](concepts/TuriX Parallelum.md)
+- [任务认领机制](concepts/任务认领机制.md)
 - [子 Agent 派生](concepts/子 Agent 派生.md)
 - [对抗性评审](concepts/对抗性评审.md)
 
@@ -2942,6 +2985,7 @@ last_updated: 2026-04-26
 - [MaxClaw](entities/MaxClaw.md)
 - [OpenClaw](entities/OpenClaw.md)
 - [OpenFang](entities/OpenFang.md)
+- [Slock](entities/Slock.md)
 - [TradingAgents-CN](entities/TradingAgents-CN.md)
 
 ## 多模态
@@ -3228,6 +3272,7 @@ last_updated: 2026-04-26
 - [AI Native Human](concepts/AI Native Human.md)
 - [AI Native 组织](concepts/AI Native 组织.md)
 - [AI Post Verification](concepts/AI Post Verification.md)
+- [AI Quant Lab](concepts/AI Quant Lab.md)
 - [AI 优先视频工作流](concepts/AI 优先视频工作流.md)
 - [AI 公司操作系统](concepts/AI 公司操作系统.md)
 - [AI 工具逆向分析](concepts/AI 工具逆向分析.md)
@@ -3612,6 +3657,7 @@ last_updated: 2026-04-26
 - [API 中转站检测](concepts/API 中转站检测.md)
 - [ASN（自治系统号）](concepts/ASN（自治系统号）.md)
 - [AST+LLM 双阶段提取](concepts/AST+LLM 双阶段提取.md)
+- [AX Tree](concepts/AX Tree.md)
 - [Agentic Kernel Synthesis](concepts/Agentic Kernel Synthesis.md)
 - [Anti-996](concepts/Anti-996.md)
 - [Apache 2.0 商标边界](concepts/Apache 2.0 商标边界.md)
@@ -3780,6 +3826,7 @@ last_updated: 2026-04-26
 - [浏览器登录态复用](concepts/浏览器登录态复用.md)
 - [爆炸半径分析](concepts/爆炸半径分析.md)
 - [环境变量敏感性分级](concepts/环境变量敏感性分级.md)
+- [环境绑定](concepts/环境绑定.md)
 - [稀疏矩阵图表示](concepts/稀疏矩阵图表示.md)
 - [符号链接注入](concepts/符号链接注入.md)
 - [第三方推理](concepts/第三方推理.md)
@@ -3918,6 +3965,7 @@ last_updated: 2026-04-26
 - [OpenCLI](entities/OpenCLI.md)
 - [OpenCLI 插件系统](entities/OpenCLI 插件系统.md)
 - [OpenClaw Control Center](entities/OpenClaw Control Center.md)
+- [OpenInsider](entities/OpenInsider.md)
 - [OpenMythos](entities/OpenMythos.md)
 - [OpenRouter](entities/OpenRouter.md)
 - [OpenSandbox](entities/OpenSandbox.md)
@@ -3933,6 +3981,7 @@ last_updated: 2026-04-26
 - [Postiz Agent CLI](entities/Postiz Agent CLI.md)
 - [Prism](entities/Prism.md)
 - [PureMac](entities/PureMac.md)
+- [QuantLib](entities/QuantLib.md)
 - [QueryWeaver](entities/QueryWeaver.md)
 - [RTK](entities/RTK.md)
 - [React Flow](entities/React Flow.md)
@@ -4079,6 +4128,7 @@ last_updated: 2026-04-26
 - [Chrome DevTools Protocol](concepts/Chrome DevTools Protocol.md)
 - [Computer Use](concepts/Computer Use.md)
 - [RPA](concepts/RPA.md)
+- [TuriX Parallelum](concepts/TuriX Parallelum.md)
 - [XHS Bridge](concepts/XHS Bridge.md)
 
 ### Entitys
@@ -4209,6 +4259,7 @@ last_updated: 2026-04-26
 - [图谱洞察](concepts/图谱洞察.md)
 - [基金课题生成](concepts/基金课题生成.md)
 - [填坑式写作](concepts/填坑式写作.md)
+- [外部记忆](concepts/外部记忆.md)
 - [多平台 AI 搜索聚合](concepts/多平台 AI 搜索聚合.md)
 - [多查询扩展](concepts/多查询扩展.md)
 - [多模态知识图谱](concepts/多模态知识图谱.md)
@@ -4242,6 +4293,7 @@ last_updated: 2026-04-26
 - [横纵分析法](concepts/横纵分析法.md)
 - [沉浸式翻译](concepts/沉浸式翻译.md)
 - [混合搜索](concepts/混合搜索.md)
+- [渐进式披露](concepts/渐进式披露.md)
 - [潜规则挖掘提示法](concepts/潜规则挖掘提示法.md)
 - [版本控制式笔记同步](concepts/版本控制式笔记同步.md)
 - [矛盾处理协议](concepts/矛盾处理协议.md)
@@ -4356,6 +4408,15 @@ last_updated: 2026-04-26
 - [x-tweet-fetcher](entities/x-tweet-fetcher.md)
 - [xiaohongshu-mcp](entities/xiaohongshu-mcp.md)
 
+## 稳定币
+### Concepts
+- [RLDC](concepts/RLDC.md)
+
+### Entitys
+- [Circle](entities/Circle.md)
+- [Circle 支付网络](entities/Circle 支付网络.md)
+- [USDC](entities/USDC.md)
+
 ## 笔记工具
 ### Concepts
 - [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)
@@ -4394,6 +4455,7 @@ last_updated: 2026-04-26
 - [AAAK 方言](concepts/AAAK 方言.md)
 - [AI 身份模型](concepts/AI 身份模型.md)
 - [AI-Native Memory](concepts/AI-Native Memory.md)
+- [AX Tree](concepts/AX Tree.md)
 - [Agent 上下文数据库](concepts/Agent 上下文数据库.md)
 - [Agent 持续学习三层框架](concepts/Agent 持续学习三层框架.md)
 - [Agent-curated memory](concepts/Agent-curated memory.md)
@@ -4425,7 +4487,6 @@ last_updated: 2026-04-26
 - [Gene Map](concepts/Gene Map.md)
 - [Git 作为 Agent 记忆](concepts/Git 作为 Agent 记忆.md)
 - [Git 共享记忆层](concepts/Git 共享记忆层.md)
-- [Harness Engineering](concepts/Harness Engineering.md)
 - [Holographic Reduced Representations](concepts/Holographic Reduced Representations.md)
 - [Hot Cache](concepts/Hot Cache.md)
 - [HyperMem](concepts/HyperMem.md)
@@ -4615,17 +4676,22 @@ last_updated: 2026-04-26
 - [taOSmd](entities/taOSmd.md)
 - [wiki-mempalace-bridge](entities/wiki-mempalace-bridge.md)
 
+## 量化交易
+### Concepts
+- [嵌入式 Python](concepts/嵌入式 Python.md)
+
+## 链上协议
 ## 长期记忆
 ### Concepts
 - [AI 身份模型](concepts/AI 身份模型.md)
 - [AI-Native Memory](concepts/AI-Native Memory.md)
 - [Chronicle](concepts/Chronicle.md)
 - [Git 共享记忆层](concepts/Git 共享记忆层.md)
-- [Harness Engineering](concepts/Harness Engineering.md)
 - [Hot Cache](concepts/Hot Cache.md)
 - [Long-Horizon Coding](concepts/Long-Horizon Coding.md)
 - [Memory Folder](concepts/Memory Folder.md)
 - [Thinking Preservation](concepts/Thinking Preservation.md)
+- [外部记忆](concepts/外部记忆.md)
 - [屏幕上下文记忆](concepts/屏幕上下文记忆.md)
 - [思想钢印](concepts/思想钢印.md)
 - [持久化跨会话记忆](concepts/持久化跨会话记忆.md)

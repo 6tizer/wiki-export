@@ -7,7 +7,7 @@ tags:
 - 知识管理
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f017ef06f33f4f6fb3f9f09740bd4063
@@ -27,6 +27,8 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 - 在插件生态中，Skills 往往是连接工作流模板与具体执行能力的基础层
 
 ## 来源引用
+
+- [摘要：100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？](summaries/摘要：100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247661592&idx=2&sn=082fae28b6d28dd20f4f170661e9f133&chksm=fa6939a427f7f5095ddb361059b2d161a84b92566f670dc5f2a7959561d1b745cf88e9b5cc6c#rd)）
 
 - [摘要：What is an Agent Harness](summaries/摘要：What is an Agent Harness.md)（[原文](https://x.com/aparnadhinak/status/2046980769747533830)）
 
@@ -94,6 +96,8 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 
 - [摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信...](summaries/摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信.md)
 
+- [摘要：让 AI 接管你的电脑！这个 Agent 凭什么 2.3K Stars 还在涨](summaries/摘要：让 AI 接管你的电脑！这个 Agent 凭什么 2.3K Stars 还在涨.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk2NDMzMDY3OA%3D%3D&mid=2247484301&idx=1&sn=4d6110b4360d9b2b2b928651b476655a&chksm=c5575f8328dc1444d94c8af751859872f63422f37f65fed3f718380ab623bbed58f684d915f2#rd)）
+
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0ODM5NTEyNA%3D%3D&mid=2247505880&idx=1&sn=f1a5297d812535a2bffac2d7e0d7a9b0&chksm=c290cdf6c57d4eebecc0e36e7eba979efdecf65bf353528554e2a3908ab30c9f60c80f772947#rd)｜《[hermes101.dev](http://hermes101.dev/) 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移》｜来源条目：[摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移](summaries/摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移.md)
 
 - [摘要：Anthropic 最新博客：MCP 没死，它又来了](summaries/摘要：Anthropic 最新博客：MCP 没死，它又来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483055&idx=1&sn=aca9f531006d4ae5c50feb6d4cc5229e&chksm=86732b338b1b484418b20621dcb0a955f7260a88990b6194acc039e8dc4969bb5bf99c3b9f8e#rd)）
@@ -101,6 +105,8 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 - [摘要：Your next 10 hires won't be human.](summaries/摘要：Your next 10 hires won't be human.md)（[原文](https://x.com/jiayuan_jy/status/2047014163097227478)）
 
 ## 关联概念
+
+- [Claude Code](entities/Claude Code.md)
 
 - [Tool Search](concepts/Tool Search.md)
 
@@ -217,3 +223,7 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 - [Turix CUA](entities/Turix CUA.md)
 
 - [RPA](concepts/RPA.md)
+
+- [TuriX Parallelum](concepts/TuriX Parallelum.md)
+
+- [可恢复的内存压缩](concepts/可恢复的内存压缩.md)

@@ -4,9 +4,9 @@ type: entity
 tags:
 - 安全/隐私
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-19'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f5ba5bfb28cb42e2ae16d66487af938d
@@ -27,6 +27,8 @@ Project Glasswing 是文中提到的 Anthropic 网络安全计划，用于承接
 
 ## 关联概念
 
+- [Claude Cowork](entities/Claude Cowork.md)
+
 - [Claude Mythos](entities/Claude Mythos.md)
 
 - [Trusted Access for Cyber](entities/Trusted Access for Cyber.md)
@@ -42,6 +44,8 @@ Project Glasswing 是文中提到的 Anthropic 网络安全计划，用于承接
 - [联邦定制化接入](concepts/联邦定制化接入.md)
 
 ## 来源引用
+
+- [摘要：100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？](summaries/摘要：100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247661592&idx=2&sn=082fae28b6d28dd20f4f170661e9f133&chksm=fa6939a427f7f5095ddb361059b2d161a84b92566f670dc5f2a7959561d1b745cf88e9b5cc6c#rd)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506328&idx=1&sn=d03e32eb701b71176450f7b8bda36481&chksm=cf8ba6a23e6803733918f630b2e14ee243187d68061fbad56d96e4c3b04b6a39ba50ef7611a8#rd)｜《Mythos造假/Opus降智/Agent新平台，Anthropic所有更新一次性看懂》｜源文章：Mythos造假/Opus降智/Agent新平台，Anthropic所有更新一次性看懂
 

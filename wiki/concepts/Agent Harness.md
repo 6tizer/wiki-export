@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/dcd58da1f13f4d10bb04047f0678e5c4
@@ -202,3 +202,5 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - [原文链接](https://x.com/jxnlco/status/2044469127696556153)｜《Sandboxes are coming to the Agents SDK》｜源文章：OpenAI Agents SDK 沙盒：让 AI Agent 真正「留下工作成果」
 
 - [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651030107&idx=2&sn=dcf949e41eb246cd78463ec2ac79eb17&chksm=85f6580c4d8619e4dbb67c7144f147a8bc41f01f639924649cbbb134ea5daa9c1e2bdebb2928#rd)）
+
+- [摘要：SkVM：优化你的Skills能够跨模型、跨Harness、跨环境稳定运行 ｜SJTU最新](summaries/摘要：SkVM：优化你的Skills能够跨模型、跨Harness、跨环境稳定运行 ｜SJTU最新.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg%3D%3D&mid=2247508119&idx=1&sn=8576b881967cee0b33dc2c424c9853a5&chksm=ce7a42ad8a773a9cdc3297389c1915b62ee8ee06d86ae09cbf47c11c9141230f4f6a7f8916f7#rd)）

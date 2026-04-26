@@ -3,7 +3,7 @@ title: Perplexity
 type: entity
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-19'
 source_tags: ''

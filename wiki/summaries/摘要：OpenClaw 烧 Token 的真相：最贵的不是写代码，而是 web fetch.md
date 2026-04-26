@@ -27,7 +27,7 @@ notion_id: f5408fae-c45a-48c7-8c27-5b663b2a5a39
 
 ## 提取的概念
 
-- [web fetch](concepts/web fetch.md)
+- [WebFetch](concepts/WebFetch.md)
 
 - [Context Compaction](concepts/Context Compaction.md)
 

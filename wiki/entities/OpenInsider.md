@@ -2,7 +2,8 @@
 title: OpenInsider
 type: entity
 tags:
-- AI 交易
+- Crypto/DeFi
+- 开发工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'

@@ -2,9 +2,9 @@
 title: LLM 商业化安全悖论三角：模型能力扩张、变现压力与合规收紧三力交汇时的路径分化与治理架构
 type: synthesis
 tags:
-- LLM
-- 商业/生态
-- 安全/隐私
+- AI 产品
+- AI 对齐
+- AI 政策
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
