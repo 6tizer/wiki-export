@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-26T05:23:56.307729+08:00",
+  "last_sync_time": "2026-04-26T11:24:58.260539+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 3882,
+  "total_pages_exported": 3883,
   "page_mapping": {
     "0fe9d271-3d82-4995-ad15-00fc8d446de0": {
       "type": "concept",
@@ -1801,7 +1801,7 @@
     "19eb9349-3ce1-499d-ac67-9bf54aef4355": {
       "type": "concept",
       "file_path": "wiki/concepts/思维预算.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-26T02:10:00.000Z"
     },
     "19ffd538-8958-4249-9494-da588318d154": {
       "type": "entity",
@@ -4611,7 +4611,7 @@
     "4722cb23-1f1f-40be-8f8b-dee618e7e41d": {
       "type": "concept",
       "file_path": "wiki/concepts/自生长人格.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-26T02:10:00.000Z"
     },
     "47275568-b086-4e7e-9071-0253aad633a2": {
       "type": "summary",
@@ -7576,7 +7576,7 @@
     "76675d4b-b18c-4b21-961e-5f412ba4d911": {
       "type": "concept",
       "file_path": "wiki/concepts/Claude Code Dreaming.md",
-      "last_edited": "2026-04-23T16:07:00.000Z"
+      "last_edited": "2026-04-26T02:10:00.000Z"
     },
     "766a1a4f-5d87-4a59-9770-bf836777e0d8": {
       "type": "entity",
@@ -19221,12 +19221,12 @@
     "e401405a-571e-49f3-aa7a-4627e534bd9a": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md",
-      "last_edited": "2026-04-25T09:12:00.000Z"
+      "last_edited": "2026-04-26T02:10:00.000Z"
     },
     "f07cd155-83a4-4710-bcb3-6ba9cab51940": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/Agent 技能的商业化拓扑：从免费能力模块到可计价服务单元的价值捕获路径与生态博弈.md",
-      "last_edited": "2026-04-25T09:12:00.000Z"
+      "last_edited": "2026-04-26T02:10:00.000Z"
     },
     "0030666d-e15d-415c-9998-c4cceecb824c": {
       "type": "concept",
@@ -19407,6 +19407,16 @@
       "type": "concept",
       "file_path": "wiki/concepts/AST 感知分块.md",
       "last_edited": "2026-04-25T16:09:00.000Z"
+    },
+    "c3c4f870-145f-49a0-afc4-2440d1bff97e": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融.md",
+      "last_edited": "2026-04-26T02:10:00.000Z"
+    },
+    "d0a15289-d6be-4b8f-ad89-9f83f3766441": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md",
+      "last_edited": "2026-04-26T02:10:00.000Z"
     }
   }
 }

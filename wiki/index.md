@@ -2,13 +2,13 @@
 type: index
 total_concepts: 1717
 total_entities: 826
-total_syntheses: 88
+total_syntheses: 90
 last_updated: 2026-04-26
 ---
 
 # 📚 知识 Wiki Index
 
-> 1717 concepts · 826 entities · 88 syntheses
+> 1717 concepts · 826 entities · 90 syntheses
 > 导出时间: 2026-04-26
 
 ## 使用方式
@@ -4658,6 +4658,8 @@ last_updated: 2026-04-26
 - [Agent 框架选型决策维度：从安全隔离到商业分发的多层权衡与实践路径](syntheses/Agent 框架选型决策维度：从安全隔离到商业分发的多层权衡与实践路径.md)
 - [Agent 编排与记忆系统的协同演化：从上下文工程到自主人格的架构融合光谱](syntheses/Agent 编排与记忆系统的协同演化：从上下文工程到自主人格的架构融合光谱.md)
 - [Agent 编排如何重塑内容创作：从单点生成到多智能体协同创作系统的架构演进](syntheses/Agent 编排如何重塑内容创作：从单点生成到多智能体协同创作系统的架构演进.md)
+- [Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱](syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md)
+- [Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融](syntheses/Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融.md)
 - [Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进](syntheses/Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进.md)
 - [Claude Code 最佳配置实践：从四层架构到成本治理的工程化调优全景](syntheses/Claude Code 最佳配置实践：从四层架构到成本治理的工程化调优全景.md)
 - [Codex 最佳配置实践：从 AGENTS.md 到插件生态与多 Agent 编排的工程化调优全景](syntheses/Codex 最佳配置实践：从 AGENTS.md 到插件生态与多 Agent 编排的工程化调优全景.md)
