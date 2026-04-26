@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/774a8205358a4e76854b1a3c85136c70
@@ -27,4 +27,4 @@ Gate MCP Skills 是 Gate 面向 AI Agent 提供的一组加密原生工具接口
 
 ## 来源引用
 
-- 《Gate MCP Skills：让 AI Agent 直接操盘加密交易的新基础设施》
+- [摘要：Gate MCP Skills：让 AI Agent 直接操盘加密交易的新基础设施](summaries/摘要：Gate MCP Skills：让 AI Agent 直接操盘加密交易的新基础设施.md)

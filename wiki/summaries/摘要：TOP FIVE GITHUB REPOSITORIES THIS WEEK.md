@@ -2,8 +2,10 @@
 title: 摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK
 type: summary
 tags:
-- Coding Agent
-- Agent 框架
+- 知识管理
+- 长期记忆
+- OpenClaw
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

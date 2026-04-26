@@ -2,11 +2,12 @@
 title: 摘要：为了Token，阿里云竟然出了一个TPN？
 type: summary
 tags:
-- LLM
-- 开发工具
+- 推理优化
+- 算力基础设施
+- 商业/生态
 status: 已审核
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/348701074b688124b32ae396817ad489
 notion_url: https://www.notion.so/a4016fb8c64c43d9949ca63f6ae29787

@@ -2,7 +2,8 @@
 title: Coinbase
 type: entity
 tags:
-- Crypto/DeFi
+- 稳定币
+- 加密资产
 - 商业/生态
 status: 草稿
 confidence: high

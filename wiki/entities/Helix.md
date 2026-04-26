@@ -2,8 +2,9 @@
 title: Helix
 type: entity
 tags:
-- Crypto/DeFi
-- 记忆系统
+- 链上协议
+- AI 产品
+- 长期记忆
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

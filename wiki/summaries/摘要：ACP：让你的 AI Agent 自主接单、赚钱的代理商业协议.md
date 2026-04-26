@@ -35,7 +35,7 @@ ACP 试图把 Agent 的找活、担保、交付、评估和结算做成标准化
 
 - [ERC-8004](concepts/ERC-8004.md)
 
-- [ERC-8183](concepts/ERC-8183.md)
+- [ERC-8183](entities/ERC-8183.md)
 
 ### 原始文章信息
 

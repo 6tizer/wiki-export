@@ -2,8 +2,9 @@
 title: 摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型
 type: summary
 tags:
-- LLM
-- 开发工具
+- 算力基础设施
+- 模型部署
+- 推理优化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

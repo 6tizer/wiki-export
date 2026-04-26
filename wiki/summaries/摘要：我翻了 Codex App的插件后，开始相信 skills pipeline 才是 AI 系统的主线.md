@@ -2,8 +2,10 @@
 title: 摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线
 type: summary
 tags:
-- Coding Agent
-- Agent 编排
+- Agent 协作模式
+- 内容自动化
+- 上下文管理
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'

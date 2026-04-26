@@ -2,8 +2,9 @@
 title: Faceless format
 type: concept
 tags:
-- 内容创作
-- 商业/生态
+- 社交媒体
+- 内容自动化
+- 视频/3D
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

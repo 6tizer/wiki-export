@@ -2,8 +2,9 @@
 title: 摘要：Cognition 用 $250M 抄底 Windsurf：当 IDE 变成 Agent 指挥中心，谁来审这些代码？
 type: summary
 tags:
-- Coding Agent
-- 商业/生态
+- Agent 协作模式
+- 多Agent协作
+- IDE 集成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

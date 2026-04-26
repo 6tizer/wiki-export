@@ -2,8 +2,9 @@
 title: Headless 模式
 type: concept
 tags:
-- Coding Agent
-- 工作流
+- CLI 工具
+- OpenClaw
+- 内容自动化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

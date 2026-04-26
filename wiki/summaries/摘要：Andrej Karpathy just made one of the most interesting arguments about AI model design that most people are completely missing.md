@@ -3,8 +3,11 @@ title: 摘要：Andrej Karpathy just made one of the most interesting arguments 
   model design that most people are completely missing.
 type: summary
 tags:
-- LLM
-- 记忆系统
+- 知识管理
+- RAG/检索
+- 长期记忆
+- 上下文管理
+- 笔记工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

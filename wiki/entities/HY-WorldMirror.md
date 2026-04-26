@@ -2,8 +2,8 @@
 title: HY-WorldMirror
 type: entity
 tags:
-- 内容创作
-- LLM
+- 视频/3D
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-16'

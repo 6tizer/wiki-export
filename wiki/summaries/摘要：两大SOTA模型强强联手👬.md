@@ -2,8 +2,9 @@
 title: 摘要：两大SOTA模型强强联手👬
 type: summary
 tags:
-- 内容创作
-- LLM
+- 内容自动化
+- 图像生成
+- 视频/3D
 status: 已审核
 confidence: low
 last_compiled: '2026-04-20'

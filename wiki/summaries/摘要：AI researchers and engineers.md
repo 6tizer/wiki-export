@@ -2,8 +2,10 @@
 title: 摘要：AI researchers and engineers
 type: summary
 tags:
-- Agent 框架
 - 知识管理
+- 长期记忆
+- 上下文管理
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

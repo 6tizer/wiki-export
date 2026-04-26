@@ -36,7 +36,7 @@ Cline 与 Vercel AI Gateway 联合在 3 天内免费开放 Kimi K2.6，核心卖
 
 - [Vercel AI Gateway](entities/Vercel AI Gateway.md)
 
-- [Terminal-Bench 2.0](concepts/Terminal-Bench 2.0.md)
+- [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)
 
 ## 原始文章信息
 

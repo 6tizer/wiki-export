@@ -4,9 +4,9 @@ type: concept
 tags:
 - OpenClaw
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-14'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/690db72bb4d2437faf5c467e4508b5d2
@@ -29,7 +29,7 @@ Molty SOUL 是 OpenClaw 社区传播开的一套 **Agent 人格改写方案**，
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjc0MzA0Mg%3D%3D&mid=2247485445&idx=1&sn=76cc8a9f0947218acfbaeb3abaaf10cf&chksm=e87d5f08412f5b5a3cd9c4e9c75c6ba3c77347420e6699e8e54fe3e6be0b703447bf8d9c0065#rd)｜《OpenClaw 这次最骚的更新，不是 Molty 更辣了，而是 Agent 开始有灵魂了》
+- [摘要：OpenClaw 这次最骚的更新，不是 Molty 更辣了，而是 Agent 开始有灵魂了](summaries/摘要：OpenClaw 这次最骚的更新，不是 Molty 更辣了，而是 Agent 开始有灵魂了.md)（[原文链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjc0MzA0Mg%3D%3D&mid=2247485445&idx=1&sn=76cc8a9f0947218acfbaeb3abaaf10cf&chksm=e87d5f08412f5b5a3cd9c4e9c75c6ba3c77347420e6699e8e54fe3e6be0b703447bf8d9c0065#rd)）
 
 ## 关联概念
 

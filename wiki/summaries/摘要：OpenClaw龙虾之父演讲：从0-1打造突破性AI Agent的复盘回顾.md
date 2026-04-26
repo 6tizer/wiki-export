@@ -2,8 +2,9 @@
 title: 摘要：OpenClaw龙虾之父演讲：从0-1打造突破性AI Agent的复盘回顾
 type: summary
 tags:
+- 商业/生态
+- Agent 安全
 - OpenClaw
-- Agent 框架
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'

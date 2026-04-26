@@ -2,8 +2,10 @@
 title: 摘要：Agent 终于有了自己的社交网络——FloatlM 发布
 type: summary
 tags:
-- Agent 框架
-- 商业/生态
+- Agent 协作模式
+- 多Agent协作
+- 上下文管理
+- 社交媒体
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

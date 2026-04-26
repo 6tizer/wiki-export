@@ -2,8 +2,10 @@
 title: 摘要：Claude Opus 4.7 is now available in Windsurf 2.0!
 type: summary
 tags:
-- Coding Agent
-- LLM
+- Agent 协作模式
+- 推理优化
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: low
 last_compiled: '2026-04-20'

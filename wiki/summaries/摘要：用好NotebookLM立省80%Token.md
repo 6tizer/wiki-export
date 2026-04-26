@@ -3,7 +3,8 @@ title: 摘要：用好NotebookLM立省80%Token
 type: summary
 tags:
 - 知识管理
-- Coding Agent
+- RAG/检索
+- 笔记工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

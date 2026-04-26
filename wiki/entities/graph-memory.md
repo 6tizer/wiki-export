@@ -2,11 +2,13 @@
 title: graph-memory
 type: entity
 tags:
+- 知识管理
+- 长期记忆
 - OpenClaw
-- 记忆系统
+- 上下文管理
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
 notion_url: https://www.notion.so/608080d67be64db1bf56c2a9d71a8c16
@@ -27,7 +29,7 @@ graph-memory 是一个面向 OpenClaw 的记忆插件，用知识图谱与相关
 
 ## 来源引用
 
-- 《OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册》— X书签，2026-03
+- [摘要：OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册](summaries/摘要：OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册.md)— X书签，2026-03
 
 ## 关联概念
 

@@ -2,11 +2,12 @@
 title: 摘要：quantization
 type: summary
 tags:
-- LLM
-- 开发工具
+- 推理优化
+- 算力基础设施
+- 内容自动化
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/348701074b6881d0999dcb82ef054820
 notion_url: https://www.notion.so/eeb8a4ad865549d0987806d022eb8c37

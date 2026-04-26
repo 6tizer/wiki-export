@@ -2,7 +2,9 @@
 title: Barker
 type: entity
 tags:
-- Crypto/DeFi
+- 稳定币
+- 链上协议
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

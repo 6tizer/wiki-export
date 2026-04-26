@@ -2,8 +2,8 @@
 title: awesome-niuma-skills
 type: entity
 tags:
-- Agent 技能
-- 工作流
+- 知识管理
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

@@ -2,7 +2,9 @@
 title: 摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了
 type: summary
 tags:
-- LLM
+- 推理优化
+- 提示工程
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

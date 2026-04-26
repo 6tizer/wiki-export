@@ -2,8 +2,9 @@
 title: Sage
 type: entity
 tags:
-- Agent 框架
-- 内容创作
+- 社交媒体
+- 内容自动化
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-18'

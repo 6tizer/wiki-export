@@ -2,7 +2,9 @@
 title: Attention Matching
 type: concept
 tags:
-- LLM
+- 知识管理
+- 推理优化
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

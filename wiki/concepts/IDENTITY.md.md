@@ -3,8 +3,9 @@ title: IDENTITY.md
 type: concept
 tags:
 - OpenClaw
-- Agent 编排
-status: 草稿
+- 提示工程
+- 长期记忆
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''

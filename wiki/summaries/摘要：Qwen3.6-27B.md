@@ -2,8 +2,12 @@
 title: 摘要：Qwen3.6-27B
 type: summary
 tags:
-- LLM
-- Coding Agent
+- 代码生成
+- 多模态
+- 模型部署
+- IDE 集成
+- OpenClaw
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

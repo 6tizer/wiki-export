@@ -2,8 +2,9 @@
 title: Pal
 type: entity
 tags:
-- Agent 框架
-- 记忆系统
+- 知识管理
+- 上下文管理
+- RAG/检索
 status: 草稿
 confidence: high
 last_compiled: '2026-04-25'

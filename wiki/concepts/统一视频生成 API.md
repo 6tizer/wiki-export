@@ -2,8 +2,9 @@
 title: 统一视频生成 API
 type: concept
 tags:
-- 开发工具
-- 内容创作
+- 内容自动化
+- 视频/3D
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'

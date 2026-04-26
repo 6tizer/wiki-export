@@ -2,8 +2,9 @@
 title: 摘要：agent-browser：为AI Agent 写的浏览器CLI
 type: summary
 tags:
-- Agent 技能
-- 开发工具
+- 浏览器自动化
+- CLI 工具
+- 前端开发
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-25'

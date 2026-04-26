@@ -2,11 +2,13 @@
 title: khazix-skills
 type: entity
 tags:
-- Agent 技能
-- Coding Agent
+- 知识管理
+- 提示工程
+- AI 产品
+- OpenClaw
 status: 审核中
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/81891281a59f4bb3a52e9da3d68fd864

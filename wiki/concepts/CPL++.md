@@ -2,7 +2,7 @@
 title: CPL++
 type: concept
 tags:
-- LLM
+- 训练/微调
 status: 草稿
 confidence: high
 last_compiled: '2026-04-16'

@@ -2,13 +2,12 @@
 title: CodePilot
 type: entity
 tags:
-- Agent 技能
-- 记忆系统
-- Agent 编排
-- 开发工具
+- Agent 协作模式
+- 长期记忆
+- AI 产品
 status: 审核中
 confidence: high
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/bec18ee24cc04597b2915738d8bc2b7f
@@ -29,7 +28,7 @@ CodePilot 是围绕 Claude Code 构建的桌面客户端产品，主打把长期
 
 ## 来源引用
 
-- 《CodePilot：用宠物系统解决 Agent 时代最大的用户问题》｜X书签文章｜原文链接：[https://x.com/op7418/status/2039291001894830287](https://x.com/op7418/status/2039291001894830287)｜来源条目：CodePilot：用宠物系统解决 Agent 时代最大的用户问题
+- [摘要：CodePilot：用宠物系统解决 Agent 时代最大的用户问题](summaries/摘要：CodePilot：用宠物系统解决 Agent 时代最大的用户问题.md)｜X书签文章｜原文链接：[https://x.com/op7418/status/2039291001894830287](https://x.com/op7418/status/2039291001894830287)｜来源条目：CodePilot：用宠物系统解决 Agent 时代最大的用户问题
 
 - [摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测](summaries/摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA%3D%3D&mid=2247496592&idx=1&sn=ff0599ff60bf5fbbd07b5b18d626c9cd&chksm=faeab77a93137cfd2ee02971d6731162f1562e3b988e6d38a012b94116546d5ade80a17278c6#rd)）
 

@@ -2,6 +2,8 @@
 title: AI 支付集成
 type: concept
 tags:
+- MCP 协议
+- AI 产品
 - 商业/生态
 status: 草稿
 confidence: high

@@ -3,7 +3,7 @@ title: Claude Code /ultrareview
 type: concept
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
@@ -32,7 +32,7 @@ Claude Code /ultrareview 是 Claude Code 提供的深度代码审查命令，用
 
 - [Builder-Reviewer 模式](concepts/Builder-Reviewer 模式.md)
 
-- [对抗性代码审查](concepts/对抗性代码审查.md)
+- 对抗性代码审查
 
 - [代码执行沙箱](concepts/代码执行沙箱.md)
 

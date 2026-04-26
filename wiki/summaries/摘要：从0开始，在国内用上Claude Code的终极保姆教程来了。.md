@@ -2,8 +2,9 @@
 title: 摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。
 type: summary
 tags:
-- Coding Agent
-- 开发工具
+- 代码生成
+- Agent 协作模式
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

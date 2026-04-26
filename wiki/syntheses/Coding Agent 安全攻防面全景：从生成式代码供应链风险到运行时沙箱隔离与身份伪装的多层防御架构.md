@@ -4,6 +4,9 @@ type: synthesis
 tags:
 - Agent 安全
 - 代码生成
+- MCP 协议
+- 身份准入
+- 提示工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'

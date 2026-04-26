@@ -3,7 +3,6 @@ title: Karpathy LLM Wiki 方法论
 type: concept
 tags:
 - 知识管理
-- 工作流
 - RAG/检索
 - 笔记工具
 status: 审核中
@@ -191,7 +190,7 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 
 - [SHA256 增量缓存](concepts/SHA256 增量缓存.md)
 
-- [GitNexus](entities/GitNexus.md)
+- GitNexus
 
 - [代码库自动文档生成](concepts/代码库自动文档生成.md)
 

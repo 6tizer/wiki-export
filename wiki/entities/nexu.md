@@ -2,6 +2,7 @@
 title: nexu
 type: entity
 tags:
+- 商业/生态
 - OpenClaw
 status: 审核中
 confidence: high

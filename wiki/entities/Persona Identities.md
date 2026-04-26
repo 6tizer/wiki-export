@@ -2,9 +2,9 @@
 title: Persona Identities
 type: entity
 tags:
-- 安全/隐私
-- 商业/生态
-status: 草稿
+- 身份准入
+- AI 产品
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''

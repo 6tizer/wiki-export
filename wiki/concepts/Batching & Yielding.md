@@ -2,10 +2,11 @@
 title: Batching & Yielding
 type: concept
 tags:
-- 开发工具
+- 前端开发
+- 浏览器自动化
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/9388664845ca4644a7bc085b381763ad

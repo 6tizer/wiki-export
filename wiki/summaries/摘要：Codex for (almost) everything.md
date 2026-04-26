@@ -2,8 +2,10 @@
 title: 摘要：Codex for (almost) everything.
 type: summary
 tags:
-- Coding Agent
-- Agent 技能
+- 代码生成
+- 长期记忆
+- AI 产品
+- 知识管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,8 +2,9 @@
 title: 摘要：用户超十万的“AI科学家”更新，科研AI全面进化
 type: summary
 tags:
-- 工作流
 - 知识管理
+- 内容自动化
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,8 +2,9 @@
 title: 摘要：📦New in · OKX Agent Trade Kit 上新！
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 量化交易
+- 加密资产
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,8 +2,9 @@
 title: 摘要：大模型开始“懂你”了！PersonaVLM如何实现长期个性化记忆
 type: summary
 tags:
-- 记忆系统
-- LLM
+- 知识管理
+- 长期记忆
+- 多模态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

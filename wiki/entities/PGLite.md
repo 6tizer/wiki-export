@@ -5,7 +5,7 @@ tags:
 - 开发工具
 status: 审核中
 confidence: high
-last_compiled: '2026-04-14'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/46715959a69a48bda3f8b9780e698f09
@@ -34,6 +34,6 @@ notion_id: 46715959-a69a-48bd-a3f8-b9780e698f09
 
 ## 来源引用
 
-- 《YC CEO把自己第二大脑系统开源了：专供OpenClaw与Hermes，全息记忆打造迷你AGI》｜微信文章｜原文链接：[查看原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA%3D%3D&mid=2247513949&idx=1&sn=30e8a61a4f2fb0fb68f42b1df8aff848&chksm=cfebe5d1daec91e5ef252c1ba6b40bdc55584fad6f608c184c95d4e5706e90d2b926a4c523b0#rd)｜来源条目：YC CEO把自己第二大脑系统开源了：专供OpenClaw与Hermes，全息记忆打造迷你AGI
+- [摘要：YC CEO把自己第二大脑系统开源了：专供OpenClaw与Hermes，全息记忆打造迷你AGI](summaries/摘要：YC CEO把自己第二大脑系统开源了：专供OpenClaw与Hermes，全息记忆打造迷你AGI.md)（微信文章｜[查看原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA%3D%3D&mid=2247513949&idx=1&sn=30e8a61a4f2fb0fb68f42b1df8aff848&chksm=cfebe5d1daec91e5ef252c1ba6b40bdc55584fad6f608c184c95d4e5706e90d2b926a4c523b0#rd)）
 
 - [原文链接](https://x.com/AlphaSignalAI/status/2044461541232148986)｜《How GBrain Works, and How to Actually Wire It Into Your Agents》｜来源条目：[摘要：How GBrain Works, and How to Actually Wire It Into Your Agents](summaries/摘要：How GBrain Works, and How to Actually Wire It Into Your Agents.md)

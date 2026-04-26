@@ -2,8 +2,9 @@
 title: 摘要：Humanity Is About to "Fork"
 type: summary
 tags:
-- LLM
-- 商业/生态
+- 知识管理
+- 笔记工具
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

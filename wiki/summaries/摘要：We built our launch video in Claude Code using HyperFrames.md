@@ -2,8 +2,9 @@
 title: 摘要：We built our launch video in Claude Code using HyperFrames.
 type: summary
 tags:
-- 内容创作
-- Coding Agent
+- 前端开发
+- 视频/3D
+- AI 产品
 status: 已审核
 confidence: low
 last_compiled: '2026-04-20'

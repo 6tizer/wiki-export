@@ -2,7 +2,8 @@
 title: SkillsBench
 type: concept
 tags:
-- Agent 技能
+- RAG/检索
+- 模型评测
 - 知识管理
 status: 审核中
 confidence: medium

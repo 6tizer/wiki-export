@@ -2,8 +2,10 @@
 title: Donut
 type: entity
 tags:
-- AI 交易
-- Crypto/DeFi
+- 量化交易
+- 加密资产
+- AI 产品
+- 浏览器自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

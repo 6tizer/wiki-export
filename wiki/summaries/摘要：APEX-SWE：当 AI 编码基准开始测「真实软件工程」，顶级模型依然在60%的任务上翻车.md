@@ -2,8 +2,9 @@
 title: 摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车
 type: summary
 tags:
-- Coding Agent
-- LLM
+- 模型评测
+- 代码生成
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

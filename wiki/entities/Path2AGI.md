@@ -3,7 +3,7 @@ title: Path2AGI
 type: entity
 tags:
 - 知识管理
-- LLM
+- 笔记工具
 status: 草稿
 confidence: high
 last_compiled: '2026-04-25'

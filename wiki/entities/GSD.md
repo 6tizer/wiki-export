@@ -2,11 +2,13 @@
 title: GSD
 type: entity
 tags:
-- Coding Agent
-- 工作流
+- CLI 工具
+- 上下文管理
+- Harness 工程
+- AI 产品
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/81316188dee44e678458b7fd25d1a2eb

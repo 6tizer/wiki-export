@@ -3,7 +3,7 @@ title: Graphify
 type: entity
 tags:
 - 知识管理
-- 开发工具
+- CLI 工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-25'

@@ -2,8 +2,7 @@
 title: 角色分工式 Agent 工作流
 type: concept
 tags:
-- Coding Agent
-- Agent 编排
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,7 +2,8 @@
 title: Dataset Policy Gradient
 type: concept
 tags:
-- LLM
+- 训练/微调
+- AI 对齐
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

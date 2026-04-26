@@ -2,8 +2,9 @@
 title: 摘要：local Windsurf language server
 type: summary
 tags:
-- Coding Agent
-- LLM
+- 推理优化
+- IDE 集成
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

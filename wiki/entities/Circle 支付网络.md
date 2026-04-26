@@ -3,6 +3,8 @@ title: Circle 支付网络
 type: entity
 tags:
 - 稳定币
+- 商业/生态
+- 链上协议
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

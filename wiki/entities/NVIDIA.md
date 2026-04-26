@@ -3,6 +3,7 @@ title: NVIDIA
 type: entity
 tags:
 - 商业/生态
+- 算力基础设施
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
@@ -28,7 +29,7 @@ NVIDIA 是本文合作方，也是 Blackwell 200 GPU 硬件平台与评测环境
 
 - [Blackwell 200 GPU](entities/Blackwell 200 GPU.md)
 
-- [SOL-ExecBench](concepts/SOL-ExecBench.md)
+- [SOL-ExecBench](entities/SOL-ExecBench.md)
 
 - [CUDA 内核优化](concepts/CUDA 内核优化.md)
 

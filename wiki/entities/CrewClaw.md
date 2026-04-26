@@ -2,11 +2,12 @@
 title: CrewClaw
 type: entity
 tags:
-- OpenClaw
 - 商业/生态
-status: 草稿
+- 模型部署
+- OpenClaw
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/075da55fec14461d88c3762ab46ab601
@@ -27,4 +28,4 @@ CrewClaw 是围绕 OpenClaw 模板部署的商业化平台，把 Agent 模板、
 
 ## 来源引用
 
-- [原文链接](https://x.com/GitHub_Daily/status/2034170507625697545)｜《Awesome OpenClaw Agents：187 个开箱即用的生产级 AI Agent 模板库》
+- [原文链接](https://x.com/GitHub_Daily/status/2034170507625697545)｜[摘要：Awesome OpenClaw Agents：187 个开箱即用的生产级 AI Agent 模板库](summaries/摘要：Awesome OpenClaw Agents：187 个开箱即用的生产级 AI Agent 模板库.md)

@@ -2,8 +2,9 @@
 title: 摘要：Introducing Exa Monitors - your agent’s radar for the web
 type: summary
 tags:
-- Agent 技能
-- 开发工具
+- 内容自动化
+- 浏览器自动化
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

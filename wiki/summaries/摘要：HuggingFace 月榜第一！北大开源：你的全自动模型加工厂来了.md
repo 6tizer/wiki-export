@@ -2,8 +2,8 @@
 title: 摘要：HuggingFace 月榜第一！北大开源：你的全自动模型加工厂来了
 type: summary
 tags:
-- LLM
-- 开发工具
+- 知识管理
+- 训练/微调
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

@@ -2,7 +2,7 @@
 title: EqualVPN
 type: entity
 tags:
-- 安全/隐私
+- 身份准入
 - AI 产品
 status: 审核中
 confidence: medium

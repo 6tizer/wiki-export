@@ -8,7 +8,7 @@ tags:
 - Crypto/DeFi
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8cc7d27018f6462c83ea2caa49dadbd4
@@ -55,11 +55,11 @@ kyegomez 的 Swarms 框架提供了具体的 Swarms 编排模式：
 
 - [摘要：Ship Safe v9.1.0](summaries/摘要：Ship Safe v9.1.0.md)（[原文](https://x.com/Kimi_Moonshot/status/2046249571882500354)）
 
-- 摘要：ai16z 宣布 Agent Infra 生态：Agent Swarms 与 $ai16z 代币飞轮
+- [摘要：ai16z 宣布 Agent Infra 生态：Agent Swarms 与 $ai16z 代币飞轮](summaries/摘要：ai16z 宣布 Agent Infra 生态：Agent Swarms 与 $ai16z 代币飞轮.md)
 
-- 摘要：Swarms：目前最复杂的多 Agent 框架，究竟创新在哪里？
+- [摘要：Swarms：目前最复杂的多 Agent 框架，究竟创新在哪里？](summaries/摘要：Swarms：目前最复杂的多 Agent 框架，究竟创新在哪里？.md)
 
-- 摘要：ELIZA：从推特机器人到 AI Agent 操作系统
+- [摘要：ELIZA：从推特机器人到 AI Agent 操作系统，ai16z 如何重新定义 Web3 时代的软件开发](summaries/摘要：ELIZA：从推特机器人到 AI Agent 操作系统，ai16z 如何重新定义 Web3 时代的软件开发.md)
 
 - [原文链接](https://x.com/rywiggs/status/2044448092477661638)｜《Creating a Second Brain with Claude Code》｜来源条目：[摘要：Creating a Second Brain with Claude Code](summaries/摘要：Creating a Second Brain with Claude Code.md)
 

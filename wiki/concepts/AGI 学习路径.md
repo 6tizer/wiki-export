@@ -2,8 +2,8 @@
 title: AGI 学习路径
 type: concept
 tags:
-- 知识管理
-- LLM
+- AI 设计
+- AI 对齐
 status: 草稿
 confidence: high
 last_compiled: '2026-04-25'

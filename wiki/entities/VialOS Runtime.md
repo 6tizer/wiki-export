@@ -2,8 +2,9 @@
 title: VialOS Runtime
 type: entity
 tags:
-- Agent 框架
-- 记忆系统
+- 知识管理
+- 长期记忆
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

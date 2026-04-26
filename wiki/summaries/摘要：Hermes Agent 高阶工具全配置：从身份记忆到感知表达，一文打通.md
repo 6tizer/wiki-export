@@ -2,10 +2,12 @@
 title: 摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通
 type: summary
 tags:
-- 记忆系统
-- 长期记忆
+- 知识管理
 - 多模态
 - 浏览器自动化
+- 长期记忆
+- 上下文管理
+- 内容自动化
 - CLI 工具
 status: 已审核
 confidence: medium

@@ -2,7 +2,8 @@
 title: Orchestrator 模式
 type: concept
 tags:
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
 - OpenClaw
 status: 审核中
 confidence: high

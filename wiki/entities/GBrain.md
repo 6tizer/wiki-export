@@ -2,8 +2,11 @@
 title: GBrain
 type: entity
 tags:
-- 记忆系统
 - 知识管理
+- 长期记忆
+- 上下文管理
+- RAG/检索
+- OpenClaw
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

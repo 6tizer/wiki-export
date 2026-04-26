@@ -33,7 +33,7 @@ Xiaomi MiMo-V2.5 是小米 MiMo 系列的原生多模态版本，强调视觉与
 
 - [MiMo Coding Bench](concepts/MiMo Coding Bench.md)
 
-- [Claw-Eval](concepts/Claw-Eval.md)
+- [Claw-Eval](entities/Claw-Eval.md)
 
 - [Harness Engineering](concepts/Harness Engineering.md)
 

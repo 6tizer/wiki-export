@@ -2,8 +2,9 @@
 title: 摘要：Composing a Search Engine
 type: summary
 tags:
-- 开发工具
-- 工作流
+- 内容自动化
+- RAG/检索
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

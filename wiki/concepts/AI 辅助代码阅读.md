@@ -3,9 +3,9 @@ title: AI 辅助代码阅读
 type: concept
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/06f9bf471af840c1a883734ba6a80ffe
@@ -28,4 +28,4 @@ notion_id: 06f9bf47-1af8-40c1-a883-734ba6a80ffe
 
 **来源引用**
 
-- 摘要：拿到「热门开源代码」，先掌握 7 个学习思路（附 SOLO 实战）
+- [摘要：拿到「热门开源代码」，先掌握 7 个学习思路（附 SOLO 实战）](summaries/摘要：拿到「热门开源代码」，先掌握 7 个学习思路（附 SOLO 实战）.md)

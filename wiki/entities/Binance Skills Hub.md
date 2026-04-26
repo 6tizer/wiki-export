@@ -2,7 +2,6 @@
 title: Binance Skills Hub
 type: entity
 tags:
-- AI 交易
 - Crypto/DeFi
 - Agent 技能
 status: 审核中

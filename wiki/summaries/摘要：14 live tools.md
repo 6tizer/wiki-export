@@ -2,8 +2,9 @@
 title: 摘要：14 live tools
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
+- Agent 协作模式
+- MCP 协议
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

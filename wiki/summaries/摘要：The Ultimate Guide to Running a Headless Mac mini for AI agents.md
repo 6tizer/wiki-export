@@ -2,8 +2,9 @@
 title: 摘要：The Ultimate Guide to Running a Headless Mac mini for AI agents
 type: summary
 tags:
-- Agent 框架
-- 开发工具
+- OpenClaw
+- 浏览器自动化
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

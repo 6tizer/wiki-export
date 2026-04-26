@@ -2,8 +2,9 @@
 title: OpenAI
 type: entity
 tags:
-- LLM
 - 商业/生态
+- AI 产品
+- 算力基础设施
 status: 审核中
 confidence: high
 last_compiled: '2026-04-25'

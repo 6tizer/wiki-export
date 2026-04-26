@@ -2,9 +2,9 @@
 title: db9
 type: entity
 tags:
-- AI 产品
 - RAG/检索
-- 工作流
+- Agent 协作模式
+- 算力基础设施
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

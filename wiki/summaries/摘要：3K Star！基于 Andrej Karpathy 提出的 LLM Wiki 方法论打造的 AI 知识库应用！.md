@@ -3,7 +3,8 @@ title: 摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打
 type: summary
 tags:
 - 知识管理
-- 工作流
+- RAG/检索
+- 笔记工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-25'

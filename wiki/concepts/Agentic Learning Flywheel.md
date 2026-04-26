@@ -2,11 +2,10 @@
 title: Agentic Learning Flywheel
 type: concept
 tags:
-- LLM
-- Agent 编排
-status: 草稿
+- 训练/微调
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/bcde6dcfc2a147608ebc83986b1153fa
@@ -27,4 +26,4 @@ Agentic Learning Flywheel 是 H Company 为 Holo3 提出的训练方法，围绕
 
 ## 来源引用
 
-- 《Holo3：用十分之一的成本，打败 GPT-5.4 的 Computer Use 模型》｜X书签文章｜原文链接：[https://x.com/hcompany_ai/status/2039021096649805937](https://x.com/hcompany_ai/status/2039021096649805937)
+- [摘要：Holo3：用十分之一的成本，打败 GPT-5.4 的 Computer Use 模型](summaries/摘要：Holo3：用十分之一的成本，打败 GPT-5.4 的 Computer Use 模型.md)｜X书签文章｜原文链接：[https://x.com/hcompany_ai/status/2039021096649805937](https://x.com/hcompany_ai/status/2039021096649805937)

@@ -2,8 +2,9 @@
 title: 摘要：Here are the 3 Core Pillars of Every AI Agent's Context
 type: summary
 tags:
-- Agent 技能
-- 记忆系统
+- MCP 协议
+- RAG/检索
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

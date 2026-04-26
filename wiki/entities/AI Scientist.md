@@ -2,14 +2,12 @@
 title: AI Scientist
 type: entity
 tags:
-- Agent 编排
-- 工作流
-- 记忆系统
-- 知识管理
-- Agent 框架
+- Agent 协作模式
+- 多Agent协作
+- AI 产品
 status: 草稿
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/c3b2cde957794a578de41558a1915e01
@@ -42,7 +40,7 @@ AI Scientist 是一类由 Agent 自动提出研究想法、实现实验、诊断
 
 ## 来源引用
 
-- [原文链接](https://x.com/yibie/status/2031222960372199523)｜《AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式》
+- [原文链接](https://x.com/yibie/status/2031222960372199523)｜《AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式》｜来源条目：[摘要：AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式](summaries/摘要：AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式.md)
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDgzMA%3D%3D&mid=2247557693&idx=1&sn=367f8f10f46f5c95eecef42bd9280dc9&chksm=cf967e47a56f2e2647889686f1659551c441eaf8328436186303bca812623542fdfc4e646bf3#rd)｜《AI 真能把一篇论文一路做到实验结果吗？人大团队提出 AiScientist，长程研究工程迈出关键一步》｜来源条目：[摘要：AI 真能把一篇论文一路做到实验结果吗？人大团队提出 AiScientist，长程研究工程迈出关键一步](summaries/摘要：AI 真能把一篇论文一路做到实验结果吗？人大团队提出 AiScientist，长程研究工程迈出关键一步.md)
 

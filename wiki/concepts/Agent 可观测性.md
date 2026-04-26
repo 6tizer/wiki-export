@@ -2,7 +2,9 @@
 title: Agent 可观测性
 type: concept
 tags:
-- Agent 框架
+- Agent 协作模式
+- Agent 安全
+- OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-25'

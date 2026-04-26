@@ -2,7 +2,8 @@
 title: Scrapling
 type: entity
 tags:
-- Agent 技能
+- 浏览器自动化
+- OpenClaw
 status: 草稿
 confidence: high
 last_compiled: '2026-04-17'

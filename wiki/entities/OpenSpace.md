@@ -2,8 +2,9 @@
 title: OpenSpace
 type: entity
 tags:
-- Agent 技能
 - MCP 协议
+- Agent 协作模式
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

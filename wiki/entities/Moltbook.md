@@ -2,11 +2,13 @@
 title: Moltbook
 type: entity
 tags:
-- 商业/生态
-- Agent 框架
-status: 草稿
+- 社交媒体
+- Agent 协作模式
+- OpenClaw
+- AI 产品
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-25'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/779b33f4f1c6450a98d45d4f218ba2ba
@@ -27,4 +29,4 @@ Moltbook 是一个为 OpenClaw Agent 社交互动设计的平台，被视为 AI-
 
 ## 来源引用
 
-- 摘要：OpenClaw 周报 2026.3.10（X书签）
+- [摘要：OpenClaw 周报 2026.3.10：28万Star、Meta收购Moltbook、英伟达NemoClaw、国家安全预警一网打尽](summaries/摘要：OpenClaw 周报 2026.3.10：28万Star、Meta收购Moltbook、英伟达NemoClaw、国家安全预警一网打尽.md)（X书签）

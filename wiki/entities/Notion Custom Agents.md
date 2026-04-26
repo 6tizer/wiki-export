@@ -2,9 +2,11 @@
 title: Notion Custom Agents
 type: entity
 tags:
-- Agent 框架
-- 工作流
-status: 草稿
+- 知识管理
+- 笔记工具
+- 内容自动化
+- AI 产品
+status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''

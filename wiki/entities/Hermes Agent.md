@@ -2,10 +2,12 @@
 title: Hermes Agent
 type: entity
 tags:
-- Agent 框架
+- 长期记忆
+- Agent 安全
+- OpenClaw
 status: 已审核
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/e47e7d37ec9f452a80c270954a83ee35
@@ -88,7 +90,7 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - 摘要：10,000+ markdown files（@AYi_AInotes，2026-04-10）— GBrain 作为 OpenClaw/Hermes Agent 的官方记忆后端开源
 
-- 《如何使用Hermes Agent稳定爬取公众号文章》——Draco正在VibeCoding（微信，2026-04-11）：介绍了通过 Browser Use / Camoufox 封装微信公众号爬取 skill 的实战流程
+- [摘要：如何使用Hermes Agent稳定爬取公众号文章](summaries/摘要：如何使用Hermes Agent稳定爬取公众号文章.md)——Draco正在VibeCoding（微信，2026-04-11）：介绍了通过 Browser Use / Camoufox 封装微信公众号爬取 skill 的实战流程
 
 - [摘要：Obsidian + Claude Code：用 AI 大神 Karpathy 的方法搭一个真正可用的第二大脑（全教程）](summaries/摘要：Obsidian + Claude Code：用 AI 大神 Karpathy 的方法搭一个真正可用的第二大脑（全教程）.md)（[原文](https://x.com/lxfater/status/2042848343949480173)）
 

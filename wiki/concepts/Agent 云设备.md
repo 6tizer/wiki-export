@@ -2,8 +2,8 @@
 title: Agent 云设备
 type: concept
 tags:
-- Agent 技能
-- Agent 框架
+- 算力基础设施
+- Harness 工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-18'

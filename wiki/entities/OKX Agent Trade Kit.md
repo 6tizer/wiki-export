@@ -2,11 +2,13 @@
 title: OKX Agent Trade Kit
 type: entity
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 量化交易
+- 加密资产
+- MCP 协议
+- CLI 工具
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/c7ec2f24781949cd884fb392767a8733
@@ -27,6 +29,6 @@ OKX Agent Trade Kit 是 OKX 面向 Agent 场景推出的交易工具包，支持
 
 ## 来源引用
 
-- 《用多模态 Embedding 匹配 K 线形态：让 AI 把「刻舟求剑」玩出新高度》｜X书签文章｜原文链接：[https://x.com/CryptoPainter/status/2031501507754123430](https://x.com/CryptoPainter/status/2031501507754123430)
+- [摘要：用多模态 Embedding 匹配 K 线形态：让 AI 把「刻舟求剑」玩出新高度](summaries/摘要：用多模态 Embedding 匹配 K 线形态：让 AI 把「刻舟求剑」玩出新高度.md)｜X书签文章｜原文链接：[https://x.com/CryptoPainter/status/2031501507754123430](https://x.com/CryptoPainter/status/2031501507754123430)
 
 - [摘要：📦New in · OKX Agent Trade Kit 上新！](summaries/摘要：📦New in · OKX Agent Trade Kit 上新！.md)（[原文](https://x.com/okxchinese/status/2045028945720950968)）

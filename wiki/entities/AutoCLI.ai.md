@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-19'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0cf2bc3fbbdf4abea27e9d0d1673d8fb
@@ -29,7 +29,7 @@ notion_id: 0cf2bc3f-bbdf-4abe-a27e-9d0d1673d8fb
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzI1MjkyNjI4NQ%3D%3D&mid=2247486639&idx=1&sn=afab9bd6fc7a268a719127ebbf1c368a&chksm=e8fcaa80f3faf33cce6201ed6bc26ddccfa5d6d6fc0c8dc4f51adf0fe53479ebd7ed270f0d14#rd)｜《Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统》｜来源条目：[摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统](summaries/摘要：Hermes+AutoCLI+Obsidian： 打造自动入库、自动整理、自动微信汇报的知识系统.md)
 
-- 《opencli-rs：用 Rust 重写的网站抓取神器，AI Agent 时代的万能信息接口》｜X书签文章｜原文链接：[https://x.com/nash_su/status/2039107988263412099](https://x.com/nash_su/status/2039107988263412099)
+- [摘要：opencli-rs：用 Rust 重写的网站抓取神器，AI Agent 时代的万能信息接口](summaries/摘要：opencli-rs：用 Rust 重写的网站抓取神器，AI Agent 时代的万能信息接口.md)｜X书签文章｜原文链接：[https://x.com/nash_su/status/2039107988263412099](https://x.com/nash_su/status/2039107988263412099)
 
 - 《opencli 与 autocli 的开源之争：一封公开信引发的 Apache 2.0 大讨论》｜X书签文章｜原文链接：[https://x.com/nash_su/status/2040622739896340701](https://x.com/nash_su/status/2040622739896340701)｜来源条目：[摘要：opencli 与 autocli 的开源之争：一封公开信引发的 Apache 2.0 大讨论](summaries/摘要：opencli 与 autocli 的开源之争：一封公开信引发的 Apache 2.0 大讨论.md)
 

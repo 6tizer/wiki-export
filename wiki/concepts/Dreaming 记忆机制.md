@@ -2,8 +2,9 @@
 title: Dreaming 记忆机制
 type: concept
 tags:
+- 知识管理
+- 长期记忆
 - OpenClaw
-- 记忆系统
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'

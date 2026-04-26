@@ -2,11 +2,12 @@
 title: Agentic Navigation
 type: concept
 tags:
-- Agent 编排
-- 记忆系统
-status: 草稿
+- 知识管理
+- RAG/检索
+- 上下文管理
+status: 审核中
 confidence: high
-last_compiled: '2026-04-25'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/3904abe45856454388d3c7162da0a66d
@@ -27,4 +28,4 @@ Agentic Navigation 是一种让 Agent 按不同数据源的原生查询方式主
 
 ## 来源引用
 
-- 未匹配：从搜索到导航：Context Agent 如何重新定义 AI 的上下文获取方式
+- [摘要：从搜索到导航：Context Agent 如何重新定义 AI 的上下文获取方式](summaries/摘要：从搜索到导航：Context Agent 如何重新定义 AI 的上下文获取方式.md)

@@ -2,8 +2,9 @@
 title: 摘要：Ollama 一键启动 Hermes Agent：免费、本地、会自我进化的 AI 私人助手
 type: summary
 tags:
-- Agent 框架
-- 开发工具
+- Agent 协作模式
+- 长期记忆
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

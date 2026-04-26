@@ -5,7 +5,7 @@ tags:
 - Crypto/DeFi
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/ad75395335ce426081179eb930db6c71
@@ -38,9 +38,9 @@ Hyperliquid 的结构优势：AI Agent 可直接调用链上订单簿 API 进行
 
 ## 来源引用
 
-- 摘要：Hyperliquid 上的 AI Agent 生态：$HYPE 链上项目分层全览
+- [摘要：Hyperliquid 上的 AI Agent 生态：$HYPE 链上项目分层全览](summaries/摘要：Hyperliquid 上的 AI Agent 生态：$HYPE 链上项目分层全览.md)
 
-- 摘要：Hyperliquid 生态 AI Agent 全景图
+- [摘要：Hyperliquid 生态 AI Agent 全景图：从 Tier 1 蓝筹到 Tier 4 赌注，哪些值得关注？](summaries/摘要：Hyperliquid 生态 AI Agent 全景图：从 Tier 1 蓝筹到 Tier 4 赌注，哪些值得关注？.md)
 
 - [原文链接](https://x.com/xincctnnq/status/2032772661722624497)｜《Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP》｜来源条目：[摘要：Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP](summaries/摘要：Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP.md)
 

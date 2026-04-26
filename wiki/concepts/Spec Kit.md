@@ -2,8 +2,9 @@
 title: Spec Kit
 type: concept
 tags:
-- 工作流
-- 开发工具
+- 知识管理
+- Harness 工程
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

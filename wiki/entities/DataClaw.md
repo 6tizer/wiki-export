@@ -2,8 +2,10 @@
 title: DataClaw
 type: entity
 tags:
+- CLI 工具
+- 知识管理
 - OpenClaw
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: ''

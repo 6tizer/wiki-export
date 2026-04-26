@@ -2,11 +2,12 @@
 title: SGLang
 type: entity
 tags:
-- LLM
-- 开发工具
+- 推理优化
+- Agent 协作模式
+- 上下文管理
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-26'
 source_tags: LLM, Agent, 开发者工具
 source_article_url: ''
 notion_url: https://www.notion.so/cb98fe3986d346249db65a05315dfd9d

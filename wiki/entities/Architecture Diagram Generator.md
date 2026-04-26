@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-26'
 source_tags: LLM, Claude, 开源, GitHub, 开发者工具
 source_article_url: ''
 notion_url: https://www.notion.so/5678306c48364fcdb8520f6daf5c0b39

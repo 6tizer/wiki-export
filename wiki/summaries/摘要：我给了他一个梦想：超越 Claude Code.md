@@ -2,8 +2,10 @@
 title: 摘要：我给了他一个梦想：超越 Claude Code
 type: summary
 tags:
-- Coding Agent
-- 商业/生态
+- 内容自动化
+- Harness 工程
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

@@ -2,8 +2,9 @@
 title: 摘要：Lossless Context Management plugin for Hermes Agent
 type: summary
 tags:
-- Agent 框架
-- Agent 技能
+- 上下文管理
+- 长期记忆
+- 浏览器自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

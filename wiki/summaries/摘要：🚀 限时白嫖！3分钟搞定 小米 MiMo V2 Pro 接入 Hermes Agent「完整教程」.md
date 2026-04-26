@@ -2,8 +2,9 @@
 title: 摘要：🚀 限时白嫖！3分钟搞定 小米 MiMo V2 Pro 接入 Hermes Agent「完整教程」
 type: summary
 tags:
-- Agent 框架
-- LLM
+- Agent 协作模式
+- CLI 工具
+- 多模态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

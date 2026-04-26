@@ -2,11 +2,12 @@
 title: web-access
 type: entity
 tags:
-- Coding Agent
-- Agent 技能
-status: 草稿
+- 浏览器自动化
+- 多Agent协作
+- Agent 协作模式
+status: 审核中
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/4991007ef13142f2ace24f483faa1703

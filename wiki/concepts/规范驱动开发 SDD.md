@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 已审核
 confidence: high
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/60e9b74d73bd4041a72e43c4127abd94
@@ -30,6 +30,6 @@ notion_id: 60e9b74d-73bd-4041-a72e-43c4127abd94
 
 ## 来源引用
 
-- 《110K Stars 背后的共识：AI 编程三大 SDD 工具深度对比》（机智流 AI Insight，2026-03-02）— 从 11 个维度深度对比 OpenSpec/Superpowers/GSD 三个工具，分析 SDD 赛道趋势
+- [摘要：AI 编程三大 SDD 工具深度对比（OpenSpec vs Superpowers vs GSD）](summaries/摘要：AI 编程三大 SDD 工具深度对比（OpenSpec vs Superpowers vs GSD）.md)（机智流 AI Insight，2026-03-02）— 从 11 个维度深度对比 OpenSpec/Superpowers/GSD 三个工具，分析 SDD 赛道趋势
 
 - [摘要：AI开发范式——Spec Kit、OpenSpec、BMAD 全解析](summaries/摘要：AI开发范式——Spec Kit、OpenSpec、BMAD 全解析.md)（娄晨，2026-03-03）— 深入对比 Spec Kit/OpenSpec/BMAD 三个框架，含腾讯工程师实践失败案例，提出 Context Engineering 和 Compound Engineering 是更底层的进化方向

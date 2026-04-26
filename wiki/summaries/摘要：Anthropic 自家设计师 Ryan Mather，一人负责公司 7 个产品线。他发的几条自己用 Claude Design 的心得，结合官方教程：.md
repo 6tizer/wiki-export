@@ -2,8 +2,9 @@
 title: 摘要：Anthropic 自家设计师 Ryan Mather，一人负责公司 7 个产品线。他发的几条自己用 Claude Design 的心得，结合官方教程：
 type: summary
 tags:
-- 内容创作
-- 工作流
+- AI 设计
+- 上下文管理
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

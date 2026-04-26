@@ -2,11 +2,10 @@
 title: 腾讯云 KiKi
 type: entity
 tags:
-- Agent 框架
-- 开发工具
-status: 草稿
+- AI 产品
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/b1676c85106443e7b3d02ed1746e6a79
@@ -35,4 +34,4 @@ notion_id: b1676c85-1064-43e7-b3d0-2ed1746e6a79
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg3NDkwOTQyNA%3D%3D&mid=2247488992&idx=1&sn=a57af915b8cad477765a18199a70b9b6&chksm=cf0234d86fdd9d2c9243710041680eaa4eab26399f11b26dce450987db383cbbdc933e9413de#rd)｜《关于我花了1天时间，用AI全驱动做了一个网站，不得不说的故事》｜来源：微信｜作者：圣Sheng
+- [摘要：关于我花了1天时间，用AI全驱动做了一个网站，不得不说的故事](summaries/摘要：关于我花了1天时间，用AI全驱动做了一个网站，不得不说的故事.md)（[原文链接](https://mp.weixin.qq.com/s?__biz=Mzg3NDkwOTQyNA%3D%3D&mid=2247488992&idx=1&sn=a57af915b8cad477765a18199a70b9b6&chksm=cf0234d86fdd9d2c9243710041680eaa4eab26399f11b26dce450987db383cbbdc933e9413de#rd)，来源：微信｜作者：圣Sheng）

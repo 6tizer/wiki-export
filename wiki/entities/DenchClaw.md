@@ -4,6 +4,8 @@ type: entity
 tags:
 - 商业/生态
 - AI 产品
+- OpenClaw
+- CLI 工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

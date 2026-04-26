@@ -2,9 +2,10 @@
 title: Docs Canvas Skill
 type: concept
 tags:
-- Coding Agent
-- Agent 技能
-status: 草稿
+- 内容自动化
+- AI 设计
+- Agent 协作模式
+status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''

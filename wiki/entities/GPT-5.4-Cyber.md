@@ -2,9 +2,9 @@
 title: GPT-5.4-Cyber
 type: entity
 tags:
-- LLM
-- 安全/隐私
-status: 草稿
+- 身份准入
+- AI 产品
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''

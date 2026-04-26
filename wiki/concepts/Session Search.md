@@ -2,8 +2,11 @@
 title: Session Search
 type: concept
 tags:
-- 记忆系统
-status: 草稿
+- RAG/检索
+- 知识管理
+- 上下文管理
+- 长期记忆
+status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''

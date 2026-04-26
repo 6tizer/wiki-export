@@ -2,8 +2,7 @@
 title: 时空视频 Tokenizer
 type: concept
 tags:
-- LLM
-- 内容创作
+- 视频/3D
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

@@ -2,11 +2,14 @@
 title: Vibe Advertising
 type: concept
 tags:
-- 内容创作
-- 工作流
-status: 草稿
+- 内容自动化
+- 商业/生态
+- 视频/3D
+- 多Agent协作
+- AI 产品
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/39b622417dd34c03a820a013e130274b
@@ -27,4 +30,4 @@ Vibe Advertising 是一种把广告创意、视频生成、投放测试与反馈
 
 ## 来源引用
 
-- [原文链接](https://x.com/AYi_AInotes/status/2034314679359873335)｜《Vibe Advertising：用 Claude + Agent 一下午生产 47 条 UGC 广告》
+- [原文链接](https://x.com/AYi_AInotes/status/2034314679359873335)｜[摘要：Vibe Advertising：用 Claude + Agent 一下午生产 47 条 UGC 广告](summaries/摘要：Vibe Advertising：用 Claude + Agent 一下午生产 47 条 UGC 广告.md)

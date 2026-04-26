@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0927d29642cb48a0b3bfc1243bde0b88
@@ -100,7 +100,7 @@ curl https://raw.githubusercontent.com/.../CLAUDE.md >> CLAUDE.md
 
 - [原文链接](https://x.com/runes_leo/status/2042243228678693244)｜《用半年 Claude Code 踩坑，我验证了 OpenAI/Cursor/Anthropic 三篇 Harness Engineering 的每一条》｜来源条目：[摘要：用半年 Claude Code 踩坑，我验证了 OpenAI/Cursor/Anthropic 三篇 Harness Engineering 的每一条](summaries/摘要：用半年 Claude Code 踩坑，我验证了 OpenAI-Cursor-Anthropic 三篇 Harness Engineering 的每一条.md)
 
-- 微信文章《11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。》（开源星探，2026-04-11）
+- [摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。](summaries/摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。.md)（开源星探，2026-04-11）
 
 - [原文链接](https://x.com/karpathy/status/2040470801506541998)｜《Automated multi-source ingestion》｜源文章：Karpathy 的 LLM Wiki：用 AI 编译你的私人知识库，告别 RAG
 

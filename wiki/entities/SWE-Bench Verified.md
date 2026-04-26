@@ -2,8 +2,8 @@
 title: SWE-Bench Verified
 type: entity
 tags:
-- Coding Agent
-- LLM
+- 模型评测
+- 代码生成
 status: 草稿
 confidence: high
 last_compiled: '2026-04-26'

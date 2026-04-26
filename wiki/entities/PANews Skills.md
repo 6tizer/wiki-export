@@ -2,8 +2,9 @@
 title: PANews Skills
 type: entity
 tags:
-- 内容创作
-- Agent 技能
+- 内容自动化
+- AI 产品
+- RAG/检索
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-11'

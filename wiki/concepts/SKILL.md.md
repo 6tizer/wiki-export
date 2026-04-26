@@ -31,7 +31,7 @@ notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 
 - [原文链接](https://x.com/KKaWSB/status/2034196862794961299)｜《Google 发布 5 个 Agent Skill 设计模式：告别乱写 [SKILL.md](http://skill.md/) 的时代》｜来源条目：[摘要：Google 发布 5 个 Agent Skill 设计模式：告别乱写 SKILL.md 的时代](summaries/摘要：Google 发布 5 个 Agent Skill 设计模式：告别乱写 SKILL.md 的时代.md)
 
-- [原文链接](https://x.com/oragnes/status/2034221173970796776)｜《Google Cloud 的 5 种 [SKILL.md](http://skill.md/) 设计模式：让 AI 编程助手更听话的「抄作业」指南》｜来源条目：[摘要：Google Cloud 的 5 种 SKILL.md 设计模式：让 AI 编程助手更听话的「抄作业」指南](summaries/摘要：Google Cloud 的 5 种 SKILL.md 设计模式：让 AI 编程助手更听话的「抄作业」指南.md)
+- [原文链接](https://x.com/oragnes/status/2034221173970796776)｜《Google Cloud 的 5 种 [SKILL.md](http://skill.md/) 设计模式：让 AI 编程助手更听话的「抄作业」指南》｜来源条目：摘要：Google Cloud 的 5 种 SKILL.md 设计模式：让 AI 编程助手更听话的「抄作业」指南
 
 - 《HyperSkill：让 AI Agent 自动从文档中生成技能树》｜X书签文章｜原文链接：[https://x.com/xincctnnq/status/2034498939278545084](https://x.com/xincctnnq/status/2034498939278545084)
 

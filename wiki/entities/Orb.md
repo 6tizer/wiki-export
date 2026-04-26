@@ -2,8 +2,12 @@
 title: Orb
 type: entity
 tags:
-- Coding Agent
-- Agent 框架
+- CLI 工具
+- AI 产品
+- 长期记忆
+- 上下文管理
+- 身份准入
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'

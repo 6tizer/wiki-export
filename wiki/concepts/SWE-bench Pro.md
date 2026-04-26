@@ -2,8 +2,7 @@
 title: SWE-bench Pro
 type: concept
 tags:
-- Coding Agent
-- LLM
+- 模型评测
 status: 草稿
 confidence: high
 last_compiled: '2026-04-25'

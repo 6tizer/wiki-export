@@ -4,6 +4,7 @@ type: entity
 tags:
 - Agent 协作模式
 - 多Agent协作
+- 长期记忆
 - AI 产品
 status: 草稿
 confidence: high

@@ -2,8 +2,8 @@
 title: Privacy 2.0
 type: concept
 tags:
-- Crypto/DeFi
-- 安全/隐私
+- 链上协议
+- 加密资产
 status: 草稿
 confidence: high
 last_compiled: '2026-04-15'

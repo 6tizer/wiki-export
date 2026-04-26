@@ -2,9 +2,10 @@
 title: In Distribution
 type: concept
 tags:
-- Agent 编排
-- LLM
-status: 草稿
+- Harness 工程
+- 提示工程
+- Agent 协作模式
+status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''

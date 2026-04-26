@@ -2,8 +2,9 @@
 title: 无 API Key 平台接入
 type: concept
 tags:
-- Agent 技能
-- 开发工具
+- 浏览器自动化
+- 社交媒体
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

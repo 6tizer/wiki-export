@@ -2,11 +2,12 @@
 title: 摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心
 type: summary
 tags:
-- Agent 框架
-- 商业/生态
+- Agent 协作模式
+- AI 产品
+- Agent 安全
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-25'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/34d701074b6881158387c2233b144e50
 notion_url: https://www.notion.so/77fcf7be8b00490f9da944a7bdd64dc3

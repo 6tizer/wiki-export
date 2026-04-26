@@ -2,8 +2,9 @@
 title: 摘要：Hermes 多 Agent 深水区：三个高级实战技巧
 type: summary
 tags:
-- Agent 编排
-- Coding Agent
+- 多Agent协作
+- Agent 协作模式
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

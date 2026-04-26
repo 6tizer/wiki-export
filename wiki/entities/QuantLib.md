@@ -2,8 +2,7 @@
 title: QuantLib
 type: entity
 tags:
-- Crypto/DeFi
-- 开发工具
+- 量化交易
 status: 草稿
 confidence: high
 last_compiled: '2026-04-26'

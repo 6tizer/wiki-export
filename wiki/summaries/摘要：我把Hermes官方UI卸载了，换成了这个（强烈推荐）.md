@@ -2,8 +2,11 @@
 title: 摘要：我把Hermes官方UI卸载了，换成了这个（强烈推荐）
 type: summary
 tags:
-- Agent 框架
-- Agent 编排
+- 知识管理
+- 内容自动化
+- Agent 协作模式
+- 长期记忆
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-19'

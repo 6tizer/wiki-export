@@ -2,11 +2,9 @@
 title: '摘要：How it works:'
 type: summary
 tags:
-- Coding Agent
 - CLI 工具
-- 工作流
-- Agent 技能
-- 开发工具
+- Agent 协作模式
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'

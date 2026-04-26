@@ -2,9 +2,11 @@
 title: Trusted Access for Cyber
 type: entity
 tags:
-- 安全/隐私
-- 商业/生态
-status: 草稿
+- 身份准入
+- AI 政策
+- Agent 安全
+- AI 产品
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''

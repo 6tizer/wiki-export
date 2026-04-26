@@ -2,7 +2,10 @@
 title: Kiro CLI
 type: entity
 tags:
-- Coding Agent
+- CLI 工具
+- 代码生成
+- AI 产品
+- OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-18'

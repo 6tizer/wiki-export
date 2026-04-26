@@ -3,10 +3,9 @@ title: 摘要：Meet Kimi K2.6 agent - Video hero section, WebGL shaders, real b
   From one prompt.
 type: summary
 tags:
-- Coding Agent
 - 前端开发
 - 视频/3D
-- Agent 技能
+- 代码生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'

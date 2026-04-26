@@ -2,8 +2,8 @@
 title: 摘要：同样十几刀的 VPS，凭什么有的能开 Netflix，有的连 ChatGPT 都被风控？IP 类型全解析
 type: summary
 tags:
-- 安全/隐私
-- 开发工具
+- 浏览器自动化
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

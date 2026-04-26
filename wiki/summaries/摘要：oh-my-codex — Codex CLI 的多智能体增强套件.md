@@ -5,7 +5,7 @@ tags:
 - 开发工具
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化, codex, openai
 source_article_url: ''
 notion_url: https://www.notion.so/f799174f978946f3ae074f2ccc5a8194

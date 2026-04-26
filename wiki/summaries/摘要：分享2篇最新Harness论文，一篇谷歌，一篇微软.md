@@ -2,8 +2,8 @@
 title: 摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软
 type: summary
 tags:
-- Agent 编排
-- 记忆系统
+- Harness 工程
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-25'

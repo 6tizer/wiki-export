@@ -2,8 +2,9 @@
 title: Agent 操作系统层
 type: concept
 tags:
-- Agent 编排
-- 工作流
+- Agent 协作模式
+- Harness 工程
+- OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

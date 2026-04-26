@@ -3,7 +3,7 @@ title: Copilot 模式
 type: concept
 tags:
 - 商业/生态
-- Agent 编排
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-16'

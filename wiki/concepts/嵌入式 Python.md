@@ -2,6 +2,7 @@
 title: 嵌入式 Python
 type: concept
 tags:
+- 前端开发
 - 量化交易
 status: 草稿
 confidence: high

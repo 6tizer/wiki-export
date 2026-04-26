@@ -2,8 +2,8 @@
 title: AI 幻觉责任风险
 type: concept
 tags:
-- 安全/隐私
-- LLM
+- AI 政策
+- Agent 安全
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

@@ -2,7 +2,8 @@
 title: Cursor Canvas
 type: concept
 tags:
-- Coding Agent
+- 前端开发
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-16'

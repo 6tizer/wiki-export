@@ -2,8 +2,8 @@
 title: Jina Reader
 type: entity
 tags:
-- Agent 技能
-- 开发工具
+- 知识管理
+- AI 产品
 - RAG/检索
 status: 审核中
 confidence: medium

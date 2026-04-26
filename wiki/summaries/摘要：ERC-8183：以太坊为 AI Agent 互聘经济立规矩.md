@@ -27,7 +27,7 @@ notion_id: 6693fb88-b670-4d34-a0c9-afb93b63cdd5
 
 ### 提取的概念
 
-- [ERC-8183](concepts/ERC-8183.md)
+- [ERC-8183](entities/ERC-8183.md)
 
 - [ERC-8004](concepts/ERC-8004.md)
 

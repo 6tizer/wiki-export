@@ -3,8 +3,11 @@ title: 编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者
 type: synthesis
 tags:
 - Agent 编排
-- 记忆系统
 - 知识管理
+- 记忆系统
+- 上下文管理
+- 长期记忆
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-25'

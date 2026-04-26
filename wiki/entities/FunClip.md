@@ -2,8 +2,8 @@
 title: FunClip
 type: entity
 tags:
+- 内容自动化
 - 视频/3D
-- 内容创作
 - AI 产品
 status: 审核中
 confidence: high

@@ -2,8 +2,9 @@
 title: AfterQuery
 type: entity
 tags:
-- 商业/生态
-- LLM
+- Agent 协作模式
+- 训练/微调
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-17'

@@ -2,7 +2,10 @@
 title: SuperHQ
 type: entity
 tags:
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
+- Agent 安全
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'

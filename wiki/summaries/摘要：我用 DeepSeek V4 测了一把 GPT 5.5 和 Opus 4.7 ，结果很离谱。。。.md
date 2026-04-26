@@ -2,8 +2,8 @@
 title: 摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。
 type: summary
 tags:
-- LLM
-- 工作流
+- 内容自动化
+- 模型评测
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-25'

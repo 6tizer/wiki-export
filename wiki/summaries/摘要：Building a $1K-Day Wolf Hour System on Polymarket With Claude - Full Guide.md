@@ -2,8 +2,7 @@
 title: 摘要：Building a $1K/Day Wolf Hour System on Polymarket With Claude - Full Guide
 type: summary
 tags:
-- Crypto/DeFi
-- 工作流
+- 量化交易
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

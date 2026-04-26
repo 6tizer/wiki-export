@@ -2,8 +2,9 @@
 title: 摘要：灵光：日抛「APP」，用「Feed流」分发
 type: summary
 tags:
-- 商业/生态
-- 内容创作
+- 内容自动化
+- AI 产品
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

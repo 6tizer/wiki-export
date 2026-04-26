@@ -2,9 +2,10 @@
 title: Memory Lock-in
 type: concept
 tags:
-- 记忆系统
-- 商业/生态
-status: 草稿
+- 长期记忆
+- Harness 工程
+- 知识管理
+status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''

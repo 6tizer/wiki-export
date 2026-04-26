@@ -2,8 +2,11 @@
 title: colleague-skill
 type: concept
 tags:
-- Agent 技能
-status: 草稿
+- 知识管理
+- 商业/生态
+- 长期记忆
+- AI 产品
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''

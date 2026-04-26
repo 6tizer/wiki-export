@@ -2,8 +2,9 @@
 title: 摘要：这才是AI做ppt的正确姿势 ！
 type: summary
 tags:
-- 内容创作
-- 开发工具
+- AI 设计
+- AI 产品
+- 图像生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

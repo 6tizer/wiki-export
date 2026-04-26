@@ -2,8 +2,9 @@
 title: GLM-5.1
 type: entity
 tags:
-- Coding Agent
-- 商业/生态
+- 代码生成
+- 模型评测
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-20'

@@ -2,7 +2,9 @@
 title: Cloudflare Tunnel
 type: entity
 tags:
-- 开发工具
+- OpenClaw
+- 算力基础设施
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

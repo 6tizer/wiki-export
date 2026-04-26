@@ -2,8 +2,11 @@
 title: 摘要：How to really stop your agents from making the same mistakes
 type: summary
 tags:
-- Coding Agent
-- Agent 技能
+- 知识管理
+- Agent 协作模式
+- 模型评测
+- 长期记忆
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

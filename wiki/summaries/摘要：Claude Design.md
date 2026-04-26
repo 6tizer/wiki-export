@@ -2,8 +2,11 @@
 title: 摘要：Claude Design
 type: summary
 tags:
-- 内容创作
-- 工作流
+- AI 设计
+- 内容自动化
+- AI 产品
+- 多模态
+- 图像生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

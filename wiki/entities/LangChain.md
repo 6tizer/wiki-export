@@ -2,8 +2,8 @@
 title: LangChain
 type: entity
 tags:
-- Agent 编排
-- LLM
+- 知识管理
+- RAG/检索
 status: 审核中
 confidence: high
 last_compiled: '2026-04-19'

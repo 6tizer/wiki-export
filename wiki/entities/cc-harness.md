@@ -2,6 +2,10 @@
 title: cc-harness
 type: entity
 tags:
+- Harness 工程
+- 长期记忆
+- 上下文管理
+- 知识管理
 - OpenClaw
 status: 草稿
 confidence: medium

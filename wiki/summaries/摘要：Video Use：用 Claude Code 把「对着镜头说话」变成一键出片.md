@@ -2,8 +2,9 @@
 title: 摘要：Video Use：用 Claude Code 把「对着镜头说话」变成一键出片
 type: summary
 tags:
-- 内容创作
-- Coding Agent
+- 内容自动化
+- 视频/3D
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

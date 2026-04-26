@@ -2,8 +2,9 @@
 title: EURC
 type: entity
 tags:
-- Crypto/DeFi
-- 商业/生态
+- 稳定币
+- 加密资产
+- 链上协议
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

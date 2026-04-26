@@ -2,11 +2,12 @@
 title: 演化式 Harness 优化
 type: concept
 tags:
-- Agent 编排
-- Coding Agent
-status: 草稿
+- Harness 工程
+- 推理优化
+- 提示工程
+status: 审核中
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/7d339c50fbad40b4a05465438729b4f2
@@ -37,4 +38,4 @@ notion_id: 7d339c50-fbad-40b4-a054-65438729b4f2
 
 ## 来源引用
 
-- [原文链接](https://x.com/leonardtang_/status/2044426476632629545)｜《EvoForge: Scaling Evolutionary Harness Optimization》｜X书签文章
+- [原文链接](https://x.com/leonardtang_/status/2044426476632629545)｜[摘要：EvoForge: Scaling Evolutionary Harness Optimization](summaries/摘要：EvoForge- Scaling Evolutionary Harness Optimization.md)｜X书签文章

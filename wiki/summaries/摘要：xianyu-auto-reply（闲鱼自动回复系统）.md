@@ -2,8 +2,8 @@
 title: 摘要：xianyu-auto-reply（闲鱼自动回复系统）
 type: summary
 tags:
-- 工作流
-- 安全/隐私
+- 内容自动化
+- Agent 安全
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,8 +2,9 @@
 title: 摘要：AI Agent的"海姆达尔计划"：让大模型看见代码的双眼
 type: summary
 tags:
-- Coding Agent
-- Agent 技能
+- MCP 协议
+- RAG/检索
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-25'

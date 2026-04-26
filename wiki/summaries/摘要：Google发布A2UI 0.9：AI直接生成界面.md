@@ -2,8 +2,8 @@
 title: 摘要：Google发布A2UI 0.9：AI直接生成界面
 type: summary
 tags:
-- Agent 编排
-- 开发工具
+- 前端开发
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,8 +2,9 @@
 title: Skills Pipeline
 type: concept
 tags:
-- Coding Agent
-- 工作流
+- 知识管理
+- 内容自动化
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

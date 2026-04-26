@@ -2,8 +2,8 @@
 title: Trainium
 type: entity
 tags:
-- 开发工具
-- 商业/生态
+- 算力基础设施
+- 训练/微调
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-25'

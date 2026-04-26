@@ -2,8 +2,9 @@
 title: EverMemBench
 type: entity
 tags:
-- 记忆系统
-- Agent 编排
+- 长期记忆
+- 模型评测
+- 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

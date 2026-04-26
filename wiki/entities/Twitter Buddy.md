@@ -2,12 +2,12 @@
 title: Twitter Buddy
 type: entity
 tags:
-- 工作流
-- 开发工具
-- Agent 技能
-status: 草稿
+- 社交媒体
+- 浏览器自动化
+- AI 产品
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-25'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/376c1ca3ed52454d8cb36846f3a54938
@@ -28,4 +28,4 @@ Twitter Buddy 是一个本地运行的 X 时间线自动采集与分析工具，
 
 ## 来源引用
 
-- 摘要：Twitter Buddy：让 AI 帮你刷推特（X书签）
+- [摘要：Twitter Buddy：让 AI 帮你刷推特，自动采集、分析、发现优质账号](summaries/摘要：Twitter Buddy：让 AI 帮你刷推特，自动采集、分析、发现优质账号.md)（X书签）

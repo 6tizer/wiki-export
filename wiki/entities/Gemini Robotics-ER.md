@@ -2,8 +2,8 @@
 title: Gemini Robotics-ER
 type: entity
 tags:
-- LLM
-- Agent 框架
+- 推理优化
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-15'

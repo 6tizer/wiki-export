@@ -2,8 +2,10 @@
 title: Canva Design Model
 type: entity
 tags:
-- 内容创作
-- LLM
+- AI 设计
+- 多模态
+- 图像生成
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-17'

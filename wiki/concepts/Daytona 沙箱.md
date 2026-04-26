@@ -2,8 +2,9 @@
 title: Daytona 沙箱
 type: concept
 tags:
-- 开发工具
-- 安全/隐私
+- Agent 协作模式
+- Harness 工程
+- 算力基础设施
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-12'

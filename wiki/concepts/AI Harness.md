@@ -2,11 +2,12 @@
 title: AI Harness
 type: concept
 tags:
-- Agent 编排
-- Coding Agent
+- Agent 协作模式
+- 多Agent协作
+- Harness 工程
 status: 草稿
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/39b6b622659c4cddace0cf7e95a570e8
@@ -27,4 +28,4 @@ notion_id: 39b6b622-659c-4cdd-ace0-cf7e95a570e8
 
 **来源引用**
 
-- [《全世界消耗Token最多的人》](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247627553&idx=3&sn=1d38f00fcafe6f689e98499e353daa17&chksm=c3b1d88b191e9555fa11c05911c4d90bf4d8f30545c89d4ae8114b685a1de702f73bac7d628b#rd)
+- [摘要：全世界消耗Token最多的人](summaries/摘要：全世界消耗Token最多的人.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247627553&idx=3&sn=1d38f00fcafe6f689e98499e353daa17&chksm=c3b1d88b191e9555fa11c05911c4d90bf4d8f30545c89d4ae8114b685a1de702f73bac7d628b#rd)）

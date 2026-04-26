@@ -2,8 +2,11 @@
 title: 摘要：local-first AI assistant built for personal AI sovereignty
 type: summary
 tags:
-- 记忆系统
-- Coding Agent
+- 知识管理
+- 长期记忆
+- 上下文管理
+- Harness 工程
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

@@ -2,8 +2,8 @@
 title: 摘要：how to use autoreason for marketing
 type: summary
 tags:
-- 内容创作
-- 工作流
+- Agent 协作模式
+- 内容自动化
 - 推理优化
 status: 已审核
 confidence: medium

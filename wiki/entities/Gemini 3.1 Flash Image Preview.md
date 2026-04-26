@@ -2,9 +2,10 @@
 title: Gemini 3.1 Flash Image Preview
 type: entity
 tags:
-- LLM
-- 内容创作
-status: 草稿
+- AI 设计
+- 图像生成
+- AI 产品
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''

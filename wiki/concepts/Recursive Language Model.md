@@ -2,8 +2,11 @@
 title: Recursive Language Model
 type: concept
 tags:
-- Agent 编排
-- LLM
+- Agent 协作模式
+- 多Agent协作
+- 推理优化
+- 上下文管理
+- 长期记忆
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-12'

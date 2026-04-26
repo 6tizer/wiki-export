@@ -57,7 +57,7 @@ OpenRouter 是全球最大的模型聚合平台，提供统一 API 接入多家 
 
 - [Ollama](entities/Ollama.md)
 
-- [Elephant](entities/Elephant.md)
+- [Ling-2.6-flash](entities/Ling-2.6-flash.md)
 
 - [AI Benchy](entities/AI Benchy.md)
 

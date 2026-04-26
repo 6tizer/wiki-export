@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881ad93c9d5eef48a8afe
 notion_url: https://www.notion.so/afd428e249894285b155bf9828e4d950

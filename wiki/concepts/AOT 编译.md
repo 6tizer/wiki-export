@@ -2,8 +2,8 @@
 title: AOT 编译
 type: concept
 tags:
-- Agent 技能
-- Agent 编排
+- Harness 工程
+- 推理优化
 status: 草稿
 confidence: high
 last_compiled: '2026-04-26'

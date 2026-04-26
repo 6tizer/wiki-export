@@ -2,8 +2,10 @@
 title: 摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%
 type: summary
 tags:
-- Coding Agent
-- 开发工具
+- CLI 工具
+- 上下文管理
+- 推理优化
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

@@ -2,8 +2,9 @@
 title: 摘要：用 GPT-image-2 生成监控美学大片：7 种子风格与完整 Prompt 指南
 type: summary
 tags:
-- 内容创作
-- LLM
+- 内容自动化
+- 图像生成
+- 提示工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,8 +2,9 @@
 title: 摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」
 type: summary
 tags:
-- 安全/隐私
-- Agent 编排
+- Harness 工程
+- Agent 安全
+- 浏览器自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

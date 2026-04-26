@@ -2,8 +2,9 @@
 title: 摘要：AI Native的组织架构应该是怎么样的？Block CEO：每家公司都可以压缩成一个agent
 type: summary
 tags:
-- Agent 编排
+- Agent 协作模式
 - 商业/生态
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

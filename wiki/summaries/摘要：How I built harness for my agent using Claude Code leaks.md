@@ -2,8 +2,9 @@
 title: 摘要：How I built harness for my agent using Claude Code leaks
 type: summary
 tags:
-- Coding Agent
-- Agent 编排
+- Harness 工程
+- 上下文管理
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

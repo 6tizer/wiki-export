@@ -2,8 +2,9 @@
 title: 摘要：Compound Engineering - 4/17/2026
 type: summary
 tags:
-- Coding Agent
-- 工作流
+- Agent 协作模式
+- 推理优化
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

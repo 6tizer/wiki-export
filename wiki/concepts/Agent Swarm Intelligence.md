@@ -2,10 +2,11 @@
 title: Agent Swarm Intelligence
 type: concept
 tags:
-- Agent 编排
-status: 草稿
+- Agent 协作模式
+- 多Agent协作
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/cc24dfcb96fb4603bff5321dccb5e6b3
@@ -26,4 +27,4 @@ Agent Swarm Intelligence 是一种多 Agent 群体协作思路，通过自动派
 
 ## 来源引用
 
-- [原文链接](https://x.com/Saccc_c/status/2034219625815347204)｜《ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作》
+- [摘要：ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作](summaries/摘要：ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作.md)（[原文链接](https://x.com/Saccc_c/status/2034219625815347204)）

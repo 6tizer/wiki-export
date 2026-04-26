@@ -2,11 +2,12 @@
 title: ModelBox
 type: entity
 tags:
-- 开发工具
-- Coding Agent
-status: 草稿
+- CLI 工具
+- OpenClaw
+- 上下文管理
+status: 审核中
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/a276112289294082b160df2f820aff93
@@ -29,7 +30,7 @@ ModelBox 是一个兼容 OpenAI 协议的调试代理工具，用来拦截、捕
 
 ## 来源引用
 
-- [原文链接](https://x.com/LufzzLiz/status/2044258384556556743)｜《抽丝剥茧：深度解析 Hermes Agent 万字系统提示词（System Prompt）构成》
+- [原文链接](https://x.com/LufzzLiz/status/2044258384556556743)｜[摘要：抽丝剥茧：深度解析 Hermes Agent 万字系统提示词（System Prompt）构成](summaries/摘要：抽丝剥茧：深度解析 Hermes Agent 万字系统提示词（System Prompt）构成.md)
 
 ## 关联概念
 

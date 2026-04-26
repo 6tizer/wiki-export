@@ -2,8 +2,10 @@
 title: Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径
 type: synthesis
 tags:
-- 内容创作
-- Agent 框架
+- Agent 协作模式
+- 多Agent协作
+- 视频/3D
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'

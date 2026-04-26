@@ -2,8 +2,7 @@
 title: AI Crawl Control
 type: concept
 tags:
-- 安全/隐私
-- Agent 技能
+- AI 政策
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'

@@ -3,6 +3,7 @@ title: VibeClaw
 type: entity
 tags:
 - OpenClaw
+- 前端开发
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-11'

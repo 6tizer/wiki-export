@@ -3,7 +3,8 @@ title: 书签 AI 管道
 type: concept
 tags:
 - 知识管理
-- 工作流
+- RAG/检索
+- 笔记工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'

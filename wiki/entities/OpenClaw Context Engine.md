@@ -3,8 +3,8 @@ title: OpenClaw Context Engine
 type: entity
 tags:
 - 上下文管理
-- 长期记忆
-- Agent 编排
+- OpenClaw
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

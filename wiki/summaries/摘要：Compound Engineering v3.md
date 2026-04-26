@@ -2,11 +2,12 @@
 title: 摘要：Compound Engineering v3
 type: summary
 tags:
-- Coding Agent
-- Agent 编排
+- Agent 协作模式
+- Harness 工程
+- 代码生成
 status: 已审核
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68814781e5fa7518b08bd9
 notion_url: https://www.notion.so/792bc0f4162a4853b90377c4aab2f710

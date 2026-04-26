@@ -2,9 +2,9 @@
 title: Personalized AI
 type: concept
 tags:
-- 记忆系统
-- 安全/隐私
-- 商业/生态
+- 知识管理
+- 长期记忆
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'

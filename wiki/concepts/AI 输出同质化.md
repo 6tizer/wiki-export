@@ -2,8 +2,8 @@
 title: AI 输出同质化
 type: concept
 tags:
-- LLM
-- 内容创作
+- AI 设计
+- 提示工程
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

@@ -2,8 +2,8 @@
 title: AI 生成 BOM
 type: concept
 tags:
-- 开发工具
-- 工作流
+- 内容自动化
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

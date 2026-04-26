@@ -3,8 +3,9 @@ title: feedgrab
 type: entity
 tags:
 - 知识管理
-- 笔记工具
-- 内容创作
+- 内容自动化
+- 浏览器自动化
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

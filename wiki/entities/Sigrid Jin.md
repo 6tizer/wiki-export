@@ -2,8 +2,9 @@
 title: Sigrid Jin
 type: entity
 tags:
-- Coding Agent
-- 商业/生态
+- Agent 协作模式
+- Harness 工程
+- 多Agent协作
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

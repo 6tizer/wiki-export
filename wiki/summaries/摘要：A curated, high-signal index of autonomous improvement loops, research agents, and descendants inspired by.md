@@ -3,8 +3,9 @@ title: 摘要：A curated, high-signal index of autonomous improvement loops, re
   and descendants inspired by
 type: summary
 tags:
-- Agent 编排
-- 工作流
+- Agent 协作模式
+- Harness 工程
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

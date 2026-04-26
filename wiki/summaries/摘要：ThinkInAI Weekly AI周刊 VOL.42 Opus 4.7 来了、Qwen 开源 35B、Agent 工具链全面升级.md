@@ -2,8 +2,9 @@
 title: 摘要：ThinkInAI Weekly AI周刊 VOL.42 Opus 4.7 来了、Qwen 开源 35B、Agent 工具链全面升级
 type: summary
 tags:
-- Coding Agent
-- LLM
+- 多模态
+- IDE 集成
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

@@ -28,7 +28,7 @@ notion_id: f08abed2-77a5-49b3-a033-4ceb005089ca
 
 - [Meta Muse Spark](entities/Meta Muse Spark.md)
 
-- [Claw-Eval](concepts/Claw-Eval.md)
+- [Claw-Eval](entities/Claw-Eval.md)
 
 - [摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三](summaries/摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三.md)
 

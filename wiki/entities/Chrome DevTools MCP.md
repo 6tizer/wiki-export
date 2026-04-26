@@ -4,9 +4,9 @@ type: entity
 tags:
 - Agent 技能
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: Agent, 自动化, Cursor, LLM
 source_article_url: ''
 notion_url: https://www.notion.so/1eb287bd361242e8b2c2223fe1ba2a2e
@@ -27,7 +27,7 @@ Chrome DevTools MCP 是 Google Chrome 官方提供的 MCP Server，让 AI 助手
 
 ## 来源引用
 
-- 《Chrome DevTools MCP：让 AI 助手直接操控你正在用的浏览器》— X书签，2026-03
+- [摘要：Chrome DevTools MCP：让 AI 助手直接操控你正在用的浏览器](summaries/摘要：Chrome DevTools MCP：让 AI 助手直接操控你正在用的浏览器.md)— X书签，2026-03
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA%3D%3D&mid=2247546207&idx=1&sn=772820dba9a7a0a037b4bad24eee51ad&chksm=962fbc784ab760b642a982a17ee1b7a251fc8dd1573eef97759423d6400035677c10ff9ab5ae#rd)｜《这个 Skill 太硬了，刚开源就斩获 2.8K 星标！Agent 联网能力拉满！》
 

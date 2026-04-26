@@ -2,11 +2,12 @@
 title: OpenClaw Web Search
 type: concept
 tags:
-- Agent 技能
+- 浏览器自动化
+- RAG/检索
 - OpenClaw
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2184e72dd42643f0b8a2989edad5a26e
@@ -27,7 +28,7 @@ OpenClaw Web Search 是 OpenClaw 的网页搜索与正文抓取能力，用来�
 
 ## 来源引用
 
-- [原文链接](https://x.com/shmidtqq/status/2044027418541691041)｜《OpenClaw + GLM 5.1 = FREE AI AGENTS》
+- [摘要：OpenClaw + GLM 5.1 = FREE AI AGENTS](summaries/摘要：OpenClaw + GLM 5.1 = FREE AI AGENTS.md)（[原文链接](https://x.com/shmidtqq/status/2044027418541691041)）
 
 ## 关联概念
 

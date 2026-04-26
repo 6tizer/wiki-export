@@ -3,7 +3,7 @@ title: AI 情感回路
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''

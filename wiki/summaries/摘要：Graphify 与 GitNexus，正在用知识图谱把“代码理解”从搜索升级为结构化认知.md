@@ -2,8 +2,12 @@
 title: 摘要：Graphify 与 GitNexus，正在用知识图谱把“代码理解”从搜索升级为结构化认知
 type: summary
 tags:
-- Coding Agent
-- 开发工具
+- 知识管理
+- MCP 协议
+- 上下文管理
+- 长期记忆
+- 多模态
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-25'

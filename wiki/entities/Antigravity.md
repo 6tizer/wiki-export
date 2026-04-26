@@ -2,11 +2,12 @@
 title: Antigravity
 type: entity
 tags:
-- Coding Agent
 - Agent 框架
+- Harness 工程
+- AI 产品
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/7d938edf987b4f78b355daa50cc78fcf
@@ -37,4 +38,4 @@ Antigravity 是 Google 围绕 agentic coding 布局的编程 Agent 平台，用�
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247627539&idx=1&sn=da04448ed2172c5381d68b24e0454247&chksm=c31182e7c7ef6bde7a36b46d0bcde4b0b20f049b7cdbbe53d6ae77d1d83ea99c2250b5f96f56#rd)｜《别人都在卷Harness， 而Google 的沉默振聋发聩》｜源文章：别人都在卷Harness， 而Google 的沉默振聋发聩
+- [摘要：别人都在卷Harness， 而Google 的沉默振聋发聩](summaries/摘要：别人都在卷Harness， 而Google 的沉默振聋发聩.md)（[原文链接](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247627539&idx=1&sn=da04448ed2172c5381d68b24e0454247&chksm=c31182e7c7ef6bde7a36b46d0bcde4b0b20f049b7cdbbe53d6ae77d1d83ea99c2250b5f96f56#rd)，源文章：别人都在卷Harness， 而Google 的沉默振聋发聩）

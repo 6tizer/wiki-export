@@ -2,10 +2,12 @@
 title: andrej-karpathy-skills
 type: entity
 tags:
-- Coding Agent
+- 代码生成
+- 提示工程
+- IDE 集成
 status: 草稿
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2ef12e54151f4b3ab38e4f1445bdc5dd
@@ -62,7 +64,7 @@ notion_id: 2ef12e54-151f-4b3a-b38e-4f1445bdc5dd
 
 - [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)（[原文](https://x.com/RoundtableSpace/status/2045906520672461309)）
 
-- 微信文章《11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。》（开源星探，2026-04-11）
+- [摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。](summaries/摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。.md)（开源星探，2026-04-11）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzU3NTg5MjU1Mw%3D%3D&mid=2247496984&idx=1&sn=98f3a18047c1908f1b961052640e85a9&chksm=fc1c6bb03b47cbb0ba7d773e7d7e2f214a2492c4f081e9d9750d237912643aabf4e8b6628c58#rd)｜《一个 [CLAUDE.md](http://claude.md/) 文件竟然拿下 1.7 万 star，它到底写了什么》｜来源条目：[摘要：一个 CLAUDE.md 文件竟然拿下 1.7 万 star，它到底写了什么](summaries/摘要：一个 CLAUDE.md 文件竟然拿下 1.7 万 star，它到底写了什么.md)
 

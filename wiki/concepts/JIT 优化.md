@@ -2,8 +2,7 @@
 title: JIT 优化
 type: concept
 tags:
-- Agent 技能
-- Coding Agent
+- 推理优化
 status: 草稿
 confidence: high
 last_compiled: '2026-04-26'

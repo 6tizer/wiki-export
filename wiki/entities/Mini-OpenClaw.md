@@ -3,7 +3,12 @@ title: Mini-OpenClaw
 type: entity
 tags:
 - OpenClaw
-- 记忆系统
+- 知识管理
+- 长期记忆
+- RAG/检索
+- 上下文管理
+- Agent 安全
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

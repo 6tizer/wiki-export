@@ -2,7 +2,8 @@
 title: Read-before-write
 type: concept
 tags:
-- Coding Agent
+- Agent 安全
+- 上下文管理
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-12'

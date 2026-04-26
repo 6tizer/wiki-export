@@ -2,7 +2,9 @@
 title: MemPalace
 type: entity
 tags:
-- 记忆系统
+- 知识管理
+- 长期记忆
+- MCP 协议
 status: 草稿
 confidence: high
 last_compiled: '2026-04-17'
@@ -128,7 +130,7 @@ MemPalace将古希腌记忆宫段法（Method of Loci）映射为代码中的五
 
 - FTS5 全文检索
 
-- [时序知识图谱](concepts/时序知识图谱.md)
+- 时序知识图谱
 
 - wake-up 协议
 

@@ -2,10 +2,10 @@
 title: 主动式 Agent
 type: concept
 tags:
-- Agent 编排
-status: 草稿
+- Agent 协作模式
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/4fd746268c254d479467943cc59b8d3c
@@ -28,4 +28,4 @@ notion_id: 4fd74626-8c25-4d47-9467-943cc59b8d3c
 
 ## 来源引用
 
-- 《AI创业公司们，困在“眼前一黑”的账单里》（硅星人Pro，2026-04-16，[原文](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247627553&idx=1&sn=ca51a04a0641220cd517383bc40fcd20&chksm=c30473cf1fe2951be164c86c7015a839df8e9e645d6256ef93cdf5e93120d42e43f428539ad3#rd)) — 文中指出主动式 Agent 的消耗大约是普通对话的 5 到 30 倍。
+- [摘要：AI创业公司们，困在“眼前一黑”的账单里](summaries/摘要：AI创业公司们，困在“眼前一黑”的账单里.md)（硅星人Pro，2026-04-16，[原文](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247627553&idx=1&sn=ca51a04a0641220cd517383bc40fcd20&chksm=c30473cf1fe2951be164c86c7015a839df8e9e645d6256ef93cdf5e93120d42e43f428539ad3#rd)）— 文中指出主动式 Agent 的消耗大约是普通对话的 5 到 30 倍。

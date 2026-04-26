@@ -2,8 +2,9 @@
 title: 导师型 AI
 type: concept
 tags:
-- Agent 编排
 - 知识管理
+- 推理优化
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-25'

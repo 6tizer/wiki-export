@@ -2,8 +2,8 @@
 title: 角色 Prompt
 type: concept
 tags:
-- 工作流
 - 知识管理
+- 提示工程
 status: 草稿
 confidence: high
 last_compiled: '2026-04-12'

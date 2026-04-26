@@ -2,8 +2,8 @@
 title: OpenCLI
 type: entity
 tags:
-- 开发工具
-- Agent 技能
+- 浏览器自动化
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-19'

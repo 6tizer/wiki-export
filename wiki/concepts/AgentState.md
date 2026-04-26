@@ -3,9 +3,9 @@ title: AgentState
 type: concept
 tags:
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-13'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/6c379df202d14a338d00a5f346a6d64a
@@ -26,7 +26,7 @@ AgentState 是多 Agent 系统中用于共享上下文与中间结果的统一�
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247882749&idx=2&sn=2d4f10773aa251563dacfab3852c341d&chksm=e90834c479dc425ef1224f6ce2a17375a87c3e52109831d2865c2e45b32888aa931ce30fa9e0#rd)｜《有人把巴菲特芒格炼化成Agent，然后开源了…》
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247882749&idx=2&sn=2d4f10773aa251563dacfab3852c341d&chksm=e90834c479dc425ef1224f6ce2a17375a87c3e52109831d2865c2e45b32888aa931ce30fa9e0#rd)｜[摘要：有人把巴菲特芒格炼化成Agent，然后开源了…](summaries/摘要：有人把巴菲特芒格炼化成Agent，然后开源了….md)
 
 ## 关联概念
 

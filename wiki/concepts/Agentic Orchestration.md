@@ -2,8 +2,8 @@
 title: Agentic Orchestration
 type: concept
 tags:
-- Agent 编排
-- 内容创作
+- Agent 协作模式
+- 多Agent协作
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-17'

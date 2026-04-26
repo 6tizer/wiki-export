@@ -2,7 +2,7 @@
 title: SafePal
 type: entity
 tags:
-- Crypto/DeFi
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

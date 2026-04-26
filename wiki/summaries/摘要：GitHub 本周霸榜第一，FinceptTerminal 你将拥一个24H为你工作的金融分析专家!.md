@@ -2,7 +2,11 @@
 title: 摘要：GitHub 本周霸榜第一，FinceptTerminal 你将拥一个24H为你工作的金融分析专家!
 type: summary
 tags:
+- 量化交易
 - AI 产品
+- 多Agent协作
+- Agent 协作模式
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

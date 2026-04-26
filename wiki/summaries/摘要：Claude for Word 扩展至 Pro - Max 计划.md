@@ -2,8 +2,9 @@
 title: 摘要：Claude for Word 扩展至 Pro / Max 计划
 type: summary
 tags:
-- 商业/生态
-- Agent 技能
+- AI 产品
+- 内容自动化
+- 知识管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

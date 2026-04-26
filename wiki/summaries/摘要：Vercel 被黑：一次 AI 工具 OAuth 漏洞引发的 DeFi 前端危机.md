@@ -2,8 +2,8 @@
 title: 摘要：Vercel 被黑：一次 AI 工具 OAuth 漏洞引发的 DeFi 前端危机
 type: summary
 tags:
-- 安全/隐私
-- Crypto/DeFi
+- 前端开发
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

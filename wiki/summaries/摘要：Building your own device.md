@@ -2,8 +2,8 @@
 title: 摘要：Building your own device?
 type: summary
 tags:
-- Coding Agent
-- Agent 技能
+- OpenClaw
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

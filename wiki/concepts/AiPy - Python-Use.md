@@ -4,7 +4,7 @@ type: concept
 tags:
 - OpenClaw
 - 工作流
-status: 草稿
+status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''

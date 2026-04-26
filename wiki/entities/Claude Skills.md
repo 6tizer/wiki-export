@@ -2,8 +2,9 @@
 title: Claude Skills
 type: entity
 tags:
-- Agent 技能
-- Coding Agent
+- 知识管理
+- AI 产品
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

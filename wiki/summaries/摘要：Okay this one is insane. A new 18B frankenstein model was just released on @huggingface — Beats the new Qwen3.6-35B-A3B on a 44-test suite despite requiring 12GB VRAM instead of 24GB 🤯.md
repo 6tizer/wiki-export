@@ -4,8 +4,11 @@ title: 摘要：Okay this one is insane. A new 18B frankenstein model was just r
   12GB VRAM instead of 24GB 🤯
 type: summary
 tags:
-- LLM
-- Coding Agent
+- 推理优化
+- 模型评测
+- 模型部署
+- OpenClaw
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

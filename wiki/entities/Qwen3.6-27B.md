@@ -45,7 +45,7 @@ Qwen3.6-27B 是阿里通义千问发布的 27B 参数稠密开源模型，主打
 
 - [SWE-bench](concepts/SWE-bench.md)
 
-- [Terminal-Bench 2.0](concepts/Terminal-Bench 2.0.md)
+- [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)
 
 - [Thinking Preservation](concepts/Thinking Preservation.md)
 

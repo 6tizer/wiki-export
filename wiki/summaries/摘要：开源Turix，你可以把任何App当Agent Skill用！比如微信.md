@@ -2,10 +2,9 @@
 title: 摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信...
 type: summary
 tags:
-- OpenClaw
-- Agent 技能
-- Agent 编排
-- 工作流
+- 内容自动化
+- 多模态
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-21'

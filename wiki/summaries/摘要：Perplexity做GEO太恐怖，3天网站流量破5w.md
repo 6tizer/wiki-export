@@ -2,8 +2,9 @@
 title: 摘要：Perplexity做GEO太恐怖，3天网站流量破5w
 type: summary
 tags:
+- 内容自动化
+- RAG/检索
 - 商业/生态
-- 工作流
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-19'

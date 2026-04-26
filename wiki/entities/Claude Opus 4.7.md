@@ -2,7 +2,8 @@
 title: Claude Opus 4.7
 type: entity
 tags:
-- LLM
+- AI 产品
+- 提示工程
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-25'

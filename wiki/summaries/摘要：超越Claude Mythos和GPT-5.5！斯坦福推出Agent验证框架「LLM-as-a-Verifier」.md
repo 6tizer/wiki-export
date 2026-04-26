@@ -2,8 +2,10 @@
 title: 摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」
 type: summary
 tags:
-- Coding Agent
-- LLM
+- 内容自动化
+- Harness 工程
+- 模型评测
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

@@ -2,10 +2,10 @@
 title: AI小程序成长计划
 type: concept
 tags:
-- AI 产品
-- 图像生成
-- 开发工具
 - 前端开发
+- AI 政策
+- 商业/生态
+- 图像生成
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

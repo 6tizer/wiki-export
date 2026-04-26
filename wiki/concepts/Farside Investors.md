@@ -6,7 +6,7 @@ tags:
 - 商业/生态
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/13b4339136fc441ab467ac5ee6b0d8fb
@@ -27,4 +27,4 @@ Farside Investors 是一个被广泛引用的 ETF 资金流追踪来源，尤其
 
 ## 来源引用
 
-- 《看懂「水往哪流」：六个顶级宏观与链上数据工具深度盘点》
+- [摘要：看懂「水往哪流」：六个顶级宏观与链上数据工具深度盘点](summaries/摘要：看懂「水往哪流」：六个顶级宏观与链上数据工具深度盘点.md)

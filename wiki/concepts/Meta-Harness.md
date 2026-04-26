@@ -3,7 +3,7 @@ title: Meta-Harness
 type: concept
 tags:
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
@@ -54,7 +54,7 @@ Meta-Harness 是斯坦福研究提出的自动化 Harness 设计方法：把 Har
 
 - [长时程信用分配](concepts/长时程信用分配.md)
 
-- [Terminal-Bench 2.0](concepts/Terminal-Bench 2.0.md)
+- [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)
 
 - [Agent 持续学习三层框架](concepts/Agent 持续学习三层框架.md)
 

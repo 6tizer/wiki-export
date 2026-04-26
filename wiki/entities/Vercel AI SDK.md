@@ -2,10 +2,12 @@
 title: Vercel AI SDK
 type: entity
 tags:
-- 开发工具
-status: 草稿
+- 前端开发
+- RAG/检索
+- AI 产品
+status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/fc6297f9ded54e7e86122060a880a81a
@@ -42,6 +44,6 @@ Vercel AI SDK 是由 Next.js 团队打造的 TypeScript AI 工具包，定位为
 
 ## 来源引用
 
-- Web3 AI Agent 的真相：大多数都是 Vercel AI SDK 的外壳
+- [摘要：Web3 AI Agent 的真相：大多数都是 Vercel AI SDK 的外壳](summaries/摘要：Web3 AI Agent 的真相：大多数都是 Vercel AI SDK 的外壳.md)
 
 - [原文链接](https://x.com/RHLSTHRM/status/2031383989488070972)｜《用 Vibe Coding 搭出 5 个链上 AI 交易 Agent：AI SDK + [LI.FI](http://li.fi/) MCP + 免 Gas 全攻略》｜来源条目：用 Vibe Coding 搭出 5 个链上 AI 交易 Agent：AI SDK + LI.FI MCP + 免 Gas 全攻略

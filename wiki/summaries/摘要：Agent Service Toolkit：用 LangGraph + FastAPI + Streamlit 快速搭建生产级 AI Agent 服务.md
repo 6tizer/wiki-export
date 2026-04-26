@@ -31,7 +31,7 @@ Agent Service Toolkit 是将 LangGraph + FastAPI + Streamlit 整合在一起的�
 
 ## 提取的概念
 
-[LangGraph](entities/LangGraph.md) · [Agent Service Toolkit](concepts/Agent Service Toolkit.md) · [LangChain](entities/LangChain.md)
+[LangGraph](entities/LangGraph.md) · [Agent Service Toolkit](entities/Agent Service Toolkit.md) · [LangChain](entities/LangChain.md)
 
 ## 原始文章信息
 

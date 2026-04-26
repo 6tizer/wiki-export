@@ -5,7 +5,7 @@ tags:
 - 图像生成
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/80940aa0a0e746b2a61a1bf0db011084
@@ -28,7 +28,7 @@ GPT-Image-2 是 OpenAI 的图像生成与编辑模型。在这篇实测中，它
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506447&idx=1&sn=a3919f3cc497777d3c05efdecc0401cf&chksm=cf0412324a3f794db03b4dad004fd229a024e1bbd7f35187f3bdcd3264062cf4e911cb5448de#rd)｜《五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了》｜源条目：五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了
+- [摘要：五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了](summaries/摘要：五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506447&idx=1&sn=a3919f3cc497777d3c05efdecc0401cf&chksm=cf0412324a3f794db03b4dad004fd229a024e1bbd7f35187f3bdcd3264062cf4e911cb5448de#rd)，源条目：五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了）
 
 - [摘要：用 GPT-image-2 生成监控美学大片：7 种子风格与完整 Prompt 指南](summaries/摘要：用 GPT-image-2 生成监控美学大片：7 种子风格与完整 Prompt 指南.md)（[原文](https://x.com/xpg0970/status/2045802847573520723)）
 

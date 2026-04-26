@@ -2,10 +2,13 @@
 title: OpenViking
 type: entity
 tags:
-- 记忆系统
+- 知识管理
+- RAG/检索
+- 上下文管理
+- 长期记忆
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-19'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/cce5707add6c4188968ca407dd16b49b
@@ -50,9 +53,13 @@ OpenViking 是字节跳动火山引擎（Volcengine）Viking 团队开源的 Age
 
 - [摘要：OpenViking：字节跳动用「文件系统范式」重构 Agent 记忆，终结扁平 RAG 时代](summaries/摘要：OpenViking：字节跳动用「文件系统范式」重构 Agent 记忆，终结扁平 RAG 时代.md)
 
-- 摘要：memory-lancedb-pro：给你的 OpenClaw Agent 装上真正会记忆的大脑
+- [摘要：memory-lancedb-pro：给 OpenClaw 装上真正记得住事的大脑](summaries/摘要：memory-lancedb-pro：给 OpenClaw 装上真正记得住事的大脑.md)
 
-- 摘要：OpenClaw 长期记忆终极方案：memory-lancedb-pro vs total-recall 深度对比
+- [摘要：OpenClaw 长期记忆终极方案：memory-lancedb-pro vs total-recall 深度对比](summaries/摘要：OpenClaw 长期记忆终极方案：memory-lancedb-pro vs total-recall 深度对比.md)
+
+- [摘要：memory-lancedb-pro：给你的 OpenClaw Agent 装上真正会记忆的大脑](summaries/摘要：memory-lancedb-pro：给你的 OpenClaw Agent 装上真正会记忆的大脑.md)
+
+- [摘要：OpenClaw 长期记忆终极方案：memory-lancedb-pro vs total-recall 深度对比](summaries/摘要：OpenClaw 长期记忆终极方案：memory-lancedb-pro vs total-recall 深度对比.md)
 
 - [原文链接](https://x.com/berryxia/status/2032838544688034081)｜《OpenViking：字节火山引擎开源的 AI Agent 上下文数据库》｜来源条目：[摘要：OpenViking：字节火山引擎开源的 AI Agent 上下文数据库](summaries/摘要：OpenViking：字节火山引擎开源的 AI Agent 上下文数据库.md)
 

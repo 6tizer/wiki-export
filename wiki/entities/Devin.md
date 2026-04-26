@@ -2,8 +2,9 @@
 title: Devin
 type: entity
 tags:
-- Coding Agent
-- Agent 框架
+- Agent 协作模式
+- 多Agent协作
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

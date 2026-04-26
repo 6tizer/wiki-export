@@ -2,7 +2,8 @@
 title: CodeFlow
 type: entity
 tags:
-- 开发工具
+- 前端开发
+- 浏览器自动化
 status: 草稿
 confidence: high
 last_compiled: '2026-04-17'

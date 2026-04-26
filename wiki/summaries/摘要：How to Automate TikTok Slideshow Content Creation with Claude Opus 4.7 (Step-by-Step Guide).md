@@ -3,8 +3,9 @@ title: 摘要：How to Automate TikTok Slideshow Content Creation with Claude Op
   Guide)
 type: summary
 tags:
-- 内容创作
-- 工作流
+- 内容自动化
+- 社交媒体
+- 提示工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'

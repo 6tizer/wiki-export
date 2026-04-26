@@ -2,8 +2,8 @@
 title: ClawCon
 type: entity
 tags:
-- OpenClaw
 - 商业/生态
+- OpenClaw
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-19'

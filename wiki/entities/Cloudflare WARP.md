@@ -2,10 +2,11 @@
 title: Cloudflare WARP
 type: entity
 tags:
-- 开发工具
-status: 草稿
+- CLI 工具
+- AI 产品
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/9416847581bb4198b9588ecd866594e5
@@ -34,4 +35,4 @@ curl --socks5-hostname 127.0.0.1:40000 https://1.1.1.1/cdn-cgi/trace
 
 ## 来源引用
 
-- 摘要：一篇教你从0搭建中转站！超高性价比 token 自由，爽用 GPT-5.4
+- [摘要：一篇教你从0搭建中转站！超高性价比 token 自由，爽用 GPT-5.4](summaries/摘要：一篇教你从0搭建中转站！超高性价比 token 自由，爽用 GPT-5.4.md)

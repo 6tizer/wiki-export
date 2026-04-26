@@ -3,7 +3,7 @@ title: 摘要：markdown knowledge bases
 type: summary
 tags:
 - 知识管理
-- Coding Agent
+- 笔记工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

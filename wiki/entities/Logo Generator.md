@@ -2,11 +2,12 @@
 title: Logo Generator
 type: entity
 tags:
-- Coding Agent
-- 内容创作
+- AI 设计
+- 图像生成
+- AI 产品
 status: 草稿
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/bccb5a55a3b441cfa583d8c74422c910
@@ -37,7 +38,7 @@ notion_id: bccb5a55-a3b4-41cf-a583-d8c74422c910
 
 ### 来源引用
 
-- 文章标题：Logo Generator
+- 文章标题：[摘要：Logo Generator](summaries/摘要：Logo Generator.md)
 
 - 文章链接：[https://x.com/Lonely__MH/status/2044652473395376229](https://x.com/Lonely__MH/status/2044652473395376229)
 

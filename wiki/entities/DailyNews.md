@@ -2,11 +2,15 @@
 title: DailyNews
 type: entity
 tags:
-- Crypto/DeFi
-- Agent 技能
-status: 草稿
+- 加密资产
+- MCP 协议
+- OpenClaw
+- AI 产品
+- 商业/生态
+- 内容自动化
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: Agent, LLM, OpenClaw, Cursor, 自动化
 source_article_url: ''
 notion_url: https://www.notion.so/2dd61a361a1f491cace1c1f407d8393e
@@ -27,4 +31,4 @@ DailyNews 是 6551Team 推出的免费加密新闻 MCP Server，为 AI Agent 提
 
 ## 来源引用
 
-- 《DailyNews：6551Team 推出的永久免费加密新闻日报 MCP Server》— X书签，2026-03
+- [摘要：DailyNews：6551Team 推出的永久免费加密新闻日报 MCP Server](summaries/摘要：DailyNews：6551Team 推出的永久免费加密新闻日报 MCP Server.md)— X书签，2026-03

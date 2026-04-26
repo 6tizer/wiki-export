@@ -6,6 +6,7 @@ tags:
 - 多Agent协作
 - Harness 工程
 - CLI 工具
+- 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

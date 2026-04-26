@@ -2,7 +2,8 @@
 title: RLHF
 type: concept
 tags:
-- LLM
+- AI 对齐
+- 训练/微调
 status: 草稿
 confidence: high
 last_compiled: '2026-04-17'

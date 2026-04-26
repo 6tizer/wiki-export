@@ -6,7 +6,7 @@ tags:
 - 记忆系统
 status: 已审核
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: OpenClaw, 自动化, Agent, LLM
 source_article_url: ''
 notion_url: https://www.notion.so/9492a7abc6c447c19c8de2640506e2ba

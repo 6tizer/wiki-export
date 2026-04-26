@@ -3,7 +3,6 @@ title: 摘要：通往AGI的路径，上海交大教授在Datawhale开源了！
 type: summary
 tags:
 - 知识管理
-- LLM
 status: 已审核
 confidence: high
 last_compiled: '2026-04-25'

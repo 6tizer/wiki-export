@@ -2,8 +2,9 @@
 title: 摘要：The Ultimate Open-Source Dev Stack
 type: summary
 tags:
-- Coding Agent
 - 知识管理
+- 多Agent协作
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

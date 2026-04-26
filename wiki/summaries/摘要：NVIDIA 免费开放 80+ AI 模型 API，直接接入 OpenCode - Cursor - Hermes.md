@@ -2,8 +2,9 @@
 title: 摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes
 type: summary
 tags:
-- LLM
-- Coding Agent
+- 商业/生态
+- 模型部署
+- IDE 集成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

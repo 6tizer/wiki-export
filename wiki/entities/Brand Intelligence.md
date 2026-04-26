@@ -2,8 +2,8 @@
 title: Brand Intelligence
 type: entity
 tags:
-- 内容创作
-- 工作流
+- AI 设计
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-17'

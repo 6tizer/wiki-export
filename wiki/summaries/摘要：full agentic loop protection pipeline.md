@@ -3,9 +3,7 @@ title: 摘要：full agentic loop protection pipeline
 type: summary
 tags:
 - 商业/生态
-- Agent 编排
-- Agent 技能
-- Agent 框架
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'

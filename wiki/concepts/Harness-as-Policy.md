@@ -2,8 +2,8 @@
 title: Harness-as-Policy
 type: concept
 tags:
-- Agent 编排
-- Coding Agent
+- Harness 工程
+- 推理优化
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-25'

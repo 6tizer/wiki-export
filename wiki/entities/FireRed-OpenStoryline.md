@@ -2,8 +2,9 @@
 title: FireRed-OpenStoryline
 type: entity
 tags:
-- 内容创作
-- Agent 框架
+- 视频/3D
+- 内容自动化
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

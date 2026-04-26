@@ -2,8 +2,8 @@
 title: WebFetch
 type: concept
 tags:
-- Agent 技能
-- Coding Agent
+- 内容自动化
+- 浏览器自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

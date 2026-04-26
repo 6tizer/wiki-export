@@ -2,8 +2,9 @@
 title: Execution Bandwidth Ceiling
 type: concept
 tags:
-- 工作流
-- 商业/生态
+- 内容自动化
+- Agent 协作模式
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

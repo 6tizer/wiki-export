@@ -2,8 +2,11 @@
 title: 摘要：CocoIndex V1
 type: summary
 tags:
-- Agent 编排
-- 记忆系统
+- 知识管理
+- 上下文管理
+- RAG/检索
+- 长期记忆
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

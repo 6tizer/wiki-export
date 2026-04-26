@@ -4,9 +4,10 @@ type: entity
 tags:
 - OpenClaw
 - 商业/生态
-status: 草稿
+- AI 产品
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/23e084e939914e28981675c43dd38c6a
@@ -37,7 +38,7 @@ ClawTip 是京东面向 Agent 生态推出的 A2A 自主支付零钱包，核心
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA%3D%3D&mid=2653588165&idx=1&sn=0e0410e1d88cc5ad869c483fbd623864&chksm=8117dbc85ccbaa434bf29379eae62e8bcf7369e5d40eb167b51fe0d75aedc4c94a5c5efd5171#rd)｜《开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！》
+- [摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！](summaries/摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！.md)（[原文链接](https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA%3D%3D&mid=2653588165&idx=1&sn=0e0410e1d88cc5ad869c483fbd623864&chksm=8117dbc85ccbaa434bf29379eae62e8bcf7369e5d40eb167b51fe0d75aedc4c94a5c5efd5171#rd)）
 
 ## 关联概念
 

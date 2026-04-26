@@ -2,8 +2,10 @@
 title: Chrome Skills
 type: entity
 tags:
-- Agent 技能
-- 工作流
+- 浏览器自动化
+- 内容自动化
+- 前端开发
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-15'

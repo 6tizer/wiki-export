@@ -2,8 +2,9 @@
 title: 摘要：GBrain Minions：用 Postgres 任务队列，把多 Agent 系统从玩具拉到生产级
 type: summary
 tags:
-- Agent 编排
-- OpenClaw
+- Agent 协作模式
+- 多Agent协作
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

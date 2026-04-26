@@ -3,7 +3,9 @@ title: 摘要：Karpathy或许答错了一个根本问题：wiki 是为谁准备
 type: summary
 tags:
 - 知识管理
-- 工作流
+- 上下文管理
+- 长期记忆
+- 笔记工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

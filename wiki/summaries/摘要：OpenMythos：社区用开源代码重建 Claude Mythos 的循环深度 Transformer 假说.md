@@ -2,8 +2,9 @@
 title: 摘要：OpenMythos：社区用开源代码重建 Claude Mythos 的循环深度 Transformer 假说
 type: summary
 tags:
-- LLM
-- 开发工具
+- 推理优化
+- 训练/微调
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

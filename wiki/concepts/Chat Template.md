@@ -2,8 +2,8 @@
 title: Chat Template
 type: concept
 tags:
-- LLM
-- Agent 技能
+- 提示工程
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'

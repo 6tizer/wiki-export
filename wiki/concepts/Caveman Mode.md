@@ -2,8 +2,9 @@
 title: Caveman Mode
 type: concept
 tags:
-- Coding Agent
-- Agent 技能
+- 代码生成
+- 提示工程
+- 推理优化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-21'

@@ -2,11 +2,12 @@
 title: File-as-Bus
 type: concept
 tags:
-- Agent 编排
-- 记忆系统
+- Agent 协作模式
+- 长期记忆
+- 多Agent协作
 status: 草稿
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/c75ed41262934d80b02a6a40b8b1162c

@@ -3,6 +3,8 @@ title: RLDC
 type: concept
 tags:
 - 稳定币
+- 加密资产
+- 商业/生态
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

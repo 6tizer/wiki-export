@@ -2,11 +2,11 @@
 title: 编程 Agent 审查瓶颈
 type: concept
 tags:
-- 工作流
-- Agent 编排
+- Agent 协作模式
+- 代码生成
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0ef88705f22942fc9b27e6cc9bcfec49
@@ -29,4 +29,4 @@ notion_id: 0ef88705-f229-42fc-9b27-e6cc9bcfec49
 
 - [摘要：Cognition 用 $250M 抄底 Windsurf：当 IDE 变成 Agent 指挥中心，谁来审这些代码？](summaries/摘要：Cognition 用 $250M 抄底 Windsurf：当 IDE 变成 Agent 指挥中心，谁来审这些代码？.md)（[原文](https://x.com/aakashgupta/status/2044619554706604356)）
 
-- 《LangChain CEO：编程 Agent 正在重塑工程、产品与设计团队的协作方式》｜文章链接：[https://x.com/hwchase17/status/2031051115169808685](https://x.com/hwchase17/status/2031051115169808685)
+- [摘要：LangChain CEO：编程 Agent 正在重塑工程、产品与设计团队的协作方式](summaries/摘要：LangChain CEO：编程 Agent 正在重塑工程、产品与设计团队的协作方式.md)（[原文](https://x.com/hwchase17/status/2031051115169808685)）

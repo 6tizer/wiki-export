@@ -2,11 +2,12 @@
 title: TaskBoard
 type: concept
 tags:
-- Agent 编排
-- 工作流
-status: 草稿
+- Agent 协作模式
+- 多Agent协作
+- OpenClaw
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/23c94cd0bab6449a99300abad194439b
@@ -27,4 +28,4 @@ TaskBoard 是多 Agent 系统中的任务看板层，用来管理任务状态、
 
 ## 来源引用
 
-- [原文链接](https://x.com/Saccc_c/status/2034219625815347204)｜《ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作》
+- [原文链接](https://x.com/Saccc_c/status/2034219625815347204)｜[摘要：ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作](summaries/摘要：ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作.md)

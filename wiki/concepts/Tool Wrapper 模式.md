@@ -2,11 +2,12 @@
 title: Tool Wrapper 模式
 type: concept
 tags:
-- Agent 技能
-- Coding Agent
-status: 草稿
+- Agent 协作模式
+- 上下文管理
+- 提示工程
+status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8fbac6a5ad37467bac26138413e8ba0e
@@ -27,6 +28,6 @@ Tool Wrapper 模式是把某个库、框架或 API 的核心用法封装进 Skil
 
 ## 来源引用
 
-- [原文链接](https://x.com/KKaWSB/status/2034196862794961299)｜《Google 发布 5 个 Agent Skill 设计模式：告别乱写 [SKILL.md](http://skill.md/) 的时代》
+- [原文链接](https://x.com/KKaWSB/status/2034196862794961299)｜[摘要：Google 发布 5 个 Agent Skill 设计模式：告别乱写 SKILL.md 的时代](summaries/摘要：Google 发布 5 个 Agent Skill 设计模式：告别乱写 SKILL.md 的时代.md)
 
 - [原文链接](https://x.com/oragnes/status/2034221173970796776)｜《Google Cloud 的 5 种 [SKILL.md](http://skill.md/) 设计模式：让 AI 编程助手更听话的「抄作业」指南》

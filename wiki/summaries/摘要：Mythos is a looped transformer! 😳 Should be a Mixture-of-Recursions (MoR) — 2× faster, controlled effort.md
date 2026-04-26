@@ -3,7 +3,8 @@ title: 摘要：Mythos is a looped transformer!? 😳 Should be a Mixture-of-Rec
   — 2× faster, controlled effort.
 type: summary
 tags:
-- LLM
+- 推理优化
+- 训练/微调
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

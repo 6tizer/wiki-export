@@ -2,7 +2,7 @@
 title: Claude Code 上下文管理
 type: concept
 tags:
-- Coding Agent
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-25'

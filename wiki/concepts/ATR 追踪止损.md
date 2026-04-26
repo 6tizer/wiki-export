@@ -2,7 +2,7 @@
 title: ATR 追踪止损
 type: concept
 tags:
-- Crypto/DeFi
+- 量化交易
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

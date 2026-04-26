@@ -2,8 +2,9 @@
 title: 摘要：NVIDIA Lyra 2.0：从一张图片生成可探索的持久 3D 世界
 type: summary
 tags:
-- 内容创作
-- 开发工具
+- 视频/3D
+- 算力基础设施
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

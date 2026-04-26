@@ -2,9 +2,11 @@
 title: Claudebot-vibe
 type: entity
 tags:
-- AI 产品
+- 知识管理
 - 长期记忆
-- 记忆系统
+- RAG/检索
+- 上下文管理
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

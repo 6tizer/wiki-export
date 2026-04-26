@@ -2,8 +2,10 @@
 title: 摘要：GBrain v0.13 dropped
 type: summary
 tags:
-- 记忆系统
 - 知识管理
+- RAG/检索
+- 笔记工具
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

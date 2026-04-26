@@ -2,8 +2,9 @@
 title: 摘要：Single-agent AI coding is a nightmare for engineers
 type: summary
 tags:
-- Coding Agent
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

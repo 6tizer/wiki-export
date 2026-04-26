@@ -2,7 +2,9 @@
 title: KrillinAI
 type: entity
 tags:
-- 内容创作
+- 内容自动化
+- 视频/3D
+- AI 产品
 status: 草稿
 confidence: high
 last_compiled: '2026-04-12'

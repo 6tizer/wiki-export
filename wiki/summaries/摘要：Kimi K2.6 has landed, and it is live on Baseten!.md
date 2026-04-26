@@ -4,9 +4,9 @@ type: summary
 tags:
 - 推理优化
 - 模型部署
-- Agent 技能
+- 算力基础设施
+- AI 产品
 - 商业/生态
-- 工作流
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'

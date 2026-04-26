@@ -3,7 +3,7 @@ title: Crawl4AI
 type: entity
 tags:
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''

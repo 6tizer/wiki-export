@@ -2,7 +2,9 @@
 title: 摘要：方言识别迈入“工业级”！Fun-ASR1.5来了🚀
 type: summary
 tags:
-- LLM
+- 内容自动化
+- 训练/微调
+- AI 产品
 status: 已审核
 confidence: low
 last_compiled: '2026-04-21'

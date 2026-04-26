@@ -2,8 +2,7 @@
 title: LLM-as-judge
 type: concept
 tags:
-- LLM
-- 工作流
+- 模型评测
 status: 草稿
 confidence: high
 last_compiled: '2026-04-20'

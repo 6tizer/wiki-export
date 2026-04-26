@@ -6,7 +6,7 @@ tags:
 - 商业/生态
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/139d0042a8084c449d22eb6427d3453c
@@ -27,4 +27,4 @@ AI CRM 是把客户信息管理、销售跟进和自动外展能力与 AI Agent 
 
 ## 来源引用
 
-- 《DenchClaw：用 OpenClaw 搭一套本地 AI CRM，一行命令搞定客户管理》｜文章链接：[https://x.com/sitinme/status/2031243653209891023](https://x.com/sitinme/status/2031243653209891023)
+- [摘要：DenchClaw：用 OpenClaw 搭一套本地 AI CRM，一行命令搞定客户管理](summaries/摘要：DenchClaw：用 OpenClaw 搭一套本地 AI CRM，一行命令搞定客户管理.md)（文章链接：[https://x.com/sitinme/status/2031243653209891023](https://x.com/sitinme/status/2031243653209891023)）

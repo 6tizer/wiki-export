@@ -2,8 +2,9 @@
 title: Claude Managed Agents
 type: entity
 tags:
-- Agent 框架
-- 商业/生态
+- Agent 协作模式
+- Harness 工程
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

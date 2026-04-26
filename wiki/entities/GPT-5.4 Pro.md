@@ -2,7 +2,8 @@
 title: GPT-5.4 Pro
 type: entity
 tags:
-- LLM
+- 推理优化
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

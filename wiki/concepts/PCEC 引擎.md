@@ -2,8 +2,11 @@
 title: PCEC 引擎
 type: concept
 tags:
-- Agent 编排
-status: 草稿
+- Agent 协作模式
+- 上下文管理
+- 长期记忆
+- Agent 安全
+status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''

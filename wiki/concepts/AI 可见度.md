@@ -5,7 +5,7 @@ tags:
 - 商业/生态
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-26'
 source_tags: LLM, GEO/SEO, 提示词
 source_article_url: ''
 notion_url: https://www.notion.so/d2c1c4444cd24fe9ba0424d8b0bbed5f
@@ -28,4 +28,4 @@ AI 可见度 是品牌或内容在 ChatGPT、Perplexity、Gemini 等生成式搜
 
 - [原文链接](https://x.com/tim_geo_seo/status/2042096325634953260)｜《GEO Content Writer：用 Agent 把 AI 可见度做到行业第一》｜来源条目：[摘要：GEO Content Writer：用 Agent 把 AI 可见度做到行业第一](summaries/摘要：GEO Content Writer：用 Agent 把 AI 可见度做到行业第一.md)
 
-- 《姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存》｜X书签文章｜原文链接：[https://x.com/laoyaoke/status/2039243404685803619](https://x.com/laoyaoke/status/2039243404685803619)
+- [摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存](summaries/摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存.md)｜X书签文章｜原文链接：[https://x.com/laoyaoke/status/2039243404685803619](https://x.com/laoyaoke/status/2039243404685803619)

@@ -4,9 +4,9 @@ type: entity
 tags:
 - 内容创作
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f19783a8d0bd4ed5b94ef70de1d63fdf
@@ -41,4 +41,4 @@ notion_id: f19783a8-d0bd-4ed5-b94e-f70de1d63fdf
 
 **来源引用**
 
-- 摘衑：LibTV实测，Agent们终于不再需要模仿人类来使用软件了
+- [摘要：LibTV实测，Agent们终于不再需要模仿人类来使用软件了](summaries/摘要：LibTV实测，Agent们终于不再需要模仿人类来使用软件了.md)

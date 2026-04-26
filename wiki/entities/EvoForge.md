@@ -2,11 +2,11 @@
 title: EvoForge
 type: entity
 tags:
-- Coding Agent
-- Agent 编排
-status: 草稿
+- Agent 协作模式
+- Harness 工程
+status: 审核中
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/59baf1b495824ac094e18f1c7a5151f3
@@ -37,4 +37,4 @@ EvoForge 是 Haize Labs 开源的演化式 harness 优化器，用一个位于�
 
 ## 来源引用
 
-- [原文链接](https://x.com/leonardtang_/status/2044426476632629545)｜《EvoForge: Scaling Evolutionary Harness Optimization》｜X书签文章
+- [摘要：EvoForge: Scaling Evolutionary Harness Optimization](summaries/摘要：EvoForge- Scaling Evolutionary Harness Optimization.md)（[原文链接](https://x.com/leonardtang_/status/2044426476632629545)，X书签文章）

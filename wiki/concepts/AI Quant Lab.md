@@ -2,8 +2,9 @@
 title: AI Quant Lab
 type: concept
 tags:
-- Crypto/DeFi
-- 工作流
+- 量化交易
+- 训练/微调
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

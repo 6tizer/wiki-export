@@ -2,8 +2,8 @@
 title: 摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题
 type: summary
 tags:
-- Coding Agent
-- Agent 技能
+- 知识管理
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

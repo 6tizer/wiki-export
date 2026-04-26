@@ -33,7 +33,7 @@ notion_id: d17fd7ef-402a-4b3e-8370-266f8c95ecb9
 
 - [GUI-VLA](concepts/GUI-VLA.md)
 
-- [Mano-CUA Skill](entities/Mano-CUA Skill.md)
+- [Mano-CUA Skill](concepts/Mano-CUA Skill.md)
 
 - [Mano-Action 双向自增强学习框架](concepts/Mano-Action 双向自增强学习框架.md)
 

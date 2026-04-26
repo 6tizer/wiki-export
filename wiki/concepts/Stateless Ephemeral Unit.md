@@ -3,7 +3,7 @@ title: Stateless Ephemeral Unit
 type: concept
 tags:
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: Multi-Agent, Agent, 自动化, LLM

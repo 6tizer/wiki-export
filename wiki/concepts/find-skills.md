@@ -3,7 +3,8 @@ title: find-skills
 type: concept
 tags:
 - OpenClaw
-- Agent 技能
+- CLI 工具
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'

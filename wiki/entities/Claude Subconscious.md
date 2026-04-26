@@ -3,9 +3,9 @@ title: Claude Subconscious
 type: entity
 tags:
 - 记忆系统
-status: 草稿
+status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/a54f5c72045a4396b61c993213c25970

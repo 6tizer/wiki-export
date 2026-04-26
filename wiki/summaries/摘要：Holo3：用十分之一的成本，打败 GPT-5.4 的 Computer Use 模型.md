@@ -35,7 +35,7 @@ Holo3 把 Computer Use 从昂贵闭源能力拉向更低成本、部分开源的
 
 - [Agentic Learning Flywheel](concepts/Agentic Learning Flywheel.md)
 
-- [OSWorld-Verified](concepts/OSWorld-Verified.md)
+- [OSWorld-Verified](entities/OSWorld-Verified.md)
 
 ### 原始文章信息
 

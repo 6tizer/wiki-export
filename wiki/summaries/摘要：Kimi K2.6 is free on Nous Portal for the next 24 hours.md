@@ -2,8 +2,9 @@
 title: 摘要：Kimi K2.6 is free on Nous Portal for the next 24 hours
 type: summary
 tags:
-- Coding Agent
-- Agent 框架
+- AI 产品
+- Harness 工程
+- CLI 工具
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'

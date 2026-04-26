@@ -2,8 +2,7 @@
 title: 摘要：ICLR发了Oral又反悔，理由是查到了制裁名单？
 type: summary
 tags:
-- LLM
-- 商业/生态
+- AI 政策
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

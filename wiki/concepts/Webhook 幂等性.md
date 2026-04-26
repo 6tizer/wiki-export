@@ -2,9 +2,7 @@
 title: Webhook 幂等性
 type: concept
 tags:
-- 工作流
-- Agent 技能
-- Agent 编排
+- 内容自动化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

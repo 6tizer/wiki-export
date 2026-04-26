@@ -2,8 +2,9 @@
 title: 摘要：Architecture Diagram Generator：用 Claude Skill 30 秒画出一张架构图艺术品
 type: summary
 tags:
-- Coding Agent
-- Agent 技能
+- 知识管理
+- 图像生成
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

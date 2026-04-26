@@ -2,8 +2,9 @@
 title: 摘要：RAG真被“替换”了？Mintlify造出ChromaFs假文件系统：冷启动46秒砍到100ms！
 type: summary
 tags:
-- 开发工具
 - 知识管理
+- RAG/检索
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

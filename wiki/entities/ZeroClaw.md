@@ -2,7 +2,8 @@
 title: ZeroClaw
 type: entity
 tags:
-- Agent 框架
+- OpenClaw
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

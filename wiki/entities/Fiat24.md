@@ -2,8 +2,10 @@
 title: Fiat24
 type: entity
 tags:
-- Crypto/DeFi
-status: 草稿
+- 稳定币
+- 加密资产
+- 链上协议
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''

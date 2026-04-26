@@ -2,8 +2,8 @@
 title: agent-browser
 type: entity
 tags:
-- Agent 技能
-- 开发工具
+- 浏览器自动化
+- CLI 工具
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-25'

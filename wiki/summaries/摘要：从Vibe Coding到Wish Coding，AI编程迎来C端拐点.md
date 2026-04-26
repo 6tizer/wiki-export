@@ -2,8 +2,8 @@
 title: 摘要：从Vibe Coding到Wish Coding，AI编程迎来C端拐点
 type: summary
 tags:
-- Coding Agent
-- 商业/生态
+- 代码生成
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

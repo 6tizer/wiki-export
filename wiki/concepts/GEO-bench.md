@@ -2,7 +2,8 @@
 title: GEO-bench
 type: concept
 tags:
-- 商业/生态
+- 内容自动化
+- 模型评测
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

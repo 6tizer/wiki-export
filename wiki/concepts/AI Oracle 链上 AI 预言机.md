@@ -5,7 +5,7 @@ tags:
 - Crypto/DeFi
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/09768a34fd69443f99a1cea9d3588ffa
@@ -34,6 +34,6 @@ AI Oracle（链上 AI 预言机）是将 AI 模型推理能力嵌入区块链执
 
 ## 来源引用
 
-- [AI Agent 堆栈的终局：去中心化算力、分布式训练与链上 AI 预言机](https://www.notion.so/d4673e86715f4c08accb8ca28fe4a248)
+- [摘要：AI Agent 堆栈的终局：去中心化算力、分布式训练与链上 AI 预言机](summaries/摘要：AI Agent 堆栈的终局：去中心化算力、分布式训练与链上 AI 预言机.md)（[原文](https://www.notion.so/d4673e86715f4c08accb8ca28fe4a248)）
 
 - 《LeviX：用五个 AI Agent 帮你读懂预测市场，电竞+AI 的大胆组合》｜X书签文章｜原文链接：[https://x.com/roger73005305/status/2039296213766520970](https://x.com/roger73005305/status/2039296213766520970)｜来源条目：[摘要：LeviX：用五个 AI Agent 帮你读懂预测市场，电竞+AI 的大胆组合](summaries/摘要：LeviX：用五个 AI Agent 帮你读懂预测市场，电竞+AI 的大胆组合.md)

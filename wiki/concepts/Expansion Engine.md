@@ -2,8 +2,8 @@
 title: Expansion Engine
 type: concept
 tags:
-- 内容创作
-- 工作流
+- 知识管理
+- 提示工程
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-18'

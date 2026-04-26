@@ -2,10 +2,10 @@
 title: pikiclaw
 type: entity
 tags:
-- Agent 编排
-- 开发工具
+- OpenClaw
 - CLI 工具
 - MCP 协议
+- 浏览器自动化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-25'

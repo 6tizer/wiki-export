@@ -2,11 +2,11 @@
 title: ClawShell
 type: entity
 tags:
-- 安全/隐私
 - OpenClaw
+- Agent 安全
 status: 审核中
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/9120ca5814d74e288f4e034dc486e7d7
@@ -27,7 +27,7 @@ ClawShell 是 OpenClaw 生态中的安全执行层，用于拦截包含敏感信
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzE5ODM0MDIyNg%3D%3D&mid=2247484011&idx=1&sn=588c8c9f5f8a8e56cb1d32c5ba91947a&chksm=976d338b09e0fcd9565bdfc1728262bd18a93f1408aecb26a19ba94a31968423d172955f1a51#rd)｜《Hermes Agent 深度技术解析：架构、演进与 OpenClaw 的差异化对比》｜源文章：Hermes Agent 深度技术解析：架构、演进与 OpenClaw 的差异化对比
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzE5ODM0MDIyNg%3D%3D&mid=2247484011&idx=1&sn=588c8c9f5f8a8e56cb1d32c5ba91947a&chksm=976d338b09e0fcd9565bdfc1728262bd18a93f1408aecb26a19ba94a31968423d172955f1a51#rd)｜[摘要：Hermes Agent 深度技术解析：架构、演进与 OpenClaw 的差异化对比](summaries/摘要：Hermes Agent 深度技术解析：架构、演进与 OpenClaw 的差异化对比.md)｜源文章：Hermes Agent 深度技术解析：架构、演进与 OpenClaw 的差异化对比
 
 ## 关联概念
 

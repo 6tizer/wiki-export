@@ -3,8 +3,8 @@ title: 摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Per
   Claude, and Gemini.
 type: summary
 tags:
-- 工作流
-- 商业/生态
+- Agent 协作模式
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

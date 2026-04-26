@@ -2,7 +2,8 @@
 title: Artifacts
 type: concept
 tags:
-- LLM
+- 知识管理
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

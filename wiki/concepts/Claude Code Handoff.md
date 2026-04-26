@@ -2,11 +2,12 @@
 title: Claude Code Handoff
 type: concept
 tags:
-- Coding Agent
-- Agent 编排
-status: 草稿
+- 知识管理
+- 上下文管理
+- 笔记工具
+status: 审核中
 confidence: high
-last_compiled: '2026-04-25'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/cba999b60a104d3e91a8f854c0d358ee
@@ -27,4 +28,4 @@ Claude Code Handoff 是一种为跨 Session 接力而设计的交接机制，通
 
 ## 来源引用
 
-- 摘要：Claude Code Handoff：让 AI 编程助手跨 Session 无缝接力（X书签）
+- [摘要：Claude Code Handoff：让 AI 编程助手跨 Session 无缝接力](summaries/摘要：Claude Code Handoff：让 AI 编程助手跨 Session 无缝接力.md)（X书签）

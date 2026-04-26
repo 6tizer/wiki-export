@@ -2,8 +2,9 @@
 title: 摘要：开发 Next.js 的 Vercel 被黑，数据被叫卖
 type: summary
 tags:
-- 安全/隐私
-- 开发工具
+- 内容自动化
+- Agent 安全
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

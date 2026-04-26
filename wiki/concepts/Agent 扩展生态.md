@@ -2,8 +2,8 @@
 title: Agent 扩展生态
 type: concept
 tags:
-- Agent 技能
 - 商业/生态
+- 上下文管理
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-25'

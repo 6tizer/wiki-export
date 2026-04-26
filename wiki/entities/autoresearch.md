@@ -9,7 +9,7 @@ tags:
 - 训练/微调
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/6a8cb9b4e0474053be1b5f821ce03cef
@@ -54,9 +54,9 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 
 **来源引用**
 
-- 《56% → 92%：Karpathy autoresearch 让 skill 成功率直接起飞》（字节前端，2026-03-27）
+- [摘要：56% → 92%：Karpathy autoresearch 让 skill 成功率直接起飞](summaries/摘要：56% → 92%：Karpathy autoresearch 让 skill 成功率直接起飞.md)（字节前端，2026-03-27）
 
-- 《AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式》｜文章链接：[https://x.com/yibie/status/2031222960372199523](https://x.com/yibie/status/2031222960372199523)
+- [摘要：AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式](summaries/摘要：AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式.md)｜文章链接：[https://x.com/yibie/status/2031222960372199523](https://x.com/yibie/status/2031222960372199523)
 
 - [原文链接](https://x.com/wangray/status/2031312140788023421)｜《sim-predict：用多Agent社会模拟预测FDA事件如何在金融市场「扩散」》｜来源条目：sim-predict：用多Agent社会模拟预测FDA事件如何在金融市场「扩散」
 
@@ -64,11 +64,11 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 
 - [原文链接](https://x.com/timyangnet/status/2033436288679075840)｜《Autoresearch：纪律与记忆，让 Agent 成为真正的研究者》｜来源条目：[摘要：Autoresearch：纪律与记忆，让 Agent 成为真正的研究者](summaries/摘要：Autoresearch：纪律与记忆，让 Agent 成为真正的研究者.md)
 
-- 《一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析》（@_0xKenny (Kenny.eth)，X书签，2026-03-16）— 将 autoresearch 视为当周最具想象力的自主科研项目之一。
+- [摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析](summaries/摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析.md)（@_0xKenny (Kenny.eth)，X书签，2026-03-16）— 将 autoresearch 视为当周最具想象力的自主科研项目之一。
 
-- 《一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析》— X书签，2026-03-16：将 autoresearch 列为自主科研方向的代表项目
+- [摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析](summaries/摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析.md)— X书签，2026-03-16：将 autoresearch 列为自主科研方向的代表项目
 
-- 《用 Karpathy 的 autoresearch 方法，让你的 Claude Skill 自动进化》｜X书签文章｜原文链接：[https://x.com/MinLiBuilds/status/2034533228162187444](https://x.com/MinLiBuilds/status/2034533228162187444)
+- [摘要：用 Karpathy 的 autoresearch 方法，让你的 Claude Skill 自动进化](summaries/摘要：用 Karpathy 的 autoresearch 方法，让你的 Claude Skill 自动进化.md)｜X书签文章｜原文链接：[https://x.com/MinLiBuilds/status/2034533228162187444](https://x.com/MinLiBuilds/status/2034533228162187444)
 
 - 《AutoAgent：让 AI 自己调自己，跑一晚上超越所有人工方案》｜X书签文章｜原文链接：[https://x.com/runes_leo/status/2040221812483936727](https://x.com/runes_leo/status/2040221812483936727)｜来源条目：[摘要：AutoAgent：让 AI 自己调自己，跑一晚上超越所有人工方案](summaries/摘要：AutoAgent：让 AI 自己调自己，跑一晚上超越所有人工方案.md)
 

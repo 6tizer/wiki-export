@@ -2,8 +2,9 @@
 title: 摘要：记忆，是 Agent 基建｜对话 Calvin@Vida
 type: summary
 tags:
-- 记忆系统
-- Agent 编排
+- 知识管理
+- 长期记忆
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

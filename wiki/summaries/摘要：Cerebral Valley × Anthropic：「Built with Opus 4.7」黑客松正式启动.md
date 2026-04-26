@@ -2,8 +2,9 @@
 title: 摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动
 type: summary
 tags:
-- Coding Agent
 - 商业/生态
+- 代码生成
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

@@ -8,7 +8,7 @@ tags:
 - AI 产品
 status: 审核中
 confidence: high
-last_compiled: '2026-04-24'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/531518c2ee794184b4d3cb11b26fbc3e
@@ -35,7 +35,7 @@ Kimi K2.6 是月之暗面面向 AI 编程场景推出的模型版本，可通过
 
 - [摘要：Ship Safe v9.1.0](summaries/摘要：Ship Safe v9.1.0.md)（[原文](https://x.com/Kimi_Moonshot/status/2046249571882500354)）
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMDQ0Nw%3D%3D&mid=2247484645&idx=1&sn=b2a8072e31f73857b37fa828a6653a09&chksm=fa3ef1e2aaaa6863d5c2fce89e53e93e1dc5cde21f60251c60befa308e493ec567d7f39f35bf#rd)｜《Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？》｜源页面：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMDQ0Nw%3D%3D&mid=2247484645&idx=1&sn=b2a8072e31f73857b37fa828a6653a09&chksm=fa3ef1e2aaaa6863d5c2fce89e53e93e1dc5cde21f60251c60befa308e493ec567d7f39f35bf#rd)｜[摘要：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？](summaries/摘要：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？.md)｜源页面：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？
 
 - [摘要：Kimi K2.6 has landed, and it is live on Baseten!](summaries/摘要：Kimi K2.6 has landed, and it is live on Baseten!.md)（[原文](https://x.com/baseten/status/2046263526281576573)）
 

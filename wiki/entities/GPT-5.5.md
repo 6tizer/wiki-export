@@ -2,8 +2,9 @@
 title: GPT-5.5
 type: entity
 tags:
-- LLM
-- Coding Agent
+- Agent 协作模式
+- AI 产品
+- 推理优化
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

@@ -2,8 +2,9 @@
 title: 摘要：ScreenKite 1.0：让 AI 替你剪视频的 macOS 录屏神器
 type: summary
 tags:
-- 内容创作
-- Coding Agent
+- 内容自动化
+- 视频/3D
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'

@@ -2,8 +2,9 @@
 title: 摘要：Intercom 如何用 Claude Code 实现研发效率 3 倍提升：一份来自真实大厂的完整账单
 type: summary
 tags:
-- Coding Agent
-- Agent 编排
+- Agent 协作模式
+- 内容自动化
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

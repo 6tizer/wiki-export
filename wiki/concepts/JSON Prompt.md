@@ -2,8 +2,9 @@
 title: JSON Prompt
 type: concept
 tags:
-- 内容创作
-- LLM
+- 图像生成
+- 提示工程
+- AI 设计
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-12'

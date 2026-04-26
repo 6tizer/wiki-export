@@ -2,8 +2,9 @@
 title: 摘要：What is an Agent Harness
 type: summary
 tags:
-- Agent 编排
-- Coding Agent
+- Harness 工程
+- 上下文管理
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

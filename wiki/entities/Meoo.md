@@ -2,7 +2,9 @@
 title: Meoo
 type: entity
 tags:
-- Coding Agent
+- 前端开发
+- 多Agent协作
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'

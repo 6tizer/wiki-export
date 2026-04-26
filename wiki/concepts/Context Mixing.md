@@ -2,7 +2,7 @@
 title: Context Mixing
 type: concept
 tags:
-- 开发工具
+- 上下文管理
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

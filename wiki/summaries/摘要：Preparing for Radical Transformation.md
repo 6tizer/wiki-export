@@ -2,8 +2,9 @@
 title: 摘要：Preparing for Radical Transformation
 type: summary
 tags:
-- Agent 编排
-- 安全/隐私
+- 商业/生态
+- Agent 安全
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

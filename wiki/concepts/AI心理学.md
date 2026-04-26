@@ -2,8 +2,8 @@
 title: AI心理学
 type: concept
 tags:
-- LLM
-- 安全/隐私
+- AI 对齐
+- Agent 安全
 status: 草稿
 confidence: high
 last_compiled: '2026-04-18'

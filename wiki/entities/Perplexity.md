@@ -2,6 +2,8 @@
 title: Perplexity
 type: entity
 tags:
+- RAG/检索
+- AI 产品
 - 商业/生态
 status: 审核中
 confidence: medium

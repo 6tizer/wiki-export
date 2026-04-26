@@ -2,7 +2,9 @@
 title: Claude Code
 type: entity
 tags:
-- Coding Agent
+- CLI 工具
+- 代码生成
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'

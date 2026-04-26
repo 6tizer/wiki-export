@@ -2,9 +2,11 @@
 title: Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路
 type: synthesis
 tags:
-- Coding Agent
-- 开发工具
-- 工作流
+- Agent 编排
+- 代码生成
+- 提示工程
+- 多Agent协作
+- Agent 框架
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'

@@ -46,7 +46,7 @@ Meta Muse Spark 是 Meta 超级智能实验室（Meta Superintelligence Labs，M
 
 - [MiniCPM](entities/MiniCPM.md)
 
-- [Claw-Eval](concepts/Claw-Eval.md)
+- [Claw-Eval](entities/Claw-Eval.md)
 
 - [Pass^3](concepts/Pass^3.md)
 

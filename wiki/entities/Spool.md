@@ -3,6 +3,8 @@ title: Spool
 type: entity
 tags:
 - 知识管理
+- RAG/检索
+- OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

@@ -2,8 +2,10 @@
 title: 摘要：OpenAI Privacy Filter：1.5B MoE 隐私脱敏模型支持 128k 上下文
 type: summary
 tags:
-- LLM
-- 安全/隐私
+- 内容自动化
+- 上下文管理
+- 推理优化
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

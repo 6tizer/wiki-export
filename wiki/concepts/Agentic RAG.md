@@ -2,9 +2,10 @@
 title: Agentic RAG
 type: concept
 tags:
-- Agent 编排
-- 记忆系统
-status: 草稿
+- RAG/检索
+- 多Agent协作
+- Agent 协作模式
+status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''

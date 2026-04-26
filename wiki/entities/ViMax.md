@@ -2,8 +2,9 @@
 title: ViMax
 type: entity
 tags:
-- 内容创作
-- Agent 框架
+- 内容自动化
+- 多Agent协作
+- 视频/3D
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

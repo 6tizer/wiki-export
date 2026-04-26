@@ -3,7 +3,8 @@ title: 摘要：MindZJ：用 Claude Opus 4.7 一周造出的本地优先 Obsidia
 type: summary
 tags:
 - 知识管理
-- 开发工具
+- 笔记工具
+- RAG/检索
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,7 +2,9 @@
 title: AutoGen
 type: entity
 tags:
-- Agent 框架
+- 多Agent协作
+- 代码生成
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

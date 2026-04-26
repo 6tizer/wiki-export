@@ -2,9 +2,9 @@
 title: Context Hub
 type: entity
 tags:
-- Coding Agent
 - CLI 工具
 - 知识管理
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'
@@ -32,4 +32,4 @@ Context Hub 是一个面向 Coding Agent 的运行时文档获取工具，通过
 
 - [摘要：Context Hub：吴恩达为 AI 编程 Agent 打造的「Stack Overflow」](summaries/摘要：Context Hub：吴恩达为 AI 编程 Agent 打造的「Stack Overflow」.md)
 
-- [摘要：Context Hub：Andrew Ng 为 AI 编程 Agent 打造的「Stack Overflow」](summaries/摘要：Context Hub：Andrew Ng 为 AI 编程 Agent 打造的「Stack Overflow」.md)
+- 摘要：Context Hub：Andrew Ng 为 AI 编程 Agent 打造的「Stack Overflow」

@@ -3,7 +3,8 @@ title: 摘要：OpenClaw 烧 Token 的真相：最贵的不是写代码，而是
 type: summary
 tags:
 - OpenClaw
-- LLM
+- 上下文管理
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'

@@ -3,7 +3,6 @@ title: AI 基础学科知识地图
 type: concept
 tags:
 - 知识管理
-- LLM
 status: 草稿
 confidence: high
 last_compiled: '2026-04-25'

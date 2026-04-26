@@ -2,9 +2,11 @@
 title: Auxiliary 副驾模型
 type: concept
 tags:
-- Agent 技能
-- LLM
-status: 草稿
+- Agent 协作模式
+- 多Agent协作
+- 上下文管理
+- 推理优化
+status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''

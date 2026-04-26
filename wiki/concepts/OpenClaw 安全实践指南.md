@@ -2,11 +2,11 @@
 title: OpenClaw 安全实践指南
 type: concept
 tags:
+- Agent 安全
 - OpenClaw
-- 安全/隐私
 status: 审核中
 confidence: high
-last_compiled: '2026-04-19'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/62eca4423ff7427fa3b71dbbbe5f983f
@@ -47,4 +47,4 @@ OpenClaw 安全实践指南是慢雾安全团队（SlowMist）于 2026 年 3 月
 
 - [摘要：OpenClaw 极简安全实践指南：慢雾为高权限 AI Agent 打造的三层防御体系](summaries/摘要：OpenClaw 极简安全实践指南：慢雾为高权限 AI Agent 打造的三层防御体系.md)
 
-- 《OpenClaw 安全实践指南：SlowMist 给高权限 AI Agent 的「思想钢印」》（Cos / SlowMist_Team，X书签）— 从"把安全策略直接注入 Agent 认知层"的角度补充这份指南的设计意义
+- [摘要：OpenClaw 安全实践指南：SlowMist 给高权限 AI Agent 的「思想钢印」](summaries/摘要：OpenClaw 安全实践指南：SlowMist 给高权限 AI Agent 的「思想钢印」.md)（Cos / SlowMist_Team，X书签）— 从"把安全策略直接注入 Agent 认知层"的角度补充这份指南的设计意义

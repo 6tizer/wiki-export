@@ -2,8 +2,8 @@
 title: OpenSpec
 type: concept
 tags:
-- 开发工具
-- 工作流
+- 知识管理
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

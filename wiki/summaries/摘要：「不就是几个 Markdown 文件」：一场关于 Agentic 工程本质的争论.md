@@ -2,8 +2,9 @@
 title: 摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论
 type: summary
 tags:
-- Coding Agent
-- Agent 编排
+- Harness 工程
+- Agent 协作模式
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

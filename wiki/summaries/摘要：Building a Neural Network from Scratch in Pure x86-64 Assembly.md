@@ -2,8 +2,8 @@
 title: 摘要：Building a Neural Network from Scratch in Pure x86-64 Assembly
 type: summary
 tags:
-- LLM
-- 开发工具
+- 训练/微调
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

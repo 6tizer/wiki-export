@@ -3,6 +3,8 @@ title: 摘要：Coinbase 为什么是 USDC 背后最大的赢家？
 type: summary
 tags:
 - 稳定币
+- 商业/生态
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

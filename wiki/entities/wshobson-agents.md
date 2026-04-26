@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/84b1af4ed5404e45872b32afc8d114ba
@@ -26,9 +26,9 @@ wshobson/agents 是一个面向 Claude Code 的插件生态仓库，通过多插
 
 ## 来源引用
 
-- 《wshobson/agents：用 72 个插件把 Claude Code 变成 AI 开发部队》（GitHub_Daily，2026-03-08）— 介绍了插件、技能包、工作流编排器和三层模型策略
+- [摘要：wshobson/agents：用 72 个插件把 Claude Code 变成 AI 开发部队](summaries/摘要：wshobson-agents：用 72 个插件把 Claude Code 变成 AI 开发部队.md)（GitHub_Daily，2026-03-08）— 介绍了插件、技能包、工作流编排器和三层模型策略
 
-- 《wshobson/agents：用插件仓库把 Claude Code 变成你的私人 AI 软件工厂》（NFTCPS，2026-03-09）— 从多 Agent 编排与节省 Token 的角度补充项目定位
+- [摘要：wshobson/agents：用插件仓库把 Claude Code 变成你的私人 AI 软件工厂](summaries/摘要：wshobson-agents：用插件仓库把 Claude Code 变成你的私人 AI 软件工厂.md)（NFTCPS，2026-03-09）— 从多 Agent 编排与节省 Token 的角度补充项目定位
 
 ## 关联概念
 

@@ -2,7 +2,7 @@
 title: Claude API 中转站
 type: entity
 tags:
-- 商业/生态
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

@@ -3,8 +3,10 @@ title: '摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see
   performs:'
 type: summary
 tags:
-- LLM
-- 开发工具
+- 模型评测
+- 推理优化
+- 模型部署
+- 知识管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,8 +2,9 @@
 title: 空间 Agent
 type: concept
 tags:
-- Agent 编排
-- 内容创作
+- 视频/3D
+- 多模态
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

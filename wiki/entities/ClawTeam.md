@@ -2,11 +2,12 @@
 title: ClawTeam
 type: entity
 tags:
-- Agent 编排
-- OpenClaw
-status: 草稿
+- Agent 协作模式
+- 多Agent协作
+- CLI 工具
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/ca1d28d93c8f41dead87b810b65f137e
@@ -27,4 +28,4 @@ ClawTeam 是一个让多个 CLI Agent 自动组队、分工和协作完成复杂
 
 ## 来源引用
 
-- [原文链接](https://x.com/Saccc_c/status/2034219625815347204)｜《ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作》
+- [摘要：ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作](summaries/摘要：ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作.md)（[原文链接](https://x.com/Saccc_c/status/2034219625815347204)）

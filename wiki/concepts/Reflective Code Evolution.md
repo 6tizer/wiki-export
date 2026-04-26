@@ -2,8 +2,9 @@
 title: Reflective Code Evolution
 type: concept
 tags:
-- Agent 编排
-- Coding Agent
+- Harness 工程
+- 代码生成
+- Agent 协作模式
 status: 草稿
 confidence: high
 last_compiled: '2026-04-25'

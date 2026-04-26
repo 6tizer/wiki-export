@@ -2,8 +2,9 @@
 title: 摘要：上次在 Hermes 里小米模型免费用，登录他们后台一看，这不是模型中转贩子吗？仔细一瞧居然有自研模型，再仔细研究一下，发现这家公司真不简单！
 type: summary
 tags:
-- LLM
-- 商业/生态
+- Agent 协作模式
+- 浏览器自动化
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

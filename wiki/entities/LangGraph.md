@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/c6734e1129dd49d4b7912730d55bfbe4
@@ -44,7 +44,7 @@ LangGraph 是 LangChain 团队推出的有状态 Agent 编排框架，用有向�
 
 ## 来源引用
 
-- Agent Service Toolkit：LangGraph + FastAPI + Streamlit
+- [摘要：Agent Service Toolkit：用 LangGraph + FastAPI + Streamlit 快速搭建生产级 AI Agent 服务](summaries/摘要：Agent Service Toolkit：用 LangGraph + FastAPI + Streamlit 快速搭建生产级 AI Agent 服务.md)
 
 - LangGraph AI 金融分析师 Agent 实践
 

@@ -2,8 +2,7 @@
 title: API Key 分发
 type: concept
 tags:
-- 开发工具
-- 商业/生态
+- 身份准入
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

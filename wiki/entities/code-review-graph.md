@@ -6,7 +6,7 @@ tags:
 - 开发工具
 status: 审核中
 confidence: high
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/353e29a1f1b54f5089d04a94124b7065
@@ -29,7 +29,7 @@ code-review-graph 是一个面向 Claude Code 等 AI 编码助手的本地代码
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzY5NzIxODM2MQ%3D%3D&mid=2247484353&idx=1&sn=f2ad30ea21fee327daac93a9143a76fb&chksm=f539ae6800aa8066504c6b4ed683e14b501d516a93882ddd92b4c501a2537281c3b85d7d3c8f#rd)｜《code-review-graph：Claude Code 本地知识图谱，减少 6.8 倍代码审查 Token !》｜源页面：code-review-graph：Claude Code 本地知识图谱，减少 6.8 倍代码审查 Token !
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzY5NzIxODM2MQ%3D%3D&mid=2247484353&idx=1&sn=f2ad30ea21fee327daac93a9143a76fb&chksm=f539ae6800aa8066504c6b4ed683e14b501d516a93882ddd92b4c501a2537281c3b85d7d3c8f#rd)｜[摘要：code-review-graph：Claude Code 本地知识图谱，减少 6.8 倍代码审查 Token !](summaries/摘要：code-review-graph：Claude Code 本地知识图谱，减少 6.8 倍代码审查 Token !.md)｜源页面：code-review-graph：Claude Code 本地知识图谱，减少 6.8 倍代码审查 Token !
 
 ## 关联概念
 

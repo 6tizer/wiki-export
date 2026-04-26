@@ -2,8 +2,8 @@
 title: Pika AI Self
 type: entity
 tags:
-- Agent 框架
-- 商业/生态
+- AI 产品
+- Agent 协作模式
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-12'

@@ -2,8 +2,8 @@
 title: Agent 技能的商业化拓扑：从免费能力模块到可计价服务单元的价值捕获路径与生态博弈
 type: synthesis
 tags:
-- Agent 技能
 - 商业/生态
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-25'

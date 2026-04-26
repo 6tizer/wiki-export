@@ -2,7 +2,9 @@
 title: Persona Selection Model
 type: concept
 tags:
-- LLM
+- AI 对齐
+- 提示工程
+- 上下文管理
 status: 草稿
 confidence: high
 last_compiled: '2026-04-18'

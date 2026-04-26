@@ -2,7 +2,9 @@
 title: MANIFEST 分层管理
 type: concept
 tags:
-- Agent 编排
+- 知识管理
+- 上下文管理
+- OpenClaw
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

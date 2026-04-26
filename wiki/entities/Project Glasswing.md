@@ -2,8 +2,9 @@
 title: Project Glasswing
 type: entity
 tags:
-- 安全/隐私
-- 商业/生态
+- 身份准入
+- Agent 安全
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

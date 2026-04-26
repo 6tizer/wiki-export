@@ -2,8 +2,8 @@
 title: wecom-cli
 type: entity
 tags:
-- Agent 技能
-- 开发工具
+- 内容自动化
+- CLI 工具
 status: 草稿
 confidence: high
 last_compiled: '2026-04-16'

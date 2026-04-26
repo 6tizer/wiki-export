@@ -3,9 +3,8 @@ title: 摘要：custom slash commands
 type: summary
 tags:
 - 知识管理
-- 长期记忆
-- 上下文管理
 - 笔记工具
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-21'

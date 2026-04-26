@@ -3,8 +3,9 @@ title: 摘要：Introducing expanded coverage for image generation models in Her
   and Nous Portal Tool Gateway!
 type: summary
 tags:
-- Agent 技能
-- 内容创作
+- 图像生成
+- 内容自动化
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

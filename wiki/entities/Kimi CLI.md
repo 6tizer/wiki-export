@@ -4,6 +4,7 @@ type: entity
 tags:
 - CLI 工具
 - Harness 工程
+- 代码生成
 status: 草稿
 confidence: high
 last_compiled: '2026-04-26'

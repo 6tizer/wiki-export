@@ -2,8 +2,8 @@
 title: 办公任务 CLI 化
 type: concept
 tags:
-- 开发工具
-- 工作流
+- 内容自动化
+- CLI 工具
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

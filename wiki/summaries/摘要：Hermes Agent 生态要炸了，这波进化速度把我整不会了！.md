@@ -2,8 +2,9 @@
 title: 摘要：Hermes Agent 生态要炸了，这波进化速度把我整不会了！
 type: summary
 tags:
-- Agent 框架
-- Agent 技能
+- 商业/生态
+- Agent 安全
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-21'

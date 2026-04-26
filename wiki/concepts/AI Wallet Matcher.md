@@ -2,8 +2,9 @@
 title: AI Wallet Matcher
 type: concept
 tags:
-- Crypto/DeFi
-- AI 交易
+- 量化交易
+- 加密资产
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

@@ -2,8 +2,9 @@
 title: WebSearch
 type: concept
 tags:
-- Agent 技能
-- Coding Agent
+- RAG/检索
+- 浏览器自动化
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-18'

@@ -2,8 +2,9 @@
 title: 摘要：统一编排 Skill，按项目精准分发到不同 Agent CLI。
 type: summary
 tags:
-- Coding Agent
-- Agent 技能
+- 知识管理
+- 多Agent协作
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'

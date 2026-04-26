@@ -2,8 +2,11 @@
 title: OpenChronicle
 type: entity
 tags:
-- 记忆系统
-- Coding Agent
+- 知识管理
+- 长期记忆
+- RAG/检索
+- 上下文管理
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

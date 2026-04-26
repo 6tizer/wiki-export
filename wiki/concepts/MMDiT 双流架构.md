@@ -2,9 +2,10 @@
 title: MMDiT 双流架构
 type: concept
 tags:
-- 内容创作
-- LLM
-status: 草稿
+- 多模态
+- 视频/3D
+- 内容自动化
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''

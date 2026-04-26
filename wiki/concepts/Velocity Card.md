@@ -2,8 +2,7 @@
 title: Velocity Card
 type: concept
 tags:
-- Agent 编排
-- 工作流
+- Agent 协作模式
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

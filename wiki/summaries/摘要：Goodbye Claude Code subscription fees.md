@@ -2,8 +2,9 @@
 title: 摘要：Goodbye Claude Code subscription fees.
 type: summary
 tags:
-- Coding Agent
-- 开发工具
+- OpenClaw
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

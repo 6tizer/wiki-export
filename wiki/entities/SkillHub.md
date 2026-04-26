@@ -6,7 +6,7 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/7007194449474ebfb45cf9b3c8bf7674
@@ -31,9 +31,9 @@ SkillHub 是围绕 QClaw 与 OpenClaw 生态出现的技能分发入口，用于
 
 - [原文链接](https://x.com/RocM301/status/2042155081764893083)｜《微信支付推出 AI 原生接入 Skills：一句话完成支付接入》｜来源条目：[摘要：微信支付推出 AI 原生接入 Skills：一句话完成支付接入](summaries/摘要：微信支付推出 AI 原生接入 Skills：一句话完成支付接入.md)
 
-- 《QClaw：腾讯把 AI Agent 装进微信，12 亿人的入口之争》｜文章链接：[https://x.com/joshesye/status/2031014816786403453](https://x.com/joshesye/status/2031014816786403453)
+- [摘要：QClaw：腾讯把 AI Agent 装进微信，12 亿人的入口之争](summaries/摘要：QClaw：腾讯把 AI Agent 装进微信，12 亿人的入口之争.md)｜文章链接：[https://x.com/joshesye/status/2031014816786403453](https://x.com/joshesye/status/2031014816786403453)
 
-- 《腾讯 SkillHub：专为中国用户打造的 OpenClaw 技能社区》（LaurenceMister，X书签）— 补充 SkillHub 作为 ClawHub 本土镜像、精选分发与安全审计平台的具体形态
+- [摘要：腾讯 SkillHub：专为中国用户打造的 OpenClaw 技能社区](summaries/摘要：腾讯 SkillHub：专为中国用户打造的 OpenClaw 技能社区.md)（LaurenceMister，X书签）— 补充 SkillHub 作为 ClawHub 本土镜像、精选分发与安全审计平台的具体形态
 
 - [原文链接](https://x.com/oragnes/status/2031376812190871718)｜《Agent Skills 生态全景：四大技能市场横评，让你的 AI 解锁超能力》｜来源条目：Agent Skills 生态全景：四大技能市场横评，让你的 AI 解锁超能力
 

@@ -2,11 +2,11 @@
 title: awesome-nuwa
 type: entity
 tags:
-- Agent 技能
-- Coding Agent
+- 知识管理
+- AI 产品
 status: 审核中
 confidence: high
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/b12e24591ed347efb0c03ed087254b69
@@ -37,7 +37,7 @@ notion_id: b12e2459-1ed3-47ef-b0c0-3ed087254b69
 
 ## 来源引用
 
-- 《Github 上的硅基生物 —— 一手达尔文、一手女娲 ，先造人后进化》｜微信文章｜原文链接：[https://mp.weixin.qq.com/s?__biz=MzkyNDYyODg0MQ==&mid=2247493022&idx=1&sn=624a417e7c20389f39d7c12d68db105c&chksm=c03f662e4b855b2d7f8982c96394e2f3f90f128f81904761993d26762b66605dac072cafc190#rd](https://mp.weixin.qq.com/s?__biz=MzkyNDYyODg0MQ%3D%3D&mid=2247493022&idx=1&sn=624a417e7c20389f39d7c12d68db105c&chksm=c03f662e4b855b2d7f8982c96394e2f3f90f128f81904761993d26762b66605dac072cafc190#rd)｜源文章：Github 上的硅基生物 —— 一手达尔文、一手女娲 ，先造人后进化
+- [摘要：Github 上的硅基生物 —— 一手达尔文、一手女娲 ，先造人后进化](summaries/摘要：Github 上的硅基生物 —— 一手达尔文、一手女娲 ，先造人后进化.md)（微信文章｜[原文链接](https://mp.weixin.qq.com/s?__biz=MzkyNDYyODg0MQ%3D%3D&mid=2247493022&idx=1&sn=624a417e7c20389f39d7c12d68db105c&chksm=c03f662e4b855b2d7f8982c96394e2f3f90f128f81904761993d26762b66605dac072cafc190#rd)｜源文章：Github 上的硅基生物 —— 一手达尔文、一手女娲 ，先造人后进化）
 
 ## 关联概念
 

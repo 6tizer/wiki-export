@@ -2,9 +2,9 @@
 title: Outbox 模式
 type: concept
 tags:
-- 开发工具
-- Agent 编排
-status: 草稿
+- 知识管理
+- 上下文管理
+status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''

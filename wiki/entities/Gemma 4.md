@@ -5,7 +5,7 @@ tags:
 - LLM
 status: 审核中
 confidence: high
-last_compiled: '2026-04-19'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/09a31eaf99cc4161b51e7029278bc78e
@@ -34,9 +34,9 @@ notion_id: 09a31eaf-99cc-4161-b51e-7029278bc78e
 
 - [原文链接](https://x.com/billtheinvestor/status/2041982161239339463)｜《Gemma4-31B-Opus-4.6-reasoning：把 Claude 的推理方式「蒸馏」进开源模型》｜来源条目：[摘要：Gemma4-31B-Opus-4.6-reasoning：把 Claude 的推理方式「蒸馏」进开源模型](summaries/摘要：Gemma4-31B-Opus-4.6-reasoning：把 Claude 的推理方式「蒸馏」进开源模型.md)
 
-- 摘要：Google DeepMind 正式推出 Gemma 4
+- [摘要：Google DeepMind 正式推出 Gemma 4](summaries/摘要：Google DeepMind 正式推出 Gemma 4.md)
 
-- 摘要：谷歌昨天发布了 Gemma 4，这次非常牛逼！
+- [摘要：谷歌昨天发布了 Gemma 4，这次非常牛逼！](summaries/摘要：谷歌昨天发布了 Gemma 4，这次非常牛逼！.md)
 
 - 《Gemma-4-31B 越狱版来了：本地无审查大模型新王，顺带聊聊 llmfit 怎么判断你的机器能不能跑》｜X书签文章｜原文链接：[https://x.com/Lonely__MH/status/2040832951206961413](https://x.com/Lonely__MH/status/2040832951206961413)｜来源条目：[摘要：Gemma-4-31B 越狱版来了：本地无审查大模型新王，顺带聊聊 llmfit 怎么判断你的机器能不能跑](summaries/摘要：Gemma-4-31B 越狱版来了：本地无审查大模型新王，顺带聊聊 llmfit 怎么判断你的机器能不能跑.md)
 

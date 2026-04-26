@@ -2,8 +2,12 @@
 title: '摘要：Xiaomi MiMo-V2.5 Series: Pushing Open-Source Agents Forward'
 type: summary
 tags:
-- LLM
-- Coding Agent
+- 商业/生态
+- 多模态
+- 模型评测
+- 上下文管理
+- Harness 工程
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
@@ -37,7 +41,7 @@ notion_id: ae64adfc-3021-444e-ac8e-aa2254453e58
 
 - [MiMo Coding Bench](concepts/MiMo Coding Bench.md)
 
-- [Claw-Eval](concepts/Claw-Eval.md)
+- [Claw-Eval](entities/Claw-Eval.md)
 
 - [Harness Engineering](concepts/Harness Engineering.md)
 

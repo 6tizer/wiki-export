@@ -2,8 +2,9 @@
 title: Open Agents
 type: entity
 tags:
-- Coding Agent
-- Agent 框架
+- Agent 协作模式
+- 前端开发
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

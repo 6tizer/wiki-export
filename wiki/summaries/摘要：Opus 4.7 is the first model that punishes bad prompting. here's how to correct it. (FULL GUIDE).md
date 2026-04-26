@@ -3,8 +3,8 @@ title: 摘要：Opus 4.7 is the first model that punishes bad prompting. here's 
   it. (FULL GUIDE)
 type: summary
 tags:
-- Coding Agent
-- LLM
+- 提示工程
+- 推理优化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

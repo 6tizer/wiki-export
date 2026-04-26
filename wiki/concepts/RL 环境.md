@@ -2,8 +2,9 @@
 title: RL 环境
 type: concept
 tags:
-- LLM
-- 商业/生态
+- Agent 协作模式
+- 浏览器自动化
+- 上下文管理
 status: 草稿
 confidence: high
 last_compiled: '2026-04-17'

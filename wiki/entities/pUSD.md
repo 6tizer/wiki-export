@@ -2,10 +2,12 @@
 title: pUSD
 type: entity
 tags:
-- Crypto/DeFi
+- 稳定币
+- 加密资产
+- 链上协议
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2e0978fc8b2d4b0b82bf430e8b4cc675
@@ -28,4 +30,4 @@ pUSD 是 Polymarket V2 引入的 wrapped collateral，用来统一承接 `USDC` 
 
 ### 来源引用
 
-- 《polymarket ctf exchange v2 分析》｜2026-04-14｜[原文](https://x.com/love_u_4ever/status/2043960259245641785)｜[源页面](https://www.notion.so/343701074b6881069cc0d77b18ffe67b)
+- [摘要：polymarket ctf exchange v2 分析](summaries/摘要：polymarket ctf exchange v2 分析.md)（2026-04-14，[原文](https://x.com/love_u_4ever/status/2043960259245641785)，[源页面](https://www.notion.so/343701074b6881069cc0d77b18ffe67b)）

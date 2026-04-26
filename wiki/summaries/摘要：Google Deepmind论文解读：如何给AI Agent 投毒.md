@@ -2,8 +2,9 @@
 title: 摘要：Google Deepmind论文解读：如何给AI Agent 投毒
 type: summary
 tags:
-- 安全/隐私
-- Agent 编排
+- Agent 安全
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

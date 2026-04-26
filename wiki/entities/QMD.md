@@ -3,10 +3,12 @@ title: QMD
 type: entity
 tags:
 - 知识管理
-- 记忆系统
+- 长期记忆
+- RAG/检索
+- OpenClaw
 status: 审核中
 confidence: high
-last_compiled: '2026-04-24'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0e6bb996e5b14f478831ae26191a00ef
@@ -29,7 +31,7 @@ QMD 是 Tobias Lütke 推出的本地语义搜索引擎与 Agent 记忆后端，
 
 - [摘要：AI Agent的"海姆达尔计划"：让大模型看见代码的双眼](summaries/摘要：AI Agent的海姆达尔计划：让大模型看见代码的双眼.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI4MTc1Njg0MA%3D%3D&mid=2247486027&idx=1&sn=5044a57bef3d70a570db55273e382056&chksm=ea4fee508bee3d6d05240803fd1567e72c1dcc6d4a527b35a60dbca6b604e8a90021341f6c90#rd)）
 
-- 摘要：QMD：Shopify CEO 亲手做的本地语义搜索引擎，给 AI Agent 配上「精准导航」（[原文](https://x.com/shangdu2005/status/2031548027513745858)）
+- [摘要：QMD：Shopify CEO 亲手做的本地语义搜索引擎，给 AI Agent 配上「精准导航」](summaries/摘要：QMD：Shopify CEO 亲手做的本地语义搜索引擎，给 AI Agent 配上「精准导航」.md)（[原文](https://x.com/shangdu2005/status/2031548027513745858)）
 
 - [原文链接](https://x.com/ResearchWang/status/2034161775797801206)｜《OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南》｜来源条目：[摘要：OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南](summaries/摘要：OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南.md)
 

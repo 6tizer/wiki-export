@@ -2,9 +2,9 @@
 title: Constitutional AI
 type: concept
 tags:
-- LLM
-- 安全/隐私
-status: 草稿
+- AI 对齐
+- AI 政策
+status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''

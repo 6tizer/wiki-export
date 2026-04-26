@@ -6,7 +6,7 @@ tags:
 - Agent 框架
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-13'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/444910378d5b4e12a7a57e821496cc14
@@ -33,4 +33,4 @@ HarnessCode 是一个面向长时程 AI 驱动开发的开源框架，采用 Orc
 
 ## 来源引用
 
-- 《Ralph Loop：更轻量的 Harness Engineering 循环框架》｜X书签文章｜原文链接：[https://x.com/wayne_zhang0/status/2042874483606983079](https://x.com/wayne_zhang0/status/2042874483606983079)
+- [摘要：Ralph Loop：更轻量的 Harness Engineering 循环框架](summaries/摘要：Ralph Loop：更轻量的 Harness Engineering 循环框架.md)｜X书签文章｜原文链接：[https://x.com/wayne_zhang0/status/2042874483606983079](https://x.com/wayne_zhang0/status/2042874483606983079)

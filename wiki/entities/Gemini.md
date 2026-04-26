@@ -2,8 +2,9 @@
 title: Gemini
 type: entity
 tags:
-- LLM
 - 商业/生态
+- AI 产品
+- 算力基础设施
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

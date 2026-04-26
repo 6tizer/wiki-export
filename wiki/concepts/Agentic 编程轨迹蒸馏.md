@@ -2,11 +2,12 @@
 title: Agentic 编程轨迹蒸馏
 type: concept
 tags:
-- Coding Agent
-- LLM
-status: 草稿
+- 代码生成
+- 训练/微调
+- Agent 协作模式
+status: 审核中
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/38f6b502eed54df4bd23a701c8ca1560
@@ -27,4 +28,4 @@ Agentic 编程轨迹蒸馏是把强模型在真实编程任务中的操作序列
 
 ## 来源引用
 
-- 《OmniCoder-9B：把顶级 AI 的编程思路蒸馏进一张消费级显卡》｜X书签文章｜原文链接：[https://x.com/geekbb/status/2036777857494741066](https://x.com/geekbb/status/2036777857494741066)
+- [摘要：OmniCoder-9B：把顶级 AI 的编程思路蒸馏进一张消费级显卡](summaries/摘要：OmniCoder-9B：把顶级 AI 的编程思路蒸馏进一张消费级显卡.md)（X书签文章，原文链接：[https://x.com/geekbb/status/2036777857494741066](https://x.com/geekbb/status/2036777857494741066)）

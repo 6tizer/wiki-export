@@ -2,10 +2,11 @@
 title: Qwen3.6-35B-A3B
 type: entity
 tags:
-- Coding Agent
 - 多模态
 - 模型部署
+- 代码生成
 - AI 产品
+- 推理优化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-25'

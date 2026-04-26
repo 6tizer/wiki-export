@@ -6,7 +6,7 @@ tags:
 - 记忆系统
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/ab005533aacb4dc7b3b484ca8fe67969
@@ -29,11 +29,11 @@ notion_id: ab005533-aacb-4dc7-b3b4-84ca8fe67969
 
 - [原文链接](https://x.com/MindfulReturn/status/2030973631006904715)｜《OpenClaw 专家套件：给你的 AI 助手配上九位顶级顾问》｜来源条目：OpenClaw 专家套件：给你的 AI 助手配上九位顶级顾问
 
-- 《把 Agent 当新员工带：OpenClaw 深度使用心得》｜文章链接：[https://x.com/sitinme/status/2031210434246676555](https://x.com/sitinme/status/2031210434246676555)
+- [摘要：把 Agent 当新员工带：OpenClaw 深度使用心得](summaries/摘要：把 Agent 当新员工带：OpenClaw 深度使用心得.md)（文章链接：[https://x.com/sitinme/status/2031210434246676555](https://x.com/sitinme/status/2031210434246676555)）
 
 - [原文链接](https://x.com/0xKingsKuan/status/2032729079271817550)｜《OpenClaw 配置三原则：启动轻、分层严、记忆精》｜来源条目：[摘要：OpenClaw 配置三原则：启动轻、分层严、记忆精](summaries/摘要：OpenClaw 配置三原则：启动轻、分层严、记忆精.md)
 
-- 《OpenClaw 的「睡醒失忆」问题：用 [MEMORY.md](http://memory.md/) 和 [AGENTS.md](http://agents.md/) 让龙虾记住你》｜X书签文章｜原文链接：[https://x.com/YuLin807/status/2034515832286708007](https://x.com/YuLin807/status/2034515832286708007)
+- [摘要：OpenClaw 的「睡醒失忆」问题：用 MEMORY.md 和 AGENTS.md 让龙虾记住你](summaries/摘要：OpenClaw 的「睡醒失忆」问题：用 MEMORY.md 和 AGENTS.md 让龙虾记住你.md)（X书签文章｜原文链接：[https://x.com/YuLin807/status/2034515832286708007](https://x.com/YuLin807/status/2034515832286708007)）
 
 - 《clawchief：给 OpenClaw 装上“操作系统”，让 AI 真正替你跑一天》｜X书签文章｜原文链接：[https://x.com/AYi_AInotes/status/2040622308822483071](https://x.com/AYi_AInotes/status/2040622308822483071)｜来源条目：[摘要：clawchief：给 OpenClaw 装上“操作系统”，让 AI 真正替你跑一天](summaries/摘要：clawchief：给 OpenClaw 装上“操作系统”，让 AI 真正替你跑一天.md)
 

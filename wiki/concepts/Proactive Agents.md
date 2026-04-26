@@ -2,7 +2,9 @@
 title: Proactive Agents
 type: concept
 tags:
-- Agent 编排
+- Agent 协作模式
+- 长期记忆
+- OpenClaw
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

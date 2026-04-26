@@ -2,11 +2,12 @@
 title: 6551-twitter-to-binance-square
 type: entity
 tags:
-- Agent 技能
-- Crypto/DeFi
+- 社交媒体
+- 内容自动化
+- OpenClaw
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/820aa18639ce48d09e2e058a45a373e9
@@ -27,4 +28,4 @@ notion_id: 820aa186-39ce-48d0-9e2e-058a45a373e9
 
 ## 来源引用
 
-- 《6551-twitter-to-binance-square：用龙虾一句话同步推特到币安广场》
+- [摘要：6551-twitter-to-binance-square：用龙虾一句话同步推特到币安广场](summaries/摘要：6551-twitter-to-binance-square：用龙虾一句话同步推特到币安广场.md)

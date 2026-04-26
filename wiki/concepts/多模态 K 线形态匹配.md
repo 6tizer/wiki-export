@@ -2,11 +2,12 @@
 title: 多模态 K 线形态匹配
 type: concept
 tags:
-- Crypto/DeFi
-- LLM
-status: 草稿
+- 量化交易
+- 多模态
+- RAG/检索
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-25'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/23c0344aa6ea4d0ab8c85c1a236589ec
@@ -27,4 +28,4 @@ notion_id: 23c0344a-a6ea-4d0a-b8c8-5c1a236589ec
 
 ## 来源引用
 
-- 摘要：用多模态 Embedding 匹配 K 线形态（X书签）
+- [摘要：用多模态 Embedding 匹配 K 线形态：让 AI 把「刻舟求剑」玩出新高度](summaries/摘要：用多模态 Embedding 匹配 K 线形态：让 AI 把「刻舟求剑」玩出新高度.md)（X书签）

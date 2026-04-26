@@ -2,7 +2,7 @@
 title: 摘要：Loop, Think, & Generalize：循环深度 Transformer 的隐式推理
 type: summary
 tags:
-- LLM
+- 推理优化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

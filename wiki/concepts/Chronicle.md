@@ -2,10 +2,9 @@
 title: Chronicle
 type: concept
 tags:
-- 记忆系统
-- 长期记忆
 - 上下文管理
-- Coding Agent
+- 长期记忆
+- 知识管理
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

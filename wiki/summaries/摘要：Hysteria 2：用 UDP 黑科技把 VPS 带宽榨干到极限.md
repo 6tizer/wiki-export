@@ -6,7 +6,7 @@ tags:
 - 安全/隐私
 status: 已审核
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-26'
 source_tags: VPS, Hysteria2/HY2, 代理协议, 网络加速, UDP
 source_article_url: https://www.notion.so/33e701074b6881779dbcd06783b5a85b
 notion_url: https://www.notion.so/dcfeb7b2f5834e909d00ccf44f7c8f2a

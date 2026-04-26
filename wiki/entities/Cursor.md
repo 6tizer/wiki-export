@@ -3,7 +3,7 @@ title: Cursor
 type: entity
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
@@ -62,7 +62,7 @@ Cursor 是面向开发者的 AI 原生代码编辑器 / IDE 产品，核心价�
 
 - [Blackwell 200 GPU](entities/Blackwell 200 GPU.md)
 
-- [SOL-ExecBench](concepts/SOL-ExecBench.md)
+- [SOL-ExecBench](entities/SOL-ExecBench.md)
 
 - [CUDA 内核优化](concepts/CUDA 内核优化.md)
 

@@ -2,8 +2,9 @@
 title: Polling 抢消息
 type: concept
 tags:
-- 开发工具
-- Agent 编排
+- 社交媒体
+- Agent 协作模式
+- Agent 安全
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

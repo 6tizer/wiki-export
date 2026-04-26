@@ -4,7 +4,7 @@ type: concept
 tags:
 - Coding Agent
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
@@ -29,7 +29,7 @@ QwenWebBench 是面向网页任务与浏览器交互能力的评测基准，用�
 
 - [Qwen3.6-Max-Preview](entities/Qwen3.6-Max-Preview.md)
 
-- [Terminal-Bench 2.0](concepts/Terminal-Bench 2.0.md)
+- [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)
 
 ## 来源引用
 

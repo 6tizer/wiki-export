@@ -4,7 +4,7 @@ type: summary
 tags:
 - 知识管理
 - RAG/检索
-- AI 产品
+- 笔记工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-25'

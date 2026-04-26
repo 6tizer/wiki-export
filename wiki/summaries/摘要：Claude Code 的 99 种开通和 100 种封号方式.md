@@ -2,8 +2,9 @@
 title: 摘要：Claude Code 的 99 种开通和 100 种封号方式
 type: summary
 tags:
-- Coding Agent
-- 安全/隐私
+- Agent 安全
+- 浏览器自动化
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

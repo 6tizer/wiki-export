@@ -2,11 +2,12 @@
 title: System Prompt 泄露
 type: concept
 tags:
-- LLM
-- 安全/隐私
+- 提示工程
+- AI 产品
+- Agent 安全
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/06aaff4bc4c94441a07ac789b529464c
@@ -41,4 +42,4 @@ System Prompt 泄露是指通过提示注入、逆向分析或社区协作等方
 
 - [摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」](summaries/摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」.md)（[原文](https://x.com/elder_plinius/status/2045682830383231474)）
 
-- 《134k Star 的宝藏仓库：AI 编程工具的 System Prompt 全被扒出来了》（凡人小北，2026-03-05）
+- [摘要：134k Star 的宝藏仓库：AI 编程工具的 System Prompt 全被扒出来了](summaries/摘要：134k Star 的宝藏仓库：AI 编程工具的 System Prompt 全被扒出来了.md)（凡人小北，2026-03-05）

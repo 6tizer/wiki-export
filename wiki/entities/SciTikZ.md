@@ -2,8 +2,9 @@
 title: SciTikZ
 type: entity
 tags:
-- 内容创作
-- LLM
+- 代码生成
+- 图像生成
+- 训练/微调
 status: 审核中
 confidence: high
 last_compiled: '2026-04-18'

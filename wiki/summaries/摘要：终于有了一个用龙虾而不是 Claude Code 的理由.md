@@ -3,7 +3,8 @@ title: 摘要：终于有了一个用龙虾而不是 Claude Code 的理由
 type: summary
 tags:
 - OpenClaw
-- Agent 编排
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

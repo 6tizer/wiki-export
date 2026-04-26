@@ -3,7 +3,7 @@ title: Skill 变现
 type: concept
 tags:
 - 商业/生态
-- Agent 技能
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-17'

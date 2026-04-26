@@ -2,9 +2,9 @@
 title: Cloudflare Dynamic Workers
 type: entity
 tags:
-- 开发工具
-- 工作流
-- Agent 编排
+- Agent 协作模式
+- 代码生成
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'

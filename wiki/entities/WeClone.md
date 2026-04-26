@@ -2,8 +2,10 @@
 title: WeClone
 type: entity
 tags:
-- 记忆系统
-- 安全/隐私
+- 知识管理
+- 训练/微调
+- AI 产品
+- OpenClaw
 status: 草稿
 confidence: high
 last_compiled: '2026-04-15'

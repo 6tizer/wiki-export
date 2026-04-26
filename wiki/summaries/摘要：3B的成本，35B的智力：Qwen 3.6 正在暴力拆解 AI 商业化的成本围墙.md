@@ -2,8 +2,9 @@
 title: 摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙
 type: summary
 tags:
-- LLM
-- 开发工具
+- 商业/生态
+- 模型部署
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-25'

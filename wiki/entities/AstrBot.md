@@ -3,9 +3,9 @@ title: AstrBot
 type: entity
 tags:
 - Agent 框架
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
 notion_url: https://www.notion.so/aa57e5df73d24f18b80eac9139323257
@@ -26,4 +26,4 @@ AstrBot 是一个面向中文多平台聊天场景的 Agentic 机器人框架，
 
 ## 来源引用
 
-- 《一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析》— X书签，2026-03
+- [摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析](summaries/摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析.md)— X书签，2026-03

@@ -4,7 +4,6 @@ type: entity
 tags:
 - CLI 工具
 - 社交媒体
-- 知识管理
 - RAG/检索
 status: 审核中
 confidence: medium

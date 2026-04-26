@@ -2,8 +2,9 @@
 title: 摘要：Claude-Mem：让AI编程助手拥有跨会话持久记忆
 type: summary
 tags:
-- 记忆系统
-- Coding Agent
+- 知识管理
+- 长期记忆
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

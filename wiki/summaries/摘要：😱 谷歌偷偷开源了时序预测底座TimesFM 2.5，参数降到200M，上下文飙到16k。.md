@@ -2,9 +2,9 @@
 title: 摘要：😱 谷歌偷偷开源了时序预测底座TimesFM 2.5，参数降到200M，上下文飙到16k。
 type: summary
 tags:
+- 商业/生态
 - 训练/微调
-- 模型部署
-- AI 产品
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-21'

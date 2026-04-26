@@ -2,9 +2,9 @@
 title: AI Co-scientist
 type: entity
 tags:
-- Agent 框架
-- LLM
-status: 草稿
+- 知识管理
+- AI 产品
+status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''

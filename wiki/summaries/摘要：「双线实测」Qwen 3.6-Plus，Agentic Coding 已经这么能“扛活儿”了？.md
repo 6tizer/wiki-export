@@ -25,7 +25,7 @@ Qwen 3.6-Plus 的核心价值不只是编程分数更高，而是同时补足了
 
 - 在工程执行任务中，模型通过 [OpenCode](entities/OpenCode.md) 完成 AI TODO Board 的开发、测试、修复与高保真 UI 复刻，体现了较强的闭环交付能力。
 
-- 文章同时给出硬指标背书，包括 [Terminal-Bench 2.0](concepts/Terminal-Bench 2.0.md)、[Claw-Eval](concepts/Claw-Eval.md)、SWE-bench Verified 与价格对比，论证其在 Agentic Coding 上的综合竞争力。
+- 文章同时给出硬指标背书，包括 [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)、[Claw-Eval](entities/Claw-Eval.md)、SWE-bench Verified 与价格对比，论证其在 Agentic Coding 上的综合竞争力。
 
 - 作者也指出局限性，包括首字延迟、偶发循环输出、较严的频率限制，以及安全相关任务上的短板，说明其仍更适合聚焦特定高价值工作流而非全能替代。
 
@@ -39,9 +39,9 @@ Qwen 3.6-Plus 的核心价值不只是编程分数更高，而是同时补足了
 
 - [OpenCode](entities/OpenCode.md)
 
-- [Terminal-Bench 2.0](concepts/Terminal-Bench 2.0.md)
+- [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)
 
-- [Claw-Eval](concepts/Claw-Eval.md)
+- [Claw-Eval](entities/Claw-Eval.md)
 
 - [参数效率](concepts/参数效率.md)
 

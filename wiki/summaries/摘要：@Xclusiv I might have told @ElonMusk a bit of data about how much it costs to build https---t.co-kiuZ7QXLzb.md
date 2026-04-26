@@ -3,8 +3,9 @@ title: 摘要：@Xclusiv I might have told @ElonMusk a bit of data about how muc
   to build https://t.co/kiuZ7QXLzb
 type: summary
 tags:
-- LLM
+- 社交媒体
 - 商业/生态
+- AI 产品
 status: 已审核
 confidence: low
 last_compiled: '2026-04-20'

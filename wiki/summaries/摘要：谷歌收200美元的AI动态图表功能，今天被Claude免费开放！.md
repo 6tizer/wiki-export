@@ -2,8 +2,12 @@
 title: 摘要：谷歌收200美元的AI动态图表功能，今天被Claude免费开放！
 type: summary
 tags:
-- AI 设计
+- 知识管理
+- 内容自动化
+- 多模态
 - AI 产品
+- 笔记工具
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

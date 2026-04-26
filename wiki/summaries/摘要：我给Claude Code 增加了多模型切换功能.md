@@ -2,8 +2,8 @@
 title: 摘要：我给Claude Code 增加了多模型切换功能
 type: summary
 tags:
-- Coding Agent
-- 开发工具
+- CLI 工具
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

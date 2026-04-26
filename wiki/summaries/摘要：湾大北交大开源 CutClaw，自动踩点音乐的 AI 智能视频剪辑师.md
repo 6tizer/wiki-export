@@ -2,11 +2,12 @@
 title: 摘要：湾大北交大开源 CutClaw，自动踩点音乐的 AI 智能视频剪辑师
 type: summary
 tags:
-- 内容创作
 - OpenClaw
+- 视频/3D
+- 内容自动化
 status: 已审核
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
 notion_url: https://www.notion.so/7d78308aba3e45d0bde67da1eca3a150

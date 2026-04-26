@@ -2,8 +2,10 @@
 title: 摘要：目前用过最好用的Hermes WebUI，把会话管理、工作区文件浏览、自动化任务、长期记忆、多Profiles 等常用能力都搬进了浏览器
 type: summary
 tags:
-- Agent 框架
-- 记忆系统
+- 知识管理
+- 长期记忆
+- 浏览器自动化
+- AI 产品
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'

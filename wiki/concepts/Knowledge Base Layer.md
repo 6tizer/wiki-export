@@ -3,8 +3,9 @@ title: Knowledge Base Layer
 type: concept
 tags:
 - 知识管理
-- 记忆系统
-status: 草稿
+- 长期记忆
+- RAG/检索
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''

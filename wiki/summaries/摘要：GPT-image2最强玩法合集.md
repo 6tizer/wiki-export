@@ -2,8 +2,9 @@
 title: 摘要：GPT-image2最强玩法合集
 type: summary
 tags:
-- 内容创作
-- LLM
+- 内容自动化
+- AI 设计
+- 多模态
 status: 已审核
 confidence: low
 last_compiled: '2026-04-20'

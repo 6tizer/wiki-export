@@ -2,7 +2,9 @@
 title: Polymarket Analytics
 type: concept
 tags:
-- Crypto/DeFi
+- 量化交易
+- 加密资产
+- 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

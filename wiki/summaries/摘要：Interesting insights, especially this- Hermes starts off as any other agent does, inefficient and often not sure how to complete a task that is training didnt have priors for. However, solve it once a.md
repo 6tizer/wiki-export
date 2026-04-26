@@ -4,8 +4,10 @@ title: '摘要：Interesting insights, especially this: Hermes starts off as any
   have priors for. However, solve it once a'
 type: summary
 tags:
-- Agent 框架
-- Agent 编排
+- 知识管理
+- 上下文管理
+- 长期记忆
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

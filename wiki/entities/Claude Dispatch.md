@@ -2,8 +2,9 @@
 title: Claude Dispatch
 type: entity
 tags:
-- Agent 框架
-- 工作流
+- Agent 协作模式
+- 上下文管理
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-25'

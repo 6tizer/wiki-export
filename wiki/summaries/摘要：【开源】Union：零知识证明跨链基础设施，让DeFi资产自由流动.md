@@ -2,8 +2,8 @@
 title: 摘要：【开源】Union：零知识证明跨链基础设施，让DeFi资产自由流动
 type: summary
 tags:
-- Crypto/DeFi
-- 安全/隐私
+- 链上协议
+- 算力基础设施
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

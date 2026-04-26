@@ -2,7 +2,7 @@
 title: 摘要：Remnawave：比 3x-ui 更现代的代理面板，俄罗斯团队打造的全自动化管理方案
 type: summary
 tags:
-- 开发工具
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

@@ -2,11 +2,11 @@
 title: Evolver
 type: entity
 tags:
-- Agent 编排
-- 商业/生态
+- Agent 协作模式
+- AI 产品
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0227ac105bed42398476edcbe6281e7c
@@ -35,7 +35,7 @@ Evolver 是 EvoMap 推出的 Agent 自进化引擎，强调通过可继承、可
 
 - [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)（[原文](https://x.com/RoundtableSpace/status/2045906520672461309)）
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652692364&idx=1&sn=806ef08f63d5bf567d421f8808528c22&chksm=f047438bdb7b8b7734f13ec8b0c731b8c3a0085d501b9d6454c92b66b5d973bec5e7bce653ea#rd)｜《Hermes Agent抄袭中国团队代码实锤！被锤后回应：你删号》
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652692364&idx=1&sn=806ef08f63d5bf567d421f8808528c22&chksm=f047438bdb7b8b7734f13ec8b0c731b8c3a0085d501b9d6454c92b66b5d973bec5e7bce653ea#rd)｜来源条目：[摘要：Hermes Agent抄袭中国团队代码实锤！被锤后回应：你删号](summaries/摘要：Hermes Agent抄袭中国团队代码实锤！被锤后回应：你删号.md)
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506451&idx=1&sn=aec841a1c8c8ec2a99d64536babf7eae&chksm=cf1f5a4baf411e277ea71f2add117a204ea05d54a3884c6c63f8d79ec931d7d3a48694ae7f43#rd)｜《妈耶 HermesAgent直播回应抄没抄国内开发者》｜来源条目：[摘要：妈耶 HermesAgent直播回应抄没抄国内开发者](summaries/摘要：妈耶 HermesAgent直播回应抄没抄国内开发者.md)
 

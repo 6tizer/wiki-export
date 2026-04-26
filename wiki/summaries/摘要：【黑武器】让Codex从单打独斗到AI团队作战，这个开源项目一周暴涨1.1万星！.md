@@ -2,8 +2,11 @@
 title: 摘要：【黑武器】让Codex从单打独斗到AI团队作战，这个开源项目一周暴涨1.1万星！
 type: summary
 tags:
-- Coding Agent
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
+- CLI 工具
+- 上下文管理
+- 长期记忆
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

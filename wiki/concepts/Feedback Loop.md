@@ -2,8 +2,8 @@
 title: Feedback Loop
 type: concept
 tags:
-- 内容创作
-- 工作流
+- 社交媒体
+- 内容自动化
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-18'

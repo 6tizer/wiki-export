@@ -2,8 +2,8 @@
 title: AX Tree
 type: concept
 tags:
-- 记忆系统
-- 开发工具
+- 知识管理
+- 上下文管理
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'

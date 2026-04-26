@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/1324448195bc4d39adb1fefdd5780050
@@ -49,4 +49,4 @@ docker compose watch
 
 ## 来源引用
 
-- Agent Service Toolkit：用 LangGraph + FastAPI + Streamlit 快速搭建生产级 AI Agent 服务
+- [摘要：Agent Service Toolkit：用 LangGraph + FastAPI + Streamlit 快速搭建生产级 AI Agent 服务](summaries/摘要：Agent Service Toolkit：用 LangGraph + FastAPI + Streamlit 快速搭建生产级 AI Agent 服务.md)

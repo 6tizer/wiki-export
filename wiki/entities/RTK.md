@@ -2,9 +2,10 @@
 title: RTK
 type: entity
 tags:
-- Coding Agent
-- 开发工具
-status: 草稿
+- CLI 工具
+- 内容自动化
+- 上下文管理
+status: 审核中
 confidence: high
 last_compiled: '2026-04-21'
 source_tags: ''

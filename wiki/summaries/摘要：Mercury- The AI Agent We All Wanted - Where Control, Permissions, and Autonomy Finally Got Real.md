@@ -3,8 +3,9 @@ title: '摘要：Mercury: The AI Agent We All Wanted - Where Control, Permission
   Finally Got Real'
 type: summary
 tags:
-- Agent 框架
-- Coding Agent
+- CLI 工具
+- Agent 安全
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

@@ -2,8 +2,8 @@
 title: SkVM
 type: entity
 tags:
-- Agent 技能
-- Agent 编排
+- Harness 工程
+- Agent 协作模式
 status: 草稿
 confidence: high
 last_compiled: '2026-04-26'

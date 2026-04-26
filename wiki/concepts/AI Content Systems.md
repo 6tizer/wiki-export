@@ -2,8 +2,8 @@
 title: AI Content Systems
 type: concept
 tags:
-- 内容创作
-- 工作流
+- 内容自动化
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

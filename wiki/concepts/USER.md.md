@@ -2,11 +2,12 @@
 title: USER.md
 type: concept
 tags:
-- Agent 框架
-- 记忆系统
-status: 草稿
+- 知识管理
+- 上下文管理
+- 笔记工具
+status: 审核中
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/b0edc66f3ba74442be46f99019fb6d63
@@ -29,7 +30,7 @@ notion_id: b0edc66f-3ba7-4442-be46-f99019fb6d63
 
 ## 来源引用
 
-- 源文章页面：[Hermes 核心文档架构详尽分析与优化方案指南](https://www.notion.so/344701074b68807e9b52f789052e139c)
+- [摘要：Hermes 核心文档架构详尽分析与优化方案指南](summaries/摘要：Hermes 核心文档架构详尽分析与优化方案指南.md)（源文章页面：[Hermes 核心文档架构详尽分析与优化方案指南](https://www.notion.so/344701074b68807e9b52f789052e139c)）
 
 ## 关联概念
 

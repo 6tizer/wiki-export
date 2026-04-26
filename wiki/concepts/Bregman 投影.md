@@ -2,6 +2,7 @@
 title: Bregman 投影
 type: concept
 tags:
+- 量化交易
 - 推理优化
 status: 审核中
 confidence: high

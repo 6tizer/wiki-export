@@ -2,8 +2,9 @@
 title: TinyAgentOS
 type: entity
 tags:
-- Agent 框架
-- 开发工具
+- Agent 协作模式
+- 多Agent协作
+- 算力基础设施
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

@@ -2,7 +2,9 @@
 title: OpenCode
 type: entity
 tags:
-- Coding Agent
+- AI 产品
+- 模型评测
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

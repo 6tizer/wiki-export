@@ -2,11 +2,12 @@
 title: Quant Agent 框架
 type: concept
 tags:
-- Agent 框架
-- 工作流
+- 量化交易
+- 知识管理
+- 长期记忆
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/4f6353fd2db14a3e93561cf5f627e2ed
@@ -27,7 +28,7 @@ notion_id: 4f6353fd-2db1-4a3e-9356-1cf5f627e2ed
 
 ### 来源引用
 
-- 《AI-Native 量化框架：不是 LLM 因子挖掘，而是研究操作系统》
+- [摘要：AI-Native 量化框架：不是 LLM 因子挖掘，而是研究操作系统](summaries/摘要：AI-Native 量化框架：不是 LLM 因子挖掘，而是研究操作系统.md)
 
 - 作者：QuantML
 

@@ -2,8 +2,11 @@
 title: 摘要：用了这么久 Claude Code，很多人都在研究 CLAUDE.md、Hooks、Sub-Agent，但其实它 GitHub 仓库里还藏着一批官方插件，很多人根本没注意到。
 type: summary
 tags:
-- Coding Agent
-- Agent 技能
+- Agent 协作模式
+- 内容自动化
+- 多Agent协作
+- CLI 工具
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

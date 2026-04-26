@@ -4,7 +4,7 @@ type: entity
 tags:
 - Agent 技能
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''

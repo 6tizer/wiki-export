@@ -2,8 +2,8 @@
 title: Subagents 并行
 type: concept
 tags:
+- Agent 协作模式
 - 多Agent协作
-- Agent 编排
 - OpenClaw
 status: 审核中
 confidence: medium

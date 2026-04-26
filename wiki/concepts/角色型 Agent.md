@@ -2,8 +2,7 @@
 title: 角色型 Agent
 type: concept
 tags:
-- Agent 编排
-- Coding Agent
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

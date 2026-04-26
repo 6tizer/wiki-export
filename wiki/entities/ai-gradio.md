@@ -5,7 +5,7 @@ tags:
 - 开发工具
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/1bdda8786b644d33b318ce8c83b91d96
@@ -53,4 +53,4 @@ gr.load(
 
 ## 来源引用
 
-- ai-gradio：用几行 Python 代码，接入 15+ AI 大模型并搭建可视化应用
+- [摘要：ai-gradio：用几行 Python 代码，接入 15+ AI 大模型并搭建可视化应用](summaries/摘要：ai-gradio：用几行 Python 代码，接入 15+ AI 大模型并搭建可视化应用.md)

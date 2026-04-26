@@ -3,10 +3,11 @@ title: Awesome OpenClaw Agents
 type: entity
 tags:
 - OpenClaw
-- Agent 框架
-status: 草稿
+- Agent 协作模式
+- 商业/生态
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/69ddc63403c24e26bb964a7cecbb42ed
@@ -27,4 +28,4 @@ Awesome OpenClaw Agents 是一个围绕 OpenClaw 的生产级 Agent 模板库，
 
 ## 来源引用
 
-- [原文链接](https://x.com/GitHub_Daily/status/2034170507625697545)｜《Awesome OpenClaw Agents：187 个开箱即用的生产级 AI Agent 模板库》
+- [摘要：Awesome OpenClaw Agents：187 个开箱即用的生产级 AI Agent 模板库](summaries/摘要：Awesome OpenClaw Agents：187 个开箱即用的生产级 AI Agent 模板库.md)（[原文链接](https://x.com/GitHub_Daily/status/2034170507625697545)）

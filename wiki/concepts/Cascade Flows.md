@@ -2,9 +2,10 @@
 title: Cascade Flows
 type: concept
 tags:
-- Coding Agent
-- Agent 编排
-status: 草稿
+- Agent 协作模式
+- 多Agent协作
+- 内容自动化
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''

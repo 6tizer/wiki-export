@@ -2,8 +2,8 @@
 title: Hermes Agent Self-Evolution
 type: entity
 tags:
-- Coding Agent
-- Agent 编排
+- Harness 工程
+- Agent 安全
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

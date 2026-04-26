@@ -2,7 +2,7 @@
 title: 摘要：跌破100美元，Strategy的买币“永动机”卡壳了
 type: summary
 tags:
-- Crypto/DeFi
+- 加密资产
 - 商业/生态
 status: 已审核
 confidence: medium

@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/a46ed5316b144401971354dd07196038
@@ -28,7 +28,7 @@ Artifact 是 Codex 内置的可视化产物工作区，用来直接预览生成�
 
 ## 来源引用
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA%3D%3D&mid=2247496517&idx=1&sn=d44a3ec92036cdd1c4b08d57f581f4e2&chksm=fa29fb0bb3df650b0f59072f68108d15c3ba7bef33636218b5cd36107aa8e18f137b62fb214b#rd)｜《没等来 Image 模型，等来了 Codex 大升级。》｜源文章页：没等来 Image 模型，等来了 Codex 大升级。
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA%3D%3D&mid=2247496517&idx=1&sn=d44a3ec92036cdd1c4b08d57f581f4e2&chksm=fa29fb0bb3df650b0f59072f68108d15c3ba7bef33636218b5cd36107aa8e18f137b62fb214b#rd)｜[摘要：没等来 Image 模型，等来了 Codex 大升级。](summaries/摘要：没等来 Image 模型，等来了 Codex 大升级。.md)｜源文章页：没等来 Image 模型，等来了 Codex 大升级。
 
 ## 关联概念
 

@@ -2,8 +2,9 @@
 title: 自我进化 Agent
 type: concept
 tags:
-- 记忆系统
-- Agent 编排
+- 知识管理
+- 长期记忆
+- 训练/微调
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'

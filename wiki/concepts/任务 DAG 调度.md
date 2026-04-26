@@ -2,7 +2,8 @@
 title: 任务 DAG 调度
 type: concept
 tags:
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

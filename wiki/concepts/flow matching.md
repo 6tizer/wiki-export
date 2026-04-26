@@ -1,8 +1,7 @@
 ---
 title: flow matching
 type: concept
-tags:
-- LLM
+tags: []
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-17'

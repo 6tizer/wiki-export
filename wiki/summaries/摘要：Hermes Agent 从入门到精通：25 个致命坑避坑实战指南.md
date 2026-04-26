@@ -2,11 +2,10 @@
 title: 摘要：Hermes Agent 从入门到精通：25 个致命坑避坑实战指南
 type: summary
 tags:
-- 记忆系统
-- 长期记忆
-- 上下文管理
 - 多Agent协作
-- Agent 框架
+- 上下文管理
+- 长期记忆
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

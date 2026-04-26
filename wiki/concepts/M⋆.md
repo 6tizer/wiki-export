@@ -2,8 +2,9 @@
 title: M⋆
 type: concept
 tags:
+- 长期记忆
+- Harness 工程
 - 记忆系统
-- Agent 编排
 status: 草稿
 confidence: high
 last_compiled: '2026-04-25'

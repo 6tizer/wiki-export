@@ -2,8 +2,9 @@
 title: 摘要：Hermes Agent Creative Hackathon 正式启动
 type: summary
 tags:
-- Agent 框架
-- 内容创作
+- 内容自动化
+- 长期记忆
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

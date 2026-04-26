@@ -2,9 +2,9 @@
 title: automation-workflows
 type: entity
 tags:
-- 工作流
-- Agent 编排
-- Agent 技能
+- 内容自动化
+- Agent 协作模式
+- OpenClaw
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-25'

@@ -2,7 +2,8 @@
 title: Durable Objects
 type: entity
 tags:
-- 开发工具
+- 上下文管理
+- 算力基础设施
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

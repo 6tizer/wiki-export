@@ -2,8 +2,8 @@
 title: Anthropic API
 type: entity
 tags:
-- LLM
-- Agent 技能
+- AI 产品
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

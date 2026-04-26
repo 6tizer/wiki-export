@@ -2,8 +2,10 @@
 title: AI 优先视频工作流
 type: concept
 tags:
-- 内容创作
-- 工作流
+- 内容自动化
+- 视频/3D
+- 代码生成
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

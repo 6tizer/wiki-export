@@ -2,8 +2,9 @@
 title: 摘要：接入拓竹只是开始，AI 3D 赛道第一个盈利样本长什么样
 type: summary
 tags:
-- 内容创作
+- 视频/3D
 - 商业/生态
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

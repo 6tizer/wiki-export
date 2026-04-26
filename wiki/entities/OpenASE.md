@@ -6,7 +6,7 @@ tags:
 - Agent 框架
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-13'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/d128d7a90b2940f5b70243d128b5edfc
@@ -33,4 +33,4 @@ OpenASE 是一个以工单驱动的软件工程自动化平台，通过工作流
 
 ## 来源引用
 
-- 《Ralph Loop：更轻量的 Harness Engineering 循环框架》｜X书签文章｜原文链接：[https://x.com/wayne_zhang0/status/2042874483606983079](https://x.com/wayne_zhang0/status/2042874483606983079)
+- [摘要：Ralph Loop：更轻量的 Harness Engineering 循环框架](summaries/摘要：Ralph Loop：更轻量的 Harness Engineering 循环框架.md)｜X书签文章｜原文链接：[https://x.com/wayne_zhang0/status/2042874483606983079](https://x.com/wayne_zhang0/status/2042874483606983079)

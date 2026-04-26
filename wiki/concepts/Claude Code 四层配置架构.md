@@ -2,11 +2,11 @@
 title: Claude Code 四层配置架构
 type: concept
 tags:
-- Coding Agent
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
 status: 审核中
 confidence: high
-last_compiled: '2026-04-13'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8810ea41e9724fac8205c2cf268544db
@@ -31,7 +31,7 @@ Claude Code 四层配置架构，指把 Claude Code 的工程化使用拆分为 
 
 ## 来源引用
 
-- 《154K Star！Anthropic黑客松冠军的Claude Code配置大公开》
+- [摘要：154K Star！Anthropic黑客松冠军的Claude Code配置大公开](summaries/摘要：154K Star！Anthropic黑客松冠军的Claude Code配置大公开.md)
 
   - 来源文章页面：154K Star！Anthropic黑客松冠军的Claude Code配置大公开
 

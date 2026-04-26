@@ -2,8 +2,8 @@
 title: 摘要：用 Markdown 写公众号文章，像发朋友圈一样简单
 type: summary
 tags:
-- 内容创作
-- Coding Agent
+- 内容自动化
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

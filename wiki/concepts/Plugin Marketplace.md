@@ -2,8 +2,10 @@
 title: Plugin Marketplace
 type: concept
 tags:
-- Agent 技能
-status: 草稿
+- 商业/生态
+- AI 产品
+- OpenClaw
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''

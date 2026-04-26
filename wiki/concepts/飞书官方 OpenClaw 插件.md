@@ -5,7 +5,7 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/7ae23b9889974d189f8e8c48035cf9f5
@@ -28,7 +28,7 @@ notion_id: 7ae23b98-8997-4d18-9f8e-8c48035cf9f5
 
 ## 来源引用
 
-- 《飞书官方出手：OpenClaw 插件免费额度直升 100 万次，AI 助手终于能「亲自动手」了》（RocM301，2026-04-01）— 介绍了官方插件的能力升级与部署流程
+- [摘要：飞书官方出手：OpenClaw 插件免费额度直升 100 万次，AI 助手终于能「亲自动手」了](summaries/摘要：飞书官方出手：OpenClaw 插件免费额度直升 100 万次，AI 助手终于能「亲自动手」了.md)（RocM301，2026-04-01）— 介绍了官方插件的能力升级与部署流程
 
 ## 关联概念
 

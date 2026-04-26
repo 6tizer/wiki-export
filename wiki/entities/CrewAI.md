@@ -5,7 +5,7 @@ tags:
 - Agent 框架
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0d5a9c766ada4f4e9f828ad669873394
@@ -36,6 +36,6 @@ CrewAI 是由 João Moura（@joaomdmoura）创立的多 Agent 协作框架，提
 
 - [摘要：10 Github repos that replace $855/month of paid AI tools](summaries/摘要：10 Github repos that replace $855-month of paid AI tools.md)（[原文](https://x.com/DeRonin_/status/2046903404279009472)）
 
-- 2025 年 AI Agent 生态全景图：框架、启动板、明星 Agent 与顶级 Builder
+- [摘要：2025 年 AI Agent 生态全景图：框架、启动板、明星 Agent 与顶级 Builder](summaries/摘要：2025 年 AI Agent 生态全景图：框架、启动板、明星 Agent 与顶级 Builder.md)
 
-- Web3 AI Agent 的真相：大多数都是 Vercel AI SDK 的外壳
+- [摘要：Web3 AI Agent 的真相：大多数都是 Vercel AI SDK 的外壳](summaries/摘要：Web3 AI Agent 的真相：大多数都是 Vercel AI SDK 的外壳.md)

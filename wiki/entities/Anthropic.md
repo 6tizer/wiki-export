@@ -2,6 +2,8 @@
 title: Anthropic
 type: entity
 tags:
+- AI 对齐
+- AI 产品
 - 商业/生态
 status: 审核中
 confidence: high

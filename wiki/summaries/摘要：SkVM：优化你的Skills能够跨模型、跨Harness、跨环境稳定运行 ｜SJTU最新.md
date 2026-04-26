@@ -2,8 +2,10 @@
 title: 摘要：SkVM：优化你的Skills能够跨模型、跨Harness、跨环境稳定运行 ｜SJTU最新
 type: summary
 tags:
-- Agent 技能
-- Agent 编排
+- Harness 工程
+- 推理优化
+- 内容自动化
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

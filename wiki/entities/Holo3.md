@@ -2,6 +2,7 @@
 title: Holo3
 type: entity
 tags:
+- 多模态
 - AI 产品
 status: 审核中
 confidence: high

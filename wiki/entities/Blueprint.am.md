@@ -2,7 +2,9 @@
 title: Blueprint.am
 type: entity
 tags:
-- 开发工具
+- AI 设计
+- AI 产品
+- 提示工程
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

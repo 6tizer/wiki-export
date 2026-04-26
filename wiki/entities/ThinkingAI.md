@@ -2,8 +2,9 @@
 title: ThinkingAI
 type: entity
 tags:
-- Agent 框架
+- AI 产品
 - 商业/生态
+- 模型部署
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-17'

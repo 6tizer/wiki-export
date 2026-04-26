@@ -2,8 +2,7 @@
 title: 摘要：Kelp DAO 漏洞深度复盘：揭秘 LayerZero 幽灵消息攻击
 type: summary
 tags:
-- Crypto/DeFi
-- 安全/隐私
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

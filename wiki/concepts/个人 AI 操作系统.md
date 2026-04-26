@@ -2,8 +2,9 @@
 title: 个人 AI 操作系统
 type: concept
 tags:
-- Agent 框架
-- OpenClaw
+- AI 产品
+- Agent 协作模式
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-19'

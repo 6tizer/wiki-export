@@ -2,8 +2,10 @@
 title: 静态住宅 IP
 type: concept
 tags:
-- 安全/隐私
-status: 草稿
+- 内容自动化
+- 浏览器自动化
+- AI 产品
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''

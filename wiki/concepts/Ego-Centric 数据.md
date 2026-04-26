@@ -2,8 +2,8 @@
 title: Ego-Centric 数据
 type: concept
 tags:
-- LLM
-status: 草稿
+- 多模态
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''

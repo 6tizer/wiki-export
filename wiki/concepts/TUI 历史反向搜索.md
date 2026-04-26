@@ -2,11 +2,12 @@
 title: TUI 历史反向搜索
 type: concept
 tags:
-- Coding Agent
-- 开发工具
-status: 草稿
+- CLI 工具
+- 上下文管理
+- 知识管理
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/2dd830994edf411089b58ba4883126ea
@@ -27,7 +28,7 @@ TUI 历史反向搜索 是终端式交互界面中的一种检索能力，允许
 
 ## 来源引用
 
-- [原文链接](https://x.com/Codex_Changelog/status/2044526487119007827)｜《Sign in with ChatGPT》
+- [摘要：Sign in with ChatGPT](summaries/摘要：Sign in with ChatGPT.md)（[原文链接](https://x.com/Codex_Changelog/status/2044526487119007827)）
 
 ## 关联概念
 

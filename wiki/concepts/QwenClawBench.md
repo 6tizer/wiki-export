@@ -30,7 +30,7 @@ QwenClawBench 是用于评估模型在更贴近智能体编程任务中的表现
 
 - [SWE-bench Pro](concepts/SWE-bench Pro.md)
 
-- [Terminal-Bench 2.0](concepts/Terminal-Bench 2.0.md)
+- [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)
 
 ## 来源引用
 

@@ -2,8 +2,9 @@
 title: 摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。
 type: summary
 tags:
-- 内容创作
-- 工作流
+- AI 设计
+- 图像生成
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

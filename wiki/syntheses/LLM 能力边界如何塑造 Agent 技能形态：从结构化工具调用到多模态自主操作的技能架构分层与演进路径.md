@@ -57,7 +57,7 @@ notion_id: fb9c9c53-e2a4-499d-bc7a-0cb799592f68
 
 这四个特性的共同方向是：**让 LLM 从「被动路由」转向「主动编排」**。模型不再只是选择调用哪个工具，而是自己编写编排逻辑——这模糊了「技能定义」与「技能执行」的边界。
 
-[web fetch](concepts/web fetch.md) 提供了一个有力的反例：看似最简单的网页抓取技能，实际是 Token 成本最高的操作之一。大页面和 PDF 会显著抬高上下文成本。这说明 **L1 层的成本问题不会因为 L2 的出现而消失**——Programmatic Tool Calling 和 Dynamic Filtering 正是为了解决 web fetch 这类高成本技能的效率问题。
+web fetch 提供了一个有力的反例：看似最简单的网页抓取技能，实际是 Token 成本最高的操作之一。大页面和 PDF 会显著抬高上下文成本。这说明 **L1 层的成本问题不会因为 L2 的出现而消失**——Programmatic Tool Calling 和 Dynamic Filtering 正是为了解决 web fetch 这类高成本技能的效率问题。
 
 ### 三、L2 → L3 的跃迁：从代码执行到多模态操作
 
@@ -119,7 +119,7 @@ notion_id: fb9c9c53-e2a4-499d-bc7a-0cb799592f68
 
 ### 概念词条（Agent 技能 × LLM 交叉标签）
 
-[web fetch](concepts/web fetch.md) · [Tool Calling 2.0](entities/Tool Calling 2.0.md) · [Auxiliary 副驾模型](concepts/Auxiliary 副驾模型.md) · [GUI-VLA](concepts/GUI-VLA.md) · [Mano-Action 双向自增强学习框架](concepts/Mano-Action 双向自增强学习框架.md) · [Agentic Vision](concepts/Agentic Vision.md) · [仪表读数识别](concepts/仪表读数识别.md) · [Tool Calling](concepts/Tool Calling.md) · [Chat Template](concepts/Chat Template.md)
+web fetch · [Tool Calling 2.0](entities/Tool Calling 2.0.md) · [Auxiliary 副驾模型](concepts/Auxiliary 副驾模型.md) · [GUI-VLA](concepts/GUI-VLA.md) · [Mano-Action 双向自增强学习框架](concepts/Mano-Action 双向自增强学习框架.md) · [Agentic Vision](concepts/Agentic Vision.md) · [仪表读数识别](concepts/仪表读数识别.md) · [Tool Calling](concepts/Tool Calling.md) · [Chat Template](concepts/Chat Template.md)
 
 ### 相关概念词条（补充材料）
 

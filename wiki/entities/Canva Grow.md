@@ -2,8 +2,9 @@
 title: Canva Grow
 type: entity
 tags:
-- 内容创作
-- 工作流
+- 商业/生态
+- AI 产品
+- 内容自动化
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-17'

@@ -2,8 +2,9 @@
 title: 摘要：OpenAI Agents SDK：三个原语，搭出你的多 Agent 系统
 type: summary
 tags:
-- Agent 框架
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

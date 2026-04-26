@@ -3,7 +3,8 @@ title: Diarization
 type: concept
 tags:
 - 知识管理
-- Agent 编排
+- 上下文管理
+- RAG/检索
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

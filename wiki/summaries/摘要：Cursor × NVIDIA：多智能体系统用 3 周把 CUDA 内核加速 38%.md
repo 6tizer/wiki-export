@@ -39,7 +39,7 @@ Cursor 与 NVIDIA 展示了一个可长期运行的多智能体软件系统，�
 
 - [Blackwell 200 GPU](entities/Blackwell 200 GPU.md)
 
-- [SOL-ExecBench](concepts/SOL-ExecBench.md)
+- [SOL-ExecBench](entities/SOL-ExecBench.md)
 
 - [CUDA 内核优化](concepts/CUDA 内核优化.md)
 

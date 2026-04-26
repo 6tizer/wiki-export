@@ -2,8 +2,8 @@
 title: Session Token 机制
 type: concept
 tags:
-- 开发工具
-- 安全/隐私
+- 身份准入
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

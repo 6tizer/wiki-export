@@ -35,7 +35,7 @@ OpenAI 推出 GPT-Rosalind，正把“生命科学专用推理模型 + 科研工
 
 - [Life Sciences Research Plugin](entities/Life Sciences Research Plugin.md)
 
-- [BixBench](concepts/BixBench.md)
+- [BixBench](entities/BixBench.md)
 
 - [LABBench2](concepts/LABBench2.md)
 

@@ -2,8 +2,9 @@
 title: EverCore
 type: concept
 tags:
-- 记忆系统
-- Agent 框架
+- 知识管理
+- 长期记忆
+- RAG/检索
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

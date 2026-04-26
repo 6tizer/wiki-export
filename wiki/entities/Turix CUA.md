@@ -3,10 +3,8 @@ title: Turix CUA
 type: entity
 tags:
 - OpenClaw
-- Agent 技能
-- Agent 编排
-- 工作流
-- Agent 框架
+- Agent 协作模式
+- 内容自动化
 status: 草稿
 confidence: high
 last_compiled: '2026-04-26'

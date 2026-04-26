@@ -2,8 +2,9 @@
 title: caveman
 type: entity
 tags:
-- Coding Agent
-- Agent 技能
+- CLI 工具
+- IDE 集成
+- 内容自动化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-21'

@@ -2,9 +2,10 @@
 title: LLM 投研工作流
 type: concept
 tags:
-- 工作流
+- 知识管理
+- 内容自动化
 - RAG/检索
-- 内容创作
+- 提示工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

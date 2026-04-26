@@ -2,8 +2,9 @@
 title: 摘要：Vibecoding Sucks & Long Running Frameworks are Boring
 type: summary
 tags:
-- Coding Agent
-- 工作流
+- 知识管理
+- 提示工程
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'

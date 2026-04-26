@@ -2,8 +2,10 @@
 title: 摘要：本周增长最快的 GitHub 仓库：
 type: summary
 tags:
-- Coding Agent
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
+- 长期记忆
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-20'

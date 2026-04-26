@@ -2,8 +2,9 @@
 title: token效率
 type: concept
 tags:
-- LLM
-- 商业/生态
+- 推理优化
+- 上下文管理
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

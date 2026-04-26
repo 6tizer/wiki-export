@@ -5,7 +5,7 @@ tags:
 - Crypto/DeFi
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/4f258a5450834936af24ee2552a01a4a
@@ -28,6 +28,6 @@ Nunchi 是一个围绕 Hyperliquid 等链上交易场景构建的量化交易产
 
 - [文章链接](https://x.com/xincctnnq/status/2032772661722624497)｜《Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP》｜来源条目：Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP
 
-- 《Nunchi agent-cli：让 AI 在 Hyperliquid 上自主交易的开源全栈方案》｜X书签文章｜原文链接：[https://x.com/maid_crypto/status/2034493385344765966](https://x.com/maid_crypto/status/2034493385344765966)
+- [摘要：Nunchi agent-cli：让 AI 在 Hyperliquid 上自主交易的开源全栈方案](summaries/摘要：Nunchi agent-cli：让 AI 在 Hyperliquid 上自主交易的开源全栈方案.md)｜X书签文章｜原文链接：[https://x.com/maid_crypto/status/2034493385344765966](https://x.com/maid_crypto/status/2034493385344765966)
 
-- 《Nunchi agent-cli：让 AI 在 Hyperliquid 上自主交易的开源全栈方案》｜X书签文章｜原文链接：[https://x.com/maid_crypto/status/2034493385344765966](https://x.com/maid_crypto/status/2034493385344765966)
+- [摘要：Nunchi agent-cli：让 AI 在 Hyperliquid 上自主交易的开源全栈方案](summaries/摘要：Nunchi agent-cli：让 AI 在 Hyperliquid 上自主交易的开源全栈方案.md)｜X书签文章｜原文链接：[https://x.com/maid_crypto/status/2034493385344765966](https://x.com/maid_crypto/status/2034493385344765966)

@@ -2,8 +2,11 @@
 title: 摘要：让 AI 接管你的电脑！这个 Agent 凭什么 2.3K Stars 还在涨
 type: summary
 tags:
-- 浏览器自动化
+- 内容自动化
 - 多Agent协作
+- 上下文管理
+- OpenClaw
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

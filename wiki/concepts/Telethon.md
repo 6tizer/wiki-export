@@ -5,7 +5,7 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/0a3ef4139eef41e790078755f183f7eb
@@ -26,9 +26,9 @@ Telethon 是一个基于 MTProto 的 Python Telegram 客户端库，常用于实
 
 ## 来源引用
 
-- 《Social CLI：用命令行把 Telegram 和 Discord 变成 AI 可检索的本地知识流》｜文章链接：[https://x.com/jakevin7/status/2031246432351523028](https://x.com/jakevin7/status/2031246432351523028)
+- [摘要：Social CLI：用命令行把 Telegram 和 Discord 变成 AI 可检索的本地知识流](summaries/摘要：Social CLI：用命令行把 Telegram 和 Discord 变成 AI 可检索的本地知识流.md)（文章链接：[https://x.com/jakevin7/status/2031246432351523028](https://x.com/jakevin7/status/2031246432351523028)）
 
-- 《social-cli：用一个命令行工具同时监控 Discord 和 Telegram 消息》（AI_ccp251th，X书签）— 补充 Telethon 在本地社群消息监听与统一 API 输出中的实战用法
+- [摘要：social-cli：用一个命令行工具同时监控 Discord 和 Telegram 消息](summaries/摘要：social-cli：用一个命令行工具同时监控 Discord 和 Telegram 消息.md)（AI_ccp251th，X书签）— 补充 Telethon 在本地社群消息监听与统一 API 输出中的实战用法
 
 ## 关联概念
 

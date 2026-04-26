@@ -33,4 +33,4 @@ Google Workspace OAuth 授权，指企业成员将 Google Workspace 账号与其
 
 - [摘要：Vercel 被黑：一次 AI 工具 OAuth 漏洞引发的 DeFi 前端危机](summaries/摘要：Vercel 被黑：一次 AI 工具 OAuth 漏洞引发的 DeFi 前端危机.md)（[原文](https://x.com/Pybast/status/2045904159858204733)）
 
-- [摘要：Vercel 刚刚确认内部系统被入侵了](summaries/摘要：Vercel 刚刚确认内部系统被入侵了.md)（[原文](https://x.com/Saccc_c/status/2045915716814073872)）
+- 摘要：Vercel 刚刚确认内部系统被入侵了（[原文](https://x.com/Saccc_c/status/2045915716814073872)）

@@ -2,7 +2,7 @@
 title: PaperBench
 type: entity
 tags:
-- Coding Agent
+- 模型评测
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-15'

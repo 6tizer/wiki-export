@@ -3,9 +3,9 @@ title: My Computer
 type: concept
 tags:
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: Agent, 自动化, LLM
 source_article_url: ''
 notion_url: https://www.notion.so/568b5d5a9d4e4a0e8c8ff4248efe29ae
@@ -26,4 +26,4 @@ My Computer 是 Manus 桌面客户端中的本地操作能力集合，让 Agent 
 
 ## 来源引用
 
-- 《Manus Desktop 发布：AI Agent 从云端走向你的本地电脑》— X书签，2026-03
+- [摘要：Manus Desktop 发布：AI Agent 从云端走向你的本地电脑](summaries/摘要：Manus Desktop 发布：AI Agent 从云端走向你的本地电脑.md)— X书签，2026-03

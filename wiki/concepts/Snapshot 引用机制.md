@@ -2,8 +2,8 @@
 title: Snapshot 引用机制
 type: concept
 tags:
-- Agent 技能
-- 开发工具
+- 浏览器自动化
+- 上下文管理
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-25'

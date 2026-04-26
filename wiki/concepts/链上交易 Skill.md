@@ -4,9 +4,9 @@ type: concept
 tags:
 - Crypto/DeFi
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/57a8778e5af84effa5fe26cdd5caf063
@@ -27,4 +27,4 @@ notion_id: 57a8778e-5af8-4eff-a5fe-26cdd5caf063
 
 ## 来源引用
 
-- 《XXYY Trade Skill：5分钟给你的 AI Agent 装上链上交易大脑》｜X书签文章｜原文链接：[https://x.com/PepeBoost888/status/2032052111010382031](https://x.com/PepeBoost888/status/2032052111010382031)
+- [摘要：XXYY Trade Skill：5分钟给你的 AI Agent 装上链上交易大脑](summaries/摘要：XXYY Trade Skill：5分钟给你的 AI Agent 装上链上交易大脑.md)｜X书签文章｜原文链接：[https://x.com/PepeBoost888/status/2032052111010382031](https://x.com/PepeBoost888/status/2032052111010382031)

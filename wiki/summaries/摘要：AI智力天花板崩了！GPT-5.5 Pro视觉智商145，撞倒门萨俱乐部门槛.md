@@ -2,8 +2,9 @@
 title: 摘要：AI智力天花板崩了！GPT-5.5 Pro视觉智商145，撞倒门萨俱乐部门槛
 type: summary
 tags:
-- LLM
+- 多模态
 - 模型评测
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

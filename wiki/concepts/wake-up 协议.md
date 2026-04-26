@@ -2,8 +2,10 @@
 title: wake-up 协议
 type: concept
 tags:
-- 记忆系统
-- Agent 编排
+- MCP 协议
+- 上下文管理
+- 知识管理
+- RAG/检索
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'

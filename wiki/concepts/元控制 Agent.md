@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/87570fe9b34145faa4795d9b0e0650c2
@@ -26,4 +26,4 @@ notion_id: 87570fe9-b341-45fa-a479-5d9b0e0650c2
 
 ## 来源引用
 
-- [原文链接](http://x.com/i/article/2034650211738648578)｜《用六个 Agent 重构你的信息系统：Ray Wang 的五层信息价值链方案》｜源文章：用六个 Agent 重构你的信息系统：Ray Wang 的五层信息价值链方案
+- [原文链接](http://x.com/i/article/2034650211738648578)｜[摘要：用六个 Agent 重构你的信息系统：Ray Wang 的五层信息价值链方案](summaries/摘要：用六个 Agent 重构你的信息系统：Ray Wang 的五层信息价值链方案.md)｜源文章：用六个 Agent 重构你的信息系统：Ray Wang 的五层信息价值链方案

@@ -2,8 +2,8 @@
 title: 摘要：In the next version of Claude Code
 type: summary
 tags:
-- Coding Agent
-- 开发工具
+- Agent 协作模式
+- CLI 工具
 status: 已审核
 confidence: low
 last_compiled: '2026-04-20'

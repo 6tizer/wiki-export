@@ -2,7 +2,11 @@
 title: EasyClaw
 type: entity
 tags:
+- AI 产品
 - OpenClaw
+- Agent 协作模式
+- 多Agent协作
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

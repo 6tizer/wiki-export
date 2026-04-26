@@ -2,9 +2,13 @@
 title: EverOS
 type: entity
 tags:
-- 记忆系统
-- Agent 框架
-status: 草稿
+- 知识管理
+- 长期记忆
+- 多模态
+- RAG/检索
+- 算力基础设施
+- 上下文管理
+status: 审核中
 confidence: high
 last_compiled: '2026-04-14'
 source_tags: ''

@@ -2,8 +2,9 @@
 title: 摘要：在OpenAI把Chronicle做成订阅功能48小时后，一群00后把它开源了
 type: summary
 tags:
-- 记忆系统
-- Coding Agent
+- 上下文管理
+- 长期记忆
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-25'

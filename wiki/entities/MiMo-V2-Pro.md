@@ -2,7 +2,9 @@
 title: MiMo-V2-Pro
 type: entity
 tags:
-- LLM
+- Agent 协作模式
+- AI 产品
+- OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

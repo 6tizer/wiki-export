@@ -2,10 +2,12 @@
 title: GEO
 type: concept
 tags:
-- 商业/生态
+- 内容自动化
+- 提示工程
+- AI 产品
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f7bf57a9331043c38914550648f2465c
@@ -54,7 +56,7 @@ GEO 的核心目标是让品牌在 AI 助手生成回答时被引用、被推荐
 
 - [原文链接](https://x.com/akokoi1/status/2034871210790859000)｜《geo-seo-claude：用 Claude Code 给你的网站做 AI 搜索引擎优化》｜来源条目：[摘要：geo-seo-claude：用 Claude Code 给你的网站做 AI 搜索引擎优化](summaries/摘要：geo-seo-claude：用 Claude Code 给你的网站做 AI 搜索引擎优化.md)
 
-- 《姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存》｜X书签文章｜原文链接：[https://x.com/laoyaoke/status/2039243404685803619](https://x.com/laoyaoke/status/2039243404685803619)｜来源条目：摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存
+- 《姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存》｜X书签文章｜原文链接：[https://x.com/laoyaoke/status/2039243404685803619](https://x.com/laoyaoke/status/2039243404685803619)｜来源条目：[摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存](summaries/摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存.md)
 
 - [原文链接](https://x.com/laoyaoke/status/2039243404685803619)｜《姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存》｜来源条目：摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存
 

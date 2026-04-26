@@ -34,7 +34,7 @@ Cline 是面向开发者的 AI 编程代理产品，常以 IDE 或命令行工�
 
 - [Kimi K2.6](entities/Kimi K2.6.md)
 
-- [Terminal-Bench 2.0](concepts/Terminal-Bench 2.0.md)
+- [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)
 
 - [Qwen3-Coder-30B-A3B-Instruct-GGUF](entities/Qwen3-Coder-30B-A3B-Instruct-GGUF.md)
 

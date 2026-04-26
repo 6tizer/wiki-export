@@ -2,8 +2,7 @@
 title: 连续 LoD 树
 type: concept
 tags:
-- 开发工具
-- 内容创作
+- 视频/3D
 status: 草稿
 confidence: high
 last_compiled: '2026-04-15'

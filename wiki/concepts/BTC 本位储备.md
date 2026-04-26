@@ -2,10 +2,10 @@
 title: BTC 本位储备
 type: concept
 tags:
-- Crypto/DeFi
+- 加密资产
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/ea3017f6b6ce44959bc57ee2bf64179e

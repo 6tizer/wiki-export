@@ -2,8 +2,9 @@
 title: Phantom Transfer
 type: concept
 tags:
-- LLM
-- 安全/隐私
+- AI 对齐
+- 训练/微调
+- Agent 安全
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-16'

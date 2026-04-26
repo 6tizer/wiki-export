@@ -2,8 +2,9 @@
 title: DeepSeek V4
 type: entity
 tags:
-- 商业/生态
-- LLM
+- AI 产品
+- 训练/微调
+- 算力基础设施
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'

@@ -4,8 +4,9 @@ title: 摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which
   much longer context (256k full easily on 24gb
 type: summary
 tags:
-- LLM
-- Coding Agent
+- 上下文管理
+- 模型部署
+- 代码生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
@@ -43,7 +44,7 @@ notion_id: b6280687-c62b-4382-bec9-980a257fac58
 
 - [SWE-bench](concepts/SWE-bench.md)
 
-- [Terminal-Bench 2.0](concepts/Terminal-Bench 2.0.md)
+- [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)
 
 ## 原始文章信息
 

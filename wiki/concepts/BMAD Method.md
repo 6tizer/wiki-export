@@ -2,10 +2,8 @@
 title: BMAD Method
 type: concept
 tags:
+- Agent 协作模式
 - 多Agent协作
-- Agent 编排
-- Agent 框架
-- 工作流
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

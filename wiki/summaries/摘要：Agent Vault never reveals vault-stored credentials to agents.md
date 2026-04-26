@@ -2,8 +2,8 @@
 title: 摘要：Agent Vault never reveals vault-stored credentials to agents
 type: summary
 tags:
-- 安全/隐私
-- Agent 技能
+- Agent 安全
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

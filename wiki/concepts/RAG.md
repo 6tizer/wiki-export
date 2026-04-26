@@ -2,6 +2,7 @@
 title: RAG
 type: concept
 tags:
+- 知识管理
 - RAG/检索
 status: 已审核
 confidence: medium
