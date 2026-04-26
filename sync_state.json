@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-26T11:24:58.260539+08:00",
+  "last_sync_time": "2026-04-26T17:26:12.405701+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 3883,
+  "total_pages_exported": 3897,
   "page_mapping": {
     "0fe9d271-3d82-4995-ad15-00fc8d446de0": {
       "type": "concept",
@@ -286,7 +286,7 @@
     "0c445748-e929-4f00-a39b-12a0c0c2ecca": {
       "type": "entity",
       "file_path": "wiki/entities/Terminal-Bench 2.0.md",
-      "last_edited": "2026-04-25T02:32:00.000Z"
+      "last_edited": "2026-04-26T07:25:00.000Z"
     },
     "0ac98d71-8cef-4ed4-8e4d-869cbdb09a3e": {
       "type": "concept",
@@ -7471,7 +7471,7 @@
     "747d27de-ec3b-4ee8-b935-a3bdabfb21df": {
       "type": "concept",
       "file_path": "wiki/concepts/LLM-as-judge.md",
-      "last_edited": "2026-04-23T12:03:00.000Z"
+      "last_edited": "2026-04-26T07:25:00.000Z"
     },
     "7491c00a-1db6-44f2-9859-b9c8a66a85f8": {
       "type": "summary",
@@ -14351,7 +14351,7 @@
     "dcd58da1-f13f-4d10-bb04-047f0678e5c4": {
       "type": "concept",
       "file_path": "wiki/concepts/Agent Harness.md",
-      "last_edited": "2026-04-23T18:07:00.000Z"
+      "last_edited": "2026-04-26T07:25:00.000Z"
     },
     "dcdcd38f-38c8-45fe-a561-bd9007b86cdf": {
       "type": "summary",
@@ -19036,7 +19036,7 @@
     "ee288d72-ef5a-4121-949b-79333675a02a": {
       "type": "entity",
       "file_path": "wiki/entities/GPT-5.5.md",
-      "last_edited": "2026-04-25T02:16:00.000Z"
+      "last_edited": "2026-04-26T07:25:00.000Z"
     },
     "05cebf2d-f069-4039-878a-d927add89117": {
       "type": "synthesis",
@@ -19417,6 +19417,76 @@
       "type": "synthesis",
       "file_path": "wiki/syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md",
       "last_edited": "2026-04-26T02:10:00.000Z"
+    },
+    "148baff2-6bb0-4fbe-9336-edac1c14eee0": {
+      "type": "entity",
+      "file_path": "wiki/entities/SWE-Bench Verified.md",
+      "last_edited": "2026-04-26T07:23:00.000Z"
+    },
+    "2aef0436-4bd4-43d4-bffd-9853a8ae95bd": {
+      "type": "concept",
+      "file_path": "wiki/concepts/评估标准分解.md",
+      "last_edited": "2026-04-26T07:23:00.000Z"
+    },
+    "3f2178dc-dbe7-4939-ae78-5fbfb825514b": {
+      "type": "concept",
+      "file_path": "wiki/concepts/LLM-as-a-Verifier.md",
+      "last_edited": "2026-04-26T07:25:00.000Z"
+    },
+    "51d72597-9120-4e78-b521-287de22e31c5": {
+      "type": "entity",
+      "file_path": "wiki/entities/LisanBench.md",
+      "last_edited": "2026-04-26T07:25:00.000Z"
+    },
+    "567ebc5d-3f47-4d39-b217-c8f4fea63e38": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto-DeFi 协议栈的跨域范式碰撞.md",
+      "last_edited": "2026-04-26T09:19:00.000Z"
+    },
+    "5b33cb66-1cf9-406c-b993-ed212c5cccd7": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md",
+      "last_edited": "2026-04-26T07:25:00.000Z"
+    },
+    "683b093b-2dd9-4699-9870-aca34c9c101e": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：AI智力天花板崩了！GPT-5.5 Pro视觉智商145，撞倒门萨俱乐部门槛.md",
+      "last_edited": "2026-04-26T07:25:00.000Z"
+    },
+    "72d47d2b-2412-41d5-bc8d-81fa384afdf1": {
+      "type": "concept",
+      "file_path": "wiki/concepts/语义重组.md",
+      "last_edited": "2026-04-26T07:25:00.000Z"
+    },
+    "8b0b84fe-247f-4144-a804-6252b882b5e3": {
+      "type": "concept",
+      "file_path": "wiki/concepts/视觉抽象推理.md",
+      "last_edited": "2026-04-26T07:25:00.000Z"
+    },
+    "a17abaf9-1e70-4671-9d2f-fd21acc66889": {
+      "type": "concept",
+      "file_path": "wiki/concepts/验证计算扩展.md",
+      "last_edited": "2026-04-26T07:23:00.000Z"
+    },
+    "a7353142-b967-46d6-a84c-899d2c2c14b6": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：2.5折！DeepSeek V4 Pro限时优惠来了.md",
+      "last_edited": "2026-04-26T03:38:00.000Z"
+    },
+    "b9b3a434-35a1-4319-9e82-5d3d2903f66b": {
+      "type": "concept",
+      "file_path": "wiki/concepts/超级应用.md",
+      "last_edited": "2026-04-26T07:25:00.000Z"
+    },
+    "cbaa1e21-8337-4de6-bdb3-53428e00ba4b": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构.md",
+      "last_edited": "2026-04-26T09:12:00.000Z"
+    },
+    "f611659c-fcd0-495e-81f3-3d7aac65c3ff": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/LLM 商业化安全悖论三角：模型能力扩张、变现压力与合规收紧三力交汇时的路径分化与治理架构.md",
+      "last_edited": "2026-04-26T09:15:00.000Z"
     }
   }
 }

@@ -95,7 +95,7 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 
 - [Blackwell 200 GPU](entities/Blackwell 200 GPU.md)
 
-- [SOL-ExecBench](concepts/SOL-ExecBench.md)
+- [SOL-ExecBench](entities/SOL-ExecBench.md)
 
 - [CUDA 内核优化](concepts/CUDA 内核优化.md)
 
@@ -151,6 +151,8 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 
 - [策略回放评测](concepts/策略回放评测.md)
 
+- [LLM-as-a-Verifier](concepts/LLM-as-a-Verifier.md)
+
 ## 来源引用
 
 - [摘要：Lightweight agent harness for building AI agents!](summaries/摘要：Lightweight agent harness for building AI agents!.md)（[原文](https://x.com/Sumanth_077/status/2046929191795593517)）
@@ -198,3 +200,5 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - 源文章：开源视频 Agent 框架全景扫描：八个项目，哪个适合你？（文中将视频 Agent 的能力差异部分归因于 harness 设计）
 
 - [原文链接](https://x.com/jxnlco/status/2044469127696556153)｜《Sandboxes are coming to the Agents SDK》｜源文章：OpenAI Agents SDK 沙盒：让 AI Agent 真正「留下工作成果」
+
+- [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651030107&idx=2&sn=dcf949e41eb246cd78463ec2ac79eb17&chksm=85f6580c4d8619e4dbb67c7144f147a8bc41f01f639924649cbbb134ea5daa9c1e2bdebb2928#rd)）

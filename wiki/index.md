@@ -1,14 +1,14 @@
 ---
 type: index
-total_concepts: 1717
-total_entities: 826
-total_syntheses: 90
+total_concepts: 1723
+total_entities: 828
+total_syntheses: 93
 last_updated: 2026-04-26
 ---
 
 # 📚 知识 Wiki Index
 
-> 1717 concepts · 826 entities · 90 syntheses
+> 1723 concepts · 828 entities · 93 syntheses
 > 导出时间: 2026-04-26
 
 ## 使用方式
@@ -37,6 +37,7 @@ last_updated: 2026-04-26
 - [AI小程序成长计划](concepts/AI小程序成长计划.md)
 - [Generative UI](concepts/Generative UI.md)
 - [QClaw](concepts/QClaw.md)
+- [超级应用](concepts/超级应用.md)
 
 ### Entitys
 - [AEO Engine](entities/AEO Engine.md)
@@ -1143,6 +1144,7 @@ last_updated: 2026-04-26
 - [IRL 模式](concepts/IRL 模式.md)
 - [Idea File](concepts/Idea File.md)
 - [Inversion 模式](concepts/Inversion 模式.md)
+- [LLM-as-a-Verifier](concepts/LLM-as-a-Verifier.md)
 - [Latent vs. Deterministic](concepts/Latent vs. Deterministic.md)
 - [Long-Horizon Coding](concepts/Long-Horizon Coding.md)
 - [Mano-CUA Skill](concepts/Mano-CUA Skill.md)
@@ -1303,6 +1305,7 @@ last_updated: 2026-04-26
 - [角色分工式 Agent 工作流](concepts/角色分工式 Agent 工作流.md)
 - [角色型 Agent](concepts/角色型 Agent.md)
 - [记忆控制](concepts/记忆控制.md)
+- [评估标准分解](concepts/评估标准分解.md)
 - [读改比](concepts/读改比.md)
 - [调用链验证](concepts/调用链验证.md)
 - [跨应用操作](concepts/跨应用操作.md)
@@ -1316,6 +1319,7 @@ last_updated: 2026-04-26
 - [需求可追溯性](concepts/需求可追溯性.md)
 - [项目级 Skills 分发](concepts/项目级 Skills 分发.md)
 - [驾驭工程](concepts/驾驭工程.md)
+- [验证计算扩展](concepts/验证计算扩展.md)
 - [验证闭环](concepts/验证闭环.md)
 
 ### Entitys
@@ -1403,6 +1407,7 @@ last_updated: 2026-04-26
 - [RuvLTRA Claude Code](entities/RuvLTRA Claude Code.md)
 - [SOL-ExecBench](entities/SOL-ExecBench.md)
 - [SWE-1.6](entities/SWE-1.6.md)
+- [SWE-Bench Verified](entities/SWE-Bench Verified.md)
 - [Session Intelligence](entities/Session Intelligence.md)
 - [Sigrid Jin](entities/Sigrid Jin.md)
 - [SkillNote](entities/SkillNote.md)
@@ -1760,6 +1765,7 @@ last_updated: 2026-04-26
 - [LLM 重排序](concepts/LLM 重排序.md)
 - [LLM 长期记忆](concepts/LLM 长期记忆.md)
 - [LLM+Markdown+Wiki 知识库](concepts/LLM+Markdown+Wiki 知识库.md)
+- [LLM-as-a-Verifier](concepts/LLM-as-a-Verifier.md)
 - [LLM-as-judge](concepts/LLM-as-judge.md)
 - [Latent Reasoning](concepts/Latent Reasoning.md)
 - [LoopLM](concepts/LoopLM.md)
@@ -1962,6 +1968,7 @@ last_updated: 2026-04-26
 - [自监督关联验证](concepts/自监督关联验证.md)
 - [自适应思考](concepts/自适应思考.md)
 - [自适应计算时间](concepts/自适应计算时间.md)
+- [视觉抽象推理](concepts/视觉抽象推理.md)
 - [计算功能主义](concepts/计算功能主义.md)
 - [训练数据提取攻击](concepts/训练数据提取攻击.md)
 - [训练数据溯源](concepts/训练数据溯源.md)
@@ -1971,6 +1978,7 @@ last_updated: 2026-04-26
 - [评估悖论](concepts/评估悖论.md)
 - [评估意识](concepts/评估意识.md)
 - [评估感知](concepts/评估感知.md)
+- [评估标准分解](concepts/评估标准分解.md)
 - [调度折价](concepts/调度折价.md)
 - [输出通胀](concepts/输出通胀.md)
 - [过度对齐](concepts/过度对齐.md)
@@ -1990,6 +1998,7 @@ last_updated: 2026-04-26
 - [零样本泛化](concepts/零样本泛化.md)
 - [零样本金融预测](concepts/零样本金融预测.md)
 - [首Token延迟](concepts/首Token延迟.md)
+- [验证计算扩展](concepts/验证计算扩展.md)
 - [验证问题](concepts/验证问题.md)
 - [高分辨率视觉](concepts/高分辨率视觉.md)
 - [黑暗模式](concepts/黑暗模式.md)
@@ -2055,6 +2064,7 @@ last_updated: 2026-04-26
 - [Life Sciences Research Plugin](entities/Life Sciences Research Plugin.md)
 - [Ling-2.6-flash](entities/Ling-2.6-flash.md)
 - [Lingbot-VA](entities/Lingbot-VA.md)
+- [LisanBench](entities/LisanBench.md)
 - [LiveCodeBench](entities/LiveCodeBench.md)
 - [MLX 框架](entities/MLX 框架.md)
 - [MarkItDown](entities/MarkItDown.md)
@@ -2097,6 +2107,7 @@ last_updated: 2026-04-26
 - [RuvLTRA Claude Code](entities/RuvLTRA Claude Code.md)
 - [SGLang](entities/SGLang.md)
 - [SWE-1.6](entities/SWE-1.6.md)
+- [SWE-Bench Verified](entities/SWE-Bench Verified.md)
 - [SciTikZ](entities/SciTikZ.md)
 - [Sora](entities/Sora.md)
 - [Stargate](entities/Stargate.md)
@@ -2760,6 +2771,7 @@ last_updated: 2026-04-26
 - [语义空白](concepts/语义空白.md)
 - [调度折价](concepts/调度折价.md)
 - [账号农场](concepts/账号农场.md)
+- [超级应用](concepts/超级应用.md)
 - [长寿逃逸速度](concepts/长寿逃逸速度.md)
 - [闪应用](concepts/闪应用.md)
 - [零数据保留](concepts/零数据保留.md)
@@ -2939,6 +2951,8 @@ last_updated: 2026-04-26
 - [Vision Transformer](concepts/Vision Transformer.md)
 - [多模态模型聚合](concepts/多模态模型聚合.md)
 - [模型聚合 API](concepts/模型聚合 API.md)
+- [视觉抽象推理](concepts/视觉抽象推理.md)
+- [语义重组](concepts/语义重组.md)
 - [闭环运动表征](concepts/闭环运动表征.md)
 
 ### Entitys
@@ -4037,6 +4051,7 @@ last_updated: 2026-04-26
 - [零样本时间序列预测](concepts/零样本时间序列预测.md)
 
 ### Entitys
+- [LisanBench](entities/LisanBench.md)
 - [MiniMax M2.5](entities/MiniMax M2.5.md)
 - [TimesFM](entities/TimesFM.md)
 
@@ -4254,6 +4269,7 @@ last_updated: 2026-04-26
 - [认知工件](concepts/认知工件.md)
 - [记忆技术债](concepts/记忆技术债.md)
 - [证据型知识操作系统](concepts/证据型知识操作系统.md)
+- [语义重组](concepts/语义重组.md)
 - [超边表示](concepts/超边表示.md)
 - [跨次账号评分](concepts/跨次账号评分.md)
 - [身份消歧](concepts/身份消歧.md)
@@ -4665,6 +4681,7 @@ last_updated: 2026-04-26
 - [Codex 最佳配置实践：从 AGENTS.md 到插件生态与多 Agent 编排的工程化调优全景](syntheses/Codex 最佳配置实践：从 AGENTS.md 到插件生态与多 Agent 编排的工程化调优全景.md)
 - [Coding Agent 商业化路径分化：从开发者提效工具到消费级软件工厂的价值捕获与生态博弈](syntheses/Coding Agent 商业化路径分化：从开发者提效工具到消费级软件工厂的价值捕获与生态博弈.md)
 - [Coding Agent 多智能体编排：从单体循环到虚拟工程团队的协作范式与架构权衡](syntheses/Coding Agent 多智能体编排：从单体循环到虚拟工程团队的协作范式与架构权衡.md)
+- [Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构](syntheses/Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构.md)
 - [Coding Agent 工作流方法论光谱：从验证闭环到自进化开发管线的十种设计模式](syntheses/Coding Agent 工作流方法论光谱：从验证闭环到自进化开发管线的十种设计模式.md)
 - [Coding Agent 开发工具链深度融合：从终端交互到上下文治理的基础设施协同演进](syntheses/Coding Agent 开发工具链深度融合：从终端交互到上下文治理的基础设施协同演进.md)
 - [Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路](syntheses/Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路.md)
@@ -4680,6 +4697,7 @@ last_updated: 2026-04-26
 - [Crypto/DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径](syntheses/Crypto-DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径.md)
 - [Hermes Agent 最佳配置实践：从文件化大脑到自进化多 Agent 系统的工程化调优全景](syntheses/Hermes Agent 最佳配置实践：从文件化大脑到自进化多 Agent 系统的工程化调优全景.md)
 - [LLM 与 Agent 编排的交叉地带：从模型路由到群体智能的多模型协作范式演进](syntheses/LLM 与 Agent 编排的交叉地带：从模型路由到群体智能的多模型协作范式演进.md)
+- [LLM 商业化安全悖论三角：模型能力扩张、变现压力与合规收紧三力交汇时的路径分化与治理架构](syntheses/LLM 商业化安全悖论三角：模型能力扩张、变现压力与合规收紧三力交汇时的路径分化与治理架构.md)
 - [LLM 安全威胁与开发工具的共演动力学：攻击面扩张如何催生防御工具化，工具化又如何制造新攻击面](syntheses/LLM 安全威胁与开发工具的共演动力学：攻击面扩张如何催生防御工具化，工具化又如何制造新攻击面.md)
 - [LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略](syntheses/LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略.md)
 - [LLM 能力边界如何塑造 Agent 技能形态：从结构化工具调用到多模态自主操作的技能架构分层与演进路径](syntheses/LLM 能力边界如何塑造 Agent 技能形态：从结构化工具调用到多模态自主操作的技能架构分层与演进路径.md)
@@ -4697,6 +4715,7 @@ last_updated: 2026-04-26
 - [从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施](syntheses/从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施.md)
 - [加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进](syntheses/加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进.md)
 - [加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂](syntheses/加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂.md)
+- [可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto/DeFi 协议栈的跨域范式碰撞](syntheses/可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto-DeFi 协议栈的跨域范式碰撞.md)
 - [多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径](syntheses/多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径.md)
 - [多智能体编排的安全治理架构：从权限隔离到语义可观测的六层防御体系](syntheses/多智能体编排的安全治理架构：从权限隔离到语义可观测的六层防御体系.md)
 - [大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理](syntheses/大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理.md)
