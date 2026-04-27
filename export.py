@@ -24,9 +24,18 @@ import yaml
 
 # ── 配置 ──────────────────────────────────────────────
 
-NOTION_TOKEN = os.environ.get("NOTION_TOKEN", "") or open(
-    os.path.expanduser("~/.config/notion/api_key")
-).read().strip()
+def _load_notion_token() -> str:
+    token = os.environ.get("NOTION_TOKEN", "")
+    if token:
+        return token
+    key_file = os.path.expanduser("~/.config/notion/api_key")
+    try:
+        return open(key_file).read().strip()
+    except FileNotFoundError:
+        print(f"❌ 未找到 Notion API token（环境变量 NOTION_TOKEN 或文件 {key_file}）")
+        sys.exit(1)
+
+NOTION_TOKEN = _load_notion_token()
 
 DATABASE_ID = "f98c88d3-d587-494a-98ff-92fbaf9228c4"
 GITHUB_REPO = "6tizer/wiki-export"
@@ -125,6 +134,11 @@ def query_database(database_id: str, filter_obj: dict | None = None,
             body["start_cursor"] = start_cursor
 
         resp = limiter.request("POST", f"{NOTION_API}/databases/{database_id}/query", json=body)
+
+        if resp.status_code != 200:
+            print(f"  ❌ Notion API 返回 {resp.status_code}: {resp.text[:200]}")
+            break
+
         data = resp.json()
         all_results.extend(data.get("results", []))
 
@@ -147,6 +161,11 @@ def get_block_children(block_id: str) -> list[dict]:
             url += f"&start_cursor={start_cursor}"
 
         resp = limiter.request("GET", url)
+
+        if resp.status_code != 200:
+            print(f"  ⚠️ 获取 block children 失败 ({resp.status_code}): {block_id}")
+            break
+
         data = resp.json()
         all_blocks.extend(data.get("results", []))
 
@@ -238,7 +257,7 @@ def extract_url_prop(page: dict, prop_name: str) -> str:
 def page_id_to_notion_url(page_id: str) -> str:
     """将 page_id 转为 Notion URL。"""
     clean_id = page_id.replace("-", "")
-    return f"https://www.notion.so/{clean_id}"
+    return f"https://www.notion.so/Tizer/{clean_id}"
 
 # ── Block → Markdown 转换 ─────────────────────────────
 
@@ -467,8 +486,11 @@ def build_page_map(pages: list[dict]) -> dict[str, str]:
     """构建 page_id → 相对文件路径的映射。
 
     返回格式: {page_id: "concepts/Mem0.md"}
+    同名文件自动追加 page_id 前 8 位避免覆盖。
     """
     page_map = {}
+    used_paths: dict[str, str] = {}  # path → page_id，检测冲突
+
     for page in pages:
         page_id = page["id"]
         page_type = extract_select(page, "类型")
@@ -477,11 +499,16 @@ def build_page_map(pages: list[dict]) -> dict[str, str]:
         if not page_type:
             continue
 
-        filename = sanitize_filename(title) if title else page_id[:8]
-        filename = f"{filename}.md"
-
+        base_name = sanitize_filename(title) if title else page_id[:8]
         type_dir = get_type_dir(page_type)
+        filename = f"{base_name}.md"
         relative_path = f"{type_dir}/{filename}"
+
+        # 检测文件名冲突，追加 page_id 前缀
+        if relative_path in used_paths and used_paths[relative_path] != page_id:
+            filename = f"{base_name}-{page_id[:8]}.md"
+            relative_path = f"{type_dir}/{filename}"
+        used_paths[relative_path] = page_id
 
         # 同时存储带连字符和不带连字符的版本
         page_map[page_id] = relative_path
@@ -510,7 +537,10 @@ def save_sync_state(state: dict):
 
 
 def build_sync_state(pages: list[dict], page_map: dict[str, str]) -> dict:
-    """从页面列表构建完整的 sync_state。"""
+    """从页面列表构建完整的 sync_state。
+
+    page_mapping 只存带连字符的 page ID。
+    """
     now_utc = datetime.now(timezone.utc)
     now_local = now_utc.astimezone(TZ)
 
@@ -523,6 +553,7 @@ def build_sync_state(pages: list[dict], page_map: dict[str, str]) -> dict:
         rel_path = page_map.get(page_id, "")
         if not rel_path:
             continue
+        # 只存带连字符的版本
         page_mapping[page_id] = {
             "type": page_type,
             "file_path": f"wiki/{rel_path}",
@@ -538,7 +569,10 @@ def build_sync_state(pages: list[dict], page_map: dict[str, str]) -> dict:
 
 
 def update_sync_state(state: dict, pages: list[dict], page_map: dict[str, str]):
-    """增量更新 sync_state（只更新变更部分）。"""
+    """增量更新 sync_state（只更新变更部分）。
+
+    page_mapping 只存带连字符的 page ID，避免重复条目。
+    """
     now_utc = datetime.now(timezone.utc)
     now_local = now_utc.astimezone(TZ)
 
@@ -550,9 +584,11 @@ def update_sync_state(state: dict, pages: list[dict], page_map: dict[str, str]):
         page_type = extract_select(page, "类型")
         if not page_type:
             continue
+        # page_map 同时有两种 key，用带连字符的 ID 取值
         rel_path = page_map.get(page_id, "")
         if not rel_path:
             continue
+        # 只存带连字符的版本
         state["page_mapping"][page_id] = {
             "type": page_type,
             "file_path": f"wiki/{rel_path}",
@@ -622,20 +658,24 @@ def export_page(page: dict, page_map: dict[str, str], exported: set[str]) -> boo
         "notion_id": page_id,
     }
 
-    # 写文件
-    filename = sanitize_filename(title) if title else page_id[:8]
-    filename = f"{filename}.md"
-    type_dir = OUTPUT_DIR / "wiki" / get_type_dir(page_type)
-    type_dir.mkdir(parents=True, exist_ok=True)
+    # 写文件 — 从 page_map 取路径（已处理文件名冲突）
+    rel_path = page_map.get(page_id) or page_map.get(page_id.replace("-", ""))
+    if not rel_path:
+        filename = sanitize_filename(title) if title else page_id[:8]
+        filename = f"{filename}.md"
+        rel_path = f"{get_type_dir(page_type)}/{filename}"
 
-    file_path = type_dir / filename
+    file_path = OUTPUT_DIR / "wiki" / rel_path
+    file_path.parent.mkdir(parents=True, exist_ok=True)
 
     # 组装最终内容
     yaml_str = yaml.dump(frontmatter, allow_unicode=True, default_flow_style=False, sort_keys=False)
     full_content = f"---\n{yaml_str}---\n\n{content_md}\n"
 
     file_path.write_text(full_content, encoding="utf-8")
+    # 同时存两种格式，防止断点续传漏判
     exported.add(page_id)
+    exported.add(page_id.replace("-", ""))
 
     return True
 
@@ -725,21 +765,31 @@ def generate_index(pages: list[dict], page_map: dict[str, str]):
 # ── Schema 文件生成 ───────────────────────────────────
 
 
-SCHEMA_CLAUDE_MD = """# Tizer's Knowledge Wiki
+def write_schema_claude_md(type_counts: dict[str, int] | None = None):
+    """写入 schema/CLAUDE.md。type_counts 用于动态填充数字。"""
+    if type_counts is None:
+        type_counts = {}
+    c = type_counts.get("concept", 0)
+    e = type_counts.get("entity", 0)
+    s = type_counts.get("synthesis", 0)
+    sm = type_counts.get("summary", 0)
+    total = sum(type_counts.values())
+
+    content = f"""# Tizer's Knowledge Wiki
 
 ## 概述
 这是一个 AI 编译的个人知识库，由 Notion AI Agent 集群自动编译维护。
-包含 733 个核心概念（concept）、360 个实体档案（entity）、45 篇综合分析（synthesis）、777 篇单篇摘要（summary）。
-知识来源：微信公众号、X/Twitter、技术博客、会议记录。
+包含 {c} 个核心概念（concept）、{e} 个实体档案（entity）、{s} 篇综合分析（synthesis）、{sm} 篇单篇摘要（summary）。
+总计 {total} 个条目。知识来源：微信公众号、X/Twitter、技术博客、会议记录。
 
 ## 目录结构
 - `schema/CLAUDE.md` — 你正在读的文件（入口）
 - `schema/WIKI-SCHEMA.md` — 详细的类型定义和命名规范
-- `wiki/index.md` — 全局目录（按标签分组，只列 concept/entity/synthesis）
-- `wiki/concepts/` — 733 个核心概念
-- `wiki/entities/` — 360 个实体档案
-- `wiki/syntheses/` — 45 篇综合分析
-- `wiki/summaries/` — 777 篇摘要（通过 concept 中的 wikilink 按需跳转）
+- `wiki/index.md` — 全局目录（按标签分组）
+- `wiki/concepts/` — {c} 个核心概念
+- `wiki/entities/` — {e} 个实体档案
+- `wiki/syntheses/` — {s} 篇综合分析
+- `wiki/summaries/` — {sm} 篇摘要（通过 concept 中的 wikilink 按需跳转）
 
 ## 查询流程
 1. 先读 `wiki/index.md` 了解全局
@@ -762,13 +812,9 @@ Agent 框架 · Agent 编排 · Agent 技能 · Coding Agent · LLM · 记忆系
 - 分隔线下方的「来源引用」区只允许追加，不允许修改或删除
 - 新增条目需遵循 schema/WIKI-SCHEMA.md 的命名规范
 """
-
-
-def write_schema_claude_md():
-    """写入 schema/CLAUDE.md。"""
     path = OUTPUT_DIR / "schema" / "CLAUDE.md"
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(SCHEMA_CLAUDE_MD.strip() + "\n", encoding="utf-8")
+    path.write_text(content, encoding="utf-8")
     print("✅ 已生成 schema/CLAUDE.md")
 
 
@@ -900,7 +946,11 @@ def cmd_full(args):
 
     # 5. 生成 schema 文件
     print("\n📖 步骤 5: 生成 schema 文件...")
-    write_schema_claude_md()
+    type_counts = {}
+    for p in pages:
+        t = extract_select(p, "类型")
+        type_counts[t] = type_counts.get(t, 0) + 1
+    write_schema_claude_md(type_counts)
     write_schema_wiki_schema()
 
     # 6. 生成 sync_state.json
@@ -941,7 +991,10 @@ def cmd_incremental(args):
             {"timestamp": "last_edited_time", "last_edited_time": {"after": last_sync_utc}},
         ]
     }
-    changed_pages = query_database(DATABASE_ID, filter_obj)
+    changed_pages = query_database(
+        DATABASE_ID, filter_obj,
+        sorts=[{"timestamp": "last_edited_time", "direction": "descending"}],
+    )
     changed_pages = [p for p in changed_pages if extract_select(p, "类型")]
     print(f"  变更页面: {len(changed_pages)} 个")
 
@@ -999,28 +1052,19 @@ def cmd_incremental(args):
     # 7. 更新 sync_state.json
     print("\n💾 步骤 6: 更新 sync_state.json...")
     update_sync_state(state, all_valid, page_map)
-    # 从 page_mapping 中移除已删除的
+    # 从 page_mapping 中移除已删除的（双集合匹配，防止旧格式 no-hyphen key 误删）
     for page_id in list(state["page_mapping"].keys()):
-        if page_id not in notion_active_ids:
+        if page_id not in notion_active_ids and page_id not in notion_active_ids_no_hyphen:
             del state["page_mapping"][page_id]
     save_sync_state(state)
 
-    # 8. Git commit + push
+    # 8. Git commit + push（统一走 git_commit_and_push）
     print("\n📤 步骤 7: Git push...")
+    now = datetime.now(TZ).strftime("%Y-%m-%d %H:%M")
     if updated > 0 or deleted > 0:
-        now = datetime.now(TZ).strftime("%Y-%m-%d %H:%M")
         git_commit_and_push(f"sync: {updated} updated, {deleted} deleted, {now}")
     else:
-        # 即使无页面变更，index.md 可能更新了
-        import subprocess
-        subprocess.run(["git", "add", "-A"], cwd=OUTPUT_DIR, check=True)
-        result = subprocess.run(["git", "diff", "--cached", "--quiet"],
-                                cwd=OUTPUT_DIR, capture_output=True)
-        if result.returncode != 0:
-            now = datetime.now(TZ).strftime("%Y-%m-%d %H:%M")
-            git_commit_and_push(f"sync: index updated, {now}")
-        else:
-            print("  ℹ️ 无任何变更，跳过提交")
+        git_commit_and_push(f"sync: index updated, {now}")
 
     print("\n🎉 增量同步完成！")
 
