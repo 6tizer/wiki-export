@@ -29,6 +29,8 @@ DeepSeek 是由幻方量化支持、以大模型研究与产品化为核心的 A
 
 - [摘要：Anthropic的一万亿，与DeepSeek的100亿](summaries/摘要：Anthropic的一万亿，与DeepSeek的100亿.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyMTczNjE3Nw%3D%3D&mid=2247489444&idx=1&sn=4bc689d2efb7c57b6397ff4e4529291d&chksm=c0433b81e561b7a2551fb219379862d38b195b301b2fcba2184b8a432afb52f1e09952d19a79#rd)）
 
+- [摘要：一个二本的女生，用免费的AI考上了北大。](summaries/摘要：一个二本的女生，用免费的AI考上了北大。.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647681890&idx=1&sn=ee5e1d43ef3901e844d03cf7314dbdfb&chksm=f189dfa8724e5065c86dd738a61798efffdd2f880529e1350bf9a0d02f71f170ea268d7b675b#rd)）
+
 ## 关联概念
 
 - [Anthropic](entities/Anthropic.md)

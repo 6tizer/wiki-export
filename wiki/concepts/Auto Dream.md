@@ -5,7 +5,7 @@ tags:
 - 记忆系统
 status: 审核中
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/fe736f3f702542d1b8ce367dbf4f3144
@@ -44,8 +44,8 @@ Auto Dream 的工作流程分为四个步骤：
 
 - [摘要：Claude Code Auto Dream 记忆整理功能深度解析](summaries/摘要：Claude Code Auto Dream 记忆整理功能深度解析.md)（数字生命卡兹克，微信）
 
-- 《OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册》（QingQ77，X书签，2026-03-17）— 将 autoDream 作为记忆碎片定期整编机制，补充长期运行中的维护价值。
+- [摘要：OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册](summaries/摘要：OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册.md)（QingQ77，X书签，2026-03-17）— 将 autoDream 作为记忆碎片定期整编机制，补充长期运行中的维护价值。
 
-- 《OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册》— X书签，2026-03-17：将自动整理机制视为控制记忆技术债的关键手段
+- [摘要：OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册](summaries/摘要：OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册.md)— X书签，2026-03-17：将自动整理机制视为控制记忆技术债的关键手段
 
 - 《Claudebot-vibe：一个越用越聪明的 Claude Telegram 私人助理》｜X书签文章｜来源页：[摘要：Claudebot-vibe：一个越用越聪明的 Claude Telegram 私人助理](summaries/摘要：Claudebot-vibe：一个越用越聪明的 Claude Telegram 私人助理.md)

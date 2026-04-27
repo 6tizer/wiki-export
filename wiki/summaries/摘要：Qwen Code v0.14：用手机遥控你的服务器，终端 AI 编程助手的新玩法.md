@@ -6,7 +6,7 @@ tags:
 - LLM
 status: 已审核
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33f701074b6881aaa6b7cddf0aac791e
 notion_url: https://www.notion.so/eb0ee868a65f4f5c9f5a583f0ba1d45b

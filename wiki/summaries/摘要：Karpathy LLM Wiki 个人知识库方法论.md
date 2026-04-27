@@ -7,7 +7,7 @@ tags:
 - 记忆系统
 status: 已审核
 confidence: high
-last_compiled: '2026-04-10'
+last_compiled: '2026-04-27'
 source_tags: LLM, 自动化, Cursor, Agent, Karpathy, wiki
 source_article_url: ''
 notion_url: https://www.notion.so/a95b261e17184b138cd0cdca35bbe065

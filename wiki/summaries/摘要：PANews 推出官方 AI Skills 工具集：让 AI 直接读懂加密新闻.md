@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: Agent, LLM, Cursor, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b6881cb96a8c999d35d76b4
 notion_url: https://www.notion.so/47275568b0864e7e90710253aad633a2

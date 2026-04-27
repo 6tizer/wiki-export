@@ -6,7 +6,7 @@ tags:
 - 浏览器自动化
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/9388664845ca4644a7bc085b381763ad
@@ -29,7 +29,7 @@ Batching & Yielding 是一种前端长任务处理策略，即把大规模计算
 
 ### 来源引用
 
-- 2026/04/16｜《codeflow: github上最被低估的黑科技，仅用一个html文件，浏览器直接“透视”整个项目架构，自动计算代码变更的爆炸半径！》
+- 2026/04/16｜[摘要：codeflow:  github上最被低估的黑科技，仅用一个html文件，浏览器直接"透视"整个项目架构，自动计算代码变更的爆炸半径！](summaries/摘要：codeflow-  github上最被低估的黑科技，仅用一个html文件，浏览器直接透视整个项目架构，自动计算代码变更的爆炸半径！.md)
 
   - 来源：微信
 

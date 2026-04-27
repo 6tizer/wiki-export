@@ -6,7 +6,7 @@ tags:
 - 安全/隐私
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: Claude, 风控, 防封号, IP/代理
 source_article_url: ''
 notion_url: https://www.notion.so/fc5472c2b6494c2f87a0571703db93a0

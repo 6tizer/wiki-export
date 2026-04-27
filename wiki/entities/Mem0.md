@@ -6,7 +6,7 @@ tags:
 - 记忆系统
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/9a3d2b5bf31940a29b94c64ed3f7a8a5
@@ -37,7 +37,7 @@ Mem0 是一个轻量级 AI 记忆插件，通过 **Markdown 结构化**知识管
 
 ## 来源引用
 
-- 摘要：别再硬扛原生记忆了！OpenClaw内置Mem0
+- [摘要：别再硬扛原生记忆了！OpenClaw内置Mem0，让Agent更省token、更智能](summaries/摘要：别再硬扛原生记忆了！OpenClaw内置Mem0，让Agent更省token、更智能.md)
 
 - [原文链接](https://x.com/ResearchWang/status/2034161775797801206)｜《OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南》｜来源条目：[摘要：OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南](summaries/摘要：OpenClaw 省钱五剑法：节省 90% Token 消耗的完整插件指南.md)
 

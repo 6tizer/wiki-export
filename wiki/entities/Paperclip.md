@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8602af0505e44e42a01e1bf7183fea76
@@ -27,7 +27,7 @@ Paperclip 是一个把 AI Agent 组织成“公司”来持续运作的开源系
 
 ## 来源引用
 
-- [原文链接](https://x.com/dashen_wang/status/2031329754775957853)｜《Paperclip：用 AI 组建一家「零人工公司」的开源操作系统》｜来源条目：Paperclip：用 AI 组建一家「零人工公司」的开源操作系统
+- [原文链接](https://x.com/dashen_wang/status/2031329754775957853)｜[摘要：Paperclip：用 AI 组建一家「零人工公司」的开源操作系统](summaries/摘要：Paperclip：用 AI 组建一家「零人工公司」的开源操作系统.md)｜来源条目：Paperclip：用 AI 组建一家「零人工公司」的开源操作系统
 
 - [原文链接](https://x.com/AYi_AInotes/status/2031540041969963391)｜《Paperclip：一行命令，用 AI 智能体跑一家「无人公司」》｜来源条目：[摘要：Paperclip：一行命令，用 AI 智能体跑一家「无人公司」](summaries/摘要：Paperclip：一行命令，用 AI 智能体跑一家「无人公司」.md)
 

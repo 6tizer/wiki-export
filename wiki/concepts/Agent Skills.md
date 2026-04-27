@@ -7,7 +7,7 @@ tags:
 - 提示工程
 status: 审核中
 confidence: high
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f017ef06f33f4f6fb3f9f09740bd4063
@@ -40,13 +40,15 @@ Agent Skills 是给 AI Agent 封装领域知识、操作规范和资源入口的
 
 - [原文链接](https://x.com/RocM301/status/2042155081764893083)｜《微信支付推出 AI 原生接入 Skills：一句话完成支付接入》｜来源条目：[摘要：微信支付推出 AI 原生接入 Skills：一句话完成支付接入](summaries/摘要：微信支付推出 AI 原生接入 Skills：一句话完成支付接入.md)
 
-- 《wshobson/agents：用 72 个插件把 Claude Code 变成 AI 开发部队》
+- [摘要：wshobson/agents：用 72 个插件把 Claude Code 变成 AI 开发部队](summaries/摘要：wshobson-agents：用 72 个插件把 Claude Code 变成 AI 开发部队.md)
 
-- 《Impeccable：让 AI 写出真正有设计感的前端界面》（GitHubDaily，2026-03-09）— 展示了 Skills 如何承载设计知识、命令和约束
+- [摘要：Impeccable：让 AI 写出真正有设计感的前端界面](summaries/摘要：Impeccable：让 AI 写出真正有设计感的前端界面.md)（GitHubDaily，2026-03-09）— 展示了 Skills 如何承载设计知识、命令和约束
 
-- 《OpenClaw find-skills：让你的 AI 龙虾「不会就自动学」》（axiaisacat，X书签）— 补充 Skills 生态中“自动发现能力”的元技能层
+- [摘要：Impeccable：给 AI 装上设计师的脑子，消除前端页面的"AI 味"](summaries/摘要：Impeccable：给 AI 装上设计师的脑子，消除前端页面的AI 味.md)
 
-- 《腾讯 SkillHub：专为中国用户打造的 OpenClaw 技能社区》（LaurenceMister，X书签）— 补充 Skills 分发、本土镜像与安全审核的生态竞争维度
+- [摘要：OpenClaw find-skills：让你的 AI 龙虾「不会就自动学」](summaries/摘要：OpenClaw find-skills：让你的 AI 龙虾「不会就自动学」.md)（axiaisacat，X书签）— 补充 Skills 生态中"自动发现能力"的元技能层
+
+- [摘要：腾讯 SkillHub：专为中国用户打造的 OpenClaw 技能社区](summaries/摘要：腾讯 SkillHub：专为中国用户打造的 OpenClaw 技能社区.md)（LaurenceMister，X书签）— 补充 Skills 分发、本土镜像与安全审核的生态竞争维度
 
 - [原文链接](https://x.com/oragnes/status/2031376812190871718)｜《Agent Skills 生态全景：四大技能市场横评，让你的 AI 解锁超能力》｜来源条目：Agent Skills 生态全景：四大技能市场横评，让你的 AI 解锁超能力
 

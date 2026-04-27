@@ -2,7 +2,7 @@
 title: Agent 身份基础设施
 type: concept
 tags:
-- 安全/隐私
+- 身份准入
 status: 审核中
 confidence: high
 last_compiled: '2026-04-18'

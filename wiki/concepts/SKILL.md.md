@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/495c710ba0f342138f2d0cfb53ee771d
@@ -33,9 +33,9 @@ notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 
 - [原文链接](https://x.com/oragnes/status/2034221173970796776)｜《Google Cloud 的 5 种 [SKILL.md](http://skill.md/) 设计模式：让 AI 编程助手更听话的「抄作业」指南》｜来源条目：摘要：Google Cloud 的 5 种 SKILL.md 设计模式：让 AI 编程助手更听话的「抄作业」指南
 
-- 《HyperSkill：让 AI Agent 自动从文档中生成技能树》｜X书签文章｜原文链接：[https://x.com/xincctnnq/status/2034498939278545084](https://x.com/xincctnnq/status/2034498939278545084)
+- [摘要：HyperSkill：让 AI Agent 自动从文档中生成技能树](summaries/摘要：HyperSkill：让 AI Agent 自动从文档中生成技能树.md)｜X书签文章｜原文链接：[https://x.com/xincctnnq/status/2034498939278545084](https://x.com/xincctnnq/status/2034498939278545084)
 
-- 《用 Karpathy 的 autoresearch 方法，让你的 Claude Skill 自动进化》｜X书签文章｜原文链接：[https://x.com/MinLiBuilds/status/2034533228162187444](https://x.com/MinLiBuilds/status/2034533228162187444)
+- [摘要：用 Karpathy 的 autoresearch 方法，让你的 Claude Skill 自动进化](summaries/摘要：用 Karpathy 的 autoresearch 方法，让你的 Claude Skill 自动进化.md)｜X书签文章｜原文链接：[https://x.com/MinLiBuilds/status/2034533228162187444](https://x.com/MinLiBuilds/status/2034533228162187444)
 
 - 《OpenHarness：港大开源的 Claude Code 轻量平替，44 倍瘦身只保留 98% 核心功力》｜X书签文章｜原文链接：[https://x.com/Jason23818126/status/2040624214303211626](https://x.com/Jason23818126/status/2040624214303211626)｜来源条目：[摘要：OpenHarness：港大开源的 Claude Code 轻量平替，44 倍瘦身只保留 98% 核心功力](summaries/摘要：OpenHarness：港大开源的 Claude Code 轻量平替，44 倍瘦身只保留 98% 核心功力.md)
 

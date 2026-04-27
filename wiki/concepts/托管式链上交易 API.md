@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: 自动化, Web3, Solana, 链上交易
 source_article_url: ''
 notion_url: https://www.notion.so/ed230bf5da794437b1fc58b9a5ed57e9
@@ -27,7 +27,7 @@ notion_id: ed230bf5-da79-4437-b1fc-58b9a5ed57e9
 
 ## 来源引用
 
-- [原文链接](https://x.com/useXXYYio/status/2033502851880677682)｜《XXYY API：用 API Key 操盘多链 Meme 币，无需私钥的托管式链上交易接口》｜源文章：XXYY API：用 API Key 操盘多链 Meme 币，无需私钥的托管式链上交易接口
+- [原文链接](https://x.com/useXXYYio/status/2033502851880677682)｜[摘要：XXYY API：用 API Key 操盘多链 Meme 币，无需私钥的托管式链上交易接口](summaries/摘要：XXYY API：用 API Key 操盘多链 Meme 币，无需私钥的托管式链上交易接口.md)｜源文章：XXYY API：用 API Key 操盘多链 Meme 币，无需私钥的托管式链上交易接口
 
 ## 关联概念
 

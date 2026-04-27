@@ -7,7 +7,7 @@ tags:
 - 推理优化
 status: 审核中
 confidence: high
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/d28d860bff704645b3b513a2de1fe859
@@ -42,6 +42,6 @@ Caveman Mode 是一种面向 **Claude Code** 等 Coding Agent 的输出压缩配
 
 ## 来源引用
 
-- [原文链接](https://x.com/zaimiri/status/2044769304923529383)｜《How to Set Up Claude Code: Caveman Mode (Save 75% off)》｜来源页：Caveman Mode：让 Claude 像原始人一样说话，节省 75% Token 费用
+- [原文链接](https://x.com/zaimiri/status/2044769304923529383)｜[摘要：How to Set Up Claude Code: Caveman Mode (Save 75% off)](summaries/摘要：How to Set Up Claude Code- Caveman Mode (Save 75% off).md)｜来源页：Caveman Mode：让 Claude 像原始人一样说话，节省 75% Token 费用
 
 - [摘要：The fastest and most efficient code intelligence engine for AI coding agents.](summaries/摘要：The fastest and most efficient code intelligence engine for AI coding agents.md)（[原文](https://x.com/DataChaz/status/2045784379155226971)）

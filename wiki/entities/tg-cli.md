@@ -2,7 +2,7 @@
 title: tg-cli
 type: entity
 tags:
-- 内容创作
+- 社交媒体
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'

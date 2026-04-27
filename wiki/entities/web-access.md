@@ -7,7 +7,7 @@ tags:
 - Agent 协作模式
 status: 审核中
 confidence: high
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/4991007ef13142f2ace24f483faa1703
@@ -30,7 +30,7 @@ web-access 是一个围绕 Agent 联网场景设计的开源 Skill，面向 Clau
 
 ## 来源引用
 
-- 《这个 Skill 太硬了，刚开源就斩获 2.8K 星标！Agent 联网能力拉满！》｜文章链接：[https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA==&mid=2247546207&idx=1&sn=772820dba9a7a0a037b4bad24eee51ad&chksm=962fbc784ab760b642a982a17ee1b7a251fc8dd1573eef97759423d6400035677c10ff9ab5ae#rd](https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA%3D%3D&mid=2247546207&idx=1&sn=772820dba9a7a0a037b4bad24eee51ad&chksm=962fbc784ab760b642a982a17ee1b7a251fc8dd1573eef97759423d6400035677c10ff9ab5ae#rd)
+- [摘要：这个 Skill 太硬了，刚开源就斩获 2.8K 星标！Agent 联网能力拉满！](summaries/摘要：这个 Skill 太硬了，刚开源就斩获 2.8K 星标！Agent 联网能力拉满！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA%3D%3D&mid=2247546207&idx=1&sn=772820dba9a7a0a037b4bad24eee51ad&chksm=962fbc784ab760b642a982a17ee1b7a251fc8dd1573eef97759423d6400035677c10ff9ab5ae#rd)）
 
 ## 关联概念
 

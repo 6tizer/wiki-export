@@ -9,7 +9,7 @@ tags:
 - 训练/微调
 status: 审核中
 confidence: high
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/6a8cb9b4e0474053be1b5f821ce03cef
@@ -91,6 +91,8 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 - [摘要：A curated, high-signal index of autonomous improvement loops, research agents, and descendants inspired by](summaries/摘要：A curated, high-signal index of autonomous improvement loops, research agents, and descendants inspired by.md)（[原文](https://x.com/aiwithmayank/status/2046914454353510893)）
 
 - [摘要：new update to the LLM Knowledge base](summaries/摘要：new update to the LLM Knowledge base.md)（[原文](https://x.com/shannholmberg/status/2047013785857302550)）
+
+- [摘要：200刀打败18万美元FARS，我们离真正的Auto Research还有多远？](summaries/摘要：200刀打败18万美元FARS，我们离真正的Auto Research还有多远？.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw%3D%3D&mid=2247719869&idx=1&sn=286785641a7ed52f6a793ada026e99b7&chksm=97fd86517cd8ac029041769d3854be3aa40b9cfb029f9227e4c44dddc772f6182f320b544355#rd)）
 
 ## 关联概念
 

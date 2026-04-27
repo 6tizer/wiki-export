@@ -2,7 +2,7 @@
 title: Text-to-3D
 type: concept
 tags:
-- 内容创作
+- 视频/3D
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-23'

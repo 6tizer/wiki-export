@@ -7,7 +7,7 @@ tags:
 - 内容自动化
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8aee661f31bc4158b95a29577fa3fb3d
@@ -30,4 +30,4 @@ notion_id: 8aee661f-31bc-4158-b95a-29577fa3fb3d
 
 ## 来源引用
 
-- 《想让AI查个B站热门、知乎话题、微博热搜，Claude/OpenClaw根本访问不了这些网站。申请API又太麻烦，很多平台还不给个人开发者资质。》｜X书签文章｜原文链接：[https://x.com/mnmn94253156337/status/2044583527824719978](https://x.com/mnmn94253156337/status/2044583527824719978)｜来源条目：AutoCLI：让 AI Agent 真正能上网，复用 Chrome 登录状态直访 55+ 平台
+- [摘要：想让AI查个B站热门、知乎话题、微博热搜，Claude/OpenClaw根本访问不了这些网站。申请API又太麻烦，很多平台还不给个人开发者资质。](summaries/摘要：想让AI查个B站热门、知乎话题、微博热搜，Claude-OpenClaw根本访问不了这些网站。申请API又太麻烦，很多平台还不给个人开发者资质。.md)｜X书签文章｜原文链接：[https://x.com/mnmn94253156337/status/2044583527824719978](https://x.com/mnmn94253156337/status/2044583527824719978)｜来源条目：AutoCLI：让 AI Agent 真正能上网，复用 Chrome 登录状态直访 55+ 平台

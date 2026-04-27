@@ -5,7 +5,7 @@ tags:
 - 记忆系统
 status: 审核中
 confidence: high
-last_compiled: '2026-04-18'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f6a14ecd58434e4699b9469eb343f4fd
@@ -38,7 +38,7 @@ Auto Memory 是 Claude Code 的**自动记忆功能**，在对话过程中自动
 
 - [摘要：Claude Code Auto Dream 记忆整理功能深度解析](summaries/摘要：Claude Code Auto Dream 记忆整理功能深度解析.md)
 
-- 《Claude Code 重磅推出全新的 Memory记忆功能！》— 字节笔记本（微信，2026-02-27）：进一步介绍了自动记忆与文档记忆的双机制设计，以及按需读取优化策略
+- [摘要：Claude Code Memory 记忆功能](summaries/摘要：Claude Code Memory 记忆功能.md)— 字节笔记本（微信，2026-02-27）：进一步介绍了自动记忆与文档记忆的双机制设计，以及按需读取优化策略
 
 - [摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源](summaries/摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源.md) — 已知问题：Token 消耗增加（18分钟消耗 8% 配额）、记忆是影子状态（~/.claude/projects/ 不可 Git 追踪）、[MEMORY.md](http://memory.md/) 重复加载 Bug
 

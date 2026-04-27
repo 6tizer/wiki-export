@@ -5,7 +5,7 @@ tags:
 - 知识管理
 status: 已审核
 confidence: high
-last_compiled: ''
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/1249bdf6ad334e11ad3d44fde9cb241f
 notion_url: https://www.notion.so/5ee3bca30de04d6bb10016ba75368049

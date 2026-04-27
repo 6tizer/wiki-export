@@ -2,7 +2,7 @@
 title: SSL Pinning 绕过
 type: concept
 tags:
-- 安全/隐私
+- Agent 安全
 status: 草稿
 confidence: high
 last_compiled: '2026-04-15'

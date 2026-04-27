@@ -7,7 +7,7 @@ tags:
 - 算力基础设施
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-25'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/68a41e76b0d440718cca217cdd1b9810
@@ -38,7 +38,15 @@ notion_id: 68a41e76-b0d4-4071-8cca-217cdd1b9810
 
 - [摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。](summaries/摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI0ODk2NDIyMQ%3D%3D&mid=2247503221&idx=1&sn=3abe9c7d236f01328eff06cd93eb7286&chksm=e82a4c1d62d3dd1ee3fd07f99ef1de65c916585b4cb636d26a2e714edc4dfd62c9315a534f8c#rd)）
 
+- [摘要：DeepSeek V4永久降价！缓存命中再打1折，实测编程成本骤降83%](summaries/摘要：DeepSeek V4永久降价！缓存命中再打1折，实测编程成本骤降83%.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247886631&idx=2&sn=2678881a031fa59bfb08c1d237d2d98e&chksm=e9755c5e4b3a8ec6ed5dd523f8a8db6cc979f1e9a4acbef1e10d97b99a1c71f70532207be1e1#rd)）
+
+- [摘要：聊几句 DeepSeek V4 的体感。](summaries/摘要：聊几句 DeepSeek V4 的体感。.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA%3D%3D&mid=2247582111&idx=1&sn=a4c61d4001c76f54e9f8203e84c223f4&chksm=c1b21cecf8ff7060b60328b74bcb9760f3878a2f81ff10dcb20da58dc509fc7954f851074859#rd)）
+
 **关联概念**
+
+- [mHC](concepts/mHC.md)
+
+- [Muon 优化器](concepts/Muon 优化器.md)
 
 - [国产算力基础设施](concepts/国产算力基础设施.md)
 

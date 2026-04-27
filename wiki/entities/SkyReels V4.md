@@ -2,7 +2,7 @@
 title: SkyReels V4
 type: entity
 tags:
-- 内容创作
+- 视频/3D
 status: 审核中
 confidence: high
 last_compiled: '2026-04-24'

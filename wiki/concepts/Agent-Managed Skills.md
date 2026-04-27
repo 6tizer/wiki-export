@@ -2,7 +2,7 @@
 title: Agent-Managed Skills
 type: concept
 tags:
-- Agent 技能
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

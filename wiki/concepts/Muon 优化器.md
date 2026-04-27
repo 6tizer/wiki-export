@@ -5,7 +5,7 @@ tags:
 - LLM
 status: 草稿
 confidence: high
-last_compiled: '2026-04-24'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/bc1d157ebccd40d8b2fc194eea38e0ed
@@ -30,9 +30,13 @@ Muon 优化器是一种面向大模型训练的优化器路线，不再像 AdamW
 
 - [摘要：没想到！DeepSeek V4里，竟还藏着一个中国万亿开源模型](summaries/摘要：没想到！DeepSeek V4里，竟还藏着一个中国万亿开源模型.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652695014&idx=1&sn=f81382e51e476c13729ea001ffe75420&chksm=f0c02cf19ac3820ed9dbd1dac8fdbc7a605ff4e7415e7f0073c959a057da3463cc44512e18b7#rd)）
 
+- [摘要：聊几句 DeepSeek V4 的体感。](summaries/摘要：聊几句 DeepSeek V4 的体感。.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA%3D%3D&mid=2247582111&idx=1&sn=a4c61d4001c76f54e9f8203e84c223f4&chksm=c1b21cecf8ff7060b60328b74bcb9760f3878a2f81ff10dcb20da58dc509fc7954f851074859#rd)）
+
 ## 关联概念
 
 - [DeepSeek V4](entities/DeepSeek V4.md)
+
+- [mHC](concepts/mHC.md)
 
 - [Kimi K2.6](entities/Kimi K2.6.md)
 

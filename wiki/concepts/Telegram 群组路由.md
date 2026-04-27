@@ -6,7 +6,7 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/dc81a894a89148008103b29a4acf4f21
@@ -27,7 +27,7 @@ Telegram 群组路由是指在单个 Gateway 或 Bot 之上，依据群组 ID、
 
 ## 来源引用
 
-- 《OpenClaw 多角色 Telegram 群聊：一个 Gateway 跑产品经理、工程师、QA 的实战指南》（[Berryxia.ai](http://berryxia.ai/)，2026-04-01）— 系统说明了单 Bot 多群组和多 Bot 多 Agent 的路由方式
+- [摘要：OpenClaw 多角色 Telegram 群聊：一个 Gateway 跑产品经理、工程师、QA 的实战指南](summaries/摘要：OpenClaw 多角色 Telegram 群聊：一个 Gateway 跑产品经理、工程师、QA 的实战指南.md)（[Berryxia.ai](http://berryxia.ai/)，2026-04-01）— 系统说明了单 Bot 多群组和多 Bot 多 Agent 的路由方式
 
 ## 关联概念
 

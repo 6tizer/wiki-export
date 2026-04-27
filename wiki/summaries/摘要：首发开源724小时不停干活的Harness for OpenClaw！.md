@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 已审核
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-28'
 source_tags: OpenClaw, Harness, 开源项目
 source_article_url: ''
 notion_url: https://www.notion.so/c51b3735c7aa4c1fb8f6e5686c1416be

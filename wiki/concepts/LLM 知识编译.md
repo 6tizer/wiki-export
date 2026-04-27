@@ -40,6 +40,8 @@ notion_id: a0b2ab8f-ea9c-47eb-9a9f-ec57a199157b
 
 - [原文链接](https://x.com/yanhua1010/status/2039966047378583815)｜[摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践](summaries/摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpathy 方法论落地实践.md)
 
+- [摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？](summaries/摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI1ODIxNjk1OQ%3D%3D&mid=2649611293&idx=1&sn=7a85ba26ae5121b0eab159fd98346ff4&chksm=f368a598fd4532f7831bd0cf30ff657fce0d46d85cc880bb29b91c24a504ad1a2e9b01e71d2e#rd)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)

@@ -7,7 +7,7 @@ tags:
 - 笔记工具
 status: 已审核
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/88f43e60c3b84b75af2b9ee8ab534371
@@ -42,7 +42,7 @@ Claude Code Hooks 是 Claude Code 2.1 引入的事件驱动钩子机制，允许
 
 - [摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源](summaries/摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源.md)（老金带你玩AI, 2026-02-28）— 详细讲述 Hooks 在三层记忆系统中的应用
 
-- 《深度使用半年，我总结了 Claude Code 的架构、治理与工程实践》｜X书签文章｜原文链接：[https://x.com/HiTw93/status/2032091246588518683](https://x.com/HiTw93/status/2032091246588518683)
+- [摘要：深度使用半年，我总结了 Claude Code 的架构、治理与工程实践](summaries/摘要：深度使用半年，我总结了 Claude Code 的架构、治理与工程实践.md)｜X书签文章｜原文链接：[https://x.com/HiTw93/status/2032091246588518683](https://x.com/HiTw93/status/2032091246588518683)
 
 - [原文链接](https://x.com/shao__meng/status/2033497056460079453)｜[摘要：self-improving-agent：让 AI 编程助手从错误中真正学习的 OpenClaw Skills](summaries/摘要：self-improving-agent：让 AI 编程助手从错误中真正学习的 OpenClaw Skills.md)
 

@@ -35,6 +35,8 @@ Graphify 是一个面向 AI 编码助手的知识图谱编译工具，可将 Mar
 
 - [摘要：Graphify 与 GitNexus，正在用知识图谱把“代码理解”从搜索升级为结构化认知](summaries/摘要：Graphify 与 GitNexus，正在用知识图谱把“代码理解”从搜索升级为结构化认知.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU2NzkxNDY0Ng%3D%3D&mid=2247490280&idx=1&sn=3e04564d5f02e3aa99ad4b4ffe55acf7&chksm=fd80f854d8e46df0ea29f4b9de0c72b7150b1c6bbfef9ef3265e32acd6d554fa0ed6dea09c83#rd)）
 
+- [摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？](summaries/摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI1ODIxNjk1OQ%3D%3D&mid=2649611293&idx=1&sn=7a85ba26ae5121b0eab159fd98346ff4&chksm=f368a598fd4532f7831bd0cf30ff657fce0d46d85cc880bb29b91c24a504ad1a2e9b01e71d2e#rd)）
+
 ## 关联概念
 
 - [wechat-cli](entities/wechat-cli.md)

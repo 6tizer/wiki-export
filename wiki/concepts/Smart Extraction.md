@@ -2,7 +2,7 @@
 title: Smart Extraction
 type: concept
 tags:
-- 记忆系统
+- RAG/检索
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'

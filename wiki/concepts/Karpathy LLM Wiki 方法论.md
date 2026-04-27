@@ -214,7 +214,7 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 
 - [摘要：Karpathy 又双叒叕发新概念了，这次我替你找到了那个产品](summaries/摘要：Karpathy 又双叒叕发新概念了，这次我替你找到了那个产品.md)（花叔，2026-04-07）
 
-- [摘要：实操指南：如何用 Karpathy 的 LLM + Markdown + Wiki 搭建个人知识库](summaries/摘要：实操指南：如何用 Karpathy 的 LLM + Markdown + Wiki 搭建个人知识库.md)（Alphana和大船的AI工作区，2026-04-10）
+- 摘要：实操指南：如何用 Karpathy 的 LLM + Markdown + Wiki 搭建个人知识库（Alphana和大船的AI工作区，2026-04-10）
 
 - [摘要：Andrej Karpathy 现在成了一个超级 AI 明星。他最近主推的一个 LLM+ MD + Wiki 的个人知识库特别火](summaries/摘要：Andrej Karpathy 现在成了一个超级 AI 明星。他最近主推的一个 LLM+ MD + Wiki 的个人知识库特别火.md)（MacTalk，2026-04-07）
 
@@ -263,3 +263,5 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 - [摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打造的 AI 知识库应用！](summaries/摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打造的 AI 知识库应用！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkwMjQ0NzI0OQ%3D%3D&mid=2247505963&idx=1&sn=b590481b7f9c1dd86ea25cf168a2d7a4&chksm=c117c2239e6f0d9f4bcb402b081126525c06d59d365925b3d4a00f67978b1b98416d0fadb10a#rd)）
 
 - [摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基](summaries/摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY4MTIyMDE5NA%3D%3D&mid=2247484305&idx=1&sn=8285d7e5a1d4afe2b7ff893e2ba7cbce&chksm=f2e5e6c281611370b3ee4bf810854a3f2c40b58c0cb3f837e9276489597fd7944edb90e721f1#rd)）
+
+- [摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？](summaries/摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI1ODIxNjk1OQ%3D%3D&mid=2649611293&idx=1&sn=7a85ba26ae5121b0eab159fd98346ff4&chksm=f368a598fd4532f7831bd0cf30ff657fce0d46d85cc880bb29b91c24a504ad1a2e9b01e71d2e#rd)）

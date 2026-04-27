@@ -2,10 +2,10 @@
 title: MCP Server
 type: concept
 tags:
-- Agent 技能
+- MCP 协议
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/69f3b62cb88745678beb0dad6d1b7359

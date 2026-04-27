@@ -2,11 +2,10 @@
 title: Hands 机制
 type: concept
 tags:
-- Agent 框架
-- Agent 编排
-- 工作流
-- 安全/隐私
+- Agent 安全
 - 多Agent协作
+- Agent 协作模式
+- Harness 工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

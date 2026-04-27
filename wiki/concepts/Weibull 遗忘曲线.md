@@ -2,7 +2,7 @@
 title: Weibull 遗忘曲线
 type: concept
 tags:
-- 记忆系统
+- 长期记忆
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'

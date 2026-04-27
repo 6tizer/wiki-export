@@ -6,7 +6,7 @@ tags:
 - OpenClaw
 status: 已审核
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-27'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/33e701074b6881f480a4faff6046be1e
 notion_url: https://www.notion.so/7f8d339d43a840acb761b5dc3b8bfeb5

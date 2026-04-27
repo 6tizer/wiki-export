@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 已审核
 confidence: high
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-27'
 source_tags: LLM, Agent, harness, 开源, GitHub
 source_article_url: https://www.notion.so/344701074b688123b173fcf4510226b3
 notion_url: https://www.notion.so/5a68220d947e49659754456b03852e01

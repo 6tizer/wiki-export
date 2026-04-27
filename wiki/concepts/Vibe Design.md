@@ -2,7 +2,7 @@
 title: Vibe Design
 type: concept
 tags:
-- 内容创作
+- AI 设计
 status: 审核中
 confidence: high
 last_compiled: '2026-04-24'

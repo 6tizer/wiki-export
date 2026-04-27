@@ -5,7 +5,7 @@ tags:
 - OpenClaw
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-28'
 source_tags: OpenClaw, 产品发布
 source_article_url: ''
 notion_url: https://www.notion.so/60beb464439743f5b718a065da9f2901

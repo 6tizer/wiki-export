@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/8fe8c2b16ae54741858dd0dcbded9eac
@@ -31,7 +31,7 @@ TradingView MCP Bridge 是一个把 [Claude Code](entities/Claude Code.md) 与�
 
 ## 来源引用
 
-- [原文链接](https://x.com/milesdeutscher/status/2044536031991763414)｜《How to Connect Claude to TradingView (FULL GUIDE)》｜源文章：Claude × TradingView：用 MCP 把 AI 变成你的专属交易桌面助手
+- [原文链接](https://x.com/milesdeutscher/status/2044536031991763414)｜[摘要：How to Connect Claude to TradingView (FULL GUIDE)](summaries/摘要：How to Connect Claude to TradingView (FULL GUIDE).md)｜源文章：Claude × TradingView：用 MCP 把 AI 变成你的专属交易桌面助手
 
 - [摘要：Build Your First TradingView Indicator with Claude (Full Guide)](summaries/摘要：Build Your First TradingView Indicator with Claude (Full Guide).md)（[原文](https://x.com/KoroushAK/status/2046950514743529688)）
 

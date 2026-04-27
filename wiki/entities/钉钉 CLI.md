@@ -2,7 +2,7 @@
 title: 钉钉 CLI
 type: entity
 tags:
-- Agent 技能
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'

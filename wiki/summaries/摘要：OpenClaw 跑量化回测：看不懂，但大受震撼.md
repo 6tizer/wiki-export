@@ -6,7 +6,7 @@ tags:
 - 工作流
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-28'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
 notion_url: https://www.notion.so/69fedc008a7c409583a2c74289f0aba3

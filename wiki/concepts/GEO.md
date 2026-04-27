@@ -7,7 +7,7 @@ tags:
 - AI 产品
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/f7bf57a9331043c38914550648f2465c
@@ -50,7 +50,7 @@ GEO 的核心目标是让品牌在 AI 助手生成回答时被引用、被推荐
 
 - 推文：[@tim_geo_seo, 2026-04-09](https://x.com/tim_geo_seo/status/2042096325634953260) — GEO 内容生产系统介绍
 
-- 《GEO-SEO Claude Code Skill：用 AI Agent 给网站做「AI 搜索引擎优化」》（GitHubDaily，X书签）— 补充 GEO 从概念走向审计工具链、评分体系与 llms.txt 配置实践
+- [摘要：GEO-SEO Claude Code Skill：用 AI Agent 给网站做「AI 搜索引擎优化」](summaries/摘要：GEO-SEO Claude Code Skill：用 AI Agent 给网站做「AI 搜索引擎优化」.md)（GitHubDaily，X书签）— 补充 GEO 从概念走向审计工具链、评分体系与 llms.txt 配置实践
 
 - [原文链接](https://x.com/YangGuangAI/status/2033522959407878621)｜《GEO 实战指南：如何让 AI 搜索主动引用你的内容》｜来源条目：[摘要：GEO 实战指南：如何让 AI 搜索主动引用你的内容](summaries/摘要：GEO 实战指南：如何让 AI 搜索主动引用你的内容.md)
 

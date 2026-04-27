@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 已审核
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
 notion_url: https://www.notion.so/87bf6d5972ec462b9de2758763184551
@@ -28,7 +28,7 @@ superpowers 不是单纯的 AI 编程工具，而是一套把工程规范编码�
 
 ### 提取的概念
 
-- [superpowers 框架](concepts/superpowers 框架.md)
+- [superpowers 框架](entities/superpowers 框架.md)
 
 - [Git Worktree](concepts/Git Worktree.md)
 

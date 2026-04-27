@@ -2,7 +2,7 @@
 title: ZeeLin Music
 type: entity
 tags:
-- 内容创作
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-24'

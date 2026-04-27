@@ -5,7 +5,7 @@ tags:
 - OpenClaw
 status: 已审核
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-28'
 source_tags: Agent, LLM, Cursor, OpenClaw, 自动化, harness, 港大开源
 source_article_url: ''
 notion_url: https://www.notion.so/92ae5a7165f14cd9a701297d2b9210cb

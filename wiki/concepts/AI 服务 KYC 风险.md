@@ -6,7 +6,7 @@ tags:
 - AI 政策
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/fb11122f110544db8cb9a2b26c1f83b9
@@ -29,7 +29,7 @@ AI 服务 KYC 风险，是指模型供应商引入身份验证或地区合规门
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMDQ0Nw%3D%3D&mid=2247484645&idx=1&sn=b2a8072e31f73857b37fa828a6653a09&chksm=fa3ef1e2aaaa6863d5c2fce89e53e93e1dc5cde21f60251c60befa308e493ec567d7f39f35bf#rd)｜[摘要：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？](summaries/摘要：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？.md)｜源页面：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？
 
-- [原文链接](https://mp.weixin.qq.com/s?__biz=MzkxMjg4NDA4MA%3D%3D&mid=2247485124&idx=1&sn=85043586a51b77efa1e08dd3978cb95c&chksm=c083e9a265ab0e5499d949cd8d622011a40e324ab5da4405ac97f342bf48649da270086ae923#rd)｜《生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧》｜来源条目：[摘要：生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧](summaries/摘要：生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧.md)
+- [原文链接](https://mp.weixin.qq.com/s?__biz=MzkxMjg4NDA4MA%3D%3D&mid=2247485124&idx=1&sn=85043586a51b77efa1e08dd3978cb95c&chksm=c083e9a265ab0e5499d949cd8d622011a40e324ab5da4405ac97f342bf48649da270086ae923#rd)｜[摘要：生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧](summaries/摘要：生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧.md)｜来源条目：[摘要：生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧](summaries/摘要：生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧.md)
 
 ## 关联概念
 

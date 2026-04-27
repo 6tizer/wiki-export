@@ -7,7 +7,7 @@ tags:
 - CLI 工具
 status: 已审核
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/348701074b6881d388a0f7ae34f20c19
 notion_url: https://www.notion.so/81e3b56fea9f43b3aa73498a9cb2466f

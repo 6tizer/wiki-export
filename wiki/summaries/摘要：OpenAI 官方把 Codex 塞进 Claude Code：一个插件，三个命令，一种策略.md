@@ -5,7 +5,7 @@ tags:
 - Coding Agent
 status: 已审核
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-27'
 source_tags: Agent, LLM, Cursor, 自动化
 source_article_url: https://www.notion.so/336701074b68811185a5c6fdbc1e7816
 notion_url: https://www.notion.so/af7a2e1a8da94046a24657c85358b56a

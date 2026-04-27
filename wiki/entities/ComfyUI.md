@@ -32,3 +32,5 @@ ComfyUI 是以节点式工作流为核心的本地生成界面与编排工具，
 - [摘要：10 Github repos that replace $855/month of paid AI tools](summaries/摘要：10 Github repos that replace $855-month of paid AI tools.md)（[原文](https://x.com/DeRonin_/status/2046903404279009472)）
 
 - 源文章：开源视频 Agent 框架全景扫描：八个项目，哪个适合你？
+
+- [摘要：阿里把视频生产线开源了：一个人，真的能干翻整个MCN](summaries/摘要：阿里把视频生产线开源了：一个人，真的能干翻整个MCN.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzYzNzgzNzQ0OQ%3D%3D&mid=2247483895&idx=1&sn=7346fd7d8397d1271cd0c780157dfefc&chksm=f1e707ee7416ed4be2b8d89c794c3153196290af1006554d832ff3bef8d31ff55e3366242af5#rd)）
