@@ -33,6 +33,8 @@ GITHUB_REPO = "6tizer/wiki-export"
 TYPE_TO_DIR = {"concept": "concepts", "entity": "entities", "synthesis": "syntheses", "summary": "summaries"}
 OUTPUT_DIR = Path(os.environ.get("OUTPUT_DIR", "./wiki-export"))
 TZ = ZoneInfo("Asia/Shanghai")
+HTTP_PROXY = os.environ.get("HTTP_PROXY") or os.environ.get("http_proxy") or None
+REQUEST_PROXIES = {"https": HTTP_PROXY, "http": HTTP_PROXY} if HTTP_PROXY else None
 
 NOTION_API = "https://api.notion.com/v1"
 NOTION_HEADERS = {
@@ -75,9 +77,10 @@ class RateLimiter:
         for attempt in range(self.max_retries):
             self.wait()
             try:
-                resp = requests.request(method, url, headers=NOTION_HEADERS, **kwargs)
+                resp = requests.request(method, url, headers=NOTION_HEADERS, proxies=REQUEST_PROXIES, **kwargs)
             except (requests.exceptions.SSLError,
-                    requests.exceptions.ConnectionError) as e:
+                    requests.exceptions.ConnectionError,
+                    requests.exceptions.Timeout) as e:
                 backoff = min(2 ** attempt, 30)
                 print(f"  ⚠️ 连接错误: {type(e).__name__}，等待 {backoff}s (attempt {attempt+1}/{self.max_retries})")
                 time.sleep(backoff)
@@ -967,10 +970,12 @@ def cmd_incremental(args):
     # 5. 删除检测
     print("\n🗑️  步骤 4: 删除检测...")
     notion_active_ids = set(p["id"] for p in all_valid)
+    # 同时包含不带连字符的版本，防止 page_mapping 中的旧格式 key 误匹配
+    notion_active_ids_no_hyphen = set(pid.replace("-", "") for pid in notion_active_ids)
     deleted = 0
 
     for page_id, info in list(state.get("page_mapping", {}).items()):
-        if page_id not in notion_active_ids:
+        if page_id not in notion_active_ids and page_id not in notion_active_ids_no_hyphen:
             file_path = OUTPUT_DIR / info["file_path"]
             if file_path.exists():
                 file_path.unlink()
