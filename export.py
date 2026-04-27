@@ -717,7 +717,10 @@ def generate_index(pages: list[dict], page_map: dict[str, str]):
     index_path = OUTPUT_DIR / "wiki" / "index.md"
     index_path.parent.mkdir(parents=True, exist_ok=True)
     index_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"✅ 已生成 wiki/index.md ({total_concepts}C + {total_entities}E + {total_syntheses}S)")
+    total_c = type_counts.get("concept", 0)
+    total_e = type_counts.get("entity", 0)
+    total_s = type_counts.get("synthesis", 0)
+    print(f"✅ 已生成 wiki/index.md ({total_c}C + {total_e}E + {total_s}S)")
 
 # ── Schema 文件生成 ───────────────────────────────────
 
