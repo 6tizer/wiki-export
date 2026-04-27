@@ -41,8 +41,10 @@ NOTION_HEADERS = {
     "Content-Type": "application/json",
 }
 
-VALID_TYPES = {"concept", "entity", "synthesis", "summary"}
-INDEX_TYPES = {"concept", "entity", "synthesis"}  # 列入 index.md 的类型
+
+def get_type_dir(page_type: str) -> str:
+    """获取类型对应的子目录，已知类型用映射，未知类型直接用类型名。"""
+    return TYPE_TO_DIR.get(page_type, page_type)
 
 # 文件名非法字符映射
 FILENAME_REPLACEMENTS = {
@@ -469,13 +471,13 @@ def build_page_map(pages: list[dict]) -> dict[str, str]:
         page_type = extract_select(page, "类型")
         title = extract_title(page)
 
-        if not page_type or page_type not in VALID_TYPES:
+        if not page_type:
             continue
 
         filename = sanitize_filename(title) if title else page_id[:8]
         filename = f"{filename}.md"
 
-        type_dir = TYPE_TO_DIR[page_type]
+        type_dir = get_type_dir(page_type)
         relative_path = f"{type_dir}/{filename}"
 
         # 同时存储带连字符和不带连字符的版本
@@ -513,7 +515,7 @@ def build_sync_state(pages: list[dict], page_map: dict[str, str]) -> dict:
     for page in pages:
         page_id = page["id"]
         page_type = extract_select(page, "类型")
-        if page_type not in VALID_TYPES:
+        if not page_type:
             continue
         rel_path = page_map.get(page_id, "")
         if not rel_path:
@@ -543,7 +545,7 @@ def update_sync_state(state: dict, pages: list[dict], page_map: dict[str, str]):
     for page in pages:
         page_id = page["id"]
         page_type = extract_select(page, "类型")
-        if page_type not in VALID_TYPES:
+        if not page_type:
             continue
         rel_path = page_map.get(page_id, "")
         if not rel_path:
@@ -585,7 +587,7 @@ def export_page(page: dict, page_map: dict[str, str], exported: set[str]) -> boo
     page_type = extract_select(page, "类型")
     title = extract_title(page)
 
-    if not page_type or page_type not in VALID_TYPES:
+    if not page_type:
         return False
 
     # 断点续传：跳过已导出的
@@ -620,7 +622,7 @@ def export_page(page: dict, page_map: dict[str, str], exported: set[str]) -> boo
     # 写文件
     filename = sanitize_filename(title) if title else page_id[:8]
     filename = f"{filename}.md"
-    type_dir = OUTPUT_DIR / "wiki" / TYPE_TO_DIR[page_type]
+    type_dir = OUTPUT_DIR / "wiki" / get_type_dir(page_type)
     type_dir.mkdir(parents=True, exist_ok=True)
 
     file_path = type_dir / filename
@@ -639,8 +641,7 @@ def export_page(page: dict, page_map: dict[str, str], exported: set[str]) -> boo
 
 def generate_index(pages: list[dict], page_map: dict[str, str]):
     """生成 wiki/index.md。"""
-    # 只列出 concept + entity + synthesis
-    indexed = [p for p in pages if extract_select(p, "类型") in INDEX_TYPES]
+    indexed = [p for p in pages if extract_select(p, "类型")]
 
     # 按标签分组
     tag_groups: dict[str, dict[str, list]] = {}
@@ -653,29 +654,32 @@ def generate_index(pages: list[dict], page_map: dict[str, str]):
 
         for tag in tags:
             if tag not in tag_groups:
-                tag_groups[tag] = {"concept": [], "entity": [], "synthesis": []}
-            if page_type in tag_groups[tag]:
-                tag_groups[tag][page_type].append((title, rel_path))
+                tag_groups[tag] = {}
+            if page_type not in tag_groups[tag]:
+                tag_groups[tag][page_type] = []
+            tag_groups[tag][page_type].append((title, rel_path))
 
-    # 统计
-    total_concepts = sum(1 for p in indexed if extract_select(p, "类型") == "concept")
-    total_entities = sum(1 for p in indexed if extract_select(p, "类型") == "entity")
-    total_syntheses = sum(1 for p in indexed if extract_select(p, "类型") == "synthesis")
+    # 统计（动态按类型）
+    type_counts: dict[str, int] = {}
+    for p in indexed:
+        t = extract_select(p, "类型")
+        type_counts[t] = type_counts.get(t, 0) + 1
 
     now = datetime.now(TZ).strftime("%Y-%m-%d")
+
+    type_summary = " · ".join(f"{v} {k}s" for k, v in sorted(type_counts.items()))
 
     lines = [
         "---",
         f"type: index",
-        f"total_concepts: {total_concepts}",
-        f"total_entities: {total_entities}",
-        f"total_syntheses: {total_syntheses}",
+        f"type_counts: {json.dumps(type_counts, ensure_ascii=False)}",
+        f"total: {sum(type_counts.values())}",
         f"last_updated: {now}",
         "---",
         "",
         "# 📚 知识 Wiki Index",
         "",
-        f"> {total_concepts} concepts · {total_entities} entities · {total_syntheses} syntheses",
+        f"> {type_summary}",
         f"> 导出时间: {now}",
         "",
         "## 使用方式",
@@ -690,20 +694,22 @@ def generate_index(pages: list[dict], page_map: dict[str, str]):
         group = tag_groups[tag]
         lines.append(f"## {tag}")
 
-        for ptype in ("concept", "entity"):
-            items = group.get(ptype, [])
+        for ptype in sorted(group.keys()):
+            items = group[ptype]
             if items:
                 lines.append(f"### {ptype.capitalize()}s")
                 for title, path in sorted(items, key=lambda x: x[0]):
                     lines.append(f"- [{title}]({path})")
                 lines.append("")
 
-    # Syntheses 单独列出
-    all_syntheses = [(extract_title(p), page_map.get(p["id"], "")) for p in indexed if extract_select(p, "类型") == "synthesis"]
-    if all_syntheses:
-        lines.append("## Syntheses（所有综合分析）")
-        for title, path in sorted(all_syntheses, key=lambda x: x[0]):
-            lines.append(f"- [{title}]({path})")
+    # 非 concept/entity 的类型单独列出
+    non_core_types = [t for t in sorted(type_counts.keys()) if t not in ("concept", "entity")]
+    for ntype in non_core_types:
+        all_items = [(extract_title(p), page_map.get(p["id"], "")) for p in indexed if extract_select(p, "类型") == ntype]
+        if all_items:
+            lines.append(f"## {ntype.capitalize()}s（所有{ntype}）")
+            for title, path in sorted(all_items, key=lambda x: x[0]):
+                lines.append(f"- [{title}]({path})")
 
     index_path = OUTPUT_DIR / "wiki" / "index.md"
     index_path.parent.mkdir(parents=True, exist_ok=True)
@@ -794,10 +800,30 @@ def git_commit_and_push(message: str, force: bool = False):
         return False
 
     subprocess.run(["git", "commit", "-m", message], cwd=wiki_dir, check=True)
+
     push_cmd = ["git", "push", "-u", "origin", "main"]
     if force:
         push_cmd.append("--force")
-    subprocess.run(push_cmd, cwd=wiki_dir, check=True)
+
+    result = subprocess.run(push_cmd, cwd=wiki_dir, capture_output=True, text=True)
+    if result.returncode != 0:
+        # push 失败，尝试 pull --rebase 后重试
+        print(f"  ⚠️ Push 失败，尝试 rebase...")
+        rebase_result = subprocess.run(
+            ["git", "pull", "--rebase", "origin", "main"],
+            cwd=wiki_dir, capture_output=True, text=True
+        )
+        if rebase_result.returncode == 0:
+            retry = subprocess.run(push_cmd, cwd=wiki_dir, capture_output=True, text=True)
+            if retry.returncode != 0:
+                print(f"  ❌ Rebase 后 push 仍失败: {retry.stderr.strip()}")
+                return False
+        else:
+            print(f"  ❌ Rebase 失败: {rebase_result.stderr.strip()}")
+            # rebase 失败时中止，避免残留状态
+            subprocess.run(["git", "rebase", "--abort"], cwd=wiki_dir, capture_output=True)
+            return False
+
     print(f"  ✅ 已推送到 {GITHUB_REPO}")
     return True
 
@@ -820,9 +846,8 @@ def cmd_full(args):
     ]
     all_pages = query_database(DATABASE_ID, filter_obj, sorts)
 
-    # 过滤只要 concept/entity/synthesis/summary
-    pages = [p for p in all_pages if extract_select(p, "类型") in VALID_TYPES]
-    print(f"  共 {len(pages)} 个有效页面（过滤掉了 {len(all_pages) - len(pages)} 个）")
+    pages = [p for p in all_pages if extract_select(p, "类型")]
+    print(f"  共 {len(pages)} 个有效页面（过滤掉了 {len(all_pages) - len(pages)} 个无类型的）")
 
     # 2. 构建映射表
     print("\n🗺️  步骤 2: 构建映射表...")
@@ -911,13 +936,13 @@ def cmd_incremental(args):
         ]
     }
     changed_pages = query_database(DATABASE_ID, filter_obj)
-    changed_pages = [p for p in changed_pages if extract_select(p, "类型") in VALID_TYPES]
+    changed_pages = [p for p in changed_pages if extract_select(p, "类型")]
     print(f"  变更页面: {len(changed_pages)} 个")
 
     # 3. 获取全量页面列表（构建映射表 + 删除检测）
     print("\n🗺️  步骤 2: 获取全量映射表...")
     all_pages = query_database(DATABASE_ID, {"property": "类型", "select": {"is_not_empty": True}})
-    all_valid = [p for p in all_pages if extract_select(p, "类型") in VALID_TYPES]
+    all_valid = [p for p in all_pages if extract_select(p, "类型")]
     page_map = build_page_map(all_valid)
     print(f"  全量页面: {len(all_valid)}, 映射条目: {len(page_map) // 2}")
 
@@ -992,7 +1017,7 @@ def cmd_index_only(args):
     print("🚀 重建 index.md...")
 
     all_pages = query_database(DATABASE_ID, {"property": "类型", "select": {"is_not_empty": True}})
-    pages = [p for p in all_pages if extract_select(p, "类型") in VALID_TYPES]
+    pages = [p for p in all_pages if extract_select(p, "类型")]
     page_map = build_page_map(pages)
 
     generate_index(pages, page_map)
