@@ -6,10 +6,10 @@ tags:
 - 商业/生态
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-16'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/85cfbf61b5374b23a245218a40f29c53
+notion_url: https://www.notion.so/Tizer/85cfbf61b5374b23a245218a40f29c53
 notion_id: 85cfbf61-b537-4b23-a245-218a40f29c53
 ---
 
@@ -46,6 +46,10 @@ OpenRouter 是全球最大的模型聚合平台，提供统一 API 接入多家 
 - [摘要：New from K-Dense: mimeo.](summaries/摘要：New from K-Dense- mimeo.md)（[原文](https://x.com/k_dense_ai/status/2047020939590992051)）
 
 - [摘要：Anthropic has quietly shipped third-party inference for Cowork and Code in Claude Desktop.](summaries/摘要：Anthropic has quietly shipped third-party inference for Cowork and Code in Claude Desktop.md)（[原文](https://x.com/PawelHuryn/status/2047039360856387944)）
+
+- [摘要：free-claude-code：0元白嫖 Claude Code 全套工程能力](summaries/摘要：free-claude-code：0元白嫖 Claude Code 全套工程能力.md)（[原文](https://x.com/VincentLogic/status/2047310943202181608)）
+
+- [摘要：Turn Your Hermes Agent Into an OpenRouter Expert](summaries/摘要：Turn Your Hermes Agent Into an OpenRouter Expert.md)（[原文](https://x.com/OpenRouter/status/2047506176447783155)）
 
 ## 关联概念
 
@@ -84,3 +88,5 @@ OpenRouter 是全球最大的模型聚合平台，提供统一 API 接入多家 
 - [mimeo](entities/mimeo.md)
 
 - [Parallel Search API](entities/Parallel Search API.md)
+
+- [OpenRouter Agent SDK](entities/OpenRouter Agent SDK.md)

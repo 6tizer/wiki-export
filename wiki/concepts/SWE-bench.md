@@ -9,7 +9,7 @@ confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a435fb7fdd2647e9aaf932f2eb7e7ab2
+notion_url: https://www.notion.so/Tizer/a435fb7fdd2647e9aaf932f2eb7e7ab2
 notion_id: a435fb7f-dd26-47e9-aaf9-32f2eb7e7ab2
 ---
 
@@ -50,3 +50,5 @@ SWE-bench 是一个用于评估模型或智能体软件工程能力的基准测�
 - [摘要：local Windsurf language server](summaries/摘要：local Windsurf language server.md)（[原文](https://x.com/cognition/status/2041588234191552782)）
 
 - [摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车](summaries/摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车.md)（[原文](https://x.com/mercor_ai/status/2045254642385510894)）
+
+- [摘要：The AI war has just started: ChatGPT 5.5 vs Claude Opus 4.7](summaries/摘要：The AI war has just started- ChatGPT 5.5 vs Claude Opus 4.7.md)（[原文](https://x.com/defileo/status/2047748267526570468)）

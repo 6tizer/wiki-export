@@ -6,10 +6,10 @@ tags:
 - Agent 技能
 status: 草稿
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cb4a9377b27c46ed9ef2bfd453a25eb4
+notion_url: https://www.notion.so/Tizer/cb4a9377b27c46ed9ef2bfd453a25eb4
 notion_id: cb4a9377-b27c-46ed-9ef2-bfd453a25eb4
 ---
 
@@ -56,3 +56,5 @@ Skillify 是一种把 Agent 的单次成功经验或失败修复，升级为可�
 - [摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题](summaries/摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题.md)（[原文](https://x.com/garrytan/status/2046981289031667961)）
 
 - [摘要：Had no idea but there is a lot of simultaneous discovery in agentic engineering these days](summaries/摘要：Had no idea but there is a lot of simultaneous discovery in agentic engineering these days.md)（[原文](https://x.com/garrytan/status/2047039110326673872)）
+
+- [摘要：Big drop for GBrain v0.19.](summaries/摘要：Big drop for GBrain v0.19.md)（[原文](https://x.com/garrytan/status/2047504667127799974)）

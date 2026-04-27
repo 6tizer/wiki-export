@@ -9,7 +9,7 @@ confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/166de7d4ee3446c5bea8a1e9d0cd2430
+notion_url: https://www.notion.so/Tizer/166de7d4ee3446c5bea8a1e9d0cd2430
 notion_id: 166de7d4-ee34-46c5-bea8-a1e9d0cd2430
 ---
 
@@ -42,3 +42,5 @@ agentmemory 是一个面向 AI Coding Agent 的持久化记忆层与记忆服务
 ## 来源引用
 
 - [摘要：local-first AI assistant built for personal AI sovereignty](summaries/摘要：local-first AI assistant built for personal AI sovereignty.md)（[原文](https://x.com/ghumare64/status/2045291112454402194)）
+
+- [摘要：Graph is the final boss of memory](summaries/摘要：Graph is the final boss of memory.md)（[原文](https://x.com/rohit4verse/status/2048081996841435596)）

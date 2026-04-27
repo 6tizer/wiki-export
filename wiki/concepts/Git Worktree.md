@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/698addfbefd54f35a35cac9e790bd847
+notion_url: https://www.notion.so/Tizer/698addfbefd54f35a35cac9e790bd847
 notion_id: 698addfb-efd5-4f35-a35c-ac9e790bd847
 ---
 
@@ -61,11 +61,13 @@ git worktree remove ../feature-branch               # 删除 worktree
 
 - [摘要：How I built harness for my agent using Claude Code leaks](summaries/摘要：How I built harness for my agent using Claude Code leaks.md)（[原文](https://x.com/rohit4verse/status/2041548810804211936)）
 
+- [摘要：Cursor 3 /multitask 异步子代理并行执行](summaries/摘要：Cursor 3 -multitask 异步子代理并行执行.md)（[原文](https://x.com/cursor_ai/status/2047764651363180839)）
+
 ## 关联概念
 
 - [Compound Engineering](concepts/Compound Engineering.md)
 
-- [superpowers 框架](concepts/superpowers 框架.md)
+- [superpowers 框架](entities/superpowers 框架.md)
 
 - [测试驱动开发](concepts/测试驱动开发.md)
 

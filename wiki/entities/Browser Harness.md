@@ -5,10 +5,10 @@ tags:
 - 浏览器自动化
 status: 草稿
 confidence: high
-last_compiled: '2026-04-21'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/bf92576a01f14d729e478633adc44b57
+notion_url: https://www.notion.so/Tizer/bf92576a01f14d729e478633adc44b57
 notion_id: bf92576a-01f1-4d72-9e47-8633adc44b57
 ---
 
@@ -31,6 +31,8 @@ Browser Harness 是 Browser Use 团队开源的极简浏览器 Agent harness，�
 - [摘要：self-healing](summaries/摘要：self-healing.md)（[原文](https://x.com/Gorden_Sun/status/2046228429662794153)）
 
 - [摘要：This skill removes AI slop.](summaries/摘要：This skill removes AI slop.md)（[原文](https://x.com/browser_use/status/2047008127808311437)）
+
+- [摘要：The Bitter Lesson of Agent Harnesses](summaries/摘要：The Bitter Lesson of Agent Harnesses.md)（[原文](https://x.com/gregpr07/status/2047358189327520166)）
 
 ## 关联概念
 

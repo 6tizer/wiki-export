@@ -8,7 +8,7 @@ confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0927d29642cb48a0b3bfc1243bde0b88
+notion_url: https://www.notion.so/Tizer/0927d29642cb48a0b3bfc1243bde0b88
 notion_id: 0927d296-42cb-48a0-b3bf-c1243bde0b88
 ---
 
@@ -33,6 +33,8 @@ curl -o CLAUDE.md https://raw.githubusercontent.com/.../CLAUDE.md
 # 现有项目：追加
 curl https://raw.githubusercontent.com/.../CLAUDE.md >> CLAUDE.md
 ```
+
+- [摘要：The solo founder stack of 2026](summaries/摘要：The solo founder stack of 2026.md)（[原文](https://x.com/rohit4verse/status/2047699770308014406)）
 
 ## 关联概念
 
@@ -121,3 +123,5 @@ curl https://raw.githubusercontent.com/.../CLAUDE.md >> CLAUDE.md
 - [原文链接](https://x.com/zaimiri/status/2044769304923529383)｜《How to Set Up Claude Code: Caveman Mode (Save 75% off)》｜来源条目：[摘要：How to Set Up Claude Code: Caveman Mode (Save 75% off)](summaries/摘要：How to Set Up Claude Code- Caveman Mode (Save 75% off).md)
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzIwMzY3Njc2MA%3D%3D&mid=2247484484&idx=1&sn=b877810761905accec8c61a88f1d20f3&chksm=97732bf3c04982b7874037c0a69fa13851f4885059370a3951a7a9094c6b6aba2a24fd85addc#rd)｜《Hermes Agent 高级玩法：微信扫码即用 + LLM Wiki 知识库，打造你的数据飞轮》｜来源条目：[摘要：Hermes Agent 高级玩法：微信扫码即用 + LLM Wiki 知识库，打造你的数据飞轮](summaries/摘要：Hermes Agent 高级玩法：微信扫码即用 + LLM Wiki 知识库，打造你的数据飞轮.md)
+
+- [摘要：How to Build a JARVIS Inside Obsidian With Claude Code — The Full Setup From Scratch](summaries/摘要：How to Build a JARVIS Inside Obsidian With Claude Code — The Full Setup From Scratch.md)（[原文](https://x.com/cyrilXBT/status/2047246104421388461)）

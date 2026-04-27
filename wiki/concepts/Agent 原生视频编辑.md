@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a91c196b5d524b33bac3442339ae7b02
+notion_url: https://www.notion.so/Tizer/a91c196b5d524b33bac3442339ae7b02
 notion_id: a91c196b-5d52-4b33-bac3-442339ae7b02
 ---
 
@@ -52,3 +52,5 @@ Agent 原生视频编辑，是指把视频创作流程设计成更贴近大模�
 - [摘要：Agentic Video is HTML: Open Sourcing HyperFrames](summaries/摘要：Agentic Video is HTML- Open Sourcing HyperFrames.md)（[原文](https://x.com/liu8in/status/2044827628700684463)）
 
 - [摘要：🚨 Goodbye Video editing](summaries/摘要：🚨 Goodbye Video editing.md)（[原文](https://x.com/TawohAwa/status/2046566836012306544)）
+
+- [摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.](summaries/摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.md)（[原文](https://x.com/socialwithaayan/status/2047568884304367722)）

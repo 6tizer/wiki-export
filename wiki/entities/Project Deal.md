@@ -6,10 +6,10 @@ tags:
 - Agent 编排
 status: 草稿
 confidence: high
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9757a1ba26a741779ecb2671ae1fddce
+notion_url: https://www.notion.so/Tizer/9757a1ba26a741779ecb2671ae1fddce
 notion_id: 9757a1ba-26a7-4177-9ecb-2671ae1fddce
 ---
 
@@ -30,3 +30,5 @@ Project Deal 是 Anthropic 设计的一项多 Agent 二手交易实验，让 Cla
 ## 来源引用
 
 - [摘要：Anthropic 做了个 Agent 版闲鱼](summaries/摘要：Anthropic 做了个 Agent 版闲鱼.md)
+
+- [摘要：19 Ping Pong Balls（Project Deal 推文讨论）](summaries/摘要：19 Ping Pong Balls（Project Deal 推文讨论）.md)（[原文](https://x.com/AnthropicAI/status/2047728360818696302)）

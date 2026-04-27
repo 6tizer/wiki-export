@@ -11,7 +11,7 @@ confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/249af11e2ddb4404b6cd8ac5e85946c4
+notion_url: https://www.notion.so/Tizer/249af11e2ddb4404b6cd8ac5e85946c4
 notion_id: 249af11e-2ddb-4404-b6cd-8ac5e85946c4
 ---
 
@@ -94,6 +94,8 @@ Codex 是 OpenAI 推出的 AI 编程 Agent，从编程助手向全面 **AI 开�
 - [摘要：Agent 可以被分享以后，协作自然而然发生](summaries/摘要：Agent 可以被分享以后，协作自然而然发生.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA%3D%3D&mid=2247496617&idx=1&sn=16a34380d19c26568405fa6523bea315&chksm=fa72b49794e86068018fa9708f018db395ff789a84e7d185aa0852a9b07da08d0b7f8da89718#rd)）
 
 - [摘要：Obsidian + AI：8 个值得搭的自动化工作流，记得收藏！](summaries/摘要：Obsidian + AI：8 个值得搭的自动化工作流，记得收藏！.md)（[原文](https://x.com/xiangxiang103/status/2046845848244617468)）
+
+- [摘要：Workflow status](summaries/摘要：Workflow status.md)（[原文](https://x.com/steipete/status/2047982647264059734)）
 
 ## 关联概念
 

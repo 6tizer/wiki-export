@@ -6,10 +6,10 @@ tags:
 - 商业/生态
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2cc729ba9a5046848d5b376eee990468
+notion_url: https://www.notion.so/Tizer/2cc729ba9a5046848d5b376eee990468
 notion_id: 2cc729ba-9a50-4684-8d5b-376eee990468
 ---
 
@@ -28,6 +28,10 @@ Exa 是面向 AI Agent 的搜索与内容基础设施，提供可程序化调用
 ## 来源引用
 
 - [摘要：14 live tools](summaries/摘要：14 live tools.md)（[原文](https://x.com/ExaAILabs/status/2041562072027427265)）
+
+- [摘要：Exa now reduces input tokens for web agents by 96%](summaries/摘要：Exa now reduces input tokens for web agents by 96%.md)（[原文](https://x.com/ExaAILabs/status/2047402544260116517)）
+
+- [摘要：Introducing Exa for Claude:](summaries/摘要：Introducing Exa for Claude-.md)（[原文](https://x.com/ExaAILabs/status/2047735503794094485)）
 
 ## 关联概念
 

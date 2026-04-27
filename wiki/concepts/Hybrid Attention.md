@@ -8,7 +8,7 @@ confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/37153fa7ab3d419aa0e01ccd1145b002
+notion_url: https://www.notion.so/Tizer/37153fa7ab3d419aa0e01ccd1145b002
 notion_id: 37153fa7-ab3d-419a-a0e0-1ccd1145b002
 ---
 
@@ -27,3 +27,5 @@ Hybrid Attention 是一种把全局注意力与局部注意力组合起来的模
 ## 来源引用
 
 - [原文链接](https://x.com/dotey/status/2034675747479064711)｜《罗福莉与小米 MiMo-V2：一次「悄无声息的伏击」》｜源文章：罗福莉与小米 MiMo-V2：一次「悄无声息的伏击」
+
+- [摘要：罗福莉：AI 范式已然巨变！](summaries/摘要：罗福莉：AI 范式已然巨变！.md)（[原文](https://x.com/SaitoWu/status/2047661042680172627)）

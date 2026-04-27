@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f5a880f9619b42c488541b3d4616c371
+notion_url: https://www.notion.so/Tizer/f5a880f9619b42c488541b3d4616c371
 notion_id: f5a880f9-619b-42c4-8854-1b3d4616c371
 ---
 
@@ -76,3 +76,5 @@ A2A 协议（Agent-to-Agent 协议）是让不同 AI Agent 彼此发现、发送
 - [摘要：Google发布A2UI 0.9：AI直接生成界面](summaries/摘要：Google发布A2UI 0.9：AI直接生成界面.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY5MjE2OTU5Mg%3D%3D&mid=2247484380&idx=1&sn=86632002fdf6fcdd5a9c2e5bedae3252&chksm=f5bdb6949b80daed06d25e00b23e76dec8e7771b3f9a448172ebb4de6731c3811c33c0061231#rd)）
 
 - [摘要：上交大54页综述讲透Agent认知外部化的演进之路](summaries/摘要：上交大54页综述讲透Agent认知外部化的演进之路.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651029194&idx=2&sn=d468f16ac694682f072e150ac531e5a2&chksm=85cd02c33fc1ca1088db4f4f1a5b2219ed652157b32c004b7ef2cfb994654cfdfdd0d38512e7#rd)）
+
+- [摘要：Hermes-a2a](summaries/摘要：Hermes-a2a.md)（[原文](https://x.com/0xViviennn/status/2047626457191780527)）

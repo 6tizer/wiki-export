@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/aaae1617f5c348be883f401845c36e66
+notion_url: https://www.notion.so/Tizer/aaae1617f5c348be883f401845c36e66
 notion_id: aaae1617-f5c3-48be-883f-401845c36e66
 ---
 
@@ -38,3 +38,5 @@ Context Files 是为特定工作场景预先整理的持久化说明文件，用
 ## 来源引用
 
 - [摘要：How to Master Prompt Engineering at an Expert Level (Full Course)](summaries/摘要：How to Master Prompt Engineering at an Expert Level (Full Course).md)（[原文](https://x.com/eng_khairallah1/status/2046881340977782970)）
+
+- [摘要：How to Give Claude Perfect Memory (complete guide)](summaries/摘要：How to Give Claude Perfect Memory (complete guide).md)（[原文](https://x.com/aiedge_/status/2046966170868486512)）

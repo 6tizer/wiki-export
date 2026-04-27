@@ -8,7 +8,7 @@ confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ad75395335ce426081179eb930db6c71
+notion_url: https://www.notion.so/Tizer/ad75395335ce426081179eb930db6c71
 notion_id: ad753953-35ce-4260-8117-9eb930db6c71
 ---
 
@@ -42,7 +42,9 @@ Hyperliquid 的结构优势：AI Agent 可直接调用链上订单簿 API 进行
 
 - [摘要：Hyperliquid 生态 AI Agent 全景图：从 Tier 1 蓝筹到 Tier 4 赌注，哪些值得关注？](summaries/摘要：Hyperliquid 生态 AI Agent 全景图：从 Tier 1 蓝筹到 Tier 4 赌注，哪些值得关注？.md)
 
-- [原文链接](https://x.com/xincctnnq/status/2032772661722624497)｜《Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP》｜来源条目：[摘要：Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP](summaries/摘要：Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP.md)
+- [摘要：Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP](summaries/摘要：Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP.md)（[原文](https://x.com/xincctnnq/status/2032772661722624497)）
+
+- [摘要：Moss 新版本正式上线](summaries/摘要：Moss 新版本正式上线.md)（[原文](https://x.com/MossAI_CN/status/2047616791766278303)）
 
 ## 关联概念
 

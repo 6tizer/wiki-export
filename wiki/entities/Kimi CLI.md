@@ -7,10 +7,10 @@ tags:
 - 代码生成
 status: 草稿
 confidence: high
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/45eb345abab647ab9c0257fc55e87465
+notion_url: https://www.notion.so/Tizer/45eb345abab647ab9c0257fc55e87465
 notion_id: 45eb345a-bab6-47ab-9c02-57fc55e87465
 ---
 
@@ -39,3 +39,5 @@ Kimi CLI 是 RC 在 Kimi 时主导实践的本地 Coding Agent 形态：它长�
 ## 来源引用
 
 - [摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经](summaries/摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw%3D%3D&mid=2651051564&idx=1&sn=babc1b1e75b77826a63d304d33c348e0&chksm=8dd911d417729de737132383124e9f75bf193b1c2ce831b08c3e001f0552438ebac7eae45e1d#rd)）
+
+- [摘要：Hi, I'm RC. I previously built Kimi CLI at Moonshot AI.](summaries/摘要：Hi, I'm RC. I previously built Kimi CLI at Moonshot AI.md)（[原文](https://x.com/istdrc/status/2040862482622026076)）

@@ -6,10 +6,10 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-27'
 source_tags: Agent, 自动化, Hooks, harness, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/aa4c2036f7eb4e1095be7b1b5b9c492c
+notion_url: https://www.notion.so/Tizer/aa4c2036f7eb4e1095be7b1b5b9c492c
 notion_id: aa4c2036-f7eb-4e10-95be-7b1b5b9c492c
 ---
 
@@ -30,6 +30,8 @@ Guardrails 是嵌入在 Agent 工作流中的约束与校验机制，用来把�
 ## 来源引用
 
 - [摘要：什么才是真正的 Harness Engineering？](summaries/摘要：什么才是真正的 Harness Engineering？.md)（[原文](https://x.com/SaitoWu/status/2045458721929892345)）
+
+- [摘要：Goodbye agents that silently hallucinate in production.](summaries/摘要：Goodbye agents that silently hallucinate in production.md)（[X Thread](https://x.com/hasantoxr/status/2047636566680760576)）
 
 ## 关联概念
 

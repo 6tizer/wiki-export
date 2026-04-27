@@ -8,7 +8,7 @@ confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a7d211b5113d4c0ea733b5fda816f582
+notion_url: https://www.notion.so/Tizer/a7d211b5113d4c0ea733b5fda816f582
 notion_id: a7d211b5-113d-4c0e-a733-b5fda816f582
 ---
 
@@ -71,6 +71,8 @@ OpenClaw 等 AI Agent 框架已被社区用于 Polymarket 套利交易：
 - [摘要：28 tools under the hood of bot that made $1M on Polymarket](summaries/摘要：28 tools under the hood of bot that made $1M on Polymarket.md)（[原文](https://x.com/antpalkin/status/2046654122892403188)）
 
 - [摘要：最近看到一个 AI x 预测市场的项目，UniPat AI @UniPat_AI ，把预测做成了可对比、可验证的一套系统。](summaries/摘要：最近看到一个 AI x 预测市场的项目，UniPat AI @UniPat_AI ，把预测做成了可对比、可验证的一套系统。.md)（[原文](https://x.com/0xAA_Science/status/2046939173710676227)）
+
+- [摘要：I asked PolyClaw Agent to find me best oil trader on Polymarket. He found an absolute monster.](summaries/摘要：I asked PolyClaw Agent to find me best oil trader on Polymarket. He found an absolute monster.md)（[原文](https://x.com/antpalkin/status/2047681583692333333)）
 
 ## 关联概念
 

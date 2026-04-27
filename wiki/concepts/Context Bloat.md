@@ -6,10 +6,10 @@ tags:
 - Agent 编排
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4f32c3a33da14f8587a5ed3f679dcffa
+notion_url: https://www.notion.so/Tizer/4f32c3a33da14f8587a5ed3f679dcffa
 notion_id: 4f32c3a3-3da1-4f85-87a5-ed3f679dcffa
 ---
 
@@ -30,6 +30,8 @@ Context Bloat 指 Agent 在执行任务时，被过多技能描述、规则说�
 ## 来源引用
 
 - [摘要：skills](summaries/摘要：skills.md)（[原文](https://x.com/garrytan/status/2047183884266402275)）
+
+- [摘要：Exa now reduces input tokens for web agents by 96%](summaries/摘要：Exa now reduces input tokens for web agents by 96%.md)（[原文](https://x.com/ExaAILabs/status/2047402544260116517)）
 
 ## 关联概念
 

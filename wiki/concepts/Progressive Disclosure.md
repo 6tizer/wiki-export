@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cb3919aad18b4688b0a4721087bb5496
+notion_url: https://www.notion.so/Tizer/cb3919aad18b4688b0a4721087bb5496
 notion_id: cb3919aa-d18b-4688-b0a4-721087bb5496
 ---
 
@@ -36,3 +36,5 @@ Progressive Disclosure（渐进式披露）是一种上下文加载策略：先�
 ## 来源引用
 
 - [摘要：How to cut Claude Code costs by 3x (using Karpathy's context engineering principles)](summaries/摘要：How to cut Claude Code costs by 3x (using Karpathy's context engineering principles).md)（[原文](https://x.com/_avichawla/status/2046500537584218438)）
+
+- [摘要：How to Give Claude Perfect Memory (complete guide)](summaries/摘要：How to Give Claude Perfect Memory (complete guide).md)（[原文](https://x.com/aiedge_/status/2046966170868486512)）

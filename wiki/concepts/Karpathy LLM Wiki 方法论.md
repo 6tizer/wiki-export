@@ -10,7 +10,7 @@ confidence: high
 last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/71e1b901a32e499a95475faf4e53bce5
+notion_url: https://www.notion.so/Tizer/71e1b901a32e499a95475faf4e53bce5
 notion_id: 71e1b901-a32e-499a-9547-5faf4e53bce5
 ---
 
@@ -265,3 +265,7 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 - [摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基](summaries/摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY4MTIyMDE5NA%3D%3D&mid=2247484305&idx=1&sn=8285d7e5a1d4afe2b7ff893e2ba7cbce&chksm=f2e5e6c281611370b3ee4bf810854a3f2c40b58c0cb3f837e9276489597fd7944edb90e721f1#rd)）
 
 - [摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？](summaries/摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI1ODIxNjk1OQ%3D%3D&mid=2649611293&idx=1&sn=7a85ba26ae5121b0eab159fd98346ff4&chksm=f368a598fd4532f7831bd0cf30ff657fce0d46d85cc880bb29b91c24a504ad1a2e9b01e71d2e#rd)）
+
+- [摘要：How to Give Claude Perfect Memory (complete guide)](summaries/摘要：How to Give Claude Perfect Memory (complete guide).md)（[原文](https://x.com/aiedge_/status/2046966170868486512)）
+
+- [摘要：Personal Agent](summaries/摘要：Personal Agent.md)（[原文](https://x.com/trashpandaemoji/status/2048026069375029267)）

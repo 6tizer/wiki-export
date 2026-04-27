@@ -11,7 +11,7 @@ confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8cc7d27018f6462c83ea2caa49dadbd4
+notion_url: https://www.notion.so/Tizer/8cc7d27018f6462c83ea2caa49dadbd4
 notion_id: 8cc7d270-18f6-462c-83ea-2caa49dadbd4
 ---
 
@@ -68,6 +68,8 @@ kyegomez 的 Swarms 框架提供了具体的 Swarms 编排模式：
 - [摘要：ziggy-llm](summaries/摘要：ziggy-llm.md)（[原文](https://x.com/zxytim/status/2046255419178500408)）
 
 - [摘要：Meet ruvltra-claude-code: a GGUF-quantized model that's making waves in the AI community. This isn't just another code generator. It's a self-learning, swarm-optimized system that adapts as it works.](summaries/摘要：Meet ruvltra-claude-code- a GGUF-quantized model that's making waves in the AI community. This isn't just another code generator. It's a self-learning, swarm-optimized system that adapts as it works.md)（[原文](https://x.com/HuggingModels/status/2047160797772775537)）
+
+- [摘要：Agents 201: The Unit Shrank](summaries/摘要：Agents 201- The Unit Shrank.md)（[原文](https://x.com/ghumare64/status/2047401813364683007)）
 
 ## 关联概念
 

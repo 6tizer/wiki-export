@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8f5218cf391b4438b4959c4be8a941ea
+notion_url: https://www.notion.so/Tizer/8f5218cf391b4438b4959c4be8a941ea
 notion_id: 8f5218cf-391b-4438-b495-9c4be8a941ea
 ---
 
@@ -28,3 +28,5 @@ notion_id: 8f5218cf-391b-4438-b495-9c4be8a941ea
 ### 来源引用
 
 - 摘要：How to go from zero to 1M views using AI content systems（[原文](https://x.com/sharbel/status/2044055375612133727)）
+
+- [摘要：I automated my content engine and 2 hrs/day dropped to 10 min](summaries/摘要：I automated my content engine and 2 hrs-day dropped to 10 min.md)（[原文](https://x.com/DeRonin_/status/2048078915520901242)）

@@ -6,10 +6,10 @@ tags:
 - 上下文管理
 status: 审核中
 confidence: high
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/dcd58da1f13f4d10bb04047f0678e5c4
+notion_url: https://www.notion.so/Tizer/dcd58da1f13f4d10bb04047f0678e5c4
 notion_id: dcd58da1-f13f-4d10-bb04-047f0678e5c4
 ---
 
@@ -204,3 +204,9 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651030107&idx=2&sn=dcf949e41eb246cd78463ec2ac79eb17&chksm=85f6580c4d8619e4dbb67c7144f147a8bc41f01f639924649cbbb134ea5daa9c1e2bdebb2928#rd)）
 
 - [摘要：SkVM：优化你的Skills能够跨模型、跨Harness、跨环境稳定运行 ｜SJTU最新](summaries/摘要：SkVM：优化你的Skills能够跨模型、跨Harness、跨环境稳定运行 ｜SJTU最新.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg%3D%3D&mid=2247508119&idx=1&sn=8576b881967cee0b33dc2c424c9853a5&chksm=ce7a42ad8a773a9cdc3297389c1915b62ee8ee06d86ae09cbf47c11c9141230f4f6a7f8916f7#rd)）
+
+- [摘要：The Bitter Lesson of Agent Harnesses](summaries/摘要：The Bitter Lesson of Agent Harnesses.md)（[原文](https://x.com/gregpr07/status/2047358189327520166)）
+
+- [摘要：Design principles for building an Agent harness](summaries/摘要：Design principles for building an Agent harness.md)（[原文](https://x.com/akshay_pachaar/status/2047671145475068038)）
+
+- [摘要：Introducing "create-agent-tui"](summaries/摘要：Introducing create-agent-tui.md)（[原文](https://x.com/OpenRouter/status/2047701992798392484)）

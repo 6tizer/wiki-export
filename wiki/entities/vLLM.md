@@ -6,10 +6,10 @@ tags:
 - 开发工具
 status: 审核中
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-27'
 source_tags: LLM, Agent, 开发者工具
 source_article_url: ''
-notion_url: https://www.notion.so/e0e3be7d69c4408bb2714a2630763a10
+notion_url: https://www.notion.so/Tizer/e0e3be7d69c4408bb2714a2630763a10
 notion_id: e0e3be7d-69c4-408b-b271-4a2630763a10
 ---
 
@@ -33,6 +33,8 @@ vLLM 是面向大语言模型推理服务的高性能部署框架，强调吞吐
 
 - [摘要：Worklanes, not just tabs.](summaries/摘要：Worklanes, not just tabs.md)（[原文](https://x.com/iotcoi/status/2046950805568164168)）
 
+- [摘要：Apple Silicon 上的 vLLM 终于原生 Swift/Metal 了！](summaries/摘要：Apple Silicon 上的 vLLM 终于原生 Swift-Metal 了！.md)（[原文](https://x.com/berryxia/status/2047523226272862372)）
+
 ## 关联概念
 
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
@@ -48,3 +50,5 @@ vLLM 是面向大语言模型推理服务的高性能部署框架，强调吞吐
 - [DDTree](concepts/DDTree.md)
 
 - [Speculative Decoding](concepts/Speculative Decoding.md)
+
+- [vllm-swift](entities/vllm-swift.md)

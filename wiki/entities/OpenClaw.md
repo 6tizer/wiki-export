@@ -9,10 +9,10 @@ tags:
 - 工作流
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ee1b0c1ebfa3472fb5ed3259dc9c869a
+notion_url: https://www.notion.so/Tizer/ee1b0c1ebfa3472fb5ed3259dc9c869a
 notion_id: ee1b0c1e-bfa3-472f-b5ed-3259dc9c869a
 ---
 
@@ -306,6 +306,16 @@ Peter Steinberger：奥地利开发者，PSPDFKit（后更名 Nutrient）创始�
 
 - [摘要：Qwen 3.6 27B model is available on Ollama!](summaries/摘要：Qwen 3.6 27B model is available on Ollama!.md)（[原文](https://x.com/ollama/status/2047066252523507916)）
 
+- [摘要：I asked my OpenClaw to analyze all YC video launches for the last 3 years.](summaries/摘要：I asked my OpenClaw to analyze all YC video launches for the last 3 years.md)（[原文](https://x.com/garrytan/status/2047467997481288158)）
+
+- [摘要：我去！我就说@Kollab_AI要火！！](summaries/摘要：我去！我就说@Kollab_AI要火！！.md)（[原文](https://x.com/yyyole/status/2047558894768246803)）
+
+- [摘要：罗福莉：AI 范式已然巨变！](summaries/摘要：罗福莉：AI 范式已然巨变！.md)（[原文](https://x.com/SaitoWu/status/2047661042680172627)）
+
+- [摘要：The solo founder stack of 2026](summaries/摘要：The solo founder stack of 2026.md)（[原文](https://x.com/rohit4verse/status/2047699770308014406)）
+
+- [摘要：Workflow status](summaries/摘要：Workflow status.md)（[原文](https://x.com/steipete/status/2047982647264059734)）
+
 ## 关联概念
 
 - [wenyan_poetry](entities/wenyan_poetry.md)
@@ -348,13 +358,13 @@ Peter Steinberger：奥地利开发者，PSPDFKit（后更名 Nutrient）创始�
 
 - OpenClaw 的 concept 版本已合并至本 entity 页
 
-- [Gate MCP Skills](concepts/Gate MCP Skills.md)
+- [Gate MCP Skills](entities/Gate MCP Skills.md)
 
 - [飞书官方 OpenClaw 插件](concepts/飞书官方 OpenClaw 插件.md)
 
 - [Telegram 群组路由](concepts/Telegram 群组路由.md)
 
-- [memory-lancedb-pro](concepts/memory-lancedb-pro.md)
+- [memory-lancedb-pro](entities/memory-lancedb-pro.md)
 
 - [OpenClaw 九层 System Prompt 架构](concepts/OpenClaw 九层 System Prompt 架构.md)
 

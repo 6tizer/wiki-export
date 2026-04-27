@@ -6,10 +6,10 @@ tags:
 - Agent 编排
 status: 草稿
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a6a05cf7fa7f4b6294841b21d2337d3c
+notion_url: https://www.notion.so/Tizer/a6a05cf7fa7f4b6294841b21d2337d3c
 notion_id: a6a05cf7-fa7f-4b62-9484-1b21d2337d3c
 ---
 
@@ -26,3 +26,5 @@ notion_id: a6a05cf7-fa7f-4b62-9484-1b21d2337d3c
 ### 来源引用
 
 - [摘要：5 Agent Design patterns for Long-running AI Agents](summaries/摘要：5 Agent Design patterns for Long-running AI Agents.md)（[原文](https://x.com/GoogleCloudTech/status/2046989964077146490)）
+
+- [摘要：Goodbye agents that silently hallucinate in production.](summaries/摘要：Goodbye agents that silently hallucinate in production.md)（[X Thread](https://x.com/hasantoxr/status/2047636566680760576)）

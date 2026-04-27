@@ -8,10 +8,10 @@ tags:
 - AI 产品
 status: 草稿
 confidence: high
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c2d4dd0a79e346358a7723cd72e7ad5b
+notion_url: https://www.notion.so/Tizer/c2d4dd0a79e346358a7723cd72e7ad5b
 notion_id: c2d4dd0a-79e3-4635-8a77-23cd72e7ad5b
 ---
 
@@ -44,3 +44,5 @@ Slock 是 RC 创办的人与多 Agent 协作平台，目标是把人类成员与
 ## 来源引用
 
 - [摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经](summaries/摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw%3D%3D&mid=2651051564&idx=1&sn=babc1b1e75b77826a63d304d33c348e0&chksm=8dd911d417729de737132383124e9f75bf193b1c2ce831b08c3e001f0552438ebac7eae45e1d#rd)）
+
+- [摘要：Hi, I'm RC. I previously built Kimi CLI at Moonshot AI.](summaries/摘要：Hi, I'm RC. I previously built Kimi CLI at Moonshot AI.md)（[原文](https://x.com/istdrc/status/2040862482622026076)）

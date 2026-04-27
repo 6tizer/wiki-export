@@ -9,10 +9,10 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/48363a9051494e33b973ec2c5324acd3
+notion_url: https://www.notion.so/Tizer/48363a9051494e33b973ec2c5324acd3
 notion_id: 48363a90-5149-4e33-b973-ec2c5324acd3
 ---
 
@@ -45,6 +45,10 @@ notion_id: 48363a90-5149-4e33-b973-ec2c5324acd3
 - [摘要：How to really stop your agents from making the same mistakes](summaries/摘要：How to really stop your agents from making the same mistakes.md)（[原文](https://x.com/garrytan/status/2046876981711769720)）
 
 - [摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题](summaries/摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题.md)（[原文](https://x.com/garrytan/status/2046981289031667961)）
+
+- [摘要：I asked my OpenClaw to analyze all YC video launches for the last 3 years.](summaries/摘要：I asked my OpenClaw to analyze all YC video launches for the last 3 years.md)（[原文](https://x.com/garrytan/status/2047467997481288158)）
+
+- [摘要：Big drop for GBrain v0.19.](summaries/摘要：Big drop for GBrain v0.19.md)（[原文](https://x.com/garrytan/status/2047504667127799974)）
 
 ## 关联概念
 

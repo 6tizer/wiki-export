@@ -7,10 +7,10 @@ tags:
 - OpenClaw
 status: 已审核
 confidence: high
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e47e7d37ec9f452a80c270954a83ee35
+notion_url: https://www.notion.so/Tizer/e47e7d37ec9f452a80c270954a83ee35
 notion_id: e47e7d37-ec9f-452a-80c2-70954a83ee35
 ---
 
@@ -84,9 +84,9 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [摘要：Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器](summaries/摘要：Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器.md)（[原文](https://x.com/YuLin807/status/2042198758260158535)）
 
-- [摘要：Hermes Agent实测，龙虾新对手是进化爱马仕](summaries/摘要：Hermes Agent实测，龙虾新对手是进化爱马仕.md)（卡尔的AI沃茨，微信，2026-04-08）
+- 摘要：Hermes Agent实测，龙虾新对手是进化爱马仕（卡尔的AI沃茨，微信，2026-04-08）
 
-- [摘要：？？不是，咋又来了一个 Hermes？](summaries/摘要：？？不是，咋又来了一个 Hermes？.md)（cxuanAI，微信，2026-04-09）
+- 摘要：？？不是，咋又来了一个 Hermes？（cxuanAI，微信，2026-04-09）
 
 - 摘要：10,000+ markdown files（@AYi_AInotes，2026-04-10）— GBrain 作为 OpenClaw/Hermes Agent 的官方记忆后端开源
 
@@ -181,6 +181,10 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 - [摘要：Lossless Context Management plugin for Hermes Agent](summaries/摘要：Lossless Context Management plugin for Hermes Agent.md)（[原文](https://x.com/GitTrend0x/status/2046932331001512385)）
 
 - [摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes](summaries/摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode - Cursor - Hermes.md)（[原文](https://x.com/dhruvtwt_/status/2047006444701274380)）
+
+- [摘要：分享我半年筛选下来的AI newsletter](summaries/摘要：分享我半年筛选下来的AI newsletter.md)（[原文](https://x.com/lxfater/status/2047259683459842555)）
+
+- [摘要：The solo founder stack of 2026](summaries/摘要：The solo founder stack of 2026.md)（[原文](https://x.com/rohit4verse/status/2047699770308014406)）
 
 ## 关联概念
 
@@ -393,3 +397,9 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 - [agency-agents-zh](entities/agency-agents-zh.md)
 
 - [Nous Tool Gateway](entities/Nous Tool Gateway.md)
+
+- [OpenRouter Agent SDK](entities/OpenRouter Agent SDK.md)
+
+- [hermes-a2a](entities/hermes-a2a.md)
+
+- [Agent 对等通信](concepts/Agent 对等通信.md)

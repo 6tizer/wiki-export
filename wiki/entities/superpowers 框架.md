@@ -8,10 +8,10 @@ tags:
 - 工作流
 status: 审核中
 confidence: high
-last_compiled: '2026-04-24'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3dc1f1f67b884a08b4b76283952f086c
+notion_url: https://www.notion.so/Tizer/3dc1f1f67b884a08b4b76283952f086c
 notion_id: 3dc1f1f6-7b88-4a08-b4b7-6283952f086c
 ---
 
@@ -70,6 +70,8 @@ GitHub：[https://github.com/obra/superpowers](https://github.com/obra/superpowe
 - [原文链接](https://x.com/BTCqzy1/status/2033116943712993717)｜《SuperPowers：给 AI 编程装上七阶段软件工程流水线》｜来源条目：[摘要：SuperPowers：给 AI 编程装上七阶段软件工程流水线](summaries/摘要：SuperPowers：给 AI 编程装上七阶段软件工程流水线.md)
 
 - [原文链接](https://x.com/vikingmute/status/2036043855594975485)｜《Superpowers：给你的 AI 编码代理装上一套严格的开发方法论》｜来源条目：[摘要：Superpowers：给你的 AI 编码代理装上一套严格的开发方法论](summaries/摘要：Superpowers：给你的 AI 编码代理装上一套严格的开发方法论.md)
+
+- [摘要：superpowers is still the simplest way to level up any project you're running in Claude](summaries/摘要：superpowers is still the simplest way to level up any project you're running in Claude.md)（[原文](https://x.com/shannholmberg/status/2047722364415459463)）
 
 ## 关联概念
 

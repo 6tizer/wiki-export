@@ -8,7 +8,7 @@ confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/80940aa0a0e746b2a61a1bf0db011084
+notion_url: https://www.notion.so/Tizer/80940aa0a0e746b2a61a1bf0db011084
 notion_id: 80940aa0-a0e7-46b2-a61a-1bf0db011084
 ---
 
@@ -43,6 +43,8 @@ GPT-Image-2 是 OpenAI 的图像生成与编辑模型。在这篇实测中，它
 - [摘要：坏了！这下真能玩了](summaries/摘要：坏了！这下真能玩了.md)（[原文](https://x.com/op7418/status/2046854932620525750)）
 
 - [摘要：GPT Image 2 Is 24 Hours Old. /last30days Became an Expert and Wrote Me Perfect Prompts](summaries/摘要：GPT Image 2 Is 24 Hours Old. -last30days Became an Expert and Wrote Me Perfect Prompts.md)（[原文](https://x.com/mvanhorn/status/2047016569923064055)）
+
+- [摘要：Qwen-Image-2.0-Pro 发布](summaries/摘要：Qwen-Image-2.0-Pro 发布.md)（[原文](https://x.com/Alibaba_Qwen/status/2048022731548229869)）
 
 ## 关联概念
 

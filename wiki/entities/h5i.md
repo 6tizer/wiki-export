@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/45015797f38941c6afe9723449ddea6a
+notion_url: https://www.notion.so/Tizer/45015797f38941c6afe9723449ddea6a
 notion_id: 45015797-f389-41c6-afe9-723449ddea6a
 ---
 
@@ -30,6 +30,10 @@ h5i 是一个面向 AI 编程场景的 AI-Aware Git 副车工具，尝试把 pro
 ## 来源引用
 
 - [摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%](summaries/摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%.md)（[原文](https://x.com/laogui/status/2045677115341934867)）
+
+- [摘要：How to Give Claude Perfect Memory (complete guide)](summaries/摘要：How to Give Claude Perfect Memory (complete guide).md)（[原文](https://x.com/aiedge_/status/2046966170868486512)）
+
+- [摘要：Best GitHub repos for Claude Code that will 10x your next project in 2026](summaries/摘要：Best GitHub repos for Claude Code that will 10x your next project in 2026.md)（[原文](https://x.com/RodmanAi/status/2047717336669708691)）
 
 ## 关联概念
 

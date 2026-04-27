@@ -5,10 +5,10 @@ tags:
 - 浏览器自动化
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8333a0550eea4916a9165ab3ab0778d8
+notion_url: https://www.notion.so/Tizer/8333a0550eea4916a9165ab3ab0778d8
 notion_id: 8333a055-0eea-4916-a916-5ab3ab0778d8
 ---
 
@@ -43,6 +43,10 @@ Chrome DevTools Protocol 是 Chrome 暴露给外部程序的调试与控制协�
 - [摘要：self-healing](summaries/摘要：self-healing.md)（[原文](https://x.com/Gorden_Sun/status/2046228429662794153)）
 
 - [摘要：agent-browser：为AI Agent 写的浏览器CLI](summaries/摘要：agent-browser：为AI Agent 写的浏览器CLI.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIwNzU5MzY4OQ%3D%3D&mid=2247486082&idx=1&sn=68860cb626f874e6753331df42a06452&chksm=96b464c960e585a7580e8b47dab3d5957471c51e820dc9014909b4afcba510e60109f7838c82#rd)）
+
+- [摘要：The Bitter Lesson of Agent Harnesses](summaries/摘要：The Bitter Lesson of Agent Harnesses.md)（[原文](https://x.com/gregpr07/status/2047358189327520166)）
+
+- [摘要：Bring Your Own Browser](summaries/摘要：Bring Your Own Browser.md)（[原文](https://x.com/xzdejz/status/2047924864418501111)）
 
 ## 关联概念
 

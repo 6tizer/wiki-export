@@ -9,7 +9,7 @@ confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/991bbc8488a74c6580c90dd1433be967
+notion_url: https://www.notion.so/Tizer/991bbc8488a74c6580c90dd1433be967
 notion_id: 991bbc84-88a7-4c65-80c9-0dd1433be967
 ---
 
@@ -46,3 +46,9 @@ Claude Code Skills 指 Claude Code 中可复用的技能扩展机制，通常以
 - [摘要：来了！来了！我把大家呼声最高的微信聊天记录解析全流程封装成了一个Skill](summaries/摘要：来了！来了！我把大家呼声最高的微信聊天记录解析全流程封装成了一个Skill.md)（[原文](https://x.com/gengdaJ/status/2046944097789993059)）
 
 - [摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题](summaries/摘要：Claude Code Skills 会悄悄失效：一个被忽视的上下文截断问题.md)（[原文](https://x.com/garrytan/status/2046981289031667961)）
+
+- [摘要：How to Build a JARVIS Inside Obsidian With Claude Code — The Full Setup From Scratch](summaries/摘要：How to Build a JARVIS Inside Obsidian With Claude Code — The Full Setup From Scratch.md)（[原文](https://x.com/cyrilXBT/status/2047246104421388461)）
+
+- [摘要：开源一个 PPT Skill｜压进了我 10 年的设计经验](summaries/摘要：开源一个 PPT Skill｜压进了我 10 年的设计经验.md)（[原文](https://x.com/op7418/status/2047486546300051478)）
+
+- [摘要：The solo founder stack of 2026](summaries/摘要：The solo founder stack of 2026.md)（[原文](https://x.com/rohit4verse/status/2047699770308014406)）

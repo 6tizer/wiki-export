@@ -6,10 +6,10 @@ tags:
 - LLM
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ab257b15154e4197bd8942bd182a90d9
+notion_url: https://www.notion.so/Tizer/ab257b15154e4197bd8942bd182a90d9
 notion_id: ab257b15-154e-4197-bd89-42bd182a90d9
 ---
 
@@ -36,3 +36,5 @@ OpenAI 兼容 API 代理 是一种把非 OpenAI 模型或账号能力封装成 O
 - [摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes](summaries/摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode - Cursor - Hermes.md)（[原文](https://x.com/dhruvtwt_/status/2047006444701274380)）
 
 - [摘要：我是 APIMart 的团队成员，创始人书虫@wWw1152228今天正式跟大家介绍一下我们在做的事](summaries/摘要：我是 APIMart 的团队成员，创始人书虫@wWw1152228今天正式跟大家介绍一下我们在做的事.md)（[原文](https://x.com/APIMart_/status/2046907356123222463)）
+
+- [摘要：free-claude-code：0元白嫖 Claude Code 全套工程能力](summaries/摘要：free-claude-code：0元白嫖 Claude Code 全套工程能力.md)（[原文](https://x.com/VincentLogic/status/2047310943202181608)）

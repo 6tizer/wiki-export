@@ -7,10 +7,10 @@ tags:
 - 工作流
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6045f7da6111498489e5de20daf860bc
+notion_url: https://www.notion.so/Tizer/6045f7da6111498489e5de20daf860bc
 notion_id: 6045f7da-6111-4984-89e5-de20daf860bc
 ---
 
@@ -33,3 +33,5 @@ Claude Cowork Skills 是 Anthropic 推出的一种结构化知识包，包含指
 - [摘要：我研究了Anthropic这个金融服务Plugin仓库，发现AI正在做一件比写代码更可怕的事](summaries/摘要：我研究了Anthropic这个金融服务Plugin仓库，发现AI正在做一件比写代码更可怕的事.md)（老码小张，2026-02-28）
 
 - [摘要：让Claude cowork强100倍的17个习惯](summaries/摘要：让Claude cowork强100倍的17个习惯.md)（向量空性，2026-03-03）
+
+- [摘要：40 Claude Cowork Commands, Workflows & Automations Most Users Don't Know — The Complete List](summaries/摘要：40 Claude Cowork Commands, Workflows & Automations Most Users Don't Know — The Complete List.md)（[原文](https://x.com/eng_khairallah1/status/2047609433489035739)）

@@ -7,10 +7,10 @@ tags:
 - AI 产品
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-15'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6771bd7c42944159aed1caab6772f945
+notion_url: https://www.notion.so/Tizer/6771bd7c42944159aed1caab6772f945
 notion_id: 6771bd7c-4294-4159-aed1-caab6772f945
 ---
 
@@ -30,6 +30,8 @@ Claude Managed Agents 是 Anthropic 推出的托管式 Agent 方案，将更多 
 
 ## 来源引用
 
+- [摘要：Ultimate Beginners Guide to Claude Managed Agents](summaries/摘要：Ultimate Beginners Guide to Claude Managed Agents.md)（[原文](https://x.com/coreyganim/status/2042286607449874527)）
+
 - [原文链接](https://x.com/LangChain/status/2042268554364592543)｜《LangChain Deep Agents Deploy：开源 Agent 部署的生产级方案》｜来源条目：[摘要：LangChain Deep Agents Deploy：开源 Agent 部署的生产级方案](summaries/摘要：LangChain Deep Agents Deploy：开源 Agent 部署的生产级方案.md)
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzA5MTIxNTY4MQ%3D%3D&mid=2461159297&idx=1&sn=e1d1550d8c29f6c57f344e9bd7619931&chksm=8645d4fd11f0bef28663c05083551df88d222c61fd3c8390df4b43f46267e00d6b3a54bcfe38#rd)｜《Harrison Chase：你的 Agent Harness 就是你的记忆，一旦选了闭源，数据就不是你的了》｜源文章：Harrison Chase：你的 Agent Harness 就是你的记忆，一旦选了闭源，数据就不是你的了
@@ -39,6 +41,8 @@ Claude Managed Agents 是 Anthropic 推出的托管式 Agent 方案，将更多 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651087491&idx=1&sn=b32929abbf881ae7276d7d832d00ec74&chksm=bc1e356961e9a336f7e8041caa32b6a6abe83f74b08fb15e1323f4fe7df7db6439839ea62abb#rd)｜《Claude Code 更新又遭泄露，Cursor 们的好日子到头了》｜来源条目：[摘要：Claude Code 更新又遭泄露，Cursor 们的好日子到头了](summaries/摘要：Claude Code 更新又遭泄露，Cursor 们的好日子到头了.md)
 
 - [原文链接](https://x.com/KKaWSB/status/2043883512168886387)｜《轻松掌握Anthropic官方给的五种"多Agent协作"模式》｜来源条目：[摘要：轻松掌握Anthropic官方给的五种"多Agent协作"模式](summaries/摘要：轻松掌握Anthropic官方给的五种多Agent协作模式.md)
+
+- [摘要：Managed Agents > Memory stores](summaries/摘要：Managed Agents  Memory stores.md)（[原文](https://x.com/claudeai/status/2047421844311949513)）
 
 ## 关联概念
 

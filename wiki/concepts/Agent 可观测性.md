@@ -7,10 +7,10 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: high
-last_compiled: '2026-04-25'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/581efb118b0049588f2192179d5458cf
+notion_url: https://www.notion.so/Tizer/581efb118b0049588f2192179d5458cf
 notion_id: 581efb11-8b00-4958-8f21-92179d5458cf
 ---
 
@@ -43,6 +43,10 @@ Agent 可观测性是指主动了解和监控 AI Agent 运行状态、行为和�
 - [摘要：一个冷门无人提的冷知识却又是程序员常识：](summaries/摘要：一个冷门无人提的冷知识却又是程序员常识：.md)（X书签）
 
 - [摘要：一个冷门无人提的冷知识却又是程序员常识：](summaries/摘要：一个冷门无人提的冷知识却又是程序员常识：.md)（[原文](https://x.com/LawrenceW_Zen/status/2044437995269591195)，LawrenceW_Zen，2026-04）
+
+- [摘要：OpenAI 刚发的 Workspace Agent，开源版来了](summaries/摘要：OpenAI 刚发的 Workspace Agent，开源版来了.md)（[原文](https://x.com/xiaohu/status/2047521587122106376)）
+
+- [摘要：Goodbye agents that silently hallucinate in production.](summaries/摘要：Goodbye agents that silently hallucinate in production.md)（[X Thread](https://x.com/hasantoxr/status/2047636566680760576)）
 
 ## 关联概念
 

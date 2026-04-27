@@ -9,7 +9,7 @@ confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/495c710ba0f342138f2d0cfb53ee771d
+notion_url: https://www.notion.so/Tizer/495c710ba0f342138f2d0cfb53ee771d
 notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 ---
 
@@ -56,6 +56,10 @@ notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 - [摘要：开源的Chrome 浏览器插件，一键扒光网站设计，让 AI 帮你复刻](summaries/摘要：开源的Chrome 浏览器插件，一键扒光网站设计，让 AI 帮你复刻.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2MjY1NDIzNg%3D%3D&mid=2247499291&idx=1&sn=e594d6f818da6cf6f862cb91bbefa3d8&chksm=cf669d5aca8d3d26ae43d2adca0d6a522314fa1e06aeef38d7a215e02fbbcd22bcbf5cd4f70f#rd)）
 
 - [摘要：New from K-Dense: mimeo.](summaries/摘要：New from K-Dense- mimeo.md)（[原文](https://x.com/k_dense_ai/status/2047020939590992051)）
+
+- [摘要：The Bitter Lesson of Agent Harnesses](summaries/摘要：The Bitter Lesson of Agent Harnesses.md)（[原文](https://x.com/gregpr07/status/2047358189327520166)）
+
+- [摘要：开源一个 PPT Skill｜压进了我 10 年的设计经验](summaries/摘要：开源一个 PPT Skill｜压进了我 10 年的设计经验.md)（[原文](https://x.com/op7418/status/2047486546300051478)）
 
 ## 关联概念
 

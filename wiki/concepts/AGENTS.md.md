@@ -6,10 +6,10 @@ tags:
 - 知识管理
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5da673ca2377484498ec12f5679bfbf3
+notion_url: https://www.notion.so/Tizer/5da673ca2377484498ec12f5679bfbf3
 notion_id: 5da673ca-2377-4844-98ec-12f5679bfbf3
 ---
 
@@ -74,6 +74,8 @@ notion_id: 5da673ca-2377-4844-98ec-12f5679bfbf3
 - [摘要：New from K-Dense: mimeo.](summaries/摘要：New from K-Dense- mimeo.md)（[原文](https://x.com/k_dense_ai/status/2047020939590992051)）
 
 - [摘要：A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all.](summaries/摘要：A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all.md)（[原文](https://x.com/augmentcode/status/2047164534310494709)）
+
+- [摘要：DESIGN.md | The One File AI Needs to Match Your UI](summaries/摘要：DESIGN.md  The One File AI Needs to Match Your UI.md)（[原文](https://x.com/nurijanian/status/2048327986777350425)）
 
 ## 关联概念
 

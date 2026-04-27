@@ -9,7 +9,7 @@ confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4e2afe2db2f34ebb81964b6efcc11354
+notion_url: https://www.notion.so/Tizer/4e2afe2db2f34ebb81964b6efcc11354
 notion_id: 4e2afe2d-b2f3-4ebb-8196-4b6efcc11354
 ---
 
@@ -30,6 +30,8 @@ Prompt Cache 是模型服务对重复 prompt 前缀进行缓存复用的机制�
 ## 来源引用
 
 - [摘要：用好NotebookLM立省80%Token](summaries/摘要：用好NotebookLM立省80%Token.md)（[原文](https://x.com/MinLiBuilds/status/2046002143937941988)）
+
+- [摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.](summaries/摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.md)（[原文](https://x.com/PawelHuryn/status/2048170309396926577)）
 
 ## 关联概念
 

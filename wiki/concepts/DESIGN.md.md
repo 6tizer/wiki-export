@@ -5,10 +5,10 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/73065867e3bc49ada6a200e7a05f8ddb
+notion_url: https://www.notion.so/Tizer/73065867e3bc49ada6a200e7a05f8ddb
 notion_id: 73065867-e3bc-49ad-a6a2-00e7a05f8ddb
 ---
 
@@ -37,6 +37,8 @@ notion_id: 73065867-e3bc-49ad-a6a2-00e7a05f8ddb
 - [摘要：DESIGN.md](summaries/摘要：DESIGN.md.md)（[原文](https://x.com/AYi_AInotes/status/2046673666394456497)）
 
 - [摘要：DESIGN.md 正式发布为开放标准！期待 Codex、Claude Code、Cursor 跟进支持](summaries/摘要：DESIGN.md 正式发布为开放标准！期待 Codex、Claude Code、Cursor 跟进支持.md)（[原文](https://x.com/shao__meng/status/2046758188834267480)）
+
+- [摘要：DESIGN.md | The One File AI Needs to Match Your UI](summaries/摘要：DESIGN.md  The One File AI Needs to Match Your UI.md)（[原文](https://x.com/nurijanian/status/2048327986777350425)）
 
 ## 关联概念
 

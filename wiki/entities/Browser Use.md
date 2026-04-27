@@ -6,10 +6,10 @@ tags:
 - Agent 技能
 status: 草稿
 confidence: high
-last_compiled: '2026-04-17'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/26d73cc30a194e46b7438e3c9eaaffa6
+notion_url: https://www.notion.so/Tizer/26d73cc30a194e46b7438e3c9eaaffa6
 notion_id: 26d73cc3-0a19-4e46-b743-8e3c9eaaffa6
 ---
 
@@ -78,3 +78,7 @@ await agent.run()
 - [摘要：Video Use：用 Claude Code 把「对着镜头说话」变成一键出片](summaries/摘要：Video Use：用 Claude Code 把「对着镜头说话」变成一键出片.md)（[原文](https://x.com/gregpr07/status/2044554557221675380)）
 
 - [摘要：self-healing](summaries/摘要：self-healing.md)（[原文](https://x.com/Gorden_Sun/status/2046228429662794153)）
+
+- [摘要：The Bitter Lesson of Agent Harnesses](summaries/摘要：The Bitter Lesson of Agent Harnesses.md)（[原文](https://x.com/gregpr07/status/2047358189327520166)）
+
+- [摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.](summaries/摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.md)（[原文](https://x.com/socialwithaayan/status/2047568884304367722)）

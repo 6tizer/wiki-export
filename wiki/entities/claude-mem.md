@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9ddf247fa2e844d88f548604a97180f7
+notion_url: https://www.notion.so/Tizer/9ddf247fa2e844d88f548604a97180f7
 notion_id: 9ddf247f-a2e8-44d8-8f54-8604a97180f7
 ---
 
@@ -82,3 +82,7 @@ curl -fsSL https://install.cmem.ai/openclaw.sh | bash
 - [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)（[原文](https://x.com/pritipatelfgoo/status/2045105855662809267)）
 
 - [摘要：脑子是个好东西：为龙虾和 CC 加装外脑之后，这俩货要上天了](summaries/摘要：脑子是个好东西：为龙虾和 CC 加装外脑之后，这俩货要上天了.md)
+
+- [摘要：How to Give Claude Perfect Memory (complete guide)](summaries/摘要：How to Give Claude Perfect Memory (complete guide).md)（[原文](https://x.com/aiedge_/status/2046966170868486512)）
+
+- [摘要：Best GitHub repos for Claude Code that will 10x your next project in 2026](summaries/摘要：Best GitHub repos for Claude Code that will 10x your next project in 2026.md)（[原文](https://x.com/RodmanAi/status/2047717336669708691)）
