@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/cb7b0c75f7924ab69f981e252524ef68

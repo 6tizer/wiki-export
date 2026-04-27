@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 草稿
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/102216f73287494a8afc8e2a8e2e80b0
@@ -31,6 +31,8 @@ Tolaria 是 Luca Rossi 发布的一款 macOS 桌面应用，用于管理基于 M
 
 - [摘要：markdown knowledge bases](summaries/摘要：markdown knowledge bases.md)
 
+- [摘要：Tolaria， 一款结合 Obsidian 和 Notion 优势，又是本地，又是开源的笔记工具新品诞生了！](summaries/摘要：Tolaria， 一款结合 Obsidian 和 Notion 优势，又是本地，又是开源的笔记工具新品诞生了！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI2MjEyODE4OA%3D%3D&mid=2650484126&idx=1&sn=2c822d264be0f0770197f510e8a9ed3d&chksm=f3a0a1ed0879af319f4637d216153900db53046c24978cf3769179de84604b02964b4d7f26c5#rd)）
+
 ## 关联概念
 
 - [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)
@@ -38,3 +40,11 @@ Tolaria 是 Luca Rossi 发布的一款 macOS 桌面应用，用于管理基于 M
 - [LLM+Markdown+Wiki 知识库](concepts/LLM+Markdown+Wiki 知识库.md)
 
 - [AGENTS.md](concepts/AGENTS.md.md)
+
+- [本地优先](concepts/本地优先.md)
+
+- [File Over App](concepts/File Over App.md)
+
+- [Types as lenses](concepts/Types as lenses.md)
+
+- [MCP 协议](concepts/MCP 协议.md)

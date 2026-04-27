@@ -27,4 +27,4 @@ notion_id: 8e292835-408d-49b2-8c2f-a8e4f0113845
 
 ## 来源引用
 
-- 《用 Claude 搭一套 Polymarket 交易 Agent：Skill 架构比临场判断更靠谱吗？》｜X书签文章｜原文链接：[https://x.com/Mikocrypto11/status/2031992492166693272](https://x.com/Mikocrypto11/status/2031992492166693272)
+- [摘要：用 Claude 搭一套 Polymarket 交易 Agent：Skill 架构比临场判断更靠谱吗？](summaries/摘要：用 Claude 搭一套 Polymarket 交易 Agent：Skill 架构比临场判断更靠谱吗？.md)（[原文](https://x.com/Mikocrypto11/status/2031992492166693272)）

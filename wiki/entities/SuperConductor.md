@@ -2,11 +2,10 @@
 title: SuperConductor
 type: entity
 tags:
-- Coding Agent
-- Agent 编排
-- 工作流
 - IDE 集成
-status: 草稿
+- 代码生成
+- Agent 协作模式
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'
 source_tags: ''

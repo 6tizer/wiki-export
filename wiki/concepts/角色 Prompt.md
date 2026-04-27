@@ -27,4 +27,4 @@ notion_id: a876751c-a1d6-48e1-828d-93dda597cb2b
 
 ## 来源引用
 
-- 《[prompts.chat](http://prompts.chat/)：全球第33热门开源仓库，150+ 角色 Prompt 让 AI 瞬间变专家》｜X书签文章｜原文链接：[https://x.com/0xKingsKuan/status/2035920962026340802](https://x.com/0xKingsKuan/status/2035920962026340802)
+- [摘要：prompts.chat：全球第33热门开源仓库，150+ 角色 Prompt 让 AI 瞬间变专家](summaries/摘要：prompts.chat：全球第33热门开源仓库，150+ 角色 Prompt 让 AI 瞬间变专家.md)（[原文](https://x.com/0xKingsKuan/status/2035920962026340802)）
