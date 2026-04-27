@@ -946,8 +946,13 @@ def cmd_incremental(args):
     print(f"  变更页面: {len(changed_pages)} 个")
 
     # 3. 获取全量页面列表（构建映射表 + 删除检测）
+    #    加 sort 确保分页稳定，防止 Notion API 提前返回 has_more:false
     print("\n🗺️  步骤 2: 获取全量映射表...")
-    all_pages = query_database(DATABASE_ID, {"property": "类型", "select": {"is_not_empty": True}})
+    all_pages = query_database(
+        DATABASE_ID,
+        {"property": "类型", "select": {"is_not_empty": True}},
+        sorts=[{"property": "类型", "direction": "ascending"}, {"property": "名称", "direction": "ascending"}],
+    )
     all_valid = [p for p in all_pages if extract_select(p, "类型")]
     page_map = build_page_map(all_valid)
     print(f"  全量页面: {len(all_valid)}, 映射条目: {len(page_map) // 2}")
@@ -1024,7 +1029,11 @@ def cmd_index_only(args):
     """只重建 index.md。"""
     print("🚀 重建 index.md...")
 
-    all_pages = query_database(DATABASE_ID, {"property": "类型", "select": {"is_not_empty": True}})
+    all_pages = query_database(
+        DATABASE_ID,
+        {"property": "类型", "select": {"is_not_empty": True}},
+        sorts=[{"property": "类型", "direction": "ascending"}, {"property": "名称", "direction": "ascending"}],
+    )
     pages = [p for p in all_pages if extract_select(p, "类型")]
     page_map = build_page_map(pages)
 
