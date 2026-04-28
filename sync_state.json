@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-04-29T03:45:58.947458+08:00",
+  "last_sync_time": "2026-04-29T07:47:49.865758+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 4258,
+  "total_pages_exported": 4261,
   "page_mapping": {
     "0fe9d271-3d82-4995-ad15-00fc8d446de0": {
       "type": "concept",
@@ -216,7 +216,7 @@
     "016612da-dd7c-4e70-a207-d0c1edeb8745": {
       "type": "entity",
       "file_path": "wiki/entities/planktonXD.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:21:00.000Z"
     },
     "1358db3d-1f22-41f2-a876-8f90cbaa065d": {
       "type": "concept",
@@ -366,7 +366,7 @@
     "0db371cc-337d-457f-924f-190a9a796a00": {
       "type": "concept",
       "file_path": "wiki/concepts/延迟优势.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "0f6a151f-21b0-4cf8-ba9c-cefe297ad843": {
       "type": "concept",
@@ -1476,7 +1476,7 @@
     "15309080-58f2-4637-8df0-d56550fd6fe9": {
       "type": "concept",
       "file_path": "wiki/concepts/混合模型策略.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "15476d5c-2750-457b-a978-91286f0c6f79": {
       "type": "synthesis",
@@ -2846,7 +2846,7 @@
     "2a82a631-fad9-4b52-b195-63c56c6cfdae": {
       "type": "concept",
       "file_path": "wiki/concepts/AaaS 商业模式.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "2aaa31af-7642-47f8-9c32-07919284ceea": {
       "type": "entity",
@@ -3086,7 +3086,7 @@
     "2e874e05-04cb-4cc1-9b77-0eaccba62d06": {
       "type": "entity",
       "file_path": "wiki/entities/FRED.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "2e896964-b6e5-4b28-99ff-2b0e06a05bc3": {
       "type": "entity",
@@ -3226,7 +3226,7 @@
     "30a29f15-234e-49fe-a734-26146502d231": {
       "type": "concept",
       "file_path": "wiki/concepts/体育延迟套利.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "30a2e963-6054-4796-af61-c524ae1af33f": {
       "type": "entity",
@@ -3366,7 +3366,7 @@
     "3220aeff-b5b5-4069-9d9c-9e932024571d": {
       "type": "entity",
       "file_path": "wiki/entities/SafePal.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "32597a4c-5cc9-4c56-b025-aad33925f79d": {
       "type": "entity",
@@ -3391,7 +3391,7 @@
     "3268a628-7b69-409b-9fb6-163bf440e3a7": {
       "type": "entity",
       "file_path": "wiki/entities/memory-lancedb-pro.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "326a7492-af7d-4281-ab85-3a98f286b556": {
       "type": "concept",
@@ -4061,7 +4061,7 @@
     "3dc1f1f6-7b88-4a08-b4b7-6283952f086c": {
       "type": "entity",
       "file_path": "wiki/entities/superpowers 框架.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "3dd87046-84ab-4478-8cb4-ebc096025ca4": {
       "type": "summary",
@@ -4156,7 +4156,7 @@
     "3eecffad-1795-4231-9081-c198a570550b": {
       "type": "concept",
       "file_path": "wiki/concepts/聪明钱信号.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "3f076b91-cda7-4c39-b7a1-79779cfc93cd": {
       "type": "summary",
@@ -5001,7 +5001,7 @@
     "4d8a4b0b-fcce-4bfb-abdc-e140d488d5ce": {
       "type": "concept",
       "file_path": "wiki/concepts/插件化多智能体编排.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:21:00.000Z"
     },
     "4d8ee340-a337-481d-ba94-b753ae1a0a02": {
       "type": "summary",
@@ -5271,7 +5271,7 @@
     "51899a21-2091-43d1-9b0b-d28657508e92": {
       "type": "entity",
       "file_path": "wiki/entities/LangChain.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "518c2257-4da5-4f70-b93f-32a05257d932": {
       "type": "summary",
@@ -5361,7 +5361,7 @@
     "52fe28b9-fbcd-489f-a376-0e469f231301": {
       "type": "concept",
       "file_path": "wiki/concepts/AI 工具逆向分析.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:21:00.000Z"
     },
     "531518c2-ee79-4184-b4d3-cb11b26fbc3e": {
       "type": "entity",
@@ -6321,7 +6321,7 @@
     "62eca442-3ff7-427f-a3b7-1dbbbe5f983f": {
       "type": "concept",
       "file_path": "wiki/concepts/OpenClaw 安全实践指南.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "6317e470-fb67-4c46-9b0f-19efa913f697": {
       "type": "entity",
@@ -6401,7 +6401,7 @@
     "6449d112-806e-4d3c-a67b-ca93875e0919": {
       "type": "concept",
       "file_path": "wiki/concepts/LLM Graph Transformer.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "64566ba9-4db7-4a2e-a76c-f5a688144932": {
       "type": "concept",
@@ -6471,7 +6471,7 @@
     "6512283b-6eee-4eaa-9723-a1971b49c482": {
       "type": "concept",
       "file_path": "wiki/concepts/OnchainOS Signal.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:21:00.000Z"
     },
     "651ee71b-7c79-4c73-8fb3-f5599f6176be": {
       "type": "entity",
@@ -6776,7 +6776,7 @@
     "68d73fe2-a355-4c16-82d1-d8d60c18e9db": {
       "type": "concept",
       "file_path": "wiki/concepts/OpenClaw 九层 System Prompt 架构.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:21:00.000Z"
     },
     "68dd8559-5090-488f-9ca6-11f51a2d4ce4": {
       "type": "concept",
@@ -6931,7 +6931,7 @@
     "6b211c84-7cf2-407c-aa6d-f65d2bab0fbc": {
       "type": "concept",
       "file_path": "wiki/concepts/多模型交叉验证筛选.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:21:00.000Z"
     },
     "6b39e7de-337c-4884-848d-3f90b584d684": {
       "type": "concept",
@@ -7011,7 +7011,7 @@
     "6c91e3fe-fa1a-4181-bded-33e783cb7f68": {
       "type": "entity",
       "file_path": "wiki/entities/DeFiLlama.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "6c9f5048-15ac-4d33-8890-b56d53922840": {
       "type": "concept",
@@ -7186,7 +7186,7 @@
     "6f8c86df-6cfc-4147-bb9d-567c555fa2e3": {
       "type": "concept",
       "file_path": "wiki/concepts/账号风控.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "6fe0d94e-d87a-425b-a745-496db9aca3e5": {
       "type": "summary",
@@ -7196,7 +7196,7 @@
     "6fef3755-453e-4748-bf82-a5fbe209d4ba": {
       "type": "concept",
       "file_path": "wiki/concepts/X 列表.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "70071944-4947-4ebf-b45c-f9b3c8bf7674": {
       "type": "entity",
@@ -7591,7 +7591,7 @@
     "774a8205-358a-4e76-854b-1a3c85136c70": {
       "type": "entity",
       "file_path": "wiki/entities/Gate MCP Skills.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "778df128-abf7-40e8-b86c-e5bd3e45ea21": {
       "type": "concept",
@@ -7806,7 +7806,7 @@
     "7ae23b98-8997-4d18-9f8e-8c48035cf9f5": {
       "type": "concept",
       "file_path": "wiki/concepts/飞书官方 OpenClaw 插件.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:21:00.000Z"
     },
     "7aebe3fa-f8e0-46e7-af86-583f433cd4df": {
       "type": "concept",
@@ -7931,7 +7931,7 @@
     "7c9a4c2b-025a-4e91-91fe-d4196beab4fe": {
       "type": "concept",
       "file_path": "wiki/concepts/Polymarket Analytics.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "7caf2f68-2036-4a0b-afdf-4d5482b1bd5e": {
       "type": "concept",
@@ -8251,7 +8251,7 @@
     "820aa186-39ce-48d0-9e2e-058a45a373e9": {
       "type": "entity",
       "file_path": "wiki/entities/6551-twitter-to-binance-square.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "820e5a35-b46b-4a9d-82eb-f263c0e53e72": {
       "type": "concept",
@@ -8266,7 +8266,7 @@
     "8268d486-b893-48d8-89e7-4a6941f831bc": {
       "type": "concept",
       "file_path": "wiki/concepts/Fanout Backlog.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "827663dd-5999-44d7-a609-543ac71e844f": {
       "type": "summary",
@@ -9466,7 +9466,7 @@
     "94e3b386-cdba-4ef0-8881-308d13aef4e6": {
       "type": "entity",
       "file_path": "wiki/entities/x-tweet-fetcher.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "94e77acd-3a1e-42d0-925f-3ac2ca770a1d": {
       "type": "summary",
@@ -9541,7 +9541,7 @@
     "95ed9c82-66fa-4cba-9e0b-fd3ca84353aa": {
       "type": "concept",
       "file_path": "wiki/concepts/ClawJacked.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "9600b745-3e70-4ac4-914e-dd0a5fd430f0": {
       "type": "entity",
@@ -9876,7 +9876,7 @@
     "9b461ffd-38fa-4b10-81a2-810ae21f8b71": {
       "type": "concept",
       "file_path": "wiki/concepts/子 Agent 派生.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "9b4d7d6f-65f5-4492-a26b-76766b3b54a4": {
       "type": "concept",
@@ -10221,7 +10221,7 @@
     "a037248e-a62b-49f8-ab36-292f0e93ffac": {
       "type": "entity",
       "file_path": "wiki/entities/AutoGen.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "a067ddc1-65c8-4ee8-8715-31d12319fd3c": {
       "type": "summary",
@@ -11216,7 +11216,7 @@
     "af2fc402-059c-4656-b099-7fc81e03baa2": {
       "type": "entity",
       "file_path": "wiki/entities/total-recall.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "af37b9e7-bbba-4259-aa71-da95e0788824": {
       "type": "concept",
@@ -11376,7 +11376,7 @@
     "b1f9a269-6a39-4dda-854f-ea5ea30091e0": {
       "type": "concept",
       "file_path": "wiki/concepts/跨交易所套利.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "b20bd9e3-4f97-4a22-abb9-b3d456b8e8ae": {
       "type": "summary",
@@ -11476,7 +11476,7 @@
     "b35317a3-b5bf-4f81-bad9-9b465d540716": {
       "type": "entity",
       "file_path": "wiki/entities/CME FedWatch.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "b362a031-fe00-419a-9d37-7b132f61dc0c": {
       "type": "concept",
@@ -11491,7 +11491,7 @@
     "b38538c7-88ca-4004-8420-ab6767771db4": {
       "type": "entity",
       "file_path": "wiki/entities/Binance Skills Hub.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "b38ac806-581f-4bd4-bb94-2f2c0ecbd4b3": {
       "type": "concept",
@@ -11691,7 +11691,7 @@
     "b6983322-e71b-4107-aa2a-31cf19c6ecf8": {
       "type": "concept",
       "file_path": "wiki/concepts/obsidian-cli.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:21:00.000Z"
     },
     "b6990dcf-3345-487c-b0c3-13a0b05374ab": {
       "type": "concept",
@@ -11716,7 +11716,7 @@
     "b6efbd7f-d8bf-48da-b13e-1920845fd5a8": {
       "type": "concept",
       "file_path": "wiki/concepts/Cursor Skills 生态.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "b6f0530b-2e72-4fc1-962b-bab7bce8e491": {
       "type": "concept",
@@ -11731,7 +11731,7 @@
     "b7025e4f-b3aa-4bfd-9bbf-54b21f3985ed": {
       "type": "concept",
       "file_path": "wiki/concepts/阿里百炼 Coding Plan.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "b7236eeb-aeba-49cb-9f0b-648c7bf34ba7": {
       "type": "concept",
@@ -11916,7 +11916,7 @@
     "ba11cff7-7d44-4922-9f86-7173b90842c8": {
       "type": "concept",
       "file_path": "wiki/concepts/小红书引流.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "ba38987d-8440-4141-a14f-f8bf8d05283e": {
       "type": "concept",
@@ -11971,7 +11971,7 @@
     "bb112c94-669e-4eae-9ade-4a7d6402d6b4": {
       "type": "entity",
       "file_path": "wiki/entities/MiniMax M2.5.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "bb12d319-9348-4821-b34a-b85f18c5fc2a": {
       "type": "entity",
@@ -12346,7 +12346,7 @@
     "c08d8f26-fe51-40b7-ba12-a42d2a6b6bf5": {
       "type": "concept",
       "file_path": "wiki/concepts/双向链接.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "c08f5ba6-df13-4a35-b4e5-6a359a6c7a37": {
       "type": "entity",
@@ -13151,7 +13151,7 @@
     "cce5707a-dd6c-4188-968c-a407dd16b49b": {
       "type": "entity",
       "file_path": "wiki/entities/OpenViking.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "ccefd76b-5bb4-46e8-a9e1-ebca57f294c6": {
       "type": "entity",
@@ -13891,7 +13891,7 @@
     "d701c529-1bde-4f08-ad35-939865cc5865": {
       "type": "entity",
       "file_path": "wiki/entities/ARC-Rig 框架.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "d7033ac8-39d7-4020-b290-79aee63c36d7": {
       "type": "entity",
@@ -13986,7 +13986,7 @@
     "d8b27216-fa70-447f-8593-297e712c66c8": {
       "type": "concept",
       "file_path": "wiki/concepts/逆向分析.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "d8b82b0f-7f97-49a9-9e71-53cc539a7e17": {
       "type": "entity",
@@ -14241,7 +14241,7 @@
     "dc81a894-a891-4800-8103-b29a4acf4f21": {
       "type": "concept",
       "file_path": "wiki/concepts/Telegram 群组路由.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:21:00.000Z"
     },
     "dc85e5b3-6351-477f-9a95-638bcd8e8e60": {
       "type": "summary",
@@ -14766,7 +14766,7 @@
     "e607b082-3958-41c5-b000-e089b246decf": {
       "type": "entity",
       "file_path": "wiki/entities/Fiat24.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "e61b2093-a889-4712-b4ed-6731ee48cc36": {
       "type": "summary",
@@ -14876,7 +14876,7 @@
     "e73fe233-d65c-4646-a1d2-f0e444cf1224": {
       "type": "concept",
       "file_path": "wiki/concepts/反蒸馏.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "e750199d-d541-4040-90b6-0a3e5abb07d6": {
       "type": "entity",
@@ -15826,7 +15826,7 @@
     "f798dd15-4829-4d36-a546-088e512db9e8": {
       "type": "concept",
       "file_path": "wiki/concepts/传播飞轮.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:20:00.000Z"
     },
     "f799174f-9789-46f3-ae07-4f2ccc5a8194": {
       "type": "summary",
@@ -16036,7 +16036,7 @@
     "fb5b5c5f-c1ff-4620-bed4-688b02f8efff": {
       "type": "entity",
       "file_path": "wiki/entities/Qdrant.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "fb5d1ada-172f-4531-b7e7-d82e4f032f18": {
       "type": "concept",
@@ -16061,7 +16061,7 @@
     "fb74dd69-2360-463f-8002-901fadbe5108": {
       "type": "concept",
       "file_path": "wiki/concepts/X 信息源矩阵.md",
-      "last_edited": "2026-04-28T19:11:00.000Z"
+      "last_edited": "2026-04-28T23:21:00.000Z"
     },
     "fb792aaf-72f7-46d0-8b7a-7ed42068360c": {
       "type": "summary",
@@ -16191,7 +16191,7 @@
     "fce3a27f-9450-4ba2-8165-c55dfaafb546": {
       "type": "concept",
       "file_path": "wiki/concepts/AI小程序成长计划.md",
-      "last_edited": "2026-04-28T19:10:00.000Z"
+      "last_edited": "2026-04-28T23:19:00.000Z"
     },
     "fce6ec14-a24c-4360-aa12-3ce16a2b7ecf": {
       "type": "summary",
@@ -21292,6 +21292,21 @@
       "type": "lint-report",
       "file_path": "wiki/lint-report/Lint Report 2026-04-28-d209b26a.md",
       "last_edited": "2026-04-28T02:39:00.000Z"
+    },
+    "2baea59d-16d1-42ba-83c7-11598735eed7": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径.md",
+      "last_edited": "2026-04-28T21:14:00.000Z"
+    },
+    "11aa31b8-b3aa-4dde-b3bd-67c27303d971": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md",
+      "last_edited": "2026-04-28T21:14:00.000Z"
+    },
+    "1096b43d-91dc-4f83-ac28-807d6cba7c06": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md",
+      "last_edited": "2026-04-28T21:14:00.000Z"
     }
   }
 }

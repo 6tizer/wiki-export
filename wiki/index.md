@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1840, "summary": 1338, "synthesis": 105, "entity": 910, "index": 3, "lint-report": 58, "qa": 4}
-total: 4258
+type_counts: {"concept": 1840, "summary": 1338, "synthesis": 108, "entity": 910, "index": 3, "lint-report": 58, "qa": 4}
+total: 4261
 last_updated: 2026-04-29
 ---
 
 # 📚 知识 Wiki Index
 
-> 1840 concepts · 910 entitys · 3 indexs · 58 lint-reports · 4 qas · 1338 summarys · 105 synthesiss
+> 1840 concepts · 910 entitys · 3 indexs · 58 lint-reports · 4 qas · 1338 summarys · 108 synthesiss
 > 导出时间: 2026-04-29
 
 ## 使用方式
@@ -334,6 +334,7 @@ last_updated: 2026-04-29
 ### Synthesiss
 - [AI 产品形态分化全景：从基础设施到应用层的六种架构范式与价值捕获路径](syntheses/AI 产品形态分化全景：从基础设施到应用层的六种架构范式与价值捕获路径.md)
 - [AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径](syntheses/AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径.md)
+- [Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径](syntheses/Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径.md)
 
 ## AI 对齐
 ### Concepts
@@ -737,11 +738,14 @@ last_updated: 2026-04-29
 
 ### Synthesiss
 - [Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径](syntheses/Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径.md)
+- [Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径](syntheses/Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径.md)
 - [Agent 技能的商业化拓扑：从免费能力模块到可计价服务单元的价值捕获路径与生态博弈](syntheses/Agent 技能的商业化拓扑：从免费能力模块到可计价服务单元的价值捕获路径与生态博弈.md)
 - [Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径](syntheses/Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径.md)
 - [Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱](syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md)
 - [Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融](syntheses/Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融.md)
 - [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
+- [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
+- [注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈](syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md)
 
 ## Agent 安全
 ### Concepts
@@ -3018,6 +3022,8 @@ last_updated: 2026-04-29
 - [Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱](syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md)
 - [Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融](syntheses/Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融.md)
 - [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
+- [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
+- [注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈](syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md)
 
 ## IDE 集成
 ### Concepts
@@ -4419,6 +4425,7 @@ last_updated: 2026-04-29
 - [Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进](syntheses/Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进.md)
 - [LLM 运营经济学如何重塑生产工作流：从 Token 成本治理到多模型协同的工程化路径](syntheses/LLM 运营经济学如何重塑生产工作流：从 Token 成本治理到多模型协同的工程化路径.md)
 - [上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略](syntheses/上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略.md)
+- [注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈](syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
 
 ## 代码生成
@@ -7118,6 +7125,7 @@ last_updated: 2026-04-29
 
 ### Synthesiss
 - [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
+- [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
 - [Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化](syntheses/Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化.md)
 - [大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进](syntheses/大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进.md)
 
@@ -8650,6 +8658,7 @@ last_updated: 2026-04-29
 - [摘要：📦New in · OKX Agent Trade Kit 上新！](summaries/摘要：📦New in · OKX Agent Trade Kit 上新！.md)
 
 ### Synthesiss
+- [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
 - [加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径](syntheses/加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径.md)
 - [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)
 
@@ -10284,6 +10293,7 @@ last_updated: 2026-04-29
 - [AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑](syntheses/AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑.md)
 - [AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径](syntheses/AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径.md)
 - [Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径](syntheses/Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径.md)
+- [Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径](syntheses/Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径.md)
 - [Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进](syntheses/Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进.md)
 - [Agent 技能从静态封装到工作流原子的演进路径：能力获取、蒸馏复用与质量治理的三重架构分层](syntheses/Agent 技能从静态封装到工作流原子的演进路径：能力获取、蒸馏复用与质量治理的三重架构分层.md)
 - [Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进](syntheses/Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进.md)
@@ -10336,6 +10346,7 @@ last_updated: 2026-04-29
 - [OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比](syntheses/OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比.md)
 - [OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱](syntheses/OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱.md)
 - [OpenClaw 记忆编排三体问题：文件即认知基底如何让记忆与编排在同一架构中共演为自主 Agent](syntheses/OpenClaw 记忆编排三体问题：文件即认知基底如何让记忆与编排在同一架构中共演为自主 Agent.md)
+- [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
 - [Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化](syntheses/Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化.md)
 - [上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略](syntheses/上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略.md)
 - [从技能图谱到自优化管线：Skill 组合的可执行链路构建与反馈驱动的演化机制](syntheses/从技能图谱到自优化管线：Skill 组合的可执行链路构建与反馈驱动的演化机制.md)
@@ -10356,6 +10367,7 @@ last_updated: 2026-04-29
 - [开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径](syntheses/开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径.md)
 - [开发工具驱动的知识管理新范式：从手动收藏到 Agent 原生知识编译的工具链演进](syntheses/开发工具驱动的知识管理新范式：从手动收藏到 Agent 原生知识编译的工具链演进.md)
 - [技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路](syntheses/技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路.md)
+- [注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈](syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md)
 - [知识 Wiki 双轨系统方案：从 Notion 编译引擎到本地 Markdown 分发层](syntheses/知识 Wiki 双轨系统方案：从 Notion 编译引擎到本地 Markdown 分发层.md)
 - [知识 Wiki 系统大升级：V2 设计决策与执行全记录](syntheses/知识 Wiki 系统大升级：V2 设计决策与执行全记录.md)
 - [知识工作流自动化全链路：从信息源筛选到知识资产沉淀的管线设计与演进模式](syntheses/知识工作流自动化全链路：从信息源筛选到知识资产沉淀的管线设计与演进模式.md)
