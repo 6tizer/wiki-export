@@ -3,12 +3,12 @@ title: Cognitive Core
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4b2ab596724b40a6935b45f18e90ae8c
+notion_url: https://www.notion.so/Tizer/4b2ab596724b40a6935b45f18e90ae8c
 notion_id: 4b2ab596-724b-40a6-935b-45f18e90ae8c
 ---
 

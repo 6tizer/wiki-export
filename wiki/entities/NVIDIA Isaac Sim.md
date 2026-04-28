@@ -3,12 +3,12 @@ title: NVIDIA Isaac Sim
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/78d86b83b4db4f7c90899ebb0ce6cf76
+notion_url: https://www.notion.so/Tizer/78d86b83b4db4f7c90899ebb0ce6cf76
 notion_id: 78d86b83-b4db-4f7c-9089-9ebb0ce6cf76
 ---
 

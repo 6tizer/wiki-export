@@ -3,12 +3,12 @@ title: Context Mixing
 type: concept
 tags:
 - 上下文管理
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/184968c771e8467eb90292d0d88cb48f
+notion_url: https://www.notion.so/Tizer/184968c771e8467eb90292d0d88cb48f
 notion_id: 184968c7-71e8-467e-b902-92d0d88cb48f
 ---
 

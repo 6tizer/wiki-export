@@ -3,12 +3,12 @@ title: oMLX
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/25ac279d908b4fb295b1d118afc1f1c6
+notion_url: https://www.notion.so/Tizer/25ac279d908b4fb295b1d118afc1f1c6
 notion_id: 25ac279d-908b-4fb2-95b1-d118afc1f1c6
 ---
 

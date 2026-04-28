@@ -3,12 +3,12 @@ title: ESP32
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d7033ac839d74020b29079aee63c36d7
+notion_url: https://www.notion.so/Tizer/d7033ac839d74020b29079aee63c36d7
 notion_id: d7033ac8-39d7-4020-b290-79aee63c36d7
 ---
 

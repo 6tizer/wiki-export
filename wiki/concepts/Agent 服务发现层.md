@@ -3,12 +3,12 @@ title: Agent 服务发现层
 type: concept
 tags:
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2de61d3ca5554240a6aee5f7251be1a3
+notion_url: https://www.notion.so/Tizer/2de61d3ca5554240a6aee5f7251be1a3
 notion_id: 2de61d3c-a555-4240-a6ae-e5f7251be1a3
 ---
 

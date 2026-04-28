@@ -3,12 +3,12 @@ title: 时空视频 Tokenizer
 type: concept
 tags:
 - 视频/3D
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3ee4419af44d4127a1b0b4e104c6a1f5
+notion_url: https://www.notion.so/Tizer/3ee4419af44d4127a1b0b4e104c6a1f5
 notion_id: 3ee4419a-f44d-4127-a1b0-b4e104c6a1f5
 ---
 

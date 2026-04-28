@@ -4,12 +4,12 @@ type: entity
 tags:
 - AI 产品
 - 训练/微调
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c1a428e400b84429a681857884ea8f9e
+notion_url: https://www.notion.so/Tizer/c1a428e400b84429a681857884ea8f9e
 notion_id: c1a428e4-00b8-4429-a681-857884ea8f9e
 ---
 

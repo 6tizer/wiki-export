@@ -3,12 +3,12 @@ title: Parcae 架构
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a1f144a1d72f42c59b2cd9e637aa4c10
+notion_url: https://www.notion.so/Tizer/a1f144a1d72f42c59b2cd9e637aa4c10
 notion_id: a1f144a1-d72f-42c5-9b2c-d9e637aa4c10
 ---
 

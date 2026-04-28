@@ -5,12 +5,12 @@ tags:
 - CLI 工具
 - 开发工具
 - 工作流
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8ce23e1553fb4689aa4556c9099bae34
+notion_url: https://www.notion.so/Tizer/8ce23e1553fb4689aa4556c9099bae34
 notion_id: 8ce23e15-53fb-4689-aa45-56c9099bae34
 ---
 

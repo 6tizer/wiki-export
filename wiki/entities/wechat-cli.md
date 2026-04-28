@@ -3,12 +3,12 @@ title: wechat-cli
 type: entity
 tags:
 - MCP 协议
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/519c296747d74826a0ea29b68b2d9703
+notion_url: https://www.notion.so/Tizer/519c296747d74826a0ea29b68b2d9703
 notion_id: 519c2967-47d7-4826-a0ea-29b68b2d9703
 ---
 

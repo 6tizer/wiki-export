@@ -5,12 +5,12 @@ tags:
 - 知识管理
 - 长期记忆
 - MCP 协议
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/88975eec5a264d5d954cd49e28efee97
+notion_url: https://www.notion.so/Tizer/88975eec5a264d5d954cd49e28efee97
 notion_id: 88975eec-5a26-4d5d-954c-d49e28efee97
 ---
 

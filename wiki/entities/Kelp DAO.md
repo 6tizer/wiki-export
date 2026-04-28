@@ -3,12 +3,12 @@ title: Kelp DAO
 type: entity
 tags:
 - Crypto/DeFi
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4ccd48a40ead456dba9e9214737a8548
+notion_url: https://www.notion.so/Tizer/4ccd48a40ead456dba9e9214737a8548
 notion_id: 4ccd48a4-0ead-456d-ba9e-9214737a8548
 ---
 

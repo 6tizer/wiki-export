@@ -3,12 +3,12 @@ title: x86-64 Assembly
 type: concept
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e67eb2397af7432b96801cd0c419fb21
+notion_url: https://www.notion.so/Tizer/e67eb2397af7432b96801cd0c419fb21
 notion_id: e67eb239-7af7-432b-9680-1cd0c419fb21
 ---
 

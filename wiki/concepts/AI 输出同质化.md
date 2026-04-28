@@ -4,12 +4,12 @@ type: concept
 tags:
 - AI 设计
 - 提示工程
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: LLM, Agent, Claude, openai
 source_article_url: ''
-notion_url: https://www.notion.so/1ee260aef99f408b9de5c0745393f1d7
+notion_url: https://www.notion.so/Tizer/1ee260aef99f408b9de5c0745393f1d7
 notion_id: 1ee260ae-f99f-408b-9de5-c0745393f1d7
 ---
 

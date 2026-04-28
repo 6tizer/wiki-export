@@ -3,12 +3,12 @@ title: HUD 数据叠层
 type: concept
 tags:
 - AI 设计
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5ca129e5e0584a3d9133746d775f19b5
+notion_url: https://www.notion.so/Tizer/5ca129e5e0584a3d9133746d775f19b5
 notion_id: 5ca129e5-e058-4a3d-9133-746d775f19b5
 ---
 

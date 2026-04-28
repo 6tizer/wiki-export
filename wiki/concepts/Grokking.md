@@ -3,12 +3,12 @@ title: Grokking
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9ce082b71091426ba1d6a38b0642a24e
+notion_url: https://www.notion.so/Tizer/9ce082b71091426ba1d6a38b0642a24e
 notion_id: 9ce082b7-1091-426b-a1d6-a38b0642a24e
 ---
 

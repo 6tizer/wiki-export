@@ -3,7 +3,7 @@ title: Browser Harness
 type: entity
 tags:
 - 浏览器自动化
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''

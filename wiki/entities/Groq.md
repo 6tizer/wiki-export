@@ -4,12 +4,12 @@ type: entity
 tags:
 - LLM
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: LLM, API Key, 开发者工具
 source_article_url: ''
-notion_url: https://www.notion.so/b9defc0c5685491e9216f19900c82124
+notion_url: https://www.notion.so/Tizer/b9defc0c5685491e9216f19900c82124
 notion_id: b9defc0c-5685-491e-9216-f19900c82124
 ---
 

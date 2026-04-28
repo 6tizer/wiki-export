@@ -73,6 +73,8 @@ GitHub：[https://github.com/obra/superpowers](https://github.com/obra/superpowe
 
 - [摘要：superpowers is still the simplest way to level up any project you're running in Claude](summaries/摘要：superpowers is still the simplest way to level up any project you're running in Claude.md)（[原文](https://x.com/shannholmberg/status/2047722364415459463)）
 
+- [摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元](summaries/摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyMzY1NTM0Mw%3D%3D&mid=2247515158&idx=1&sn=a656396814f65b8053981d852d11bb54&chksm=c0ba44de9a9054cf724edaed2a5cda4d44ea80568c1c43a3b3d2de3699534f4295bfaf69ba91#rd)）
+
 ## 关联概念
 
 - [Git Worktree](concepts/Git Worktree.md)

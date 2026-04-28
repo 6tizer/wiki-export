@@ -4,12 +4,12 @@ type: entity
 tags:
 - Coding Agent
 - CLI 工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d4431b1a0c1642b49323fddf3e4c94d9
+notion_url: https://www.notion.so/Tizer/d4431b1a0c1642b49323fddf3e4c94d9
 notion_id: d4431b1a-0c16-42b4-9323-fddf3e4c94d9
 ---
 

@@ -6,12 +6,12 @@ tags:
 - 多模态
 - 图像生成
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0943be22b6874048959632450db5573d
+notion_url: https://www.notion.so/Tizer/0943be22b6874048959632450db5573d
 notion_id: 0943be22-b687-4048-9596-32450db5573d
 ---
 

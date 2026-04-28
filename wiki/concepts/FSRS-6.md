@@ -4,12 +4,12 @@ type: concept
 tags:
 - 知识管理
 - 记忆系统
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a02e086ddb7e4ecdafa1a8c9528204b1
+notion_url: https://www.notion.so/Tizer/a02e086ddb7e4ecdafa1a8c9528204b1
 notion_id: a02e086d-db7e-4ecd-afa1-a8c9528204b1
 ---
 

@@ -6,12 +6,12 @@ tags:
 - 内容自动化
 - 前端开发
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/804dfbd2d7c84ab78a1b79bf052e4779
+notion_url: https://www.notion.so/Tizer/804dfbd2d7c84ab78a1b79bf052e4779
 notion_id: 804dfbd2-d7c8-4ab7-8a1b-79bf052e4779
 ---
 

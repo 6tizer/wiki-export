@@ -3,12 +3,12 @@ title: Claude Code Channels
 type: concept
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/65205516e8fc4881ad8d205342224ec8
+notion_url: https://www.notion.so/Tizer/65205516e8fc4881ad8d205342224ec8
 notion_id: 65205516-e8fc-4881-ad8d-205342224ec8
 ---
 

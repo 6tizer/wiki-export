@@ -3,12 +3,12 @@ title: KV-Cache 分层存储
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0cd5da67324743cb89e557eb4327f775
+notion_url: https://www.notion.so/Tizer/0cd5da67324743cb89e557eb4327f775
 notion_id: 0cd5da67-3247-43cb-89e5-57eb4327f775
 ---
 

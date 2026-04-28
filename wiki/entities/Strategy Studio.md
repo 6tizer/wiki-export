@@ -3,12 +3,12 @@ title: Strategy Studio
 type: entity
 tags:
 - 量化交易
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b0bc34175be849809fcc9b3da2399233
+notion_url: https://www.notion.so/Tizer/b0bc34175be849809fcc9b3da2399233
 notion_id: b0bc3417-5be8-4980-9fcc-9b3da2399233
 ---
 

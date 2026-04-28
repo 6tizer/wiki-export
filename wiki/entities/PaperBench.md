@@ -3,12 +3,12 @@ title: PaperBench
 type: entity
 tags:
 - 模型评测
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/771d5224643848548c4501723e5c14a4
+notion_url: https://www.notion.so/Tizer/771d5224643848548c4501723e5c14a4
 notion_id: 771d5224-6438-4854-8c45-01723e5c14a4
 ---
 

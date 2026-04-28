@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1821, "summary": 1322, "synthesis": 99, "entity": 899, "index": 3, "lint-report": 56, "qa": 4}
-total: 4204
+type_counts: {"concept": 1840, "summary": 1338, "synthesis": 105, "entity": 910, "index": 3, "lint-report": 58, "qa": 4}
+total: 4258
 last_updated: 2026-04-28
 ---
 
 # 📚 知识 Wiki Index
 
-> 1821 concepts · 899 entitys · 3 indexs · 56 lint-reports · 4 qas · 1322 summarys · 99 synthesiss
+> 1840 concepts · 910 entitys · 3 indexs · 58 lint-reports · 4 qas · 1338 summarys · 105 synthesiss
 > 导出时间: 2026-04-28
 
 ## 使用方式
@@ -91,6 +91,7 @@ last_updated: 2026-04-28
 - [Aftergateway](entities/Aftergateway.md)
 - [Agentic.market](entities/Agentic.market.md)
 - [Aivilization](entities/Aivilization.md)
+- [Alyx](entities/Alyx.md)
 - [Anthropic](entities/Anthropic.md)
 - [Anthropic API](entities/Anthropic API.md)
 - [Antigravity](entities/Antigravity.md)
@@ -205,11 +206,12 @@ last_updated: 2026-04-28
 - [Page Agent](entities/Page Agent.md)
 - [Perplexity](entities/Perplexity.md)
 - [Persona Identities](entities/Persona Identities.md)
-- [PersonalAgent](entities/PersonalAgent.md)
+- [Personal Agent](entities/Personal Agent.md)
 - [Physical Intelligence](entities/Physical Intelligence.md)
 - [Pika AI Self](entities/Pika AI Self.md)
 - [Piper TTS](entities/Piper TTS.md)
 - [Pixelle-Video](entities/Pixelle-Video.md)
+- [PolyBond](entities/PolyBond.md)
 - [PolyClaw](entities/PolyClaw.md)
 - [Prism](entities/Prism.md)
 - [Project Glasswing](entities/Project Glasswing.md)
@@ -234,6 +236,7 @@ last_updated: 2026-04-28
 - [Vercel AI SDK](entities/Vercel AI SDK.md)
 - [VialOS Runtime](entities/VialOS Runtime.md)
 - [WeClone](entities/WeClone.md)
+- [Xiaomi MiMo Orbit](entities/Xiaomi MiMo Orbit.md)
 - [auth2api](entities/auth2api.md)
 - [awesome-nuwa](entities/awesome-nuwa.md)
 - [iii](entities/iii.md)
@@ -241,11 +244,13 @@ last_updated: 2026-04-28
 - [mcp-memory-service](entities/mcp-memory-service.md)
 - [prompts.chat](entities/prompts.chat.md)
 - [promptsref](entities/promptsref.md)
+- [uAI-NEXUS-MedVLM](entities/uAI-NEXUS-MedVLM.md)
 - [xiaohongshu-skills](entities/xiaohongshu-skills.md)
 - [yoyo](entities/yoyo.md)
 - [π0](entities/π0.md)
 - [团子](entities/团子.md)
 - [明日新程](entities/明日新程.md)
+- [联影智能](entities/联影智能.md)
 - [腾讯云 KiKi](entities/腾讯云 KiKi.md)
 - [达尔文.skill](entities/达尔文.skill.md)
 - [闪应用](entities/闪应用.md)
@@ -284,6 +289,7 @@ last_updated: 2026-04-28
 - [摘要：Kimi K2.6 is free on Nous Portal for the next 24 hours](summaries/摘要：Kimi K2.6 is free on Nous Portal for the next 24 hours.md)
 - [摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。](summaries/摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。.md)
 - [摘要：Managed Agents > Memory stores](summaries/摘要：Managed Agents  Memory stores.md)
+- [摘要：MiniCPM-o 4.5技术报告发布：全双工全模态API开放，RTX5070即可实时运行](summaries/摘要：MiniCPM-o 4.5技术报告发布：全双工全模态API开放，RTX5070即可实时运行.md)
 - [摘要：Moss 新版本正式上线](summaries/摘要：Moss 新版本正式上线.md)
 - [摘要：NVIDIA Lyra 2.0：从一张图片生成可探索的持久 3D 世界](summaries/摘要：NVIDIA Lyra 2.0：从一张图片生成可探索的持久 3D 世界.md)
 - [摘要：New in Claude Code: /ultrareview (research preview) runs a fleet of bug-hunting agents in the cloud.](summaries/摘要：New in Claude Code- -ultrareview (research preview) runs a fleet of bug-hunting agents in the cloud.md)
@@ -327,6 +333,7 @@ last_updated: 2026-04-28
 
 ### Synthesiss
 - [AI 产品形态分化全景：从基础设施到应用层的六种架构范式与价值捕获路径](syntheses/AI 产品形态分化全景：从基础设施到应用层的六种架构范式与价值捕获路径.md)
+- [AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径](syntheses/AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径.md)
 
 ## AI 对齐
 ### Concepts
@@ -469,6 +476,7 @@ last_updated: 2026-04-28
 - [Auxiliary 副驾模型](concepts/Auxiliary 副驾模型.md)
 - [BMAD Method](concepts/BMAD Method.md)
 - [Borda count](concepts/Borda count.md)
+- [Builder-Operator 模式](concepts/Builder-Operator 模式.md)
 - [Builder-Reviewer 模式](concepts/Builder-Reviewer 模式.md)
 - [Cascade Flows](concepts/Cascade Flows.md)
 - [Claude Code 四层配置架构](concepts/Claude Code 四层配置架构.md)
@@ -649,6 +657,7 @@ last_updated: 2026-04-28
 - [Lint Report 2026-04-26](lint-report/Lint Report 2026-04-26-8e8f72cf.md)
 
 ### Summarys
+- [摘要：1 Month with Hermes - I've been using Hermes wrong all along](summaries/摘要：1 Month with Hermes - I've been using Hermes wrong all along.md)
 - [摘要：14 live tools](summaries/摘要：14 live tools.md)
 - [摘要：19 Ping Pong Balls（Project Deal 推文讨论）](summaries/摘要：19 Ping Pong Balls（Project Deal 推文讨论）.md)
 - [摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙](summaries/摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙.md)
@@ -727,13 +736,17 @@ last_updated: 2026-04-28
 - [摘要：🚀 限时白嫖！3分钟搞定 小米 MiMo V2 Pro 接入 Hermes Agent「完整教程」](summaries/摘要：🚀 限时白嫖！3分钟搞定 小米 MiMo V2 Pro 接入 Hermes Agent「完整教程」.md)
 
 ### Synthesiss
+- [Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径](syntheses/Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径.md)
 - [Agent 技能的商业化拓扑：从免费能力模块到可计价服务单元的价值捕获路径与生态博弈](syntheses/Agent 技能的商业化拓扑：从免费能力模块到可计价服务单元的价值捕获路径与生态博弈.md)
 - [Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径](syntheses/Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径.md)
 - [Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱](syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md)
 - [Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融](syntheses/Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融.md)
+- [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
 
 ## Agent 安全
 ### Concepts
+- [AI Agent 权限隔离](concepts/AI Agent 权限隔离.md)
+- [AI 供应商锁定](concepts/AI 供应商锁定.md)
 - [AI 幻觉责任风险](concepts/AI 幻觉责任风险.md)
 - [AI 沙箱](concepts/AI 沙箱.md)
 - [AI心理学](concepts/AI心理学.md)
@@ -809,6 +822,7 @@ last_updated: 2026-04-28
 - [skills-vetter](entities/skills-vetter.md)
 
 ### Summarys
+- [摘要：9秒，公司没了！Claude「删库跑路」，Anthropic封杀110人公司，却还在扣钱](summaries/摘要：9秒，公司没了！Claude「删库跑路」，Anthropic封杀110人公司，却还在扣钱.md)
 - [摘要：AI“中转站”月入百万？五问揭开Token交易真相！](summaries/摘要：AI“中转站”月入百万？五问揭开Token交易真相！.md)
 - [摘要：Agent Vault never reveals vault-stored credentials to agents](summaries/摘要：Agent Vault never reveals vault-stored credentials to agents.md)
 - [摘要：Blazing-fast cold start:](summaries/摘要：Blazing-fast cold start-.md)
@@ -828,6 +842,7 @@ last_updated: 2026-04-28
 
 ### Synthesiss
 - [Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构](syntheses/Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构.md)
+- [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)
 
 ## Agent 技能
 ### Concepts
@@ -1918,11 +1933,13 @@ last_updated: 2026-04-28
 - [企业微信文档同步](concepts/企业微信文档同步.md)
 - [办公任务 CLI 化](concepts/办公任务 CLI 化.md)
 - [有道宝库](concepts/有道宝库.md)
+- [模块化内容排版](concepts/模块化内容排版.md)
 - [环境绑定](concepts/环境绑定.md)
 - [网站 CLI 化](concepts/网站 CLI 化.md)
 
 ### Entitys
 - [AgentShield](entities/AgentShield.md)
+- [CC Switch](entities/CC Switch.md)
 - [CLI-Hub](entities/CLI-Hub.md)
 - [Camoufox](entities/Camoufox.md)
 - [Claude Code](entities/Claude Code.md)
@@ -1937,6 +1954,7 @@ last_updated: 2026-04-28
 - [GitNexus](entities/GitNexus.md)
 - [Graphify](entities/Graphify.md)
 - [Grok CLI](entities/Grok CLI.md)
+- [Jujutsu](entities/Jujutsu.md)
 - [Kimi CLI](entities/Kimi CLI.md)
 - [Kiro CLI](entities/Kiro CLI.md)
 - [MediaCrawler](entities/MediaCrawler.md)
@@ -1950,7 +1968,6 @@ last_updated: 2026-04-28
 - [OpenCode](entities/OpenCode.md)
 - [OpenKB](entities/OpenKB.md)
 - [Orb](entities/Orb.md)
-- [Personal Agent](entities/Personal Agent.md)
 - [RTK](entities/RTK.md)
 - [Signet AI](entities/Signet AI.md)
 - [Social CLI](entities/Social CLI.md)
@@ -1976,6 +1993,7 @@ last_updated: 2026-04-28
 - [ziggy-llm](entities/ziggy-llm.md)
 
 ### Summarys
+- [摘要：43 个排版模块，Agent 帮你一键完成公众号排版](summaries/摘要：43 个排版模块，Agent 帮你一键完成公众号排版.md)
 - [摘要：AI researchers and engineers](summaries/摘要：AI researchers and engineers.md)
 - [摘要：Apple Silicon 上的 vLLM 终于原生 Swift/Metal 了！](summaries/摘要：Apple Silicon 上的 vLLM 终于原生 Swift-Metal 了！.md)
 - [摘要：Claude Code Web/Mobile 刷新与 Teleport 功能发布](summaries/摘要：Claude Code Web-Mobile 刷新与 Teleport 功能发布.md)
@@ -1986,6 +2004,7 @@ last_updated: 2026-04-28
 - [摘要：In the next version of Claude Code](summaries/摘要：In the next version of Claude Code.md)
 - [摘要：Introducing "create-agent-tui"](summaries/摘要：Introducing create-agent-tui.md)
 - [摘要：Introducing Exa for Claude:](summaries/摘要：Introducing Exa for Claude-.md)
+- [摘要：Keep your Claude Code context clean with Subagents](summaries/摘要：Keep your Claude Code context clean with Subagents.md)
 - [摘要：Kimi K2.6 is free on Nous Portal for the next 24 hours](summaries/摘要：Kimi K2.6 is free on Nous Portal for the next 24 hours.md)
 - [摘要：Mercury: The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real](summaries/摘要：Mercury- The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real.md)
 - [摘要：New in Claude Code: /ultrareview (research preview) runs a fleet of bug-hunting agents in the cloud.](summaries/摘要：New in Claude Code- -ultrareview (research preview) runs a fleet of bug-hunting agents in the cloud.md)
@@ -2008,6 +2027,7 @@ last_updated: 2026-04-28
 - [摘要：用 Markdown 写公众号文章，像发朋友圈一样简单](summaries/摘要：用 Markdown 写公众号文章，像发朋友圈一样简单.md)
 - [摘要：用了这么久 Claude Code，很多人都在研究 CLAUDE.md、Hooks、Sub-Agent，但其实它 GitHub 仓库里还藏着一批官方插件，很多人根本没注意到。](summaries/摘要：用了这么久 Claude Code，很多人都在研究 CLAUDE.md、Hooks、Sub-Agent，但其实它 GitHub 仓库里还藏着一批官方插件，很多人根本没注意到。.md)
 - [摘要：统一编排 Skill，按项目精准分发到不同 Agent CLI。](summaries/摘要：统一编排 Skill，按项目精准分发到不同 Agent CLI。.md)
+- [摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。](summaries/摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。.md)
 - [摘要：🚀 限时白嫖！3分钟搞定 小米 MiMo V2 Pro 接入 Hermes Agent「完整教程」](summaries/摘要：🚀 限时白嫖！3分钟搞定 小米 MiMo V2 Pro 接入 Hermes Agent「完整教程」.md)
 
 ### Synthesiss
@@ -2215,7 +2235,6 @@ last_updated: 2026-04-28
 - [Applied AI 团队](entities/Applied AI 团队.md)
 - [Architecture Diagram Generator](entities/Architecture Diagram Generator.md)
 - [Build macOS Apps 插件](entities/Build macOS Apps 插件.md)
-- [CC Switch](entities/CC Switch.md)
 - [Chrome DevTools MCP](entities/Chrome DevTools MCP.md)
 - [Claude Agent SDK](entities/Claude Agent SDK.md)
 - [Claude Code Desktop](entities/Claude Code Desktop.md)
@@ -2826,6 +2845,7 @@ last_updated: 2026-04-28
 
 ## Harness 工程
 ### Concepts
+- [AI Agent 权限隔离](concepts/AI Agent 权限隔离.md)
 - [AI Harness](concepts/AI Harness.md)
 - [AOT 编译](concepts/AOT 编译.md)
 - [Agent Harness](concepts/Agent Harness.md)
@@ -2834,10 +2854,13 @@ last_updated: 2026-04-28
 - [Agent 数据采集 API](concepts/Agent 数据采集 API.md)
 - [Agent 自修复循环](concepts/Agent 自修复循环.md)
 - [Agent-Managed Skills](concepts/Agent-Managed Skills.md)
+- [Atomic Commit](concepts/Atomic Commit.md)
 - [Auto Mode 延续模式](concepts/Auto Mode 延续模式.md)
 - [AutoHarness](concepts/AutoHarness.md)
 - [AutoSkill](concepts/AutoSkill.md)
 - [Bitter Lesson 原则](concepts/Bitter Lesson 原则.md)
+- [Builder-Operator 模式](concepts/Builder-Operator 模式.md)
+- [Checkpoint Commit](concepts/Checkpoint Commit.md)
 - [Claude Code Effort 分级](concepts/Claude Code Effort 分级.md)
 - [Command Hooks](concepts/Command Hooks.md)
 - [Deferred Resume](concepts/Deferred Resume.md)
@@ -2870,6 +2893,7 @@ last_updated: 2026-04-28
 - [Semantic Observability](concepts/Semantic Observability.md)
 - [Skill Drift](concepts/Skill Drift.md)
 - [Spec Kit](concepts/Spec Kit.md)
+- [Stacked PR](concepts/Stacked PR.md)
 - [Tool Scoping](concepts/Tool Scoping.md)
 - [XSKILL](concepts/XSKILL.md)
 - [bubblewrap](concepts/bubblewrap.md)
@@ -2881,6 +2905,7 @@ last_updated: 2026-04-28
 - [原始能力](concepts/原始能力.md)
 - [双重评估](concepts/双重评估.md)
 - [受控 schema RAG](concepts/受控 schema RAG.md)
+- [可托管执行单元](concepts/可托管执行单元.md)
 - [四步 PRD 对齐法](concepts/四步 PRD 对齐法.md)
 - [多档任务路由](concepts/多档任务路由.md)
 - [女娲.skill](concepts/女娲.skill.md)
@@ -2891,6 +2916,7 @@ last_updated: 2026-04-28
 - [心智模型蒸馏](concepts/心智模型蒸馏.md)
 - [快照与状态恢复](concepts/快照与状态恢复.md)
 - [抽骨骼测试](concepts/抽骨骼测试.md)
+- [插件冷查找表](concepts/插件冷查找表.md)
 - [插件化架构](concepts/插件化架构.md)
 - [文件系统记忆架构](concepts/文件系统记忆架构.md)
 - [根因消除](concepts/根因消除.md)
@@ -2909,7 +2935,9 @@ last_updated: 2026-04-28
 - [验证计算扩展](concepts/验证计算扩展.md)
 
 ### Entitys
+- [Alyx](entities/Alyx.md)
 - [Antigravity](entities/Antigravity.md)
+- [BrainBench](entities/BrainBench.md)
 - [CLI-Hub](entities/CLI-Hub.md)
 - [Claude Managed Agents](entities/Claude Managed Agents.md)
 - [ClawSweeper](entities/ClawSweeper.md)
@@ -2917,17 +2945,18 @@ last_updated: 2026-04-28
 - [EvoForge](entities/EvoForge.md)
 - [GSD](entities/GSD.md)
 - [Hermes Agent Self-Evolution](entities/Hermes Agent Self-Evolution.md)
+- [Jujutsu](entities/Jujutsu.md)
 - [Kimi CLI](entities/Kimi CLI.md)
 - [Mini-OpenClaw](entities/Mini-OpenClaw.md)
 - [Notion Plan Mode](entities/Notion Plan Mode.md)
 - [OpenRouter Agent SDK](entities/OpenRouter Agent SDK.md)
 - [Personal Agent](entities/Personal Agent.md)
-- [PersonalAgent](entities/PersonalAgent.md)
 - [Sigrid Jin](entities/Sigrid Jin.md)
 - [SkVM](entities/SkVM.md)
 - [UI UX Pro Max](entities/UI UX Pro Max.md)
 - [cc-harness](entities/cc-harness.md)
 - [claude-code-workflow](entities/claude-code-workflow.md)
+- [context-timeline](entities/context-timeline.md)
 - [create-agent-tui](entities/create-agent-tui.md)
 - [openclaw-managed-agents](entities/openclaw-managed-agents.md)
 - [明日新程](entities/明日新程.md)
@@ -2943,9 +2972,11 @@ last_updated: 2026-04-28
 - [摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」](summaries/摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」.md)
 - [摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三](summaries/摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三.md)
 - [摘要：Compound Engineering v3](summaries/摘要：Compound Engineering v3.md)
+- [摘要：Context Management in Agent Harnesses](summaries/摘要：Context Management in Agent Harnesses.md)
 - [摘要：Design principles for building an Agent harness](summaries/摘要：Design principles for building an Agent harness.md)
 - [摘要：GBrain Minions：用 Postgres 任务队列，把多 Agent 系统从玩具拉到生产级](summaries/摘要：GBrain Minions：用 Postgres 任务队列，把多 Agent 系统从玩具拉到生产级.md)
 - [摘要：GPT-5.5 changed capability ceilings.](summaries/摘要：GPT-5.5 changed capability ceilings.md)
+- [摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元](summaries/摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元.md)
 - [摘要：Hermes Agent 从入门到精通：25 个致命坑避坑实战指南](summaries/摘要：Hermes Agent 从入门到精通：25 个致命坑避坑实战指南.md)
 - [摘要：How I built harness for my agent using Claude Code leaks](summaries/摘要：How I built harness for my agent using Claude Code leaks.md)
 - [摘要：How to really stop your agents from making the same mistakes](summaries/摘要：How to really stop your agents from making the same mistakes.md)
@@ -2953,10 +2984,12 @@ last_updated: 2026-04-28
 - [摘要：Introducing "create-agent-tui"](summaries/摘要：Introducing create-agent-tui.md)
 - [摘要：Introducing Plan Mode.](summaries/摘要：Introducing Plan Mode.md)
 - [摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？](summaries/摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？.md)
+- [摘要：Keep your Claude Code context clean with Subagents](summaries/摘要：Keep your Claude Code context clean with Subagents.md)
 - [摘要：Kimi K2.6 is free on Nous Portal for the next 24 hours](summaries/摘要：Kimi K2.6 is free on Nous Portal for the next 24 hours.md)
 - [摘要：Managed Agents > Memory stores](summaries/摘要：Managed Agents  Memory stores.md)
 - [摘要：Memory](summaries/摘要：Memory.md)
 - [摘要：OpenAI 刚发的 Workspace Agent，开源版来了](summaries/摘要：OpenAI 刚发的 Workspace Agent，开源版来了.md)
+- [摘要：OpenClaw大更新，AI智能体不再是黑箱！官方口号：少点神秘](summaries/摘要：OpenClaw大更新，AI智能体不再是黑箱！官方口号：少点神秘.md)
 - [摘要：Personal Agent](summaries/摘要：Personal Agent.md)
 - [摘要：Personal Agent Features (Part 2)](summaries/摘要：Personal Agent Features (Part 2).md)
 - [摘要：SkVM：优化你的Skills能够跨模型、跨Harness、跨环境稳定运行 ｜SJTU最新](summaries/摘要：SkVM：优化你的Skills能够跨模型、跨Harness、跨环境稳定运行 ｜SJTU最新.md)
@@ -2968,10 +3001,12 @@ last_updated: 2026-04-28
 - [摘要：Workflow status](summaries/摘要：Workflow status.md)
 - [摘要：Xiaomi MiMo-V2.5 Series: Pushing Open-Source Agents Forward](summaries/摘要：Xiaomi MiMo-V2.5 Series- Pushing Open-Source Agents Forward.md)
 - [摘要：free-claude-code：0元白嫖 Claude Code 全套工程能力](summaries/摘要：free-claude-code：0元白嫖 Claude Code 全套工程能力.md)
+- [摘要：hybrid GraphRAG memory system](summaries/摘要：hybrid GraphRAG memory system.md)
 - [摘要：local-first AI assistant built for personal AI sovereignty](summaries/摘要：local-first AI assistant built for personal AI sovereignty.md)
 - [摘要：self-healing](summaries/摘要：self-healing.md)
 - [摘要：superpowers is still the simplest way to level up any project you're running in Claude](summaries/摘要：superpowers is still the simplest way to level up any project you're running in Claude.md)
 - [摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论](summaries/摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论.md)
+- [摘要：万字干货｜AI 时代的 Git 版本管理，你用对了吗？](summaries/摘要：万字干货｜AI 时代的 Git 版本管理，你用对了吗？.md)
 - [摘要：什么才是真正的 Harness Engineering？](summaries/摘要：什么才是真正的 Harness Engineering？.md)
 - [摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软](summaries/摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软.md)
 - [摘要：我给了他一个梦想：超越 Claude Code](summaries/摘要：我给了他一个梦想：超越 Claude Code.md)
@@ -2982,6 +3017,7 @@ last_updated: 2026-04-28
 ### Synthesiss
 - [Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱](syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md)
 - [Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融](syntheses/Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融.md)
+- [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
 
 ## IDE 集成
 ### Concepts
@@ -3599,7 +3635,6 @@ last_updated: 2026-04-28
 - [MTProto](concepts/MTProto.md)
 - [My Computer](concepts/My Computer.md)
 - [SearxNG](concepts/SearxNG.md)
-- [Telethon](concepts/Telethon.md)
 - [agentskills.io](concepts/agentskills.io.md)
 - [wake-up 协议](concepts/wake-up 协议.md)
 - [二进制载荷协商](concepts/二进制载荷协商.md)
@@ -3963,6 +3998,7 @@ last_updated: 2026-04-28
 - [摘要：OpenClaw-RL：让你的本地 Agent 边聊边进化](summaries/摘要：OpenClaw-RL：让你的本地 Agent 边聊边进化.md)
 - [摘要：OpenClaw-RL：边用边训练，用对话驯化你的专属 AI Agent](summaries/摘要：OpenClaw-RL：边用边训练，用对话驯化你的专属 AI Agent.md)
 - [摘要：OpenClaw只养一只龙虾？难怪不好用。我直接养了6只，效果炸裂！](summaries/摘要：OpenClaw只养一只龙虾？难怪不好用。我直接养了6只，效果炸裂！.md)
+- [摘要：OpenClaw大更新，AI智能体不再是黑箱！官方口号：少点神秘](summaries/摘要：OpenClaw大更新，AI智能体不再是黑箱！官方口号：少点神秘.md)
 - [摘要：OpenClaw最佳工具榜来了！这6款龙虾最受欢迎](summaries/摘要：OpenClaw最佳工具榜来了！这6款龙虾最受欢迎.md)
 - [摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会](summaries/摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会.md)
 - [摘要：OpenClaw正在杀死中层](summaries/摘要：OpenClaw正在杀死中层.md)
@@ -4140,7 +4176,9 @@ last_updated: 2026-04-28
 
 ### Entitys
 - [AI Search Hub](entities/AI Search Hub.md)
+- [Agent Brain](entities/Agent Brain.md)
 - [AutoResearchClaw](entities/AutoResearchClaw.md)
+- [Beever Atlas](entities/Beever Atlas.md)
 - [Claudebot-vibe](entities/Claudebot-vibe.md)
 - [Cloudflare /crawl](entities/Cloudflare -crawl.md)
 - [EverOS](entities/EverOS.md)
@@ -4186,6 +4224,7 @@ last_updated: 2026-04-28
 - [摘要：Perplexity做GEO太恐怖，3天网站流量破5w](summaries/摘要：Perplexity做GEO太恐怖，3天网站流量破5w.md)
 - [摘要：RAG真被“替换”了？Mintlify造出ChromaFs假文件系统：冷启动46秒砍到100ms！](summaries/摘要：RAG真被“替换”了？Mintlify造出ChromaFs假文件系统：冷启动46秒砍到100ms！.md)
 - [摘要：The fastest and most efficient code intelligence engine for AI coding agents.](summaries/摘要：The fastest and most efficient code intelligence engine for AI coding agents.md)
+- [摘要：hybrid GraphRAG memory system](summaries/摘要：hybrid GraphRAG memory system.md)
 - [摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基](summaries/摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基.md)
 - [摘要：用好NotebookLM立省80%Token](summaries/摘要：用好NotebookLM立省80%Token.md)
 
@@ -4212,6 +4251,7 @@ last_updated: 2026-04-28
 - [Claude Code Handoff](concepts/Claude Code Handoff.md)
 - [Claude Code Hooks](concepts/Claude Code Hooks.md)
 - [Claude Code 上下文管理](concepts/Claude Code 上下文管理.md)
+- [Codex Memories](concepts/Codex Memories.md)
 - [Command Hooks](concepts/Command Hooks.md)
 - [Company Brain](concepts/Company Brain.md)
 - [Composable Context](concepts/Composable Context.md)
@@ -4323,6 +4363,7 @@ last_updated: 2026-04-28
 - [Zread CLI](entities/Zread CLI.md)
 - [cc-harness](entities/cc-harness.md)
 - [claude-obsidian](entities/claude-obsidian.md)
+- [context-timeline](entities/context-timeline.md)
 - [graph-memory](entities/graph-memory.md)
 - [headroom](entities/headroom.md)
 
@@ -4337,6 +4378,7 @@ last_updated: 2026-04-28
 - [摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.](summaries/摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.md)
 - [摘要：CocoIndex V1](summaries/摘要：CocoIndex V1.md)
 - [摘要：Composing a Search Engine](summaries/摘要：Composing a Search Engine.md)
+- [摘要：Context Management in Agent Harnesses](summaries/摘要：Context Management in Agent Harnesses.md)
 - [摘要：Design principles for building an Agent harness](summaries/摘要：Design principles for building an Agent harness.md)
 - [摘要：Exa now reduces input tokens for web agents by 96%](summaries/摘要：Exa now reduces input tokens for web agents by 96%.md)
 - [摘要：Graphify 与 GitNexus，正在用知识图谱把“代码理解”从搜索升级为结构化认知](summaries/摘要：Graphify 与 GitNexus，正在用知识图谱把“代码理解”从搜索升级为结构化认知.md)
@@ -4348,6 +4390,7 @@ last_updated: 2026-04-28
 - [摘要：How to Give Claude Perfect Memory (complete guide)](summaries/摘要：How to Give Claude Perfect Memory (complete guide).md)
 - [摘要：Interesting insights, especially this: Hermes starts off as any other agent does, inefficient and often not sure how to complete a task that is training didnt have priors for. However, solve it once a](summaries/摘要：Interesting insights, especially this- Hermes starts off as any other agent does, inefficient and often not sure how to complete a task that is training didnt have priors for. However, solve it once a.md)
 - [摘要：Karpathy或许答错了一个根本问题：wiki 是为谁准备的？](summaries/摘要：Karpathy或许答错了一个根本问题：wiki 是为谁准备的？.md)
+- [摘要：Keep your Claude Code context clean with Subagents](summaries/摘要：Keep your Claude Code context clean with Subagents.md)
 - [摘要：Last week, we released a preview of memories in Codex.](summaries/摘要：Last week, we released a preview of memories in Codex.md)
 - [摘要：Lossless Context Management plugin for Hermes Agent](summaries/摘要：Lossless Context Management plugin for Hermes Agent.md)
 - [摘要：Mercury: The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real](summaries/摘要：Mercury- The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real.md)
@@ -4375,6 +4418,7 @@ last_updated: 2026-04-28
 ### Synthesiss
 - [Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进](syntheses/Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进.md)
 - [LLM 运营经济学如何重塑生产工作流：从 Token 成本治理到多模型协同的工程化路径](syntheses/LLM 运营经济学如何重塑生产工作流：从 Token 成本治理到多模型协同的工程化路径.md)
+- [上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略](syntheses/上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
 
 ## 代码生成
@@ -4398,6 +4442,7 @@ last_updated: 2026-04-28
 - [WebGL Shader](concepts/WebGL Shader.md)
 - [Wish Coding](concepts/Wish Coding.md)
 - [代码固化](concepts/代码固化.md)
+- [可托管执行单元](concepts/可托管执行单元.md)
 - [编程 Agent 审查瓶颈](concepts/编程 Agent 审查瓶颈.md)
 
 ### Entitys
@@ -4439,6 +4484,7 @@ last_updated: 2026-04-28
 - [摘要：Compound Engineering v3](summaries/摘要：Compound Engineering v3.md)
 - [摘要：Cursor 3 /multitask 异步子代理并行执行](summaries/摘要：Cursor 3 -multitask 异步子代理并行执行.md)
 - [摘要：DESIGN.md | The One File AI Needs to Match Your UI](summaries/摘要：DESIGN.md  The One File AI Needs to Match Your UI.md)
+- [摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元](summaries/摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元.md)
 - [摘要：Grok 4.3 is still an early beta that will improve almost every day, but try it out!](summaries/摘要：Grok 4.3 is still an early beta that will improve almost every day, but try it out!.md)
 - [摘要：Meet Kimi K2.6 agent - Video hero section, WebGL shaders, real backends. From one prompt.](summaries/摘要：Meet Kimi K2.6 agent - Video hero section, WebGL shaders, real backends. From one prompt.md)
 - [摘要：Qwen3.6-27B](summaries/摘要：Qwen3.6-27B.md)
@@ -4711,6 +4757,7 @@ last_updated: 2026-04-28
 - [内容发布自动化](concepts/内容发布自动化.md)
 - [办公任务 CLI 化](concepts/办公任务 CLI 化.md)
 - [原生统一多模态视频生成](concepts/原生统一多模态视频生成.md)
+- [去 AI 味润色](concepts/去 AI 味润色.md)
 - [填坑式写作](concepts/填坑式写作.md)
 - [声明式视频时间轴](concepts/声明式视频时间轴.md)
 - [声音克隆](concepts/声音克隆.md)
@@ -4725,6 +4772,7 @@ last_updated: 2026-04-28
 - [无 API Key 平台接入](concepts/无 API Key 平台接入.md)
 - [时间线监控 Agent](concepts/时间线监控 Agent.md)
 - [标题公式](concepts/标题公式.md)
+- [模块化内容排版](concepts/模块化内容排版.md)
 - [短视频自动化工作流](concepts/短视频自动化工作流.md)
 - [线程延续型自动化](concepts/线程延续型自动化.md)
 - [统一视频生成 API](concepts/统一视频生成 API.md)
@@ -4768,6 +4816,7 @@ last_updated: 2026-04-28
 - [caveman](entities/caveman.md)
 - [feedgrab](entities/feedgrab.md)
 - [n8n-MCP](entities/n8n-MCP.md)
+- [social-media-skills](entities/social-media-skills.md)
 - [wecom-cli](entities/wecom-cli.md)
 
 ### Lint-reports
@@ -4775,6 +4824,7 @@ last_updated: 2026-04-28
 
 ### Summarys
 - [摘要：40 Claude Cowork Commands, Workflows & Automations Most Users Don't Know — The Complete List](summaries/摘要：40 Claude Cowork Commands, Workflows & Automations Most Users Don't Know — The Complete List.md)
+- [摘要：43 个排版模块，Agent 帮你一键完成公众号排版](summaries/摘要：43 个排版模块，Agent 帮你一键完成公众号排版.md)
 - [摘要：Agentic Video is HTML: Open Sourcing HyperFrames](summaries/摘要：Agentic Video is HTML- Open Sourcing HyperFrames.md)
 - [摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.](summaries/摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.md)
 - [摘要：Claude Design](summaries/摘要：Claude Design.md)
@@ -4782,6 +4832,7 @@ last_updated: 2026-04-28
 - [摘要：Claude for Word 扩展至 Pro / Max 计划](summaries/摘要：Claude for Word 扩展至 Pro - Max 计划.md)
 - [摘要：Codex能够控制电脑了：](summaries/摘要：Codex能够控制电脑了：.md)
 - [摘要：Composing a Search Engine](summaries/摘要：Composing a Search Engine.md)
+- [摘要：Contributions welcome.](summaries/摘要：Contributions welcome.md)
 - [摘要：Enable Tool Gateway](summaries/摘要：Enable Tool Gateway.md)
 - [摘要：GPT-image2最强玩法合集](summaries/摘要：GPT-image2最强玩法合集.md)
 - [摘要：Hermes Agent Creative Hackathon 正式启动](summaries/摘要：Hermes Agent Creative Hackathon 正式启动.md)
@@ -4831,7 +4882,9 @@ last_updated: 2026-04-28
 - [摘要：高效率，超快速，极易用](summaries/摘要：高效率，超快速，极易用.md)
 
 ### Synthesiss
+- [AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径](syntheses/AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径.md)
 - [Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径](syntheses/Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径.md)
+- [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
 - [社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施](syntheses/社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施.md)
 
 ## 前端开发
@@ -4946,6 +4999,7 @@ last_updated: 2026-04-28
 
 ### Synthesiss
 - [加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径](syntheses/加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径.md)
+- [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)
 
 ## 商业/生态
 ### Concepts
@@ -4957,6 +5011,7 @@ last_updated: 2026-04-28
 - [AI Token](concepts/AI Token.md)
 - [AI 主权分析框架](concepts/AI 主权分析框架.md)
 - [AI 代理经济](concepts/AI 代理经济.md)
+- [AI 供应商锁定](concepts/AI 供应商锁定.md)
 - [AI 公共领域](concepts/AI 公共领域.md)
 - [AI 公司操作系统](concepts/AI 公司操作系统.md)
 - [AI 分身](concepts/AI 分身.md)
@@ -5244,6 +5299,7 @@ last_updated: 2026-04-28
 - [Wise](entities/Wise.md)
 - [World Liberty Financial](entities/World Liberty Financial.md)
 - [Xesim](entities/Xesim.md)
+- [Xiaomi MiMo Orbit](entities/Xiaomi MiMo Orbit.md)
 - [Zenmux](entities/Zenmux.md)
 - [aily](entities/aily.md)
 - [bitcoin.com](entities/bitcoin.com.md)
@@ -5266,6 +5322,7 @@ last_updated: 2026-04-28
 - [灵光圈](entities/灵光圈.md)
 - [福寿园](entities/福寿园.md)
 - [罗福莉](entities/罗福莉.md)
+- [联影智能](entities/联影智能.md)
 - [自变量机器人](entities/自变量机器人.md)
 - [荷兰沃达丰 eSIM](entities/荷兰沃达丰 eSIM.md)
 - [蚂蚁灵光](entities/蚂蚁灵光.md)
@@ -5290,6 +5347,8 @@ last_updated: 2026-04-28
 - [摘要：20-year-old Chinese developer made more than $100,000 starting by building products for a kids game, he simply transferred the object tracking model thanks to Verse.](summaries/摘要：20-year-old Chinese developer made more than $100,000 starting by building products for a kids game, he simply transferred the object tracking model thanks to Verse.md)
 - [摘要：20万变30亿！也许，我们都错怪SBF了...](summaries/摘要：20万变30亿！也许，我们都错怪SBF了.md)
 - [摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙](summaries/摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙.md)
+- [摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4](summaries/摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4.md)
+- [摘要：9秒，公司没了！Claude「删库跑路」，Anthropic封杀110人公司，却还在扣钱](summaries/摘要：9秒，公司没了！Claude「删库跑路」，Anthropic封杀110人公司，却还在扣钱.md)
 - [摘要：@Xclusiv I might have told @ElonMusk a bit of data about how much it costs to build https://t.co/kiuZ7QXLzb](summaries/摘要：@Xclusiv I might have told @ElonMusk a bit of data about how much it costs to build https---t.co-kiuZ7QXLzb.md)
 - [摘要：ACP：让你的 AI Agent 自主接单、赚钱的代理商业协议](summaries/摘要：ACP：让你的 AI Agent 自主接单、赚钱的代理商业协议.md)
 - [摘要：AI Agent 经济协议栈：x402、ERC-8004、ERC-8126、ERC-8183 究竟在解决什么问题？](summaries/摘要：AI Agent 经济协议栈：x402、ERC-8004、ERC-8126、ERC-8183 究竟在解决什么问题？.md)
@@ -5390,6 +5449,7 @@ last_updated: 2026-04-28
 - [摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存](summaries/摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存.md)
 - [摘要：字节Seedance 2.0发论文了，171人署名，吴永辉曾妍在列](summaries/摘要：字节Seedance 2.0发论文了，171人署名，吴永辉曾妍在列.md)
 - [摘要：完整解读：斯坦福 AI 年度报告｜26版发布，423页](summaries/摘要：完整解读：斯坦福 AI 年度报告｜26版发布，423页.md)
+- [摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动](summaries/摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动.md)
 - [摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！](summaries/摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！.md)
 - [摘要：当500万个AI Agent涌入Telegram](summaries/摘要：当500万个AI Agent涌入Telegram.md)
 - [摘要：微信支付推出 AI 原生接入 Skills：一句话完成支付接入](summaries/摘要：微信支付推出 AI 原生接入 Skills：一句话完成支付接入.md)
@@ -5634,9 +5694,12 @@ last_updated: 2026-04-28
 - [Guided Learning](concepts/Guided Learning.md)
 - [Knowledge Insulation](concepts/Knowledge Insulation.md)
 - [MMDiT 双流架构](concepts/MMDiT 双流架构.md)
+- [MedVidBench](concepts/MedVidBench.md)
 - [Multimodal hierarchical caching](concepts/Multimodal hierarchical caching.md)
+- [Omni-Flow](concepts/Omni-Flow.md)
 - [SV2V 参考图视频编辑](concepts/SV2V 参考图视频编辑.md)
 - [Sparse Reference Attention](concepts/Sparse Reference Attention.md)
+- [TAIL](concepts/TAIL.md)
 - [V2V 自然语言视频编辑](concepts/V2V 自然语言视频编辑.md)
 - [Vision Transformer](concepts/Vision Transformer.md)
 - [flow matching](concepts/flow matching.md)
@@ -5678,6 +5741,7 @@ last_updated: 2026-04-28
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
 - [SuperGemma4-26B-Abliterated-Multimodal](entities/SuperGemma4-26B-Abliterated-Multimodal.md)
 - [VideoAgent](entities/VideoAgent.md)
+- [uAI-NEXUS-MedVLM](entities/uAI-NEXUS-MedVLM.md)
 - [π0](entities/π0.md)
 
 ### Summarys
@@ -5688,6 +5752,7 @@ last_updated: 2026-04-28
 - [摘要：Graphify 与 GitNexus，正在用知识图谱把“代码理解”从搜索升级为结构化认知](summaries/摘要：Graphify 与 GitNexus，正在用知识图谱把“代码理解”从搜索升级为结构化认知.md)
 - [摘要：Grok 4.3 is still an early beta that will improve almost every day, but try it out!](summaries/摘要：Grok 4.3 is still an early beta that will improve almost every day, but try it out!.md)
 - [摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通](summaries/摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通.md)
+- [摘要：MiniCPM-o 4.5技术报告发布：全双工全模态API开放，RTX5070即可实时运行](summaries/摘要：MiniCPM-o 4.5技术报告发布：全双工全模态API开放，RTX5070即可实时运行.md)
 - [摘要：Qwen-Image-2.0-Pro 发布](summaries/摘要：Qwen-Image-2.0-Pro 发布.md)
 - [摘要：Qwen3.6-27B](summaries/摘要：Qwen3.6-27B.md)
 - [摘要：ThinkInAI Weekly AI周刊 VOL.42 Opus 4.7 来了、Qwen 开源 35B、Agent 工具链全面升级](summaries/摘要：ThinkInAI Weekly AI周刊 VOL.42 Opus 4.7 来了、Qwen 开源 35B、Agent 工具链全面升级.md)
@@ -5695,6 +5760,7 @@ last_updated: 2026-04-28
 - [摘要：全球首个世界统一模型发布，机器人家庭成员来了！](summaries/摘要：全球首个世界统一模型发布，机器人家庭成员来了！.md)
 - [摘要：大模型开始“懂你”了！PersonaVLM如何实现长期个性化记忆](summaries/摘要：大模型开始“懂你”了！PersonaVLM如何实现长期个性化记忆.md)
 - [摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信...](summaries/摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信.md)
+- [摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！](summaries/摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！.md)
 - [摘要：谷歌收200美元的AI动态图表功能，今天被Claude免费开放！](summaries/摘要：谷歌收200美元的AI动态图表功能，今天被Claude免费开放！.md)
 - [摘要：🚀 限时白嫖！3分钟搞定 小米 MiMo V2 Pro 接入 Hermes Agent「完整教程」](summaries/摘要：🚀 限时白嫖！3分钟搞定 小米 MiMo V2 Pro 接入 Hermes Agent「完整教程」.md)
 
@@ -6537,7 +6603,6 @@ last_updated: 2026-04-28
 - [AnythingLLM](entities/AnythingLLM.md)
 - [AutoCLI.ai](entities/AutoCLI.ai.md)
 - [Build macOS Apps 插件](entities/Build macOS Apps 插件.md)
-- [CC Switch](entities/CC Switch.md)
 - [CLIProxyAPI](entities/CLIProxyAPI.md)
 - [Camoufox](entities/Camoufox.md)
 - [Canon 编排器](entities/Canon 编排器.md)
@@ -6953,6 +7018,7 @@ last_updated: 2026-04-28
 - [Agentic Kernel Synthesis](concepts/Agentic Kernel Synthesis.md)
 - [Attention Matching](concepts/Attention Matching.md)
 - [Auxiliary 副驾模型](concepts/Auxiliary 副驾模型.md)
+- [Batch Invariance](concepts/Batch Invariance.md)
 - [Bregman 投影](concepts/Bregman 投影.md)
 - [CFG+DMD 蒸馏](concepts/CFG+DMD 蒸馏.md)
 - [CUDA 内核优化](concepts/CUDA 内核优化.md)
@@ -6960,6 +7026,7 @@ last_updated: 2026-04-28
 - [Claude Code Effort 分级](concepts/Claude Code Effort 分级.md)
 - [Continuous batching](concepts/Continuous batching.md)
 - [DeepSeek Sparse Attention](concepts/DeepSeek Sparse Attention.md)
+- [Dual-kernel](concepts/Dual-kernel.md)
 - [Expert parallelism](concepts/Expert parallelism.md)
 - [Harness-as-Policy](concepts/Harness-as-Policy.md)
 - [JIT 优化](concepts/JIT 优化.md)
@@ -7010,6 +7077,7 @@ last_updated: 2026-04-28
 ### Entitys
 - [Baseten](entities/Baseten.md)
 - [Blackwell 200 GPU](entities/Blackwell 200 GPU.md)
+- [DeepGEMM](entities/DeepGEMM.md)
 - [GPT-5.4 Pro](entities/GPT-5.4 Pro.md)
 - [GPT-5.5](entities/GPT-5.5.md)
 - [Gemini Robotics-ER](entities/Gemini Robotics-ER.md)
@@ -7027,6 +7095,7 @@ last_updated: 2026-04-28
 - [摘要：Claude Opus 4.7 is now available in Windsurf 2.0!](summaries/摘要：Claude Opus 4.7 is now available in Windsurf 2.0!.md)
 - [摘要：Compound Engineering - 4/17/2026](summaries/摘要：Compound Engineering - 4-17-2026.md)
 - [摘要：DeepSeek V4永久降价！缓存命中再打1折，实测编程成本骤降83%](summaries/摘要：DeepSeek V4永久降价！缓存命中再打1折，实测编程成本骤降83%.md)
+- [摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了](summaries/摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了.md)
 - [摘要：Kimi K2.6 has landed, and it is live on Baseten!](summaries/摘要：Kimi K2.6 has landed, and it is live on Baseten!.md)
 - [摘要：Loop, Think, & Generalize：循环深度 Transformer 的隐式推理](summaries/摘要：Loop, Think, & Generalize：循环深度 Transformer 的隐式推理.md)
 - [摘要：Mythos is a looped transformer!? 😳 Should be a Mixture-of-Recursions (MoR) — 2× faster, controlled effort.](summaries/摘要：Mythos is a looped transformer! 😳 Should be a Mixture-of-Recursions (MoR) — 2× faster, controlled effort.md)
@@ -7048,6 +7117,7 @@ last_updated: 2026-04-28
 - [摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型](summaries/摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型.md)
 
 ### Synthesiss
+- [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
 - [Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化](syntheses/Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化.md)
 - [大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进](syntheses/大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进.md)
 
@@ -7083,6 +7153,7 @@ last_updated: 2026-04-28
 - [Voice Design](concepts/Voice Design.md)
 - [单变量受控迭代](concepts/单变量受控迭代.md)
 - [历史人物人格唤醒](concepts/历史人物人格唤醒.md)
+- [去 AI 味润色](concepts/去 AI 味润色.md)
 - [反向约束设计](concepts/反向约束设计.md)
 - [对比向量](concepts/对比向量.md)
 - [建设性挣扎](concepts/建设性挣扎.md)
@@ -7102,10 +7173,12 @@ last_updated: 2026-04-28
 - [guizang-ppt-skill](entities/guizang-ppt-skill.md)
 - [khazix-skills](entities/khazix-skills.md)
 - [promptsref](entities/promptsref.md)
+- [social-media-skills](entities/social-media-skills.md)
 
 ### Summarys
 - [摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了](summaries/摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了.md)
 - [摘要：Claude can now build you a full AI YouTube channel like a $10,000/month creator agency](summaries/摘要：Claude can now build you a full AI YouTube channel like a $10,000-month creator agency.md)
+- [摘要：Contributions welcome.](summaries/摘要：Contributions welcome.md)
 - [摘要：DESIGN.md | The One File AI Needs to Match Your UI](summaries/摘要：DESIGN.md  The One File AI Needs to Match Your UI.md)
 - [摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](summaries/摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide).md)
 - [摘要：Opus 4.7 is the first model that punishes bad prompting. here's how to correct it. (FULL GUIDE)](summaries/摘要：Opus 4.7 is the first model that punishes bad prompting. here's how to correct it. (FULL GUIDE).md)
@@ -7135,6 +7208,7 @@ last_updated: 2026-04-28
 - [LLM-as-a-Verifier](concepts/LLM-as-a-Verifier.md)
 - [LLM-as-judge](concepts/LLM-as-judge.md)
 - [MCP-Atlas](concepts/MCP-Atlas.md)
+- [MedVidBench](concepts/MedVidBench.md)
 - [SWE-bench](concepts/SWE-bench.md)
 - [SWE-bench Pro](concepts/SWE-bench Pro.md)
 - [SimpleQA](concepts/SimpleQA.md)
@@ -7154,6 +7228,7 @@ last_updated: 2026-04-28
 
 ### Entitys
 - [Artificial Analysis Video Arena](entities/Artificial Analysis Video Arena.md)
+- [BrainBench](entities/BrainBench.md)
 - [EverMemBench](entities/EverMemBench.md)
 - [FARS](entities/FARS.md)
 - [Future AGI](entities/Future AGI.md)
@@ -7170,6 +7245,7 @@ last_updated: 2026-04-28
 
 ### Summarys
 - [摘要：200刀打败18万美元FARS，我们离真正的Auto Research还有多远？](summaries/摘要：200刀打败18万美元FARS，我们离真正的Auto Research还有多远？.md)
+- [摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4](summaries/摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4.md)
 - [摘要：AI智力天花板崩了！GPT-5.5 Pro视觉智商145，撞倒门萨俱乐部门槛](summaries/摘要：AI智力天花板崩了！GPT-5.5 Pro视觉智商145，撞倒门萨俱乐部门槛.md)
 - [摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车](summaries/摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车.md)
 - [摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三](summaries/摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三.md)
@@ -7184,11 +7260,15 @@ last_updated: 2026-04-28
 - [摘要：实测小米MiMo-V2.5-Pro，这可能是目前国内最适合Claude Code的新模型。](summaries/摘要：实测小米MiMo-V2.5-Pro，这可能是目前国内最适合Claude Code的新模型。.md)
 - [摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。](summaries/摘要：我用 DeepSeek V4 测了一把 GPT 5.5 和 Opus 4.7 ，结果很离谱。。。.md)
 - [摘要：报道了几年 AI，我越来越觉得自己是个骗子……](summaries/摘要：报道了几年 AI，我越来越觉得自己是个骗子…….md)
+- [摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！](summaries/摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！.md)
 - [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)
 
 ## 模型部署
 ### Concepts
+- [API 故障转移路由](concepts/API 故障转移路由.md)
+- [Agent 模型热切换](concepts/Agent 模型热切换.md)
 - [NVFP4](concepts/NVFP4.md)
+- [Omni-Flow](concepts/Omni-Flow.md)
 - [Railway 一键部署](concepts/Railway 一键部署.md)
 - [在线流水线并行重构](concepts/在线流水线并行重构.md)
 - [多租户托管](concepts/多租户托管.md)
@@ -7200,6 +7280,7 @@ last_updated: 2026-04-28
 
 ### Entitys
 - [Baseten](entities/Baseten.md)
+- [CC Switch](entities/CC Switch.md)
 - [CrewClaw](entities/CrewClaw.md)
 - [Gemma4-26B-A4B](entities/Gemma4-26B-A4B.md)
 - [HELIOS](entities/HELIOS.md)
@@ -7218,9 +7299,11 @@ last_updated: 2026-04-28
 
 ### Summarys
 - [摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙](summaries/摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙.md)
+- [摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4](summaries/摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4.md)
 - [摘要：Apple Silicon 上的 vLLM 终于原生 Swift/Metal 了！](summaries/摘要：Apple Silicon 上的 vLLM 终于原生 Swift-Metal 了！.md)
 - [摘要：DeepSeek-V4 Preview 正式发布并开源，开启低成本百万上下文时代](summaries/摘要：DeepSeek-V4 Preview 正式发布并开源，开启低成本百万上下文时代.md)
 - [摘要：Kimi K2.6 has landed, and it is live on Baseten!](summaries/摘要：Kimi K2.6 has landed, and it is live on Baseten!.md)
+- [摘要：MiniCPM-o 4.5技术报告发布：全双工全模态API开放，RTX5070即可实时运行](summaries/摘要：MiniCPM-o 4.5技术报告发布：全双工全模态API开放，RTX5070即可实时运行.md)
 - [摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes](summaries/摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode - Cursor - Hermes.md)
 - [摘要：Okay this one is insane. A new 18B frankenstein model was just released on @huggingface — Beats the new Qwen3.6-35B-A3B on a 44-test suite despite requiring 12GB VRAM instead of 24GB 🤯](summaries/摘要：Okay this one is insane. A new 18B frankenstein model was just released on @huggingface — Beats the new Qwen3.6-35B-A3B on a 44-test suite despite requiring 12GB VRAM instead of 24GB 🤯.md)
 - [摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see how it performs:](summaries/摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see how it performs-.md)
@@ -7228,7 +7311,9 @@ last_updated: 2026-04-28
 - [摘要：Turn Your Hermes Agent Into an OpenRouter Expert](summaries/摘要：Turn Your Hermes Agent Into an OpenRouter Expert.md)
 - [摘要：We're thrilled to team up with @atomic_chat_hq!](summaries/摘要：We're thrilled to team up with @atomic_chat_hq!.md)
 - [摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb](summaries/摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb.md)
+- [摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动](summaries/摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动.md)
 - [摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型](summaries/摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型.md)
+- [摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。](summaries/摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。.md)
 - [摘要：都是你能部署的：Qwen3.6和Gemma4，谁更适合作为你的下一代本地MoE模型？](summaries/摘要：都是你能部署的：Qwen3.6和Gemma4，谁更适合作为你的下一代本地MoE模型？.md)
 
 ## 浏览器自动化
@@ -7320,6 +7405,7 @@ last_updated: 2026-04-28
 
 ### Synthesiss
 - [Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融](syntheses/Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融.md)
+- [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
 - [社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施](syntheses/社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施.md)
 
 ## 知识管理
@@ -7588,6 +7674,7 @@ last_updated: 2026-04-28
 - [AnythingLLM](entities/AnythingLLM.md)
 - [AutoResearchClaw](entities/AutoResearchClaw.md)
 - [Awesome Autoresearch](entities/Awesome Autoresearch.md)
+- [Beever Atlas](entities/Beever Atlas.md)
 - [Claude Cowork](entities/Claude Cowork.md)
 - [Claude Skills](entities/Claude Skills.md)
 - [Claudebot-vibe](entities/Claudebot-vibe.md)
@@ -7741,6 +7828,8 @@ last_updated: 2026-04-28
 - [Lint Report 2026-04-26](lint-report/Lint Report 2026-04-26-8e8f72cf.md)
 - [Lint Report 2026-04-27](lint-report/Lint Report 2026-04-27.md)
 - [Lint Report 2026-04-27 22:00](lint-report/Lint Report 2026-04-27 22-00.md)
+- [Lint Report 2026-04-28](lint-report/Lint Report 2026-04-28.md)
+- [Lint Report 2026-04-28](lint-report/Lint Report 2026-04-28-d209b26a.md)
 
 ### Qas
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
@@ -7837,6 +7926,7 @@ last_updated: 2026-04-28
 - [摘要：claude code + obsidian + skill graph. how to build a local research engine?](summaries/摘要：claude code + obsidian + skill graph. how to build a local research engine.md)
 - [摘要：custom slash commands](summaries/摘要：custom slash commands.md)
 - [摘要：feedgrab：用 AI Vibe Coding 打造的万能内容抓取器，6 层兜底搞定 X/Twitter](summaries/摘要：feedgrab：用 AI Vibe Coding 打造的万能内容抓取器，6 层兜底搞定 X-Twitter.md)
+- [摘要：hybrid GraphRAG memory system](summaries/摘要：hybrid GraphRAG memory system.md)
 - [摘要：last30days-skill ——看清近 30 天真实口碑与趋势的千察器](summaries/摘要：last30days-skill ——看清近 30 天真实口碑与趋势的千察器.md)
 - [摘要：llm Wiki 养了三周，开始出毛病了](summaries/摘要：llm Wiki 养了三周，开始出毛病了.md)
 - [摘要：llm-wiki v0.2.0：用知识图谱和社区检测，让你的个人知识库真正「活」起来](summaries/摘要：llm-wiki v0.2.0：用知识图谱和社区检测，让你的个人知识库真正「活」起来.md)
@@ -7910,6 +8000,7 @@ last_updated: 2026-04-28
 - [Faceless format](concepts/Faceless format.md)
 - [Feedback Loop](concepts/Feedback Loop.md)
 - [Polling 抢消息](concepts/Polling 抢消息.md)
+- [Telethon](concepts/Telethon.md)
 - [代理池](concepts/代理池.md)
 - [传播飞轮](concepts/传播飞轮.md)
 - [低粉爆款](concepts/低粉爆款.md)
@@ -7947,11 +8038,13 @@ last_updated: 2026-04-28
 - [摘要：@Xclusiv I might have told @ElonMusk a bit of data about how much it costs to build https://t.co/kiuZ7QXLzb](summaries/摘要：@Xclusiv I might have told @ElonMusk a bit of data about how much it costs to build https---t.co-kiuZ7QXLzb.md)
 - [摘要：Agent 终于有了自己的社交网络——FloatlM 发布](summaries/摘要：Agent 终于有了自己的社交网络——FloatlM 发布.md)
 - [摘要：Claude can now build you a full AI YouTube channel like a $10,000/month creator agency](summaries/摘要：Claude can now build you a full AI YouTube channel like a $10,000-month creator agency.md)
+- [摘要：Contributions welcome.](summaries/摘要：Contributions welcome.md)
 - [摘要：Hermes Agent 网页控制台； AI原生社交平台；自主机器学习研究平台](summaries/摘要：Hermes Agent 网页控制台； AI原生社交平台；自主机器学习研究平台.md)
 - [摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](summaries/摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide).md)
 - [摘要：I automated my content engine and 2 hrs/day dropped to 10 min](summaries/摘要：I automated my content engine and 2 hrs-day dropped to 10 min.md)
 
 ### Synthesiss
+- [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
 - [社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施](syntheses/社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施.md)
 
 ## 稳定币
@@ -8039,6 +8132,7 @@ last_updated: 2026-04-28
 - [Cloudflare Tunnel](entities/Cloudflare Tunnel.md)
 - [DMIT](entities/DMIT.md)
 - [Daytona 沙箱](entities/Daytona 沙箱.md)
+- [DeepGEMM](entities/DeepGEMM.md)
 - [DeepSeek V4](entities/DeepSeek V4.md)
 - [Durable Objects](entities/Durable Objects.md)
 - [EverOS](entities/EverOS.md)
@@ -8064,6 +8158,7 @@ last_updated: 2026-04-28
 - [摘要：【开源】Union：零知识证明跨链基础设施，让DeFi资产自由流动](summaries/摘要：【开源】Union：零知识证明跨链基础设施，让DeFi资产自由流动.md)
 - [摘要：为了Token，阿里云竟然出了一个TPN？](summaries/摘要：为了Token，阿里云竟然出了一个TPN？.md)
 - [摘要：刚刚，Claude被扒底裤！Mythos算力带不动，万亿估值全靠末日恐慌?](summaries/摘要：刚刚，Claude被扒底裤！Mythos算力带不动，万亿估值全靠末日恐慌.md)
+- [摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动](summaries/摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动.md)
 - [摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型](summaries/摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型.md)
 - [摘要：谷歌跪了？400亿砸向死敌！AI御三家终结，OpenAI孤立无援](summaries/摘要：谷歌跪了？400亿砸向死敌！AI御三家终结，OpenAI孤立无援.md)
 - [摘要：这几天VPN又大拉闸了，建议不想一直折腾网络的人买个VPS自建节点，效果好太多](summaries/摘要：这几天VPN又大拉闸了，建议不想一直折腾网络的人买个VPS自建节点，效果好太多.md)
@@ -8146,6 +8241,7 @@ last_updated: 2026-04-28
 - [摘要：阿里把视频生产线开源了：一个人，真的能干翻整个MCN](summaries/摘要：阿里把视频生产线开源了：一个人，真的能干翻整个MCN.md)
 
 ### Synthesiss
+- [AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径](syntheses/AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径.md)
 - [Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径](syntheses/Agent 框架的内容创作专精化分化：从通用底座到领域原生创作系统的九种架构范式与收敛路径.md)
 - [开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径](syntheses/开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径.md)
 
@@ -8155,12 +8251,14 @@ last_updated: 2026-04-28
 - [AI 身份模型](concepts/AI 身份模型.md)
 - [Agentic Learning Flywheel](concepts/Agentic Learning Flywheel.md)
 - [Agentic 编程轨迹蒸馏](concepts/Agentic 编程轨迹蒸馏.md)
+- [Batch Invariance](concepts/Batch Invariance.md)
 - [CPL](concepts/CPL.md)
 - [CPL++](concepts/CPL++.md)
 - [Class-Incremental Learning](concepts/Class-Incremental Learning.md)
 - [Dataset Policy Gradient](concepts/Dataset Policy Gradient.md)
 - [Knowledge Insulation](concepts/Knowledge Insulation.md)
 - [LoRA 微调](concepts/LoRA 微调.md)
+- [MOPD](concepts/MOPD.md)
 - [MoE 架构](concepts/MoE 架构.md)
 - [Next-State Signal](concepts/Next-State Signal.md)
 - [On-Policy Distillation](concepts/On-Policy Distillation.md)
@@ -8203,12 +8301,14 @@ last_updated: 2026-04-28
 
 ### Summarys
 - [摘要：Building a Neural Network from Scratch in Pure x86-64 Assembly](summaries/摘要：Building a Neural Network from Scratch in Pure x86-64 Assembly.md)
+- [摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了](summaries/摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了.md)
 - [摘要：HuggingFace 月榜第一！北大开源：你的全自动模型加工厂来了](summaries/摘要：HuggingFace 月榜第一！北大开源：你的全自动模型加工厂来了.md)
 - [摘要：Mythos is a looped transformer!? 😳 Should be a Mixture-of-Recursions (MoR) — 2× faster, controlled effort.](summaries/摘要：Mythos is a looped transformer! 😳 Should be a Mixture-of-Recursions (MoR) — 2× faster, controlled effort.md)
 - [摘要：OpenMythos：社区用开源代码重建 Claude Mythos 的循环深度 Transformer 假说](summaries/摘要：OpenMythos：社区用开源代码重建 Claude Mythos 的循环深度 Transformer 假说.md)
 - [摘要：方言识别迈入“工业级”！Fun-ASR1.5来了🚀](summaries/摘要：方言识别迈入“工业级”！Fun-ASR1.5来了🚀.md)
 - [摘要：罗福莉：AI 范式已然巨变！](summaries/摘要：罗福莉：AI 范式已然巨变！.md)
 - [摘要：聊几句 DeepSeek V4 的体感。](summaries/摘要：聊几句 DeepSeek V4 的体感。.md)
+- [摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！](summaries/摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！.md)
 - [摘要：😱 谷歌偷偷开源了时序预测底座TimesFM 2.5，参数降到200M，上下文飙到16k。](summaries/摘要：😱 谷歌偷偷开源了时序预测底座TimesFM 2.5，参数降到200M，上下文飙到16k。.md)
 
 ### Synthesiss
@@ -8535,6 +8635,7 @@ last_updated: 2026-04-28
 - [FinceptTerminal](entities/FinceptTerminal.md)
 - [OKX Agent Trade Kit](entities/OKX Agent Trade Kit.md)
 - [OpenInsider](entities/OpenInsider.md)
+- [PolyBond](entities/PolyBond.md)
 - [PolyClaw](entities/PolyClaw.md)
 - [QuantLib](entities/QuantLib.md)
 - [Strategy Studio](entities/Strategy Studio.md)
@@ -8550,6 +8651,7 @@ last_updated: 2026-04-28
 
 ### Synthesiss
 - [加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径](syntheses/加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径.md)
+- [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)
 
 ## 链上协议
 ### Concepts
@@ -8587,6 +8689,7 @@ last_updated: 2026-04-28
 
 ### Synthesiss
 - [加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径](syntheses/加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径.md)
+- [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)
 
 ## 长期记忆
 ### Concepts
@@ -8594,6 +8697,7 @@ last_updated: 2026-04-28
 - [AI-Native Memory](concepts/AI-Native Memory.md)
 - [Chronicle](concepts/Chronicle.md)
 - [Claude Code Dreaming](concepts/Claude Code Dreaming.md)
+- [Codex Memories](concepts/Codex Memories.md)
 - [Company Brain](concepts/Company Brain.md)
 - [Dreaming 记忆机制](concepts/Dreaming 记忆机制.md)
 - [ECL 管道](concepts/ECL 管道.md)
@@ -8667,6 +8771,8 @@ last_updated: 2026-04-28
 - [长时程信用分配](concepts/长时程信用分配.md)
 
 ### Entitys
+- [Agent Brain](entities/Agent Brain.md)
+- [Beever Atlas](entities/Beever Atlas.md)
 - [Claude Subconscious](entities/Claude Subconscious.md)
 - [Claudebot-vibe](entities/Claudebot-vibe.md)
 - [CodePilot](entities/CodePilot.md)
@@ -8703,6 +8809,7 @@ last_updated: 2026-04-28
 - [taOSmd](entities/taOSmd.md)
 
 ### Summarys
+- [摘要：1 Month with Hermes - I've been using Hermes wrong all along](summaries/摘要：1 Month with Hermes - I've been using Hermes wrong all along.md)
 - [摘要：AI researchers and engineers](summaries/摘要：AI researchers and engineers.md)
 - [摘要：Andrej Karpathy just made one of the most interesting arguments about AI model design that most people are completely missing.](summaries/摘要：Andrej Karpathy just made one of the most interesting arguments about AI model design that most people are completely missing.md)
 - [摘要：Big drop for GBrain v0.19.](summaries/摘要：Big drop for GBrain v0.19.md)
@@ -8741,6 +8848,7 @@ last_updated: 2026-04-28
 
 ### Synthesiss
 - [Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南](syntheses/Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南.md)
+- [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
 - [可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto/DeFi 协议栈的跨域范式碰撞](syntheses/可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto-DeFi 协议栈的跨域范式碰撞.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
 
@@ -8805,6 +8913,8 @@ last_updated: 2026-04-28
 - [Lint Report 2026-04-26](lint-report/Lint Report 2026-04-26-8e8f72cf.md)
 - [Lint Report 2026-04-27](lint-report/Lint Report 2026-04-27.md)
 - [Lint Report 2026-04-27 22:00](lint-report/Lint Report 2026-04-27 22-00.md)
+- [Lint Report 2026-04-28](lint-report/Lint Report 2026-04-28.md)
+- [Lint Report 2026-04-28](lint-report/Lint Report 2026-04-28-d209b26a.md)
 ## Qas（所有qa）
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
 - [QA：Wiki Agent 集群有哪些角色？职责边界是什么？](qa/QA：Wiki Agent 集群有哪些角色？职责边界是什么？.md)
@@ -8812,6 +8922,7 @@ last_updated: 2026-04-28
 - [QA：知识 Wiki 系统完整架构还原与交叉验证（与 Claude 的对话）](qa/QA：知识 Wiki 系统完整架构还原与交叉验证（与 Claude 的对话）.md)
 ## Summarys（所有summary）
 - [摘要：.skill 文件与人格蒸馏——AI 行为模型的社会影响](summaries/摘要：.skill 文件与人格蒸馏——AI 行为模型的社会影响.md)
+- [摘要：1 Month with Hermes - I've been using Hermes wrong all along](summaries/摘要：1 Month with Hermes - I've been using Hermes wrong all along.md)
 - [摘要：10 Github repos that replace $855/month of paid AI tools](summaries/摘要：10 Github repos that replace $855-month of paid AI tools.md)
 - [摘要：10,000+ markdown files（GBrain 开源发布）](summaries/摘要：10,000+ markdown files（GBrain 开源发布）.md)
 - [摘要：100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？](summaries/摘要：100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？.md)
@@ -8848,7 +8959,9 @@ last_updated: 2026-04-28
 - [摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙](summaries/摘要：3B的成本，35B的智力：Qwen 3.6 正在暴力拆解 AI 商业化的成本围墙.md)
 - [摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打造的 AI 知识库应用！](summaries/摘要：3K Star！基于 Andrej Karpathy 提出的 LLM Wiki 方法论打造的 AI 知识库应用！.md)
 - [摘要：3个月，从BettaFish开源项目爆火到获三千万投资，我亲历了Vibe Coding带来的超级个体时代](summaries/摘要：3个月，从BettaFish开源项目爆火到获三千万投资，我亲历了Vibe Coding带来的超级个体时代.md)
+- [摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4](summaries/摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4.md)
 - [摘要：40 Claude Cowork Commands, Workflows & Automations Most Users Don't Know — The Complete List](summaries/摘要：40 Claude Cowork Commands, Workflows & Automations Most Users Don't Know — The Complete List.md)
+- [摘要：43 个排版模块，Agent 帮你一键完成公众号排版](summaries/摘要：43 个排版模块，Agent 帮你一键完成公众号排版.md)
 - [摘要：5 Agent Design patterns for Long-running AI Agents](summaries/摘要：5 Agent Design patterns for Long-running AI Agents.md)
 - [摘要：5 pipelines I'd sell today using Claude Code (none of them are coding)](summaries/摘要：5 pipelines I'd sell today using Claude Code (none of them are coding).md)
 - [摘要：5 分钟零代码：用 Railway 把 Claude 接入 Telegram，打造你的 Crypto 私人助理](summaries/摘要：5 分钟零代码：用 Railway 把 Claude 接入 Telegram，打造你的 Crypto 私人助理.md)
@@ -8861,6 +8974,7 @@ last_updated: 2026-04-28
 - [摘要：88岁图灵奖得主，用Claude一小时破解30年数学悬案](summaries/摘要：88岁图灵奖得主，用Claude一小时破解30年数学悬案.md)
 - [摘要：96.6%召回率，0美元成本：这款开源AI记忆系统凭什么超越一切付费方案](summaries/摘要：96.6%召回率，0美元成本：这款开源AI记忆系统凭什么超越一切付费方案.md)
 - [摘要：98页的OpenClaw养虾橙皮书：从入门到精通](summaries/摘要：98页的OpenClaw养虾橙皮书：从入门到精通.md)
+- [摘要：9秒，公司没了！Claude「删库跑路」，Anthropic封杀110人公司，却还在扣钱](summaries/摘要：9秒，公司没了！Claude「删库跑路」，Anthropic封杀110人公司，却还在扣钱.md)
 - [摘要：@Xclusiv I might have told @ElonMusk a bit of data about how much it costs to build https://t.co/kiuZ7QXLzb](summaries/摘要：@Xclusiv I might have told @ElonMusk a bit of data about how much it costs to build https---t.co-kiuZ7QXLzb.md)
 - [摘要：A complete AI agency at your fingertips](summaries/摘要：A complete AI agency at your fingertips.md)
 - [摘要：A curated, high-signal index of autonomous improvement loops, research agents, and descendants inspired by](summaries/摘要：A curated, high-signal index of autonomous improvement loops, research agents, and descendants inspired by.md)
@@ -9073,6 +9187,8 @@ last_updated: 2026-04-28
 - [摘要：Compound Engineering v3](summaries/摘要：Compound Engineering v3.md)
 - [摘要：Context Hub：吴恩达为 AI 编程 Agent 打造的「Stack Overflow」](summaries/摘要：Context Hub：吴恩达为 AI 编程 Agent 打造的「Stack Overflow」.md)
 - [摘要：Context Hub：吴恩达开源的 Coding Agent「文档新鲜度」解决方案](summaries/摘要：Context Hub：吴恩达开源的 Coding Agent「文档新鲜度」解决方案.md)
+- [摘要：Context Management in Agent Harnesses](summaries/摘要：Context Management in Agent Harnesses.md)
+- [摘要：Contributions welcome.](summaries/摘要：Contributions welcome.md)
 - [摘要：Corporate Audit AI：用 AI Agent 扒上市公司年报，$AUDIT 市值冲破千万](summaries/摘要：Corporate Audit AI：用 AI Agent 扒上市公司年报，$AUDIT 市值冲破千万.md)
 - [摘要：Coxy ——将 GitHub Copilot 额度代理为 OpenAI 兼容 API](summaries/摘要：Coxy ——将 GitHub Copilot 额度代理为 OpenAI 兼容 API.md)
 - [摘要：Coze 2.5 发布：成为 Agent 的网络](summaries/摘要：Coze 2.5 发布：成为 Agent 的网络.md)
@@ -9099,6 +9215,7 @@ last_updated: 2026-04-28
 - [摘要：DeepSeek V4永久降价！缓存命中再打1折，实测编程成本骤降83%](summaries/摘要：DeepSeek V4永久降价！缓存命中再打1折，实测编程成本骤降83%.md)
 - [摘要：DeepSeek-V4 Preview 正式发布并开源，开启低成本百万上下文时代](summaries/摘要：DeepSeek-V4 Preview 正式发布并开源，开启低成本百万上下文时代.md)
 - [摘要：DeepSeek-V4 发布 10 小时，北大开源项目实现了自动化评测！](summaries/摘要：DeepSeek-V4 发布 10 小时，北大开源项目实现了自动化评测！.md)
+- [摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了](summaries/摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了.md)
 - [摘要：Deepseek V4模型将采用华为芯片](summaries/摘要：Deepseek V4模型将采用华为芯片.md)
 - [摘要：DeerFlow 2.0：字节跳动开源的 SuperAgent 框架，给 AI 一台真正的电脑](summaries/摘要：DeerFlow 2.0：字节跳动开源的 SuperAgent 框架，给 AI 一台真正的电脑.md)
 - [摘要：Defining Continual Learning](summaries/摘要：Defining Continual Learning.md)
@@ -9146,6 +9263,7 @@ last_updated: 2026-04-28
 - [摘要：GPT-Rosalind：OpenAI 为生命科学打造的专用推理模型](summaries/摘要：GPT-Rosalind：OpenAI 为生命科学打造的专用推理模型.md)
 - [摘要：GPT-image-2全量开放！狂刷几百张后，我整理了13个必看案例！](summaries/摘要：GPT-image-2全量开放！狂刷几百张后，我整理了13个必看案例！.md)
 - [摘要：GPT-image2最强玩法合集](summaries/摘要：GPT-image2最强玩法合集.md)
+- [摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元](summaries/摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元.md)
 - [摘要：GSD框架解析：解决AI编程工具Context Rot的工程化方案](summaries/摘要：GSD框架解析：解决AI编程工具Context Rot的工程化方案.md)
 - [摘要：Garry Tan 提炼了他在 agentic engineering 领域的核心心法：Fat Skills, Fat Code, Thin Harness。](summaries/摘要：Garry Tan 提炼了他在 agentic engineering 领域的核心心法：Fat Skills, Fat Code, Thin Harness。.md)
 - [摘要：Gate MCP Skills：让 AI Agent 直接操盘加密交易的新基础设施](summaries/摘要：Gate MCP Skills：让 AI Agent 直接操盘加密交易的新基础设施.md)
@@ -9274,6 +9392,7 @@ last_updated: 2026-04-28
 - [摘要：Karpathy或许答错了一个根本问题：wiki 是为谁准备的？](summaries/摘要：Karpathy或许答错了一个根本问题：wiki 是为谁准备的？.md)
 - [摘要：Karpathy最新预言：AI的下一个浪潮是"Claws"](summaries/摘要：Karpathy最新预言：AI的下一个浪潮是Claws.md)
 - [摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？](summaries/摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？.md)
+- [摘要：Keep your Claude Code context clean with Subagents](summaries/摘要：Keep your Claude Code context clean with Subagents.md)
 - [摘要：Kelp DAO 漏洞深度复盘：揭秘 LayerZero 幽灵消息攻击](summaries/摘要：Kelp DAO 漏洞深度复盘：揭秘 LayerZero 幽灵消息攻击.md)
 - [摘要：Kimi K2.6 has landed, and it is live on Baseten!](summaries/摘要：Kimi K2.6 has landed, and it is live on Baseten!.md)
 - [摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel AI Gateway.](summaries/摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel AI Gateway.md)
@@ -9321,6 +9440,7 @@ last_updated: 2026-04-28
 - [摘要：Minara AI：NFTGo 团队打造的「AI CFO」，让你用一句话完成从研究到交易的全流程](summaries/摘要：Minara AI：NFTGo 团队打造的「AI CFO」，让你用一句话完成从研究到交易的全流程.md)
 - [摘要：Minara Skills v3：用自然语言把 Claude Code 变成你的加密交易 CFO](summaries/摘要：Minara Skills v3：用自然语言把 Claude Code 变成你的加密交易 CFO.md)
 - [摘要：MindZJ：用 Claude Opus 4.7 一周造出的本地优先 Obsidian 开源替代品](summaries/摘要：MindZJ：用 Claude Opus 4.7 一周造出的本地优先 Obsidian 开源替代品.md)
+- [摘要：MiniCPM-o 4.5技术报告发布：全双工全模态API开放，RTX5070即可实时运行](summaries/摘要：MiniCPM-o 4.5技术报告发布：全双工全模态API开放，RTX5070即可实时运行.md)
 - [摘要：MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流](summaries/摘要：MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流.md)
 - [摘要：MiniMax M2.7：国产最强 Agent 基模，会自我进化的模型来了](summaries/摘要：MiniMax M2.7：国产最强 Agent 基模，会自我进化的模型来了.md)
 - [摘要：MiniMax Music 2.6 just got a new home 🎵](summaries/摘要：MiniMax Music 2.6 just got a new home 🎵.md)
@@ -9453,6 +9573,7 @@ last_updated: 2026-04-28
 - [摘要：OpenClaw-RL：让你的本地 Agent 边聊边进化](summaries/摘要：OpenClaw-RL：让你的本地 Agent 边聊边进化.md)
 - [摘要：OpenClaw-RL：边用边训练，用对话驯化你的专属 AI Agent](summaries/摘要：OpenClaw-RL：边用边训练，用对话驯化你的专属 AI Agent.md)
 - [摘要：OpenClaw只养一只龙虾？难怪不好用。我直接养了6只，效果炸裂！](summaries/摘要：OpenClaw只养一只龙虾？难怪不好用。我直接养了6只，效果炸裂！.md)
+- [摘要：OpenClaw大更新，AI智能体不再是黑箱！官方口号：少点神秘](summaries/摘要：OpenClaw大更新，AI智能体不再是黑箱！官方口号：少点神秘.md)
 - [摘要：OpenClaw最佳工具榜来了！这6款龙虾最受欢迎](summaries/摘要：OpenClaw最佳工具榜来了！这6款龙虾最受欢迎.md)
 - [摘要：OpenClaw杀出中国黑马——Step 3.5 Flash 与 Agent 时代](summaries/摘要：OpenClaw杀出中国黑马——Step 3.5 Flash 与 Agent 时代.md)
 - [摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会](summaries/摘要：OpenClaw正在成为新的交互入口，AI投资人：这4个生态位，短期内会爆发机会.md)
@@ -9672,6 +9793,7 @@ last_updated: 2026-04-28
 - [摘要：hostc：轻量级内网穿透神器，一行命令获得公网 HTTPS 隧道！](summaries/摘要：hostc：轻量级内网穿透神器，一行命令获得公网 HTTPS 隧道！.md)
 - [摘要：how I automate my X contents pipeline using claude code.](summaries/摘要：how I automate my X contents pipeline using claude code.md)
 - [摘要：how to use autoreason for marketing](summaries/摘要：how to use autoreason for marketing.md)
+- [摘要：hybrid GraphRAG memory system](summaries/摘要：hybrid GraphRAG memory system.md)
 - [摘要：last30days-skill ——看清近 30 天真实口碑与趋势的千察器](summaries/摘要：last30days-skill ——看清近 30 天真实口碑与趋势的千察器.md)
 - [摘要：last30days-skill：让 Claude Code 变成全网情报分析师](summaries/摘要：last30days-skill：让 Claude Code 变成全网情报分析师.md)
 - [摘要：llm Wiki 养了三周，开始出毛病了](summaries/摘要：llm Wiki 养了三周，开始出毛病了.md)
@@ -9748,6 +9870,7 @@ last_updated: 2026-04-28
 - [摘要：一键接入OpenClaw，谷歌开源CLI狂揽15k Stars，Agent开始接管Workspace](summaries/摘要：一键接入OpenClaw，谷歌开源CLI狂揽15k Stars，Agent开始接管Workspace.md)
 - [摘要：一键搞定全流程！AI 漫剧一站式生成工具分享](summaries/摘要：一键搞定全流程！AI 漫剧一站式生成工具分享.md)
 - [摘要：万字干货：理解 Harness Engineering，看这一篇就够了](summaries/摘要：万字干货：理解 Harness Engineering，看这一篇就够了.md)
+- [摘要：万字干货｜AI 时代的 Git 版本管理，你用对了吗？](summaries/摘要：万字干货｜AI 时代的 Git 版本管理，你用对了吗？.md)
 - [摘要：万物皆可蒸馏：一场从同事到自己的 Claude Skill 狂潮](summaries/摘要：万物皆可蒸馏：一场从同事到自己的 Claude Skill 狂潮.md)
 - [摘要：三省六部幻觉：为什么“虚拟公司”式多Agent架构在工程上不成立](summaries/摘要：三省六部幻觉：为什么“虚拟公司”式多Agent架构在工程上不成立.md)
 - [摘要：上交大54页综述讲透Agent认知外部化的演进之路](summaries/摘要：上交大54页综述讲透Agent认知外部化的演进之路.md)
@@ -9869,6 +9992,7 @@ last_updated: 2026-04-28
 - [摘要：对话 OiiOii 创始人闹闹：做 AI 时代的皮克斯](summaries/摘要：对话 OiiOii 创始人闹闹：做 AI 时代的皮克斯.md)
 - [摘要：封号三次后的血泪总结：如何稳定使用 Claude 不再掉号](summaries/摘要：封号三次后的血泪总结：如何稳定使用 Claude 不再掉号.md)
 - [摘要：小米 MiMo-V2-Pro：从「Hunter Alpha」神秘出道到国产 Agent 旗舰揭晓](summaries/摘要：小米 MiMo-V2-Pro：从「Hunter Alpha」神秘出道到国产 Agent 旗舰揭晓.md)
+- [摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动](summaries/摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动.md)
 - [摘要：就一个 skills，凭啥 4w Star？](summaries/摘要：就一个 skills，凭啥 4w Star？.md)
 - [摘要：币安 AI Agent Skills：用「模块化技能包」给每个 AI Agent 装上币安级大脑](summaries/摘要：币安 AI Agent Skills：用「模块化技能包」给每个 AI Agent 装上币安级大脑.md)
 - [摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」](summaries/摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」.md)
@@ -10070,6 +10194,7 @@ last_updated: 2026-04-28
 - [摘要：让 OpenClaw 拥有超强记忆，MemOS 开源了！](summaries/摘要：让 OpenClaw 拥有超强记忆，MemOS 开源了！.md)
 - [摘要：让Agent彻底"开眼"！7分钟教你用Apify让Claude Code实时抓取全网数据，实用性直接10倍起飞](summaries/摘要：让Agent彻底开眼！7分钟教你用Apify让Claude Code实时抓取全网数据，实用性直接10倍起飞.md)
 - [摘要：让Claude cowork强100倍的17个习惯](summaries/摘要：让Claude cowork强100倍的17个习惯.md)
+- [摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！](summaries/摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！.md)
 - [摘要：记忆，是 Agent 基建｜对话 Calvin@Vida](summaries/摘要：记忆，是 Agent 基建｜对话 Calvin@Vida.md)
 - [摘要：设计师们的天塌了，谷歌 Stitch 太疯狂了](summaries/摘要：设计师们的天塌了，谷歌 Stitch 太疯狂了.md)
 - [摘要：详解 ERC-8183 ：以太坊攻坚 AI Agent 互信难题的答案](summaries/摘要：详解 ERC-8183 ：以太坊攻坚 AI Agent 互信难题的答案.md)
@@ -10089,6 +10214,7 @@ last_updated: 2026-04-28
 - [摘要：达尔文.skill正式发布，一个无限进化的skill系统！](summaries/摘要：达尔文.skill正式发布，一个无限进化的skill系统！.md)
 - [摘要：迎接智能体的「觉醒时刻」：EverOS全球公测开启Agent Memory自进化序章](summaries/摘要：迎接智能体的「觉醒时刻」：EverOS全球公测开启Agent Memory自进化序章.md)
 - [摘要：这个 Skill 太硬了，刚开源就斩获 2.8K 星标！Agent 联网能力拉满！](summaries/摘要：这个 Skill 太硬了，刚开源就斩获 2.8K 星标！Agent 联网能力拉满！.md)
+- [摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。](summaries/摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。.md)
 - [摘要：这个开源工具太猛了！让 Claude Code 成本爆降 89%](summaries/摘要：这个开源工具太猛了！让 Claude Code 成本爆降 89%.md)
 - [摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活](summaries/摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活.md)
 - [摘要：这几天VPN又大拉闸了，建议不想一直折腾网络的人买个VPS自建节点，效果好太多](summaries/摘要：这几天VPN又大拉闸了，建议不想一直折腾网络的人买个VPS自建节点，效果好太多.md)
@@ -10156,6 +10282,8 @@ last_updated: 2026-04-28
 - [AI 开发工具的商业化拓扑：从模型中转到算力租赁的基础设施变现路径分化与生态博弈](syntheses/AI 开发工具的商业化拓扑：从模型中转到算力租赁的基础设施变现路径分化与生态博弈.md)
 - [AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统](syntheses/AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统.md)
 - [AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑](syntheses/AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑.md)
+- [AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径](syntheses/AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径.md)
+- [Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径](syntheses/Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径.md)
 - [Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进](syntheses/Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进.md)
 - [Agent 技能从静态封装到工作流原子的演进路径：能力获取、蒸馏复用与质量治理的三重架构分层](syntheses/Agent 技能从静态封装到工作流原子的演进路径：能力获取、蒸馏复用与质量治理的三重架构分层.md)
 - [Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进](syntheses/Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进.md)
@@ -10191,6 +10319,7 @@ last_updated: 2026-04-28
 - [Coding Agent 记忆系统设计范式：从成本优先的层级压缩到协议驱动的跨项目知识迁移](syntheses/Coding Agent 记忆系统设计范式：从成本优先的层级压缩到协议驱动的跨项目知识迁移.md)
 - [Coding Agent 驱动的知识管理范式迁移：从被动文档到可编译项目知识系统的架构路径](syntheses/Coding Agent 驱动的知识管理范式迁移：从被动文档到可编译项目知识系统的架构路径.md)
 - [Crypto/DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径](syntheses/Crypto-DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径.md)
+- [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
 - [Hermes Agent 最佳配置实践：从文件化大脑到自进化多 Agent 系统的工程化调优全景](syntheses/Hermes Agent 最佳配置实践：从文件化大脑到自进化多 Agent 系统的工程化调优全景.md)
 - [LLM 与 Agent 编排的交叉地带：从模型路由到群体智能的多模型协作范式演进](syntheses/LLM 与 Agent 编排的交叉地带：从模型路由到群体智能的多模型协作范式演进.md)
 - [LLM 商业化安全悖论三角：模型能力扩张、变现压力与合规收紧三力交汇时的路径分化与治理架构](syntheses/LLM 商业化安全悖论三角：模型能力扩张、变现压力与合规收紧三力交汇时的路径分化与治理架构.md)
@@ -10208,9 +10337,11 @@ last_updated: 2026-04-28
 - [OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱](syntheses/OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱.md)
 - [OpenClaw 记忆编排三体问题：文件即认知基底如何让记忆与编排在同一架构中共演为自主 Agent](syntheses/OpenClaw 记忆编排三体问题：文件即认知基底如何让记忆与编排在同一架构中共演为自主 Agent.md)
 - [Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化](syntheses/Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化.md)
+- [上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略](syntheses/上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略.md)
 - [从技能图谱到自优化管线：Skill 组合的可执行链路构建与反馈驱动的演化机制](syntheses/从技能图谱到自优化管线：Skill 组合的可执行链路构建与反馈驱动的演化机制.md)
 - [从知识获取到技能封装：Agent 技能与知识管理的双向融合路径](syntheses/从知识获取到技能封装：Agent 技能与知识管理的双向融合路径.md)
 - [从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施](syntheses/从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施.md)
+- [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
 - [加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进](syntheses/加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进.md)
 - [加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂](syntheses/加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂.md)
 - [加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径](syntheses/加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径.md)
@@ -10233,3 +10364,4 @@ last_updated: 2026-04-28
 - [系统重设计方案：状态体系 + Dashboard V2](syntheses/系统重设计方案：状态体系 + Dashboard V2.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
 - [训练/微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界](syntheses/训练-微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界.md)
+- [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)

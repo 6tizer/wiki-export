@@ -5,12 +5,12 @@ tags:
 - 商业/生态
 - AI 产品
 - 内容自动化
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5f1a10f1edc34ddcb2a41193360f98d2
+notion_url: https://www.notion.so/Tizer/5f1a10f1edc34ddcb2a41193360f98d2
 notion_id: 5f1a10f1-edc3-4ddc-b2a4-1193360f98d2
 ---
 

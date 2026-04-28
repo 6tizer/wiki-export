@@ -4,12 +4,12 @@ type: entity
 tags:
 - LLM
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ef621a2d48974eb4aae76d9fdebb4455
+notion_url: https://www.notion.so/Tizer/ef621a2d48974eb4aae76d9fdebb4455
 notion_id: ef621a2d-4897-4eb4-aae7-6d9fdebb4455
 ---
 

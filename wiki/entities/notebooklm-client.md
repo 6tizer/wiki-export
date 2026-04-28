@@ -4,12 +4,12 @@ type: entity
 tags:
 - Agent 技能
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/22dc6754067d4dd289651ca96bb623c9
+notion_url: https://www.notion.so/Tizer/22dc6754067d4dd289651ca96bb623c9
 notion_id: 22dc6754-067d-4dd2-8965-1ca96bb623c9
 ---
 

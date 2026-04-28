@@ -3,12 +3,12 @@ title: LoRA 微调
 type: concept
 tags:
 - 训练/微调
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/55a03a82154142cbbc07f89b939c3af5
+notion_url: https://www.notion.so/Tizer/55a03a82154142cbbc07f89b939c3af5
 notion_id: 55a03a82-1541-42cb-bc07-f89b939c3af5
 ---
 

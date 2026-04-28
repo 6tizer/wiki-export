@@ -4,12 +4,12 @@ type: concept
 tags:
 - AI 对齐
 - 训练/微调
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b9b81d30f4414dc5a56cfe2d84690852
+notion_url: https://www.notion.so/Tizer/b9b81d30f4414dc5a56cfe2d84690852
 notion_id: b9b81d30-f441-4dc5-a56c-fe2d84690852
 ---
 

@@ -3,12 +3,12 @@ title: M5Stack
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3cee30037fe2448e9cfd4c9952e6edc3
+notion_url: https://www.notion.so/Tizer/3cee30037fe2448e9cfd4c9952e6edc3
 notion_id: 3cee3003-7fe2-448e-9cfd-4c9952e6edc3
 ---
 

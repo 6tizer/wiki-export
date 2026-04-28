@@ -4,12 +4,12 @@ type: concept
 tags:
 - 知识管理
 - 笔记工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8389b9ea0517492a8b84bb0a20b17120
+notion_url: https://www.notion.so/Tizer/8389b9ea0517492a8b84bb0a20b17120
 notion_id: 8389b9ea-0517-492a-8b84-bb0a20b17120
 ---
 

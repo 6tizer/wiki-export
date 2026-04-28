@@ -4,12 +4,12 @@ type: entity
 tags:
 - 内容创作
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/839c9cbd8a954c95968d98e652d1f62b
+notion_url: https://www.notion.so/Tizer/839c9cbd8a954c95968d98e652d1f62b
 notion_id: 839c9cbd-8a95-4c95-968d-98e652d1f62b
 ---
 
@@ -46,3 +46,5 @@ md2wechat 是一个面向微信公众号内容发布的 CLI / API / Skill 工具
 ## 来源引用
 
 - [摘要：用 Markdown 写公众号文章，像发朋友圈一样简单](summaries/摘要：用 Markdown 写公众号文章，像发朋友圈一样简单.md)（[原文](https://x.com/seekjourney/status/2045056409457549784)）
+
+- [摘要：43 个排版模块，Agent 帮你一键完成公众号排版](summaries/摘要：43 个排版模块，Agent 帮你一键完成公众号排版.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA5Njg4Mzk0NQ%3D%3D&mid=2649825377&idx=1&sn=d46eacb27a67c81f02021d2fa4532fcc&chksm=891a78112ba45aa1feae298ec0b1ac9ba014041b538b5d374588d8f75336ead4aa9a9a1d7c32#rd)）

@@ -3,12 +3,12 @@ title: QwenChineseBench
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c137d36a0c204f0db477df0dd7d17807
+notion_url: https://www.notion.so/Tizer/c137d36a0c204f0db477df0dd7d17807
 notion_id: c137d36a-0c20-4f0d-b477-df0dd7d17807
 ---
 

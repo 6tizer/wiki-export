@@ -4,12 +4,12 @@ type: entity
 tags:
 - AI 产品
 - Agent 协作模式
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/75aa4055c0164584a1bc07313d4b72d9
+notion_url: https://www.notion.so/Tizer/75aa4055c0164584a1bc07313d4b72d9
 notion_id: 75aa4055-c016-4584-a1bc-07313d4b72d9
 ---
 

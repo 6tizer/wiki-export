@@ -4,12 +4,12 @@ type: entity
 tags:
 - 开发工具
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cb7b0c75f7924ab69f981e252524ef68
+notion_url: https://www.notion.so/Tizer/cb7b0c75f7924ab69f981e252524ef68
 notion_id: cb7b0c75-f792-4ab6-9f98-1e252524ef68
 ---
 

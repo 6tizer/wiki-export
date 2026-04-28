@@ -3,12 +3,12 @@ title: FileProvider 路径遍历
 type: concept
 tags:
 - Agent 安全
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b3efd2d2f052491aadeee6d542587daa
+notion_url: https://www.notion.so/Tizer/b3efd2d2f052491aadeee6d542587daa
 notion_id: b3efd2d2-f052-491a-adee-e6d542587daa
 ---
 

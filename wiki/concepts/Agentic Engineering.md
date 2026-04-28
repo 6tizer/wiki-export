@@ -3,12 +3,12 @@ title: Agentic Engineering
 type: concept
 tags:
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/36ddcd72d4f547489ecb48175ca091d3
+notion_url: https://www.notion.so/Tizer/36ddcd72d4f547489ecb48175ca091d3
 notion_id: 36ddcd72-d4f5-4748-9ecb-48175ca091d3
 ---
 

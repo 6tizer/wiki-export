@@ -5,12 +5,12 @@ tags:
 - AI 对齐
 - 训练/微调
 - Agent 安全
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7ad5b8e63fec4f35a9c606ab43327a37
+notion_url: https://www.notion.so/Tizer/7ad5b8e63fec4f35a9c606ab43327a37
 notion_id: 7ad5b8e6-3fec-4f35-a9c6-06ab43327a37
 ---
 

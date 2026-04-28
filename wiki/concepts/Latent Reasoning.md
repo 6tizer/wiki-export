@@ -3,12 +3,12 @@ title: Latent Reasoning
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/aca9d465af654bbc8dc823ac7586bd76
+notion_url: https://www.notion.so/Tizer/aca9d465af654bbc8dc823ac7586bd76
 notion_id: aca9d465-af65-4bbc-8dc8-23ac7586bd76
 ---
 

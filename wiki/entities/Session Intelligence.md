@@ -4,12 +4,12 @@ type: entity
 tags:
 - Coding Agent
 - 记忆系统
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0b5f2372b4a74c5ba7aff5ec540074a8
+notion_url: https://www.notion.so/Tizer/0b5f2372b4a74c5ba7aff5ec540074a8
 notion_id: 0b5f2372-b4a7-4c5b-a7af-f5ec540074a8
 ---
 

@@ -3,12 +3,12 @@ title: ATR 追踪止损
 type: concept
 tags:
 - 量化交易
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/926d25fa24df4562a137823571d6585e
+notion_url: https://www.notion.so/Tizer/926d25fa24df4562a137823571d6585e
 notion_id: 926d25fa-24df-4562-a137-823571d6585e
 ---
 

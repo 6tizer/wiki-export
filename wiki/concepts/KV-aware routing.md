@@ -3,12 +3,12 @@ title: KV-aware routing
 type: concept
 tags:
 - 推理优化
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6f4f631b7c554836b83d864221c4c979
+notion_url: https://www.notion.so/Tizer/6f4f631b7c554836b83d864221c4c979
 notion_id: 6f4f631b-7c55-4836-b83d-864221c4c979
 ---
 

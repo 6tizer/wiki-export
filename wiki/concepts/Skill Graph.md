@@ -3,12 +3,12 @@ title: Skill Graph
 type: concept
 tags:
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/65d235b8d2094ed2b075ed2f4daf2b6a
+notion_url: https://www.notion.so/Tizer/65d235b8d2094ed2b075ed2f4daf2b6a
 notion_id: 65d235b8-d209-4ed2-b075-ed2f4daf2b6a
 ---
 

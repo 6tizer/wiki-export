@@ -4,12 +4,12 @@ type: entity
 tags:
 - Coding Agent
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d1082bb71fe544869be84679ae78470d
+notion_url: https://www.notion.so/Tizer/d1082bb71fe544869be84679ae78470d
 notion_id: d1082bb7-1fe5-4486-9be8-4679ae78470d
 ---
 

@@ -5,12 +5,12 @@ tags:
 - 内容自动化
 - 浏览器自动化
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/803dc813598e484c86c0469260d68d46
+notion_url: https://www.notion.so/Tizer/803dc813598e484c86c0469260d68d46
 notion_id: 803dc813-598e-484c-86c0-469260d68d46
 ---
 

@@ -3,12 +3,12 @@ title: cadrille
 type: entity
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b2b610daf49742f2ba35404c0f29196e
+notion_url: https://www.notion.so/Tizer/b2b610daf49742f2ba35404c0f29196e
 notion_id: b2b610da-f497-42f2-ba35-404c0f29196e
 ---
 

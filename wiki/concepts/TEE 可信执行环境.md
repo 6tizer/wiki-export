@@ -3,12 +3,12 @@ title: TEE 可信执行环境
 type: concept
 tags:
 - Crypto/DeFi
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c9c00c8eb00942a79f033dde2e6be35e
+notion_url: https://www.notion.so/Tizer/c9c00c8eb00942a79f033dde2e6be35e
 notion_id: c9c00c8e-b009-42a7-9f03-3dde2e6be35e
 ---
 

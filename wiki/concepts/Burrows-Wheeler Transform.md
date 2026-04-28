@@ -3,12 +3,12 @@ title: Burrows-Wheeler Transform
 type: concept
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e88a4b7b0d8342f08b1f24295a5bbb00
+notion_url: https://www.notion.so/Tizer/e88a4b7b0d8342f08b1f24295a5bbb00
 notion_id: e88a4b7b-0d83-42f0-8b1f-24295a5bbb00
 ---
 

@@ -3,12 +3,12 @@ title: Velocity Card
 type: concept
 tags:
 - Agent 协作模式
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c9daf4eab04343549a0f68041559bc20
+notion_url: https://www.notion.so/Tizer/c9daf4eab04343549a0f68041559bc20
 notion_id: c9daf4ea-b043-4354-9a0f-68041559bc20
 ---
 

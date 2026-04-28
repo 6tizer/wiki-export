@@ -3,12 +3,12 @@ title: Qwen3.5-27B
 type: entity
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e7b54296d81c43daaa0fe8a1dea69b2b
+notion_url: https://www.notion.so/Tizer/e7b54296d81c43daaa0fe8a1dea69b2b
 notion_id: e7b54296-d81c-43da-aa0f-e8a1dea69b2b
 ---
 

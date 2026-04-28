@@ -4,12 +4,12 @@ type: entity
 tags:
 - 内容自动化
 - CLI 工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688119aeabd116b2d58a68
-notion_url: https://www.notion.so/d9e2c1f67ce94859b93b603cfaee91fe
+notion_url: https://www.notion.so/Tizer/d9e2c1f67ce94859b93b603cfaee91fe
 notion_id: d9e2c1f6-7ce9-4859-b93b-603cfaee91fe
 ---
 

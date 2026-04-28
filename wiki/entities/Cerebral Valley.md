@@ -3,12 +3,12 @@ title: Cerebral Valley
 type: entity
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2038a8ab1d2b4578a5043b0932e44b77
+notion_url: https://www.notion.so/Tizer/2038a8ab1d2b4578a5043b0932e44b77
 notion_id: 2038a8ab-1d2b-4578-a504-3b0932e44b77
 ---
 

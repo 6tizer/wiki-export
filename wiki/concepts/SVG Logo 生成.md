@@ -5,12 +5,12 @@ tags:
 - AI 设计
 - 图像生成
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/fd05b947c027430f8e86d1ce1515cea7
+notion_url: https://www.notion.so/Tizer/fd05b947c027430f8e86d1ce1515cea7
 notion_id: fd05b947-c027-430f-8e86-d1ce1515cea7
 ---
 

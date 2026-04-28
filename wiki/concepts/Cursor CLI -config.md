@@ -4,12 +4,12 @@ type: concept
 tags:
 - CLI 工具
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9fccc77355a348e1bfa72cbfe53085f8
+notion_url: https://www.notion.so/Tizer/9fccc77355a348e1bfa72cbfe53085f8
 notion_id: 9fccc773-55a3-48e1-bfa7-2cbfe53085f8
 ---
 

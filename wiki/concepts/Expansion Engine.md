@@ -4,12 +4,12 @@ type: concept
 tags:
 - 知识管理
 - 提示工程
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2724e758c2224f448270b8d38d500f80
+notion_url: https://www.notion.so/Tizer/2724e758c2224f448270b8d38d500f80
 notion_id: 2724e758-c222-4f44-8270-b8d38d500f80
 ---
 

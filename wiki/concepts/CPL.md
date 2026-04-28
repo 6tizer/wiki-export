@@ -4,12 +4,12 @@ type: concept
 tags:
 - 多模态
 - 训练/微调
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/63e1a8a8e4a1492dafa95225ddfb2acb
+notion_url: https://www.notion.so/Tizer/63e1a8a8e4a1492dafa95225ddfb2acb
 notion_id: 63e1a8a8-e4a1-492d-afa9-5225ddfb2acb
 ---
 

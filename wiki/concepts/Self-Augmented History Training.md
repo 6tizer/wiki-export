@@ -4,12 +4,12 @@ type: concept
 tags:
 - 内容创作
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/53a90aaa681c4aceabd28f5f9a8436f2
+notion_url: https://www.notion.so/Tizer/53a90aaa681c4aceabd28f5f9a8436f2
 notion_id: 53a90aaa-681c-4ace-abd2-8f5f9a8436f2
 ---
 

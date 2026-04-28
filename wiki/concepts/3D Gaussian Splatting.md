@@ -3,12 +3,12 @@ title: 3D Gaussian Splatting
 type: concept
 tags:
 - 视频/3D
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2075ecf9da4441e6a6f016a57c9db645
+notion_url: https://www.notion.so/Tizer/2075ecf9da4441e6a6f016a57c9db645
 notion_id: 2075ecf9-da44-41e6-a6f0-16a57c9db645
 ---
 

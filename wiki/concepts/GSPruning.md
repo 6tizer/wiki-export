@@ -3,12 +3,12 @@ title: GSPruning
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/59914c3a64b34f4fa0f174cb931c2415
+notion_url: https://www.notion.so/Tizer/59914c3a64b34f4fa0f174cb931c2415
 notion_id: 59914c3a-64b3-4f4f-a0f1-74cb931c2415
 ---
 

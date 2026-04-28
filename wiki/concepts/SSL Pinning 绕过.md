@@ -3,12 +3,12 @@ title: SSL Pinning 绕过
 type: concept
 tags:
 - Agent 安全
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1b1abd9b7b884b578063cc6d758dc078
+notion_url: https://www.notion.so/Tizer/1b1abd9b7b884b578063cc6d758dc078
 notion_id: 1b1abd9b-7b88-4b57-8063-cc6d758dc078
 ---
 

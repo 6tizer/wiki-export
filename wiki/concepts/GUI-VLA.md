@@ -4,12 +4,12 @@ type: concept
 tags:
 - Agent 技能
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8dfbee0823f24115a00a5ebbd745a5cc
+notion_url: https://www.notion.so/Tizer/8dfbee0823f24115a00a5ebbd745a5cc
 notion_id: 8dfbee08-23f2-4115-a00a-5ebbd745a5cc
 ---
 

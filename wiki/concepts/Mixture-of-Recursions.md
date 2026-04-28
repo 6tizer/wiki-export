@@ -3,12 +3,12 @@ title: Mixture-of-Recursions
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ca995efb6794436a988c199fbe11925b
+notion_url: https://www.notion.so/Tizer/ca995efb6794436a988c199fbe11925b
 notion_id: ca995efb-6794-436a-988c-199fbe11925b
 ---
 

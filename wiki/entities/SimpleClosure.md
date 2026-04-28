@@ -4,12 +4,12 @@ type: entity
 tags:
 - 商业/生态
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9a1178f93d924f0aa7aff440e8ca8ccf
+notion_url: https://www.notion.so/Tizer/9a1178f93d924f0aa7aff440e8ca8ccf
 notion_id: 9a1178f9-3d92-4f0a-a7af-f440e8ca8ccf
 ---
 

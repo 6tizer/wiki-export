@@ -3,12 +3,12 @@ title: GSAP
 type: entity
 tags:
 - 前端开发
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/56dec31175cf417e9e7f8491238113f3
+notion_url: https://www.notion.so/Tizer/56dec31175cf417e9e7f8491238113f3
 notion_id: 56dec311-75cf-417e-9e7f-8491238113f3
 ---
 

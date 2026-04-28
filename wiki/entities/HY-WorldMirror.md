@@ -4,12 +4,12 @@ type: entity
 tags:
 - 视频/3D
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/910f6cfd72d24918b6ab30c7f1b11f85
+notion_url: https://www.notion.so/Tizer/910f6cfd72d24918b6ab30c7f1b11f85
 notion_id: 910f6cfd-72d2-4918-b6ab-30c7f1b11f85
 ---
 

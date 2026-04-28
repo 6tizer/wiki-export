@@ -10,7 +10,7 @@ confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c7c364d3beb349c09307a8bd8df19172
+notion_url: https://www.notion.so/Tizer/c7c364d3beb349c09307a8bd8df19172
 notion_id: c7c364d3-beb3-49c0-9307-a8bd8df19172
 ---
 
@@ -49,3 +49,5 @@ notion_id: c7c364d3-beb3-49c0-9307-a8bd8df19172
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzkxNzY0OTA4Mg%3D%3D&mid=2247493153&idx=1&sn=72c2e68a8f7d0643e26798536ebdcddf&chksm=c0f2fc5aeb871deb50d997025e1dec3f07677e1f3f1fa9185c61aca0e43ef4093d44ff6ec270#rd)｜《用 Rust 重写的 Claw Code ,已经178K Star !有些东西看了后，睡不着觉》｜来源条目：[摘要：用 Rust 重写的 Claw Code ,已经178K Star !有些东西看了后，睡不着觉](summaries/摘要：用 Rust 重写的 Claw Code ,已经178K Star !有些东西看了后，睡不着觉.md)
 
 - [摘要：【黑武器】让Codex从单打独斗到AI团队作战，这个开源项目一周暴涨1.1万星！](summaries/摘要：【黑武器】让Codex从单打独斗到AI团队作战，这个开源项目一周暴涨1.1万星！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyNDYyODg0MQ%3D%3D&mid=2247493044&idx=1&sn=81e4fbf67adfc2ca1fa5770827a93b15&chksm=c037d7edf77c26238c0864153f353b6e25d87d7dda1e947a59e6da3be55cfc3a5821f58f07d0#rd))
+
+- [摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元](summaries/摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyMzY1NTM0Mw%3D%3D&mid=2247515158&idx=1&sn=a656396814f65b8053981d852d11bb54&chksm=c0ba44de9a9054cf724edaed2a5cda4d44ea80568c1c43a3b3d2de3699534f4295bfaf69ba91#rd)）

@@ -4,12 +4,12 @@ type: entity
 tags:
 - 记忆系统
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/048425a93d8043b2b4d79a5ee6b37748
+notion_url: https://www.notion.so/Tizer/048425a93d8043b2b4d79a5ee6b37748
 notion_id: 048425a9-3d80-43b2-b4d7-9a5ee6b37748
 ---
 

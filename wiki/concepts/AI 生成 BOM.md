@@ -4,12 +4,12 @@ type: concept
 tags:
 - 内容自动化
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9a9a60def5334b9d85b6c0dfbdfec7fa
+notion_url: https://www.notion.so/Tizer/9a9a60def5334b9d85b6c0dfbdfec7fa
 notion_id: 9a9a60de-f533-4b9d-85b6-c0dfbdfec7fa
 ---
 

@@ -5,12 +5,12 @@ tags:
 - Agent 协作模式
 - 长期记忆
 - OpenClaw
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9859c148e9f74010aa7ae1fc42f5f6ad
+notion_url: https://www.notion.so/Tizer/9859c148e9f74010aa7ae1fc42f5f6ad
 notion_id: 9859c148-e9f7-4010-aa7a-e1fc42f5f6ad
 ---
 

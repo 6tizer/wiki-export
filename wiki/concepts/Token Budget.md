@@ -6,10 +6,10 @@ tags:
 - 工作流
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ce03c5ab9fff42de98178887bb517ed4
+notion_url: https://www.notion.so/Tizer/ce03c5ab9fff42de98178887bb517ed4
 notion_id: ce03c5ab-9fff-42de-9817-8887bb517ed4
 ---
 
@@ -31,6 +31,12 @@ Token Budget 是一种把大模型调用成本显式预算化的控制机制：�
 
 - [摘要：Mercury: The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real](summaries/摘要：Mercury- The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real.md)（[原文](https://x.com/Ctrl_Alt_Zaid/status/2046902326657749114)）
 
+- [摘要：Context Management in Agent Harnesses](summaries/摘要：Context Management in Agent Harnesses.md)（[原文](https://x.com/aparnadhinak/status/2048492731929149929)）
+
 ## 关联概念
 
 - [Mercury](entities/Mercury.md)
+
+- [Context Compaction](concepts/Context Compaction.md)
+
+- [Alyx](entities/Alyx.md)

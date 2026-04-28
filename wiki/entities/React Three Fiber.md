@@ -3,12 +3,12 @@ title: React Three Fiber
 type: entity
 tags:
 - 前端开发
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/dd1a44d3bc1545f49831529655f914d6
+notion_url: https://www.notion.so/Tizer/dd1a44d3bc1545f49831529655f914d6
 notion_id: dd1a44d3-bc15-45f4-9831-529655f914d6
 ---
 

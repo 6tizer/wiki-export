@@ -5,12 +5,12 @@ tags:
 - MCP 协议
 - AI 产品
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/06fe52cdc7154d31b4c45f0c8c722191
+notion_url: https://www.notion.so/Tizer/06fe52cdc7154d31b4c45f0c8c722191
 notion_id: 06fe52cd-c715-4d31-b4c4-5f0c8c722191
 ---
 

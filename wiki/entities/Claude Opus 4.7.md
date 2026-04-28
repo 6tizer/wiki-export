@@ -4,7 +4,7 @@ type: entity
 tags:
 - AI 产品
 - 提示工程
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''

@@ -3,12 +3,12 @@ title: RAD 格式
 type: concept
 tags:
 - 视频/3D
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a79717ec490d4b8085d906e4c1aa037c
+notion_url: https://www.notion.so/Tizer/a79717ec490d4b8085d906e4c1aa037c
 notion_id: a79717ec-490d-4b80-85d9-06e4c1aa037c
 ---
 

@@ -5,12 +5,12 @@ tags:
 - 多模态
 - 视频/3D
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/df91f9805ae64879a1cd5c1ad8ce0a2e
+notion_url: https://www.notion.so/Tizer/df91f9805ae64879a1cd5c1ad8ce0a2e
 notion_id: df91f980-5ae6-4879-a1cd-5c1ad8ce0a2e
 ---
 

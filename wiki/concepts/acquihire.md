@@ -3,12 +3,12 @@ title: acquihire
 type: concept
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b01a2411fcb146b18de3175e743d32e2
+notion_url: https://www.notion.so/Tizer/b01a2411fcb146b18de3175e743d32e2
 notion_id: b01a2411-fcb1-46b1-8de3-175e743d32e2
 ---
 

@@ -4,12 +4,12 @@ type: concept
 tags:
 - AI 政策
 - Agent 安全
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: LLM, Agent, Claude, openai
 source_article_url: ''
-notion_url: https://www.notion.so/976bec18959a442d9eeb8687d5f59c7d
+notion_url: https://www.notion.so/Tizer/976bec18959a442d9eeb8687d5f59c7d
 notion_id: 976bec18-959a-442d-9eeb-8687d5f59c7d
 ---
 

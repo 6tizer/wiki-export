@@ -4,12 +4,12 @@ type: concept
 tags:
 - AI 对齐
 - Agent 安全
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/103d3dc0bafe40408f8ba4b9ff8a1916
+notion_url: https://www.notion.so/Tizer/103d3dc0bafe40408f8ba4b9ff8a1916
 notion_id: 103d3dc0-bafe-4040-8f8b-a4b9ff8a1916
 ---
 

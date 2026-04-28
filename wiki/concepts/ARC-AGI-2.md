@@ -3,12 +3,12 @@ title: ARC-AGI-2
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e22e2b8e46d64da689dac4060578271c
+notion_url: https://www.notion.so/Tizer/e22e2b8e46d64da689dac4060578271c
 notion_id: e22e2b8e-46d6-4da6-89da-c4060578271c
 ---
 

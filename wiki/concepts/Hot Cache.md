@@ -7,12 +7,12 @@ tags:
 - 长期记忆
 - 记忆系统
 - RAG/检索
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4b23cf57ea1a43bba6ab7a447cfcede1
+notion_url: https://www.notion.so/Tizer/4b23cf57ea1a43bba6ab7a447cfcede1
 notion_id: 4b23cf57-ea1a-43bb-a6ab-7a447cfcede1
 ---
 

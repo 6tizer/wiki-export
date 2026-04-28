@@ -3,12 +3,12 @@ title: Prefill-decode disaggregation
 type: concept
 tags:
 - 推理优化
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/56f0676b2e2041dfbdd3ee8808c5980a
+notion_url: https://www.notion.so/Tizer/56f0676b2e2041dfbdd3ee8808c5980a
 notion_id: 56f0676b-2e20-41df-bdd3-ee8808c5980a
 ---
 

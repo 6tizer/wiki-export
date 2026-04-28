@@ -4,12 +4,12 @@ type: concept
 tags:
 - 内容创作
 - 工作流
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/689d7c85a27c4616bf66525a38973e4c
+notion_url: https://www.notion.so/Tizer/689d7c85a27c4616bf66525a38973e4c
 notion_id: 689d7c85-a27c-4616-bf66-525a38973e4c
 ---
 

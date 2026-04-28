@@ -4,12 +4,12 @@ type: entity
 tags:
 - 模型部署
 - 推理优化
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/66b2b91f28314f18a991ea76bc339c6d
+notion_url: https://www.notion.so/Tizer/66b2b91f28314f18a991ea76bc339c6d
 notion_id: 66b2b91f-2831-4f18-a991-ea76bc339c6d
 ---
 

@@ -6,12 +6,12 @@ tags:
 - 训练/微调
 - AI 产品
 - OpenClaw
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/bc98825b74594f35a581db9b45c89c7d
+notion_url: https://www.notion.so/Tizer/bc98825b74594f35a581db9b45c89c7d
 notion_id: bc98825b-7459-4f35-a581-db9b45c89c7d
 ---
 

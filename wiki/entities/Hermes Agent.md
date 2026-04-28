@@ -7,7 +7,7 @@ tags:
 - OpenClaw
 status: 已审核
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/e47e7d37ec9f452a80c270954a83ee35
@@ -185,6 +185,8 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 - [摘要：分享我半年筛选下来的AI newsletter](summaries/摘要：分享我半年筛选下来的AI newsletter.md)（[原文](https://x.com/lxfater/status/2047259683459842555)）
 
 - [摘要：The solo founder stack of 2026](summaries/摘要：The solo founder stack of 2026.md)（[原文](https://x.com/rohit4verse/status/2047699770308014406)）
+
+- [摘要：1 Month with Hermes - I've been using Hermes wrong all along](summaries/摘要：1 Month with Hermes - I've been using Hermes wrong all along.md)（[原文](https://x.com/0xJeff/status/2048678335950311860)）
 
 ## 关联概念
 
@@ -403,3 +405,7 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 - [hermes-a2a](entities/hermes-a2a.md)
 
 - [Agent 对等通信](concepts/Agent 对等通信.md)
+
+- [Builder-Operator 模式](concepts/Builder-Operator 模式.md)
+
+- [PolyBond](entities/PolyBond.md)

@@ -3,12 +3,12 @@ title: MMLU-CF
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/67f160a5764844398a2b3a64799d5dc2
+notion_url: https://www.notion.so/Tizer/67f160a5764844398a2b3a64799d5dc2
 notion_id: 67f160a5-7648-4439-8a2b-3a64799d5dc2
 ---
 

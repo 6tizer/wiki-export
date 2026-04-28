@@ -3,12 +3,12 @@ title: navmesh
 type: concept
 tags:
 - 视频/3D
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c40b289d16ff4b0d8e18200489beff80
+notion_url: https://www.notion.so/Tizer/c40b289d16ff4b0d8e18200489beff80
 notion_id: c40b289d-16ff-4b0d-8e18-200489beff80
 ---
 

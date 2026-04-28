@@ -4,12 +4,12 @@ type: entity
 tags:
 - 内容创作
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/98dd6d602b3a4e32910da2c519c60ec7
+notion_url: https://www.notion.so/Tizer/98dd6d602b3a4e32910da2c519c60ec7
 notion_id: 98dd6d60-2b3a-4e32-910d-a2c519c60ec7
 ---
 

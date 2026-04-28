@@ -5,12 +5,12 @@ tags:
 - AI 产品
 - 训练/微调
 - 模型评测
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2e5aa05579f84e7e97b2cc3cdbff2844
+notion_url: https://www.notion.so/Tizer/2e5aa05579f84e7e97b2cc3cdbff2844
 notion_id: 2e5aa055-79f8-4e7e-97b2-cc3cdbff2844
 ---
 

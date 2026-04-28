@@ -4,12 +4,12 @@ type: entity
 tags:
 - 多模态
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d7d2a5607dcd4fd0a0daf5819ce5e354
+notion_url: https://www.notion.so/Tizer/d7d2a5607dcd4fd0a0daf5819ce5e354
 notion_id: d7d2a560-7dcd-4fd0-a0da-f5819ce5e354
 ---
 

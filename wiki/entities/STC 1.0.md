@@ -3,12 +3,12 @@ title: STC 1.0
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/41676eb7925d4d778f72960b5ca18aac
+notion_url: https://www.notion.so/Tizer/41676eb7925d4d778f72960b5ca18aac
 notion_id: 41676eb7-925d-4d77-8f72-960b5ca18aac
 ---
 

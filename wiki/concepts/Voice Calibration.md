@@ -4,12 +4,12 @@ type: concept
 tags:
 - 内容自动化
 - 提示工程
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/62bee004f5b94eb69775cd74b69cf641
+notion_url: https://www.notion.so/Tizer/62bee004f5b94eb69775cd74b69cf641
 notion_id: 62bee004-f5b9-4eb6-9775-cd74b69cf641
 ---
 

@@ -3,12 +3,12 @@ title: ColdIQ
 type: entity
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c9b60b62f3924044b1f9e0197d0baf5b
+notion_url: https://www.notion.so/Tizer/c9b60b62f3924044b1f9e0197d0baf5b
 notion_id: c9b60b62-f392-4044-b1f9-e0197d0baf5b
 ---
 

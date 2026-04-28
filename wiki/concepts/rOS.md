@@ -3,12 +3,12 @@ title: rOS
 type: concept
 tags:
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c2dfa991fb4a4469861aa178a27115ee
+notion_url: https://www.notion.so/Tizer/c2dfa991fb4a4469861aa178a27115ee
 notion_id: c2dfa991-fb4a-4469-861a-a178a27115ee
 ---
 

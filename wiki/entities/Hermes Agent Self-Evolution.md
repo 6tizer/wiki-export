@@ -9,7 +9,7 @@ confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d7b1bdca3e3843d4bfebdce9b91804e1
+notion_url: https://www.notion.so/Tizer/d7b1bdca3e3843d4bfebdce9b91804e1
 notion_id: d7b1bdca-3e38-43d4-bfeb-dce9b91804e1
 ---
 
@@ -38,6 +38,8 @@ Hermes Agent Self-Evolution 是 Nous Research 为 Hermes Agent 构建的自进�
 - [原文链接](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247506451&idx=1&sn=aec841a1c8c8ec2a99d64536babf7eae&chksm=cf1f5a4baf411e277ea71f2add117a204ea05d54a3884c6c63f8d79ec931d7d3a48694ae7f43#rd)｜《妈耶 HermesAgent直播回应抄没抄国内开发者》｜来源条目：[摘要：妈耶 HermesAgent直播回应抄没抄国内开发者](summaries/摘要：妈耶 HermesAgent直播回应抄没抄国内开发者.md)
 
 - [摘要：Interesting insights, especially this: Hermes starts off as any other agent does, inefficient and often not sure how to complete a task that is training didnt have priors for. However, solve it once a](summaries/摘要：Interesting insights, especially this- Hermes starts off as any other agent does, inefficient and often not sure how to complete a task that is training didnt have priors for. However, solve it once a.md)（[原文](https://x.com/Teknium/status/2046001396819067008)）
+
+- [摘要：1 Month with Hermes - I've been using Hermes wrong all along](summaries/摘要：1 Month with Hermes - I've been using Hermes wrong all along.md)（[原文](https://x.com/0xJeff/status/2048678335950311860)）
 
 ## 关联概念
 

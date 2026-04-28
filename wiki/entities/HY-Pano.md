@@ -5,12 +5,12 @@ tags:
 - 图像生成
 - 视频/3D
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/49db35e240614d92b731669c28051463
+notion_url: https://www.notion.so/Tizer/49db35e240614d92b731669c28051463
 notion_id: 49db35e2-4061-4d92-b731-669c28051463
 ---
 

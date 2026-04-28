@@ -3,12 +3,12 @@ title: x87 FPU
 type: concept
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c01e0823c6b84d4fa0f81a6898490721
+notion_url: https://www.notion.so/Tizer/c01e0823c6b84d4fa0f81a6898490721
 notion_id: c01e0823-c6b8-4d4f-a0f8-1a6898490721
 ---
 

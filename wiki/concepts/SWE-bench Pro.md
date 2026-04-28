@@ -3,12 +3,12 @@ title: SWE-bench Pro
 type: concept
 tags:
 - 模型评测
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4a4ad24271494a70b97f1f9ee40e7d89
+notion_url: https://www.notion.so/Tizer/4a4ad24271494a70b97f1f9ee40e7d89
 notion_id: 4a4ad242-7149-4a70-b97f-1f9ee40e7d89
 ---
 

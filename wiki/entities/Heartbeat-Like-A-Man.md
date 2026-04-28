@@ -4,12 +4,12 @@ type: entity
 tags:
 - OpenClaw
 - 记忆系统
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/328ceb7adf3642fbb6c87ee416f866f0
+notion_url: https://www.notion.so/Tizer/328ceb7adf3642fbb6c87ee416f866f0
 notion_id: 328ceb7a-df36-42fb-b6c8-7ee416f866f0
 ---
 

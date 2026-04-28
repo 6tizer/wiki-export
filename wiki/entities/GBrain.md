@@ -9,7 +9,7 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/48363a9051494e33b973ec2c5324acd3
@@ -49,6 +49,8 @@ notion_id: 48363a90-5149-4e33-b973-ec2c5324acd3
 - [摘要：I asked my OpenClaw to analyze all YC video launches for the last 3 years.](summaries/摘要：I asked my OpenClaw to analyze all YC video launches for the last 3 years.md)（[原文](https://x.com/garrytan/status/2047467997481288158)）
 
 - [摘要：Big drop for GBrain v0.19.](summaries/摘要：Big drop for GBrain v0.19.md)（[原文](https://x.com/garrytan/status/2047504667127799974)）
+
+- [摘要：hybrid GraphRAG memory system](summaries/摘要：hybrid GraphRAG memory system.md)（[原文](https://x.com/garrytan/status/2048503081911128119)）
 
 ## 关联概念
 

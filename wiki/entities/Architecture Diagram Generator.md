@@ -4,12 +4,12 @@ type: entity
 tags:
 - Coding Agent
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: LLM, Claude, 开源, GitHub, 开发者工具
 source_article_url: ''
-notion_url: https://www.notion.so/5678306c48364fcdb8520f6daf5c0b39
+notion_url: https://www.notion.so/Tizer/5678306c48364fcdb8520f6daf5c0b39
 notion_id: 5678306c-4836-4fcd-b852-0f6daf5c0b39
 ---
 

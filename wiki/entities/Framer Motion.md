@@ -3,12 +3,12 @@ title: Framer Motion
 type: entity
 tags:
 - 前端开发
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ace1f044ee814feea364ebd1e31cb3a2
+notion_url: https://www.notion.so/Tizer/ace1f044ee814feea364ebd1e31cb3a2
 notion_id: ace1f044-ee81-4fee-a364-ebd1e31cb3a2
 ---
 

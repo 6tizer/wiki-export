@@ -7,12 +7,12 @@ tags:
 - 代码生成
 - AI 产品
 - 前端开发
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1428c4c3a53d49b9822efd71a50a91e8
+notion_url: https://www.notion.so/Tizer/1428c4c3a53d49b9822efd71a50a91e8
 notion_id: 1428c4c3-a53d-49b9-822e-fd71a50a91e8
 ---
 

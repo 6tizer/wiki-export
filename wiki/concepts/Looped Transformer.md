@@ -3,12 +3,12 @@ title: Looped Transformer
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e1a9e61669ee42a8b024a6ef190ba56d
+notion_url: https://www.notion.so/Tizer/e1a9e61669ee42a8b024a6ef190ba56d
 notion_id: e1a9e616-69ee-42a8-b024-a6ef190ba56d
 ---
 

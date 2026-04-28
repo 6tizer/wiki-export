@@ -4,12 +4,12 @@ type: concept
 tags:
 - 链上协议
 - 加密资产
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/601dc4768cf84546a3c88f88636b99e3
+notion_url: https://www.notion.so/Tizer/601dc4768cf84546a3c88f88636b99e3
 notion_id: 601dc476-8cf8-4546-a3c8-8f88636b99e3
 ---
 

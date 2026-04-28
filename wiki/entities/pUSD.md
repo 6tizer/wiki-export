@@ -5,12 +5,12 @@ tags:
 - 稳定币
 - 加密资产
 - 链上协议
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2e0978fc8b2d4b0b82bf430e8b4cc675
+notion_url: https://www.notion.so/Tizer/2e0978fc8b2d4b0b82bf430e8b4cc675
 notion_id: 2e0978fc-8b2d-4b0b-82bf-430e8b4cc675
 ---
 

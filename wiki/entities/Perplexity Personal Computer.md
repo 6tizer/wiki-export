@@ -3,12 +3,12 @@ title: Perplexity Personal Computer
 type: entity
 tags:
 - Agent 框架
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c534a69b20f2404c96c7a9c147efa96c
+notion_url: https://www.notion.so/Tizer/c534a69b20f2404c96c7a9c147efa96c
 notion_id: c534a69b-20f2-404c-96c7-a9c147efa96c
 ---
 

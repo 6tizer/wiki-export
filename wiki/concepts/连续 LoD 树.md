@@ -3,12 +3,12 @@ title: 连续 LoD 树
 type: concept
 tags:
 - 视频/3D
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ba7e37faccbd4b88945dcf49e069f254
+notion_url: https://www.notion.so/Tizer/ba7e37faccbd4b88945dcf49e069f254
 notion_id: ba7e37fa-ccbd-4b88-945d-cf49e069f254
 ---
 

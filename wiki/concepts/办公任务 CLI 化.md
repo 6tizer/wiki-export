@@ -4,12 +4,12 @@ type: concept
 tags:
 - 内容自动化
 - CLI 工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688119aeabd116b2d58a68
-notion_url: https://www.notion.so/647e76c396234d16a17266a9ee0dc9ef
+notion_url: https://www.notion.so/Tizer/647e76c396234d16a17266a9ee0dc9ef
 notion_id: 647e76c3-9623-4d16-a172-66a9ee0dc9ef
 ---
 

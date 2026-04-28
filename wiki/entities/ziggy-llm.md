@@ -7,12 +7,12 @@ tags:
 - CLI 工具
 - 开发工具
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/47393f9842854343898a223329f484d8
+notion_url: https://www.notion.so/Tizer/47393f9842854343898a223329f484d8
 notion_id: 47393f98-4285-4343-898a-223329f484d8
 ---
 

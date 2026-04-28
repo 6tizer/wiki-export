@@ -7,12 +7,12 @@ tags:
 - 工作流
 - 知识管理
 - 内容创作
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/01c3ea07449244768865c3f1c02f6adb
+notion_url: https://www.notion.so/Tizer/01c3ea07449244768865c3f1c02f6adb
 notion_id: 01c3ea07-4492-4476-8865-c3f1c02f6adb
 ---
 

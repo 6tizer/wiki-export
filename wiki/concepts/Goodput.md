@@ -3,12 +3,12 @@ title: Goodput
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/031455d80ad74fe5ae17a7568263e9ba
+notion_url: https://www.notion.so/Tizer/031455d80ad74fe5ae17a7568263e9ba
 notion_id: 031455d8-0ad7-4fe5-ae17-a7568263e9ba
 ---
 

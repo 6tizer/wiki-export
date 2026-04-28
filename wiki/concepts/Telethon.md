@@ -2,13 +2,13 @@
 title: Telethon
 type: concept
 tags:
-- MCP 协议
+- 社交媒体
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0a3ef4139eef41e790078755f183f7eb
+notion_url: https://www.notion.so/Tizer/0a3ef4139eef41e790078755f183f7eb
 notion_id: 0a3ef413-9eef-41e7-9007-8755f183f7eb
 ---
 

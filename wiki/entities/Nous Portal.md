@@ -3,12 +3,12 @@ title: Nous Portal
 type: entity
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/07251230c61e43c38faa623bae3ec3f9
+notion_url: https://www.notion.so/Tizer/07251230c61e43c38faa623bae3ec3f9
 notion_id: 07251230-c61e-43c3-8faa-623bae3ec3f9
 ---
 

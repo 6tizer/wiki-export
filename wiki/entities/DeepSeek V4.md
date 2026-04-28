@@ -48,6 +48,8 @@ notion_id: 68a41e76-b0d4-4071-8cca-217cdd1b9810
 
 - [DeepSeek Sparse Attention](concepts/DeepSeek Sparse Attention.md)
 
+- [摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了](summaries/摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247887476&idx=1&sn=0ae5c990a3f2376794effe890264a4cf&chksm=e90f4689c3631f787a3d75e7836cc7206e8ee5fa3f2182a39b1e5dbb15dc71b0f5c72dc6ab75#rd)）
+
 **关联概念**
 
 - [mHC](concepts/mHC.md)
@@ -65,3 +67,9 @@ notion_id: 68a41e76-b0d4-4071-8cca-217cdd1b9810
 - [Claude Opus 4.7](entities/Claude Opus 4.7.md)
 
 - [模型路由](concepts/模型路由.md)
+
+- [Batch Invariance](concepts/Batch Invariance.md)
+
+- [DeepGEMM](entities/DeepGEMM.md)
+
+- [Dual-kernel](concepts/Dual-kernel.md)

@@ -31,7 +31,7 @@ notion_id: 1d3142f2-e52b-4bb3-bf1a-d3eccb62ab61
 
 ## 提取的概念
 
-- [PersonalAgent](entities/PersonalAgent.md)
+- [Personal Agent](entities/Personal Agent.md)
 
 - [PI Agent](entities/PI Agent.md)
 

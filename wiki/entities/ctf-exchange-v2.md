@@ -6,12 +6,12 @@ tags:
 - 稳定币
 - 加密资产
 - MCP 协议
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/40af4be5048740b5889a6fb841cea8c7
+notion_url: https://www.notion.so/Tizer/40af4be5048740b5889a6fb841cea8c7
 notion_id: 40af4be5-0487-40b5-889a-6fb841cea8c7
 ---
 

@@ -3,12 +3,12 @@ title: CPL++
 type: concept
 tags:
 - 训练/微调
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e13337ff59cc40eb97a7de06a90f4fee
+notion_url: https://www.notion.so/Tizer/e13337ff59cc40eb97a7de06a90f4fee
 notion_id: e13337ff-59cc-40eb-97a7-de06a90f4fee
 ---
 

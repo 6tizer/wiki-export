@@ -5,12 +5,12 @@ tags:
 - AI 设计
 - 提示工程
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/23597a176d1c4968b5f9fcc9f14076c1
+notion_url: https://www.notion.so/Tizer/23597a176d1c4968b5f9fcc9f14076c1
 notion_id: 23597a17-6d1c-4968-b5f9-fcc9f14076c1
 ---
 

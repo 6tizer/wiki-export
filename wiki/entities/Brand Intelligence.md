@@ -4,12 +4,12 @@ type: entity
 tags:
 - AI 设计
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/bb12d31993484821b34ab85f18c5fc2a
+notion_url: https://www.notion.so/Tizer/bb12d31993484821b34ab85f18c5fc2a
 notion_id: bb12d319-9348-4821-b34a-b85f18c5fc2a
 ---
 

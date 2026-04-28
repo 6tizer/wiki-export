@@ -3,12 +3,12 @@ title: Kimi Code
 type: entity
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/521fb6b7abd1479b98f564d7a29a42d5
+notion_url: https://www.notion.so/Tizer/521fb6b7abd1479b98f564d7a29a42d5
 notion_id: 521fb6b7-abd1-479b-98f5-64d7a29a42d5
 ---
 
