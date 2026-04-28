@@ -5,10 +5,10 @@ tags:
 - Crypto/DeFi
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6512283b6eee4eaa9723a1971b49c482
+notion_url: https://www.notion.so/Tizer/6512283b6eee4eaa9723a1971b49c482
 notion_id: 6512283b-6eee-4eaa-9723-a1971b49c482
 ---
 
@@ -30,4 +30,4 @@ OnchainOS Signal 是 OKX OnchainOS 行情技能中的信号模块，用于把聪
 
 ## 关联概念
 
-- [OKX OnchainOS](concepts/OKX OnchainOS.md)
+- [OKX OnchainOS](entities/OKX OnchainOS.md)
