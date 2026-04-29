@@ -110,7 +110,7 @@ notion_id: 4ec1ffa7-cd54-43bb-bc68-48653ad52de2
 
 | [Untitled](entities/agency-agents.md)（entity） | [Untitled](entities/agency-agents-zh.md)（entity） | -zh 为中文版后缀，可能是同一项目的语言变体，也可能是独立分支 |
 
-| [Untitled](concepts/Skill 编排.md)（concept，草稿） | [Untitled](concepts/Skill Architecture.md)（concept，草稿） | 同批创建（2026-04-23 00:22），语义高度重叠，均描述 Skill 的组织结构 |
+| [Untitled](concepts/Skill 编排.md)（concept，草稿） | Untitled（concept，草稿） | 同批创建（2026-04-23 00:22），语义高度重叠，均描述 Skill 的组织结构 |
 
 | [Untitled](concepts/Skill 编排.md)（concept，草稿） | [Untitled](concepts/Skill Architect.md)（concept，草稿） | 同批创建，Architect（角色）vs 编排（动词概念），可能是同一主题下不同切面 |
 
@@ -334,7 +334,7 @@ notion_id: 4ec1ffa7-cd54-43bb-bc68-48653ad52de2
 
   - [agency-agents](entities/agency-agents.md) vs [agency-agents-zh](entities/agency-agents-zh.md)：先 loadPage 两者内容，确认是否重复后决定合并或保留
 
-  - [Skill 编排](concepts/Skill 编排.md) vs [Skill Architecture](concepts/Skill Architecture.md)：检查内容是否高度重叠，重叠则删除其一（内容合并到保留页）
+  - [Skill 编排](concepts/Skill 编排.md) vs Skill Architecture：检查内容是否高度重叠，重叠则删除其一（内容合并到保留页）
 
 ### 👤 人工介入项
 

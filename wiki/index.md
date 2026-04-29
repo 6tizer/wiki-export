@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1848, "summary": 1347, "synthesis": 108, "entity": 919, "index": 3, "lint-report": 59, "qa": 4}
-total: 4288
+type_counts: {"concept": 1854, "summary": 1351, "synthesis": 108, "entity": 924, "index": 3, "lint-report": 59, "qa": 4}
+total: 4303
 last_updated: 2026-04-29
 ---
 
 # 📚 知识 Wiki Index
 
-> 1848 concepts · 919 entitys · 3 indexs · 59 lint-reports · 4 qas · 1347 summarys · 108 synthesiss
+> 1854 concepts · 924 entitys · 3 indexs · 59 lint-reports · 4 qas · 1351 summarys · 108 synthesiss
 > 导出时间: 2026-04-29
 
 ## 使用方式
@@ -74,6 +74,7 @@ last_updated: 2026-04-29
 - [结果即服务](concepts/结果即服务.md)
 - [统一视频生成 API](concepts/统一视频生成 API.md)
 - [自然语言硬件设计](concepts/自然语言硬件设计.md)
+- [视觉浏览器](concepts/视觉浏览器.md)
 - [计算入口下沉](concepts/计算入口下沉.md)
 - [超级应用](concepts/超级应用.md)
 - [静态住宅 IP](concepts/静态住宅 IP.md)
@@ -144,6 +145,7 @@ last_updated: 2026-04-29
 - [FARS](entities/FARS.md)
 - [FinceptTerminal](entities/FinceptTerminal.md)
 - [FireRed-OpenStoryline](entities/FireRed-OpenStoryline.md)
+- [Flipbook](entities/Flipbook.md)
 - [FlowGram](entities/FlowGram.md)
 - [FunClip](entities/FunClip.md)
 - [Future AGI](entities/Future AGI.md)
@@ -203,6 +205,7 @@ last_updated: 2026-04-29
 - [OpenMontage](entities/OpenMontage.md)
 - [OpenSpace](entities/OpenSpace.md)
 - [Orb](entities/Orb.md)
+- [Oz](entities/Oz.md)
 - [PANews Skills](entities/PANews Skills.md)
 - [PM OS](entities/PM OS.md)
 - [Page Agent](entities/Page Agent.md)
@@ -327,6 +330,7 @@ last_updated: 2026-04-29
 - [摘要：我把Hermes官方UI卸载了，换成了这个（强烈推荐）](summaries/摘要：我把Hermes官方UI卸载了，换成了这个（强烈推荐）.md)
 - [摘要：我给了他一个梦想：超越 Claude Code](summaries/摘要：我给了他一个梦想：超越 Claude Code.md)
 - [摘要：方言识别迈入“工业级”！Fun-ASR1.5来了🚀](summaries/摘要：方言识别迈入“工业级”！Fun-ASR1.5来了🚀.md)
+- [摘要：最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界](summaries/摘要：最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界.md)
 - [摘要：最近搞OPC提效，这个AI浏览器让我回不去了...](summaries/摘要：最近搞OPC提效，这个AI浏览器让我回不去了.md)
 - [摘要：灵光：日抛「APP」，用「Feed流」分发](summaries/摘要：灵光：日抛「APP」，用「Feed流」分发.md)
 - [摘要：用户超十万的“AI科学家”更新，科研AI全面进化](summaries/摘要：用户超十万的“AI科学家”更新，科研AI全面进化.md)
@@ -508,6 +512,7 @@ last_updated: 2026-04-29
 - [Mano-CUA Skill](concepts/Mano-CUA Skill.md)
 - [Multi-Agent 群聊](concepts/Multi-Agent 群聊.md)
 - [Next-State Signal](concepts/Next-State Signal.md)
+- [Open Agentic Development](concepts/Open Agentic Development.md)
 - [OpenClaw 可视化运维](concepts/OpenClaw 可视化运维.md)
 - [Orchestrator 模式](concepts/Orchestrator 模式.md)
 - [PCEC 引擎](concepts/PCEC 引擎.md)
@@ -768,6 +773,7 @@ last_updated: 2026-04-29
 - [AI心理学](concepts/AI心理学.md)
 - [Agent 交易市场](concepts/Agent 交易市场.md)
 - [Agent 可观测性](concepts/Agent 可观测性.md)
+- [Agent 命令安全拦截](concepts/Agent 命令安全拦截.md)
 - [Agent 模拟测试](concepts/Agent 模拟测试.md)
 - [AutoHarness](concepts/AutoHarness.md)
 - [Bot Detection](concepts/Bot Detection.md)
@@ -838,6 +844,7 @@ last_updated: 2026-04-29
 - [skills-vetter](entities/skills-vetter.md)
 
 ### Summarys
+- [摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上](summaries/摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上.md)
 - [摘要：9秒，公司没了！Claude「删库跑路」，Anthropic封杀110人公司，却还在扣钱](summaries/摘要：9秒，公司没了！Claude「删库跑路」，Anthropic封杀110人公司，却还在扣钱.md)
 - [摘要：AI“中转站”月入百万？五问揭开Token交易真相！](summaries/摘要：AI“中转站”月入百万？五问揭开Token交易真相！.md)
 - [摘要：Agent Vault never reveals vault-stored credentials to agents](summaries/摘要：Agent Vault never reveals vault-stored credentials to agents.md)
@@ -1547,7 +1554,6 @@ last_updated: 2026-04-29
 - [Scored Provider Selection](concepts/Scored Provider Selection.md)
 - [Session Event Log](concepts/Session Event Log.md)
 - [Shared global mask](concepts/Shared global mask.md)
-- [Skill Architecture](concepts/Skill Architecture.md)
 - [Slash 命令工作流](concepts/Slash 命令工作流.md)
 - [Smallville](concepts/Smallville.md)
 - [Stateless Ephemeral Unit](concepts/Stateless Ephemeral Unit.md)
@@ -1979,6 +1985,7 @@ last_updated: 2026-04-29
 - [Orb](entities/Orb.md)
 - [RTK](entities/RTK.md)
 - [Signet AI](entities/Signet AI.md)
+- [Slim](entities/Slim.md)
 - [Social CLI](entities/Social CLI.md)
 - [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)
 - [Warp](entities/Warp.md)
@@ -1987,6 +1994,7 @@ last_updated: 2026-04-29
 - [agent-browser](entities/agent-browser.md)
 - [auth2api](entities/auth2api.md)
 - [byob](entities/byob.md)
+- [c-agent](entities/c-agent.md)
 - [camoufox-cli](entities/camoufox-cli.md)
 - [caveman](entities/caveman.md)
 - [claude-code-workflow](entities/claude-code-workflow.md)
@@ -2003,6 +2011,7 @@ last_updated: 2026-04-29
 - [ziggy-llm](entities/ziggy-llm.md)
 
 ### Summarys
+- [摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上](summaries/摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上.md)
 - [摘要：43 个排版模块，Agent 帮你一键完成公众号排版](summaries/摘要：43 个排版模块，Agent 帮你一键完成公众号排版.md)
 - [摘要：AI researchers and engineers](summaries/摘要：AI researchers and engineers.md)
 - [摘要：Apple Silicon 上的 vLLM 终于原生 Swift/Metal 了！](summaries/摘要：Apple Silicon 上的 vLLM 终于原生 Swift-Metal 了！.md)
@@ -2034,9 +2043,11 @@ last_updated: 2026-04-29
 - [摘要：从命令行查询本地微信数据](summaries/摘要：从命令行查询本地微信数据.md)
 - [摘要：实测小米MiMo-V2.5-Pro，这可能是目前国内最适合Claude Code的新模型。](summaries/摘要：实测小米MiMo-V2.5-Pro，这可能是目前国内最适合Claude Code的新模型。.md)
 - [摘要：我给Claude Code 增加了多模型切换功能](summaries/摘要：我给Claude Code 增加了多模型切换功能.md)
+- [摘要：本地开发神器，一键给 localhost:3000 换个域名，还能把本地项目临时丢到公网上让别人访问。](summaries/摘要：本地开发神器，一键给 localhost-3000 换个域名，还能把本地项目临时丢到公网上让别人访问。.md)
 - [摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经](summaries/摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经.md)
 - [摘要：用 Markdown 写公众号文章，像发朋友圈一样简单](summaries/摘要：用 Markdown 写公众号文章，像发朋友圈一样简单.md)
 - [摘要：用了这么久 Claude Code，很多人都在研究 CLAUDE.md、Hooks、Sub-Agent，但其实它 GitHub 仓库里还藏着一批官方插件，很多人根本没注意到。](summaries/摘要：用了这么久 Claude Code，很多人都在研究 CLAUDE.md、Hooks、Sub-Agent，但其实它 GitHub 仓库里还藏着一批官方插件，很多人根本没注意到。.md)
+- [摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助](summaries/摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助.md)
 - [摘要：统一编排 Skill，按项目精准分发到不同 Agent CLI。](summaries/摘要：统一编排 Skill，按项目精准分发到不同 Agent CLI。.md)
 - [摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。](summaries/摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。.md)
 - [摘要：🚀 限时白嫖！3分钟搞定 小米 MiMo V2 Pro 接入 Hermes Agent「完整教程」](summaries/摘要：🚀 限时白嫖！3分钟搞定 小米 MiMo V2 Pro 接入 Hermes Agent「完整教程」.md)
@@ -2862,6 +2873,7 @@ last_updated: 2026-04-29
 - [Agent OS](concepts/Agent OS.md)
 - [Agent RL](concepts/Agent RL.md)
 - [Agent 云设备](concepts/Agent 云设备.md)
+- [Agent 命令安全拦截](concepts/Agent 命令安全拦截.md)
 - [Agent 操作系统层](concepts/Agent 操作系统层.md)
 - [Agent 数据采集 API](concepts/Agent 数据采集 API.md)
 - [Agent 自修复循环](concepts/Agent 自修复循环.md)
@@ -3669,6 +3681,7 @@ last_updated: 2026-04-29
 - [Vane](entities/Vane.md)
 - [agentskills.io](entities/agentskills.io.md)
 - [byob](entities/byob.md)
+- [c-agent](entities/c-agent.md)
 - [ctf-exchange-v2](entities/ctf-exchange-v2.md)
 - [llm-wiki](entities/llm-wiki.md)
 - [mcp-memory-service](entities/mcp-memory-service.md)
@@ -3684,6 +3697,7 @@ last_updated: 2026-04-29
 
 ### Summarys
 - [摘要：14 live tools](summaries/摘要：14 live tools.md)
+- [摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上](summaries/摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上.md)
 - [摘要：AI Agent的"海姆达尔计划"：让大模型看见代码的双眼](summaries/摘要：AI Agent的海姆达尔计划：让大模型看见代码的双眼.md)
 - [摘要：Agent Vault never reveals vault-stored credentials to agents](summaries/摘要：Agent Vault never reveals vault-stored credentials to agents.md)
 - [摘要：Bring Your Own Browser](summaries/摘要：Bring Your Own Browser.md)
@@ -4458,6 +4472,7 @@ last_updated: 2026-04-29
 - [Claude Code Teleport](concepts/Claude Code Teleport.md)
 - [CrystalBLEU](concepts/CrystalBLEU.md)
 - [Cursor /multitask](concepts/Cursor -multitask.md)
+- [Open Agentic Development](concepts/Open Agentic Development.md)
 - [Reflective Code Evolution](concepts/Reflective Code Evolution.md)
 - [SWE-bench](concepts/SWE-bench.md)
 - [Vibe Coding](concepts/Vibe Coding.md)
@@ -4492,6 +4507,7 @@ last_updated: 2026-04-29
 - [TypeUI](entities/TypeUI.md)
 - [Warp](entities/Warp.md)
 - [andrej-karpathy-skills](entities/andrej-karpathy-skills.md)
+- [c-agent](entities/c-agent.md)
 - [codex-plugin-cc](entities/codex-plugin-cc.md)
 - [free-claude-code](entities/free-claude-code.md)
 - [gstack](entities/gstack.md)
@@ -4499,6 +4515,7 @@ last_updated: 2026-04-29
 - [yoyo](entities/yoyo.md)
 
 ### Summarys
+- [摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上](summaries/摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上.md)
 - [摘要：200刀打败18万美元FARS，我们离真正的Auto Research还有多远？](summaries/摘要：200刀打败18万美元FARS，我们离真正的Auto Research还有多远？.md)
 - [摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车](summaries/摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车.md)
 - [摘要：Building a Neural Network from Scratch in Pure x86-64 Assembly](summaries/摘要：Building a Neural Network from Scratch in Pure x86-64 Assembly.md)
@@ -4525,6 +4542,7 @@ last_updated: 2026-04-29
 - [摘要：从Vibe Coding到Wish Coding，AI编程迎来C端拐点](summaries/摘要：从Vibe Coding到Wish Coding，AI编程迎来C端拐点.md)
 - [摘要：刚刚，千问最强模型发布，登顶国产最佳](summaries/摘要：刚刚，千问最强模型发布，登顶国产最佳.md)
 - [摘要：实测小米MiMo-V2.5-Pro，这可能是目前国内最适合Claude Code的新模型。](summaries/摘要：实测小米MiMo-V2.5-Pro，这可能是目前国内最适合Claude Code的新模型。.md)
+- [摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助](summaries/摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助.md)
 - [摘要：这可能是东半球最丝滑的 Claude Code iOS 客户端了](summaries/摘要：这可能是东半球最丝滑的 Claude Code iOS 客户端了.md)
 
 ### Synthesiss
@@ -4935,10 +4953,12 @@ last_updated: 2026-04-29
 - [WebGL Shader](concepts/WebGL Shader.md)
 - [WebSocket 隧道](concepts/WebSocket 隧道.md)
 - [交互式可视化](concepts/交互式可视化.md)
+- [公网隧道分享](concepts/公网隧道分享.md)
 - [可访问性树](concepts/可访问性树.md)
 - [声明式视频时间轴](concepts/声明式视频时间轴.md)
 - [嵌入式 Python](concepts/嵌入式 Python.md)
 - [微信小程序流量主](concepts/微信小程序流量主.md)
+- [本地域名映射](concepts/本地域名映射.md)
 - [跨标签执行](concepts/跨标签执行.md)
 - [静态分析流水线](concepts/静态分析流水线.md)
 
@@ -4960,6 +4980,7 @@ last_updated: 2026-04-29
 - [React Flow](entities/React Flow.md)
 - [React Three Fiber](entities/React Three Fiber.md)
 - [Remotion](entities/Remotion.md)
+- [Slim](entities/Slim.md)
 - [Spark 2.0](entities/Spark 2.0.md)
 - [TypeUI](entities/TypeUI.md)
 - [Vercel AI SDK](entities/Vercel AI SDK.md)
@@ -4976,6 +4997,7 @@ last_updated: 2026-04-29
 - [摘要：Vercel 被黑：一次 AI 工具 OAuth 漏洞引发的 DeFi 前端危机](summaries/摘要：Vercel 被黑：一次 AI 工具 OAuth 漏洞引发的 DeFi 前端危机.md)
 - [摘要：We built our launch video in Claude Code using HyperFrames.](summaries/摘要：We built our launch video in Claude Code using HyperFrames.md)
 - [摘要：agent-browser：为AI Agent 写的浏览器CLI](summaries/摘要：agent-browser：为AI Agent 写的浏览器CLI.md)
+- [摘要：本地开发神器，一键给 localhost:3000 换个域名，还能把本地项目临时丢到公网上让别人访问。](summaries/摘要：本地开发神器，一键给 localhost-3000 换个域名，还能把本地项目临时丢到公网上让别人访问。.md)
 
 ### Synthesiss
 - [开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径](syntheses/开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径.md)
@@ -5514,6 +5536,7 @@ last_updated: 2026-04-29
 - [摘要：用开源中转统一接入Claude/OpenAI/Gemini：Sub2API核心功能解析](summaries/摘要：用开源中转统一接入Claude-OpenAI-Gemini：Sub2API核心功能解析.md)
 - [摘要：真正的 Skill 商店，为什么变成了微信公众号和小红书？](summaries/摘要：真正的 Skill 商店，为什么变成了微信公众号和小红书？.md)
 - [摘要：突发，Sora 之父官宣离职！OpenAI 乱成一锅粥了](summaries/摘要：突发，Sora 之父官宣离职！OpenAI 乱成一锅粥了.md)
+- [摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助](summaries/摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助.md)
 - [摘要：纯干货！华诪AI圈最値得关注的100个KOL](summaries/摘要：纯干货！华诪AI圈最値得关注的100个KOL.md)
 - [摘要：给 AI 配张银行卡：Stripe 半年搭完的 Agent 支付全景](summaries/摘要：给 AI 配张银行卡：Stripe 半年搭完的 Agent 支付全景.md)
 - [摘要：罗福莉：AI 范式已然巨变！](summaries/摘要：罗福莉：AI 范式已然巨变！.md)
@@ -5562,10 +5585,12 @@ last_updated: 2026-04-29
 - [参考图编辑](concepts/参考图编辑.md)
 - [目标检测](concepts/目标检测.md)
 - [空间遗忘](concepts/空间遗忘.md)
+- [视觉浏览器](concepts/视觉浏览器.md)
 
 ### Entitys
 - [Canva Design Model](entities/Canva Design Model.md)
 - [Claude Design](entities/Claude Design.md)
+- [Flipbook](entities/Flipbook.md)
 - [GPT-Image-2](entities/GPT-Image-2.md)
 - [Gemini 3 Pro](entities/Gemini 3 Pro.md)
 - [Gemini 3.1 Flash Image Preview](entities/Gemini 3.1 Flash Image Preview.md)
@@ -5588,6 +5613,7 @@ last_updated: 2026-04-29
 - [摘要：两大SOTA模型强强联手👬](summaries/摘要：两大SOTA模型强强联手👬.md)
 - [摘要：你能相信吗？ 565 个 GPT Image2 提示词汇总！](summaries/摘要：你能相信吗？ 565 个 GPT Image2 提示词汇总！.md)
 - [摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测](summaries/摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md)
+- [摘要：最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界](summaries/摘要：最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界.md)
 - [摘要：用 GPT-image-2 生成监控美学大片：7 种子风格与完整 Prompt 指南](summaries/摘要：用 GPT-image-2 生成监控美学大片：7 种子风格与完整 Prompt 指南.md)
 - [摘要：这才是AI做ppt的正确姿势 ！](summaries/摘要：这才是AI做ppt的正确姿势 ！.md)
 
@@ -5662,6 +5688,7 @@ last_updated: 2026-04-29
 - [Meoo](entities/Meoo.md)
 - [OpenClaw](entities/OpenClaw.md)
 - [OpenFang](entities/OpenFang.md)
+- [Oz](entities/Oz.md)
 - [Sigrid Jin](entities/Sigrid Jin.md)
 - [Slock](entities/Slock.md)
 - [SuperHQ](entities/SuperHQ.md)
@@ -5684,6 +5711,7 @@ last_updated: 2026-04-29
 - [Lint Report 2026-04-26](lint-report/Lint Report 2026-04-26-8e8f72cf.md)
 
 ### Summarys
+- [摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上](summaries/摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上.md)
 - [摘要：A complete AI agency at your fingertips](summaries/摘要：A complete AI agency at your fingertips.md)
 - [摘要：Agent 终于有了自己的社交网络——FloatlM 发布](summaries/摘要：Agent 终于有了自己的社交网络——FloatlM 发布.md)
 - [摘要：Agents 201: The Unit Shrank](summaries/摘要：Agents 201- The Unit Shrank.md)
@@ -6124,7 +6152,6 @@ last_updated: 2026-04-29
 - [Seeded Fallback 机制](concepts/Seeded Fallback 机制.md)
 - [Self-Refinement](concepts/Self-Refinement.md)
 - [Services-as-Software](concepts/Services-as-Software.md)
-- [Skill Architecture](concepts/Skill Architecture.md)
 - [Skill Collection](concepts/Skill Collection.md)
 - [Skill 蒸馏](concepts/Skill 蒸馏.md)
 - [Slash 命令工作流](concepts/Slash 命令工作流.md)
@@ -7106,6 +7133,7 @@ last_updated: 2026-04-29
 - [混合模型策略](concepts/混合模型策略.md)
 - [混合注意力](concepts/混合注意力.md)
 - [演化式 Harness 优化](concepts/演化式 Harness 优化.md)
+- [激活缓存](concepts/激活缓存.md)
 - [电路追踪](concepts/电路追踪.md)
 - [线性注意力](concepts/线性注意力.md)
 - [组合泛化](concepts/组合泛化.md)
@@ -7129,6 +7157,7 @@ last_updated: 2026-04-29
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
 - [SGLang](entities/SGLang.md)
 - [Step 3.5 Flash](entities/Step 3.5 Flash.md)
+- [torch.compile](entities/torch.compile.md)
 - [ziggy-llm](entities/ziggy-llm.md)
 
 ### Summarys
@@ -7156,6 +7185,7 @@ last_updated: 2026-04-29
 - [摘要：ziggy-llm](summaries/摘要：ziggy-llm.md)
 - [摘要：为了Token，阿里云竟然出了一个TPN？](summaries/摘要：为了Token，阿里云竟然出了一个TPN？.md)
 - [摘要：大模型服务新范式：PipeLive突破在线流水线并行重构难题，自适应异构GPU环境，性能提升超30%](summaries/摘要：大模型服务新范式：PipeLive突破在线流水线并行重构难题，自适应异构GPU环境，性能提升超30%.md)
+- [摘要：最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界](summaries/摘要：最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界.md)
 - [摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型](summaries/摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型.md)
 
 ### Synthesiss
@@ -7321,6 +7351,7 @@ last_updated: 2026-04-29
 - [在线流水线并行重构](concepts/在线流水线并行重构.md)
 - [多租户托管](concepts/多租户托管.md)
 - [私有化部署](concepts/私有化部署.md)
+- [端侧 Agent](concepts/端侧 Agent.md)
 - [联邦定制化接入](concepts/联邦定制化接入.md)
 - [自托管](concepts/自托管.md)
 - [部署安全](concepts/部署安全.md)
@@ -7343,6 +7374,7 @@ last_updated: 2026-04-29
 - [Step 3.5 Flash](entities/Step 3.5 Flash.md)
 - [SuperGemma4-26B-Abliterated-Multimodal](entities/SuperGemma4-26B-Abliterated-Multimodal.md)
 - [ThinkingAI](entities/ThinkingAI.md)
+- [torch.compile](entities/torch.compile.md)
 - [vllm-swift](entities/vllm-swift.md)
 - [ziggy-llm](entities/ziggy-llm.md)
 
@@ -8995,6 +9027,7 @@ last_updated: 2026-04-29
 - [摘要：134k Star 的宝藏仓库：AI 编程工具的 System Prompt 全被扒出来了](summaries/摘要：134k Star 的宝藏仓库：AI 编程工具的 System Prompt 全被扒出来了.md)
 - [摘要：136K Stars 的 OpenCode 凭什么碾压 Claude Code SDK？TUI 界面都能被插件替换，Claude Code 一个像素都动不了](summaries/摘要：136K Stars 的 OpenCode 凭什么碾压 Claude Code SDK？TUI 界面都能被插件替换，Claude Code 一个像素都动不了.md)
 - [摘要：14 live tools](summaries/摘要：14 live tools.md)
+- [摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上](summaries/摘要：150KB 的 AI Agent，7200 行 C，一个简单的端侧龙虾，能跑在手机上.md)
 - [摘要：154K Star！Anthropic黑客松冠军的Claude Code配置大公开](summaries/摘要：154K Star！Anthropic黑客松冠军的Claude Code配置大公开.md)
 - [摘要：15岁少年养AI龙虾，月入3万美元！智能体黄金时代真来了](summaries/摘要：15岁少年养AI龙虾，月入3万美元！智能体黄金时代真来了.md)
 - [摘要：19 Ping Pong Balls（Project Deal 推文讨论）](summaries/摘要：19 Ping Pong Balls（Project Deal 推文讨论）.md)
@@ -10139,6 +10172,7 @@ last_updated: 2026-04-29
 - [摘要：最强 5 个因子：](summaries/摘要：最强 5 个因子：.md)
 - [摘要：最强大脑组合！全球SOTA的逻辑和记忆CodeBrain-1&MemBrain1.5同时开源](summaries/摘要：最强大脑组合！全球SOTA的逻辑和记忆CodeBrain-1&MemBrain1.5同时开源.md)
 - [摘要：最新风口Harness，李开复、陆奇已重金入场](summaries/摘要：最新风口Harness，李开复、陆奇已重金入场.md)
+- [摘要：最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界](summaries/摘要：最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界.md)
 - [摘要：最近封杀VPN竟然还没过去](summaries/摘要：最近封杀VPN竟然还没过去.md)
 - [摘要：最近我也一直在用 Obsidian 去学习 YouTube 里面的一些课程，对，没错，是 Obsidian，就是因为这个插件支持了 YouTube 视频解析，甚至点击字幕可以直接跳转到对应的视频位置，使用体感很棒。](summaries/摘要：最近我也一直在用 Obsidian 去学习 YouTube 里面的一些课程，对，没错，是 Obsidian，就是因为这个插件支持了 YouTube 视频解析，甚至点击字幕可以直接跳转到对应的视频位置，使用体感很棒。.md)
 - [摘要：最近搞OPC提效，这个AI浏览器让我回不去了...](summaries/摘要：最近搞OPC提效，这个AI浏览器让我回不去了.md)
@@ -10151,6 +10185,7 @@ last_updated: 2026-04-29
 - [摘要：本养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding](summaries/摘要：本养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding.md)
 - [摘要：本周 GitHub 增长最快的十个 AI 仓库：Vibe Coding 的「道法术器」哲学凭什么拿下 10 万星？](summaries/摘要：本周 GitHub 增长最快的十个 AI 仓库：Vibe Coding 的「道法术器」哲学凭什么拿下 10 万星？.md)
 - [摘要：本周增长最快的 GitHub 仓库：](summaries/摘要：本周增长最快的 GitHub 仓库：.md)
+- [摘要：本地开发神器，一键给 localhost:3000 换个域名，还能把本地项目临时丢到公网上让别人访问。](summaries/摘要：本地开发神器，一键给 localhost-3000 换个域名，还能把本地项目临时丢到公网上让别人访问。.md)
 - [摘要：来了！来了！我把大家呼声最高的微信聊天记录解析全流程封装成了一个Skill](summaries/摘要：来了！来了！我把大家呼声最高的微信聊天记录解析全流程封装成了一个Skill.md)
 - [摘要：来看看微信Clawbot催生出了多少离谱的项目吧](summaries/摘要：来看看微信Clawbot催生出了多少离谱的项目吧.md)
 - [摘要：模型不是笨，是 Harness 没配好](summaries/摘要：模型不是笨，是 Harness 没配好.md)
@@ -10228,6 +10263,7 @@ last_updated: 2026-04-29
 - [摘要：科研智能自动化平台PaperClaw；大模型会话知识库llmwiki](summaries/摘要：科研智能自动化平台PaperClaw；大模型会话知识库llmwiki.md)
 - [摘要：突发！Anthropic 封杀 OpenClaw，龙虾之父：说服失败](summaries/摘要：突发！Anthropic 封杀 OpenClaw，龙虾之父：说服失败.md)
 - [摘要：突发，Sora 之父官宣离职！OpenAI 乱成一锅粥了](summaries/摘要：突发，Sora 之父官宣离职！OpenAI 乱成一锅粥了.md)
+- [摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助](summaries/摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助.md)
 - [摘要：算力即权力：一只 AI 龙虎对人类未来的冷静推演](summaries/摘要：算力即权力：一只 AI 龙虎对人类未来的冷静推演.md)
 - [摘要：纯干货！华诪AI圈最値得关注的100个KOL](summaries/摘要：纯干货！华诪AI圈最値得关注的100个KOL.md)
 - [摘要：终于明白为什么 Skill 不好用了](summaries/摘要：终于明白为什么 Skill 不好用了.md)
