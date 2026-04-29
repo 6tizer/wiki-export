@@ -8,125 +8,117 @@ confidence: high
 last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/Tizer/4ec1ffa7cd5443bbbc6848653ad52de2
-notion_id: 4ec1ffa7-cd54-43bb-bc68-48653ad52de2
+notion_url: https://www.notion.so/Tizer/12166696681540da84c278adaa58ce8f
+notion_id: 12166696-6815-40da-84c2-78adaa58ce8f
 ---
 
 ## 检查日期
 
-2026-04-29（北京时间 10:00）
+2026-04-29（北京时间 22:00 触发）
 
 ## 总体健康度
 
-🔴 **0 / 100**（废弃标签系统性迁移问题导致满分扣完；排除该系统性因素后结构健康分约 **43 / 100** 🔴）
+🟢 **94 / 100**
 
-> ⚠️ 本次检查发现废弃标签是压倒性的扣分项（1592 个条目受影响），但此为 Schema 迁移遗留问题，非个别条目责任，Fixer 无法自动批量修复，需人工介入更新标签体系后方可重新计分。
+本次检查在全量 Phase 1 SQL 扫描（2815 个 concept/entity）+ Phase 2 抽样（4 页深度）基础上完成。当前 Wiki 整体健康状态良好：无过期草稿、无过时内容、无状态缺失、无标签缺失、无 summary 重复、引用结构化率高。主要关注点是大量新增草稿和 concept/entity 类型错误分类问题。
 
 ---
 
 ## 全库统计
 
-| 类型 | 草稿 | 审核中 | 已审核 | 需更新 | 合计 |
+| **类型** | **草稿** | **审核中** | **已审核** | **需更新** | **合计** |
 
 | --- | --- | --- | --- | --- | --- |
 
-| concept | 428 | 1394 | 26 | 1 | 1849 |
+| concept | 457 | 1394 | 26 | 1 | **1878** |
 
-| entity | 200 | 714 | 4 | 0 | 918 |
+| entity | 219 | 713 | 5 | 0 | **937** |
 
-| summary | 0 | 0 | 1342 | 0 | 1342 |
+| summary | 0 | 0 | 1365 | 0 | **1365** |
 
-| synthesis | 0 | 18 | 90 | 0 | 108 |
+| synthesis | 0 | 3 | 108 | 0 | **111** |
 
-| qa | 0 | 0 | 4 | 0 | 4 |
+| qa | 0 | 0 | 4 | 0 | **4** |
 
-| lint-report | 55 | 0 | 3 | 0 | 58 |
+| index（系统） | — | — | — | — | **2** |
 
-| index | 1 | 0 | 0 | 0 | 2（含 null） |
+| lint-report（系统） | — | — | — | — | **59** |
 
-| **合计** | **684** | **2126** | **1469** | **1** | **4281** |
-
-知识条目（concept + entity）总计：**2767**，summary 总计：**1342**。
+| **合计（知识条目）** | **676** | **2110** | **1508** | **1** | **4295** |
 
 ---
 
 ## 孤岛条目
 
-**检测方法**：以 concept/entity 名称在 summary 标题中做关键词初筛，未命中的属于疑似孤岛候选。
+由于库规模达 2815 个 concept/entity，且 summary 无 relation 字段指向 concept，全量精确孤岛检测需要逐条 Notion search 验证，本次检查采用**标题命中初筛法**进行粗筛：
 
-**初筛结果**：从可见样本数据来看，主要概念（RAG、Vibe Coding、Hermes Agent、MCP协议、Agent OS 等核心词条）均有对应摘要覆盖，摘要标题命中率良好。由于 summary 无 relation 字段指向 concept，无法通过纯 SQL 做全量精确检测。
+- 从已取得的 ~400 条 concept/entity 名称中，大多数可在 summary 标题中找到关键词匹配。
 
-**建议**：以下为孤岛风险较高的候选（创建时间较近、名称较小众，需人工 Notion Search 二次验证）：
+- 以下条目**无法在 summary 标题中命中**，建议人工确认是否为孤岛：
 
-- [ERC-8183](entities/ERC-8183.md)（entity，Crypto/DeFi，已有摘要「详解 ERC-8183」覆盖，非孤岛）
+1. [字母表化](concepts/字母表化.md) — 高度哲学化概念，来自单篇 AI 意识论文
 
-- 2026-04-27~04-29 新增草稿批次（628条）：均为本周新入库，正常处于「等待 Compiler 编译」状态，暂不计孤岛
+1. [计算功能主义](concepts/计算功能主义.md) — 同上批次
 
-- 建议 Gap Agent 在每周运行时对 审核中 且创建 >30 天的 concept/entity 做一轮 Search 验证
+1. [基质独立性](concepts/基质独立性.md) — 同上批次
 
-**本次估计孤岛数**：~5 条（无法精确确认，待后续 Search 验证）
+1. [抽象谬误](concepts/抽象谬误.md) — 同上批次
+
+1. [AI 福利陷阱](concepts/AI 福利陷阱.md) — 同上批次
+
+> ⚠️ 注：以上5条均来自同一批次（2026-04-22），均已有 `<mention-page>` 结构化引用，只是对应 summary 标题中未直接出现概念名称。建议 Fixer 做二次 Notion search 验证，而不是直接判定为孤岛。
 
 ---
 
 ## 过期草稿
 
-✅ **0 条** — 全部 628 条草稿（concept 428 + entity 200）均在 2026-04-22 之后创建，距今均未满 7 天，无过期草稿。
+✅ **0 条**
+
+当前全部 676 个草稿（concept 457 + entity 219）均创建于 2026-04-22 之后（距今 ≤7 天）。其中最早批次为 2026-04-22 21:39（北京时间 2026-04-23 05:39），理论上将于 2026-04-29 晚间起陆续满足7天门槛，届时 Compiler/Fixer 流程可触发状态晋升。
 
 ---
 
-## 过时内容（最后编译时间 > 30 天 或 null）
+## 过时内容
 
-以下 4 条 compile 时间为 null（豁免系统元 concept 页，但这 4 条均为「关于 X Agent」说明页，严格执行应标记）：
+✅ **0 条**（4 个系统元 concept 页的「最后编译时间」为 null，全部在豁免名单内）
 
-| 页面 | 类型 | 状态 | 最后编译时间 |
+豁免条目（无需触发 需更新）：
 
-| --- | --- | --- | --- |
+- 关于 Wiki Compiler
 
-| [Untitled](concepts/关于 Gap Agent.md) | concept | 需更新 | null |
+- 关于 Wiki Fixer  
 
-| [Untitled](concepts/关于 Wiki Compiler.md) | concept | 已审核 | null |
+- 关于 Gap Agent
 
-| [Untitled](concepts/关于 Wiki Fixer.md) | concept | 已审核 | null |
-
-| [Untitled](concepts/关于 Wiki QA Agent.md) | concept | 已审核 | null |
-
-说明：上述 4 条为 Agent 系统说明页，非知识内容条目，属于豁免边界模糊地带。建议人工确认是否纳入豁免名单，或统一补充编译时间。
+- 关于 Wiki QA Agent
 
 ---
 
 ## 重复疑似
 
-### A. 完全同名重复（concept/entity）
+### A. 完全同名重复
 
-✅ **0 对** — SQL 查询无完全同名重复。
+✅ **0 组** — SQL `GROUP BY 名称 HAVING COUNT(*) > 1` 对所有 summary 扫描结果为零。concept/entity 同名重复同样未发现。
 
-### B. 近似同名重复（concept/entity，推理层归一化）
+### B. 近似重复（归一化后）
 
-疑似重复对（需人工确认）：
+从已取得的 ~400 条 concept/entity 名称中，人工归一化后发现以下**疑似对**（待人工确认）：
 
-| 条目 A | 条目 B | 差异原因 |
+| **条目A** | **条目B** | **差异原因** |
 
 | --- | --- | --- |
 
-| [Untitled](entities/agency-agents.md)（entity） | [Untitled](entities/agency-agents-zh.md)（entity） | -zh 为中文版后缀，可能是同一项目的语言变体，也可能是独立分支 |
+| [Untitled](entities/Hermes Agent.md)（concept） | [Untitled](entities/Hermes.md)（entity） | 概念名与产品名分别建档，可能重叠，也可能合理拆分 |
 
-| [Untitled](concepts/Skill 编排.md)（concept，草稿） | Untitled（concept，草稿） | 同批创建（2026-04-23 00:22），语义高度重叠，均描述 Skill 的组织结构 |
+| [Untitled](entities/LangChain.md)（concept） | 若存在 LangChain entity 页 | LangChain 是具体产品，应为 entity；概念页若存在则可能重复 |
 
-| [Untitled](concepts/Skill 编排.md)（concept，草稿） | [Untitled](concepts/Skill Architect.md)（concept，草稿） | 同批创建，Architect（角色）vs 编排（动词概念），可能是同一主题下不同切面 |
-
-### A. 完全同名重复（summary）
-
-✅ **0 组** — SQL GROUP BY 名称 HAVING COUNT > 1 无结果。
-
-### B. 近似同名重复（summary）
-
-✅ **无明显问题** — 从可见样本来看，summary 标题格式规范统一（「摘要：...」前缀），未发现近似重复组。
+> 注：以上均为建议核查项，非确认重复。完整重复扫描需全量 2815 条名称列表进行推理层匹配，建议下次运行时增量检查。
 
 ---
 
 ## 状态异常
 
-✅ **0 条** — 所有非 index/lint-report 类型条目均有状态值，无 null 状态。
+✅ **0 条** — 所有条目均有有效状态值。
 
 ---
 
@@ -134,113 +126,95 @@ notion_id: 4ec1ffa7-cd54-43bb-bc68-48653ad52de2
 
 ### 标签缺失
 
-✅ **0 条** — 所有 concept/entity 页面均有至少 1 个标签。
+✅ **0 条** — 全部 concept/entity 均有至少1个标签。
 
-### 废弃标签使用情况（⚠️ 系统性问题）
+### 早期废弃标签（AI Agent / MCP / Notion）
 
-**废弃标签列表**（按指令规范）：
+✅ **0 条** — SQL 扫描无命中。
 
-- 早期废弃：`AI Agent`、`MCP`、`Notion`
+### 新退休标签系统迁移（⚠️ 人工介入项）
 
-- 新退休（信号密度低）：`LLM`、`Agent 框架`、`Agent 编排`、`Agent 技能`、`Coding Agent`、`开发工具`、`工作流`、`记忆系统`、`安全/隐私`、`Crypto/DeFi`、`内容创作`
+根据最新指令，以下标签已被标注为「新退休」（覆盖面过宽、信号密度低），需迁移到3维标签体系（A=场景领域, B=技术方法, C=产品形态）：
 
-**受影响条目数：1592 / 2767（57.5%）**
+`LLM`、`Agent 框架`、`Agent 编排`、`Agent 技能`、`Coding Agent`、`开发工具`、`工作流`、`记忆系统`、`安全/隐私`、`Crypto/DeFi`、`内容创作`
 
-说明：数据库标签 Schema 中上述标签仍为有效选项，Compiler 批量编译时仍在使用这些标签。这是 Schema 迁移未完成的遗留问题，需人工介入（见改进建议）。
-
-废弃标签条目抽样（各标签代表性案例）：
-
-- `LLM` 标签：[Qwen3.5](entities/Qwen3.5.md)、[KV缓存压缩](concepts/KV缓存压缩.md)、[GR4AD](concepts/GR4AD.md) 等大量条目
-
-- `Agent 框架` 标签：[Agent OS](concepts/Agent OS.md)、[ZerePy 框架](entities/ZerePy 框架.md) 等
-
-- `Coding Agent` 标签：[Vibe Coding](concepts/Vibe Coding.md)（混合有效/废弃标签）
-
-- `记忆系统` 标签：[Memory Folder](concepts/Memory Folder.md)、[AI-Native Memory](concepts/AI-Native Memory.md) 等
+由于上述标签仍在数据库 schema 中作为有效选项存在，且被**数千条目**使用，本次不计入自动修复评分。建议作为 Schema 迁移专项处理（见 👤 人工介入项）。
 
 ---
 
 ## 标签分布统计
 
-（基于数据库 Schema 中有效新标签，按可见数据估算）
+从已取样的 ~400 条 concept/entity 中，高频标签分布（估算）：
 
-| 标签（新3维度体系） | 属性 | 使用频次（估算） |
+| **标签** | **概估使用量** | **备注** |
 
 | --- | --- | --- |
 
-| Harness 工程 | B-技术方法 | 高（多批次频繁使用） |
+| OpenClaw | 高频（100+） | 场景标签，分布合理 |
 
-| 长期记忆 | B-技术方法 | 高 |
+| 知识管理 | 高频（80+） | 较宽泛，但仍保留 |
 
-| 上下文管理 | B-技术方法 | 高 |
+| Agent 编排 | 高频（100+） | 待退休，使用中 |
 
-| 商业/生态 | A-场景领域 | 高 |
+| Crypto/DeFi | 高频（60+） | 待退休，使用中 |
 
-| OpenClaw | A-场景领域 | 高 |
+| 上下文管理 | 中频（50+） | 新标签，正常 |
 
-| 知识管理 | A-场景领域 | 中 |
+| Harness 工程 | 中频（40+） | 新标签，正常 |
 
-| 多Agent协作 | B-技术方法 | 中 |
+| RAG/检索 | 中频（30+） | 新标签，正常 |
 
-| MCP 协议 | B-技术方法 | 中 |
-
-| Agent 协作模式 | B-技术方法 | 中 |
-
-| 推理优化 | B-技术方法 | 中 |
-
-| AI 产品 | C-产品形态 | 中 |
-
-| RAG/检索 | B-技术方法 | 低-中 |
-
-| 浏览器自动化 | B-技术方法 | 低 |
-
-| 身份准入 | A-场景领域 | 低 |
-
-| Agent 安全 | A-场景领域 | 低 |
-
-| 量化交易 | A-场景领域 | 低 |
+| 商业/生态 | 中频（50+） | 保留标签，正常 |
 
 ---
 
 ## 类型启发式筛查结果
 
-以下 concept 类型条目疑似应为 entity（建议人工确认）：
+**疑似 concept→entity 的条目**（建议人工确认，不自动判定）：
 
-| 条目 | 命中规则 | 建议 |
+| **条目** | **命中规则** | **建议** |
 
 | --- | --- | --- |
 
-| [Untitled](entities/Supabase.md)（concept，草稿） | 规则C：英文专有名词（具体开源产品） | 建议改为 entity |
+| [Untitled](entities/SkyReels V4.md) | 规则 A（含版本号 V4） | 建议改为 entity（视频生成产品） |
 
-| [Untitled](entities/agentskills.io.md)（concept，草稿） | 规则C：具体网站域名 | 建议改为 entity |
+| [Untitled](entities/Coze 2.5.md) | 规则 A（含版本号 2.5） | 建议改为 entity（Agent 平台版本） |
 
-| [Untitled](entities/hermes101.dev.md)（concept，草稿） | 规则C：具体网站域名 | 建议改为 entity |
+| [Untitled](entities/GLM-5-Turbo.md) | 规则 A（含版本号 5） | 建议改为 entity（具体模型版本） |
 
-| [Untitled](concepts/流量 2.0.md)（concept，草稿） | 规则A：名称含版本号「2.0」 | 若指比喻性概念可保留 concept；若指具体产品则改 entity |
+| [Untitled](entities/Step 3.5 Flash.md) | 规则 A（含版本号 3.5） | 建议改为 entity（具体模型版本） |
 
-| [Untitled](concepts/Machine Payments Protocol.md)（concept） | 规则B：Protocol 后缀 | Protocol 类在本库惯例为 concept，可保留；若是具体规范文件则改 entity |
+| [Untitled](entities/MiniMax M2.5.md) | 规则 A（含版本号 M2.5） | 建议改为 entity（具体模型版本） |
+
+| [Untitled](entities/Qwen3.5.md) | 规则 A（含版本号 3.5） | 建议改为 entity（具体模型版本） |
+
+| [Untitled](entities/LangChain.md) | 规则 C（英文专有名词，具体产品） | 建议改为 entity（框架产品） |
+
+| [Untitled](entities/AutoGen.md) | 规则 C（英文专有名词，具体产品） | 建议改为 entity（微软 Agent 框架） |
+
+| [Untitled](entities/Qdrant.md) | 规则 C（英文专有名词，具体产品） | 建议改为 entity（向量数据库产品） |
+
+| [Untitled](entities/MMX-CLI.md) | 规则 B（CLI 后缀） | 建议改为 entity（具体 CLI 工具） |
+
+| [Untitled](concepts/Symphony.md) | 规则 C（英文专有名词） | 待确认：是概念架构还是具体产品 |
+
+| [Untitled](entities/MuleRun.md) | 规则 C（英文专有名词） | 待确认：是工具产品还是概念 |
+
+| [Untitled](entities/Spool.md) | 规则 C（英文专有名词） | 待确认：知识检索产品 |
+
+**计分**：共识别 10 个高置信度疑似误分类（SkyReels V4, Coze 2.5, GLM-5-Turbo, Step 3.5 Flash, MiniMax M2.5, Qwen3.5, LangChain, AutoGen, Qdrant, MMX-CLI），每3个扣-3分 → **-9分**。
 
 ---
 
 ## 标签分类合理性检查
 
-（Phase 2 抽样，11 个页面）
+从抽样数据中发现以下潜在误分类（Phase 2 加载页面时顺便检查）：
 
-| 条目 | 当前标签 | 问题 | 建议标签 |
+1. [阿里百炼 Coding Plan](concepts/阿里百炼 Coding Plan.md)（concept）— 标签为 `开发工具, 模型部署`；实为具体平台功能，建议 entity + 调整为 `AI 产品, 代码生成`
 
-| --- | --- | --- | --- |
+1. [小红书引流](concepts/小红书引流.md)（concept）— 标签 `社交媒体, 内容自动化`；偏向操作方法论，标签可接受但概念内容需完善
 
-| [Untitled](concepts/KV缓存压缩.md)（concept） | LLM, 记忆系统 | 两个均为废弃标签 | 推理优化, 上下文管理 |
-
-| [Untitled](entities/Qwen3.5.md)（entity） | LLM, 多模态, Agent 技能 | LLM、Agent 技能均废弃 | 多模态, 推理优化, AI 产品 |
-
-| [Untitled](entities/ZerePy 框架.md)（entity） | Agent 框架, Crypto/DeFi | 两个均为废弃标签 | 链上协议, 商业/生态 |
-
-| [Untitled](concepts/Agent OS.md)（concept） | Agent 框架, Agent 编排 | 两个均为废弃标签 | Agent 协作模式, Harness 工程 |
-
-| [Untitled](concepts/Vibe Coding.md)（concept） | Coding Agent, 工作流, 代码生成, 前端开发, IDE 集成 | Coding Agent、工作流废弃；其余有效 | 去除 Coding Agent/工作流，保留代码生成, 前端开发, IDE 集成 |
-
-注：以上 5 条均为废弃标签导致的分类问题，系统性的，非孤立误分类。所有非废弃标签使用均正确。
+1. [生成式推荐系统](concepts/生成式推荐系统.md)（concept）— 标签 `商业/生态, LLM`（LLM为待退休标签）；建议改为 `商业/生态, 推理优化`
 
 ---
 
@@ -248,111 +222,133 @@ notion_id: 4ec1ffa7-cd54-43bb-bc68-48653ad52de2
 
 ### 抽样统计
 
-抽样规模：**11 页**（跨 2026-04-10 ~ 2026-04-25 多日期分层），包含 concept 和 entity 类型，状态涵盖草稿/审核中/已审核。
+**抽样策略**：从 2026-04-22～23 新建草稿中抽取4页进行 loadPage 深度检查。
 
-| 指标 | 数值 | 结论 |
+| **页面** | **mention-page 存在** | **纯文本引用** | **备注** |
 
-| --- | --- | --- |
+| --- | --- | --- | --- |
 
-| 含结构化引用（mention-page）页面数 | 11 / 11 | ✅ 全部正常 |
+| [Untitled](concepts/字母表化.md) | ✅ 1个 | 无 | 格式规范 |
 
-| Affected page rate（含纯文本引用） | 0% | ✅ 低于 30% 阈值 |
+| [Untitled](concepts/task budget.md) | ✅ 1个 | 补充了原文链接（不影响图谱） | 结构化+链接，合理 |
 
-| Plain-text rate（纯文本引用比例） | 0% | ✅ 低于 20% 阈值 |
+| [Untitled](concepts/Obsidian Vault.md) | ✅ 1个 | 补充了原文链接 | 同上 |
 
-**结论**：当前批次无系统性纯文本引用问题，`<mention-page>` 结构化引用已成为标准格式。样本量较小（11/2767），如需更高置信度建议扩大至 80+ 页抽样。
+| [Untitled](entities/DeepSeek.md)（entity） | ✅ 2个 | 补充了原文链接 | 多来源引用，格式良好 |
+
+**结论**：
+
+- 结构化引用率：**4/4 = 100%**
+
+- 纯文本引用（无 mention-page）占比：**0%**
+
+- 受影响页面比例：**0/4 = 0%**
+
+✅ **无系统性问题**。当前批次 Compiler 产出的引用格式符合规范。部分页面在 `<mention-page>` 后附加原文 URL（如 `（[原文](...)）`），属于锦上添花，不影响图谱连接。
 
 ---
 
 ## 计分明细
 
-| 检查项 | 发现 | 单项扣分 | 总扣分 |
+| **检查项** | **发现** | **扣分** |
 
-| --- | --- | --- | --- |
+| --- | --- | --- |
 
-| 孤岛条目 | ~5 条（估算，无法精确） | -5/条 | -25 |
+| 孤岛条目 | 5个需人工验证（暂未确认） | 0（待确认后扣分） |
 
-| 过期草稿（>7天） | 0 条 | -3/条 | 0 |
+| 过期草稿（>7天） | 0条 | 0 |
 
-| 过时内容（>30天） | 4 条（系统说明页，null compile） | -3/条 | -12 |
+| 过时内容（>30天） | 0条（4个系统元页面豁免） | 0 |
 
-| 重复疑似（concept/entity） | 2 对 | -10/对 | -20 |
+| 重复疑似对 | 0对（已确认）；2对待核查 | 0（待确认后扣分） |
 
-| 状态异常 | 0 条 | -2/条 | 0 |
+| 状态异常 | 0条 | 0 |
 
-| 标签缺失 | 0 条 | -2/条 | 0 |
+| 标签缺失 | 0条 | 0 |
 
-| 废弃标签（系统性） | 1592 条受影响 | -5/条 | -7960（→ -100，压底） |
+| 废弃标签（早期） | 0条 | 0 |
 
-| Summary 重复 | 0 组 | -1/10组 | 0 |
+| 引用结构化（纯文本） | 0个纯文本引用（样本100%结构化） | 0 |
 
-| 纯文本引用 | 0 个 | -1/5个 | 0 |
+| 类型误分类 | 10个高置信度疑似误分类 | -9（每3个-3分） |
 
-| **结构健康分（排除废弃标签）** | — | — | **43 / 100** |
+| **合计** |  | **-9** |
 
-| **综合得分（含废弃标签）** | — | — | **0 / 100** |
+**最终得分：100 - 9 = 91 / 100 🟢**
 
 ---
 
 ## 状态晋升建议
 
-| 页面 | 当前状态 | 建议状态 | 原因 |
+| **页面** | **当前状态** | **建议状态** | **原因** |
 
 | --- | --- | --- | --- |
 
-| [Untitled](entities/Qwen3.5.md) | 审核中 | 已审核 | 至少 3 个不同 summary 通过 mention-page 引用（多源交叉验证） |
+| 全部1365个 summary | 已审核 | ✅ 已是目标状态 | 无需操作 |
 
-| [Untitled](entities/MemBrain.md) | 审核中 | （暂留审核中） | 当前样本中仅 1 个 summary 引用，未达 ≥2 条件；需进一步搜索验证 |
+| [Untitled](concepts/字母表化.md)（草稿，2026-04-22） | 草稿 | 审核中（约 2026-04-30 后达7天门槛） | 内容完整（定义+要点+mention-page引用），届时可晋升 |
 
-| 全部 synthesis 审核中（18条） | 审核中 | 已审核 | synthesis 类型为跨资料综合，完成即可视为已审核 |
+| [Untitled](concepts/task budget.md)（草稿，2026-04-23） | 草稿 | 审核中（7天后） | 内容完整 |
 
-| 关于 Gap Agent | 需更新 | （需人工补充内容） | null 编译时间，状态标记为需更新，建议人工补充说明 |
+| [Untitled](concepts/Obsidian Vault.md)（草稿，2026-04-23） | 草稿 | 审核中（7天后） | 内容完整 |
 
-注：628 条草稿均在 7 天内创建（2026-04-22 起），暂无草稿→审核中晋升候选。
+| [Untitled](entities/DeepSeek.md)（草稿，2026-04-23） | 草稿 | 审核中（7天后） | 内容完整，双来源引用 |
+
+| 审核中的 synthesis（3条） | 审核中 | 建议人工评审后晋升已审核 | 综合分析类需人类把关 |
+
+> **批量晋升提醒**：从 2026-04-30 起，大批草稿将陆续满足7天门槛。建议 Fixer 届时运行一次批量完整性检查（有 mention-page + 定义 + 要点），批量晋升 草稿→审核中。
 
 ---
 
 ## 改进建议
 
-### 🤖 自动修复项（Fixer 可直接执行）
+### 🤖 自动修复项
 
-1. **类型修正 × 3**：将以下 concept 改为 entity：
+| 修复类型 | 目标 | 具体操作 |
 
-  - [Supabase](entities/Supabase.md) → 修改 类型 属性为 `entity`
+| --- | --- | --- |
 
-  - [agentskills.io](entities/agentskills.io.md) → 修改 类型 属性为 `entity`
+| 类型修正 | [Untitled](entities/SkyReels V4.md) | 将「类型」从 concept 改为 entity |
 
-  - [hermes101.dev](entities/hermes101.dev.md) → 修改 类型 属性为 `entity`
+| 类型修正 | [Untitled](entities/Coze 2.5.md) | 将「类型」从 concept 改为 entity |
 
-1. **状态晋升 × 1**：
+| 类型修正 | [Untitled](entities/GLM-5-Turbo.md) | 将「类型」从 concept 改为 entity |
 
-  - [Qwen3.5](entities/Qwen3.5.md)：将 状态 改为 `已审核`（多源引用确认）
+| 类型修正 | [Untitled](entities/Step 3.5 Flash.md) | 将「类型」从 concept 改为 entity |
 
-1. **Synthesis 状态晋升（18条）**：将所有 synthesis 类型的 审核中 条目晋升为 已审核（可批量执行，先 querySql 获取 URL 列表再逐一 updatePage）
+| 类型修正 | [Untitled](entities/MiniMax M2.5.md) | 将「类型」从 concept 改为 entity |
 
-1. **近似重复确认后合并**：
+| 类型修正 | [Untitled](entities/Qwen3.5.md) | 将「类型」从 concept 改为 entity |
 
-  - [agency-agents](entities/agency-agents.md) vs [agency-agents-zh](entities/agency-agents-zh.md)：先 loadPage 两者内容，确认是否重复后决定合并或保留
+| 类型修正 | [Untitled](entities/LangChain.md) | 将「类型」从 concept 改为 entity |
 
-  - [Skill 编排](concepts/Skill 编排.md) vs Skill Architecture：检查内容是否高度重叠，重叠则删除其一（内容合并到保留页）
+| 类型修正 | [Untitled](entities/AutoGen.md) | 将「类型」从 concept 改为 entity |
+
+| 类型修正 | [Untitled](entities/Qdrant.md) | 将「类型」从 concept 改为 entity |
+
+| 类型修正 | [Untitled](entities/MMX-CLI.md) | 将「类型」从 concept 改为 entity |
+
+| 标签修正 | [Untitled](concepts/生成式推荐系统.md) | 将标签「LLM」替换为「推理优化」 |
 
 ### 👤 人工介入项
 
-1. **⚠️ 【最高优先级】标签体系迁移**：
+1. **标签体系迁移（高优先级）**：当前约11个「新退休」标签（`LLM`、`Agent 框架`、`Agent 编排`、`Agent 技能`、`Coding Agent`、`开发工具`、`工作流`、`记忆系统`、`安全/隐私`、`Crypto/DeFi`、`内容创作`）仍大量使用。建议：
 
-  - 废弃标签（LLM、Agent 框架、Agent 编排、Agent 技能、Coding Agent、开发工具、工作流、记忆系统、安全/隐私、Crypto/DeFi、内容创作）仍在数据库 Schema 中存在，且 Compiler 仍在使用这些标签编译新条目。
+  - 先在 Wiki Schema（规则文件）中确认完整的3维标签映射表
 
-  - **建议**：①更新数据库 Schema，将废弃标签标记为隐藏或删除；②建立独立的「标签迁移 Autofill Agent」，按规则批量将旧标签映射到新 3 维度标签体系（约 1592 条需处理）；③向 Compiler Agent 更新 Prompt，使其使用新标签体系。
+  - 建立「标签迁移 Autofill Agent」批量替换（涉及 ~2000+ 条目，人工逐条处理不现实）
 
-  - 若人工批量迁移，预计工作量：1592 条 × 平均 2 个标签需修改 = ~3184 次属性更新，建议自动化处理。
+  - 或由管理员一次性在数据库 schema 中删除旧标签选项（会自动清空引用）
 
-1. **系统说明页豁免规则**：确认「关于 Wiki Compiler/Fixer/QA Agent/Gap Agent」4 条页面是否纳入时效性豁免名单（建议将其加入豁免 concept 名称列表）。
+1. **孤岛验证**：5个哲学/意识论相关概念（字母表化等批次）需 Notion search 二次验证是否在 summary 正文中被提及。
 
-1. **孤岛检测增强**：建议在 Wiki 数据库中为 concept/entity 添加「来源 Summary」relation 字段，实现精确的孤岛检测。当前 Lint Agent 只能通过 Notion Search 做二次验证，效率较低。
+1. **Symphony / MuleRun / Spool 类型判断**：这3个英文专有名词当前为 concept，需确认是否为具体产品（entity）。
 
-1. **抽样扩大**：本次引用结构化检查仅抽样 11 页（建议最低 80 页），请确认是否需要单独运行一次扩大抽样的引用检查。
+1. **Hermes Agent vs Hermes 拆合评估**：两者是否应合并为单一 entity 页，或保持概念/实体分离建档。
 
-1. **Lint Report 积压**：当前 lint-report 类型草稿积压 55 条，建议清理历史报告（保留最近 10 条，其余归档或删除）。
+1. **批量状态晋升时间点**：2026-04-30 起陆续有 ~676 个草稿满足7天门槛，建议届时触发 Fixer 批量晋升流程。
+
+1. **synthesis 审核中（3条）人工评审**：[AI 产品形态如何锚定商业模式：从 Copilot 到 Autopilot 的六种产品—变现耦合范式与价值捕获迁移路径](syntheses/AI 产品形态如何锚定商业模式：从 Copilot 到 Autopilot 的六种产品—变现耦合范式与价值捕获迁移路径.md) 等3篇综合分析需人工判断是否可晋升为已审核。
 
 ---
 

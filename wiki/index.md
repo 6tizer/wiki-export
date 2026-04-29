@@ -1,14 +1,14 @@
 ---
 type: index
-type_counts: {"concept": 1878, "summary": 1370, "synthesis": 111, "entity": 937, "index": 3, "lint-report": 59, "qa": 4}
-total: 4362
-last_updated: 2026-04-29
+type_counts: {"concept": 1878, "summary": 1370, "synthesis": 111, "entity": 937, "index": 3, "lint-report": 60, "qa": 4}
+total: 4363
+last_updated: 2026-04-30
 ---
 
 # 📚 知识 Wiki Index
 
-> 1878 concepts · 937 entitys · 3 indexs · 59 lint-reports · 4 qas · 1370 summarys · 111 synthesiss
-> 导出时间: 2026-04-29
+> 1878 concepts · 937 entitys · 3 indexs · 60 lint-reports · 4 qas · 1370 summarys · 111 synthesiss
+> 导出时间: 2026-04-30
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
@@ -3321,7 +3321,6 @@ last_updated: 2026-04-29
 - [点位定位](concepts/点位定位.md)
 - [照片真实感](concepts/照片真实感.md)
 - [生成-自评能力差距](concepts/生成-自评能力差距.md)
-- [生成式推荐系统](concepts/生成式推荐系统.md)
 - [监督微调](concepts/监督微调.md)
 - [知识操作](concepts/知识操作.md)
 - [稀疏注意力](concepts/稀疏注意力.md)
@@ -7231,6 +7230,7 @@ last_updated: 2026-04-29
 - [混合注意力](concepts/混合注意力.md)
 - [演化式 Harness 优化](concepts/演化式 Harness 优化.md)
 - [激活缓存](concepts/激活缓存.md)
+- [生成式推荐系统](concepts/生成式推荐系统.md)
 - [电路追踪](concepts/电路追踪.md)
 - [线性注意力](concepts/线性注意力.md)
 - [组合泛化](concepts/组合泛化.md)
@@ -8032,6 +8032,7 @@ last_updated: 2026-04-29
 - [Lint Report 2026-04-28](lint-report/Lint Report 2026-04-28.md)
 - [Lint Report 2026-04-28](lint-report/Lint Report 2026-04-28-d209b26a.md)
 - [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29.md)
+- [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29-4ec1ffa7.md)
 
 ### Qas
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
@@ -9140,6 +9141,7 @@ last_updated: 2026-04-29
 - [Lint Report 2026-04-28](lint-report/Lint Report 2026-04-28.md)
 - [Lint Report 2026-04-28](lint-report/Lint Report 2026-04-28-d209b26a.md)
 - [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29.md)
+- [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29-4ec1ffa7.md)
 ## Qas（所有qa）
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
 - [QA：Wiki Agent 集群有哪些角色？职责边界是什么？](qa/QA：Wiki Agent 集群有哪些角色？职责边界是什么？.md)
