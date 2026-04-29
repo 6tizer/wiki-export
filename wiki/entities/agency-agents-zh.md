@@ -2,7 +2,7 @@
 title: agency-agents-zh
 type: entity
 tags:
-- Agent 框架
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

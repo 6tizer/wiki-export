@@ -2,12 +2,12 @@
 title: Qwen3.5
 type: entity
 tags:
-- LLM
 - 多模态
-- Agent 技能
-status: 审核中
+- 推理优化
+- AI 产品
+status: 已审核
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/9ca4df1f0e36481893c1234787ee2fa0

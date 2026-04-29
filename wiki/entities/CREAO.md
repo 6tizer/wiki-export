@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4db364416ea040bfa57deebceaf7f657
+notion_url: https://www.notion.so/Tizer/4db364416ea040bfa57deebceaf7f657
 notion_id: 4db36441-6ea0-40bf-a57d-eebceaf7f657
 ---
 
@@ -36,6 +36,8 @@ CREAO 是文中案例所在的 Agent 平台，也是作者用来实践 AI-first 
 - [原文链接](https://x.com/CreaoAI/status/2044391152586207272)｜X书签文章：CREAO Pioneer Program：AI Agent 时代的「先锋计划」
 
 - [摘要：2026 年了，我发现我不用自己刷 X 了。](summaries/摘要：2026 年了，我发现我不用自己刷 X 了。.md)（[原文](https://x.com/yanhua1010/status/2046907292566905248)）
+
+- [摘要：The Self-Healing Agent Harness](summaries/摘要：The Self-Healing Agent Harness.md)（[原文](https://x.com/intuitiveml/status/2048912026018484317)）
 
 - [官网](https://creao.ai/)
 

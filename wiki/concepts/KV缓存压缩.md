@@ -2,8 +2,8 @@
 title: KV缓存压缩
 type: concept
 tags:
-- LLM
-- 记忆系统
+- 推理优化
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-29'

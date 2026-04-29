@@ -210,3 +210,5 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - [摘要：Design principles for building an Agent harness](summaries/摘要：Design principles for building an Agent harness.md)（[原文](https://x.com/akshay_pachaar/status/2047671145475068038)）
 
 - [摘要：Introducing "create-agent-tui"](summaries/摘要：Introducing create-agent-tui.md)（[原文](https://x.com/OpenRouter/status/2047701992798392484)）
+
+- [摘要：The Self-Healing Agent Harness](summaries/摘要：The Self-Healing Agent Harness.md)（[原文](https://x.com/intuitiveml/status/2048912026018484317)）

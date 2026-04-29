@@ -2,14 +2,12 @@
 title: Vibe Coding
 type: concept
 tags:
-- Coding Agent
-- 工作流
 - 代码生成
 - 前端开发
 - IDE 集成
 status: 已审核
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/cf5d62b518344617b2248e1fd8765f8b

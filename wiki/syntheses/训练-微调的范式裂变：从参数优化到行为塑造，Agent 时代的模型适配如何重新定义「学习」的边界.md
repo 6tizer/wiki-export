@@ -3,12 +3,12 @@ title: 训练/微调的范式裂变：从参数优化到行为塑造，Agent 时
 type: synthesis
 tags:
 - 训练/微调
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ddb6d2af91424c628a732ce0d1b8b1ba
+notion_url: https://www.notion.so/Tizer/ddb6d2af91424c628a732ce0d1b8b1ba
 notion_id: ddb6d2af-9142-4c62-8a73-2ce0d1b8b1ba
 ---
 

@@ -2,8 +2,8 @@
 title: ZerePy 框架
 type: entity
 tags:
-- Agent 框架
-- Crypto/DeFi
+- 链上协议
+- 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-29'

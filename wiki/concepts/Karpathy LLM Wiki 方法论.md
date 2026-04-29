@@ -269,3 +269,5 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 - [摘要：How to Give Claude Perfect Memory (complete guide)](summaries/摘要：How to Give Claude Perfect Memory (complete guide).md)（[原文](https://x.com/aiedge_/status/2046966170868486512)）
 
 - [摘要：Personal Agent](summaries/摘要：Personal Agent.md)（[原文](https://x.com/trashpandaemoji/status/2048026069375029267)）
+
+- [摘要：Why Karpathy's Second Brain Breaks at Agent Scale. How Mercury Solves It.](summaries/摘要：Why Karpathy's Second Brain Breaks at Agent Scale. How Mercury Solves It.md)（[原文](https://x.com/Ctrl_Alt_Zaid/status/2049082538686382397)）

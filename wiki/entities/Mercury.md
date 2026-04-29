@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6483e3b3316c4a0da176aebd11365630
+notion_url: https://www.notion.so/Tizer/6483e3b3316c4a0da176aebd11365630
 notion_id: 6483e3b3-316c-4a0d-a176-aebd11365630
 ---
 
@@ -33,8 +33,16 @@ Mercury 是 Cosmic Stack 推出的本地 AI Agent / CLI 框架，主打权限硬
 
 - [摘要：Mercury: The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real](summaries/摘要：Mercury- The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real.md)（[原文](https://x.com/Ctrl_Alt_Zaid/status/2046902326657749114)）
 
+- [摘要：Why Karpathy's Second Brain Breaks at Agent Scale. How Mercury Solves It.](summaries/摘要：Why Karpathy's Second Brain Breaks at Agent Scale. How Mercury Solves It.md)（[原文](https://x.com/Ctrl_Alt_Zaid/status/2049082538686382397)）
+
 ## 关联概念
 
 - [OpenClaw](entities/OpenClaw.md)
 
 - [Hermes Agent](entities/Hermes Agent.md)
+
+- [CerebroCortex](entities/CerebroCortex.md)
+
+- [Agent 记忆基础设施](concepts/Agent 记忆基础设施.md)
+
+- [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)

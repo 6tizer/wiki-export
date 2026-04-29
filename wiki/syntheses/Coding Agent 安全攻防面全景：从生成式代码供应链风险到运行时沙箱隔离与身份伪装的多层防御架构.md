@@ -7,12 +7,12 @@ tags:
 - MCP 协议
 - 身份准入
 - 提示工程
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cbaa1e2183374de6bdb353428e00ba4b
+notion_url: https://www.notion.so/Tizer/cbaa1e2183374de6bdb353428e00ba4b
 notion_id: cbaa1e21-8337-4de6-bdb3-53428e00ba4b
 ---
 

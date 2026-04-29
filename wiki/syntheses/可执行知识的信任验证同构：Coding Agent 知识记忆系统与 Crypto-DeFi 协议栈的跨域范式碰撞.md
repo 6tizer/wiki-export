@@ -5,12 +5,12 @@ tags:
 - 知识管理
 - 记忆系统
 - 长期记忆
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/567ebc5d3f474d39b217c8f4fea63e38
+notion_url: https://www.notion.so/Tizer/567ebc5d3f474d39b217c8f4fea63e38
 notion_id: 567ebc5d-3f47-4d39-b217-c8f4fea63e38
 ---
 

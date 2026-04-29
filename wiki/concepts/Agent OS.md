@@ -2,11 +2,11 @@
 title: Agent OS
 type: concept
 tags:
-- Agent 框架
-- Agent 编排
+- Agent 协作模式
+- Harness 工程
 status: 已审核
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/231115259903408ca77760fd94041e1d
