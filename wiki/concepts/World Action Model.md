@@ -3,12 +3,12 @@ title: World Action Model
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b3bdd9503e914bab90ea706419b86051
+notion_url: https://www.notion.so/Tizer/b3bdd9503e914bab90ea706419b86051
 notion_id: b3bdd950-3e91-4bab-90ea-706419b86051
 ---
 

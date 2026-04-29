@@ -3,12 +3,12 @@ title: NeuroVLA
 type: entity
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/07d5bf15c6d4457586e1203dd3511463
+notion_url: https://www.notion.so/Tizer/07d5bf15c6d4457586e1203dd3511463
 notion_id: 07d5bf15-c6d4-4575-86e1-203dd3511463
 ---
 

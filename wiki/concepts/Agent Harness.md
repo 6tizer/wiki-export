@@ -6,7 +6,7 @@ tags:
 - 上下文管理
 status: 审核中
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/dcd58da1f13f4d10bb04047f0678e5c4
@@ -212,3 +212,7 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - [摘要：Introducing "create-agent-tui"](summaries/摘要：Introducing create-agent-tui.md)（[原文](https://x.com/OpenRouter/status/2047701992798392484)）
 
 - [摘要：The Self-Healing Agent Harness](summaries/摘要：The Self-Healing Agent Harness.md)（[原文](https://x.com/intuitiveml/status/2048912026018484317)）
+
+- [摘要：Cursor SDK — 用编程方式构建与 Cursor 同源的 AI 编码 Agent](summaries/摘要：Cursor SDK — 用编程方式构建与 Cursor 同源的 AI 编码 Agent.md)（[原文](https://x.com/cursor_ai/status/2049499866217185492)）
+
+- [摘要：AgentOS now supports Claude Code, LangGraph, and DSPy](summaries/摘要：AgentOS now supports Claude Code, LangGraph, and DSPy.md)（[原文](https://x.com/ashpreetbedi/status/2049511642946249143)）

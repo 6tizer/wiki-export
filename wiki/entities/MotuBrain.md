@@ -3,12 +3,12 @@ title: MotuBrain
 type: entity
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/98722802da3e4b0d8d5e4696627a7bde
+notion_url: https://www.notion.so/Tizer/98722802da3e4b0d8d5e4696627a7bde
 notion_id: 98722802-da3e-4b0d-8d5e-4696627a7bde
 ---
 

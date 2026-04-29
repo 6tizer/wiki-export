@@ -9,7 +9,7 @@ confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a272691d996342b5891e1bebb4026dd9
+notion_url: https://www.notion.so/Tizer/a272691d996342b5891e1bebb4026dd9
 notion_id: a272691d-9963-42b5-891e-1bebb4026dd9
 ---
 
@@ -28,6 +28,8 @@ llama.cpp 是一个面向本地大模型推理的开源运行框架，以轻量�
 ## 来源引用
 
 - [摘要：Meet ruvltra-claude-code: a GGUF-quantized model that's making waves in the AI community. This isn't just another code generator. It's a self-learning, swarm-optimized system that adapts as it works.](summaries/摘要：Meet ruvltra-claude-code- a GGUF-quantized model that's making waves in the AI community. This isn't just another code generator. It's a self-learning, swarm-optimized system that adapts as it works.md)（[原文](https://x.com/HuggingModels/status/2047160797772775537)）
+
+- [摘要：Recipes for serving LLMs locally on RTX 3090s.](summaries/摘要：Recipes for serving LLMs locally on RTX 3090s.md)（[原文](https://x.com/Alibaba_Qwen/status/2049462758211772663)）
 
 ## 关联概念
 

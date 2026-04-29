@@ -3,7 +3,7 @@ title: Skill 编排
 type: concept
 tags:
 - 多Agent协作
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''

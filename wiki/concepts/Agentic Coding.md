@@ -61,3 +61,5 @@ Agentic Coding 是一种以 **AI Agent** 为执行主体的软件开发范式，
 - [摘要：Meet Qwen3-Coder-30B-A3B-Instruct-GGUF: a specialized 30B parameter coding assistant that's been optimized for efficiency. This model isn't just another chatbot. It's a powerhouse fine-tuned for under](summaries/摘要：Meet Qwen3-Coder-30B-A3B-Instruct-GGUF- a specialized 30B parameter coding assistant that's been optimized for efficiency. This model isn't just another chatbot. It's a powerhouse fine-tuned for under.md)（[原文](https://x.com/HuggingModels/status/2047160797911216364)）
 
 - [摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元](summaries/摘要：GPT5.5 + Codex 如何跑一整夜，编程的下一步，不是辅助编程，是可托管执行单元.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyMzY1NTM0Mw%3D%3D&mid=2247515158&idx=1&sn=a656396814f65b8053981d852d11bb54&chksm=c0ba44de9a9054cf724edaed2a5cda4d44ea80568c1c43a3b3d2de3699534f4295bfaf69ba91#rd)）
+
+- [摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!](summaries/摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!.md)（[原文](https://x.com/OpenRouter/status/2049145538373947541)）

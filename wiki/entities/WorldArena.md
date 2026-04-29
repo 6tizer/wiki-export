@@ -3,12 +3,12 @@ title: WorldArena
 type: entity
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5e1d8bbd027b4ad08ccfa7cb01faece6
+notion_url: https://www.notion.so/Tizer/5e1d8bbd027b4ad08ccfa7cb01faece6
 notion_id: 5e1d8bbd-027b-4ad0-8ccf-a7cb01faece6
 ---
 

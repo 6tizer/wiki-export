@@ -3,12 +3,12 @@ title: DAA
 type: concept
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f583f7c9cabf4d67ab8724b2838d4121
+notion_url: https://www.notion.so/Tizer/f583f7c9cabf4d67ab8724b2838d4121
 notion_id: f583f7c9-cabf-4d67-ab87-24b2838d4121
 ---
 

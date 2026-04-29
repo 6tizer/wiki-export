@@ -3,12 +3,12 @@ title: Obsidian Vault
 type: concept
 tags:
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0b48a7296c264664ba7443d0e67a959e
+notion_url: https://www.notion.so/Tizer/0b48a7296c264664ba7443d0e67a959e
 notion_id: 0b48a729-6c26-4664-ba74-43d0e67a959e
 ---
 

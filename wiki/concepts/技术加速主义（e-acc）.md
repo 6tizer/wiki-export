@@ -3,12 +3,12 @@ title: 技术加速主义（e/acc）
 type: concept
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0ecbdd715a394a6e96194086e1186ea1
+notion_url: https://www.notion.so/Tizer/0ecbdd715a394a6e96194086e1186ea1
 notion_id: 0ecbdd71-5a39-4a6e-9619-4086e1186ea1
 ---
 

@@ -35,6 +35,8 @@ vLLM 是面向大语言模型推理服务的高性能部署框架，强调吞吐
 
 - [摘要：Apple Silicon 上的 vLLM 终于原生 Swift/Metal 了！](summaries/摘要：Apple Silicon 上的 vLLM 终于原生 Swift-Metal 了！.md)（[原文](https://x.com/berryxia/status/2047523226272862372)）
 
+- [摘要：Recipes for serving LLMs locally on RTX 3090s.](summaries/摘要：Recipes for serving LLMs locally on RTX 3090s.md)（[原文](https://x.com/Alibaba_Qwen/status/2049462758211772663)）
+
 ## 关联概念
 
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)

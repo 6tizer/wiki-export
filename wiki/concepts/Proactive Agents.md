@@ -7,7 +7,7 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/9859c148e9f74010aa7ae1fc42f5f6ad
@@ -32,6 +32,8 @@ Proactive Agents 指能够在非显式逐步指令下持续观察环境、主动
 
 - [摘要：记忆，是 Agent 基建｜对话 Calvin@Vida](summaries/摘要：记忆，是 Agent 基建｜对话 Calvin@Vida.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247516299&idx=1&sn=c3233ab0dd43f620ef87eb82241b5952&chksm=c3c54e7f8cf382407deb18d014e716c88f39038aa16dbd580f95b730cfc1135ba9daccf127a8#rd)）
 
+- [摘要：World → Sensor → Agent](summaries/摘要：World → Sensor → Agent.md)（[原文](https://x.com/hasantoxr/status/2049472203620815334)）
+
 ## 关联概念
 
 - [OpenClaw](entities/OpenClaw.md)
@@ -47,3 +49,5 @@ Proactive Agents 指能够在非显式逐步指令下持续观察环境、主动
 - [共享记忆层](concepts/共享记忆层.md)
 
 - [AX Tree](concepts/AX Tree.md)
+
+- [World2Agent](entities/World2Agent.md)

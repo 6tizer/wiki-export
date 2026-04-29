@@ -4,12 +4,12 @@ type: entity
 tags:
 - LLM
 - OpenClaw
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8ddc82b13d1f4a87bed6aa983e81fb6b
+notion_url: https://www.notion.so/Tizer/8ddc82b13d1f4a87bed6aa983e81fb6b
 notion_id: 8ddc82b1-3d1f-4a87-bed6-aa983e81fb6b
 ---
 

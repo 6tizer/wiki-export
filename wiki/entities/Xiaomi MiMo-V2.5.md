@@ -4,9 +4,9 @@ type: entity
 tags:
 - LLM
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: high
-last_compiled: '2026-04-28'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/f2f4fd3245a24afd83f32058e61af6d3
@@ -44,3 +44,5 @@ Xiaomi MiMo-V2.5 是小米 MiMo 系列的原生多模态版本，强调视觉与
 - [摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4](summaries/摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU3NTg5MjU1Mw%3D%3D&mid=2247497120&idx=1&sn=adb691fd7cb52fb63f3ab6f69fa5011b&chksm=fcc107b09a5c6e5f3ac7df70dcd88c86ac115110d41477790ef5d97e8fc7336b219c3d6bb535#rd)）
 
 - [摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动](summaries/摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484681&idx=1&sn=60241f47e569b8105e66bf704cd4c98b&chksm=c50137dcd08f21a4eb67a631268f2b59dcc62a811ba5f31be372f09d38e5300b8474690cc111#rd)）
+
+- [摘要：小米 MiMo 100万亿 Token 免费领取教程](summaries/摘要：小米 MiMo 100万亿 Token 免费领取教程.md)（[原文](https://x.com/Lonely__MH/status/2049401210273489044)）

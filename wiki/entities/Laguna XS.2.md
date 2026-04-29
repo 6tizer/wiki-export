@@ -43,6 +43,8 @@ Laguna XS.2 是 Poolside 发布的首个开源权重编码模型，采用 33B �
 
 - [摘要：Today we're releasing Laguna XS.2, Poolside's first open-weight model.](summaries/摘要：Today we're releasing Laguna XS.2, Poolside's first open-weight model.md)（[原文](https://x.com/poolsideai/status/2049144111626670282)）
 
+- [摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!](summaries/摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!.md)（[原文](https://x.com/OpenRouter/status/2049145538373947541)）
+
 ## 关联概念
 
 - [Poolside](entities/Poolside.md)
@@ -52,3 +54,5 @@ Laguna XS.2 是 Poolside 发布的首个开源权重编码模型，采用 33B �
 - [Data Automixing](concepts/Data Automixing.md)
 
 - [Shimmer](entities/Shimmer.md)
+
+- [Laguna M.1](entities/Laguna M.1.md)

@@ -9,7 +9,7 @@ confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b77f7ca635c34485855ccc89f4406e46
+notion_url: https://www.notion.so/Tizer/b77f7ca635c34485855ccc89f4406e46
 notion_id: b77f7ca6-35c3-4485-855c-cc89f4406e46
 ---
 
@@ -172,6 +172,8 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软](summaries/摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng%3D%3D&mid=2247665936&idx=1&sn=3a22066240ebfea5f456ecfaa39e9892&chksm=e8c800edc26b20940eeca6d9cd263fa15ef276abf030f9a15cb64f86fb2ee59005c2588a8a9d#rd)）
 
 - [摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经](summaries/摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw%3D%3D&mid=2651051564&idx=1&sn=babc1b1e75b77826a63d304d33c348e0&chksm=8dd911d417729de737132383124e9f75bf193b1c2ce831b08c3e001f0552438ebac7eae45e1d#rd)）
+
+- [摘要：holaOS — 开源 Agent Computer](summaries/摘要：holaOS — 开源 Agent Computer.md)（[原文](https://x.com/JeliPenguin/status/2049147344315388281)）
 
 ## 关联概念
 

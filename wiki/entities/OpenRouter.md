@@ -51,6 +51,8 @@ OpenRouter 是全球最大的模型聚合平台，提供统一 API 接入多家 
 
 - [摘要：Turn Your Hermes Agent Into an OpenRouter Expert](summaries/摘要：Turn Your Hermes Agent Into an OpenRouter Expert.md)（[原文](https://x.com/OpenRouter/status/2047506176447783155)）
 
+- [摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!](summaries/摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!.md)（[原文](https://x.com/OpenRouter/status/2049145538373947541)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)

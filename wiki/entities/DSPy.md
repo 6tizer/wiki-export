@@ -6,10 +6,10 @@ tags:
 - LLM
 status: 审核中
 confidence: high
-last_compiled: '2026-04-13'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d7b708c373384de28a1f7245c992b149
+notion_url: https://www.notion.so/Tizer/d7b708c373384de28a1f7245c992b149
 notion_id: d7b708c3-7338-4de2-8a1f-7245c992b149
 ---
 
@@ -28,6 +28,8 @@ DSPy 是一个面向语言模型程序与优化流程的框架，用来把 promp
 ## 来源引用
 
 - [原文链接](https://x.com/KKaWSB/status/2043119101028274268)｜《Evolutionary self-improvement for Hermes Agent》｜来源条目：[摘要：Evolutionary self-improvement for Hermes Agent](summaries/摘要：Evolutionary self-improvement for Hermes Agent.md)
+
+- [摘要：AgentOS now supports Claude Code, LangGraph, and DSPy](summaries/摘要：AgentOS now supports Claude Code, LangGraph, and DSPy.md)（[原文](https://x.com/ashpreetbedi/status/2049511642946249143)）
 
 ## 关联概念
 

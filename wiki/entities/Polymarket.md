@@ -74,6 +74,10 @@ OpenClaw 等 AI Agent 框架已被社区用于 Polymarket 套利交易：
 
 - [摘要：I asked PolyClaw Agent to find me best oil trader on Polymarket. He found an absolute monster.](summaries/摘要：I asked PolyClaw Agent to find me best oil trader on Polymarket. He found an absolute monster.md)（[原文](https://x.com/antpalkin/status/2047681583692333333)）
 
+- [摘要：The Start of DeFi on Prediction Market](summaries/摘要：The Start of DeFi on Prediction Market.md)（[原文](https://x.com/0xJeff/status/2049463039586673059)）
+
+- [摘要：炸裂现实！中国学生一单封神，2000美元干到16.6万！真相：AI已经能预判未来](summaries/摘要：炸裂现实！中国学生一单封神，2000美元干到16.6万！真相：AI已经能预判未来.md)（[原文](https://x.com/sol_jingou/status/2049484628445319516)）
+
 ## 关联概念
 
 - 跨交易所套利

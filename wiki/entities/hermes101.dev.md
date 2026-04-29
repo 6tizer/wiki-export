@@ -3,12 +3,12 @@ title: hermes101.dev
 type: entity
 tags:
 - Agent 框架
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f9a97f028a0a46e2a7ee4ec1ceb83223
+notion_url: https://www.notion.so/Tizer/f9a97f028a0a46e2a7ee4ec1ceb83223
 notion_id: f9a97f02-8a0a-46e2-a7ee-4ec1ceb83223
 ---
 

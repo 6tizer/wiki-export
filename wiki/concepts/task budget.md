@@ -3,12 +3,12 @@ title: task budget
 type: concept
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a26cfca5fb9f45c6a71b0627ea53601a
+notion_url: https://www.notion.so/Tizer/a26cfca5fb9f45c6a71b0627ea53601a
 notion_id: a26cfca5-fb9f-45c6-a71b-0627ea53601a
 ---
 

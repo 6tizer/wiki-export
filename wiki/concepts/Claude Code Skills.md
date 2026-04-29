@@ -52,3 +52,7 @@ Claude Code Skills 指 Claude Code 中可复用的技能扩展机制，通常以
 - [摘要：开源一个 PPT Skill｜压进了我 10 年的设计经验](summaries/摘要：开源一个 PPT Skill｜压进了我 10 年的设计经验.md)（[原文](https://x.com/op7418/status/2047486546300051478)）
 
 - [摘要：The solo founder stack of 2026](summaries/摘要：The solo founder stack of 2026.md)（[原文](https://x.com/rohit4verse/status/2047699770308014406)）
+
+- [摘要：Contributions welcome.](summaries/摘要：Contributions welcome.md)（[原文](https://x.com/charliejhills/status/2048428282174156996)）
+
+- [摘要：今天才发现自己 80.8% 的 Claude Code skill 是装废的。](summaries/摘要：今天才发现自己 80.8% 的 Claude Code skill 是装废的。.md)（[原文](https://x.com/runes_leo/status/2049513537966674317)）

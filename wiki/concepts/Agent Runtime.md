@@ -6,10 +6,10 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cef838ab74184abe8b98007cf72a8bd5
+notion_url: https://www.notion.so/Tizer/cef838ab74184abe8b98007cf72a8bd5
 notion_id: cef838ab-7418-4abe-8b98-007cf72a8bd5
 ---
 
@@ -56,3 +56,5 @@ notion_id: cef838ab-7418-4abe-8b98-007cf72a8bd5
 - [Workspace-level Isolation](concepts/Workspace-level Isolation.md)
 
 - [Coding Agent](concepts/Coding Agent.md)
+
+- [Cursor SDK](entities/Cursor SDK.md)

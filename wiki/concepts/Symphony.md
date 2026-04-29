@@ -5,7 +5,7 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: high
-last_compiled: '2026-04-29'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/1edab3c7d5b04b10acab1f2fb0b0cabf
@@ -43,3 +43,5 @@ notion_id: 1edab3c7-d5b0-4b10-acab-1f2fb0b0cabf
 - [摘要：OpenAI 开源 Symphony！四天狂揽 8.7K Star，AI 编程自主管理神器！](summaries/摘要：OpenAI 开源 Symphony！四天狂揽 8.7K Star，AI 编程自主管理神器！.md)
 
 - [摘要：OpenAI刚刚开源的这个东西，感觉要把程序员的工作方式给整个改写了。](summaries/摘要：OpenAI刚刚开源的这个东西，感觉要把程序员的工作方式给整个改写了。.md)（[原文](https://x.com/AYi_AInotes/status/2049100434137026673)）
+
+- [摘要：Live streaming](summaries/摘要：Live streaming.md)（[原文](https://x.com/jiayuan_jy/status/2049027815195000840)）
