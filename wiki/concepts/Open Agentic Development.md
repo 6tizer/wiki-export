@@ -38,3 +38,5 @@ Open Agentic Development（开放智能体开发）是 Warp 创始人 Zach Lloyd
 ## 来源引用
 
 - [摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助](summaries/摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483197&idx=1&sn=c806fb90a6957dc03889b4e4f6353565&chksm=868e52b437295b86cd027481b982fc5bde25fabe57f952b8f9d155bae7e338a57d214c473c7b#rd)）
+
+- [摘要：Warp is now open-source](summaries/摘要：Warp is now open-source.md)（[原文](https://x.com/zachlloydtweets/status/2049154460039979268)）

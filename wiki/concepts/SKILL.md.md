@@ -6,7 +6,7 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/495c710ba0f342138f2d0cfb53ee771d
@@ -60,6 +60,8 @@ notion_id: 495c710b-a0f3-4213-8f2d-0cfb53ee771d
 - [摘要：The Bitter Lesson of Agent Harnesses](summaries/摘要：The Bitter Lesson of Agent Harnesses.md)（[原文](https://x.com/gregpr07/status/2047358189327520166)）
 
 - [摘要：开源一个 PPT Skill｜压进了我 10 年的设计经验](summaries/摘要：开源一个 PPT Skill｜压进了我 10 年的设计经验.md)（[原文](https://x.com/op7418/status/2047486546300051478)）
+
+- [摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课](summaries/摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkwNDExODE4Nw%3D%3D&mid=2247496882&idx=1&sn=3809729da1b43cfbf4791a3321715587&chksm=c1401709982831326d1e3684d9d9930a12a7f6f978af505e586b2ad4d482e3227ffd6e4142a0#rd)）
 
 ## 关联概念
 

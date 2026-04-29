@@ -6,10 +6,10 @@ tags:
 - Agent 技能
 status: 审核中
 confidence: high
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/eabdce1ef9de4f4c852d11bad9ee6ad4
+notion_url: https://www.notion.so/Tizer/eabdce1ef9de4f4c852d11bad9ee6ad4
 notion_id: eabdce1e-f9de-4f4c-852d-11bad9ee6ad4
 ---
 
@@ -32,6 +32,10 @@ notion_id: eabdce1e-f9de-4f4c-852d-11bad9ee6ad4
 - [摘要：Notion AI × Sub Agent：把检索隔离写进长期指令的实战](summaries/摘要：Notion AI × Sub Agent：把检索隔离写进长期指令的实战.md)（[原始对话](https://www.notion.so/)）
 
 - [摘要：A new way to think about composing skills to increase leverage: Skill Graphs 2.0](summaries/摘要：A new way to think about composing skills to increase leverage- Skill Graphs 2.0.md)（[原文](https://x.com/shivsakhuja/status/2047124337191444844)）
+
+- [摘要：Keep your Claude Code context clean with Subagents](summaries/摘要：Keep your Claude Code context clean with Subagents.md)（[原文](https://x.com/dani_avila7/status/2048486242321662189)）
+
+- [摘要：1M 上下文时代太费 Token，告诉你我的 Coding Agent 省钱方法](summaries/摘要：1M 上下文时代太费 Token，告诉你我的 Coding Agent 省钱方法.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA%3D%3D&mid=2650734353&idx=1&sn=ed1c3514623d29bffc28e1856c920dd8&chksm=bf1f3acf64e4e5b746803a7ac4aaf8bfc0f5d216e8dcbdb8f89d5f6d4d961af981b37393dba6#rd)）
 
 ## 关联概念
 

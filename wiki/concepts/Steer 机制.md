@@ -5,10 +5,10 @@ tags:
 - Agent 编排
 status: 审核中
 confidence: high
-last_compiled: '2026-04-26'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8c9bfd22d3894fe4a587a2eb3e0ffc82
+notion_url: https://www.notion.so/Tizer/8c9bfd22d3894fe4a587a2eb3e0ffc82
 notion_id: 8c9bfd22-d389-4fe4-a587-a2eb3e0ffc82
 ---
 
@@ -29,6 +29,8 @@ Steer 机制是指父 Agent 在子 Agent 运行过程中持续发送引导消息
 ## 来源引用
 
 - [摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比](summaries/摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比.md)
+
+- [摘要：15 Hermes Agent features you've never touched](summaries/摘要：15 Hermes Agent features you've never touched.md)（[原文](https://x.com/sharbel/status/2049158152709382177)）
 
 ## 关联概念
 

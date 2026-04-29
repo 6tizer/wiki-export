@@ -35,6 +35,8 @@ Mercury 是 Cosmic Stack 推出的本地 AI Agent / CLI 框架，主打权限硬
 
 - [摘要：Why Karpathy's Second Brain Breaks at Agent Scale. How Mercury Solves It.](summaries/摘要：Why Karpathy's Second Brain Breaks at Agent Scale. How Mercury Solves It.md)（[原文](https://x.com/Ctrl_Alt_Zaid/status/2049082538686382397)）
 
+- [摘要：Mercury asks first — and remembers what matters.](summaries/摘要：Mercury asks first — and remembers what matters.md)（[原文](https://x.com/AYi_AInotes/status/2049318687065174449)）
+
 ## 关联概念
 
 - [OpenClaw](entities/OpenClaw.md)

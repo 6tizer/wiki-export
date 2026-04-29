@@ -188,11 +188,13 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [摘要：1 Month with Hermes - I've been using Hermes wrong all along](summaries/摘要：1 Month with Hermes - I've been using Hermes wrong all along.md)（[原文](https://x.com/0xJeff/status/2048678335950311860)）
 
+- [摘要：15 Hermes Agent features you've never touched](summaries/摘要：15 Hermes Agent features you've never touched.md)（[原文](https://x.com/sharbel/status/2049158152709382177)）
+
 ## 关联概念
 
 - [hermes-agent-camel](entities/hermes-agent-camel.md)
 
-- [agentskills.io](concepts/agentskills.io.md)
+- [agentskills.io](entities/agentskills.io.md)
 
 - [CaMeL 信任边界](concepts/CaMeL 信任边界.md)
 

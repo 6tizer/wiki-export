@@ -46,6 +46,10 @@ GPT-Image-2 是 OpenAI 的图像生成与编辑模型。在这篇实测中，它
 
 - [摘要：Qwen-Image-2.0-Pro 发布](summaries/摘要：Qwen-Image-2.0-Pro 发布.md)（[原文](https://x.com/Alibaba_Qwen/status/2048022731548229869)）
 
+- [摘要：分享一个 Image2 的提示词库，Github已8K Star](summaries/摘要：分享一个 Image2 的提示词库，Github已8K Star.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ%3D%3D&mid=2247499568&idx=1&sn=841c67e7bb7429e5ad2a20cb744514f2&chksm=cec325c0c75f54ac14660bddd8955fb50c7a1652c3f52096369751c8bc2c36977e1e9f49f3c8#rd)）
+
+- [摘要：GPT-Image-2平替！最强开源生图模型来了](summaries/摘要：GPT-Image-2平替！最强开源生图模型来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652696301&idx=1&sn=40a255d23a8b0edaf8771b3799ad8304&chksm=f0f20c3245e872ed1063892734d3175e6fb20478e0bf12f8d4e99578455024aa9f648e6a7a31#rd)）
+
 ## 关联概念
 
 - [图像提示词资产库](concepts/图像提示词资产库.md)

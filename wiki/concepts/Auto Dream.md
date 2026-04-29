@@ -8,7 +8,7 @@ confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/fe736f3f702542d1b8ce367dbf4f3144
+notion_url: https://www.notion.so/Tizer/fe736f3f702542d1b8ce367dbf4f3144
 notion_id: fe736f3f-7025-42d1-b8ce-367dbf4f3144
 ---
 
@@ -49,3 +49,5 @@ Auto Dream 的工作流程分为四个步骤：
 - [摘要：OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册](summaries/摘要：OpenClaw 提速指南：一个加密交易员写出的 AI Agent 优化手册.md)— X书签，2026-03-17：将自动整理机制视为控制记忆技术债的关键手段
 
 - 《Claudebot-vibe：一个越用越聪明的 Claude Telegram 私人助理》｜X书签文章｜来源页：[摘要：Claudebot-vibe：一个越用越聪明的 Claude Telegram 私人助理](summaries/摘要：Claudebot-vibe：一个越用越聪明的 Claude Telegram 私人助理.md)
+
+- [摘要：开源「洁癖.Skill」，让你的Agent越用越聪明。](summaries/摘要：开源「洁癖.Skill」，让你的Agent越用越聪明。.md)（[原文](https://x.com/Khazix0918/status/2049345300939391245)）

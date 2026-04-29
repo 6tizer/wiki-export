@@ -33,3 +33,5 @@ TAIL（Time-Aligned Interleaving）是 MiniCPM-o 4.5 中提出的流式语音生
 ## 来源引用
 
 - [摘要：MiniCPM-o 4.5技术报告发布：全双工全模态API开放，RTX5070即可实时运行](summaries/摘要：MiniCPM-o 4.5技术报告发布：全双工全模态API开放，RTX5070即可实时运行.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw%3D%3D&mid=2247719918&idx=1&sn=cbff45b94902b42d7fd45f6fb079edc9&chksm=97101f37ad8063e784cbc767f4e95f0508b405d9e1139ea77dab6c3182100c13acef9d1b40d5#rd)，PaperWeekly，微信，2026-04-28）
+
+- [摘要：首发Omni-Flow流式全模态架构，消费级显卡就能跑](summaries/摘要：首发Omni-Flow流式全模态架构，消费级显卡就能跑.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkzNjgwNzMwNQ%3D%3D&mid=2247488507&idx=1&sn=8a7a55596274e541a89d16c7f7b8f75a&chksm=c312c36bc0423679e9095a15081351a18b482a6059fbfc5e9516372def651857eb573c215ca7#rd)，CourseAI，微信，2026-04-28）

@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f0b47ce983e449c6870ed44c9b1c8b4d
+notion_url: https://www.notion.so/Tizer/f0b47ce983e449c6870ed44c9b1c8b4d
 notion_id: f0b47ce9-83e4-49c6-870e-d44c9b1c8b4d
 ---
 
@@ -38,3 +38,5 @@ Tabbit 浏览器是一款基于 Chrome 内核的 AI 原生浏览器，将 AI 能
 ## 来源引用
 
 - [摘要：最近搞OPC提效，这个AI浏览器让我回不去了...](summaries/摘要：最近搞OPC提效，这个AI浏览器让我回不去了.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ%3D%3D&mid=2247499542&idx=1&sn=47360f24130db42aaad9d333506c9039&chksm=ce97b4a5374d94c1af1e2235360d7746059786a4e9c4bd53fcd0bbb56a856662ac88614180f2#rd)）
+
+- [摘要：我用 Tabbit 浏览器搭了一套内容创作全自动流水线，太香了！](summaries/摘要：我用 Tabbit 浏览器搭了一套内容创作全自动流水线，太香了！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU4NTE1Mjg4MA%3D%3D&mid=2247498371&idx=1&sn=44ff85faf1ffbbbc5db7de885a89a15a&chksm=fc91bcadc09afd69f1e4973dda2812a48032f2f59a6ce2e28b8325bd282e597b639410a4931a#rd)）

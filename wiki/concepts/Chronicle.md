@@ -7,7 +7,7 @@ tags:
 - 知识管理
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-29'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/e41e960819b2498ca059eae245d811cc
@@ -35,6 +35,8 @@ Chronicle 是 Codex 正在扩展实验的一层记忆增强能力，用近期屏
 - [摘要：在OpenAI把Chronicle做成订阅功能48小时后，一群00后把它开源了](summaries/摘要：在OpenAI把Chronicle做成订阅功能48小时后，一群00后把它开源了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651030049&idx=1&sn=0073334a014539bbc5e7af6ed5b0bb79&chksm=852f938b9e50b5c99e92dbcc0343f6dc18eadb44ae0806e724b7bbb7fefd8405c455d5895f19#rd)）
 
 - [摘要：记忆，是 Agent 基建｜对话 Calvin@Vida](summaries/摘要：记忆，是 Agent 基建｜对话 Calvin@Vida.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ%3D%3D&mid=2247516299&idx=1&sn=c3233ab0dd43f620ef87eb82241b5952&chksm=c3c54e7f8cf382407deb18d014e716c88f39038aa16dbd580f95b730cfc1135ba9daccf127a8#rd)）
+
+- [摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课](summaries/摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkwNDExODE4Nw%3D%3D&mid=2247496882&idx=1&sn=3809729da1b43cfbf4791a3321715587&chksm=c1401709982831326d1e3684d9d9930a12a7f6f978af505e586b2ad4d482e3227ffd6e4142a0#rd)）
 
 ## 关联概念
 

@@ -28,3 +28,5 @@ notion_id: b9b81d30-f441-4dc5-a56c-fe2d84690852
 ### 来源引用
 
 - 《全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力》｜微信文章｜原文链接：[https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651088026&idx=1&sn=453e553073a12332beb36633ede6396d&chksm=bc1b50a6a6ff3411533de7e28ef04d0f889987c829825e4bff98cacd668e0c96e8864e946cb9#rd](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651088026&idx=1&sn=453e553073a12332beb36633ede6396d&chksm=bc1b50a6a6ff3411533de7e28ef04d0f889987c829825e4bff98cacd668e0c96e8864e946cb9#rd)｜源文章：全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力
+
+- [摘要：How top AI labs are building RL agents in 2026 (using Karpathy's system prompt learning idea)](summaries/摘要：How top AI labs are building RL agents in 2026 (using Karpathy's system prompt learning idea).md)（[原文](https://x.com/_avichawla/status/2049037299334472015)）
