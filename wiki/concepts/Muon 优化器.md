@@ -3,12 +3,12 @@ title: Muon 优化器
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/bc1d157ebccd40d8b2fc194eea38e0ed
+notion_url: https://www.notion.so/Tizer/bc1d157ebccd40d8b2fc194eea38e0ed
 notion_id: bc1d157e-bccd-40d8-b2fc-194eea38e0ed
 ---
 

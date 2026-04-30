@@ -3,12 +3,12 @@ title: Open WebUI
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8891f3580fd242dda7fe4f66e3e9bf4b
+notion_url: https://www.notion.so/Tizer/8891f3580fd242dda7fe4f66e3e9bf4b
 notion_id: 8891f358-0fd2-42dd-a7fe-4f66e3e9bf4b
 ---
 

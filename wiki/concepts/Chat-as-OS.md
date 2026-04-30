@@ -3,12 +3,12 @@ title: Chat-as-OS
 type: concept
 tags:
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688125b7a0d5f1ed98fc00
-notion_url: https://www.notion.so/56e95dfe75294fc288d2ad02777ddcff
+notion_url: https://www.notion.so/Tizer/56e95dfe75294fc288d2ad02777ddcff
 notion_id: 56e95dfe-7529-4fc2-88d2-ad02777ddcff
 ---
 

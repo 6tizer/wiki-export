@@ -4,12 +4,12 @@ type: entity
 tags:
 - LLM
 - Crypto/DeFi
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2d57a50d316b4be0bd1c8933a7540853
+notion_url: https://www.notion.so/Tizer/2d57a50d316b4be0bd1c8933a7540853
 notion_id: 2d57a50d-316b-4be0-bd1c-8933a7540853
 ---
 

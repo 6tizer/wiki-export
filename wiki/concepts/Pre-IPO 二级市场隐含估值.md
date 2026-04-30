@@ -3,12 +3,12 @@ title: Pre-IPO 二级市场隐含估值
 type: concept
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b9643210ab3d479482d304508d155e4a
+notion_url: https://www.notion.so/Tizer/b9643210ab3d479482d304508d155e4a
 notion_id: b9643210-ab3d-4794-82d3-04508d155e4a
 ---
 

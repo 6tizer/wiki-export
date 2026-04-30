@@ -3,12 +3,12 @@ title: System Prompt 注入
 type: concept
 tags:
 - Agent 安全
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/58f914c9ebef4667adb6637c592b4716
+notion_url: https://www.notion.so/Tizer/58f914c9ebef4667adb6637c592b4716
 notion_id: 58f914c9-ebef-4667-adb6-637c592b4716
 ---
 

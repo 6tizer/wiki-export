@@ -3,12 +3,12 @@ title: 预见 UI
 type: concept
 tags:
 - Agent 编排
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688125b7a0d5f1ed98fc00
-notion_url: https://www.notion.so/c4b423eaec50471380571fb4877cb73d
+notion_url: https://www.notion.so/Tizer/c4b423eaec50471380571fb4877cb73d
 notion_id: c4b423ea-ec50-4713-8057-1fb4877cb73d
 ---
 

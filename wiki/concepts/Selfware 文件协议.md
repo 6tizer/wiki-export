@@ -4,7 +4,7 @@ type: concept
 tags:
 - Agent 技能
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''

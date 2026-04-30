@@ -7,7 +7,7 @@ tags:
 - IDE 集成
 status: 已审核
 confidence: high
-last_compiled: '2026-04-30'
+last_compiled: '2026-05-01'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/cf5d62b518344617b2248e1fd8765f8b

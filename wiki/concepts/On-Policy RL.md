@@ -3,12 +3,12 @@ title: On-Policy RL
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/773ca3f12a754a7bba6bbcf491ae3c18
+notion_url: https://www.notion.so/Tizer/773ca3f12a754a7bba6bbcf491ae3c18
 notion_id: 773ca3f1-2a75-4a7b-ba6b-bcf491ae3c18
 ---
 

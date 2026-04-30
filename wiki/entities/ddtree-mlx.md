@@ -4,12 +4,12 @@ type: entity
 tags:
 - 开发工具
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/205c7188d6a64ecdb1d949faf88c053a
+notion_url: https://www.notion.so/Tizer/205c7188d6a64ecdb1d949faf88c053a
 notion_id: 205c7188-d6a6-4ecd-b1d9-49faf88c053a
 ---
 

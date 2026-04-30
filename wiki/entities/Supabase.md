@@ -3,12 +3,12 @@ title: Supabase
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9ad1fec4e16c4dbaba096a81dfefde4f
+notion_url: https://www.notion.so/Tizer/9ad1fec4e16c4dbaba096a81dfefde4f
 notion_id: 9ad1fec4-e16c-4dba-ba09-6a81dfefde4f
 ---
 

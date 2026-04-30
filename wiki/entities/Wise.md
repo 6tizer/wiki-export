@@ -3,12 +3,12 @@ title: Wise
 type: entity
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6710a2cbcb274704ba66695f7035e379
+notion_url: https://www.notion.so/Tizer/6710a2cbcb274704ba66695f7035e379
 notion_id: 6710a2cb-cb27-4704-ba66-695f7035e379
 ---
 

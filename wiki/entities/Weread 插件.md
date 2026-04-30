@@ -3,12 +3,12 @@ title: Weread 插件
 type: entity
 tags:
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b7471044950d4c9c9fd2addd90bf71b9
+notion_url: https://www.notion.so/Tizer/b7471044950d4c9c9fd2addd90bf71b9
 notion_id: b7471044-950d-4c9c-9fd2-addd90bf71b9
 ---
 

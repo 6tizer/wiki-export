@@ -3,12 +3,12 @@ title: Lip Sync Studio
 type: concept
 tags:
 - 视频/3D
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d99acff1b98f402ba793d23537e3c2eb
+notion_url: https://www.notion.so/Tizer/d99acff1b98f402ba793d23537e3c2eb
 notion_id: d99acff1-b98f-402b-a793-d23537e3c2eb
 ---
 

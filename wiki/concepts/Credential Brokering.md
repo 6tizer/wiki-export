@@ -4,12 +4,12 @@ type: concept
 tags:
 - 安全/隐私
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e0420f624ba64f3b9640591aed1f73a0
+notion_url: https://www.notion.so/Tizer/e0420f624ba64f3b9640591aed1f73a0
 notion_id: e0420f62-4ba6-4f3b-9640-591aed1f73a0
 ---
 

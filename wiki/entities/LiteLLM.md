@@ -3,12 +3,12 @@ title: LiteLLM
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/26f21056c46e4e938853bbca055a4231
+notion_url: https://www.notion.so/Tizer/26f21056c46e4e938853bbca055a4231
 notion_id: 26f21056-c46e-4e93-8853-bbca055a4231
 ---
 

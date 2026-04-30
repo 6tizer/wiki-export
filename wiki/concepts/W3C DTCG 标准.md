@@ -3,12 +3,12 @@ title: W3C DTCG 标准
 type: concept
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/dcad1f9125c046449769f384897f0cc3
+notion_url: https://www.notion.so/Tizer/dcad1f9125c046449769f384897f0cc3
 notion_id: dcad1f91-25c0-4644-9769-f384897f0cc3
 ---
 

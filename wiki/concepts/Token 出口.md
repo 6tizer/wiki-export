@@ -3,12 +3,12 @@ title: Token 出口
 type: concept
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ea4504db57e34fa6a111d19bdd6ac18c
+notion_url: https://www.notion.so/Tizer/ea4504db57e34fa6a111d19bdd6ac18c
 notion_id: ea4504db-57e3-4fa6-a111-d19bdd6ac18c
 ---
 

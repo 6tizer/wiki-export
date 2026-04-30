@@ -3,12 +3,12 @@ title: XML Tags
 type: concept
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cb99efc747d84080ace1c48cb2dc82ec
+notion_url: https://www.notion.so/Tizer/cb99efc747d84080ace1c48cb2dc82ec
 notion_id: cb99efc7-47d8-4080-ace1-c48cb2dc82ec
 ---
 

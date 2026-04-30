@@ -3,12 +3,12 @@ title: Andrej Karpathy
 type: entity
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881bf90d2d26ee121e128
-notion_url: https://www.notion.so/a03566ba4bf640bfa7cdb04b02d09c56
+notion_url: https://www.notion.so/Tizer/a03566ba4bf640bfa7cdb04b02d09c56
 notion_id: a03566ba-4bf6-40bf-a7cd-b04b02d09c56
 ---
 

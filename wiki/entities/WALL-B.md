@@ -3,12 +3,12 @@ title: WALL-B
 type: entity
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/40928b9049894ec682fc03c145206213
+notion_url: https://www.notion.so/Tizer/40928b9049894ec682fc03c145206213
 notion_id: 40928b90-4989-4ec6-82fc-03c145206213
 ---
 

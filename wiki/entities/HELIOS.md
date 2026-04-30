@@ -4,12 +4,12 @@ type: entity
 tags:
 - 开发工具
 - 模型部署
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/577113fe5b674232a5aeee625e6f3a89
+notion_url: https://www.notion.so/Tizer/577113fe5b674232a5aeee625e6f3a89
 notion_id: 577113fe-5b67-4232-a5ae-ee625e6f3a89
 ---
 

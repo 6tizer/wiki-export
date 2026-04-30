@@ -3,12 +3,12 @@ title: Service Bindings
 type: concept
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c7cda605a27d403b9c6abf31511b7e1c
+notion_url: https://www.notion.so/Tizer/c7cda605a27d403b9c6abf31511b7e1c
 notion_id: c7cda605-a27d-403b-9c6a-bf31511b7e1c
 ---
 

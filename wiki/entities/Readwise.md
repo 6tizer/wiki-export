@@ -3,12 +3,12 @@ title: Readwise
 type: entity
 tags:
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b7b217628df8412295b4d38b5d3dd718
+notion_url: https://www.notion.so/Tizer/b7b217628df8412295b4d38b5d3dd718
 notion_id: b7b21762-8df8-4122-95b4-d38b5d3dd718
 ---
 

@@ -3,12 +3,12 @@ title: Agentic Workflow
 type: concept
 tags:
 - Agent 协作模式
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7992882e21d440a49601507ab50ebe5b
+notion_url: https://www.notion.so/Tizer/7992882e21d440a49601507ab50ebe5b
 notion_id: 7992882e-21d4-40a4-9601-507ab50ebe5b
 ---
 

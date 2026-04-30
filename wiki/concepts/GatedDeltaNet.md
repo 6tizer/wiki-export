@@ -3,12 +3,12 @@ title: GatedDeltaNet
 type: concept
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7e01f6f540fd4460a6437418687acdd6
+notion_url: https://www.notion.so/Tizer/7e01f6f540fd4460a6437418687acdd6
 notion_id: 7e01f6f5-40fd-4460-a643-7418687acdd6
 ---
 

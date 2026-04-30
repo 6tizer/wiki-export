@@ -3,12 +3,12 @@ title: Meta-Prompting
 type: concept
 tags:
 - Coding Agent
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/35f049d58d594a85a8ad0f6c8e4b99ce
+notion_url: https://www.notion.so/Tizer/35f049d58d594a85a8ad0f6c8e4b99ce
 notion_id: 35f049d5-8d59-4a85-a8ad-0f6c8e4b99ce
 ---
 

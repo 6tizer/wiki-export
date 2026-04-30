@@ -3,12 +3,12 @@ title: RoboTwin2.0
 type: entity
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cf61ec11faf842d0a8b643291b7a1151
+notion_url: https://www.notion.so/Tizer/cf61ec11faf842d0a8b643291b7a1151
 notion_id: cf61ec11-faf8-42d0-a8b6-43291b7a1151
 ---
 

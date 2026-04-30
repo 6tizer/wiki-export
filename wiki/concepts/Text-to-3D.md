@@ -3,12 +3,12 @@ title: Text-to-3D
 type: concept
 tags:
 - 视频/3D
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/962589fcb44f4ce289212618af369dd6
+notion_url: https://www.notion.so/Tizer/962589fcb44f4ce289212618af369dd6
 notion_id: 962589fc-b44f-4ce2-8921-2618af369dd6
 ---
 

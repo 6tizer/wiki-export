@@ -4,12 +4,12 @@ type: concept
 tags:
 - Coding Agent
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ec9e52df42ee431aa0653ed3926c87c2
+notion_url: https://www.notion.so/Tizer/ec9e52df42ee431aa0653ed3926c87c2
 notion_id: ec9e52df-42ee-431a-a065-3ed3926c87c2
 ---
 

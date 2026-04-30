@@ -3,12 +3,12 @@ title: Image-to-3D
 type: concept
 tags:
 - 视频/3D
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/18adb3f5f0524630b32eb680f01a3fc6
+notion_url: https://www.notion.so/Tizer/18adb3f5f0524630b32eb680f01a3fc6
 notion_id: 18adb3f5-f052-4630-b32e-b680f01a3fc6
 ---
 

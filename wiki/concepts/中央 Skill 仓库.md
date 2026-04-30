@@ -4,12 +4,12 @@ type: concept
 tags:
 - Agent 技能
 - 知识管理
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/295af503abdc487ab7301d88ab07c281
+notion_url: https://www.notion.so/Tizer/295af503abdc487ab7301d88ab07c281
 notion_id: 295af503-abdc-487a-b730-1d88ab07c281
 ---
 

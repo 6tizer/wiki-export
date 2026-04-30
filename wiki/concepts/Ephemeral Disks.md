@@ -3,12 +3,12 @@ title: Ephemeral Disks
 type: concept
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ce76434be244476b9eaab77a7c576cc5
+notion_url: https://www.notion.so/Tizer/ce76434be244476b9eaab77a7c576cc5
 notion_id: ce76434b-e244-476b-9eaa-b77a7c576cc5
 ---
 

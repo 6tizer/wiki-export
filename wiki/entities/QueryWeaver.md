@@ -3,12 +3,12 @@ title: QueryWeaver
 type: entity
 tags:
 - 开发工具
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f915e9e560184239812ff82aab230e9b
+notion_url: https://www.notion.so/Tizer/f915e9e560184239812ff82aab230e9b
 notion_id: f915e9e5-6018-4239-812f-f82aab230e9b
 ---
 

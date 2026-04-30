@@ -4,12 +4,12 @@ type: entity
 tags:
 - Coding Agent
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2baa23ace5cf4044923f162dffe7aa22
+notion_url: https://www.notion.so/Tizer/2baa23ace5cf4044923f162dffe7aa22
 notion_id: 2baa23ac-e5cf-4044-923f-162dffe7aa22
 ---
 

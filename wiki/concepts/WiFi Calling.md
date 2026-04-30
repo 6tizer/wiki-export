@@ -3,12 +3,12 @@ title: WiFi Calling
 type: concept
 tags:
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7f037181b68a4d68b464eb45ecd967b2
+notion_url: https://www.notion.so/Tizer/7f037181b68a4d68b464eb45ecd967b2
 notion_id: 7f037181-b68a-4d68-b464-eb45ecd967b2
 ---
 

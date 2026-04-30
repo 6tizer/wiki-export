@@ -7,7 +7,7 @@ tags:
 - 笔记工具
 status: 审核中
 confidence: high
-last_compiled: '2026-04-30'
+last_compiled: '2026-05-01'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/71e1b901a32e499a95475faf4e53bce5
@@ -86,7 +86,7 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 
 - [ClawBot](entities/ClawBot.md)
 
-- [LanceDB](concepts/LanceDB.md)
+- [LanceDB](entities/LanceDB.md)
 
 - [Idea File](concepts/Idea File.md)
 
@@ -273,3 +273,5 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 - [摘要：Why Karpathy's Second Brain Breaks at Agent Scale. How Mercury Solves It.](summaries/摘要：Why Karpathy's Second Brain Breaks at Agent Scale. How Mercury Solves It.md)（[原文](https://x.com/Ctrl_Alt_Zaid/status/2049082538686382397)）
 
 - [摘要：Mercury asks first — and remembers what matters.](summaries/摘要：Mercury asks first — and remembers what matters.md)（[原文](https://x.com/AYi_AInotes/status/2049318687065174449)）
+
+- [摘要：Nowledge Mem 0.8：LLM Wiki](summaries/摘要：Nowledge Mem 0.8：LLM Wiki.md)（[原文](https://x.com/wey_gu/status/2049720331850625229)）

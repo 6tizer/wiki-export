@@ -3,12 +3,12 @@ title: Open Interest
 type: concept
 tags:
 - Crypto/DeFi
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/96245d546d554f0fbfe9607ae589e61d
+notion_url: https://www.notion.so/Tizer/96245d546d554f0fbfe9607ae589e61d
 notion_id: 96245d54-6d55-4f0f-bfe9-607ae589e61d
 ---
 

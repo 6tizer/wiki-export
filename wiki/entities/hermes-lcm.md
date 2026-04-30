@@ -4,12 +4,12 @@ type: entity
 tags:
 - 记忆系统
 - Agent 技能
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/141b8b06c1774e3c99c26e80cb056d47
+notion_url: https://www.notion.so/Tizer/141b8b06c1774e3c99c26e80cb056d47
 notion_id: 141b8b06-c177-4e3c-99c2-6e80cb056d47
 ---
 

@@ -4,12 +4,12 @@ type: concept
 tags:
 - LLM
 - 多模态
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/79b21850dbf2479293cb8982a0e076eb
+notion_url: https://www.notion.so/Tizer/79b21850dbf2479293cb8982a0e076eb
 notion_id: 79b21850-dbf2-4792-93cb-8982a0e076eb
 ---
 

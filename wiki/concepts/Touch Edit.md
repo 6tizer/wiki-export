@@ -3,12 +3,12 @@ title: Touch Edit
 type: concept
 tags:
 - 图像生成
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2db38f9651c740d2808567d90a3a2e4c
+notion_url: https://www.notion.so/Tizer/2db38f9651c740d2808567d90a3a2e4c
 notion_id: 2db38f96-51c7-40d2-8085-67d90a3a2e4c
 ---
 

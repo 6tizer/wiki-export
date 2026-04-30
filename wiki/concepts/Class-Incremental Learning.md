@@ -4,12 +4,12 @@ type: concept
 tags:
 - LLM
 - 训练/微调
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6ce6d853bc404a4890491c81c6c73c06
+notion_url: https://www.notion.so/Tizer/6ce6d853bc404a4890491c81c6c73c06
 notion_id: 6ce6d853-bc40-4a48-9049-1c81c6c73c06
 ---
 

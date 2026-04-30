@@ -3,12 +3,12 @@ title: DreamZero
 type: entity
 tags:
 - LLM
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/df855c3adf1443029540c480651269ae
+notion_url: https://www.notion.so/Tizer/df855c3adf1443029540c480651269ae
 notion_id: df855c3a-df14-4302-9540-c480651269ae
 ---
 

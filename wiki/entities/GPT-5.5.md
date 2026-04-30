@@ -5,7 +5,7 @@ tags:
 - Agent 协作模式
 - AI 产品
 - 推理优化
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-29'
 source_tags: ''

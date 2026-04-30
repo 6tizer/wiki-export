@@ -10,7 +10,7 @@ confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/444148d511394043873d581f91cd8469
+notion_url: https://www.notion.so/Tizer/444148d511394043873d581f91cd8469
 notion_id: 444148d5-1139-4043-873d-581f91cd8469
 ---
 
@@ -41,3 +41,5 @@ Pixelle-Video 是阿里 AIDC（阿里巴巴国际站数字商务集团人工智�
 ## 来源引用
 
 - [摘要：阿里把视频生产线开源了：一个人，真的能干翻整个MCN](summaries/摘要：阿里把视频生产线开源了：一个人，真的能干翻整个MCN.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzYzNzgzNzQ0OQ%3D%3D&mid=2247483895&idx=1&sn=7346fd7d8397d1271cd0c780157dfefc&chksm=f1e707ee7416ed4be2b8d89c794c3153196290af1006554d832ff3bef8d31ff55e3366242af5#rd)）
+
+- [摘要：GitHub开源 —— AI 全自动短视频引擎！！](summaries/摘要：GitHub开源 —— AI 全自动短视频引擎！！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyNDYyODg0MQ%3D%3D&mid=2247493101&idx=1&sn=467c5e7781694d7389ba28c2567003c2&chksm=c0981c5f23f2d645afdbee0d41b4af3c5c32b8f23652755acb5c9de16c295d4ca19e39c69586#rd)）
