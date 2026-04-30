@@ -1,14 +1,13 @@
 ---
 title: L-GALAXIES 半解析模型
 type: concept
-tags:
-- 开发工具
+tags: []
 status: 草稿
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7b5656db97ab40a5bbe0cd3479c25058
+notion_url: https://www.notion.so/Tizer/7b5656db97ab40a5bbe0cd3479c25058
 notion_id: 7b5656db-97ab-40a5-bbe0-cd3479c25058
 ---
 

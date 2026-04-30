@@ -1,14 +1,13 @@
 ---
 title: ΛCDM 模型
 type: concept
-tags:
-- 开发工具
+tags: []
 status: 草稿
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8958f087ff30459ea35a70de933e187e
+notion_url: https://www.notion.so/Tizer/8958f087ff30459ea35a70de933e187e
 notion_id: 8958f087-ff30-459e-a35a-70de933e187e
 ---
 

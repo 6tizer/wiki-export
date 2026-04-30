@@ -32,6 +32,8 @@ On-Policy Distillation 是一种把当前交互过程中的高质量纠正或示
 
 - [摘要：OpenClaw-RL：边用边训练，用对话驯化你的专属 AI Agent](summaries/摘要：OpenClaw-RL：边用边训练，用对话驯化你的专属 AI Agent.md)（[原文](https://x.com/Sumanth_077/status/2032459588390502566)）
 
+- [摘要：刚刚，DeepSeek最新成果，节前发布！](summaries/摘要：刚刚，DeepSeek最新成果，节前发布！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg%3D%3D&mid=2247722411&idx=1&sn=bdec00adace587c9737956cd7554bdb4&chksm=e900cea0128d25e4398f9e439ce550cf8de63aabb709f43fd4040baeceb7cd184cf5104f51f7#rd)）｜On-Policy Distillation 用于将 box/point 两个专家模型统一蒸馏
+
 ## 关联概念
 
 - [OpenClaw-RL](entities/OpenClaw-RL.md)

@@ -75,3 +75,13 @@ notion_id: 68a41e76-b0d4-4071-8cca-217cdd1b9810
 - [DeepGEMM](entities/DeepGEMM.md)
 
 - [Dual-kernel](concepts/Dual-kernel.md)
+
+- [Visual Primitives](concepts/Visual Primitives.md)
+
+**补充：多模态产品化**
+
+- 2026年4月底，DeepSeek 主产品首次上线识图模式，联合北大、清华发布论文《Thinking with Visual Primitives》
+
+- 模型架构与 V4-Flash 一致（284B-A13B），引入视觉原语实现拓扑推理突破
+
+- 来源：[摘要：刚刚，DeepSeek最新成果，节前发布！](summaries/摘要：刚刚，DeepSeek最新成果，节前发布！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg%3D%3D&mid=2247722411&idx=1&sn=bdec00adace587c9737956cd7554bdb4&chksm=e900cea0128d25e4398f9e439ce550cf8de63aabb709f43fd4040baeceb7cd184cf5104f51f7#rd)）

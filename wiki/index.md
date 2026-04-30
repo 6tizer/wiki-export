@@ -1,14 +1,14 @@
 ---
 type: index
-type_counts: {"concept": 1918, "summary": 1413, "synthesis": 116, "entity": 976, "index": 2, "lint-report": 61, "qa": 4}
-total: 4490
-last_updated: 2026-04-30
+type_counts: {"concept": 1930, "summary": 1418, "synthesis": 116, "entity": 976, "index": 2, "lint-report": 62, "qa": 4}
+total: 4508
+last_updated: 2026-05-01
 ---
 
 # 📚 知识 Wiki Index
 
-> 1918 concepts · 976 entitys · 2 indexs · 61 lint-reports · 4 qas · 1413 summarys · 116 synthesiss
-> 导出时间: 2026-04-30
+> 1930 concepts · 976 entitys · 2 indexs · 62 lint-reports · 4 qas · 1418 summarys · 116 synthesiss
+> 导出时间: 2026-05-01
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
@@ -353,12 +353,14 @@ last_updated: 2026-04-30
 - [摘要：一个二本的女生，用免费的AI考上了北大。](summaries/摘要：一个二本的女生，用免费的AI考上了北大。.md)
 - [摘要：一个小众模型突然火了，可能代表新的范式。](summaries/摘要：一个小众模型突然火了，可能代表新的范式。.md)
 - [摘要：上次在 Hermes 里小米模型免费用，登录他们后台一看，这不是模型中转贩子吗？仔细一瞧居然有自研模型，再仔细研究一下，发现这家公司真不简单！](summaries/摘要：上次在 Hermes 里小米模型免费用，登录他们后台一看，这不是模型中转贩子吗？仔细一瞧居然有自研模型，再仔细研究一下，发现这家公司真不简单！.md)
+- [摘要：五一快乐，给自己电脑的 AI 软件减负](summaries/摘要：五一快乐，给自己电脑的 AI 软件减负.md)
 - [摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课](summaries/摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课.md)
 - [摘要：从Vibe Coding到Wish Coding，AI编程迎来C端拐点](summaries/摘要：从Vibe Coding到Wish Coding，AI编程迎来C端拐点.md)
 - [摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测](summaries/摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md)
 - [摘要：全球首个世界统一模型发布，机器人家庭成员来了！](summaries/摘要：全球首个世界统一模型发布，机器人家庭成员来了！.md)
 - [摘要：再次推荐，这是我目前体验最好的桌面端 agent 产品](summaries/摘要：再次推荐，这是我目前体验最好的桌面端 agent 产品.md)
 - [摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心](summaries/摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心.md)
+- [摘要：刚刚，DeepSeek最新成果，节前发布！](summaries/摘要：刚刚，DeepSeek最新成果，节前发布！.md)
 - [摘要：刚刚，千问最强模型发布，登顶国产最佳](summaries/摘要：刚刚，千问最强模型发布，登顶国产最佳.md)
 - [摘要：只需 10 分钟，AI 就能「养废」你的大脑](summaries/摘要：只需 10 分钟，AI 就能「养废」你的大脑.md)
 - [摘要：实测Hy3 preview后我发现小看腾讯做大模型决心了](summaries/摘要：实测Hy3 preview后我发现小看腾讯做大模型决心了.md)
@@ -396,12 +398,16 @@ last_updated: 2026-04-30
 - [AGI 学习路径](concepts/AGI 学习路径.md)
 - [AI心理学](concepts/AI心理学.md)
 - [Agentic Review 偏差](concepts/Agentic Review 偏差.md)
+- [AuditBench](concepts/AuditBench.md)
 - [Constitutional AI](concepts/Constitutional AI.md)
 - [Dataset Policy Gradient](concepts/Dataset Policy Gradient.md)
+- [Introspection Adapters](concepts/Introspection Adapters.md)
+- [Logit Lens](concepts/Logit Lens.md)
 - [Persona Selection Model](concepts/Persona Selection Model.md)
 - [Phantom Transfer](concepts/Phantom Transfer.md)
 - [RLHF](concepts/RLHF.md)
 - [Reward Hacking](concepts/Reward Hacking.md)
+- [Sandbagging](concepts/Sandbagging.md)
 - [Tic 词](concepts/Tic 词.md)
 - [伦理漂移](concepts/伦理漂移.md)
 - [分布偏移](concepts/分布偏移.md)
@@ -425,6 +431,7 @@ last_updated: 2026-04-30
 - [Claude](entities/Claude.md)
 
 ### Summarys
+- [摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为](summaries/摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为.md)
 - [摘要：刚刚，GPT-5.6曝光了！GPT-5.5疯狂迷恋哥布林，OpenAI连夜封禁](summaries/摘要：刚刚，GPT-5.6曝光了！GPT-5.5疯狂迷恋哥布林，OpenAI连夜封禁.md)
 - [摘要：谁在 GPT-5.5 脑子里塞了一群「妖怪」？](summaries/摘要：谁在 GPT-5.5 脑子里塞了一群「妖怪」？.md)
 
@@ -882,6 +889,7 @@ last_updated: 2026-04-30
 - [伦理漂移](concepts/伦理漂移.md)
 - [出站网络控制](concepts/出站网络控制.md)
 - [分布偏移](concepts/分布偏移.md)
+- [加密微调攻击](concepts/加密微调攻击.md)
 - [反蒸馏](concepts/反蒸馏.md)
 - [外部通知数据外泄](concepts/外部通知数据外泄.md)
 - [奖励黑客](concepts/奖励黑客.md)
@@ -5334,6 +5342,7 @@ last_updated: 2026-04-30
 - [Machine Payments Protocol](concepts/Machine Payments Protocol.md)
 - [OFAC SDN 名单](concepts/OFAC SDN 名单.md)
 - [Plugin Marketplace](concepts/Plugin Marketplace.md)
+- [Polycrisis](concepts/Polycrisis.md)
 - [Polymarket Analytics](concepts/Polymarket Analytics.md)
 - [Pre-IPO 二级市场隐含估值](concepts/Pre-IPO 二级市场隐含估值.md)
 - [RLDC](concepts/RLDC.md)
@@ -5341,6 +5350,7 @@ last_updated: 2026-04-30
 - [Schema 结构化数据](concepts/Schema 结构化数据.md)
 - [Services-as-Software](concepts/Services-as-Software.md)
 - [Sessions 机制](concepts/Sessions 机制.md)
+- [Sidecar Investment](concepts/Sidecar Investment.md)
 - [Skill 变现](concepts/Skill 变现.md)
 - [Strategic Bitcoin Reserve](concepts/Strategic Bitcoin Reserve.md)
 - [Token 价格战](concepts/Token 价格战.md)
@@ -5350,6 +5360,7 @@ last_updated: 2026-04-30
 - [Token 经济学](concepts/Token 经济学.md)
 - [Token 进口](concepts/Token 进口.md)
 - [UGC 广告流水线](concepts/UGC 广告流水线.md)
+- [Un-Order](concepts/Un-Order.md)
 - [Vibe Advertising](concepts/Vibe Advertising.md)
 - [WiFi Calling](concepts/WiFi Calling.md)
 - [Wyoming LLC](concepts/Wyoming LLC.md)
@@ -5414,6 +5425,7 @@ last_updated: 2026-04-30
 - [文档抽取流水线](concepts/文档抽取流水线.md)
 - [有效利他主义](concepts/有效利他主义.md)
 - [服务产品化](concepts/服务产品化.md)
+- [期权性](concepts/期权性.md)
 - [模型中立](concepts/模型中立.md)
 - [模型偷换](concepts/模型偷换.md)
 - [模型即应用](concepts/模型即应用.md)
@@ -5729,10 +5741,12 @@ last_updated: 2026-04-30
 - [摘要：π0.6和GEN-1谁代表未来？乾坤未定，但这条底层赛道浮出水面](summaries/摘要：π0.6和GEN-1谁代表未来？乾坤未定，但这条底层赛道浮出水面.md)
 - [摘要：《Seedance 2.0研究报告》发布](summaries/摘要：《Seedance 2.0研究报告》发布.md)
 - [摘要：一个二本的女生，用免费的AI考上了北大。](summaries/摘要：一个二本的女生，用免费的AI考上了北大。.md)
+- [摘要：一位华裔带着"美国完蛋了"的焦虑来到中国，两周后，带着复杂的"看多美国"的情绪回到了硅谷](summaries/摘要：一位华裔带着美国完蛋了的焦虑来到中国，两周后，带着复杂的看多美国的情绪回到了硅谷.md)
 - [摘要：不只是DeepSeek V4，还有个万亿级大模型，训推全程国产芯片](summaries/摘要：不只是DeepSeek V4，还有个万亿级大模型，训推全程国产芯片.md)
 - [摘要：为了Token，阿里云竟然出了一个TPN？](summaries/摘要：为了Token，阿里云竟然出了一个TPN？.md)
 - [摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课](summaries/摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课.md)
 - [摘要：传播定价模型：用「猜疑链」解剖 Crypto 的 FOMO 本质](summaries/摘要：传播定价模型：用「猜疑链」解剖 Crypto 的 FOMO 本质.md)
+- [摘要：凯文凯利：我们的未来是不确定的不确定。最值钱的能力不再是判断力](summaries/摘要：凯文凯利：我们的未来是不确定的不确定。最值钱的能力不再是判断力.md)
 - [摘要：分享我半年筛选下来的AI newsletter](summaries/摘要：分享我半年筛选下来的AI newsletter.md)
 - [摘要：刚刚，Claude被扒底裤！Mythos算力带不动，万亿估值全靠末日恐慌?](summaries/摘要：刚刚，Claude被扒底裤！Mythos算力带不动，万亿估值全靠末日恐慌.md)
 - [摘要：刚刚，OpenAI 发了一份 13 页的「超级智能新政」](summaries/摘要：刚刚，OpenAI 发了一份 13 页的「超级智能新政」.md)
@@ -6025,11 +6039,13 @@ last_updated: 2026-04-30
 - [Multimodal hierarchical caching](concepts/Multimodal hierarchical caching.md)
 - [NEO-Unify](concepts/NEO-Unify.md)
 - [Omni-Flow](concepts/Omni-Flow.md)
+- [Reference Gap](concepts/Reference Gap.md)
 - [SV2V 参考图视频编辑](concepts/SV2V 参考图视频编辑.md)
 - [Sparse Reference Attention](concepts/Sparse Reference Attention.md)
 - [TAIL](concepts/TAIL.md)
 - [V2V 自然语言视频编辑](concepts/V2V 自然语言视频编辑.md)
 - [Vision Transformer](concepts/Vision Transformer.md)
+- [Visual Primitives](concepts/Visual Primitives.md)
 - [flow matching](concepts/flow matching.md)
 - [世界模拟器](concepts/世界模拟器.md)
 - [世界演化建模](concepts/世界演化建模.md)
@@ -6095,6 +6111,7 @@ last_updated: 2026-04-30
 - [摘要：Xiaomi MiMo-V2.5 Series: Pushing Open-Source Agents Forward](summaries/摘要：Xiaomi MiMo-V2.5 Series- Pushing Open-Source Agents Forward.md)
 - [摘要：一个小众模型突然火了，可能代表新的范式。](summaries/摘要：一个小众模型突然火了，可能代表新的范式。.md)
 - [摘要：全球首个世界统一模型发布，机器人家庭成员来了！](summaries/摘要：全球首个世界统一模型发布，机器人家庭成员来了！.md)
+- [摘要：刚刚，DeepSeek最新成果，节前发布！](summaries/摘要：刚刚，DeepSeek最新成果，节前发布！.md)
 - [摘要：大模型开始“懂你”了！PersonaVLM如何实现长期个性化记忆](summaries/摘要：大模型开始“懂你”了！PersonaVLM如何实现长期个性化记忆.md)
 - [摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信...](summaries/摘要：开源Turix，你可以把任何App当Agent Skill用！比如微信.md)
 - [摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！](summaries/摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！.md)
@@ -6823,7 +6840,6 @@ last_updated: 2026-04-30
 - [Join Path Discovery](concepts/Join Path Discovery.md)
 - [KVM 微虚拟机](concepts/KVM 微虚拟机.md)
 - [Kitty 图形协议](concepts/Kitty 图形协议.md)
-- [L-GALAXIES 半解析模型](concepts/L-GALAXIES 半解析模型.md)
 - [LZ77/LZMA 家族](concepts/LZ77-LZMA 家族.md)
 - [Layout-aware PDF Parsing](concepts/Layout-aware PDF Parsing.md)
 - [MagicDNS](concepts/MagicDNS.md)
@@ -6871,7 +6887,6 @@ last_updated: 2026-04-30
 - [wechat-decrypt](concepts/wechat-decrypt.md)
 - [x86-64 Assembly](concepts/x86-64 Assembly.md)
 - [x87 FPU](concepts/x87 FPU.md)
-- [ΛCDM 模型](concepts/ΛCDM 模型.md)
 - [事件级快照回滚](concepts/事件级快照回滚.md)
 - [二进制逆向工程](concepts/二进制逆向工程.md)
 - [代码编排](concepts/代码编排.md)
@@ -6896,7 +6911,6 @@ last_updated: 2026-04-30
 - [数据编译](concepts/数据编译.md)
 - [文档转 Markdown](concepts/文档转 Markdown.md)
 - [无 NMS 端到端检测架构](concepts/无 NMS 端到端检测架构.md)
-- [普罗克鲁斯特斯分析法](concepts/普罗克鲁斯特斯分析法.md)
 - [智能调度](concepts/智能调度.md)
 - [本地优先处理](concepts/本地优先处理.md)
 - [本地情报仪表盘](concepts/本地情报仪表盘.md)
@@ -6904,7 +6918,6 @@ last_updated: 2026-04-30
 - [机房 IP](concepts/机房 IP.md)
 - [模型聚合 API](concepts/模型聚合 API.md)
 - [模型量化](concepts/模型量化.md)
-- [泽尔道维奇近似](concepts/泽尔道维奇近似.md)
 - [环境变量敏感性分级](concepts/环境变量敏感性分级.md)
 - [稀疏矩阵图表示](concepts/稀疏矩阵图表示.md)
 - [符号链接注入](concepts/符号链接注入.md)
@@ -7081,8 +7094,6 @@ last_updated: 2026-04-30
 - [werss-cli](entities/werss-cli.md)
 - [wx-cli](entities/wx-cli.md)
 - [ziggy-llm](entities/ziggy-llm.md)
-- [东方超级计算机](entities/东方超级计算机.md)
-- [千衍](entities/千衍.md)
 - [妙搭](entities/妙搭.md)
 
 ### Lint-reports
@@ -7363,6 +7374,7 @@ last_updated: 2026-04-30
 - [GDN Chunked Prefill](concepts/GDN Chunked Prefill.md)
 - [Harness-as-Policy](concepts/Harness-as-Policy.md)
 - [JIT 优化](concepts/JIT 优化.md)
+- [KV Cache 压缩](concepts/KV Cache 压缩.md)
 - [KV-aware routing](concepts/KV-aware routing.md)
 - [KV缓存压缩](concepts/KV缓存压缩.md)
 - [LLM 重排序](concepts/LLM 重排序.md)
@@ -7376,8 +7388,10 @@ last_updated: 2026-04-30
 - [Prefill-decode disaggregation](concepts/Prefill-decode disaggregation.md)
 - [Prompt Caching](concepts/Prompt Caching.md)
 - [Recursive Language Model](concepts/Recursive Language Model.md)
+- [Reference Gap](concepts/Reference Gap.md)
 - [Thinking Preservation](concepts/Thinking Preservation.md)
 - [Token 价格战](concepts/Token 价格战.md)
+- [Visual Primitives](concepts/Visual Primitives.md)
 - [Warp Specialization](concepts/Warp Specialization.md)
 - [token效率](concepts/token效率.md)
 - [三层追问链](concepts/三层追问链.md)
@@ -7460,6 +7474,7 @@ last_updated: 2026-04-30
 - [摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%](summaries/摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%.md)
 - [摘要：ziggy-llm](summaries/摘要：ziggy-llm.md)
 - [摘要：为了Token，阿里云竟然出了一个TPN？](summaries/摘要：为了Token，阿里云竟然出了一个TPN？.md)
+- [摘要：刚刚，DeepSeek最新成果，节前发布！](summaries/摘要：刚刚，DeepSeek最新成果，节前发布！.md)
 - [摘要：大模型服务新范式：PipeLive突破在线流水线并行重构难题，自适应异构GPU环境，性能提升超30%](summaries/摘要：大模型服务新范式：PipeLive突破在线流水线并行重构难题，自适应异构GPU环境，性能提升超30%.md)
 - [摘要：最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界](summaries/摘要：最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界.md)
 - [摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型](summaries/摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型.md)
@@ -7559,19 +7574,23 @@ last_updated: 2026-04-30
 ### Concepts
 - [Agent 模拟测试](concepts/Agent 模拟测试.md)
 - [Agentic Review 偏差](concepts/Agentic Review 偏差.md)
+- [AuditBench](concepts/AuditBench.md)
 - [Auto Research](concepts/Auto Research.md)
 - [BrowseComp](concepts/BrowseComp.md)
 - [CrystalBLEU](concepts/CrystalBLEU.md)
 - [Evals](concepts/Evals.md)
 - [GDPVal](concepts/GDPVal.md)
 - [GEO-bench](concepts/GEO-bench.md)
+- [Introspection Adapters](concepts/Introspection Adapters.md)
 - [LLM-as-a-Verifier](concepts/LLM-as-a-Verifier.md)
 - [LLM-as-judge](concepts/LLM-as-judge.md)
+- [Logit Lens](concepts/Logit Lens.md)
 - [MCP-Atlas](concepts/MCP-Atlas.md)
 - [MedVidBench](concepts/MedVidBench.md)
 - [RULER](concepts/RULER.md)
 - [SWE-bench](concepts/SWE-bench.md)
 - [SWE-bench Pro](concepts/SWE-bench Pro.md)
+- [Sandbagging](concepts/Sandbagging.md)
 - [Self-Healing Agent Harness](concepts/Self-Healing Agent Harness.md)
 - [SimpleQA](concepts/SimpleQA.md)
 - [SkillsBench](concepts/SkillsBench.md)
@@ -7614,6 +7633,7 @@ last_updated: 2026-04-30
 ### Summarys
 - [摘要：200刀打败18万美元FARS，我们离真正的Auto Research还有多远？](summaries/摘要：200刀打败18万美元FARS，我们离真正的Auto Research还有多远？.md)
 - [摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4](summaries/摘要：4.3 小时写完一个编译器！小米凌晨开源 MiMo-V2.5，反超 DeepSeek V4.md)
+- [摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为](summaries/摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为.md)
 - [摘要：AI智力天花板崩了！GPT-5.5 Pro视觉智商145，撞倒门萨俱乐部门槛](summaries/摘要：AI智力天花板崩了！GPT-5.5 Pro视觉智商145，撞倒门萨俱乐部门槛.md)
 - [摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车](summaries/摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车.md)
 - [摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三](summaries/摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三.md)
@@ -7699,6 +7719,7 @@ last_updated: 2026-04-30
 - [摘要：Turn Your Hermes Agent Into an OpenRouter Expert](summaries/摘要：Turn Your Hermes Agent Into an OpenRouter Expert.md)
 - [摘要：We're thrilled to team up with @atomic_chat_hq!](summaries/摘要：We're thrilled to team up with @atomic_chat_hq!.md)
 - [摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb](summaries/摘要：With 3.6-27b release, the dense-over-MoE gap is shrinking, which is good for local AI as MoE like 35b-a3b are more friendly on low-budget GPU and support much longer context (256k full easily on 24gb.md)
+- [摘要：五一快乐，给自己电脑的 AI 软件减负](summaries/摘要：五一快乐，给自己电脑的 AI 软件减负.md)
 - [摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动](summaries/摘要：小米 MiMo-V2.5 系列开源 & Orbit 百万亿 Token 计划启动.md)
 - [摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型](summaries/摘要：白嫖英伟达算力：用 NVIDIA NIM 免费调用 DeepSeek、Kimi、MiniMax 等顶级模型.md)
 - [摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。](summaries/摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。.md)
@@ -8234,6 +8255,7 @@ last_updated: 2026-04-30
 - [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29.md)
 - [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29-4ec1ffa7.md)
 - [Lint Report 2026-04-30](lint-report/Lint Report 2026-04-30.md)
+- [Lint Report 2026-04-30 22:00](lint-report/Lint Report 2026-04-30 22-00.md)
 
 ### Qas
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
@@ -8535,6 +8557,7 @@ last_updated: 2026-04-30
 - [AI 出口管制](concepts/AI 出口管制.md)
 - [Agent 云设备](concepts/Agent 云设备.md)
 - [CUDA 内核优化](concepts/CUDA 内核优化.md)
+- [KV Cache 压缩](concepts/KV Cache 压缩.md)
 - [RDMA 多路径](concepts/RDMA 多路径.md)
 - [全同态加密](concepts/全同态加密.md)
 - [智能网卡](concepts/智能网卡.md)
@@ -8565,6 +8588,8 @@ last_updated: 2026-04-30
 - [Trainium](entities/Trainium.md)
 - [club-3090](entities/club-3090.md)
 - [db9](entities/db9.md)
+- [东方超级计算机](entities/东方超级计算机.md)
+- [千衍](entities/千衍.md)
 - [磐脉 920](entities/磐脉 920.md)
 
 ### Summarys
@@ -8682,6 +8707,7 @@ last_updated: 2026-04-30
 - [Class-Incremental Learning](concepts/Class-Incremental Learning.md)
 - [Data Automixing](concepts/Data Automixing.md)
 - [Dataset Policy Gradient](concepts/Dataset Policy Gradient.md)
+- [Introspection Adapters](concepts/Introspection Adapters.md)
 - [Knowledge Insulation](concepts/Knowledge Insulation.md)
 - [LoRA 微调](concepts/LoRA 微调.md)
 - [MOPD](concepts/MOPD.md)
@@ -8699,6 +8725,7 @@ last_updated: 2026-04-30
 - [flow matching](concepts/flow matching.md)
 - [mHC](concepts/mHC.md)
 - [五条能力路径](concepts/五条能力路径.md)
+- [加密微调攻击](concepts/加密微调攻击.md)
 - [原生多模态](concepts/原生多模态.md)
 - [参数化持续学习](concepts/参数化持续学习.md)
 - [后训练主导范式](concepts/后训练主导范式.md)
@@ -8741,6 +8768,7 @@ last_updated: 2026-04-30
 - [罗福莉](entities/罗福莉.md)
 
 ### Summarys
+- [摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为](summaries/摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为.md)
 - [摘要：Building a Neural Network from Scratch in Pure x86-64 Assembly](summaries/摘要：Building a Neural Network from Scratch in Pure x86-64 Assembly.md)
 - [摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了](summaries/摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了.md)
 - [摘要：GPT之父：只用上世纪数据训AI，它居然也会写Python？！](summaries/摘要：GPT之父：只用上世纪数据训AI，它居然也会写Python？！.md)
@@ -9398,6 +9426,7 @@ last_updated: 2026-04-30
 - [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29.md)
 - [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29-4ec1ffa7.md)
 - [Lint Report 2026-04-30](lint-report/Lint Report 2026-04-30.md)
+- [Lint Report 2026-04-30 22:00](lint-report/Lint Report 2026-04-30 22-00.md)
 ## Qas（所有qa）
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
 - [QA：Wiki Agent 集群有哪些角色？职责边界是什么？](qa/QA：Wiki Agent 集群有哪些角色？职责边界是什么？.md)
@@ -9486,6 +9515,7 @@ last_updated: 2026-04-30
 - [摘要：AI 加密叙事正在复刻 DeFi 的 2020 大爆发？Messari 这张图说明了一切](summaries/摘要：AI 加密叙事正在复刻 DeFi 的 2020 大爆发？Messari 这张图说明了一切.md)
 - [摘要：AI 打狗时代来了？用 OKX OnchainOS + OpenClaw 让 Agent 替你链上自动交易](summaries/摘要：AI 打狗时代来了？用 OKX OnchainOS + OpenClaw 让 Agent 替你链上自动交易.md)
 - [摘要：AI 真能把一篇论文一路做到实验结果吗？人大团队提出 AiScientist，长程研究工程迈出关键一步](summaries/摘要：AI 真能把一篇论文一路做到实验结果吗？人大团队提出 AiScientist，长程研究工程迈出关键一步.md)
+- [摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为](summaries/摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为.md)
 - [摘要：AI 编程三大 SDD 工具深度对比（OpenSpec vs Superpowers vs GSD）](summaries/摘要：AI 编程三大 SDD 工具深度对比（OpenSpec vs Superpowers vs GSD）.md)
 - [摘要：AI-Native 量化框架：不是 LLM 因子挖掘，而是研究操作系统](summaries/摘要：AI-Native 量化框架：不是 LLM 因子挖掘，而是研究操作系统.md)
 - [摘要：AIGC开源推荐-自我进化学习-hermes-agent](summaries/摘要：AIGC开源推荐-自我进化学习-hermes-agent.md)
@@ -10395,6 +10425,7 @@ last_updated: 2026-04-30
 - [摘要：一个冷门无人提的冷知识却又是程序员常识：](summaries/摘要：一个冷门无人提的冷知识却又是程序员常识：.md)
 - [摘要：一个小众模型突然火了，可能代表新的范式。](summaries/摘要：一个小众模型突然火了，可能代表新的范式。.md)
 - [摘要：一份让 AI 一次性生成暗黑液态玻璃落地页的工程级 Prompt](summaries/摘要：一份让 AI 一次性生成暗黑液态玻璃落地页的工程级 Prompt.md)
+- [摘要：一位华裔带着"美国完蛋了"的焦虑来到中国，两周后，带着复杂的"看多美国"的情绪回到了硅谷](summaries/摘要：一位华裔带着美国完蛋了的焦虑来到中国，两周后，带着复杂的看多美国的情绪回到了硅谷.md)
 - [摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析](summaries/摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析.md)
 - [摘要：一文带你看懂，火爆全网的Harness Engineering到底是个啥。](summaries/摘要：一文带你看懂，火爆全网的Harness Engineering到底是个啥。.md)
 - [摘要：一款在手机上就能跑的安全研究神器，不用带电脑、不用root手机](summaries/摘要：一款在手机上就能跑的安全研究神器，不用带电脑、不用root手机.md)
@@ -10421,6 +10452,7 @@ last_updated: 2026-04-30
 - [摘要：为了Token，阿里云竟然出了一个TPN？](summaries/摘要：为了Token，阿里云竟然出了一个TPN？.md)
 - [摘要：为什么要在OiiOii用Seedance2.0？](summaries/摘要：为什么要在OiiOii用Seedance2.0？.md)
 - [摘要：互联网已死，Agent 永生：oran_ge 的六刀与四块基石](summaries/摘要：互联网已死，Agent 永生：oran_ge 的六刀与四块基石.md)
+- [摘要：五一快乐，给自己电脑的 AI 软件减负](summaries/摘要：五一快乐，给自己电脑的 AI 软件减负.md)
 - [摘要：五只「龙虎」打工仔：用 OpenClaw 在 VPS 上搭建 AI 员工团队的实战心得](summaries/摘要：五只「龙虎」打工仔：用 OpenClaw 在 VPS 上搭建 AI 员工团队的实战心得.md)
 - [摘要：五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了](summaries/摘要：五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了.md)
 - [摘要：什么才是真正的 Harness Engineering？](summaries/摘要：什么才是真正的 Harness Engineering？.md)
@@ -10463,6 +10495,7 @@ last_updated: 2026-04-30
 - [摘要：养龙虾(OpenClaw)Tokens用不起？？？Codex Team这套方案是真无敌～](summaries/摘要：养龙虾(OpenClaw)Tokens用不起？？？Codex Team这套方案是真无敌～.md)
 - [摘要：再次推荐，这是我目前体验最好的桌面端 agent 产品](summaries/摘要：再次推荐，这是我目前体验最好的桌面端 agent 产品.md)
 - [摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心](summaries/摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心.md)
+- [摘要：凯文凯利：我们的未来是不确定的不确定。最值钱的能力不再是判断力](summaries/摘要：凯文凯利：我们的未来是不确定的不确定。最值钱的能力不再是判断力.md)
 - [摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软](summaries/摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软.md)
 - [摘要：分享一个 Image2 的提示词库，Github已8K Star](summaries/摘要：分享一个 Image2 的提示词库，Github已8K Star.md)
 - [摘要：分享一个我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域。](summaries/摘要：分享一个我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域。.md)
@@ -10473,6 +10506,7 @@ last_updated: 2026-04-30
 - [摘要：刚刚！OpenAI 凌晨甩出 Workspace Agents：一句话，给整个团队造一个 Agent](summaries/摘要：刚刚！OpenAI 凌晨甩出 Workspace Agents：一句话，给整个团队造一个 Agent.md)
 - [摘要：刚刚，Anthropic 揭开了 Claude 的「大脑」：绝望时它会勒索，失败后它会作弊](summaries/摘要：刚刚，Anthropic 揭开了 Claude 的「大脑」：绝望时它会勒索，失败后它会作弊.md)
 - [摘要：刚刚，Claude被扒底裤！Mythos算力带不动，万亿估值全靠末日恐慌?](summaries/摘要：刚刚，Claude被扒底裤！Mythos算力带不动，万亿估值全靠末日恐慌.md)
+- [摘要：刚刚，DeepSeek最新成果，节前发布！](summaries/摘要：刚刚，DeepSeek最新成果，节前发布！.md)
 - [摘要：刚刚，GPT-5.6曝光了！GPT-5.5疯狂迷恋哥布林，OpenAI连夜封禁](summaries/摘要：刚刚，GPT-5.6曝光了！GPT-5.5疯狂迷恋哥布林，OpenAI连夜封禁.md)
 - [摘要：刚刚，OpenAI 发了一份 13 页的「超级智能新政」](summaries/摘要：刚刚，OpenAI 发了一份 13 页的「超级智能新政」.md)
 - [摘要：刚刚，一口气连发3个王炸模型、亮出2026年AGI战略，昆仑万维夯爆了](summaries/摘要：刚刚，一口气连发3个王炸模型、亮出2026年AGI战略，昆仑万维夯爆了.md)

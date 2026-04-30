@@ -31,6 +31,8 @@ DeepSeek 是由幻方量化支持、以大模型研究与产品化为核心的 A
 
 - [摘要：一个二本的女生，用免费的AI考上了北大。](summaries/摘要：一个二本的女生，用免费的AI考上了北大。.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647681890&idx=1&sn=ee5e1d43ef3901e844d03cf7314dbdfb&chksm=f189dfa8724e5065c86dd738a61798efffdd2f880529e1350bf9a0d02f71f170ea268d7b675b#rd)）
 
+- [摘要：一位华裔带着"美国完蛋了"的焦虑来到中国，两周后，带着复杂的"看多美国"的情绪回到了硅谷](summaries/摘要：一位华裔带着美国完蛋了的焦虑来到中国，两周后，带着复杂的看多美国的情绪回到了硅谷.md)（[原文](https://mp.weixin.qq.com/s?__biz=MjM5OTc2NzA2MQ%3D%3D&mid=2651333019&idx=1&sn=67b777566fa4f0c401dee75e852877a5&chksm=bd19a4c07a53bb1474154144463f15de5969d36d9ad6810dfd52e02741b2cc5e0b7092fc67b3#rd)）
+
 ## 关联概念
 
 - [Anthropic](entities/Anthropic.md)

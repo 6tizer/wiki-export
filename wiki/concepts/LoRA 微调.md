@@ -27,3 +27,5 @@ LoRA 微调是一种参数高效微调方法，通过为预训练模型附加低
 ## 来源引用
 
 - [摘要：😱 谷歌偷偷开源了时序预测底座TimesFM 2.5，参数降到200M，上下文飙到16k。](summaries/摘要：😱 谷歌偷偷开源了时序预测底座TimesFM 2.5，参数降到200M，上下文飙到16k。.md)（[原文](https://x.com/oragnes/status/2046130320316207431)）
+
+- [摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为](summaries/摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA%3D%3D&mid=2247734195&idx=1&sn=e7ba307d92b758071f43af149a7c046d&chksm=91713367fb3fc33423f2b8e18868422e6dc43147b49cc046fac49f82b538c031b07ca5b4be66#rd)）

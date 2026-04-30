@@ -6,10 +6,10 @@ tags:
 - 开发工具
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-23'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f5743ae230c548f2a0ba7dff9a1a9329
+notion_url: https://www.notion.so/Tizer/f5743ae230c548f2a0ba7dff9a1a9329
 notion_id: f5743ae2-30c5-48f2-a0ba-7dff9a1a9329
 ---
 
@@ -28,3 +28,5 @@ AnythingLLM 是一个私有优先的文档问答与 AI Agent 平台，把文档�
 ## 来源引用
 
 - [摘要：10 Github repos that replace $855/month of paid AI tools](summaries/摘要：10 Github repos that replace $855-month of paid AI tools.md)（[原文](https://x.com/DeRonin_/status/2046903404279009472)）
+
+- [摘要：五一快乐，给自己电脑的 AI 软件减负](summaries/摘要：五一快乐，给自己电脑的 AI 软件减负.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI1MjU1MjU0NA%3D%3D&mid=2247492819&idx=1&sn=31ba3b62e5d5a326c30f284e0b405c2e&chksm=e8c80a9922a03ce6cabe293ac98d387cfe26a137663df6dcd013ff94b54212bf23fe1f0a2a58#rd)）— 已被 OpenClaw/IMA 等综合平台替代，独立存在价值降低
