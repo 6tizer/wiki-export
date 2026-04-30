@@ -12,7 +12,7 @@ confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6a8cb9b4e0474053be1b5f821ce03cef
+notion_url: https://www.notion.so/Tizer/6a8cb9b4e0474053be1b5f821ce03cef
 notion_id: 6a8cb9b4-e047-4053-be1b-5f821ce03cef
 ---
 
@@ -93,6 +93,8 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 - [摘要：new update to the LLM Knowledge base](summaries/摘要：new update to the LLM Knowledge base.md)（[原文](https://x.com/shannholmberg/status/2047013785857302550)）
 
 - [摘要：200刀打败18万美元FARS，我们离真正的Auto Research还有多远？](summaries/摘要：200刀打败18万美元FARS，我们离真正的Auto Research还有多远？.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw%3D%3D&mid=2247719869&idx=1&sn=286785641a7ed52f6a793ada026e99b7&chksm=97fd86517cd8ac029041769d3854be3aa40b9cfb029f9227e4c44dddc772f6182f320b544355#rd)）
+
+- [摘要：我把 Karpathy 的 AutoResearch 搬到了软件开发领域，效果炸了](summaries/摘要：我把 Karpathy 的 AutoResearch 搬到了软件开发领域，效果炸了.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ%3D%3D&mid=2247606664&idx=1&sn=34e95bd76d66935c85b61ed791983041&chksm=c14a0674bcce5652baa86c6abc2cd4e4c262f81d5315768d929af6f36022a87c42917c19224f#rd)）
 
 ## 关联概念
 

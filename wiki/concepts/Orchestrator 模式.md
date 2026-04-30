@@ -7,10 +7,10 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: high
-last_compiled: '2026-04-20'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/06e009e6ba284035af6207bc2ce09a32
+notion_url: https://www.notion.so/Tizer/06e009e6ba284035af6207bc2ce09a32
 notion_id: 06e009e6-ba28-4035-af62-07bc2ce09a32
 ---
 
@@ -39,6 +39,8 @@ Orchestrator 模式是一种让主 Agent 主要负责规划、拆解与调度，
 - [摘要：Single-agent AI coding is a nightmare for engineers](summaries/摘要：Single-agent AI coding is a nightmare for engineers.md)（[原文](https://x.com/MilksandMatcha/status/2044863551186309460)）
 
 - [摘要：Composing a Search Engine](summaries/摘要：Composing a Search Engine.md)（[原文](https://exa.ai/blog/composing-a-search-engine)）
+
+- [摘要：Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything](summaries/摘要：Sub-Agents vs Agent Teams- The Architecture Decision That Changes Everything.md)（[原文](https://x.com/NainsiDwiv50980/status/2049529787300090344)）
 
 ## 关联概念
 

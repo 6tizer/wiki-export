@@ -82,6 +82,8 @@ wechat-cli项目等实际项目均由GLM-5.1赞助开发，展示了其在长程
 
 - [摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes](summaries/摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode - Cursor - Hermes.md)（[原文](https://x.com/dhruvtwt_/status/2047006444701274380)）
 
+- [摘要：国企领导："现在都是 Agent自动开发了，你还在对话模式，太落后了！"](summaries/摘要：国企领导：现在都是 Agent自动开发了，你还在对话模式，太落后了！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA%3D%3D&mid=2247546961&idx=1&sn=9c277dcdefba84a56f352c890d562bda&chksm=96c46750ea40bb030f4f0b98294df3d8d4485ee1751637d816106fcb0939494c6a135c377731#rd)）
+
 ## 关联概念
 
 - [Hermes Agent](entities/Hermes Agent.md)

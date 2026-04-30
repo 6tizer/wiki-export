@@ -45,3 +45,5 @@ notion_id: 1edab3c7-d5b0-4b10-acab-1f2fb0b0cabf
 - [摘要：OpenAI刚刚开源的这个东西，感觉要把程序员的工作方式给整个改写了。](summaries/摘要：OpenAI刚刚开源的这个东西，感觉要把程序员的工作方式给整个改写了。.md)（[原文](https://x.com/AYi_AInotes/status/2049100434137026673)）
 
 - [摘要：Live streaming](summaries/摘要：Live streaming.md)（[原文](https://x.com/jiayuan_jy/status/2049027815195000840)）
+
+- [摘要：OpenAI开源Symphony：给每一个任务配一个永不下班的 AI员工](summaries/摘要：OpenAI开源Symphony：给每一个任务配一个永不下班的 AI员工.md)（[原文](https://x.com/vista8/status/2049484504444834126)）

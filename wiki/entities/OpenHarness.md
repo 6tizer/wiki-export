@@ -9,7 +9,7 @@ confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6b6f273febd242bf9ca08d4a8ec0906c
+notion_url: https://www.notion.so/Tizer/6b6f273febd242bf9ca08d4a8ec0906c
 notion_id: 6b6f273f-ebd2-42bf-9ca0-8d4a8ec0906c
 ---
 
@@ -100,3 +100,5 @@ OpenClaw 自动识别 [SKILL.md](http://skill.md/)，赋予 Harness 能力。
 - 《OpenHarness：港大实验室用 3% 的代码复刻了 80% 的 Claude Code 能力》｜X书签文章｜原文链接：[https://x.com/0xLogicrw/status/2039967740140867994](https://x.com/0xLogicrw/status/2039967740140867994)｜来源条目：[摘要：OpenHarness：港大实验室用 3% 的代码复刻了 80% 的 Claude Code 能力](summaries/摘要：OpenHarness：港大实验室用 3% 的代码复刻了 80% 的 Claude Code 能力.md)
 
 - 《OpenHarness：港大开源的 Claude Code 轻量平替，44 倍瘦身只保留 98% 核心功力》｜X书签文章｜原文链接：[https://x.com/Jason23818126/status/2040624214303211626](https://x.com/Jason23818126/status/2040624214303211626)｜来源条目：[摘要：OpenHarness：港大开源的 Claude Code 轻量平替，44 倍瘦身只保留 98% 核心功力](summaries/摘要：OpenHarness：港大开源的 Claude Code 轻量平替，44 倍瘦身只保留 98% 核心功力.md)
+
+- [摘要：清华团队预言：90%的人将脱离谋生劳动，「零人公司」时代来了！](summaries/摘要：清华团队预言：90%的人将脱离谋生劳动，「零人公司」时代来了！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652696540&idx=1&sn=c72dcf9565f0cb1eabae75d0f8a87384&chksm=f00580eaebb0cab4332578f497b3f922561b1982cd90f07a008e333aadfa1255767b319e47ed#rd)）

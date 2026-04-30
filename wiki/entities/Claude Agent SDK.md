@@ -6,7 +6,7 @@ tags:
 - Agent 框架
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-29'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/b07bdc858448493b961e3dc4b4bbe511
@@ -34,6 +34,8 @@ Claude Agent SDK 是 Anthropic 提供的 Agent 接入层，用来通过 SDK 或 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzY0MDAzNzk3MA%3D%3D&mid=2247484430&idx=1&sn=a8cd136df0161ab4a5fe53b3a6a65990&chksm=f1c76fc519e5fdfca727bfdba977647d756e2865da0de591baae80902002af1c8c1d324b1a9e#rd)｜《136K Stars 的 OpenCode 凭什么碾压 Claude Code SDK？TUI 界面都能被插件替换，Claude Code 一个像素都动不了》｜来源条目：[摘要：136K Stars 的 OpenCode 凭什么碾压 Claude Code SDK？TUI 界面都能被插件替换，Claude Code 一个像素都动不了](summaries/摘要：136K Stars 的 OpenCode 凭什么碾压 Claude Code SDK？TUI 界面都能被插件替换，Claude Code 一个像素都动不了.md)
 
 - [摘要：AgentOS now supports Claude Code, LangGraph, and DSPy](summaries/摘要：AgentOS now supports Claude Code, LangGraph, and DSPy.md)（[原文](https://x.com/ashpreetbedi/status/2049511642946249143)）
+
+- [摘要：Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything](summaries/摘要：Sub-Agents vs Agent Teams- The Architecture Decision That Changes Everything.md)（[原文](https://x.com/NainsiDwiv50980/status/2049529787300090344)）
 
 ## 关联概念
 

@@ -29,3 +29,5 @@ notion_id: 39b6b622-659c-4cdd-ace0-cf7e95a570e8
 **来源引用**
 
 - [摘要：全世界消耗Token最多的人](summaries/摘要：全世界消耗Token最多的人.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247627553&idx=3&sn=1d38f00fcafe6f689e98499e353daa17&chksm=c3b1d88b191e9555fa11c05911c4d90bf4d8f30545c89d4ae8114b685a1de702f73bac7d628b#rd)）
+
+- [摘要：The harness as the context manager](summaries/摘要：The harness as the context manager.md)（[原文](https://x.com/tonygentilcore/status/2049482833111232694)）

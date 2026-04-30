@@ -50,6 +50,8 @@ notion_id: 68a41e76-b0d4-4071-8cca-217cdd1b9810
 
 - [摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了](summaries/摘要：DeepSeek不惜代价保住它！V4关键特性被挖出来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247887476&idx=1&sn=0ae5c990a3f2376794effe890264a4cf&chksm=e90f4689c3631f787a3d75e7836cc7206e8ee5fa3f2182a39b1e5dbb15dc71b0f5c72dc6ab75#rd)）
 
+- [摘要：不只是DeepSeek V4，还有个万亿级大模型，训推全程国产芯片](summaries/摘要：不只是DeepSeek V4，还有个万亿级大模型，训推全程国产芯片.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651031117&idx=1&sn=b9aacd983e393ee1ae42f2851c300de9&chksm=859d232aed1a7ffb25ee00767e0aad4a30b7afb686da93b07f98091e58cf2b2119f8c2cc1f66#rd)）
+
 **关联概念**
 
 - [mHC](concepts/mHC.md)

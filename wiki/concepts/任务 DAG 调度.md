@@ -6,10 +6,10 @@ tags:
 - 多Agent协作
 status: 审核中
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/bf5cabcf77114f07bd30242feea30853
+notion_url: https://www.notion.so/Tizer/bf5cabcf77114f07bd30242feea30853
 notion_id: bf5cabcf-7711-4f07-bd30-242feea30853
 ---
 
@@ -30,6 +30,8 @@ notion_id: bf5cabcf-7711-4f07-bd30-242feea30853
 - Open-Multi-Agent：从 Claude Code 源码泄露中诞生的 TypeScript 多智能体框架（[原文](https://x.com/berryxia/status/2040556372887302229)）
 
 - [摘要：GBrain Minions：用 Postgres 任务队列，把多 Agent 系统从玩具拉到生产级](summaries/摘要：GBrain Minions：用 Postgres 任务队列，把多 Agent 系统从玩具拉到生产级.md)（[原文](https://x.com/AYi_AInotes/status/2045825582600958461)）
+
+- [摘要：OpenAI开源Symphony：给每一个任务配一个永不下班的 AI员工](summaries/摘要：OpenAI开源Symphony：给每一个任务配一个永不下班的 AI员工.md)（[原文](https://x.com/vista8/status/2049484504444834126)）— Symphony 用 DAG 管理任务依赖（如先迁移 Webpack→Vite 再升级 React）
 
 ## 关联概念
 

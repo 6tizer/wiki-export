@@ -46,8 +46,16 @@ Vibe Coding 强调「自然语言描述意图，Agent 生成代码」；Agentic 
 
 - [Fat Code](concepts/Fat Code.md)
 
+- [Context Engineering](concepts/Context Engineering.md)
+
+- [Software 3.0](concepts/Software 3.0.md)
+
+- [Vibe Coding](concepts/Vibe Coding.md)
+
 ## 来源引用
 
 - [原文链接](https://x.com/chenchengpro/status/2043697811993350611)｜《Garry Tan 提炼了他在 agentic engineering 领域的核心心法：Fat Skills, Fat Code, Thin Harness。》｜源文章：Garry Tan 的 Agent 工程心法：Fat Skills、Fat Code、Thin Harness
 
 - X 推文：[https://x.com/berryxia/status/2042603510102184346（SuperConductor](https://x.com/berryxia/status/2042603510102184346（SuperConductor) 宣传语，2026-04-10）
+
+- [摘要：Karpathy AI Ascent 2026：从 Vibe Coding 到 Agentic Engineering](summaries/摘要：Karpathy AI Ascent 2026：从 Vibe Coding 到 Agentic Engineering.md)（[原文](https://x.com/Av1dlive/status/2049561210593685876)）

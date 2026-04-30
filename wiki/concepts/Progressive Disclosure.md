@@ -38,3 +38,5 @@ Progressive Disclosure（渐进式披露）是一种上下文加载策略：先�
 - [摘要：How to cut Claude Code costs by 3x (using Karpathy's context engineering principles)](summaries/摘要：How to cut Claude Code costs by 3x (using Karpathy's context engineering principles).md)（[原文](https://x.com/_avichawla/status/2046500537584218438)）
 
 - [摘要：How to Give Claude Perfect Memory (complete guide)](summaries/摘要：How to Give Claude Perfect Memory (complete guide).md)（[原文](https://x.com/aiedge_/status/2046966170868486512)）
+
+- [摘要：The harness as the context manager](summaries/摘要：The harness as the context manager.md)（[原文](https://x.com/tonygentilcore/status/2049482833111232694)）

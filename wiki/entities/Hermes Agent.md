@@ -192,6 +192,8 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 - [摘要：15 Hermes Agent features you've never touched](summaries/摘要：15 Hermes Agent features you've never touched.md)（[原文](https://x.com/sharbel/status/2049158152709382177)）
 
+- [摘要：Hermes推出Curator功能：自动清理Skill 仓库](summaries/摘要：Hermes推出Curator功能：自动清理Skill 仓库.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA5MTIxNTY4MQ%3D%3D&mid=2461159595&idx=1&sn=118a32399db51abe9ca6ad54a390e59b&chksm=862d857db8f99a1e7421e0fba9162fba1aaf81ee3063a2ff913f7c6d41136ba6e6c215dc581c#rd)）
+
 ## 关联概念
 
 - [hermes-agent-camel](entities/hermes-agent-camel.md)
@@ -421,3 +423,7 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 - [语义切块](concepts/语义切块.md)
 
 - [Book Mirror](concepts/Book Mirror.md)
+
+- [Hermes Curator](concepts/Hermes Curator.md)
+
+- [Skill 生命周期管理](concepts/Skill 生命周期管理.md)

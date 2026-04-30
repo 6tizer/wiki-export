@@ -29,3 +29,5 @@ notion_id: cd6445a9-90be-4d1f-bbed-61c855d8f1eb
 ## 来源引用
 
 - [摘要：AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式](summaries/摘要：AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式.md)（[原文](https://x.com/yibie/status/2031222960372199523)）
+
+- [摘要：我把 Karpathy 的 AutoResearch 搬到了软件开发领域，效果炸了](summaries/摘要：我把 Karpathy 的 AutoResearch 搬到了软件开发领域，效果炸了.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ%3D%3D&mid=2247606664&idx=1&sn=34e95bd76d66935c85b61ed791983041&chksm=c14a0674bcce5652baa86c6abc2cd4e4c262f81d5315768d929af6f36022a87c42917c19224f#rd)）

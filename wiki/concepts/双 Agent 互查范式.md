@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1d607bf696854e2292593ac984f3b8f8
+notion_url: https://www.notion.so/Tizer/1d607bf696854e2292593ac984f3b8f8
 notion_id: 1d607bf6-9685-4e22-9259-3ac984f3b8f8
 ---
 
@@ -40,6 +40,8 @@ notion_id: 1d607bf6-9685-4e22-9259-3ac984f3b8f8
 ## 来源引用
 
 - [摘要：OpenCode + OMO ：小白也能快速搭建AI Agent应用](summaries/摘要：OpenCode + OMO ：小白也能快速搭建AI Agent应用.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMDQ0Nw%3D%3D&mid=2247484791&idx=1&sn=8e0baa4136cf4b90cadf5e23e3dee12a&chksm=fa23c722fefdd30dfabd5ec53292f22f64bcd97ca133c36264b4804657c84ae1a0e8ed4e31c1#rd)）
+
+- [摘要：国企领导："现在都是 Agent自动开发了，你还在对话模式，太落后了！"](summaries/摘要：国企领导：现在都是 Agent自动开发了，你还在对话模式，太落后了！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA%3D%3D&mid=2247546961&idx=1&sn=9c277dcdefba84a56f352c890d562bda&chksm=96c46750ea40bb030f4f0b98294df3d8d4485ee1751637d816106fcb0939494c6a135c377731#rd)）
 
 ## 关联概念
 

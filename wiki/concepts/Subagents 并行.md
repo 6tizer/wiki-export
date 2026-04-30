@@ -7,7 +7,7 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-29'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/48ff78c527b046edb6e5cee2ce5f5382
@@ -57,6 +57,8 @@ Subagents 并行是 Claude Cowork 中的一种多任务执行模式，允许主 
 - [摘要：Cursor 3 /multitask 异步子代理并行执行](summaries/摘要：Cursor 3 -multitask 异步子代理并行执行.md)（[原文](https://x.com/cursor_ai/status/2047764651363180839)）
 
 - [摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.](summaries/摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.md)（[原文](https://x.com/PawelHuryn/status/2048170309396926577)）
+
+- [摘要：The harness as the context manager](summaries/摘要：The harness as the context manager.md)（[原文](https://x.com/tonygentilcore/status/2049482833111232694)）
 
 ## 关联概念
 
