@@ -36,7 +36,7 @@ Book Mirror 是一种 OpenClaw/Hermes Skill，通过将书籍内容与 AI 对读
 
 - [OpenClaw](entities/OpenClaw.md)：执行平台，作为 Skill 宿主
 
-- [Hermes](entities/Hermes.md)：执行平台，与 OpenClaw 并列支持该 Skill
+- [Hermes Agent](entities/Hermes Agent.md)：执行平台，与 OpenClaw 并列支持该 Skill
 
 ## 原始文章信息
 

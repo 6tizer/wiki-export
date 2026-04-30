@@ -37,6 +37,8 @@ AWS、Alibaba Cloud、Ethereum Foundation、Solana、Base、Sui、Optimism、Apt
 
 - [摘要：AI Agent 不只会付款，更会做生意](summaries/摘要：AI Agent 不只会付款，更会做生意.md)（[原文](https://x.com/okxchinese/status/2049489287289438570)）
 
+- [摘要：Introducing APP: The Open Standard for Agent Commerce](summaries/摘要：Introducing APP- The Open Standard for Agent Commerce.md)（[原文](https://x.com/okx/status/2049488929448218760)）
+
 ## 关联概念
 
 - [OKX OnchainOS](entities/OKX OnchainOS.md)

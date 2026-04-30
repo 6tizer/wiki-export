@@ -7,7 +7,7 @@ tags:
 - 代码生成
 status: 审核中
 confidence: high
-last_compiled: '2026-04-29'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/0c445748e9294f00a39b12a0c0c2ecca
@@ -89,3 +89,5 @@ Terminal-Bench 2.0 是一个面向终端场景的编程能力测试基准，用�
 - [摘要：The AI war has just started: ChatGPT 5.5 vs Claude Opus 4.7](summaries/摘要：The AI war has just started- ChatGPT 5.5 vs Claude Opus 4.7.md)（[原文](https://x.com/defileo/status/2047748267526570468)）
 
 - [摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助](summaries/摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483197&idx=1&sn=c806fb90a6957dc03889b4e4f6353565&chksm=868e52b437295b86cd027481b982fc5bde25fabe57f952b8f9d155bae7e338a57d214c473c7b#rd)）
+
+- [摘要：Tuning Deep Agents to Work Well with Different Models](summaries/摘要：Tuning Deep Agents to Work Well with Different Models.md)（[原文](https://x.com/Vtrivedy10/status/2049535740233523600)）

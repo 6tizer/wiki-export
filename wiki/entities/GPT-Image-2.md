@@ -50,6 +50,8 @@ GPT-Image-2 是 OpenAI 的图像生成与编辑模型。在这篇实测中，它
 
 - [摘要：GPT-Image-2平替！最强开源生图模型来了](summaries/摘要：GPT-Image-2平替！最强开源生图模型来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652696301&idx=1&sn=40a255d23a8b0edaf8771b3799ad8304&chksm=f0f20c3245e872ed1063892734d3175e6fb20478e0bf12f8d4e99578455024aa9f648e6a7a31#rd)）
 
+- [摘要：保姆级教程！用Seedance 2.0+ GPT2.0做爆款短剧](summaries/摘要：保姆级教程！用Seedance 2.0+ GPT2.0做爆款短剧.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkxMjg4NDA4MA%3D%3D&mid=2247485201&idx=1&sn=761932ad14d55afec2386d56deb0da2c&chksm=c008f6758eaa1b093d3a668d2acd94d1eb5243fa03e46224a93f6ba078afead9f7eb221e4393#rd)）
+
 ## 关联概念
 
 - [图像提示词资产库](concepts/图像提示词资产库.md)

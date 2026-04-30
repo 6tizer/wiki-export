@@ -216,3 +216,5 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - [摘要：Cursor SDK — 用编程方式构建与 Cursor 同源的 AI 编码 Agent](summaries/摘要：Cursor SDK — 用编程方式构建与 Cursor 同源的 AI 编码 Agent.md)（[原文](https://x.com/cursor_ai/status/2049499866217185492)）
 
 - [摘要：AgentOS now supports Claude Code, LangGraph, and DSPy](summaries/摘要：AgentOS now supports Claude Code, LangGraph, and DSPy.md)（[原文](https://x.com/ashpreetbedi/status/2049511642946249143)）
+
+- [摘要：Cursor SDK 发布 — 将生产级编程 Agent 变为可嵌入基础设施](summaries/摘要：Cursor SDK 发布 — 将生产级编程 Agent 变为可嵌入基础设施.md)（[原文](https://x.com/AYi_AInotes/status/2049546472245408166)）

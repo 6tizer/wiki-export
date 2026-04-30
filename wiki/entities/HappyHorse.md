@@ -7,10 +7,10 @@ tags:
 - 商业/生态
 status: 草稿
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/fe5d5938e9f84a6c9a4952e8f3b68368
+notion_url: https://www.notion.so/Tizer/fe5d5938e9f84a6c9a4952e8f3b68368
 notion_id: fe5d5938-e9f8-4a6c-9a49-52e8f3b68368
 ---
 
@@ -56,6 +56,12 @@ HappyHorse（快乐小马）是阿里巴巴推出的 AI 视频生成与编辑模
 
 - [Sora](entities/Sora.md)
 
+- [Seedance 2.0](entities/Seedance 2.0.md)
+
+- [可灵](entities/可灵.md)
+
 ## 来源引用
 
 - [摘要：阿里「快乐小马」来了，首批网友已玩疯！720P低至0.44元/秒](summaries/摘要：阿里「快乐小马」来了，首批网友已玩疯！720P低至0.44元-秒.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652695709&idx=1&sn=28912efd11e0430f1f71113f20567298&chksm=f037f03efe37824790e1a6bac199399193ffb1f824b4c24ca3fd750435e3491eab69b8ee94d5#rd)）
+
+- [摘要：即梦、可灵、HappyHorse三强测评，谁翻车了？](summaries/摘要：即梦、可灵、HappyHorse三强测评，谁翻车了？.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk3NTQxODIxMQ%3D%3D&mid=2247533316&idx=1&sn=0e08b2934b99d56fb508ce3f5b2c10d1&chksm=c57e5300b36c287962503a985fe8d650287d0126ad8536a89b79d3524ceeca40880e99c91e15#rd)）

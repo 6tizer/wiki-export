@@ -60,6 +60,8 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 
 ## 来源引用
 
+- [摘要：Here's a fun skill you can teach your OpenClaw/Hermes — Book Mirror](summaries/摘要：Here's a fun skill you can teach your OpenClaw-Hermes — Book Mirror.md)（[原文](https://x.com/garrytan/status/2049059060427952164)）
+
 - [摘要：The Ultimate Open-Source Dev Stack](summaries/摘要：The Ultimate Open-Source Dev Stack.md)（[原文](https://x.com/AlphaSignalAI/status/2047014600713842728)）
 
 - [摘要：Hermes Agent 生态继续疯涨](summaries/摘要：Hermes Agent 生态继续疯涨.md)（[原文](https://x.com/GitTrend0x/status/2046526941038280756)）
@@ -411,3 +413,11 @@ GitHub: [https://github.com/coder-brzhang/hermes-rs](https://github.com/coder-br
 - [Builder-Operator 模式](concepts/Builder-Operator 模式.md)
 
 - [PolyBond](entities/PolyBond.md)
+
+- [MemOS](entities/MemOS.md)
+
+- [记忆操作系统](concepts/记忆操作系统.md)
+
+- [语义切块](concepts/语义切块.md)
+
+- [Book Mirror](concepts/Book Mirror.md)
