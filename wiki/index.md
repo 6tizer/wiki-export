@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1891, "summary": 1386, "synthesis": 111, "entity": 951, "index": 2, "lint-report": 60, "qa": 4}
-total: 4405
+type_counts: {"concept": 1891, "summary": 1386, "synthesis": 113, "entity": 951, "index": 2, "lint-report": 60, "qa": 4}
+total: 4407
 last_updated: 2026-04-30
 ---
 
 # 📚 知识 Wiki Index
 
-> 1891 concepts · 951 entitys · 2 indexs · 60 lint-reports · 4 qas · 1386 summarys · 111 synthesiss
+> 1891 concepts · 951 entitys · 2 indexs · 60 lint-reports · 4 qas · 1386 summarys · 113 synthesiss
 > 导出时间: 2026-04-30
 
 ## 使用方式
@@ -4342,6 +4342,7 @@ last_updated: 2026-04-30
 
 ### Synthesiss
 - [Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南](syntheses/Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南.md)
+- [Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑](syntheses/Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑.md)
 - [内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式](syntheses/内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式.md)
 - [大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进](syntheses/大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
@@ -4544,6 +4545,7 @@ last_updated: 2026-04-30
 
 ### Synthesiss
 - [Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进](syntheses/Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进.md)
+- [Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑](syntheses/Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑.md)
 - [LLM 运营经济学如何重塑生产工作流：从 Token 成本治理到多模型协同的工程化路径](syntheses/LLM 运营经济学如何重塑生产工作流：从 Token 成本治理到多模型协同的工程化路径.md)
 - [上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略](syntheses/上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略.md)
 - [注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈](syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md)
@@ -7508,6 +7510,9 @@ last_updated: 2026-04-30
 - [摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！](summaries/摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！.md)
 - [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)
 
+### Synthesiss
+- [模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界](syntheses/模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界.md)
+
 ## 模型部署
 ### Concepts
 - [API 故障转移路由](concepts/API 故障转移路由.md)
@@ -9154,6 +9159,7 @@ last_updated: 2026-04-30
 
 ### Synthesiss
 - [Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南](syntheses/Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南.md)
+- [Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑](syntheses/Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑.md)
 - [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
 - [可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto/DeFi 协议栈的跨域范式碰撞](syntheses/可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto-DeFi 协议栈的跨域范式碰撞.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
@@ -10658,6 +10664,7 @@ last_updated: 2026-04-30
 - [Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱](syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md)
 - [Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融](syntheses/Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融.md)
 - [Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进](syntheses/Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进.md)
+- [Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑](syntheses/Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑.md)
 - [Claude Code 最佳配置实践：从四层架构到成本治理的工程化调优全景](syntheses/Claude Code 最佳配置实践：从四层架构到成本治理的工程化调优全景.md)
 - [Codex 最佳配置实践：从 AGENTS.md 到插件生态与多 Agent 编排的工程化调优全景](syntheses/Codex 最佳配置实践：从 AGENTS.md 到插件生态与多 Agent 编排的工程化调优全景.md)
 - [Coding Agent 商业化路径分化：从开发者提效工具到消费级软件工厂的价值捕获与生态博弈](syntheses/Coding Agent 商业化路径分化：从开发者提效工具到消费级软件工厂的价值捕获与生态博弈.md)
@@ -10716,6 +10723,7 @@ last_updated: 2026-04-30
 - [开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径](syntheses/开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径.md)
 - [开发工具驱动的知识管理新范式：从手动收藏到 Agent 原生知识编译的工具链演进](syntheses/开发工具驱动的知识管理新范式：从手动收藏到 Agent 原生知识编译的工具链演进.md)
 - [技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路](syntheses/技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路.md)
+- [模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界](syntheses/模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界.md)
 - [注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈](syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md)
 - [知识 Wiki 双轨系统方案：从 Notion 编译引擎到本地 Markdown 分发层](syntheses/知识 Wiki 双轨系统方案：从 Notion 编译引擎到本地 Markdown 分发层.md)
 - [知识 Wiki 系统大升级：V2 设计决策与执行全记录](syntheses/知识 Wiki 系统大升级：V2 设计决策与执行全记录.md)

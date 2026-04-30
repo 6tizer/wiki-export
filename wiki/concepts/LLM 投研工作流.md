@@ -8,10 +8,10 @@ tags:
 - 提示工程
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-22'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5d1d5f2b46dd4219a9be8351bd0711ac
+notion_url: https://www.notion.so/Tizer/5d1d5f2b46dd4219a9be8351bd0711ac
 notion_id: 5d1d5f2b-46dd-4219-a9be-8351bd0711ac
 ---
 

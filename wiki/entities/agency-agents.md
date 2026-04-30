@@ -7,7 +7,7 @@ tags:
 - IDE 集成
 status: 审核中
 confidence: high
-last_compiled: '2026-04-29'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/ac06eb5e1e2841a399d0ca0662de7840
@@ -28,11 +28,11 @@ agency-agents 是一个面向多种 AI 开发工具的角色型 Agent 配置集�
 
 ## 来源引用
 
-- [摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门](summaries/摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门.md)
+- 摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门
 
 - [摘要：Agency Agents：用 147 个 AI 专家角色，把 Claude Code 变成一整家公司](summaries/摘要：Agency Agents：用 147 个 AI 专家角色，把 Claude Code 变成一整家公司.md)
 
-- [摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队](summaries/摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队.md)
+- 摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队
 
 ## 关联概念
 
