@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1896, "summary": 1397, "synthesis": 113, "entity": 966, "index": 2, "lint-report": 61, "qa": 4}
+type_counts: {"concept": 1896, "summary": 1398, "synthesis": 113, "entity": 965, "index": 2, "lint-report": 61, "qa": 4}
 total: 4439
 last_updated: 2026-04-30
 ---
 
 # 📚 知识 Wiki Index
 
-> 1896 concepts · 966 entitys · 2 indexs · 61 lint-reports · 4 qas · 1397 summarys · 113 synthesiss
+> 1896 concepts · 965 entitys · 2 indexs · 61 lint-reports · 4 qas · 1398 summarys · 113 synthesiss
 > 导出时间: 2026-04-30
 
 ## 使用方式
@@ -179,7 +179,6 @@ last_updated: 2026-04-30
 - [HappyHorse](entities/HappyHorse.md)
 - [HappyOyster](entities/HappyOyster.md)
 - [Helix](entities/Helix.md)
-- [Hermes](entities/Hermes.md)
 - [Higgsfield Marketing Studio](entities/Higgsfield Marketing Studio.md)
 - [Holo3](entities/Holo3.md)
 - [Huashu-Design](entities/Huashu-Design.md)
@@ -297,6 +296,7 @@ last_updated: 2026-04-30
 - [摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车](summaries/摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车.md)
 - [摘要：Abundance: Building an AI Capital Allocator](summaries/摘要：Abundance- Building an AI Capital Allocator.md)
 - [摘要：AgentOS now supports Claude Code, LangGraph, and DSPy](summaries/摘要：AgentOS now supports Claude Code, LangGraph, and DSPy.md)
+- [摘要：Agno 2.0：agent 框架的生产 runtime](summaries/摘要：Agno 2.0：agent 框架的生产 runtime.md)
 - [摘要：Architecture Diagram Generator：用 Claude Skill 30 秒画出一张架构图艺术品](summaries/摘要：Architecture Diagram Generator：用 Claude Skill 30 秒画出一张架构图艺术品.md)
 - [摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动](summaries/摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动.md)
 - [摘要：Claude Code Web/Mobile 刷新与 Teleport 功能发布](summaries/摘要：Claude Code Web-Mobile 刷新与 Teleport 功能发布.md)
@@ -3073,6 +3073,7 @@ last_updated: 2026-04-30
 - [摘要：15 Hermes Agent features you've never touched](summaries/摘要：15 Hermes Agent features you've never touched.md)
 - [摘要：A curated, high-signal index of autonomous improvement loops, research agents, and descendants inspired by](summaries/摘要：A curated, high-signal index of autonomous improvement loops, research agents, and descendants inspired by.md)
 - [摘要：AgentOS now supports Claude Code, LangGraph, and DSPy](summaries/摘要：AgentOS now supports Claude Code, LangGraph, and DSPy.md)
+- [摘要：Agno 2.0：agent 框架的生产 runtime](summaries/摘要：Agno 2.0：agent 框架的生产 runtime.md)
 - [摘要：Best GitHub repos for Claude Code that will 10x your next project in 2026](summaries/摘要：Best GitHub repos for Claude Code that will 10x your next project in 2026.md)
 - [摘要：Big drop for GBrain v0.19.](summaries/摘要：Big drop for GBrain v0.19.md)
 - [摘要：Claude Code 工作流模板 v2](summaries/摘要：Claude Code 工作流模板 v2.md)
@@ -9157,7 +9158,6 @@ last_updated: 2026-04-30
 - [EverOS](entities/EverOS.md)
 - [GBrain](entities/GBrain.md)
 - [Helix](entities/Helix.md)
-- [Hermes](entities/Hermes.md)
 - [Hermes Agent](entities/Hermes Agent.md)
 - [Hindsight](entities/Hindsight.md)
 - [Honcho](entities/Honcho.md)
@@ -9420,6 +9420,7 @@ last_updated: 2026-04-30
 - [摘要：AgentOS now supports Claude Code, LangGraph, and DSPy](summaries/摘要：AgentOS now supports Claude Code, LangGraph, and DSPy.md)
 - [摘要：Agentic Video is HTML: Open Sourcing HyperFrames](summaries/摘要：Agentic Video is HTML- Open Sourcing HyperFrames.md)
 - [摘要：Agents 201: The Unit Shrank](summaries/摘要：Agents 201- The Unit Shrank.md)
+- [摘要：Agno 2.0：agent 框架的生产 runtime](summaries/摘要：Agno 2.0：agent 框架的生产 runtime.md)
 - [摘要：All Platforms, One Memory](summaries/摘要：All Platforms, One Memory.md)
 - [摘要：Always-On Memory Agent：Google 开源的「会思考的大脑」，让你的 AI 助手不再失忆](summaries/摘要：Always-On Memory Agent：Google 开源的「会思考的大脑」，让你的 AI 助手不再失忆.md)
 - [摘要：Andrej Karpathy just made one of the most interesting arguments about AI model design that most people are completely missing.](summaries/摘要：Andrej Karpathy just made one of the most interesting arguments about AI model design that most people are completely missing.md)

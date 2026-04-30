@@ -5,10 +5,10 @@ tags:
 - RAG/检索
 status: 审核中
 confidence: high
-last_compiled: '2026-04-11'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/07396a4401cf4c839be29ffc004f0318
+notion_url: https://www.notion.so/Tizer/07396a4401cf4c839be29ffc004f0318
 notion_id: 07396a44-01cf-4c83-9be2-9ffc004f0318
 ---
 
@@ -51,3 +51,5 @@ GBrain 在文件数量超过 1000 时引入 Postgres + pgvector 作为检索层�
 - [GBrain README](https://github.com/garrytan/gbrain) — Garry Tan 的生产级 Agent 记忆系统
 
 - [原文链接](https://x.com/AlphaSignalAI/status/2044461541232148986)｜《How GBrain Works, and How to Actually Wire It Into Your Agents》｜来源条目：[摘要：How GBrain Works, and How to Actually Wire It Into Your Agents](summaries/摘要：How GBrain Works, and How to Actually Wire It Into Your Agents.md)
+
+- [摘要：Agno 2.0：agent 框架的生产 runtime](summaries/摘要：Agno 2.0：agent 框架的生产 runtime.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzYzNzg4ODc5NQ%3D%3D&mid=2247484325&idx=1&sn=bfcbaed95b8834a6c5a70b8eaae52df6&chksm=f1f8a3fe9687d8c180430e6658e5df0133606c5823bcce395bf7d09c3e763436b84445935a36#rd)）

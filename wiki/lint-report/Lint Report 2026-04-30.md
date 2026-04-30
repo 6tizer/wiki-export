@@ -112,7 +112,7 @@ notion_id: 80713e4a-a00d-4f32-aeb3-f27bbf8b95ef
 
 | --- | --- | --- | --- | --- | --- | --- |
 
-| [Untitled](entities/Hermes Agent.md) | entity | 已审核 | [Untitled](entities/Hermes.md) | entity | 草稿 | 同一产品，名称含/不含「Agent」后缀 |
+| [Untitled](entities/Hermes Agent.md) | entity | 已审核 | Untitled | entity | 草稿 | 同一产品，名称含/不含「Agent」后缀 |
 
 | [Untitled](concepts/Agent OS.md) | concept | 已审核 | [Untitled](entities/AgentOS.md) | entity | 草稿 | 空格差异，且类型不一致 |
 
@@ -328,7 +328,7 @@ notion_id: 80713e4a-a00d-4f32-aeb3-f27bbf8b95ef
 
 1. **重复合并：Hermes Agent / Hermes**
 
-  - 目标页：[Hermes](entities/Hermes.md)（草稿，新创建）
+  - 目标页：Hermes（草稿，新创建）
 
   - 操作：将 Hermes 草稿的有效内容合并至 [Hermes Agent](entities/Hermes Agent.md)（已审核），然后删除草稿重复页
 

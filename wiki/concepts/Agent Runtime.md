@@ -6,7 +6,7 @@ tags:
 - Coding Agent
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-29'
+last_compiled: '2026-04-30'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/cef838ab74184abe8b98007cf72a8bd5
@@ -24,6 +24,8 @@ notion_id: cef838ab-7418-4abe-8b98-007cf72a8bd5
 - 这一概念解释了为什么用户把 Windsurf 2.0 看作控制层，而不是单纯 IDE 功能更新
 
 ### 来源引用
+
+- [摘要：Agno 2.0：agent 框架的生产 runtime](summaries/摘要：Agno 2.0：agent 框架的生产 runtime.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzYzNzg4ODc5NQ%3D%3D&mid=2247484325&idx=1&sn=bfcbaed95b8834a6c5a70b8eaae52df6&chksm=f1f8a3fe9687d8c180430e6658e5df0133606c5823bcce395bf7d09c3e763436b84445935a36#rd)）
 
 - 2026-04-15｜《Velocity Card》｜X 线程：Windsurf 2.0 发布与讨论｜原文链接：[https://x.com/windsurf/status/2044513219730186732](https://x.com/windsurf/status/2044513219730186732)｜源页面：Windsurf 2.0：把 IDE 变成 Agent 指挥中心，关上电脑代码还在跑
 

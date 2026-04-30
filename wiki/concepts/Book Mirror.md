@@ -40,4 +40,4 @@ Book Mirror 是一种个性化阅读分析技术（OpenClaw/Hermes Skill），�
 
 - [OpenClaw](entities/OpenClaw.md)
 
-- [Hermes](entities/Hermes.md)
+- [Hermes Agent](entities/Hermes Agent.md)
