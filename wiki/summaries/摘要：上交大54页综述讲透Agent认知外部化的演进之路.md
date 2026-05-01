@@ -1,7 +1,10 @@
 ---
 title: 摘要：上交大54页综述讲透Agent认知外部化的演进之路
 type: summary
-tags: []
+tags:
+- Harness 工程
+- MCP 协议
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

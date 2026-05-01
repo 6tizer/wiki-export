@@ -1,7 +1,10 @@
 ---
 title: gpt-image-1.5
 type: entity
-tags: []
+tags:
+- 图像生成
+- AI 设计
+- 前端开发
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'

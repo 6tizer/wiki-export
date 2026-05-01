@@ -1,7 +1,9 @@
 ---
 title: AI 生存压力机制
 type: concept
-tags: []
+tags:
+- 量化交易
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

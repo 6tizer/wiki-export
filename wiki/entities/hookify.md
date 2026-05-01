@@ -1,7 +1,10 @@
 ---
 title: hookify
 type: entity
-tags: []
+tags:
+- Agent 安全
+- 提示工程
+- IDE 集成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

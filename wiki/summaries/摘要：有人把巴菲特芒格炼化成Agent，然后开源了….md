@@ -1,7 +1,10 @@
 ---
 title: 摘要：有人把巴菲特芒格炼化成Agent，然后开源了…
 type: summary
-tags: []
+tags:
+- 量化交易
+- 多Agent协作
+- 模型部署
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'

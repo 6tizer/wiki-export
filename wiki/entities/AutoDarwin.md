@@ -1,7 +1,10 @@
 ---
 title: AutoDarwin
 type: entity
-tags: []
+tags:
+- 量化交易
+- 加密资产
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

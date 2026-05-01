@@ -1,7 +1,10 @@
 ---
 title: Agent-native 后端
 type: concept
-tags: []
+tags:
+- Harness 工程
+- 链上协议
+- 加密资产
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'

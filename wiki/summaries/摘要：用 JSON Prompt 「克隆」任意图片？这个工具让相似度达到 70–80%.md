@@ -1,7 +1,10 @@
 ---
 title: 摘要：用 JSON Prompt 「克隆」任意图片？这个工具让相似度达到 70–80%
 type: summary
-tags: []
+tags:
+- 图像生成
+- 提示工程
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

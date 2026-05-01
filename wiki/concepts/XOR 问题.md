@@ -1,7 +1,8 @@
 ---
 title: XOR 问题
 type: concept
-tags: []
+tags:
+- 训练/微调
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

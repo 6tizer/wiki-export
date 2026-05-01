@@ -1,7 +1,10 @@
 ---
 title: 桌面 Agent
 type: concept
-tags: []
+tags:
+- 内容自动化
+- Agent 安全
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

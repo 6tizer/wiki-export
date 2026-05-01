@@ -1,7 +1,10 @@
 ---
 title: 摘要：GitButler：GitHub 联合创始人重新发明 Git，完成 1700 万美元 A 轮融资
 type: summary
-tags: []
+tags:
+- 加密资产
+- 上下文管理
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

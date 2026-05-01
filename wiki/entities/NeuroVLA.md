@@ -1,7 +1,9 @@
 ---
 title: NeuroVLA
 type: entity
-tags: []
+tags:
+- 多模态
+- 训练/微调
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

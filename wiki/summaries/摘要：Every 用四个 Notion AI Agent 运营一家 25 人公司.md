@@ -1,7 +1,10 @@
 ---
 title: 摘要：Every 用四个 Notion AI Agent 运营一家 25 人公司
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

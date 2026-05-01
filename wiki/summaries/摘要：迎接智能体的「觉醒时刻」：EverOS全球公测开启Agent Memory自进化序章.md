@@ -1,7 +1,10 @@
 ---
 title: 摘要：迎接智能体的「觉醒时刻」：EverOS全球公测开启Agent Memory自进化序章
 type: summary
-tags: []
+tags:
+- 长期记忆
+- RAG/检索
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

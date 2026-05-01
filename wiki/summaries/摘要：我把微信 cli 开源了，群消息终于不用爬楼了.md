@@ -1,7 +1,10 @@
 ---
 title: 摘要：我把微信 cli 开源了，群消息终于不用爬楼了
 type: summary
-tags: []
+tags:
+- 社交媒体
+- 内容自动化
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'

@@ -1,7 +1,8 @@
 ---
 title: LayerZero
 type: entity
-tags: []
+tags:
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

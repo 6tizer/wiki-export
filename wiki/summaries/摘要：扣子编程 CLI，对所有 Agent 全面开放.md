@@ -1,7 +1,10 @@
 ---
 title: 摘要：扣子编程 CLI，对所有 Agent 全面开放
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 加密资产
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：All Platforms, One Memory
 type: summary
-tags: []
+tags:
+- 长期记忆
+- RAG/检索
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

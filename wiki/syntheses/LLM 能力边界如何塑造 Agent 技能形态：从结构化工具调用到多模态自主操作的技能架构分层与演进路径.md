@@ -1,7 +1,10 @@
 ---
 title: LLM 能力边界如何塑造 Agent 技能形态：从结构化工具调用到多模态自主操作的技能架构分层与演进路径
 type: synthesis
-tags: []
+tags:
+- 多模态
+- MCP 协议
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-19'

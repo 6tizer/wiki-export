@@ -1,7 +1,10 @@
 ---
 title: 摘要：openclaw-weixin
 type: summary
-tags: []
+tags:
+- 身份准入
+- 训练/微调
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

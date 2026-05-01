@@ -1,7 +1,10 @@
 ---
 title: 摘要：Open-SWE：LangChain 开源的异步编程 Agent，让 AI 像队友一样提 PR
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- Harness 工程
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

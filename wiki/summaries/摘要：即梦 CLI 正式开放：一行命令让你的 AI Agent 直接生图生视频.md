@@ -1,7 +1,10 @@
 ---
 title: 摘要：即梦 CLI 正式开放：一行命令让你的 AI Agent 直接生图生视频
 type: summary
-tags: []
+tags:
+- 内容自动化
+- CLI 工具
+- 视频/3D
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

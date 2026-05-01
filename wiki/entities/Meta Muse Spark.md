@@ -1,7 +1,10 @@
 ---
 title: Meta Muse Spark
 type: entity
-tags: []
+tags:
+- 商业/生态
+- 多Agent协作
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

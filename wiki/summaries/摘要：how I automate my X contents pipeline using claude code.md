@@ -1,7 +1,10 @@
 ---
 title: 摘要：how I automate my X contents pipeline using claude code.
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 代码生成
+- 图像生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

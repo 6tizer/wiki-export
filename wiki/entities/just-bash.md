@@ -1,7 +1,10 @@
 ---
 title: just-bash
 type: entity
-tags: []
+tags:
+- Harness 工程
+- CLI 工具
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

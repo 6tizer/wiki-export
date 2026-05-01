@@ -1,7 +1,10 @@
 ---
 title: CyberMolt
 type: entity
-tags: []
+tags:
+- 加密资产
+- 量化交易
+- OpenClaw
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

@@ -1,7 +1,9 @@
 ---
 title: GEN-1
 type: entity
-tags: []
+tags:
+- 训练/微调
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：Why memory isn't a plugin (it's the harness)
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-14'

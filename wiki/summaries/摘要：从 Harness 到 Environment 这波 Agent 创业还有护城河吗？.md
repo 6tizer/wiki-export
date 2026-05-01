@@ -1,7 +1,10 @@
 ---
 title: 摘要：从 Harness 到 Environment? 这波 Agent 创业还有护城河吗？
 type: summary
-tags: []
+tags:
+- 商业/生态
+- Harness 工程
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'

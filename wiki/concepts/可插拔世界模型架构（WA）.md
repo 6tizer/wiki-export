@@ -1,7 +1,10 @@
 ---
 title: 可插拔世界模型架构（WA）
 type: concept
-tags: []
+tags:
+- 多模态
+- 模型评测
+- 链上协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

@@ -1,7 +1,10 @@
 ---
 title: TurboQuant
 type: entity
-tags: []
+tags:
+- 推理优化
+- 模型部署
+- 算力基础设施
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'

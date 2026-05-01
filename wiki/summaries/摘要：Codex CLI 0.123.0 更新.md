@@ -1,7 +1,10 @@
 ---
 title: 摘要：Codex CLI 0.123.0 更新
 type: summary
-tags: []
+tags:
+- CLI 工具
+- MCP 协议
+- 模型部署
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'

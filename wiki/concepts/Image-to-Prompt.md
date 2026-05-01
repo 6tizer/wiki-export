@@ -1,7 +1,10 @@
 ---
 title: Image-to-Prompt
 type: concept
-tags: []
+tags:
+- 多模态
+- 提示工程
+- 图像生成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

@@ -1,7 +1,9 @@
 ---
 title: 1-of-1 DVN 配置
 type: concept
-tags: []
+tags:
+- 链上协议
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

@@ -1,7 +1,10 @@
 ---
 title: Letta Code
 type: entity
-tags: []
+tags:
+- Harness 工程
+- 长期记忆
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-28'

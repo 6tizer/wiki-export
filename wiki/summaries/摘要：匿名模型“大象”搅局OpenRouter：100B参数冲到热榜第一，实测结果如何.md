@@ -1,7 +1,10 @@
 ---
 title: 摘要：匿名模型“大象”搅局OpenRouter：100B参数冲到热榜第一，实测结果如何
 type: summary
-tags: []
+tags:
+- 推理优化
+- 模型评测
+- 前端开发
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

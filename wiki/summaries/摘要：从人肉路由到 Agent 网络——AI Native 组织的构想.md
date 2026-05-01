@@ -1,7 +1,10 @@
 ---
 title: 摘要：从"人肉路由"到 Agent 网络——AI Native 组织的构想
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

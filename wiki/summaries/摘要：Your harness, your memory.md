@@ -1,7 +1,10 @@
 ---
 title: 摘要：Your harness, your memory
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 长期记忆
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

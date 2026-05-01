@@ -1,7 +1,10 @@
 ---
 title: 摘要：LangChain Deep Agents Deploy：开源 Agent 部署的生产级方案
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 模型部署
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

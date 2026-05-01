@@ -1,7 +1,10 @@
 ---
 title: 摘要：就一个 skills，凭啥 4w Star？
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 提示工程
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

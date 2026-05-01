@@ -1,7 +1,10 @@
 ---
 title: 摘要：DESIGN.md：用一个 Markdown 文件，让 AI 永远记住你的设计系统
 type: summary
-tags: []
+tags:
+- AI 设计
+- 上下文管理
+- IDE 集成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

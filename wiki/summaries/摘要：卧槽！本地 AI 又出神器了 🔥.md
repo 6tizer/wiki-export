@@ -1,7 +1,9 @@
 ---
 title: 摘要：卧槽！本地 AI 又出神器了 🔥
 type: summary
-tags: []
+tags:
+- 多模态
+- 模型部署
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

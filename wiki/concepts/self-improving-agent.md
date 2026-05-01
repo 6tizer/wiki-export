@@ -1,7 +1,10 @@
 ---
 title: self-improving-agent
 type: concept
-tags: []
+tags:
+- OpenClaw
+- Harness 工程
+- 代码生成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-30'

@@ -1,7 +1,10 @@
 ---
 title: SKILL.md
 type: concept
-tags: []
+tags:
+- 提示工程
+- 上下文管理
+- 内容自动化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

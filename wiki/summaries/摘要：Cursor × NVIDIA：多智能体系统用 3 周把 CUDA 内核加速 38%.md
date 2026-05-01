@@ -1,7 +1,10 @@
 ---
 title: 摘要：Cursor × NVIDIA：多智能体系统用 3 周把 CUDA 内核加速 38%
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- Harness 工程
+- 模型评测
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

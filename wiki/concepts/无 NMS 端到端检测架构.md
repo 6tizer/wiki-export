@@ -1,7 +1,9 @@
 ---
 title: 无 NMS 端到端检测架构
 type: concept
-tags: []
+tags:
+- 推理优化
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

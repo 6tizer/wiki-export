@@ -2,7 +2,10 @@
 title: '摘要：A new way to think about composing skills to increase leverage: Skill Graphs
   2.0'
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- 上下文管理
+- Harness 工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

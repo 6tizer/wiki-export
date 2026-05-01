@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claude 防封号终极指南：静态住宅IP + 指纹浏览器 + 付款卡三件套
 type: summary
-tags: []
+tags:
+- 身份准入
+- 浏览器自动化
+- Agent 安全
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

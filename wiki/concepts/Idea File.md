@@ -1,7 +1,10 @@
 ---
 title: Idea File
 type: concept
-tags: []
+tags:
+- 知识管理
+- 上下文管理
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

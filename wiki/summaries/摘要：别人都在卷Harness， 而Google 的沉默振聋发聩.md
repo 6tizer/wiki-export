@@ -1,7 +1,10 @@
 ---
 title: 摘要：别人都在卷Harness， 而Google 的沉默振聋发聩
 type: summary
-tags: []
+tags:
+- Harness 工程
+- AI 产品
+- 算力基础设施
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

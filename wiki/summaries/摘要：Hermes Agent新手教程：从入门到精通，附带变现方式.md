@@ -1,7 +1,10 @@
 ---
 title: 摘要：Hermes Agent新手教程：从入门到精通，附带变现方式
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 长期记忆
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

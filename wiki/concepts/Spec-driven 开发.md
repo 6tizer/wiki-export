@@ -1,7 +1,10 @@
 ---
 title: Spec-driven 开发
 type: concept
-tags: []
+tags:
+- 身份准入
+- 提示工程
+- 代码生成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-29'

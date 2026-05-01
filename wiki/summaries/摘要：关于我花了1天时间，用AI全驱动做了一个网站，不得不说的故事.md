@@ -1,7 +1,10 @@
 ---
 title: 摘要：关于我花了1天时间，用AI全驱动做了一个网站，不得不说的故事
 type: summary
-tags: []
+tags:
+- 代码生成
+- 多Agent协作
+- Agent 安全
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

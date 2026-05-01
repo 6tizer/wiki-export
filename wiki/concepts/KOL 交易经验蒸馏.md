@@ -1,7 +1,10 @@
 ---
 title: KOL 交易经验蒸馏
 type: concept
-tags: []
+tags:
+- 量化交易
+- 社交媒体
+- RAG/检索
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'

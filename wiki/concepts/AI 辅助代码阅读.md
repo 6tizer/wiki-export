@@ -1,7 +1,9 @@
 ---
 title: AI 辅助代码阅读
 type: concept
-tags: []
+tags:
+- 加密资产
+- 提示工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'

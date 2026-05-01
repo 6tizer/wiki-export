@@ -1,7 +1,10 @@
 ---
 title: Codex GitHub Action
 type: concept
-tags: []
+tags:
+- Harness 工程
+- 加密资产
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

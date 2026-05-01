@@ -1,7 +1,10 @@
 ---
 title: 摘要：Page Agent：阿里开源的网页内 GUI Agent，一行代码让你的 Web 应用开口说话
 type: summary
-tags: []
+tags:
+- 前端开发
+- AI 产品
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

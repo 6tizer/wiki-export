@@ -1,7 +1,10 @@
 ---
 title: 摘要：30 分钟精通 Claude Code
 type: summary
-tags: []
+tags:
+- 加密资产
+- 上下文管理
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

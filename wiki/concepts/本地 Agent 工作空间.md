@@ -1,7 +1,10 @@
 ---
 title: 本地 Agent 工作空间
 type: concept
-tags: []
+tags:
+- AI 产品
+- 上下文管理
+- 长期记忆
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

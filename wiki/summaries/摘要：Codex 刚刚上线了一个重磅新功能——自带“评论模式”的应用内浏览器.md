@@ -1,7 +1,10 @@
 ---
 title: 摘要：Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器
 type: summary
-tags: []
+tags:
+- IDE 集成
+- 浏览器自动化
+- 前端开发
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-17'

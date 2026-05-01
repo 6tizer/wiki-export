@@ -1,7 +1,10 @@
 ---
 title: Agent Drift
 type: concept
-tags: []
+tags:
+- 上下文管理
+- RAG/检索
+- 代码生成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-30'

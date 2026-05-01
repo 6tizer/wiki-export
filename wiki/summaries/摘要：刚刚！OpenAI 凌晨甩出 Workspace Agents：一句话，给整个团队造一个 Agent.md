@@ -1,7 +1,10 @@
 ---
 title: 摘要：刚刚！OpenAI 凌晨甩出 Workspace Agents：一句话，给整个团队造一个 Agent
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

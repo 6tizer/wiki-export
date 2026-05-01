@@ -1,7 +1,10 @@
 ---
 title: 摘要：Our paper on Subliminal Learning was just published in Nature!
 type: summary
-tags: []
+tags:
+- Agent 安全
+- AI 对齐
+- 训练/微调
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'

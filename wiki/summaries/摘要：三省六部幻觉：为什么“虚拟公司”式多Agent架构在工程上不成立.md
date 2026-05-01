@@ -1,7 +1,10 @@
 ---
 title: 摘要：三省六部幻觉：为什么“虚拟公司”式多Agent架构在工程上不成立
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

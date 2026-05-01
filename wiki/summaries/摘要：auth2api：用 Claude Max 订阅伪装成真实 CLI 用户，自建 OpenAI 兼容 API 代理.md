@@ -1,7 +1,10 @@
 ---
 title: 摘要：auth2api：用 Claude Max 订阅伪装成真实 CLI 用户，自建 OpenAI 兼容 API 代理
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 模型部署
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：GrandCode：AI 首次在 Codeforces 现场赛中击败全部人类选手
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- 训练/微调
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

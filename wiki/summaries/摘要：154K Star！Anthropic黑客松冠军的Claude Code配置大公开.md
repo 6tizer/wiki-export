@@ -1,7 +1,10 @@
 ---
 title: 摘要：154K Star！Anthropic黑客松冠军的Claude Code配置大公开
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

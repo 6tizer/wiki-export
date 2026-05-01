@@ -1,7 +1,9 @@
 ---
 title: MAD-normalized thresholding
 type: concept
-tags: []
+tags:
+- 推理优化
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

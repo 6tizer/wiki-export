@@ -1,7 +1,10 @@
 ---
 title: 摘要：fireworks-tech-graph：用自然语言生成工业级架构图，Claude Code 绘图神器！
 type: summary
-tags: []
+tags:
+- IDE 集成
+- 内容自动化
+- 图像生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：AI开发范式——Spec Kit、OpenSpec、BMAD 全解析
 type: summary
-tags: []
+tags:
+- 上下文管理
+- Harness 工程
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

@@ -1,7 +1,9 @@
 ---
 title: 摘要：最近封杀VPN竟然还没过去
 type: summary
-tags: []
+tags:
+- Agent 安全
+- 加密资产
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'

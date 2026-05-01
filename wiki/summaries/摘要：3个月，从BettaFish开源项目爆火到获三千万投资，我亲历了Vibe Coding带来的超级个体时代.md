@@ -1,7 +1,10 @@
 ---
 title: 摘要：3个月，从BettaFish开源项目爆火到获三千万投资，我亲历了Vibe Coding带来的超级个体时代
 type: summary
-tags: []
+tags:
+- 代码生成
+- 商业/生态
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

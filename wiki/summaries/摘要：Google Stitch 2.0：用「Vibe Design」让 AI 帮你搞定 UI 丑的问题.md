@@ -1,7 +1,10 @@
 ---
 title: 摘要：Google Stitch 2.0：用「Vibe Design」让 AI 帮你搞定 UI 丑的问题
 type: summary
-tags: []
+tags:
+- AI 设计
+- MCP 协议
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'

@@ -1,7 +1,9 @@
 ---
 title: 摘要：从《基地》到Claude：AI心理学，正在从科幻变成现实
 type: summary
-tags: []
+tags:
+- AI 对齐
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：Hermes Agent 上手指南：安装后必试的十件事与八大亮点全解析
 type: summary
-tags: []
+tags:
+- 长期记忆
+- Harness 工程
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

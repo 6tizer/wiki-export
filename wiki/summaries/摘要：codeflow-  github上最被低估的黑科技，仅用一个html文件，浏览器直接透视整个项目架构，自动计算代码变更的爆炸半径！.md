@@ -1,7 +1,10 @@
 ---
 title: '摘要：codeflow:  github上最被低估的黑科技，仅用一个html文件，浏览器直接"透视"整个项目架构，自动计算代码变更的爆炸半径！'
 type: summary
-tags: []
+tags:
+- 前端开发
+- 加密资产
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

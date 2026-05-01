@@ -1,7 +1,10 @@
 ---
 title: 摘要：20 skills. 15 commands. Rank in search. Get cited by AI.
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 多Agent协作
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

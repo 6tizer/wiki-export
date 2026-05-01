@@ -1,7 +1,10 @@
 ---
 title: Hermes Alpha
 type: entity
-tags: []
+tags:
+- 模型部署
+- 多Agent协作
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

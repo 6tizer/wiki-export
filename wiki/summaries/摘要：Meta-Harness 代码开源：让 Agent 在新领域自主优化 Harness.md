@@ -1,7 +1,10 @@
 ---
 title: 摘要：Meta-Harness 代码开源：让 Agent 在新领域自主优化 Harness
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 模型评测
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

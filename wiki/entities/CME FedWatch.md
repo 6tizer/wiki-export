@@ -1,7 +1,9 @@
 ---
 title: CME FedWatch
 type: entity
-tags: []
+tags:
+- 量化交易
+- 加密资产
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

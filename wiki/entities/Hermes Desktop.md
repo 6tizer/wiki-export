@@ -1,7 +1,10 @@
 ---
 title: Hermes Desktop
 type: entity
-tags: []
+tags:
+- Agent 协作模式
+- 链上协议
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

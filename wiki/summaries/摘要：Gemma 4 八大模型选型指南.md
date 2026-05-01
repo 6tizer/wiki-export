@@ -1,7 +1,10 @@
 ---
 title: 摘要：Gemma 4 八大模型选型指南
 type: summary
-tags: []
+tags:
+- 模型部署
+- 算力基础设施
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

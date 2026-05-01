@@ -1,7 +1,9 @@
 ---
 title: Better-Harness
 type: entity
-tags: []
+tags:
+- Harness 工程
+- 模型评测
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

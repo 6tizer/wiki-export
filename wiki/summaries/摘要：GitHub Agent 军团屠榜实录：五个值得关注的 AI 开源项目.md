@@ -1,7 +1,10 @@
 ---
 title: 摘要：GitHub Agent 军团屠榜实录：五个值得关注的 AI 开源项目
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- 长期记忆
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

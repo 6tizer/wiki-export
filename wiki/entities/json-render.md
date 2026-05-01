@@ -1,7 +1,10 @@
 ---
 title: json-render
 type: entity
-tags: []
+tags:
+- 前端开发
+- AI 设计
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

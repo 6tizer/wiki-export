@@ -1,7 +1,10 @@
 ---
 title: 摘要：各家Coding Plan为啥不兼容Claude WebSearch格式
 type: summary
-tags: []
+tags:
+- IDE 集成
+- MCP 协议
+- 浏览器自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-18'

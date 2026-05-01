@@ -1,7 +1,10 @@
 ---
 title: 摘要：Build Your First TradingView Indicator with Claude (Full Guide)
 type: summary
-tags: []
+tags:
+- 量化交易
+- 代码生成
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

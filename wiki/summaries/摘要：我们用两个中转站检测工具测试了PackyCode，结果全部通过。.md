@@ -1,7 +1,10 @@
 ---
 title: 摘要：我们用两个中转站检测工具测试了PackyCode，结果全部通过。
 type: summary
-tags: []
+tags:
+- 模型评测
+- 身份准入
+- Agent 安全
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

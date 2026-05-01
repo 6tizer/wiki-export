@@ -1,7 +1,9 @@
 ---
 title: 摘要：YOLO26-MLX：Mac 上跑目标检测，彻底告别 PyTorch
 type: summary
-tags: []
+tags:
+- 多模态
+- 模型部署
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

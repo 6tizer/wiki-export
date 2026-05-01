@@ -1,7 +1,10 @@
 ---
 title: WSS 实时推送
 type: concept
-tags: []
+tags:
+- 链上协议
+- AI 设计
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

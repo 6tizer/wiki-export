@@ -1,7 +1,10 @@
 ---
 title: GSPruning
 type: concept
-tags: []
+tags:
+- 推理优化
+- 多模态
+- 模型部署
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'

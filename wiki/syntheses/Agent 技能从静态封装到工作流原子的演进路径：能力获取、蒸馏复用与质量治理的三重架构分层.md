@@ -1,7 +1,10 @@
 ---
 title: Agent 技能从静态封装到工作流原子的演进路径：能力获取、蒸馏复用与质量治理的三重架构分层
 type: synthesis
-tags: []
+tags:
+- MCP 协议
+- 多Agent协作
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'

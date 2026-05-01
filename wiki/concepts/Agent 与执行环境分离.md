@@ -1,7 +1,10 @@
 ---
 title: Agent 与执行环境分离
 type: concept
-tags: []
+tags:
+- Harness 工程
+- 链上协议
+- Agent 安全
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

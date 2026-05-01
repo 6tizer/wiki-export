@@ -1,7 +1,10 @@
 ---
 title: 摘要：Qwen 3.6 27B model is available on Ollama!
 type: summary
-tags: []
+tags:
+- 模型部署
+- CLI 工具
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

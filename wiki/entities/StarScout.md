@@ -1,7 +1,9 @@
 ---
 title: StarScout
 type: entity
-tags: []
+tags:
+- 社交媒体
+- 商业/生态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

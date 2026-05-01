@@ -1,7 +1,10 @@
 ---
 title: MLE-Bench Lite
 type: entity
-tags: []
+tags:
+- 模型评测
+- Harness 工程
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

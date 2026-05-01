@@ -1,7 +1,10 @@
 ---
 title: Surgical Changes
 type: concept
-tags: []
+tags:
+- 加密资产
+- 代码生成
+- 提示工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'

@@ -1,7 +1,10 @@
 ---
 title: CuTe DSL
 type: concept
-tags: []
+tags:
+- 算力基础设施
+- 多Agent协作
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

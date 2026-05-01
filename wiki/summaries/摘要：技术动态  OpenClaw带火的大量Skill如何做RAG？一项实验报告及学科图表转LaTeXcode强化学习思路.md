@@ -1,7 +1,10 @@
 ---
 title: 摘要：技术动态 | OpenClaw带火的大量Skill如何做RAG？一项实验报告及学科图表转LaTeXcode强化学习思路
 type: summary
-tags: []
+tags:
+- RAG/检索
+- 代码生成
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'

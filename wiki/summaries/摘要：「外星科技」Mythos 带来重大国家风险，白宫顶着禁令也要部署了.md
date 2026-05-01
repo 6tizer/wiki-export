@@ -1,7 +1,10 @@
 ---
 title: 摘要：「外星科技」Mythos 带来重大国家风险，白宫顶着禁令也要部署了
 type: summary
-tags: []
+tags:
+- AI 政策
+- 模型部署
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-19'

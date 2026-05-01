@@ -1,7 +1,10 @@
 ---
 title: 摘要：用 Claude 搭一套 Polymarket 交易 Agent：Skill 架构比临场判断更靠谱吗？
 type: summary
-tags: []
+tags:
+- 量化交易
+- 加密资产
+- 链上协议
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

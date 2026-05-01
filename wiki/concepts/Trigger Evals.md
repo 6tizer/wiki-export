@@ -1,7 +1,9 @@
 ---
 title: Trigger Evals
 type: concept
-tags: []
+tags:
+- 模型评测
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

@@ -1,7 +1,8 @@
 ---
 title: Perplexity Personal Computer
 type: entity
-tags: []
+tags:
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

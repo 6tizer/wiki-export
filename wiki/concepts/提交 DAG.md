@@ -1,7 +1,10 @@
 ---
 title: 提交 DAG
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- Agent 协作模式
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

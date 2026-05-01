@@ -1,7 +1,10 @@
 ---
 title: 摘要：Impeccable：给 AI 装上设计师的脑子，消除前端页面的"AI 味"
 type: summary
-tags: []
+tags:
+- AI 设计
+- 前端开发
+- 提示工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

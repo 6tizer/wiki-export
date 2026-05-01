@@ -1,7 +1,9 @@
 ---
 title: 摘要：Gemma4-31B-Opus-4.6-reasoning：把 Claude 的推理方式「蒸馏」进开源模型
 type: summary
-tags: []
+tags:
+- 训练/微调
+- 推理优化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

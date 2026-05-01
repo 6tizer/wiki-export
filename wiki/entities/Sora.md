@@ -1,7 +1,10 @@
 ---
 title: Sora
 type: entity
-tags: []
+tags:
+- 多模态
+- 视频/3D
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

@@ -1,7 +1,10 @@
 ---
 title: Bash 浏览器自动化
 type: concept
-tags: []
+tags:
+- 浏览器自动化
+- CLI 工具
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

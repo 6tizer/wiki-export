@@ -1,7 +1,10 @@
 ---
 title: 摘要：code-review-graph：Claude Code 本地知识图谱，减少 6.8 倍代码审查 Token !
 type: summary
-tags: []
+tags:
+- MCP 协议
+- 上下文管理
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'

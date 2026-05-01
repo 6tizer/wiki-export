@@ -1,7 +1,9 @@
 ---
 title: Sub agent 上下文隔离
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-30'

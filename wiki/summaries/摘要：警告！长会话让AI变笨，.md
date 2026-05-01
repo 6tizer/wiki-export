@@ -1,7 +1,9 @@
 ---
 title: 摘要：警告！长会话让AI变笨，
 type: summary
-tags: []
+tags:
+- 上下文管理
+- 代码生成
 status: 已审核
 confidence: low
 last_compiled: '2026-04-16'

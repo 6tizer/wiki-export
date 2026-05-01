@@ -1,7 +1,9 @@
 ---
 title: 摘要：While 循环谁都会写，上下文工程才是真功夫
 type: summary
-tags: []
+tags:
+- 上下文管理
+- 提示工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

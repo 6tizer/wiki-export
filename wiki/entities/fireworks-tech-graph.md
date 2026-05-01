@@ -1,7 +1,10 @@
 ---
 title: fireworks-tech-graph
 type: entity
-tags: []
+tags:
+- 代码生成
+- AI 产品
+- 内容自动化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'

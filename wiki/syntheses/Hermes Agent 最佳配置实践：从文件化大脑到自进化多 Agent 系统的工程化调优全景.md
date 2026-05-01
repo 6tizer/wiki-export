@@ -1,7 +1,10 @@
 ---
 title: Hermes Agent 最佳配置实践：从文件化大脑到自进化多 Agent 系统的工程化调优全景
 type: synthesis
-tags: []
+tags:
+- Agent 协作模式
+- 上下文管理
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：AI 真能把一篇论文一路做到实验结果吗？人大团队提出 AiScientist，长程研究工程迈出关键一步
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

@@ -1,7 +1,10 @@
 ---
 title: SCQA 写作框架
 type: concept
-tags: []
+tags:
+- 提示工程
+- 内容自动化
+- 身份准入
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

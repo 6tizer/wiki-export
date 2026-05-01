@@ -1,7 +1,10 @@
 ---
 title: 摘要：前两天看到 Dario Amodei 在一个采访里说，continual learning已经 solved 了。
 type: summary
-tags: []
+tags:
+- 上下文管理
+- 长期记忆
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

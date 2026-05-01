@@ -1,7 +1,9 @@
 ---
 title: 摘要：用 Claude 40 分钟写出 Polymarket 套利机器人：一次关于 AI 辅助量化交易的真实实验
 type: summary
-tags: []
+tags:
+- 量化交易
+- 代码生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

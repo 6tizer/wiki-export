@@ -1,7 +1,10 @@
 ---
 title: 摘要：Harness 架构七大核心模块开源项目选型指南
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 链上协议
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'

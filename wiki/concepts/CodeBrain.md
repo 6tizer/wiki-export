@@ -1,7 +1,10 @@
 ---
 title: CodeBrain
 type: concept
-tags: []
+tags:
+- 代码生成
+- MCP 协议
+- Harness 工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

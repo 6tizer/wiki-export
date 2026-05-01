@@ -1,7 +1,10 @@
 ---
 title: X导师.skill
 type: entity
-tags: []
+tags:
+- 社交媒体
+- 内容自动化
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：How GBrain Works, and How to Actually Wire It Into Your Agents
 type: summary
-tags: []
+tags:
+- 长期记忆
+- RAG/检索
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

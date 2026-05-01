@@ -1,7 +1,10 @@
 ---
 title: 摘要：Hermes Agent 从中级到高级进阶指南
 type: summary
-tags: []
+tags:
+- 长期记忆
+- 多Agent协作
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

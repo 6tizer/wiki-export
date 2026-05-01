@@ -1,7 +1,10 @@
 ---
 title: 摘要：LeviX：用五个 AI Agent 帮你读懂预测市场，电竞+AI 的大胆组合
 type: summary
-tags: []
+tags:
+- 加密资产
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

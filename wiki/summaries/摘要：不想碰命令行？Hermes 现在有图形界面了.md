@@ -1,7 +1,10 @@
 ---
 title: 摘要：不想碰命令行？Hermes 现在有图形界面了
 type: summary
-tags: []
+tags:
+- AI 产品
+- Agent 安全
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

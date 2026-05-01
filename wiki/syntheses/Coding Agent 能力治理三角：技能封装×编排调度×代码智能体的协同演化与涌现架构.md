@@ -1,7 +1,10 @@
 ---
 title: Coding Agent 能力治理三角：技能封装×编排调度×代码智能体的协同演化与涌现架构
 type: synthesis
-tags: []
+tags:
+- 多Agent协作
+- Agent 协作模式
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'

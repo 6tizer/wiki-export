@@ -1,7 +1,10 @@
 ---
 title: 摘要：用半年 Claude Code 踩坑，我验证了 OpenAI/Cursor/Anthropic 三篇 Harness Engineering 的每一条
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

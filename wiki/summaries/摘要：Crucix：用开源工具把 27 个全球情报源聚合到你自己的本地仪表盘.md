@@ -1,7 +1,9 @@
 ---
 title: 摘要：Crucix：用开源工具把 27 个全球情报源聚合到你自己的本地仪表盘
 type: summary
-tags: []
+tags:
+- 内容自动化
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

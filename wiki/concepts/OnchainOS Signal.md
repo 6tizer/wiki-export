@@ -1,7 +1,10 @@
 ---
 title: OnchainOS Signal
 type: concept
-tags: []
+tags:
+- 量化交易
+- 链上协议
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-29'

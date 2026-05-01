@@ -1,7 +1,9 @@
 ---
 title: SnapTik
 type: entity
-tags: []
+tags:
+- 社交媒体
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

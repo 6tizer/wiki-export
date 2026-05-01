@@ -1,7 +1,10 @@
 ---
 title: 摘要：DESIGN.md
 type: summary
-tags: []
+tags:
+- AI 设计
+- 上下文管理
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

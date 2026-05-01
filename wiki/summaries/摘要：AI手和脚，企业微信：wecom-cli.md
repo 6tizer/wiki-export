@@ -1,7 +1,9 @@
 ---
 title: 摘要：AI手和脚，企业微信：wecom-cli
 type: summary
-tags: []
+tags:
+- 内容自动化
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

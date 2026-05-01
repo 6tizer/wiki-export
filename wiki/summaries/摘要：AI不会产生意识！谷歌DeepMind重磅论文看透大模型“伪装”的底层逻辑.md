@@ -1,7 +1,8 @@
 ---
 title: 摘要：AI不会产生意识！谷歌DeepMind重磅论文看透大模型“伪装”的底层逻辑
 type: summary
-tags: []
+tags:
+- AI 对齐
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'

@@ -2,7 +2,10 @@
 title: '摘要：Introducing Latent Briefing, a way for agents to quickly share their relevant
   memory directly. Result: 31% fewer tokens used, same accuracy.'
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- 上下文管理
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

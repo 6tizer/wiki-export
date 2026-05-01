@@ -1,7 +1,10 @@
 ---
 title: 摘要：【万字】CC vs OpenClaw vs Hermes：一文深入拆解三大 Agent 框架
 type: summary
-tags: []
+tags:
+- OpenClaw
+- 长期记忆
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

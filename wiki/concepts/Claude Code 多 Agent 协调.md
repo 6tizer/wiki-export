@@ -1,7 +1,10 @@
 ---
 title: Claude Code 多 Agent 协调
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- 链上协议
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'

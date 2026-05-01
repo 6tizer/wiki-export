@@ -1,7 +1,10 @@
 ---
 title: SkillStar
 type: entity
-tags: []
+tags:
+- CLI 工具
+- 加密资产
+- Agent 安全
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

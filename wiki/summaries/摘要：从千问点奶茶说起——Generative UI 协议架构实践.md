@@ -1,7 +1,10 @@
 ---
 title: 摘要：从千问点奶茶说起——Generative UI 协议架构实践
 type: summary
-tags: []
+tags:
+- AI 设计
+- 前端开发
+- 提示工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

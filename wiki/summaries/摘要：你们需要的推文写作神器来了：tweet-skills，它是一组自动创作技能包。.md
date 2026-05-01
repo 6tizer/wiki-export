@@ -1,7 +1,10 @@
 ---
 title: 摘要：你们需要的推文写作神器来了：tweet-skills，它是一组自动创作技能包。
 type: summary
-tags: []
+tags:
+- 社交媒体
+- 内容自动化
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

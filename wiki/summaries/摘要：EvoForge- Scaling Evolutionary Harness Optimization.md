@@ -1,7 +1,10 @@
 ---
 title: '摘要：EvoForge: Scaling Evolutionary Harness Optimization'
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 模型评测
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

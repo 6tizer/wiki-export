@@ -1,7 +1,10 @@
 ---
 title: Agent Runtime
 type: concept
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-30'

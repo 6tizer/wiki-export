@@ -1,7 +1,10 @@
 ---
 title: 摘要：Harness Engineering：当 AI Agent 遇上七十年前的控制论
 type: summary
-tags: []
+tags:
+- Harness 工程
+- Agent 协作模式
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

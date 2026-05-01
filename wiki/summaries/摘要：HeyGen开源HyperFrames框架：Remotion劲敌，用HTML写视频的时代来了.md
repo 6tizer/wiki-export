@@ -1,7 +1,10 @@
 ---
 title: 摘要：HeyGen开源HyperFrames框架：Remotion劲敌，用HTML写视频的时代来了
 type: summary
-tags: []
+tags:
+- 视频/3D
+- 内容自动化
+- 前端开发
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'

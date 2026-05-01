@@ -1,7 +1,10 @@
 ---
 title: 摘要：Minara Skills v3：用自然语言把 Claude Code 变成你的加密交易 CFO
 type: summary
-tags: []
+tags:
+- 量化交易
+- OpenClaw
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

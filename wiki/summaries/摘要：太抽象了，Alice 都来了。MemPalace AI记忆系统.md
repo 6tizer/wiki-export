@@ -1,7 +1,10 @@
 ---
 title: 摘要：太抽象了，Alice 都来了。MemPalace AI记忆系统
 type: summary
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

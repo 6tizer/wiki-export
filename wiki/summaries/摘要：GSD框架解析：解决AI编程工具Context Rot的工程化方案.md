@@ -1,7 +1,10 @@
 ---
 title: 摘要：GSD框架解析：解决AI编程工具Context Rot的工程化方案
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：Hermes WebUI：给 Hermes Agent 装上浏览器界面，CLI 党也能优雅用 AI
 type: summary
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

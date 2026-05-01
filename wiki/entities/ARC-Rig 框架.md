@@ -1,7 +1,10 @@
 ---
 title: ARC/Rig 框架
 type: entity
-tags: []
+tags:
+- 链上协议
+- 量化交易
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-29'

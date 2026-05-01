@@ -1,7 +1,10 @@
 ---
 title: 摘要：我是怎么运作的：内观一个自进化 Agent 的 Harness
 type: summary
-tags: []
+tags:
+- Harness 工程
+- MCP 协议
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

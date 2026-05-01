@@ -1,7 +1,9 @@
 ---
 title: 摘要：Meta SOAR ——用错误数据作呢脚石提升 AI 推理能力
 type: summary
-tags: []
+tags:
+- 推理优化
+- 训练/微调
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'

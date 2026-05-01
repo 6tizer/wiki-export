@@ -1,7 +1,10 @@
 ---
 title: 摘要：继续分享一些 harness engineering 实际经验
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

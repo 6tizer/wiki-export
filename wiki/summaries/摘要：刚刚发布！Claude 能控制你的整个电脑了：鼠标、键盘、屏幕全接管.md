@@ -1,7 +1,10 @@
 ---
 title: 摘要：刚刚发布！Claude 能控制你的整个电脑了：鼠标、键盘、屏幕全接管
 type: summary
-tags: []
+tags:
+- 浏览器自动化
+- Agent 安全
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'

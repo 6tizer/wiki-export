@@ -1,7 +1,10 @@
 ---
 title: Qwopus-GLM-18B-Merged-GGUF
 type: entity
-tags: []
+tags:
+- 模型部署
+- 推理优化
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

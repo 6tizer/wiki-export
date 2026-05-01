@@ -1,7 +1,10 @@
 ---
 title: 摘要：多Agent团队协作才是Hermes Agent的正确打开方式。
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- Agent 协作模式
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

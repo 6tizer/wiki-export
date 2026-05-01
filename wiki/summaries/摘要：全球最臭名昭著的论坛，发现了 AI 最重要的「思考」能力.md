@@ -1,7 +1,10 @@
 ---
 title: 摘要：全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力
 type: summary
-tags: []
+tags:
+- 推理优化
+- 模型评测
+- AI 对齐
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'

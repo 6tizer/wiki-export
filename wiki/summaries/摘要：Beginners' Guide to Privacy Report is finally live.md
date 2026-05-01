@@ -1,7 +1,10 @@
 ---
 title: 摘要：Beginners' Guide to Privacy Report is finally live
 type: summary
-tags: []
+tags:
+- 链上协议
+- 加密资产
+- 身份准入
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

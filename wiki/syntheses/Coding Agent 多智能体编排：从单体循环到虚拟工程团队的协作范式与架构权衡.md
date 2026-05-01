@@ -1,7 +1,10 @@
 ---
 title: Coding Agent 多智能体编排：从单体循环到虚拟工程团队的协作范式与架构权衡
 type: synthesis
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

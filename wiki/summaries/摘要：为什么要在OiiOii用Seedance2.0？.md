@@ -1,7 +1,10 @@
 ---
 title: 摘要：为什么要在OiiOii用Seedance2.0？
 type: summary
-tags: []
+tags:
+- 视频/3D
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

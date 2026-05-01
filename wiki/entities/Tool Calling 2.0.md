@@ -1,7 +1,10 @@
 ---
 title: Tool Calling 2.0
 type: entity
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 加密资产
 status: 审核中
 confidence: high
 last_compiled: '2026-04-18'

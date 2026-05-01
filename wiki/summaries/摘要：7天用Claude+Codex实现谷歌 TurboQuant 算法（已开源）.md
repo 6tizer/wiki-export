@@ -1,7 +1,10 @@
 ---
 title: 摘要：7天用Claude+Codex实现谷歌 TurboQuant 算法（已开源）
 type: summary
-tags: []
+tags:
+- 推理优化
+- 代码生成
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：别问 Claude 能为你做什么，问你能为 Claude 做什么：Anthropic 内部的 Vibe Coding 方法论
 type: summary
-tags: []
+tags:
+- 代码生成
+- 上下文管理
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

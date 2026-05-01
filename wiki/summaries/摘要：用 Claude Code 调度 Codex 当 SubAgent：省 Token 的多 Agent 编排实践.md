@@ -1,7 +1,10 @@
 ---
 title: 摘要：用 Claude Code 调度 Codex 当 SubAgent：省 Token 的多 Agent 编排实践
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- 代码生成
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

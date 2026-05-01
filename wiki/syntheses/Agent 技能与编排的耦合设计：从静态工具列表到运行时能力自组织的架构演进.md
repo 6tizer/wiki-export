@@ -1,7 +1,10 @@
 ---
 title: Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进
 type: synthesis
-tags: []
+tags:
+- 多Agent协作
+- MCP 协议
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

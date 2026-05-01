@@ -1,7 +1,9 @@
 ---
 title: DGX Cloud
 type: entity
-tags: []
+tags:
+- 算力基础设施
+- 模型部署
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

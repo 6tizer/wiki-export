@@ -1,7 +1,10 @@
 ---
 title: Big Blob of Compute
 type: concept
-tags: []
+tags:
+- 算力基础设施
+- 模型部署
+- 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-19'

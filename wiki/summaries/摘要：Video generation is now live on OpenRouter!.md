@@ -1,7 +1,10 @@
 ---
 title: 摘要：Video generation is now live on OpenRouter!
 type: summary
-tags: []
+tags:
+- 视频/3D
+- AI 产品
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

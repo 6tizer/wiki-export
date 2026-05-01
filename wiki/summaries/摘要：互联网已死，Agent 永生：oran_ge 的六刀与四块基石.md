@@ -1,7 +1,10 @@
 ---
 title: 摘要：互联网已死，Agent 永生：oran_ge 的六刀与四块基石
 type: summary
-tags: []
+tags:
+- 商业/生态
+- OpenClaw
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

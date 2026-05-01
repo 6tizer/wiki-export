@@ -1,7 +1,10 @@
 ---
 title: 摘要：🚨 Goodbye Video editing
 type: summary
-tags: []
+tags:
+- 视频/3D
+- 内容自动化
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

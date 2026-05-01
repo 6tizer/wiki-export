@@ -1,7 +1,10 @@
 ---
 title: Artifact
 type: concept
-tags: []
+tags:
+- AI 设计
+- 前端开发
+- IDE 集成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

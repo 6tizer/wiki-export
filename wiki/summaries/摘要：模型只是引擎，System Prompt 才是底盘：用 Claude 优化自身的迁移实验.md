@@ -1,7 +1,10 @@
 ---
 title: 摘要：模型只是引擎，System Prompt 才是底盘：用 Claude 优化自身的迁移实验
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 提示工程
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：5 pipelines I'd sell today using Claude Code (none of them are coding)
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 提示工程
+- 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

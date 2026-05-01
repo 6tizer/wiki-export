@@ -1,7 +1,10 @@
 ---
 title: 摘要：Sandboxes are coming to the Agents SDK
 type: summary
-tags: []
+tags:
+- Harness 工程
+- Agent 安全
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

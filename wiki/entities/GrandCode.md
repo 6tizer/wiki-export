@@ -1,7 +1,10 @@
 ---
 title: GrandCode
 type: entity
-tags: []
+tags:
+- 多Agent协作
+- 训练/微调
+- 代码生成
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

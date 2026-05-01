@@ -1,7 +1,10 @@
 ---
 title: LLM 安全威胁与开发工具的共演动力学：攻击面扩张如何催生防御工具化，工具化又如何制造新攻击面
 type: synthesis
-tags: []
+tags:
+- Agent 安全
+- Harness 工程
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'

@@ -1,7 +1,8 @@
 ---
 title: 摘要：在 Mac 上卸载应用，直接拖进废纸篓看似干净了，实际上缓存、配置文件、日志散落在系统各个角落，时间一长占用空间越来越多。
 type: summary
-tags: []
+tags:
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

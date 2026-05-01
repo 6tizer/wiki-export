@@ -1,7 +1,10 @@
 ---
 title: E2B
 type: entity
-tags: []
+tags:
+- Harness 工程
+- Agent 安全
+- 算力基础设施
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

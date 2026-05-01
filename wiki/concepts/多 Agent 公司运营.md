@@ -1,7 +1,10 @@
 ---
 title: 多 Agent 公司运营
 type: concept
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

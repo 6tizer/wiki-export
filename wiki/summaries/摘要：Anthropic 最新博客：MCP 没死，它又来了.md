@@ -1,7 +1,10 @@
 ---
 title: 摘要：Anthropic 最新博客：MCP 没死，它又来了
 type: summary
-tags: []
+tags:
+- MCP 协议
+- 上下文管理
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

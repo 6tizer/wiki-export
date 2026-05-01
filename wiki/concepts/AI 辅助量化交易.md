@@ -1,7 +1,10 @@
 ---
 title: AI 辅助量化交易
 type: concept
-tags: []
+tags:
+- 量化交易
+- 代码生成
+- 提示工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

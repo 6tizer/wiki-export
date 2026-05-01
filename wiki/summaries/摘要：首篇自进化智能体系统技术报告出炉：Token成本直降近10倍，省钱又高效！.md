@@ -1,7 +1,10 @@
 ---
 title: 摘要：首篇自进化智能体系统技术报告出炉：Token成本直降近10倍，省钱又高效！
 type: summary
-tags: []
+tags:
+- 上下文管理
+- 长期记忆
+- 推理优化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

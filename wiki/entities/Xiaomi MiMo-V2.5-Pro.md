@@ -1,7 +1,9 @@
 ---
 title: Xiaomi MiMo-V2.5-Pro
 type: entity
-tags: []
+tags:
+- Harness 工程
+- 代码生成
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

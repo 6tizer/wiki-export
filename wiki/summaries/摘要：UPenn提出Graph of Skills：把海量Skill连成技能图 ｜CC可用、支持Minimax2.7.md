@@ -1,7 +1,10 @@
 ---
 title: 摘要：UPenn提出Graph of Skills：把海量Skill连成技能图 ｜CC可用、支持Minimax2.7
 type: summary
-tags: []
+tags:
+- RAG/检索
+- 上下文管理
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

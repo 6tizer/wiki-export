@@ -1,7 +1,10 @@
 ---
 title: 摘要：Gemma-4-31B 越狱版来了：本地无审查大模型新王，顺带聊聊 llmfit 怎么判断你的机器能不能跑
 type: summary
-tags: []
+tags:
+- 模型部署
+- AI 对齐
+- Agent 安全
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

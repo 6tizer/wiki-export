@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源
 type: summary
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

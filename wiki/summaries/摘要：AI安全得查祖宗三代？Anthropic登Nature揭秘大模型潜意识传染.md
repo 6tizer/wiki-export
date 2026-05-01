@@ -1,7 +1,10 @@
 ---
 title: 摘要：AI安全得查祖宗三代？Anthropic登Nature揭秘大模型潜意识传染
 type: summary
-tags: []
+tags:
+- AI 对齐
+- Agent 安全
+- 训练/微调
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

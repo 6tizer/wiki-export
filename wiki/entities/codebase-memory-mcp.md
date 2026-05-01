@@ -1,7 +1,10 @@
 ---
 title: codebase-memory-mcp
 type: entity
-tags: []
+tags:
+- MCP 协议
+- RAG/检索
+- CLI 工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-21'

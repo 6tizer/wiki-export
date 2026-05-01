@@ -1,7 +1,10 @@
 ---
 title: HuatuoGPT
 type: entity
-tags: []
+tags:
+- 训练/微调
+- 推理优化
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

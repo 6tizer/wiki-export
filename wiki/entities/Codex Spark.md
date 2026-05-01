@@ -1,7 +1,10 @@
 ---
 title: Codex Spark
 type: entity
-tags: []
+tags:
+- 推理优化
+- 代码生成
+- 算力基础设施
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

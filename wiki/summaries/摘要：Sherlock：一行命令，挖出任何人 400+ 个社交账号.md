@@ -1,7 +1,10 @@
 ---
 title: 摘要：Sherlock：一行命令，挖出任何人 400+ 个社交账号
 type: summary
-tags: []
+tags:
+- 社交媒体
+- CLI 工具
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

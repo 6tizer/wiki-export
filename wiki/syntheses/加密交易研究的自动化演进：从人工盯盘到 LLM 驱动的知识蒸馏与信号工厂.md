@@ -1,7 +1,10 @@
 ---
 title: 加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂
 type: synthesis
-tags: []
+tags:
+- 加密资产
+- 量化交易
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

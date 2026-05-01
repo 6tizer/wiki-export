@@ -1,7 +1,10 @@
 ---
 title: Berachain / PoL
 type: concept
-tags: []
+tags:
+- 链上协议
+- 加密资产
+- 稳定币
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'

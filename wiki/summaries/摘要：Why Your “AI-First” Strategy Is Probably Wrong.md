@@ -1,7 +1,10 @@
 ---
 title: 摘要：Why Your “AI-First” Strategy Is Probably Wrong
 type: summary
-tags: []
+tags:
+- Harness 工程
+- Agent 协作模式
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-14'

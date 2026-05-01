@@ -1,7 +1,10 @@
 ---
 title: 摘要：在Mac上使用mlx_vlm推理gemma 4
 type: summary
-tags: []
+tags:
+- 多模态
+- 模型部署
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

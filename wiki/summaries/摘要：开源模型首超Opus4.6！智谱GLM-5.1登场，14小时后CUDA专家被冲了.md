@@ -1,7 +1,10 @@
 ---
 title: 摘要：开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了
 type: summary
-tags: []
+tags:
+- 模型评测
+- 推理优化
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

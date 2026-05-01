@@ -1,7 +1,10 @@
 ---
 title: AI Hedge Fund
 type: entity
-tags: []
+tags:
+- 量化交易
+- 多Agent协作
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'

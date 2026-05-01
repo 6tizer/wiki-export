@@ -1,7 +1,10 @@
 ---
 title: 摘要：Qwen3.5-27B 蒸馏 Claude Opus 推理能力：在消费级显卡上跑出媲美前沿模型的推理链
 type: summary
-tags: []
+tags:
+- 训练/微调
+- 模型部署
+- 推理优化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：first open-source foundation model
 type: summary
-tags: []
+tags:
+- 量化交易
+- 训练/微调
+- 模型评测
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

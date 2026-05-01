@@ -1,7 +1,9 @@
 ---
 title: Graphite
 type: entity
-tags: []
+tags:
+- 加密资产
+- Agent 安全
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：OpenAI祭出GPT-5.4神装！Codex同款Harness全面开放
 type: summary
-tags: []
+tags:
+- Harness 工程
+- MCP 协议
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

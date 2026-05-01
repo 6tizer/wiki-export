@@ -1,7 +1,8 @@
 ---
 title: 摘要：ReasoningBank
 type: summary
-tags: []
+tags:
+- 长期记忆
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'

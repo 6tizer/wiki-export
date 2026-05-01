@@ -1,7 +1,10 @@
 ---
 title: 摘要：open-codesign：开源版 Claude Design , 本地优先的 AI 设计神器!
 type: summary
-tags: []
+tags:
+- AI 设计
+- AI 产品
+- 模型部署
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'

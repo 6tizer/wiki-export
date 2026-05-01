@@ -1,7 +1,9 @@
 ---
 title: 摘要：清华沈阳团队发布：首个由 AI 自动化科研框架独立研发的新型压缩算法
 type: summary
-tags: []
+tags:
+- 内容自动化
+- Harness 工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

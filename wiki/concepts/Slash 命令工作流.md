@@ -1,7 +1,10 @@
 ---
 title: Slash 命令工作流
 type: concept
-tags: []
+tags:
+- 加密资产
+- 提示工程
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

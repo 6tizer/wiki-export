@@ -1,7 +1,10 @@
 ---
 title: Agent 技能安全治理的四层防线：从供应链审计到运行时信任隔离的攻防架构演进
 type: synthesis
-tags: []
+tags:
+- Agent 安全
+- Harness 工程
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-21'

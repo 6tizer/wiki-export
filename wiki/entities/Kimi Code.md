@@ -1,7 +1,10 @@
 ---
 title: Kimi Code
 type: entity
-tags: []
+tags:
+- AI 产品
+- IDE 集成
+- 代码生成
 status: 审核中
 confidence: high
 last_compiled: '2026-04-21'

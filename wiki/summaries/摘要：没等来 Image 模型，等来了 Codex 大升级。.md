@@ -1,7 +1,10 @@
 ---
 title: 摘要：没等来 Image 模型，等来了 Codex 大升级。
 type: summary
-tags: []
+tags:
+- 代码生成
+- 浏览器自动化
+- 前端开发
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：Foundry Hosted Agents：每个 Agent 都需要自己的“电脑”
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 长期记忆
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

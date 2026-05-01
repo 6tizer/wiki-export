@@ -1,7 +1,10 @@
 ---
 title: Schema Drift Detection
 type: concept
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 推理优化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

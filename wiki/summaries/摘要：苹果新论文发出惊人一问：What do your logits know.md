@@ -1,7 +1,10 @@
 ---
 title: 摘要：苹果新论文发出惊人一问：What do your logits know?
 type: summary
-tags: []
+tags:
+- 多模态
+- Agent 安全
+- 模型评测
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

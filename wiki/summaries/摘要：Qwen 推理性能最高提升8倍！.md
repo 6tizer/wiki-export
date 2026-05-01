@@ -1,7 +1,9 @@
 ---
 title: 摘要：Qwen 推理性能最高提升8倍！
 type: summary
-tags: []
+tags:
+- 推理优化
+- 模型评测
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：一个 CLAUDE.md 文件竟然拿下 1.7 万 star，它到底写了什么
 type: summary
-tags: []
+tags:
+- 提示工程
+- 上下文管理
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

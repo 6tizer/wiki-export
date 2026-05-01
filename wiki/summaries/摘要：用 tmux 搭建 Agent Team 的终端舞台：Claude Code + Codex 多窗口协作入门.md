@@ -1,7 +1,10 @@
 ---
 title: 摘要：用 tmux 搭建 Agent Team 的终端舞台：Claude Code + Codex 多窗口协作入门
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- CLI 工具
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

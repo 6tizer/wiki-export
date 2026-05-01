@@ -1,7 +1,10 @@
 ---
 title: Agent 框架与编排模式的架构张力：从框架选型约束到编排自由度的设计哲学分化与收敛路径
 type: synthesis
-tags: []
+tags:
+- 多Agent协作
+- Harness 工程
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：开源的Chrome 浏览器插件，一键扒光网站设计，让 AI 帮你复刻
 type: summary
-tags: []
+tags:
+- 前端开发
+- 浏览器自动化
+- AI 设计
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：skills-manage：让一个 Skill 仓库驱动 20+ AI 编程工具
 type: summary
-tags: []
+tags:
+- 提示工程
+- CLI 工具
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

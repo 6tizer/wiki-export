@@ -1,7 +1,10 @@
 ---
 title: AG-UI
 type: concept
-tags: []
+tags:
+- MCP 协议
+- 前端开发
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

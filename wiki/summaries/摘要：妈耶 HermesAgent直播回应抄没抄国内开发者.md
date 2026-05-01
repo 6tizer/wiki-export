@@ -1,7 +1,9 @@
 ---
 title: 摘要：妈耶 HermesAgent直播回应抄没抄国内开发者
 type: summary
-tags: []
+tags:
+- 长期记忆
+- 链上协议
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-17'

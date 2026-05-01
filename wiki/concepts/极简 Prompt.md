@@ -1,7 +1,10 @@
 ---
 title: 极简 Prompt
 type: concept
-tags: []
+tags:
+- 提示工程
+- 图像生成
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

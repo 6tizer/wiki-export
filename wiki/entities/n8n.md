@@ -1,7 +1,8 @@
 ---
 title: n8n
 type: entity
-tags: []
+tags:
+- 内容自动化
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

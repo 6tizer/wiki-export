@@ -1,7 +1,10 @@
 ---
 title: 扣子编程 CLI
 type: entity
-tags: []
+tags:
+- CLI 工具
+- 代码生成
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

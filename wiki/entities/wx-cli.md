@@ -1,7 +1,10 @@
 ---
 title: wx-cli
 type: entity
-tags: []
+tags:
+- CLI 工具
+- 内容自动化
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'

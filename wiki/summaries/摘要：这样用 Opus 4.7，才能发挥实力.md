@@ -1,7 +1,10 @@
 ---
 title: 摘要：这样用 Opus 4.7，才能发挥实力
 type: summary
-tags: []
+tags:
+- 上下文管理
+- Harness 工程
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'

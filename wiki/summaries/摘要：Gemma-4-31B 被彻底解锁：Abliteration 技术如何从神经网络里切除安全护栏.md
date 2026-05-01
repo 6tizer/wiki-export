@@ -1,7 +1,9 @@
 ---
 title: 摘要：Gemma-4-31B 被彻底解锁：Abliteration 技术如何从神经网络里切除安全护栏
 type: summary
-tags: []
+tags:
+- AI 对齐
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

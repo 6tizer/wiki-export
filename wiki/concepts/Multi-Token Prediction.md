@@ -1,7 +1,9 @@
 ---
 title: Multi-Token Prediction
 type: concept
-tags: []
+tags:
+- 推理优化
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-28'

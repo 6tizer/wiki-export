@@ -1,7 +1,9 @@
 ---
 title: 摘要：OpenHarness：港大实验室用 3% 的代码复刻了 80% 的 Claude Code 能力
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

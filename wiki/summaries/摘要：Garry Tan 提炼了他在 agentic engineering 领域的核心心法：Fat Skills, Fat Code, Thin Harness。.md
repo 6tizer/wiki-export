@@ -1,7 +1,10 @@
 ---
 title: 摘要：Garry Tan 提炼了他在 agentic engineering 领域的核心心法：Fat Skills, Fat Code, Thin Harness。
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 提示工程
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

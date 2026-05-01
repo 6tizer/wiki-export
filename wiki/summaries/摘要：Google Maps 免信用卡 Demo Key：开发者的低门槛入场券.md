@@ -1,7 +1,9 @@
 ---
 title: 摘要：Google Maps 免信用卡 Demo Key：开发者的低门槛入场券
 type: summary
-tags: []
+tags:
+- 商业/生态
+- 前端开发
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

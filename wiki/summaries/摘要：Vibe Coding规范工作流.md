@@ -1,7 +1,10 @@
 ---
 title: 摘要：Vibe Coding规范工作流
 type: summary
-tags: []
+tags:
+- 加密资产
+- 代码生成
+- 提示工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

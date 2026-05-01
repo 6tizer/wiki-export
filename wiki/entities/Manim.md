@@ -1,7 +1,9 @@
 ---
 title: Manim
 type: entity
-tags: []
+tags:
+- 视频/3D
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

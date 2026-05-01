@@ -1,7 +1,10 @@
 ---
 title: SOL-ExecBench
 type: entity
-tags: []
+tags:
+- 模型评测
+- 多Agent协作
+- 算力基础设施
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

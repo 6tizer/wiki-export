@@ -1,7 +1,10 @@
 ---
 title: Terminal Bench 2
 type: entity
-tags: []
+tags:
+- 模型评测
+- Harness 工程
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

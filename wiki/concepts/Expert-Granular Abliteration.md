@@ -1,7 +1,9 @@
 ---
 title: Expert-Granular Abliteration
 type: concept
-tags: []
+tags:
+- AI 对齐
+- 推理优化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

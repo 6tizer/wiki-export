@@ -1,7 +1,10 @@
 ---
 title: '摘要：How sync works:'
 type: summary
-tags: []
+tags:
+- 算力基础设施
+- MCP 协议
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

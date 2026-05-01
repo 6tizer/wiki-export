@@ -1,7 +1,10 @@
 ---
 title: code-review
 type: entity
-tags: []
+tags:
+- 多Agent协作
+- IDE 集成
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

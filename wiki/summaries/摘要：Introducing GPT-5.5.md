@@ -1,7 +1,10 @@
 ---
 title: 摘要：Introducing GPT-5.5
 type: summary
-tags: []
+tags:
+- 推理优化
+- 代码生成
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-24'

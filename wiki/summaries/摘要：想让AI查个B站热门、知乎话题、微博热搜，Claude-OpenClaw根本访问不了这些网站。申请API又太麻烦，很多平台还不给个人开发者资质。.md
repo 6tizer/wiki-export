@@ -1,7 +1,10 @@
 ---
 title: 摘要：想让AI查个B站热门、知乎话题、微博热搜，Claude/OpenClaw根本访问不了这些网站。申请API又太麻烦，很多平台还不给个人开发者资质。
 type: summary
-tags: []
+tags:
+- 社交媒体
+- 浏览器自动化
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'

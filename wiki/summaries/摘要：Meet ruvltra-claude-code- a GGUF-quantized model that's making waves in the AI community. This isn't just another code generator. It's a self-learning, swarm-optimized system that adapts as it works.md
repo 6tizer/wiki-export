@@ -3,7 +3,10 @@ title: '摘要：Meet ruvltra-claude-code: a GGUF-quantized model that''s making
   the AI community. This isn''t just another code generator. It''s a self-learning,
   swarm-optimized system that adapts as it works.'
 type: summary
-tags: []
+tags:
+- 代码生成
+- 模型部署
+- 多Agent协作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

@@ -3,7 +3,9 @@ title: 摘要：Research we co-authored on subliminal learning—how LLMs can pa
   like preferences or misalignment through hidden signals in data—was published today
   in @Nature.
 type: summary
-tags: []
+tags:
+- 训练/微调
+- AI 对齐
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

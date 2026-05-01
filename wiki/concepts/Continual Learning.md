@@ -1,7 +1,10 @@
 ---
 title: Continual Learning
 type: concept
-tags: []
+tags:
+- 训练/微调
+- 上下文管理
+- 模型评测
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

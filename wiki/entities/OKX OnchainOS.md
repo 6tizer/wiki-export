@@ -1,7 +1,10 @@
 ---
 title: OKX OnchainOS
 type: entity
-tags: []
+tags:
+- 链上协议
+- MCP 协议
+- Agent 安全
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-30'

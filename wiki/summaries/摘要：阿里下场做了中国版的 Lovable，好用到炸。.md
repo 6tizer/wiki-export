@@ -1,7 +1,10 @@
 ---
 title: 摘要：阿里下场做了中国版的 Lovable，好用到炸。
 type: summary
-tags: []
+tags:
+- AI 产品
+- 代码生成
+- 多Agent协作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'

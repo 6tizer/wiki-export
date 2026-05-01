@@ -1,7 +1,10 @@
 ---
 title: 摘要：OpenCLI 插件系统上线：一行命令扩展你的网站 CLI 工具箱
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 内容自动化
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

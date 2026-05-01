@@ -1,7 +1,10 @@
 ---
 title: GenericAgent
 type: entity
-tags: []
+tags:
+- 浏览器自动化
+- 长期记忆
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

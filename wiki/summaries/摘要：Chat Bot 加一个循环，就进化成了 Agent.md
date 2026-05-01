@@ -1,7 +1,9 @@
 ---
 title: 摘要：Chat Bot 加一个循环，就进化成了 Agent
 type: summary
-tags: []
+tags:
+- 上下文管理
+- 提示工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

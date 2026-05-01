@@ -1,7 +1,10 @@
 ---
 title: Crypto/DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径
 type: synthesis
-tags: []
+tags:
+- 链上协议
+- 加密资产
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'

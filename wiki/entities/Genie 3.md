@@ -1,7 +1,10 @@
 ---
 title: Genie 3
 type: entity
-tags: []
+tags:
+- 视频/3D
+- 多模态
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

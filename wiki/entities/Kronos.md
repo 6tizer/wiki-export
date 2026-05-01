@@ -1,7 +1,10 @@
 ---
 title: Kronos
 type: entity
-tags: []
+tags:
+- 量化交易
+- 训练/微调
+- 模型评测
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'

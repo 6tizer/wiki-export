@@ -1,7 +1,10 @@
 ---
 title: 摘要：OiiOii 正式上线！用 Seedance 2.0 做 AI 短剧的最优解法来了
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 视频/3D
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

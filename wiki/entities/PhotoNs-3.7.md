@@ -1,7 +1,10 @@
 ---
 title: PhotoNs-3.7
 type: entity
-tags: []
+tags:
+- 算力基础设施
+- AI 设计
+- 链上协议
 status: 草稿
 confidence: high
 last_compiled: '2026-04-26'

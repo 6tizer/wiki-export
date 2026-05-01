@@ -1,7 +1,10 @@
 ---
 title: CLI/GUI 共享内核
 type: concept
-tags: []
+tags:
+- CLI 工具
+- 链上协议
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

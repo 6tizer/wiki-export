@@ -1,7 +1,10 @@
 ---
 title: 摘要：20 Powerful Agentic-Skills for Claude, ChatGPT & Gemini.
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 提示工程
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

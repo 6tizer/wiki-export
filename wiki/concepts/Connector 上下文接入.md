@@ -1,7 +1,9 @@
 ---
 title: Connector 上下文接入
 type: concept
-tags: []
+tags:
+- 上下文管理
+- RAG/检索
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-28'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：OpenAlice & StockClaw：用多 Agent 系统在家搭建你的 AI 量化交易团队
 type: summary
-tags: []
+tags:
+- 量化交易
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

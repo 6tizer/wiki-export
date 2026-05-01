@@ -1,7 +1,10 @@
 ---
 title: 摘要：Logo Generator
 type: summary
-tags: []
+tags:
+- AI 设计
+- 图像生成
+- IDE 集成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

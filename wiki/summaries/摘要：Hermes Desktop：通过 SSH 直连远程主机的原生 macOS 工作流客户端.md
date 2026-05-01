@@ -1,7 +1,9 @@
 ---
 title: 摘要：Hermes Desktop：通过 SSH 直连远程主机的原生 macOS 工作流客户端
 type: summary
-tags: []
+tags:
+- 链上协议
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

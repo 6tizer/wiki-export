@@ -1,7 +1,10 @@
 ---
 title: 六阶段蒸馏 SOP
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- 内容自动化
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'

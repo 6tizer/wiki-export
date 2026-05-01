@@ -1,7 +1,10 @@
 ---
 title: 摘要：GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 模型部署
+- 推理优化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'

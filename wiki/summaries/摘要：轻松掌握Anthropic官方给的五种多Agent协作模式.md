@@ -1,7 +1,9 @@
 ---
 title: 摘要：轻松掌握Anthropic官方给的五种"多Agent协作"模式
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

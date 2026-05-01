@@ -1,7 +1,10 @@
 ---
 title: 摘要：This skill removes AI slop.
 type: summary
-tags: []
+tags:
+- 浏览器自动化
+- Harness 工程
+- 长期记忆
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

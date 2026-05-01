@@ -1,7 +1,10 @@
 ---
 title: Claude Token Efficient
 type: entity
-tags: []
+tags:
+- 加密资产
+- 提示工程
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

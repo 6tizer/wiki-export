@@ -1,7 +1,10 @@
 ---
 title: Coding Agent 记忆系统设计范式：从成本优先的层级压缩到协议驱动的跨项目知识迁移
 type: synthesis
-tags: []
+tags:
+- 上下文管理
+- 长期记忆
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

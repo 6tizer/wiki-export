@@ -1,7 +1,10 @@
 ---
 title: 摘要：Karpathy 今天这个帖子，确实说到我心坎里去了。很好的解释了为什么你会感觉推上和现实空间里存在两种对 AI 的看法。
 type: summary
-tags: []
+tags:
+- 社交媒体
+- 代码生成
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

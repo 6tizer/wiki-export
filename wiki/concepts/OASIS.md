@@ -1,7 +1,10 @@
 ---
 title: OASIS
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- 链上协议
+- AI 设计
 status: 审核中
 confidence: high
 last_compiled: '2026-04-30'

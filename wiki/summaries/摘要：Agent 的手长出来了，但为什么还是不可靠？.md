@@ -1,7 +1,10 @@
 ---
 title: 摘要：Agent 的"手"长出来了，但为什么还是不可靠？
 type: summary
-tags: []
+tags:
+- MCP 协议
+- Harness 工程
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

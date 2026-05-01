@@ -1,7 +1,10 @@
 ---
 title: 摘要：codex-plugin-cc：OpenAI 官方出手，把 Codex 塞进了 Claude Code
 type: summary
-tags: []
+tags:
+- 代码生成
+- IDE 集成
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

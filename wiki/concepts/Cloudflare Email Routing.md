@@ -1,7 +1,10 @@
 ---
 title: Cloudflare Email Routing
 type: concept
-tags: []
+tags:
+- 身份准入
+- Agent 安全
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

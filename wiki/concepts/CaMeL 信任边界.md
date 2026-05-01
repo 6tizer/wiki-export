@@ -1,7 +1,9 @@
 ---
 title: CaMeL 信任边界
 type: concept
-tags: []
+tags:
+- Agent 安全
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

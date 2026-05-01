@@ -1,7 +1,10 @@
 ---
 title: Review Gate
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- Harness 工程
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：Tree-based speculative decoding for Apple Silicon.
 type: summary
-tags: []
+tags:
+- 推理优化
+- 模型部署
+- 算力基础设施
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

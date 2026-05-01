@@ -1,7 +1,10 @@
 ---
 title: 摘要：国内自建 Peer Relay 实现 Tailscale 加速：RTT 160ms → 30ms
 type: summary
-tags: []
+tags:
+- Agent 安全
+- 链上协议
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

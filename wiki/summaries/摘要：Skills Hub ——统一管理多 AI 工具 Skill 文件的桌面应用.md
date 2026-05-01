@@ -1,7 +1,9 @@
 ---
 title: 摘要：Skills Hub ——统一管理多 AI 工具 Skill 文件的桌面应用
 type: summary
-tags: []
+tags:
+- 加密资产
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

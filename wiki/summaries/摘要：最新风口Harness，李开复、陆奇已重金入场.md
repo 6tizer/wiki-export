@@ -1,7 +1,10 @@
 ---
 title: 摘要：最新风口Harness，李开复、陆奇已重金入场
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 多Agent协作
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

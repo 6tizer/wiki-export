@@ -1,7 +1,10 @@
 ---
 title: mlx_vlm
 type: entity
-tags: []
+tags:
+- 多模态
+- 模型部署
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

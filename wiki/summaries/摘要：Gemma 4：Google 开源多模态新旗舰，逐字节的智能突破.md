@@ -1,7 +1,10 @@
 ---
 title: 摘要：Gemma 4：Google 开源多模态新旗舰，逐字节的智能突破
 type: summary
-tags: []
+tags:
+- 多模态
+- 模型部署
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

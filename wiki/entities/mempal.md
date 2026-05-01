@@ -1,7 +1,10 @@
 ---
 title: mempal
 type: entity
-tags: []
+tags:
+- 长期记忆
+- MCP 协议
+- CLI 工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'

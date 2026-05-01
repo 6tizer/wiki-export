@@ -1,7 +1,10 @@
 ---
 title: HTTP/3 流量伪装
 type: concept
-tags: []
+tags:
+- 链上协议
+- AI 设计
+- Agent 安全
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

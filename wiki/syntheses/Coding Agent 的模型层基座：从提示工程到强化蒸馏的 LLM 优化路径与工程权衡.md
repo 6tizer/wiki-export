@@ -1,7 +1,10 @@
 ---
 title: Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡
 type: synthesis
-tags: []
+tags:
+- 提示工程
+- 训练/微调
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

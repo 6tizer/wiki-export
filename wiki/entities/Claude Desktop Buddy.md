@@ -1,7 +1,9 @@
 ---
 title: Claude Desktop Buddy
 type: entity
-tags: []
+tags:
+- AI 产品
+- 链上协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

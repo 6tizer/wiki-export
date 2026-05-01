@@ -1,7 +1,10 @@
 ---
 title: 摘要：Clone & Install
 type: summary
-tags: []
+tags:
+- 前端开发
+- 代码生成
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

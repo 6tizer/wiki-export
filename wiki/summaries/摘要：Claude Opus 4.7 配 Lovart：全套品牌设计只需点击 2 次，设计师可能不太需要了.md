@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claude Opus 4.7 配 Lovart：全套品牌设计只需点击 2 次，设计师可能不太需要了
 type: summary
-tags: []
+tags:
+- AI 设计
+- 浏览器自动化
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'

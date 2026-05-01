@@ -1,7 +1,9 @@
 ---
 title: 摘要：focEliza：让 AI Agent 在 TEE 中「自证清白」的可验证日志插件
 type: summary
-tags: []
+tags:
+- 链上协议
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'

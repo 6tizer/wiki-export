@@ -1,7 +1,10 @@
 ---
 title: 摘要：2025 年 AI Agent 生态全景图：框架、启动板、明星 Agent 与顶级 Builder
 type: summary
-tags: []
+tags:
+- 加密资产
+- 多模态
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-28'

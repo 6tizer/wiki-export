@@ -1,7 +1,8 @@
 ---
 title: 摘要：顶配的努力往往是反直觉的——Paul Graham 的15条底层工作逻辑
 type: summary
-tags: []
+tags:
+- 身份准入
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'

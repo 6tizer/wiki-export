@@ -1,7 +1,10 @@
 ---
 title: ComfyUI
 type: entity
-tags: []
+tags:
+- 图像生成
+- 视频/3D
+- 多模态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

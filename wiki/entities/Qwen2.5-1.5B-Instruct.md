@@ -1,7 +1,10 @@
 ---
 title: Qwen2.5-1.5B-Instruct
 type: entity
-tags: []
+tags:
+- OpenClaw
+- 训练/微调
+- 模型部署
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

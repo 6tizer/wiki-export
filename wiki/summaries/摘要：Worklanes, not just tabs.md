@@ -1,7 +1,10 @@
 ---
 title: 摘要：Worklanes, not just tabs.
 type: summary
-tags: []
+tags:
+- 推理优化
+- 模型部署
+- AI 设计
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

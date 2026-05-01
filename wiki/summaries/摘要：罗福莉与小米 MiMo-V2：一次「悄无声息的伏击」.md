@@ -1,7 +1,10 @@
 ---
 title: 摘要：罗福莉与小米 MiMo-V2：一次「悄无声息的伏击」
 type: summary
-tags: []
+tags:
+- 推理优化
+- 上下文管理
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

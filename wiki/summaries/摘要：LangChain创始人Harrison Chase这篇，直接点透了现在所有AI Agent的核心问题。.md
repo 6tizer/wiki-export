@@ -1,7 +1,10 @@
 ---
 title: 摘要：LangChain创始人Harrison Chase这篇，直接点透了现在所有AI Agent的核心问题。
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 长期记忆
+- 知识管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

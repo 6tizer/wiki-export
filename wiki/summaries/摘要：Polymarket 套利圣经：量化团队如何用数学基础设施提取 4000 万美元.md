@@ -1,7 +1,10 @@
 ---
 title: 摘要：Polymarket 套利圣经：量化团队如何用数学基础设施提取 4000 万美元
 type: summary
-tags: []
+tags:
+- 量化交易
+- 链上协议
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

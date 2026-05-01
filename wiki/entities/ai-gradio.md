@@ -1,7 +1,10 @@
 ---
 title: ai-gradio
 type: entity
-tags: []
+tags:
+- AI 产品
+- 多Agent协作
+- 浏览器自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'

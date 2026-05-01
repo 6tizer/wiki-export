@@ -1,7 +1,10 @@
 ---
 title: 摘要：你写的Skill，正在拖慢模型？策略式Gene才是正确答案
 type: summary
-tags: []
+tags:
+- 推理优化
+- 提示工程
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

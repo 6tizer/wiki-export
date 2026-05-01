@@ -3,7 +3,10 @@ title: '摘要：Meet Qwen3-Coder-30B-A3B-Instruct-GGUF: a specialized 30B param
   assistant that''s been optimized for efficiency. This model isn''t just another
   chatbot. It''s a powerhouse fine-tuned for under'
 type: summary
-tags: []
+tags:
+- 代码生成
+- 模型部署
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

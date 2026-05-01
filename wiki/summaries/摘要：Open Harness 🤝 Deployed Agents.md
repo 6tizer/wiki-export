@@ -1,7 +1,10 @@
 ---
 title: 摘要：Open Harness 🤝 Deployed Agents
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 模型部署
+- 多Agent协作
 status: 已审核
 confidence: low
 last_compiled: '2026-04-15'

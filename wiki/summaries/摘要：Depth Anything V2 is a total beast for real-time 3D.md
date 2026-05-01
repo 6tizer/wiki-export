@@ -1,7 +1,10 @@
 ---
 title: 摘要：Depth Anything V2 is a total beast for real-time 3D.
 type: summary
-tags: []
+tags:
+- 前端开发
+- 多模态
+- 视频/3D
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

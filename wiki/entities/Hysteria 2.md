@@ -1,7 +1,10 @@
 ---
 title: Hysteria 2
 type: entity
-tags: []
+tags:
+- DevOps/运维
+- AI 设计
+- 链上协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

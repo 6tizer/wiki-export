@@ -1,7 +1,10 @@
 ---
 title: 摘要：Hermes Agent 生态继续疯涨
 type: summary
-tags: []
+tags:
+- 商业/生态
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

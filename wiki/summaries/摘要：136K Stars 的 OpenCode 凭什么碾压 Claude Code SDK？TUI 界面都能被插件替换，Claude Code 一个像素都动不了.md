@@ -1,7 +1,10 @@
 ---
 title: 摘要：136K Stars 的 OpenCode 凭什么碾压 Claude Code SDK？TUI 界面都能被插件替换，Claude Code 一个像素都动不了
 type: summary
-tags: []
+tags:
+- 代码生成
+- 链上协议
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

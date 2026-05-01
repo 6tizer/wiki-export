@@ -1,7 +1,8 @@
 ---
 title: K 线语言建模
 type: concept
-tags: []
+tags:
+- 量化交易
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

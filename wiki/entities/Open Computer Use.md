@@ -1,7 +1,9 @@
 ---
 title: Open Computer Use
 type: entity
-tags: []
+tags:
+- MCP 协议
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

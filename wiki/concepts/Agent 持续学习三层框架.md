@@ -1,7 +1,9 @@
 ---
 title: Agent 持续学习三层框架
 type: concept
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

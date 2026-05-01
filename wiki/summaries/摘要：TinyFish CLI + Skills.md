@@ -1,7 +1,10 @@
 ---
 title: 摘要：TinyFish CLI + Skills
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 浏览器自动化
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

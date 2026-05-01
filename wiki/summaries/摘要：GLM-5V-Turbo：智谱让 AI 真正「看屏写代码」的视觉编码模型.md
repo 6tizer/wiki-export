@@ -1,7 +1,10 @@
 ---
 title: 摘要：GLM-5V-Turbo：智谱让 AI 真正「看屏写代码」的视觉编码模型
 type: summary
-tags: []
+tags:
+- 多模态
+- 代码生成
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

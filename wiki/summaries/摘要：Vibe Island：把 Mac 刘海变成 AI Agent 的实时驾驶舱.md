@@ -1,7 +1,10 @@
 ---
 title: 摘要：Vibe Island：把 Mac 刘海变成 AI Agent 的实时驾驶舱
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- Agent 协作模式
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

@@ -1,7 +1,10 @@
 ---
 title: 项目级 Skills 分发
 type: concept
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

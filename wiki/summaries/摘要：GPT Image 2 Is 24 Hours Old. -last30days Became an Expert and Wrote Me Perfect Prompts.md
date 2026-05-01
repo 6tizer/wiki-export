@@ -2,7 +2,10 @@
 title: 摘要：GPT Image 2 Is 24 Hours Old. /last30days Became an Expert and Wrote Me Perfect
   Prompts
 type: summary
-tags: []
+tags:
+- 图像生成
+- 提示工程
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

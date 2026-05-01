@@ -1,8 +1,11 @@
 ---
 title: Human-In-The-Loop
 type: concept
-tags: []
-status: 草稿
+tags:
+- Agent 协作模式
+- 多Agent协作
+- Agent 安全
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''

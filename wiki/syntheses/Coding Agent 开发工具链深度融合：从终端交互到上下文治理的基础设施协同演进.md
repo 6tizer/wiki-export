@@ -1,7 +1,10 @@
 ---
 title: Coding Agent 开发工具链深度融合：从终端交互到上下文治理的基础设施协同演进
 type: synthesis
-tags: []
+tags:
+- IDE 集成
+- 上下文管理
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'

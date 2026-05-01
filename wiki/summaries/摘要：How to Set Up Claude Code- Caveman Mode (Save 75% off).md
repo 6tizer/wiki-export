@@ -1,7 +1,10 @@
 ---
 title: '摘要：How to Set Up Claude Code: Caveman Mode (Save 75% off)'
 type: summary
-tags: []
+tags:
+- 提示工程
+- IDE 集成
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

@@ -1,7 +1,10 @@
 ---
 title: Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进
 type: synthesis
-tags: []
+tags:
+- 浏览器自动化
+- CLI 工具
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

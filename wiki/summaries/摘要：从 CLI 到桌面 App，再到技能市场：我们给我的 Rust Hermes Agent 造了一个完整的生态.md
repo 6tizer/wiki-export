@@ -1,7 +1,10 @@
 ---
 title: 摘要：从 CLI 到桌面 App，再到技能市场：我们给我的 Rust Hermes Agent 造了一个完整的生态
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 前端开发
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-14'

@@ -1,7 +1,10 @@
 ---
 title: Frozen Snapshot
 type: concept
-tags: []
+tags:
+- 上下文管理
+- 长期记忆
+- 推理优化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

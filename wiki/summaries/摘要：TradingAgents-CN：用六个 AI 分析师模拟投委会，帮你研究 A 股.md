@@ -1,7 +1,10 @@
 ---
 title: 摘要：TradingAgents-CN：用六个 AI 分析师模拟投委会，帮你研究 A 股
 type: summary
-tags: []
+tags:
+- 量化交易
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

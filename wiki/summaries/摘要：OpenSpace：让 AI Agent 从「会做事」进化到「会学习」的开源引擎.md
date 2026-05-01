@@ -1,7 +1,10 @@
 ---
 title: 摘要：OpenSpace：让 AI Agent 从「会做事」进化到「会学习」的开源引擎
 type: summary
-tags: []
+tags:
+- MCP 协议
+- 长期记忆
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

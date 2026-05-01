@@ -1,7 +1,10 @@
 ---
 title: GPU 虚拟内存
 type: concept
-tags: []
+tags:
+- 视频/3D
+- 算力基础设施
+- AI 设计
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

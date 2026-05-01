@@ -1,7 +1,10 @@
 ---
 title: Agent 化图像生成
 type: concept
-tags: []
+tags:
+- 图像生成
+- AI 设计
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

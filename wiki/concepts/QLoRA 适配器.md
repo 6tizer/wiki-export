@@ -1,7 +1,9 @@
 ---
 title: QLoRA 适配器
 type: concept
-tags: []
+tags:
+- 训练/微调
+- 模型部署
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

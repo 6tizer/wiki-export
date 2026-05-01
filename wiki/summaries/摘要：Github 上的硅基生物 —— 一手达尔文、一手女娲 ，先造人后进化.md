@@ -1,7 +1,10 @@
 ---
 title: 摘要：Github 上的硅基生物 —— 一手达尔文、一手女娲 ，先造人后进化
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 模型评测
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

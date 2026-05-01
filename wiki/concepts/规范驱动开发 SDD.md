@@ -1,7 +1,10 @@
 ---
 title: 规范驱动开发 SDD
 type: concept
-tags: []
+tags:
+- 代码生成
+- 上下文管理
+- IDE 集成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-30'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：6行代码搞定AI Agent记忆！这个16K Star的开源项目打破了传统RAG痛点！
 type: summary
-tags: []
+tags:
+- 长期记忆
+- RAG/检索
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'

@@ -1,7 +1,9 @@
 ---
 title: CDP Proxy
 type: concept
-tags: []
+tags:
+- 浏览器自动化
+- MCP 协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

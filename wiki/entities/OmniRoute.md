@@ -1,7 +1,10 @@
 ---
 title: OmniRoute
 type: entity
-tags: []
+tags:
+- 模型部署
+- 链上协议
+- 加密资产
 status: 审核中
 confidence: high
 last_compiled: '2026-04-30'

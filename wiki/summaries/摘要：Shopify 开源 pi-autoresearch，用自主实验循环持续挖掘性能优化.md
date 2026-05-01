@@ -1,7 +1,10 @@
 ---
 title: 摘要：Shopify 开源 pi-autoresearch，用自主实验循环持续挖掘性能优化
 type: summary
-tags: []
+tags:
+- 加密资产
+- Harness 工程
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

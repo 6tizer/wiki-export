@@ -1,7 +1,10 @@
 ---
 title: 从技能图谱到自优化管线：Skill 组合的可执行链路构建与反馈驱动的演化机制
 type: synthesis
-tags: []
+tags:
+- 多Agent协作
+- Harness 工程
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

@@ -1,7 +1,10 @@
 ---
 title: DSPy
 type: entity
-tags: []
+tags:
+- 推理优化
+- 提示工程
+- Harness 工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-30'

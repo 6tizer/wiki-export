@@ -1,7 +1,9 @@
 ---
 title: Farside ETF 资金流追踪
 type: concept
-tags: []
+tags:
+- 加密资产
+- 量化交易
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'

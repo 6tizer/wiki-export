@@ -1,7 +1,10 @@
 ---
 title: 摘要：前两天还有人在评论区问我，不知道装了Hermes 能干嘛。
 type: summary
-tags: []
+tags:
+- 内容自动化
+- CLI 工具
+- 图像生成
 status: 已审核
 confidence: low
 last_compiled: '2026-04-12'

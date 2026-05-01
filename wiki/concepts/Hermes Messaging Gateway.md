@@ -1,7 +1,10 @@
 ---
 title: Hermes Messaging Gateway
 type: concept
-tags: []
+tags:
+- Agent 协作模式
+- 链上协议
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

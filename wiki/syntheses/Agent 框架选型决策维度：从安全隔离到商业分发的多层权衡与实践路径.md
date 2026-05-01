@@ -1,7 +1,10 @@
 ---
 title: Agent 框架选型决策维度：从安全隔离到商业分发的多层权衡与实践路径
 type: synthesis
-tags: []
+tags:
+- Agent 安全
+- 链上协议
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-14'

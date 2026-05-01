@@ -1,7 +1,10 @@
 ---
 title: 隔离式 Agent
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- 上下文管理
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

@@ -1,7 +1,10 @@
 ---
 title: Agent 服务发现层
 type: concept
-tags: []
+tags:
+- 商业/生态
+- 链上协议
+- 身份准入
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

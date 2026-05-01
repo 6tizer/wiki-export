@@ -1,7 +1,10 @@
 ---
 title: Gemma 4
 type: entity
-tags: []
+tags:
+- 多模态
+- 模型部署
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'

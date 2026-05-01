@@ -1,7 +1,10 @@
 ---
 title: 摘要：Open-Multi-Agent：从 Claude Code 源码泄露中诞生的 TypeScript 多智能体框架
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- Harness 工程
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

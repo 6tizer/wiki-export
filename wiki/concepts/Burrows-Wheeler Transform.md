@@ -1,7 +1,8 @@
 ---
 title: Burrows-Wheeler Transform
 type: concept
-tags: []
+tags:
+- 压缩算法
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'

@@ -1,7 +1,8 @@
 ---
 title: 摘要：Once you understand neuroplasticity your life will never be the same again
 type: summary
-tags: []
+tags:
+- 身份准入
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

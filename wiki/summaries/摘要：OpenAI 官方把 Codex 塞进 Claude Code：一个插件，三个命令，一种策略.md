@@ -1,7 +1,10 @@
 ---
 title: 摘要：OpenAI 官方把 Codex 塞进 Claude Code：一个插件，三个命令，一种策略
 type: summary
-tags: []
+tags:
+- IDE 集成
+- 多Agent协作
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

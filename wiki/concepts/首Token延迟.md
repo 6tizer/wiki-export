@@ -1,7 +1,10 @@
 ---
 title: 首Token延迟
 type: concept
-tags: []
+tags:
+- 推理优化
+- 模型部署
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

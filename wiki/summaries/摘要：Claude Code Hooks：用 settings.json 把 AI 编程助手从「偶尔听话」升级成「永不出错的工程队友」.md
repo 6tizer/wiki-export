@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claude Code Hooks：用 settings.json 把 AI 编程助手从「偶尔听话」升级成「永不出错的工程队友」
 type: summary
-tags: []
+tags:
+- Harness 工程
+- Agent 安全
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

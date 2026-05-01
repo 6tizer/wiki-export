@@ -1,7 +1,10 @@
 ---
 title: CocoIndex
 type: entity
-tags: []
+tags:
+- RAG/检索
+- 上下文管理
+- 长期记忆
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

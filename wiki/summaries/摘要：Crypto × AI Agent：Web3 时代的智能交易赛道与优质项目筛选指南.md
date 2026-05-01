@@ -1,7 +1,10 @@
 ---
 title: 摘要：Crypto × AI Agent：Web3 时代的智能交易赛道与优质项目筛选指南
 type: summary
-tags: []
+tags:
+- 加密资产
+- 量化交易
+- 模型评测
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

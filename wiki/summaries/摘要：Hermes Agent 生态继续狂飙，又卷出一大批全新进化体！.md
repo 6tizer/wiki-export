@@ -1,7 +1,10 @@
 ---
 title: 摘要：Hermes Agent 生态继续狂飙，又卷出一大批全新进化体！
 type: summary
-tags: []
+tags:
+- 商业/生态
+- Agent 安全
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

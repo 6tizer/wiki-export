@@ -1,7 +1,10 @@
 ---
 title: 摘要：Seedance2.0 Prompt 圣经
 type: summary
-tags: []
+tags:
+- 视频/3D
+- 提示工程
+- 多模态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

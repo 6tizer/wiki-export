@@ -1,7 +1,10 @@
 ---
 title: 机房 IP
 type: concept
-tags: []
+tags:
+- 算力基础设施
+- 身份准入
+- Agent 安全
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

@@ -2,7 +2,10 @@
 title: 摘要：How to cut Claude Code costs by 3x (using Karpathy's context engineering
   principles)
 type: summary
-tags: []
+tags:
+- 上下文管理
+- MCP 协议
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

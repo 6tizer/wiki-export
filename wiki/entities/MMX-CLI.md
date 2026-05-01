@@ -1,7 +1,10 @@
 ---
 title: MMX-CLI
 type: entity
-tags: []
+tags:
+- CLI 工具
+- 多模态
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

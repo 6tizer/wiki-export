@@ -1,7 +1,10 @@
 ---
 title: 摘要：5 分钟零代码：用 Railway 把 Claude 接入 Telegram，打造你的 Crypto 私人助理
 type: summary
-tags: []
+tags:
+- 社交媒体
+- 长期记忆
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

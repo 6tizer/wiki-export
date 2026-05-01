@@ -1,7 +1,10 @@
 ---
 title: 摘要：DeepSeek-V4 发布 10 小时，北大开源项目实现了自动化评测！
 type: summary
-tags: []
+tags:
+- 模型评测
+- Harness 工程
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'

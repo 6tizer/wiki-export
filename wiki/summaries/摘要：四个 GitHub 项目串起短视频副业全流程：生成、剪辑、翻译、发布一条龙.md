@@ -1,7 +1,10 @@
 ---
 title: 摘要：四个 GitHub 项目串起短视频副业全流程：生成、剪辑、翻译、发布一条龙
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 社交媒体
+- 视频/3D
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

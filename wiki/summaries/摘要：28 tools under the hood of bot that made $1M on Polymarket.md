@@ -1,7 +1,10 @@
 ---
 title: 摘要：28 tools under the hood of bot that made $1M on Polymarket
 type: summary
-tags: []
+tags:
+- 量化交易
+- 多Agent协作
+- Harness 工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

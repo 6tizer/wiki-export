@@ -1,7 +1,10 @@
 ---
 title: Contemplating 模式
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- 推理优化
+- 模型评测
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'

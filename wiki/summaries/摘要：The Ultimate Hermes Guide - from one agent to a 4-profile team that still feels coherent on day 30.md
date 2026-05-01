@@ -2,7 +2,10 @@
 title: 摘要：The Ultimate Hermes Guide - from one agent to a 4-profile team that still
   feels coherent on day 30
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：CodePilot：用宠物系统解决 Agent 时代最大的用户问题
 type: summary
-tags: []
+tags:
+- AI 产品
+- 长期记忆
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

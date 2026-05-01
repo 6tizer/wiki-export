@@ -1,7 +1,10 @@
 ---
 title: 摘要：Sign in with ChatGPT
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 长期记忆
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

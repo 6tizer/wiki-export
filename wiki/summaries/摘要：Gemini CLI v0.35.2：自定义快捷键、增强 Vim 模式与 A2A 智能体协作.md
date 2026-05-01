@@ -1,7 +1,10 @@
 ---
 title: 摘要：Gemini CLI v0.35.2：自定义快捷键、增强 Vim 模式与 A2A 智能体协作
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 多Agent协作
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

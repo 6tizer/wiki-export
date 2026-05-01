@@ -1,7 +1,10 @@
 ---
 title: 摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst
 type: summary
-tags: []
+tags:
+- 长期记忆
+- 浏览器自动化
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

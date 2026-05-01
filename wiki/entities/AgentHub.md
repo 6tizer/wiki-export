@@ -1,7 +1,10 @@
 ---
 title: AgentHub
 type: entity
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

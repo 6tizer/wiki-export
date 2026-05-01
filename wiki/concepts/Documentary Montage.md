@@ -1,7 +1,10 @@
 ---
 title: Documentary Montage
 type: concept
-tags: []
+tags:
+- RAG/检索
+- 视频/3D
+- 内容自动化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'

@@ -1,7 +1,10 @@
 ---
 title: 三省六部式多 Agent 架构
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- Agent 协作模式
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：OpenClaw + Playwright：几乎能爬任意网页了
 type: summary
-tags: []
+tags:
+- OpenClaw
+- 浏览器自动化
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

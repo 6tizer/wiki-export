@@ -1,7 +1,10 @@
 ---
 title: AgentState
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- 上下文管理
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

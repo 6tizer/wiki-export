@@ -1,7 +1,10 @@
 ---
 title: Whisper.cpp
 type: entity
-tags: []
+tags:
+- 内容自动化
+- 模型部署
+- 多模态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

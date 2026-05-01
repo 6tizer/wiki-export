@@ -1,7 +1,10 @@
 ---
 title: Context Compaction
 type: concept
-tags: []
+tags:
+- 上下文管理
+- Harness 工程
+- 长期记忆
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

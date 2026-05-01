@@ -1,7 +1,10 @@
 ---
 title: Keep-or-revert loop
 type: concept
-tags: []
+tags:
+- 模型评测
+- 提示工程
+- 推理优化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

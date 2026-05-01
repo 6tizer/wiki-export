@@ -1,7 +1,10 @@
 ---
 title: 摘要：说实话，这才是Anthropic今年最有价值的更新啊，没有之一！！！
 type: summary
-tags: []
+tags:
+- 上下文管理
+- 多Agent协作
+- 推理优化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'

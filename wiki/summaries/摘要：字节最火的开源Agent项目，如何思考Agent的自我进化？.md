@@ -1,7 +1,10 @@
 ---
 title: 摘要：字节最火的开源Agent项目，如何思考Agent的自我进化？
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 模型评测
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

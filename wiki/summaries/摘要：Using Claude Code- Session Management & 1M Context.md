@@ -1,7 +1,10 @@
 ---
 title: '摘要：Using Claude Code: Session Management & 1M Context'
 type: summary
-tags: []
+tags:
+- 上下文管理
+- 多Agent协作
+- IDE 集成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

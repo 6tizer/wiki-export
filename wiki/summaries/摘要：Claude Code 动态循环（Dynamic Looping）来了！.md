@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claude Code 动态循环（Dynamic Looping）来了！
 type: summary
-tags: []
+tags:
+- Harness 工程
+- Agent 安全
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'

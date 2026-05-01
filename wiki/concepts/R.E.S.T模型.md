@@ -1,7 +1,10 @@
 ---
 title: R.E.S.T模型
 type: concept
-tags: []
+tags:
+- Harness 工程
+- Agent 安全
+- 链上协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

@@ -1,7 +1,11 @@
 ---
 title: 摘要：Google Stitch 2.0 + Claude Code：独立开发者终于有了自己的设计师
 type: summary
-tags: []
+tags:
+- AI 设计
+- MCP 协议
+- 代码生成
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

@@ -1,7 +1,10 @@
 ---
 title: Everything Claude Code
 type: entity
-tags: []
+tags:
+- 加密资产
+- 多Agent协作
+- Harness 工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'

@@ -1,7 +1,10 @@
 ---
 title: AI Oracle 链上 AI 预言机
 type: concept
-tags: []
+tags:
+- 链上协议
+- 加密资产
+- 算力基础设施
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'

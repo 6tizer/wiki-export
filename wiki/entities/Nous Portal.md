@@ -1,7 +1,10 @@
 ---
 title: Nous Portal
 type: entity
-tags: []
+tags:
+- 身份准入
+- AI 产品
+- 模型部署
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

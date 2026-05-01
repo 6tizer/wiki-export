@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claude 推出 Advisor Strategy
 type: summary
-tags: []
+tags:
+- AI 产品
+- 多Agent协作
+- 推理优化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

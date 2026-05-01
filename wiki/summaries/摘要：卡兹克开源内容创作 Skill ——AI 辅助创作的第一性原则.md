@@ -1,7 +1,9 @@
 ---
 title: 摘要：卡兹克开源内容创作 Skill ——AI 辅助创作的第一性原则
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 提示工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'

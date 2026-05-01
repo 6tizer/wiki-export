@@ -1,7 +1,10 @@
 ---
 title: 摘要：GPT-image-2全量开放！狂刷几百张后，我整理了13个必看案例！
 type: summary
-tags: []
+tags:
+- 图像生成
+- 社交媒体
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

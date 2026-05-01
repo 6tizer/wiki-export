@@ -1,7 +1,9 @@
 ---
 title: 3x-ui
 type: entity
-tags: []
+tags:
+- Agent 安全
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

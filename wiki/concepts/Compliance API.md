@@ -1,7 +1,10 @@
 ---
 title: Compliance API
 type: concept
-tags: []
+tags:
+- Agent 安全
+- AI 政策
+- 链上协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

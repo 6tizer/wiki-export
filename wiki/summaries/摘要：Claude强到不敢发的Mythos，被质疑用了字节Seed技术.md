@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claude强到不敢发的Mythos，被质疑用了字节Seed技术
 type: summary
-tags: []
+tags:
+- 推理优化
+- 链上协议
+- 模型评测
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'

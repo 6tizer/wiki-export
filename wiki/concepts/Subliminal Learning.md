@@ -1,7 +1,9 @@
 ---
 title: Subliminal Learning
 type: concept
-tags: []
+tags:
+- AI 对齐
+- 训练/微调
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'

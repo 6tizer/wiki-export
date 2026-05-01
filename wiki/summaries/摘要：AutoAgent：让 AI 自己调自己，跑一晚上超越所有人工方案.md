@@ -1,7 +1,10 @@
 ---
 title: 摘要：AutoAgent：让 AI 自己调自己，跑一晚上超越所有人工方案
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 模型评测
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

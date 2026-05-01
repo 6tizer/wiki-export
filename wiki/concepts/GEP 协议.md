@@ -1,7 +1,10 @@
 ---
 title: GEP 协议
 type: concept
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'

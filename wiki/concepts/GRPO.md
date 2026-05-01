@@ -1,7 +1,8 @@
 ---
 title: GRPO
 type: concept
-tags: []
+tags:
+- 训练/微调
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

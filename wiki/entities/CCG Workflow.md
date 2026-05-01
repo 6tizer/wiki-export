@@ -1,7 +1,10 @@
 ---
 title: CCG Workflow
 type: entity
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- CLI 工具
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

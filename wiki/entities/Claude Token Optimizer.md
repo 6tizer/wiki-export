@@ -1,7 +1,10 @@
 ---
 title: Claude Token Optimizer
 type: entity
-tags: []
+tags:
+- 提示工程
+- 上下文管理
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

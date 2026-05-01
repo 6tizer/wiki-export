@@ -1,7 +1,10 @@
 ---
 title: 摘要：tokenizer-free
 type: summary
-tags: []
+tags:
+- 多模态
+- 内容自动化
+- 模型部署
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

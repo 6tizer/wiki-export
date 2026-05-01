@@ -1,7 +1,10 @@
 ---
 title: '摘要：Agent Vault: The Open Source Credential Proxy and Vault for Agents'
 type: summary
-tags: []
+tags:
+- Agent 安全
+- MCP 协议
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

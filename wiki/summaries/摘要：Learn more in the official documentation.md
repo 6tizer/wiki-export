@@ -1,7 +1,10 @@
 ---
 title: 摘要：Learn more in the official documentation
 type: summary
-tags: []
+tags:
+- MCP 协议
+- IDE 集成
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

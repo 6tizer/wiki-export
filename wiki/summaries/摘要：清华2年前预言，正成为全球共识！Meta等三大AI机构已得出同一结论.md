@@ -1,7 +1,10 @@
 ---
 title: 摘要：清华2年前预言，正成为全球共识！Meta等三大AI机构已得出同一结论
 type: summary
-tags: []
+tags:
+- 推理优化
+- 训练/微调
+- 模型评测
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

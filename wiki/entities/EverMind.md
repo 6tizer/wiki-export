@@ -1,7 +1,10 @@
 ---
 title: EverMind
 type: entity
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
+- 算力基础设施
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-29'

@@ -1,7 +1,10 @@
 ---
 title: Qwen3.5-9B-GLM5.1-Distill-v1
 type: entity
-tags: []
+tags:
+- 训练/微调
+- 模型部署
+- 推理优化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

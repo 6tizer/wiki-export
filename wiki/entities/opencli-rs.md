@@ -1,7 +1,10 @@
 ---
 title: opencli-rs
 type: entity
-tags: []
+tags:
+- 内容自动化
+- 浏览器自动化
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

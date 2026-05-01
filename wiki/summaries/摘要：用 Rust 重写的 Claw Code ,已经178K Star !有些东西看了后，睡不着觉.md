@@ -1,7 +1,10 @@
 ---
 title: 摘要：用 Rust 重写的 Claw Code ,已经178K Star !有些东西看了后，睡不着觉
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 链上协议
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

@@ -1,7 +1,9 @@
 ---
 title: LLaMA-Factory
 type: entity
-tags: []
+tags:
+- 训练/微调
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

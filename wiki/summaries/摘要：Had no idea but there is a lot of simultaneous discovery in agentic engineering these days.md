@@ -2,7 +2,10 @@
 title: 摘要：Had no idea but there is a lot of simultaneous discovery in agentic engineering
   these days
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 长期记忆
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

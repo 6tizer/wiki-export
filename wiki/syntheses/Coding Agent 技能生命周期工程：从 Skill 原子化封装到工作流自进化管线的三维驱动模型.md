@@ -1,7 +1,10 @@
 ---
 title: Coding Agent 技能生命周期工程：从 Skill 原子化封装到工作流自进化管线的三维驱动模型
 type: synthesis
-tags: []
+tags:
+- 多Agent协作
+- Harness 工程
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'

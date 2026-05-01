@@ -1,7 +1,10 @@
 ---
 title: Groq
 type: entity
-tags: []
+tags:
+- 商业/生态
+- 推理优化
+- 算力基础设施
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

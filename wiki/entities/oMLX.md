@@ -1,7 +1,10 @@
 ---
 title: oMLX
 type: entity
-tags: []
+tags:
+- 模型部署
+- 推理优化
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'

@@ -1,7 +1,10 @@
 ---
 title: Sherlock
 type: entity
-tags: []
+tags:
+- 社交媒体
+- CLI 工具
+- 浏览器自动化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

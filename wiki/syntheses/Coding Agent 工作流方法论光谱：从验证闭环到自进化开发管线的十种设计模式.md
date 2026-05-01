@@ -1,7 +1,10 @@
 ---
 title: Coding Agent 工作流方法论光谱：从验证闭环到自进化开发管线的十种设计模式
 type: synthesis
-tags: []
+tags:
+- Harness 工程
+- 提示工程
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

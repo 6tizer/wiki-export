@@ -1,7 +1,10 @@
 ---
 title: 摘要：链上 AI Agent 全景图：2025 年最值得关注的资源整理
 type: summary
-tags: []
+tags:
+- 链上协议
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

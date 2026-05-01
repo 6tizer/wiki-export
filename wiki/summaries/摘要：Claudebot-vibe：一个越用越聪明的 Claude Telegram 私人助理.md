@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claudebot-vibe：一个越用越聪明的 Claude Telegram 私人助理
 type: summary
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

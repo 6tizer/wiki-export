@@ -1,7 +1,10 @@
 ---
 title: 摘要：来了！来了！我把大家呼声最高的微信聊天记录解析全流程封装成了一个Skill
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 笔记工具
+- 代码生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

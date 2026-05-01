@@ -1,7 +1,10 @@
 ---
 title: 摘要：这个 Skill 太硬了，刚开源就斩获 2.8K 星标！Agent 联网能力拉满！
 type: summary
-tags: []
+tags:
+- 浏览器自动化
+- MCP 协议
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

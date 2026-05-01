@@ -1,7 +1,10 @@
 ---
 title: Mercury
 type: entity
-tags: []
+tags:
+- Agent 安全
+- 上下文管理
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

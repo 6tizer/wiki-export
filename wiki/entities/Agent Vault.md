@@ -1,7 +1,9 @@
 ---
 title: Agent Vault
 type: entity
-tags: []
+tags:
+- Agent 安全
+- MCP 协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

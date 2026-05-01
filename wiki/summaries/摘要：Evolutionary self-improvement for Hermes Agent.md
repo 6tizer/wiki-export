@@ -1,7 +1,10 @@
 ---
 title: 摘要：Evolutionary self-improvement for Hermes Agent
 type: summary
-tags: []
+tags:
+- 提示工程
+- 推理优化
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

@@ -1,7 +1,9 @@
 ---
 title: RL Token
 type: concept
-tags: []
+tags:
+- 训练/微调
+- 推理优化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

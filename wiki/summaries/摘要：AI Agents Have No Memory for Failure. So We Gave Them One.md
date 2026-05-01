@@ -1,7 +1,10 @@
 ---
 title: 摘要：AI Agents Have No Memory for Failure. So We Gave Them One.
 type: summary
-tags: []
+tags:
+- 长期记忆
+- Harness 工程
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

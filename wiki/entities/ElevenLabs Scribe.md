@@ -1,7 +1,10 @@
 ---
 title: ElevenLabs Scribe
 type: entity
-tags: []
+tags:
+- 内容自动化
+- 多模态
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

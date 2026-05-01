@@ -1,7 +1,10 @@
 ---
 title: Agent-first 架构
 type: concept
-tags: []
+tags:
+- Agent 协作模式
+- Harness 工程
+- IDE 集成
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

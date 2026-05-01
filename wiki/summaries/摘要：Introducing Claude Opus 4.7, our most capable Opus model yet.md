@@ -1,7 +1,9 @@
 ---
 title: 摘要：Introducing Claude Opus 4.7, our most capable Opus model yet.
 type: summary
-tags: []
+tags:
+- AI 产品
+- 商业/生态
 status: 已审核
 confidence: low
 last_compiled: '2026-04-16'

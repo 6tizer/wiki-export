@@ -1,7 +1,9 @@
 ---
 title: 摘要：How to Master Prompt Engineering at an Expert Level (Full Course)
 type: summary
-tags: []
+tags:
+- 提示工程
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

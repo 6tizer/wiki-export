@@ -1,7 +1,10 @@
 ---
 title: 摘要：前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥
 type: summary
-tags: []
+tags:
+- 前端开发
+- 链上协议
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

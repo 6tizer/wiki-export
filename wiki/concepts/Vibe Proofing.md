@@ -1,7 +1,10 @@
 ---
 title: Vibe Proofing
 type: concept
-tags: []
+tags:
+- 代码生成
+- 加密资产
+- 身份准入
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

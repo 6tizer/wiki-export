@@ -1,7 +1,10 @@
 ---
 title: AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路内容工厂的工作流范式分化
 type: synthesis
-tags: []
+tags:
+- 内容自动化
+- 多Agent协作
+- 浏览器自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-14'

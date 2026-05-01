@@ -1,7 +1,10 @@
 ---
 title: Hyperliquid
 type: entity
-tags: []
+tags:
+- 加密资产
+- 链上协议
+- 量化交易
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'

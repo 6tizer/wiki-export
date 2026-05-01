@@ -1,7 +1,10 @@
 ---
 title: MiniCPM
 type: entity
-tags: []
+tags:
+- 推理优化
+- 多模态
+- 模型部署
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'

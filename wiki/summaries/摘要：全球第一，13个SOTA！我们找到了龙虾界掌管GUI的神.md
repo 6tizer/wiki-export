@@ -1,7 +1,10 @@
 ---
 title: 摘要：全球第一，13个SOTA！我们找到了龙虾界掌管GUI的神
 type: summary
-tags: []
+tags:
+- 多模态
+- 浏览器自动化
+- 模型部署
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

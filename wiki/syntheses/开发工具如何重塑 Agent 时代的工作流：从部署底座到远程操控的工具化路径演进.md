@@ -1,7 +1,10 @@
 ---
 title: 开发工具如何重塑 Agent 时代的工作流：从部署底座到远程操控的工具化路径演进
 type: synthesis
-tags: []
+tags:
+- Harness 工程
+- Agent 安全
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

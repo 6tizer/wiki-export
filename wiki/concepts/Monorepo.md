@@ -1,7 +1,10 @@
 ---
 title: Monorepo
 type: concept
-tags: []
+tags:
+- 加密资产
+- 链上协议
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-14'

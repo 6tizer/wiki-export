@@ -1,7 +1,10 @@
 ---
 title: Open Memory
 type: concept
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
+- Harness 工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'

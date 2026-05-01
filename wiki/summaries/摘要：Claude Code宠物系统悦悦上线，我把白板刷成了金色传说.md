@@ -1,7 +1,9 @@
 ---
 title: 摘要：Claude Code宠物系统悦悦上线，我把白板刷成了金色传说
 type: summary
-tags: []
+tags:
+- AI 产品
+- 身份准入
 status: 已审核
 confidence: low
 last_compiled: '2026-04-27'

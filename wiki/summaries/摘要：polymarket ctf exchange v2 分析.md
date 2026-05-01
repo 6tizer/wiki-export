@@ -1,7 +1,9 @@
 ---
 title: 摘要：polymarket ctf exchange v2 分析
 type: summary
-tags: []
+tags:
+- 链上协议
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

@@ -1,7 +1,9 @@
 ---
 title: 摘要：Tailscale + VPS：在国内用「干净 IP」访问 Claude 的最简方案
 type: summary
-tags: []
+tags:
+- 算力基础设施
+- Agent 安全
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

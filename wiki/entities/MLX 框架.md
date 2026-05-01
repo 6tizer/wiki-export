@@ -1,7 +1,10 @@
 ---
 title: MLX 框架
 type: entity
-tags: []
+tags:
+- 模型部署
+- 算力基础设施
+- 推理优化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

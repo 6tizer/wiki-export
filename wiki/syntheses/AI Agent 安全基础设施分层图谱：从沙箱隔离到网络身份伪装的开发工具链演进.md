@@ -1,7 +1,10 @@
 ---
 title: AI Agent 安全基础设施分层图谱：从沙箱隔离到网络身份伪装的开发工具链演进
 type: synthesis
-tags: []
+tags:
+- Agent 安全
+- Harness 工程
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

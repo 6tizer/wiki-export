@@ -1,7 +1,10 @@
 ---
 title: 摘要：抽丝剥茧：深度解析 Hermes Agent 万字系统提示词（System Prompt）构成
 type: summary
-tags: []
+tags:
+- 提示工程
+- 上下文管理
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

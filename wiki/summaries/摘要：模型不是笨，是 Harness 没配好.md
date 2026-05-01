@@ -1,7 +1,9 @@
 ---
 title: 摘要：模型不是笨，是 Harness 没配好
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

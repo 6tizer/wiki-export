@@ -1,7 +1,9 @@
 ---
 title: OCR
 type: concept
-tags: []
+tags:
+- 多模态
+- RAG/检索
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'

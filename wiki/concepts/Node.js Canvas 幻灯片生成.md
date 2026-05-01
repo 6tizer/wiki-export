@@ -1,7 +1,10 @@
 ---
 title: Node.js Canvas 幻灯片生成
 type: concept
-tags: []
+tags:
+- 内容自动化
+- 社交媒体
+- 图像生成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

@@ -1,7 +1,9 @@
 ---
 title: 多 Agent 并行推理
 type: concept
-tags: []
+tags:
+- 多Agent协作
+- 推理优化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

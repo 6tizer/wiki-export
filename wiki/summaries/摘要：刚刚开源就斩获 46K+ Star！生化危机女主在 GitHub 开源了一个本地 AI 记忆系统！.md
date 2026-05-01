@@ -1,7 +1,10 @@
 ---
 title: 摘要：刚刚开源就斩获 46K+ Star！生化危机女主在 GitHub 开源了一个本地 AI 记忆系统！
 type: summary
-tags: []
+tags:
+- 长期记忆
+- RAG/检索
+- MCP 协议
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'

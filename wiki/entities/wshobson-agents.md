@@ -1,7 +1,10 @@
 ---
 title: wshobson/agents
 type: entity
-tags: []
+tags:
+- 多Agent协作
+- Agent 协作模式
+- Harness 工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'

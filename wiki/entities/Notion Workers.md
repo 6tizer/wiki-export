@@ -1,7 +1,10 @@
 ---
 title: Notion Workers
 type: entity
-tags: []
+tags:
+- 内容自动化
+- Harness 工程
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

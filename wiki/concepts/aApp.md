@@ -1,7 +1,10 @@
 ---
 title: aApp
 type: concept
-tags: []
+tags:
+- 商业/生态
+- 上下文管理
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-29'

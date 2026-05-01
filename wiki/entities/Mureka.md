@@ -1,7 +1,9 @@
 ---
 title: Mureka
 type: entity
-tags: []
+tags:
+- AI 产品
+- 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'

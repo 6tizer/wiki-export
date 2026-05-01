@@ -1,7 +1,9 @@
 ---
 title: GGUF
 type: concept
-tags: []
+tags:
+- 模型部署
+- 推理优化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

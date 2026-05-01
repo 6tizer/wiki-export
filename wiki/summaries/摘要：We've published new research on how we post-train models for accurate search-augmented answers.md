@@ -2,7 +2,10 @@
 title: 摘要：We've published new research on how we post-train models for accurate search-augmented
   answers.
 type: summary
-tags: []
+tags:
+- RAG/检索
+- 训练/微调
+- 推理优化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

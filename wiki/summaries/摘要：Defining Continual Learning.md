@@ -1,7 +1,10 @@
 ---
 title: 摘要：Defining Continual Learning
 type: summary
-tags: []
+tags:
+- 训练/微调
+- 模型评测
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

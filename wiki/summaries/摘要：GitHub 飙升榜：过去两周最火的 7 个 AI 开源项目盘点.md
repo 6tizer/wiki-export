@@ -1,7 +1,10 @@
 ---
 title: 摘要：GitHub 飙升榜：过去两周最火的 7 个 AI 开源项目盘点
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- 加密资产
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

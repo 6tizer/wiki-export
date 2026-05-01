@@ -1,7 +1,10 @@
 ---
 title: 摘要：Better-Harness：LangChain 用 Evals 当梯度信号，让 Agent 越跑越强
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 模型评测
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

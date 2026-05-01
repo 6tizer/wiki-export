@@ -1,7 +1,10 @@
 ---
 title: 摘要：设计师们的天塌了，谷歌 Stitch 太疯狂了
 type: summary
-tags: []
+tags:
+- AI 设计
+- 代码生成
+- 前端开发
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

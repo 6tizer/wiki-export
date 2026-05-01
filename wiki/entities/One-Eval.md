@@ -5,7 +5,7 @@ tags:
 - 模型评测
 - AI 设计
 - Agent 协作模式
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-24'
 source_tags: ''

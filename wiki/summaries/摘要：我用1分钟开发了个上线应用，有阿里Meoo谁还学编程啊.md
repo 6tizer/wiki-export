@@ -1,7 +1,10 @@
 ---
 title: 摘要：我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊
 type: summary
-tags: []
+tags:
+- AI 产品
+- 代码生成
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

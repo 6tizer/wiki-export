@@ -1,7 +1,10 @@
 ---
 title: 摘要：HeyGen 发布这个 hyperframes CLI 很强啊
 type: summary
-tags: []
+tags:
+- 前端开发
+- 视频/3D
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-17'

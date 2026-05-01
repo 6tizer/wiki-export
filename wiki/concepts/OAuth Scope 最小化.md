@@ -1,7 +1,9 @@
 ---
 title: OAuth Scope 最小化
 type: concept
-tags: []
+tags:
+- Agent 安全
+- 身份准入
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

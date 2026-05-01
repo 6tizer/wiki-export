@@ -1,7 +1,10 @@
 ---
 title: 摘要：Qwen Code v0.14：用手机遥控你的服务器，终端 AI 编程助手的新玩法
 type: summary
-tags: []
+tags:
+- 代码生成
+- CLI 工具
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

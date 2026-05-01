@@ -1,7 +1,10 @@
 ---
 title: Codex 插件系统
 type: concept
-tags: []
+tags:
+- 代码生成
+- IDE 集成
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-19'

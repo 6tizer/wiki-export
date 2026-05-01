@@ -1,7 +1,10 @@
 ---
 title: Codex 最佳配置实践：从 AGENTS.md 到插件生态与多 Agent 编排的工程化调优全景
 type: synthesis
-tags: []
+tags:
+- 加密资产
+- 多Agent协作
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

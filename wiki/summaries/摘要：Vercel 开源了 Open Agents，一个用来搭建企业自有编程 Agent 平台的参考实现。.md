@@ -1,7 +1,10 @@
 ---
 title: 摘要：Vercel 开源了 Open Agents，一个用来搭建企业自有编程 Agent 平台的参考实现。
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 链上协议
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

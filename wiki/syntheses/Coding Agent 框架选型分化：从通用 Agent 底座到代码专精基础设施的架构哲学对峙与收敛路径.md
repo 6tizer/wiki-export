@@ -1,7 +1,10 @@
 ---
 title: Coding Agent 框架选型分化：从通用 Agent 底座到代码专精基础设施的架构哲学对峙与收敛路径
 type: synthesis
-tags: []
+tags:
+- 代码生成
+- IDE 集成
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

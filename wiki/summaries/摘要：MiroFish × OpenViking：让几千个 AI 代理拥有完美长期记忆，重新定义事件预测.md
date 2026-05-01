@@ -1,7 +1,10 @@
 ---
 title: 摘要：MiroFish × OpenViking：让几千个 AI 代理拥有完美长期记忆，重新定义事件预测
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

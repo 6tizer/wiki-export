@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claude 官方 Skills 仓库：11 万 Star 背后，AI Agent 的新工作方式
 type: summary
-tags: []
+tags:
+- 上下文管理
+- 商业/生态
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

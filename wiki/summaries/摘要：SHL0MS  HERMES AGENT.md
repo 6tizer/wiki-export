@@ -1,7 +1,10 @@
 ---
 title: 摘要：SHL0MS | HERMES AGENT
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

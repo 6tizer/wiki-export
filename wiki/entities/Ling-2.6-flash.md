@@ -1,7 +1,10 @@
 ---
 title: Ling-2.6-flash
 type: entity
-tags: []
+tags:
+- 推理优化
+- 上下文管理
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-24'

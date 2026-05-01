@@ -1,7 +1,10 @@
 ---
 title: 摘要：即梦发布 AI 原生动态叙事创作工具 Octo！
 type: summary
-tags: []
+tags:
+- 视频/3D
+- 上下文管理
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

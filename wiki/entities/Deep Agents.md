@@ -1,7 +1,10 @@
 ---
 title: Deep Agents
 type: entity
-tags: []
+tags:
+- Harness 工程
+- 长期记忆
+- 模型部署
 status: 审核中
 confidence: high
 last_compiled: '2026-04-30'

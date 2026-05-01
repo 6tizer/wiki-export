@@ -1,7 +1,10 @@
 ---
 title: 摘要：A dream come true for every human anxious about their agents leaking secrets.
 type: summary
-tags: []
+tags:
+- Agent 安全
+- Harness 工程
+- 算力基础设施
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

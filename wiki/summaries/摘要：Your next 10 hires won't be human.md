@@ -1,7 +1,10 @@
 ---
 title: 摘要：Your next 10 hires won't be human.
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

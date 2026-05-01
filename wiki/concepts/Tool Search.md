@@ -1,7 +1,10 @@
 ---
 title: Tool Search
 type: concept
-tags: []
+tags:
+- RAG/检索
+- 上下文管理
+- MCP 协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

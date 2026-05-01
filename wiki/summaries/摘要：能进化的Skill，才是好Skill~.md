@@ -1,7 +1,10 @@
 ---
 title: 摘要：能进化的Skill，才是好Skill~
 type: summary
-tags: []
+tags:
+- OpenClaw
+- 提示工程
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

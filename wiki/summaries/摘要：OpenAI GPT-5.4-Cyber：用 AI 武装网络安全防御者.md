@@ -1,7 +1,10 @@
 ---
 title: 摘要：OpenAI GPT-5.4-Cyber：用 AI 武装网络安全防御者
 type: summary
-tags: []
+tags:
+- 身份准入
+- Agent 安全
+- AI 政策
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

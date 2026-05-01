@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行
 type: summary
-tags: []
+tags:
+- 上下文管理
+- 多Agent协作
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

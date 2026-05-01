@@ -1,7 +1,10 @@
 ---
 title: skills-manage
 type: entity
-tags: []
+tags:
+- 加密资产
+- IDE 集成
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

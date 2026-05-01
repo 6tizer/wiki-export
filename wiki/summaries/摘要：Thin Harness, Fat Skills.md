@@ -1,7 +1,10 @@
 ---
 title: 摘要：Thin Harness, Fat Skills
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 链上协议
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

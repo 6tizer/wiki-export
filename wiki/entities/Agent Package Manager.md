@@ -1,7 +1,10 @@
 ---
 title: Agent Package Manager
 type: entity
-tags: []
+tags:
+- CLI 工具
+- Harness 工程
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

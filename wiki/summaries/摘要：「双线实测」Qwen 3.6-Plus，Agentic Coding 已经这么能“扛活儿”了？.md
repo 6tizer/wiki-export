@@ -1,7 +1,10 @@
 ---
 title: 摘要：「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？
 type: summary
-tags: []
+tags:
+- 代码生成
+- 模型评测
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

@@ -1,7 +1,9 @@
 ---
 title: 摘要：Claude Opus 4.7发布！这是你在别的公众号看不到的五个发现
 type: summary
-tags: []
+tags:
+- 模型评测
+- AI 对齐
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

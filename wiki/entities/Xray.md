@@ -1,7 +1,9 @@
 ---
 title: Xray
 type: entity
-tags: []
+tags:
+- Agent 安全
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

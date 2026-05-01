@@ -1,7 +1,10 @@
 ---
 title: 摘要：obra/superpowers：让 AI 写代码真正靠谱的方法论
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 多Agent协作
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

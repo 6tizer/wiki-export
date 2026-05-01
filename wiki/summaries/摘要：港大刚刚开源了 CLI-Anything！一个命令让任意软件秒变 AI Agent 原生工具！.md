@@ -1,7 +1,10 @@
 ---
 title: 摘要：港大刚刚开源了 CLI-Anything！一个命令让任意软件秒变 AI Agent 原生工具！
 type: summary
-tags: []
+tags:
+- CLI 工具
+- Harness 工程
+- 浏览器自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：Codex macOS 插件：让 AI 真正理解 Mac 原生开发
 type: summary
-tags: []
+tags:
+- IDE 集成
+- Harness 工程
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

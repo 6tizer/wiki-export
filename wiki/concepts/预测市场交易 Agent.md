@@ -1,7 +1,10 @@
 ---
 title: 预测市场交易 Agent
 type: concept
-tags: []
+tags:
+- 加密资产
+- 多Agent协作
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

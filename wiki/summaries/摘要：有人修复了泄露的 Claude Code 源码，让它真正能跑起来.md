@@ -1,7 +1,10 @@
 ---
 title: 摘要：有人修复了泄露的 Claude Code 源码，让它真正能跑起来
 type: summary
-tags: []
+tags:
+- Harness 工程
+- Agent 安全
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

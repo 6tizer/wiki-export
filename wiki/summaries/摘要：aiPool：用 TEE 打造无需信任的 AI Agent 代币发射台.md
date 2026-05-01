@@ -1,7 +1,10 @@
 ---
 title: 摘要：aiPool：用 TEE 打造无需信任的 AI Agent 代币发射台
 type: summary
-tags: []
+tags:
+- 加密资产
+- Agent 安全
+- 算力基础设施
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'

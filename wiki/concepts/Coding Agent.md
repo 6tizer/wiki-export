@@ -1,7 +1,10 @@
 ---
 title: Coding Agent
 type: concept
-tags: []
+tags:
+- 代码生成
+- Harness 工程
+- 加密资产
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

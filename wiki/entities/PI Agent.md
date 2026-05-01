@@ -1,7 +1,10 @@
 ---
 title: PI Agent
 type: entity
-tags: []
+tags:
+- Harness 工程
+- 链上协议
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

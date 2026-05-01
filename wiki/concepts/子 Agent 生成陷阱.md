@@ -1,7 +1,9 @@
 ---
 title: 子 Agent 生成陷阱
 type: concept
-tags: []
+tags:
+- Agent 安全
+- 多Agent协作
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

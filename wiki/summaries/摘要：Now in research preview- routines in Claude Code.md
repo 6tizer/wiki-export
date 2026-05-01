@@ -1,7 +1,10 @@
 ---
 title: '摘要：Now in research preview: routines in Claude Code.'
 type: summary
-tags: []
+tags:
+- 内容自动化
+- Harness 工程
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

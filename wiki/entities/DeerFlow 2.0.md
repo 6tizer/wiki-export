@@ -1,7 +1,10 @@
 ---
 title: DeerFlow 2.0
 type: entity
-tags: []
+tags:
+- 内容自动化
+- Harness 工程
+- 多Agent协作
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'

@@ -1,7 +1,10 @@
 ---
 title: Deep Agents Deploy
 type: entity
-tags: []
+tags:
+- 模型部署
+- Harness 工程
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

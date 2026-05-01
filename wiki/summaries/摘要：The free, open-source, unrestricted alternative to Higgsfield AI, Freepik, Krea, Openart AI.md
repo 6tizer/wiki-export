@@ -2,7 +2,10 @@
 title: 摘要：The free, open-source, unrestricted alternative to Higgsfield AI, Freepik,
   Krea, Openart AI.
 type: summary
-tags: []
+tags:
+- AI 产品
+- 图像生成
+- 视频/3D
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

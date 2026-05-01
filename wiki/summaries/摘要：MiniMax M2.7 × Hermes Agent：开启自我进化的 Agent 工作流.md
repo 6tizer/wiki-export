@@ -1,7 +1,10 @@
 ---
 title: 摘要：MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流
 type: summary
-tags: []
+tags:
+- 多Agent协作
+- 长期记忆
+- Harness 工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-14'

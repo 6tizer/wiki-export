@@ -1,7 +1,10 @@
 ---
 title: 摘要：EverMind MSA：把「记忆」直接长进注意力机制，4B 小模型干翻 235B RAG
 type: summary
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
+- 推理优化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

@@ -1,7 +1,9 @@
 ---
 title: Brand Foundation
 type: concept
-tags: []
+tags:
+- 内容自动化
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

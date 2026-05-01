@@ -1,7 +1,10 @@
 ---
 title: 摘要：MemPalace 是个有趣的项目，它不一定是最好的记忆系统，但我认为它是第一个把问题定义正确的记忆系统。
 type: summary
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

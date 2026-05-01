@@ -1,7 +1,10 @@
 ---
 title: LLM 与 Agent 编排的交叉地带：从模型路由到群体智能的多模型协作范式演进
 type: synthesis
-tags: []
+tags:
+- 多Agent协作
+- 上下文管理
+- 推理优化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

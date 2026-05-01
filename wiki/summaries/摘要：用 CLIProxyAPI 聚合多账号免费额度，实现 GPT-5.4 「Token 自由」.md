@@ -1,7 +1,10 @@
 ---
 title: 摘要：用 CLIProxyAPI 聚合多账号免费额度，实现 GPT-5.4 「Token 自由」
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 浏览器自动化
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

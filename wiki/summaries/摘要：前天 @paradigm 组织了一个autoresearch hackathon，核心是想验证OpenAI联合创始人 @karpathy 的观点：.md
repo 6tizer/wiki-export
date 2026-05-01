@@ -1,7 +1,10 @@
 ---
 title: 摘要：前天 @paradigm 组织了一个autoresearch hackathon，核心是想验证OpenAI联合创始人 @karpathy 的观点：
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 模型评测
+- Harness 工程
 status: 已审核
 confidence: low
 last_compiled: '2026-04-27'

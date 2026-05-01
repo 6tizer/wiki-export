@@ -1,7 +1,10 @@
 ---
 title: 摘要：刚刚！Generic Agent 中文教程发布！比Hermes省10倍Token
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

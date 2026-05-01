@@ -1,7 +1,10 @@
 ---
 title: 摘要：PANews 推出官方 AI Skills 工具集：让 AI 直接读懂加密新闻
 type: summary
-tags: []
+tags:
+- 内容自动化
+- MCP 协议
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

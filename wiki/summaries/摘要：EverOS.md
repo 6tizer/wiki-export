@@ -1,7 +1,10 @@
 ---
 title: 摘要：EverOS
 type: summary
-tags: []
+tags:
+- OpenClaw
+- 模型评测
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

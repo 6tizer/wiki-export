@@ -1,7 +1,10 @@
 ---
 title: 摘要：Claude Code 全屏渲染来了：长对话不再闪烁，还能用鼠标！
 type: summary
-tags: []
+tags:
+- CLI 工具
+- IDE 集成
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

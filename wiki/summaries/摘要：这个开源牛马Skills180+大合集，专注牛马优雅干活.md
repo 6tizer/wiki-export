@@ -1,7 +1,10 @@
 ---
 title: 摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活
 type: summary
-tags: []
+tags:
+- 内容自动化
+- 提示工程
+- 知识管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-18'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：Grok CLI：用 Grok 驱动的开源终端编程 Agent，v1.1.4 全面升级
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 代码生成
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

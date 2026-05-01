@@ -1,7 +1,11 @@
 ---
 title: 摘要：腾讯云开源了 AI Agent 沙盒 Cube Sandbox，Rust 编写，Apache 2.0 协议。
 type: summary
-tags: []
+tags:
+- 算力基础设施
+- Agent 安全
+- Harness 工程
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

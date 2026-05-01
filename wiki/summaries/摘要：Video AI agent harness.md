@@ -1,7 +1,10 @@
 ---
 title: 摘要：Video AI agent harness
 type: summary
-tags: []
+tags:
+- 视频/3D
+- Harness 工程
+- 多Agent协作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'

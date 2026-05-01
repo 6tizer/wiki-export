@@ -1,7 +1,10 @@
 ---
 title: 摘要：Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器
 type: summary
-tags: []
+tags:
+- 浏览器自动化
+- 算力基础设施
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

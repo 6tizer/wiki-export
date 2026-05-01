@@ -1,7 +1,10 @@
 ---
 title: 摘要：兄弟们，昨天配了一个新的bot，在我的失误下，把两个机器人部署到同一个目录下面，成功把旧bot搞炸了
 type: summary
-tags: []
+tags:
+- Harness 工程
+- Agent 安全
+- 模型部署
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

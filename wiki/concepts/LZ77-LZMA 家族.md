@@ -1,7 +1,8 @@
 ---
 title: LZ77/LZMA 家族
 type: concept
-tags: []
+tags:
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

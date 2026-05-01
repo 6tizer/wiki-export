@@ -1,7 +1,10 @@
 ---
 title: 摘要：找到了一种Codex自由的方式，无限量
 type: summary
-tags: []
+tags:
+- 浏览器自动化
+- CLI 工具
+- Agent 安全
 status: 已审核
 confidence: low
 last_compiled: '2026-04-27'

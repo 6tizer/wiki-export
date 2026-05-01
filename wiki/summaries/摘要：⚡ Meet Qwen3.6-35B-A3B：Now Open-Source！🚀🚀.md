@@ -1,7 +1,10 @@
 ---
 title: 摘要：⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀
 type: summary
-tags: []
+tags:
+- 推理优化
+- 多模态
+- 模型部署
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

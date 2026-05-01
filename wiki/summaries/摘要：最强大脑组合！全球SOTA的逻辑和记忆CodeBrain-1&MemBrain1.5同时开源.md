@@ -1,7 +1,10 @@
 ---
 title: 摘要：最强大脑组合！全球SOTA的逻辑和记忆CodeBrain-1&MemBrain1.5同时开源
 type: summary
-tags: []
+tags:
+- 长期记忆
+- MCP 协议
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'

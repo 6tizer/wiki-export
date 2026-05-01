@@ -1,7 +1,10 @@
 ---
 title: 摘要：前端 Gemini、后端 Codex：用 Claude Code 调度多 Agent 的分工哲学
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- IDE 集成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

@@ -1,7 +1,10 @@
 ---
 title: Architecture Diagram Generator
 type: entity
-tags: []
+tags:
+- 链上协议
+- 代码生成
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

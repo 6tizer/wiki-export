@@ -1,7 +1,10 @@
 ---
 title: 摘要：Skill 的机会不在单点，在编排：一种你可能还没想过的架构能力
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 链上协议
+- 身份准入
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

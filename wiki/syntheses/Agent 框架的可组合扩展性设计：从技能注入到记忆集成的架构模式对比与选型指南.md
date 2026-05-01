@@ -1,7 +1,10 @@
 ---
 title: Agent 框架的可组合扩展性设计：从技能注入到记忆集成的架构模式对比与选型指南
 type: synthesis
-tags: []
+tags:
+- Harness 工程
+- 长期记忆
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

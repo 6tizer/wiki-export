@@ -1,7 +1,10 @@
 ---
 title: feature-dev
 type: entity
-tags: []
+tags:
+- IDE 集成
+- Harness 工程
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

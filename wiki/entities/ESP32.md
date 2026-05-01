@@ -1,7 +1,8 @@
 ---
 title: ESP32
 type: entity
-tags: []
+tags:
+- 嵌入式硬件
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

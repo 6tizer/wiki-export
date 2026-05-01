@@ -1,7 +1,10 @@
 ---
 title: 摘要：The Definitive Guide to Harness Engineering
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

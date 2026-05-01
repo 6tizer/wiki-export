@@ -1,7 +1,10 @@
 ---
 title: 摘要：OpenHarness：港大开源的 Claude Code 轻量平替，44 倍瘦身只保留 98% 核心功力
 type: summary
-tags: []
+tags:
+- Harness 工程
+- OpenClaw
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

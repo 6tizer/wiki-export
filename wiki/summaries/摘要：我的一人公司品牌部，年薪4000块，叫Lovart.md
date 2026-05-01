@@ -1,7 +1,10 @@
 ---
 title: 摘要：我的一人公司品牌部，年薪4000块，叫Lovart
 type: summary
-tags: []
+tags:
+- AI 设计
+- 内容自动化
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'

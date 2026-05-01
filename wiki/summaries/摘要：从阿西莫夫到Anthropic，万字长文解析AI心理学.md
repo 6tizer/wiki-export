@@ -1,7 +1,9 @@
 ---
 title: 摘要：从阿西莫夫到Anthropic，万字长文解析AI心理学
 type: summary
-tags: []
+tags:
+- AI 对齐
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

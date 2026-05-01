@@ -1,7 +1,10 @@
 ---
 title: Dokobot
 type: entity
-tags: []
+tags:
+- 浏览器自动化
+- MCP 协议
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'

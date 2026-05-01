@@ -1,7 +1,10 @@
 ---
 title: 个人 Agent
 type: concept
-tags: []
+tags:
+- Agent 协作模式
+- 长期记忆
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'

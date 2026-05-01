@@ -1,7 +1,10 @@
 ---
 title: OpenASE
 type: entity
-tags: []
+tags:
+- Harness 工程
+- CLI 工具
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

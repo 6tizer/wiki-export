@@ -1,7 +1,10 @@
 ---
 title: 摘要：GPT-Image-2 爆款案例 + 完整提示词（X 高赞合集 · 可复制）
 type: summary
-tags: []
+tags:
+- 社交媒体
+- 图像生成
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

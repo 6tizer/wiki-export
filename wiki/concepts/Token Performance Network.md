@@ -1,7 +1,10 @@
 ---
 title: Token Performance Network
 type: concept
-tags: []
+tags:
+- 算力基础设施
+- 推理优化
+- AI 设计
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

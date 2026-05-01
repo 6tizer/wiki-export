@@ -1,7 +1,9 @@
 ---
 title: Buddy 系统
 type: concept
-tags: []
+tags:
+- AI 产品
+- 身份准入
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：Three.js
 type: summary
-tags: []
+tags:
+- 前端开发
+- 视频/3D
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

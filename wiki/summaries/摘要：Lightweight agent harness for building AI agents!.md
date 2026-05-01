@@ -1,7 +1,10 @@
 ---
 title: 摘要：Lightweight agent harness for building AI agents!
 type: summary
-tags: []
+tags:
+- 内容自动化
+- Harness 工程
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：How to Connect Claude to TradingView (FULL GUIDE)
 type: summary
-tags: []
+tags:
+- 量化交易
+- MCP 协议
+- 浏览器自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'

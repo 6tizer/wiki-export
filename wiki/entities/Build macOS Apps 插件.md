@@ -1,7 +1,9 @@
 ---
 title: Build macOS Apps 插件
 type: entity
-tags: []
+tags:
+- 代码生成
+- IDE 集成
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：DESIGN.md 正式发布为开放标准！期待 Codex、Claude Code、Cursor 跟进支持
 type: summary
-tags: []
+tags:
+- AI 设计
+- 上下文管理
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

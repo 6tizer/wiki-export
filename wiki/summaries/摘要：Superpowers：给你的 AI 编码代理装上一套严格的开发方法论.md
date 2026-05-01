@@ -1,7 +1,10 @@
 ---
 title: 摘要：Superpowers：给你的 AI 编码代理装上一套严格的开发方法论
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 多Agent协作
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

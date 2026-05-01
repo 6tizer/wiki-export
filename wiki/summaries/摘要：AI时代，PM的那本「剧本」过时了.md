@@ -1,7 +1,9 @@
 ---
 title: 摘要：AI时代，PM的那本「剧本」过时了
 type: summary
-tags: []
+tags:
+- AI 产品
+- 身份准入
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

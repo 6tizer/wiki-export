@@ -1,7 +1,10 @@
 ---
 title: Seeded Fallback 机制
 type: concept
-tags: []
+tags:
+- Harness 工程
+- 链上协议
+- Agent 安全
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-14'

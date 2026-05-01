@@ -1,7 +1,10 @@
 ---
 title: 摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

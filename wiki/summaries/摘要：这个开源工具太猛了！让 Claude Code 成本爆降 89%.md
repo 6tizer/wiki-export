@@ -1,7 +1,10 @@
 ---
 title: 摘要：这个开源工具太猛了！让 Claude Code 成本爆降 89%
 type: summary
-tags: []
+tags:
+- 上下文管理
+- CLI 工具
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'

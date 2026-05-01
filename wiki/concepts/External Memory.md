@@ -1,7 +1,10 @@
 ---
 title: External Memory
 type: concept
-tags: []
+tags:
+- 长期记忆
+- RAG/检索
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

@@ -1,7 +1,9 @@
 ---
 title: AI Post Verification
 type: concept
-tags: []
+tags:
+- 内容自动化
+- 社交媒体
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

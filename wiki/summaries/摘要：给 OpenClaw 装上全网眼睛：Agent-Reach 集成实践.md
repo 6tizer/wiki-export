@@ -1,7 +1,10 @@
 ---
 title: 摘要：给 OpenClaw 装上"全网眼睛"：Agent-Reach 集成实践
 type: summary
-tags: []
+tags:
+- OpenClaw
+- 浏览器自动化
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'

@@ -1,7 +1,9 @@
 ---
 title: Architect-Operator
 type: concept
-tags: []
+tags:
+- Agent 协作模式
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

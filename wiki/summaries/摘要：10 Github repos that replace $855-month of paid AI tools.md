@@ -1,7 +1,10 @@
 ---
 title: 摘要：10 Github repos that replace $855/month of paid AI tools
 type: summary
-tags: []
+tags:
+- 模型部署
+- RAG/检索
+- 多Agent协作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

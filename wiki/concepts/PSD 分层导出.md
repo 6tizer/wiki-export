@@ -1,7 +1,9 @@
 ---
 title: PSD 分层导出
 type: concept
-tags: []
+tags:
+- AI 设计
+- 图像生成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

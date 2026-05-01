@@ -1,7 +1,10 @@
 ---
 title: xianyu-auto-reply
 type: entity
-tags: []
+tags:
+- 内容自动化
+- 链上协议
+- Agent 安全
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

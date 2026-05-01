@@ -1,7 +1,9 @@
 ---
 title: MotuBrain
 type: entity
-tags: []
+tags:
+- 模型评测
+- 多模态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

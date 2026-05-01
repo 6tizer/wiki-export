@@ -1,7 +1,10 @@
 ---
 title: Architecture Decision Records
 type: concept
-tags: []
+tags:
+- 链上协议
+- 上下文管理
+- 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

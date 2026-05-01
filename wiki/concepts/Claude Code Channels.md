@@ -1,7 +1,10 @@
 ---
 title: Claude Code Channels
 type: concept
-tags: []
+tags:
+- 社交媒体
+- MCP 协议
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'

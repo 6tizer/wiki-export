@@ -1,7 +1,10 @@
 ---
 title: transcript 模式
 type: concept
-tags: []
+tags:
+- 上下文管理
+- CLI 工具
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

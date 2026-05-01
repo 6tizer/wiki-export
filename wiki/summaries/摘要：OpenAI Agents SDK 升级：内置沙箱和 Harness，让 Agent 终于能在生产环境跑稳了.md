@@ -1,7 +1,10 @@
 ---
 title: 摘要：OpenAI Agents SDK 升级：内置沙箱和 Harness，让 Agent 终于能在生产环境跑稳了
 type: summary
-tags: []
+tags:
+- Harness 工程
+- Agent 安全
+- 链上协议
 status: 已审核
 confidence: low
 last_compiled: '2026-04-16'

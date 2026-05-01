@@ -1,7 +1,10 @@
 ---
 title: AutoAgent
 type: entity
-tags: []
+tags:
+- Harness 工程
+- 多Agent协作
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'

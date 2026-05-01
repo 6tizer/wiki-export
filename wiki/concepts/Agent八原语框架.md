@@ -1,7 +1,10 @@
 ---
 title: Agent八原语框架
 type: concept
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- Harness 工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

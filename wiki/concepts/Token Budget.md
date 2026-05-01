@@ -1,7 +1,10 @@
 ---
 title: Token Budget
 type: concept
-tags: []
+tags:
+- 上下文管理
+- 推理优化
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-28'

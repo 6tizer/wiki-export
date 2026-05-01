@@ -1,7 +1,10 @@
 ---
 title: 摘要：Python重构版 Claude Code 来了！
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 代码生成
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

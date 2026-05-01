@@ -1,7 +1,10 @@
 ---
 title: Context Bloat
 type: concept
-tags: []
+tags:
+- 上下文管理
+- Harness 工程
+- 提示工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'

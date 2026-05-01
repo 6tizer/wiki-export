@@ -1,7 +1,9 @@
 ---
 title: TinyFish CLI + Skills
 type: entity
-tags: []
+tags:
+- CLI 工具
+- 浏览器自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

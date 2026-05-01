@@ -1,7 +1,8 @@
 ---
 title: planktonXD
 type: entity
-tags: []
+tags:
+- 量化交易
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-30'

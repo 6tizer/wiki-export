@@ -1,7 +1,10 @@
 ---
 title: Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式
 type: synthesis
-tags: []
+tags:
+- Harness 工程
+- CLI 工具
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

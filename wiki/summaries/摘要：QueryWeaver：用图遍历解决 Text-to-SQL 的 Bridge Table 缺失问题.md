@@ -1,7 +1,9 @@
 ---
 title: 摘要：QueryWeaver：用图遍历解决 Text-to-SQL 的 Bridge Table 缺失问题
 type: summary
-tags: []
+tags:
+- RAG/检索
+- 链上协议
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'

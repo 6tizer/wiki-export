@@ -1,7 +1,10 @@
 ---
 title: 摘要：OmniCoder-9B：把顶级 AI 的编程思路蒸馏进一张消费级显卡
 type: summary
-tags: []
+tags:
+- 代码生成
+- 训练/微调
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

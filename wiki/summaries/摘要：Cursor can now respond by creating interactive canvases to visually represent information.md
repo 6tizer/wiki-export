@@ -2,7 +2,10 @@
 title: 摘要：Cursor can now respond by creating interactive canvases to visually represent
   information.
 type: summary
-tags: []
+tags:
+- IDE 集成
+- AI 产品
+- 前端开发
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

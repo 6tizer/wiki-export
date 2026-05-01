@@ -1,7 +1,10 @@
 ---
 title: 摘要：打造可靠的 AI 编程环境：Claude Code Hooks 完整开发者指南
 type: summary
-tags: []
+tags:
+- Harness 工程
+- Agent 安全
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'

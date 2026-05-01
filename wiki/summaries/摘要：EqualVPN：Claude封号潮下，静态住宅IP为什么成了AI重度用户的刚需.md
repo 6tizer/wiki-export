@@ -1,7 +1,10 @@
 ---
 title: 摘要：EqualVPN：Claude封号潮下，静态住宅IP为什么成了AI重度用户的刚需
 type: summary
-tags: []
+tags:
+- 身份准入
+- Agent 安全
+- 浏览器自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'

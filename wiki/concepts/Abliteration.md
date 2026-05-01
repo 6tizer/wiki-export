@@ -1,7 +1,9 @@
 ---
 title: Abliteration
 type: concept
-tags: []
+tags:
+- AI 对齐
+- Agent 安全
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'

@@ -1,7 +1,9 @@
 ---
 title: 摘要：Hysteria 2：用 UDP 黑科技把 VPS 带宽榨干到极限
 type: summary
-tags: []
+tags:
+- Agent 安全
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'

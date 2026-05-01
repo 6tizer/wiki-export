@@ -1,7 +1,10 @@
 ---
 title: 摘要：Velocity Card
 type: summary
-tags: []
+tags:
+- IDE 集成
+- 多Agent协作
+- Harness 工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'

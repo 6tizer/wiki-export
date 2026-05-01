@@ -1,7 +1,8 @@
 ---
 title: 摘要：We found 21 money-printers after backtesting 236 TradingView strategies
 type: summary
-tags: []
+tags:
+- 量化交易
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：⚠️ Pre-beta — GUI not yet wired to core functions.
 type: summary
-tags: []
+tags:
+- 浏览器自动化
+- 长期记忆
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

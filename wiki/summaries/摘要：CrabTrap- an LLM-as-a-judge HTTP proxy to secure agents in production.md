@@ -1,7 +1,10 @@
 ---
 title: '摘要：CrabTrap: an LLM-as-a-judge HTTP proxy to secure agents in production'
 type: summary
-tags: []
+tags:
+- Agent 安全
+- Harness 工程
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

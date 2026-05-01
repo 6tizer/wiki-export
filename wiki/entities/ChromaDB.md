@@ -1,7 +1,9 @@
 ---
 title: ChromaDB
 type: entity
-tags: []
+tags:
+- RAG/检索
+- 长期记忆
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

@@ -1,7 +1,10 @@
 ---
 title: Polymarket
 type: entity
-tags: []
+tags:
+- 量化交易
+- 链上协议
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
@@ -77,7 +80,7 @@ OpenClaw 等 AI Agent 框架已被社区用于 Polymarket 套利交易：
 
 - [摘要：炸裂现实！中国学生一单封神，2000美元干到16.6万！真相：AI已经能预判未来](summaries/摘要：炸裂现实！中国学生一单封神，2000美元干到16.6万！真相：AI已经能预判未来.md)（[原文](https://x.com/sol_jingou/status/2049484628445319516)）
 
-- 摘要：Chinese quant built a perfect BTC price simulation engine with MiroFish（[原文](https://x.com/antpalkin/status/2049916341839352135)）
+- [摘要：Chinese quant built a perfect BTC price simulation engine with MiroFish](summaries/摘要：Chinese quant built a perfect BTC price simulation engine with MiroFish.md)（[原文](https://x.com/antpalkin/status/2049916341839352135)）
 
 ## 关联概念
 

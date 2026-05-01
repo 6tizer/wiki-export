@@ -1,7 +1,10 @@
 ---
 title: 摘要：Holo3：用十分之一的成本，打败 GPT-5.4 的 Computer Use 模型
 type: summary
-tags: []
+tags:
+- 浏览器自动化
+- 模型评测
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

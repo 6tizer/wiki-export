@@ -1,7 +1,10 @@
 ---
 title: Video Use
 type: entity
-tags: []
+tags:
+- 内容自动化
+- 视频/3D
+- CLI 工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

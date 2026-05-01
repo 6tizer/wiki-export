@@ -1,7 +1,10 @@
 ---
 title: 摘要：Why long-term memory for LLMs remains unsolved
 type: summary
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'

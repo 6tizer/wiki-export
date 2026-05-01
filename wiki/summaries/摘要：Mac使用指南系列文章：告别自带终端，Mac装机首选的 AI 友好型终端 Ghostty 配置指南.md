@@ -1,7 +1,9 @@
 ---
 title: 摘要：Mac使用指南系列文章：告别自带终端，Mac装机首选的 AI 友好型终端 Ghostty 配置指南
 type: summary
-tags: []
+tags:
+- 加密资产
+- CLI 工具
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'

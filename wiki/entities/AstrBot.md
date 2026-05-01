@@ -1,7 +1,10 @@
 ---
 title: AstrBot
 type: entity
-tags: []
+tags:
+- 社交媒体
+- RAG/检索
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

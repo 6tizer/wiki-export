@@ -1,7 +1,10 @@
 ---
 title: 摘要：龙虾养成日记PPT看不过瘾？内部版逐字稿来了
 type: summary
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'

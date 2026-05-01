@@ -1,7 +1,10 @@
 ---
 title: Hook Factory
 type: concept
-tags: []
+tags:
+- 社交媒体
+- 内容自动化
+- 提示工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'

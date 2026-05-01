@@ -1,7 +1,10 @@
 ---
 title: 摘要：opencli-rs：用 Rust 重写的网站抓取神器，AI Agent 时代的万能信息接口
 type: summary
-tags: []
+tags:
+- CLI 工具
+- 浏览器自动化
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'

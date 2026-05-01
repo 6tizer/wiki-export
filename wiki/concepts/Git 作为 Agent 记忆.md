@@ -1,7 +1,9 @@
 ---
 title: Git 作为 Agent 记忆
 type: concept
-tags: []
+tags:
+- 长期记忆
+- Harness 工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-14'

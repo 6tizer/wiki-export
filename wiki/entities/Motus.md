@@ -1,7 +1,9 @@
 ---
 title: Motus
 type: entity
-tags: []
+tags:
+- 多模态
+- 视频/3D
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

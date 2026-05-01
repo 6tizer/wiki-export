@@ -1,7 +1,10 @@
 ---
 title: Fullscreen rendering
 type: concept
-tags: []
+tags:
+- IDE 集成
+- 加密资产
+- AI 设计
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

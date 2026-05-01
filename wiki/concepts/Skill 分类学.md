@@ -1,7 +1,9 @@
 ---
 title: Skill 分类学
 type: concept
-tags: []
+tags:
+- 链上协议
+- Harness 工程
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'

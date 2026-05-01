@@ -1,7 +1,9 @@
 ---
 title: Catch-All 邮件路由
 type: concept
-tags: []
+tags:
+- 身份准入
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

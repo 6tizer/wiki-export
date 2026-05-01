@@ -1,7 +1,10 @@
 ---
 title: Claude Code 最佳配置实践：从四层架构到成本治理的工程化调优全景
 type: synthesis
-tags: []
+tags:
+- Harness 工程
+- 上下文管理
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'

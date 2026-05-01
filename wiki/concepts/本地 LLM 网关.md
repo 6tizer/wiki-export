@@ -1,7 +1,10 @@
 ---
 title: 本地 LLM 网关
 type: concept
-tags: []
+tags:
+- 模型部署
+- 链上协议
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-30'

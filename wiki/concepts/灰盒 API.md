@@ -1,7 +1,10 @@
 ---
 title: 灰盒 API
 type: concept
-tags: []
+tags:
+- Agent 安全
+- 模型评测
+- 推理优化
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-27'

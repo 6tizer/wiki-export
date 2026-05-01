@@ -1,7 +1,9 @@
 ---
 title: 摘要：用AI蒸馏了一下我做的很准的比特币交易策略给大家
 type: summary
-tags: []
+tags:
+- 量化交易
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

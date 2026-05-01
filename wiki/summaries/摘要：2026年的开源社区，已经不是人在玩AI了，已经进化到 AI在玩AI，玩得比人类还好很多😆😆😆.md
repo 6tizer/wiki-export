@@ -1,7 +1,10 @@
 ---
 title: 摘要：2026年的开源社区，已经不是人在玩AI了，已经进化到 AI在玩AI，玩得比人类还好很多😆😆😆
 type: summary
-tags: []
+tags:
+- AI 对齐
+- Agent 安全
+- 模型评测
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-17'

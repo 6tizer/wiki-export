@@ -1,7 +1,10 @@
 ---
 title: AI Native 组织
 type: concept
-tags: []
+tags:
+- Agent 协作模式
+- 多Agent协作
+- 长期记忆
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'

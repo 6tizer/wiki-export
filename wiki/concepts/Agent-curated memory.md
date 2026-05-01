@@ -1,7 +1,9 @@
 ---
 title: Agent-curated memory
 type: concept
-tags: []
+tags:
+- 长期记忆
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'

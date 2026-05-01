@@ -1,7 +1,10 @@
 ---
 title: ultrathink
 type: concept
-tags: []
+tags:
+- 提示工程
+- 推理优化
+- IDE 集成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'

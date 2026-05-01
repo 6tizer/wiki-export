@@ -1,7 +1,10 @@
 ---
 title: 摘要：一文带你看懂，火爆全网的Harness Engineering到底是个啥。
 type: summary
-tags: []
+tags:
+- Harness 工程
+- 提示工程
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'

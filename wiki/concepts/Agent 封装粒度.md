@@ -1,7 +1,10 @@
 ---
 title: Agent 封装粒度
 type: concept
-tags: []
+tags:
+- Harness 工程
+- 链上协议
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

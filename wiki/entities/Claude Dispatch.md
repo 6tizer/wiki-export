@@ -5,7 +5,7 @@ tags:
 - Agent 协作模式
 - 上下文管理
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'
 source_tags: ''

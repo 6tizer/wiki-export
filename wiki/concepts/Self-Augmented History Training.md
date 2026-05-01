@@ -1,7 +1,10 @@
 ---
 title: Self-Augmented History Training
 type: concept
-tags: []
+tags:
+- 训练/微调
+- 多模态
+- 视频/3D
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

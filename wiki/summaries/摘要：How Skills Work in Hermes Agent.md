@@ -1,7 +1,10 @@
 ---
 title: 摘要：How Skills Work in Hermes Agent
 type: summary
-tags: []
+tags:
+- 上下文管理
+- 长期记忆
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'

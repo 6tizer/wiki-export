@@ -1,10 +1,13 @@
 ---
 title: Nanobot
 type: entity
-tags: []
+tags:
+- Harness 工程
+- 模型部署
+- OpenClaw
 status: 审核中
 confidence: high
-last_compiled: '2026-05-01'
+last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/83231adbe69f4e6fb3dc222c6d2ee9cb

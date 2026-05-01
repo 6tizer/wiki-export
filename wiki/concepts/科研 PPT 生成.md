@@ -1,7 +1,10 @@
 ---
 title: 科研 PPT 生成
 type: concept
-tags: []
+tags:
+- 内容自动化
+- RAG/检索
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

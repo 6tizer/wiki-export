@@ -1,7 +1,10 @@
 ---
 title: Claude Context
 type: entity
-tags: []
+tags:
+- MCP 协议
+- RAG/检索
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

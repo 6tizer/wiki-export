@@ -1,7 +1,9 @@
 ---
 title: 摘要：用 Cloudflare 域名邮箱批量注册 Claude 账号：原理、步骤与风险全解
 type: summary
-tags: []
+tags:
+- 身份准入
+- Agent 安全
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

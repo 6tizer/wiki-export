@@ -1,7 +1,10 @@
 ---
 title: Agent 审计与回滚机制
 type: concept
-tags: []
+tags:
+- Agent 安全
+- Harness 工程
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

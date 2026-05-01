@@ -1,7 +1,9 @@
 ---
 title: Skill 数字签名
 type: concept
-tags: []
+tags:
+- 身份准入
+- Agent 安全
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

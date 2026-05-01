@@ -1,7 +1,10 @@
 ---
 title: Canon 编排器
 type: entity
-tags: []
+tags:
+- RAG/检索
+- 链上协议
+- 加密资产
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

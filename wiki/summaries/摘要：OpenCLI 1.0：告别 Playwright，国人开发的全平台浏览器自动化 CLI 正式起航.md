@@ -1,7 +1,10 @@
 ---
 title: 摘要：OpenCLI 1.0：告别 Playwright，国人开发的全平台浏览器自动化 CLI 正式起航
 type: summary
-tags: []
+tags:
+- 浏览器自动化
+- CLI 工具
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'

@@ -1,7 +1,10 @@
 ---
 title: 摘要：后续来了兄弟们，卧槽真的太炸了，同样的任务，同样的配置，速度比Claude Sonnet 4.6还快 6 倍，成本低约 50 倍，
 type: summary
-tags: []
+tags:
+- 推理优化
+- 模型评测
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-24'
