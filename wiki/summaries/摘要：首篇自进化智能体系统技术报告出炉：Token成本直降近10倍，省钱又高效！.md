@@ -1,15 +1,13 @@
 ---
 title: 摘要：首篇自进化智能体系统技术报告出炉：Token成本直降近10倍，省钱又高效！
 type: summary
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68818aba79c59ce077069b
-notion_url: https://www.notion.so/829707e1df2c4e9a905c77f9d4c1dfb7
+notion_url: https://www.notion.so/Tizer/829707e1df2c4e9a905c77f9d4c1dfb7
 notion_id: 829707e1-df2c-4e9a-905c-77f9d4c1dfb7
 ---
 

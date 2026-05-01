@@ -1,16 +1,13 @@
 ---
 title: Slash 命令工作流
 type: concept
-tags:
-- Agent 编排
-- 工作流
-- Agent 技能
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/a1efeafe848b44f986678110e43a5807
+notion_url: https://www.notion.so/Tizer/a1efeafe848b44f986678110e43a5807
 notion_id: a1efeafe-848b-44f9-8667-8110e43a5807
 ---
 

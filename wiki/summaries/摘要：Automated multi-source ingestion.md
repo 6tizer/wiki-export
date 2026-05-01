@@ -3,13 +3,12 @@ title: 摘要：Automated multi-source ingestion
 type: summary
 tags:
 - 知识管理
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b68812480dee10da517fb57
-notion_url: https://www.notion.so/551ba1ebaf424332a489a68fca257e6e
+notion_url: https://www.notion.so/Tizer/551ba1ebaf424332a489a68fca257e6e
 notion_id: 551ba1eb-af42-4332-a489-a68fca257e6e
 ---
 

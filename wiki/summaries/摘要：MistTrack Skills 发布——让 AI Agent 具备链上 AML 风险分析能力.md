@@ -2,13 +2,15 @@
 title: 摘要：MistTrack Skills 发布——让 AI Agent 具备链上 AML 风险分析能力
 type: summary
 tags:
-- Crypto/DeFi
+- 链上协议
+- Agent 安全
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/70e5452b9b2d41d29ea104954f587163
+notion_url: https://www.notion.so/Tizer/70e5452b9b2d41d29ea104954f587163
 notion_id: 70e5452b-9b2d-41d2-9ea1-04954f587163
 ---
 

@@ -3,13 +3,12 @@ title: 摘要：Download Web Clipper
 type: summary
 tags:
 - 知识管理
-- 开发工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b688117ab53d6c6feff9c1b
-notion_url: https://www.notion.so/b8acfe1dd43b4bfebacc045b49ac0a8c
+notion_url: https://www.notion.so/Tizer/b8acfe1dd43b4bfebacc045b49ac0a8c
 notion_id: b8acfe1d-d43b-4bfe-bacc-045b49ac0a8c
 ---
 

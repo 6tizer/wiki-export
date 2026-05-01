@@ -2,14 +2,14 @@
 title: Metric Library
 type: concept
 tags:
-- LLM
-- 开发工具
+- 模型评测
+- 知识管理
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/dbb6994d0fce42b3b980a3a931a9ccce
+notion_url: https://www.notion.so/Tizer/dbb6994d0fce42b3b980a3a931a9ccce
 notion_id: dbb6994d-0fce-42b3-b980-a3a931a9ccce
 ---
 

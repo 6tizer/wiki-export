@@ -2,13 +2,16 @@
 title: 摘要：Claude Code悄悄学会了做梦。
 type: summary
 tags:
-- 记忆系统
+- 长期记忆
+- 知识管理
+- OpenClaw
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/d347b75797e74d2f9df6a4a5fa1c6efe
+notion_url: https://www.notion.so/Tizer/d347b75797e74d2f9df6a4a5fa1c6efe
 notion_id: d347b757-97e7-4d2f-9df6-a4a5fa1c6efe
 ---
 

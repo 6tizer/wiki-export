@@ -2,13 +2,16 @@
 title: 摘要：Anthropic 破防，DataClaw 开源！
 type: summary
 tags:
-- 开发工具
+- 商业/生态
+- OpenClaw
+- CLI 工具
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/d36585d3e9e4439787a52e386acea287
+notion_url: https://www.notion.so/Tizer/d36585d3e9e4439787a52e386acea287
 notion_id: d36585d3-e9e4-4397-87a5-2e386acea287
 ---
 

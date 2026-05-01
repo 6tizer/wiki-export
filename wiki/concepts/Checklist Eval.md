@@ -2,14 +2,14 @@
 title: Checklist Eval
 type: concept
 tags:
-- 工作流
-- Coding Agent
+- 模型评测
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1581cd448a904cd18a19bc55adcdd575
+notion_url: https://www.notion.so/Tizer/1581cd448a904cd18a19bc55adcdd575
 notion_id: 1581cd44-8a90-4cd1-8a19-bc55adcdd575
 ---
 

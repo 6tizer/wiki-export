@@ -1,14 +1,13 @@
 ---
 title: 摘要：在 Mac 上卸载应用，直接拖进废纸篓看似干净了，实际上缓存、配置文件、日志散落在系统各个角落，时间一长占用空间越来越多。
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68818ba998c7f3806cb538
-notion_url: https://www.notion.so/41b8ae3059444d4c9ce1510f40a7c37e
+notion_url: https://www.notion.so/Tizer/41b8ae3059444d4c9ce1510f40a7c37e
 notion_id: 41b8ae30-5944-4d4c-9ce1-510f40a7c37e
 ---
 

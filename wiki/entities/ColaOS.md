@@ -2,13 +2,15 @@
 title: ColaOS
 type: entity
 tags:
-- Agent 框架
+- AI 产品
+- Agent 协作模式
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/aab47516a6f94ef383066f6ec00ab0ff
+notion_url: https://www.notion.so/Tizer/aab47516a6f94ef383066f6ec00ab0ff
 notion_id: aab47516-a6f9-4ef3-8306-6f6ec00ab0ff
 ---
 

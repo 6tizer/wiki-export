@@ -1,15 +1,13 @@
 ---
 title: khazix-writer
 type: concept
-tags:
-- Agent 技能
-- 内容创作
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/93898e9ff0b246908ff79dba603a34fb
+notion_url: https://www.notion.so/Tizer/93898e9ff0b246908ff79dba603a34fb
 notion_id: 93898e9f-f0b2-4690-8ff7-9dba603a34fb
 ---
 

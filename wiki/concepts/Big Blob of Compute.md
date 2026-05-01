@@ -1,14 +1,13 @@
 ---
 title: Big Blob of Compute
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0bc1747365134d61af59aeb50818343b
+notion_url: https://www.notion.so/Tizer/0bc1747365134d61af59aeb50818343b
 notion_id: 0bc17473-6513-4d61-af59-aeb50818343b
 ---
 

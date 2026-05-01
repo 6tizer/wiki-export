@@ -2,14 +2,13 @@
 title: Nous Research
 type: entity
 tags:
-- LLM
 - 商业/生态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ce51ec2e77b844faa54185df559665ac
+notion_url: https://www.notion.so/Tizer/ce51ec2e77b844faa54185df559665ac
 notion_id: ce51ec2e-77b8-44fa-a541-85df559665ac
 ---
 

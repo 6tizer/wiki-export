@@ -2,13 +2,18 @@
 title: 摘要：ZAILGO：用密码学叙事打造的 Solana 链上 AI 概念实验
 type: summary
 tags:
-- Crypto/DeFi
+- 加密资产
+- 链上协议
+- 商业/生态
+- AI 产品
+- OpenClaw
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Crypto, 密码学/ZK, 区块链
 source_article_url: ''
-notion_url: https://www.notion.so/cf5f9362fcd14dc7a3e888c677318b93
+notion_url: https://www.notion.so/Tizer/cf5f9362fcd14dc7a3e888c677318b93
 notion_id: cf5f9362-fcd1-4dc7-a3e8-88c677318b93
 ---
 

@@ -3,13 +3,12 @@ title: llm-wikid
 type: entity
 tags:
 - 知识管理
-- Coding Agent
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ffc46f07b27541cea0583ae70997692f
+notion_url: https://www.notion.so/Tizer/ffc46f07b27541cea0583ae70997692f
 notion_id: ffc46f07-b275-41ce-a058-3ae70997692f
 ---
 

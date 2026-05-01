@@ -3,13 +3,12 @@ title: 关于 Gap Agent
 type: concept
 tags:
 - 知识管理
-- Agent 技能
 status: 需更新
 confidence: medium
 last_compiled: ''
 source_tags: ''
 source_article_url: https://www.notion.so/1249bdf6ad334e11ad3d44fde9cb241f
-notion_url: https://www.notion.so/71f059d5e85c4426bdaeee1517c8c849
+notion_url: https://www.notion.so/Tizer/71f059d5e85c4426bdaeee1517c8c849
 notion_id: 71f059d5-e85c-4426-bdae-ee1517c8c849
 ---
 

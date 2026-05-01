@@ -3,13 +3,12 @@ title: clawchief
 type: entity
 tags:
 - OpenClaw
-- 工作流
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/80900cfc503d4e1e884ef731800a4be8
+notion_url: https://www.notion.so/Tizer/80900cfc503d4e1e884ef731800a4be8
 notion_id: 80900cfc-503d-4e1e-884e-f731800a4be8
 ---
 

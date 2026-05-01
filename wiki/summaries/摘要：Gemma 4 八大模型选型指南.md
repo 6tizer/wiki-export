@@ -1,15 +1,13 @@
 ---
 title: 摘要：Gemma 4 八大模型选型指南
 type: summary
-tags:
-- LLM
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/341c72f459ef450e9c4d314920a67212
+notion_url: https://www.notion.so/Tizer/341c72f459ef450e9c4d314920a67212
 notion_id: 341c72f4-59ef-450e-9c4d-314920a67212
 ---
 

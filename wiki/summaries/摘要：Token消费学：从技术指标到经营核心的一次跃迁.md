@@ -2,14 +2,13 @@
 title: 摘要：Token消费学：从技术指标到经营核心的一次跃迁
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688164af38ef3937651f4b
-notion_url: https://www.notion.so/551ef452811b44ee92fe5fde3210d33c
+notion_url: https://www.notion.so/Tizer/551ef452811b44ee92fe5fde3210d33c
 notion_id: 551ef452-811b-44ee-92fe-5fde3210d33c
 ---
 

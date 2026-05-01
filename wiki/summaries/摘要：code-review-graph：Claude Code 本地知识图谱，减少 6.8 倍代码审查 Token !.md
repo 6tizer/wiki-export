@@ -1,15 +1,13 @@
 ---
 title: 摘要：code-review-graph：Claude Code 本地知识图谱，减少 6.8 倍代码审查 Token !
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b68812f9ae9ecba44d080de
-notion_url: https://www.notion.so/7a124525606f4d7d810f4a68c7eef583
+notion_url: https://www.notion.so/Tizer/7a124525606f4d7d810f4a68c7eef583
 notion_id: 7a124525-606f-4d7d-810f-4a68c7eef583
 ---
 

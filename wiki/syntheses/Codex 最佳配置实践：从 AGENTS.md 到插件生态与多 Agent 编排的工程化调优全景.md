@@ -1,15 +1,13 @@
 ---
 title: Codex 最佳配置实践：从 AGENTS.md 到插件生态与多 Agent 编排的工程化调优全景
 type: synthesis
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5cd1796ad43542e6be0bc7035facd04b
+notion_url: https://www.notion.so/Tizer/5cd1796ad43542e6be0bc7035facd04b
 notion_id: 5cd1796a-d435-42e6-be0b-c7035facd04b
 ---
 

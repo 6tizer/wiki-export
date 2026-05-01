@@ -3,13 +3,14 @@ title: 摘要：OpenClaw 3周连续运行提炼的5条核心经验
 type: summary
 tags:
 - OpenClaw
-- 工作流
+- 长期记忆
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/fbf0f34efff9480f9c05cd60522562a7
+notion_url: https://www.notion.so/Tizer/fbf0f34efff9480f9c05cd60522562a7
 notion_id: fbf0f34e-fff9-480f-9c05-cd60522562a7
 ---
 

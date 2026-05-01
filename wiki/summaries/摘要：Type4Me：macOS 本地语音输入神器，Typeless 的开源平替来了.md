@@ -2,13 +2,15 @@
 title: 摘要：Type4Me：macOS 本地语音输入神器，Typeless 的开源平替来了
 type: summary
 tags:
-- 开发工具
+- OpenClaw
+- AI 产品
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: macOS, 语音输入, 开源工具
 source_article_url: ''
-notion_url: https://www.notion.so/4f20a24d2e5348e48727048d8462da4d
+notion_url: https://www.notion.so/Tizer/4f20a24d2e5348e48727048d8462da4d
 notion_id: 4f20a24d-2e53-48e4-8727-048d8462da4d
 ---
 

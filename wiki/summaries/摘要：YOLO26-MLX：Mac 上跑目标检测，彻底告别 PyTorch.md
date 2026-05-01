@@ -1,14 +1,13 @@
 ---
 title: 摘要：YOLO26-MLX：Mac 上跑目标检测，彻底告别 PyTorch
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: MLX, YOLO, 计算机视觉, Apple Silicon, 目标检测
 source_article_url: https://www.notion.so/33f701074b6881a098dfe61e08d7025e
-notion_url: https://www.notion.so/8b3c43e44f6a420185fd5dfeb0319534
+notion_url: https://www.notion.so/Tizer/8b3c43e44f6a420185fd5dfeb0319534
 notion_id: 8b3c43e4-4f6a-4201-85fd-5dfeb0319534
 ---
 

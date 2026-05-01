@@ -1,14 +1,13 @@
 ---
 title: 摘要：Vibe Island：把 Mac 刘海变成 AI Agent 的实时驾驶舱
 type: summary
-tags:
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: https://www.notion.so/33d701074b68817680e8cadd893fef36
-notion_url: https://www.notion.so/0f83f7e200624305b3adbc9869c794cc
+notion_url: https://www.notion.so/Tizer/0f83f7e200624305b3adbc9869c794cc
 notion_id: 0f83f7e2-0062-4305-b3ad-bc9869c794cc
 ---
 

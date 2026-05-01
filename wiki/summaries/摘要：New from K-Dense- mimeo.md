@@ -2,14 +2,13 @@
 title: '摘要：New from K-Dense: mimeo.'
 type: summary
 tags:
-- Coding Agent
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881b49ba7ed5de8cce46b
-notion_url: https://www.notion.so/2a26b10f30614806b0e205e97907a9ee
+notion_url: https://www.notion.so/Tizer/2a26b10f30614806b0e205e97907a9ee
 notion_id: 2a26b10f-3061-4806-b0e2-05e97907a9ee
 ---
 

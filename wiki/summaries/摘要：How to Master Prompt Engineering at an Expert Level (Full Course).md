@@ -1,15 +1,13 @@
 ---
 title: 摘要：How to Master Prompt Engineering at an Expert Level (Full Course)
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881ab969fd211972e5676
-notion_url: https://www.notion.so/3419de6efadf40d191367a6fe218a6cf
+notion_url: https://www.notion.so/Tizer/3419de6efadf40d191367a6fe218a6cf
 notion_id: 3419de6e-fadf-40d1-9136-7a6fe218a6cf
 ---
 

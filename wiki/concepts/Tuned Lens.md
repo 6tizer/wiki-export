@@ -1,14 +1,13 @@
 ---
 title: Tuned Lens
 type: concept
-tags:
-- LLM
+tags: []
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/644c1869b2a94c5faf979241ae6e3e79
+notion_url: https://www.notion.so/Tizer/644c1869b2a94c5faf979241ae6e3e79
 notion_id: 644c1869-b2a9-4c5f-af97-9241ae6e3e79
 ---
 

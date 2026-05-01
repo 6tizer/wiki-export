@@ -2,11 +2,8 @@
 title: Nezha
 type: entity
 tags:
-- Coding Agent
 - IDE 集成
 - 代码生成
-- Agent 编排
-- 工作流
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

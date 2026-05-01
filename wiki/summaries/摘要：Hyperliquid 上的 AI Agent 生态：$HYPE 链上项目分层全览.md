@@ -2,13 +2,17 @@
 title: 摘要：Hyperliquid 上的 AI Agent 生态：$HYPE 链上项目分层全览
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 链上协议
+- 加密资产
+- AI 产品
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/bf9edd6c9373474480e3e500a0b14c00
+notion_url: https://www.notion.so/Tizer/bf9edd6c9373474480e3e500a0b14c00
 notion_id: bf9edd6c-9373-4744-80e3-e500a0b14c00
 ---
 

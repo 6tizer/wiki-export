@@ -2,14 +2,15 @@
 title: 摘要：钉钉飞书集体抛弃 MCP，CLI 才是 Agent 的终局
 type: summary
 tags:
-- Agent 技能
+- MCP 协议
+- CLI 工具
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: MCP, Agent, 行业观察
 source_article_url: ''
-notion_url: https://www.notion.so/1603d950c2e843b8ad55ea3615a7da85
+notion_url: https://www.notion.so/Tizer/1603d950c2e843b8ad55ea3615a7da85
 notion_id: 1603d950-c2e8-43b8-ad55-ea3615a7da85
 ---
 

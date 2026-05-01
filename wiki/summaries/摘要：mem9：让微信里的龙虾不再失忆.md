@@ -2,13 +2,15 @@
 title: 摘要：mem9：让微信里的龙虾不再失忆
 type: summary
 tags:
-- 记忆系统
+- OpenClaw
+- 长期记忆
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: RAG/Memory, 微信生态, OpenClaw
 source_article_url: ''
-notion_url: https://www.notion.so/bda9670ab68742a98fcb49050cf08ae0
+notion_url: https://www.notion.so/Tizer/bda9670ab68742a98fcb49050cf08ae0
 notion_id: bda9670a-b687-42a9-8fcb-49050cf08ae0
 ---
 

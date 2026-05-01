@@ -1,15 +1,13 @@
 ---
 title: 摘要：GitHub 飙升榜：过去两周最火的 7 个 AI 开源项目盘点
 type: summary
-tags:
-- 开发工具
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化, Cursor, OpenClaw
 source_article_url: https://www.notion.so/335701074b6881a98cacf66348103f45
-notion_url: https://www.notion.so/7040c7591b0b4bd6be9b6ab1e6743434
+notion_url: https://www.notion.so/Tizer/7040c7591b0b4bd6be9b6ab1e6743434
 notion_id: 7040c759-1b0b-4bd6-be9b-6ab1e6743434
 ---
 

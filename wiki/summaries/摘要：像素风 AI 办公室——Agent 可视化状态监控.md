@@ -2,13 +2,16 @@
 title: 摘要：像素风 AI 办公室——Agent 可视化状态监控
 type: summary
 tags:
-- OpenClaw
+- Agent 协作模式
+- 多Agent协作
+- 前端开发
+- AI 产品
 status: 已审核
 confidence: low
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/43c9c8317a914d9b81ec8d16605ece3f
+notion_url: https://www.notion.so/Tizer/43c9c8317a914d9b81ec8d16605ece3f
 notion_id: 43c9c831-7a91-4d9b-81ec-8d16605ece3f
 ---
 

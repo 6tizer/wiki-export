@@ -2,14 +2,15 @@
 title: 摘要：Vibe Advertising：用 Claude + Agent 一下午生产 47 条 UGC 广告
 type: summary
 tags:
-- 内容创作
-- 工作流
+- 内容自动化
+- 多Agent协作
+- 视频/3D
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881d88d22f5647c229ff2
-notion_url: https://www.notion.so/effd345da977427cb25027bdb409f1d2
+notion_url: https://www.notion.so/Tizer/effd345da977427cb25027bdb409f1d2
 notion_id: effd345d-a977-427c-b250-27bdb409f1d2
 ---
 

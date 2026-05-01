@@ -1,15 +1,13 @@
 ---
 title: DeerFlow 2.0
 type: entity
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/68d30f9d6c5c4463be93c587d476491d
+notion_url: https://www.notion.so/Tizer/68d30f9d6c5c4463be93c587d476491d
 notion_id: 68d30f9d-6c5c-4463-be93-c587d476491d
 ---
 

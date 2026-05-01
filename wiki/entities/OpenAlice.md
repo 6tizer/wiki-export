@@ -2,8 +2,9 @@
 title: OpenAlice
 type: entity
 tags:
-- Crypto/DeFi
-- Agent 框架
+- 量化交易
+- 多Agent协作
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

@@ -3,15 +3,14 @@ title: colleague-skill
 type: concept
 tags:
 - 知识管理
-- 商业/生态
-- 长期记忆
 - AI 产品
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cd9e1cf873b64a91ae139a309ffc0d06
+notion_url: https://www.notion.so/Tizer/cd9e1cf873b64a91ae139a309ffc0d06
 notion_id: cd9e1cf8-73b6-4a91-ae13-9a309ffc0d06
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Kelly 准则
 type: concept
-tags:
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

@@ -2,14 +2,16 @@
 title: 摘要：Anthropic Tool Calling 2.0——Agent 上下文消耗降80%
 type: summary
 tags:
-- LLM
-- 开发工具
+- 商业/生态
+- MCP 协议
+- 上下文管理
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/b4da784e00c74334868f9f9edc54d9fa
+notion_url: https://www.notion.so/Tizer/b4da784e00c74334868f9f9edc54d9fa
 notion_id: b4da784e-00c7-4334-868f-9f9edc54d9fa
 ---
 

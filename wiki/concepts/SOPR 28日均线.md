@@ -1,14 +1,13 @@
 ---
 title: SOPR 28日均线
 type: concept
-tags:
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/db2f9b6ff8034de591782f8dd94f1c64
+notion_url: https://www.notion.so/Tizer/db2f9b6ff8034de591782f8dd94f1c64
 notion_id: db2f9b6f-f803-4de5-9178-2f8dd94f1c64
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: Refusal Direction
 type: concept
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4fac23e27a1c4decb973b9191b73d7a0
+notion_url: https://www.notion.so/Tizer/4fac23e27a1c4decb973b9191b73d7a0
 notion_id: 4fac23e2-7a1c-4dec-b973-b9191b73d7a0
 ---
 

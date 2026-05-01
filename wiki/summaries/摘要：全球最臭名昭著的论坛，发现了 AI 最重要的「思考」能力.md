@@ -1,15 +1,13 @@
 ---
 title: 摘要：全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881dc81f1d81783cebe9a
-notion_url: https://www.notion.so/109b5efa3b994b10b9596a1003f7c779
+notion_url: https://www.notion.so/Tizer/109b5efa3b994b10b9596a1003f7c779
 notion_id: 109b5efa-3b99-4b10-b959-6a1003f7c779
 ---
 

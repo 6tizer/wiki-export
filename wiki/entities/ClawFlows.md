@@ -3,13 +3,12 @@ title: ClawFlows
 type: entity
 tags:
 - OpenClaw
-- 工作流
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a1d72b4a114d4dc5bcdf3eb100fadf2e
+notion_url: https://www.notion.so/Tizer/a1d72b4a114d4dc5bcdf3eb100fadf2e
 notion_id: a1d72b4a-114d-4dc5-bcdf-3eb100fadf2e
 ---
 

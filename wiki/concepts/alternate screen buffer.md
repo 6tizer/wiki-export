@@ -1,14 +1,13 @@
 ---
 title: alternate screen buffer
 type: concept
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c60dbfa4f630459e83b0d14d692a4432
+notion_url: https://www.notion.so/Tizer/c60dbfa4f630459e83b0d14d692a4432
 notion_id: c60dbfa4-f630-459e-83b0-d14d692a4432
 ---
 

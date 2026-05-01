@@ -3,7 +3,8 @@ title: OpenClaw bootstrap 分层
 type: concept
 tags:
 - OpenClaw
-- 工作流
+- 知识管理
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

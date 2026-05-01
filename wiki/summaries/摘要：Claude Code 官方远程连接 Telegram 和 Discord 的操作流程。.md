@@ -2,13 +2,15 @@
 title: 摘要：Claude Code 官方远程连接 Telegram 和 Discord 的操作流程。
 type: summary
 tags:
-- 开发工具
+- 社交媒体
+- OpenClaw
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Claude Code, 教程/实战
 source_article_url: ''
-notion_url: https://www.notion.so/f15b191f67444e4a955d07acdf7152de
+notion_url: https://www.notion.so/Tizer/f15b191f67444e4a955d07acdf7152de
 notion_id: f15b191f-6744-4e4a-955d-07acdf7152de
 ---
 

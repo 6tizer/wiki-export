@@ -1,15 +1,13 @@
 ---
 title: Tailscale
 type: entity
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e25c77730e7149c5bdbcfbd15df13b8e
+notion_url: https://www.notion.so/Tizer/e25c77730e7149c5bdbcfbd15df13b8e
 notion_id: e25c7773-0e71-49c5-bdbc-fbd15df13b8e
 ---
 

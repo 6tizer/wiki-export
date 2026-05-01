@@ -2,13 +2,15 @@
 title: AI 情感回路
 type: concept
 tags:
-- LLM
+- AI 设计
+- 知识管理
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9380ca213c504d6cb44099eb2acaf384
+notion_url: https://www.notion.so/Tizer/9380ca213c504d6cb44099eb2acaf384
 notion_id: 9380ca21-3c50-4d6c-b440-99eb2acaf384
 ---
 

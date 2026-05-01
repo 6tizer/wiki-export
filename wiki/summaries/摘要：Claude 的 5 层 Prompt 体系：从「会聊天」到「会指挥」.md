@@ -2,14 +2,15 @@
 title: 摘要：Claude 的 5 层 Prompt 体系：从「会聊天」到「会指挥」
 type: summary
 tags:
-- LLM
-- 工作流
+- 提示工程
+- Agent 协作模式
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/21dddd3eb3a1475eacbe96c821c81aea
+notion_url: https://www.notion.so/Tizer/21dddd3eb3a1475eacbe96c821c81aea
 notion_id: 21dddd3e-b3a1-475e-acbe-96c821c81aea
 ---
 

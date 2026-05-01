@@ -2,14 +2,17 @@
 title: 摘要：Moss Trade Bot Factory：用自然语言创建你的 AI 加密交易员，$10k 模拟盘跑出 $2.4M 利润
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 框架
+- 加密资产
+- 量化交易
+- OpenClaw
+- AI 产品
+- 多Agent协作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b6881fcafc0e019ac871a10
-notion_url: https://www.notion.so/d54ab3e0091941429a752765ac3362b9
+notion_url: https://www.notion.so/Tizer/d54ab3e0091941429a752765ac3362b9
 notion_id: d54ab3e0-0919-4142-9a75-2765ac3362b9
 ---
 

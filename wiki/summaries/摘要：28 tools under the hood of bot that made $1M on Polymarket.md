@@ -1,15 +1,13 @@
 ---
 title: 摘要：28 tools under the hood of bot that made $1M on Polymarket
 type: summary
-tags:
-- Crypto/DeFi
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881d5bd63eee04b4c8f1a
-notion_url: https://www.notion.so/3c15a357ba66480d9b1c001af744feb1
+notion_url: https://www.notion.so/Tizer/3c15a357ba66480d9b1c001af744feb1
 notion_id: 3c15a357-ba66-480d-9b1c-001af744feb1
 ---
 

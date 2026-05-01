@@ -1,15 +1,13 @@
 ---
 title: 摘要：即梦 CLI 正式开放：一行命令让你的 AI Agent 直接生图生视频
 type: summary
-tags:
-- 内容创作
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: https://www.notion.so/33d701074b6881f5b10cf9edba4c9e17
-notion_url: https://www.notion.so/440107fec02b484facf2ca5d20e11bb1
+notion_url: https://www.notion.so/Tizer/440107fec02b484facf2ca5d20e11bb1
 notion_id: 440107fe-c02b-484f-acf2-ca5d20e11bb1
 ---
 

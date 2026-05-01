@@ -2,13 +2,16 @@
 title: 摘要：SafePal × Fiat24：币安背书的瑞士银行账户，加密出金的新选择
 type: summary
 tags:
-- Crypto/DeFi
+- 加密资产
+- 商业/生态
+- 链上协议
+- 稳定币
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Crypto, Web3, 加密钱包, U卡/出金
 source_article_url: ''
-notion_url: https://www.notion.so/81316c9b8f69403b8298fc179d57d219
+notion_url: https://www.notion.so/Tizer/81316c9b8f69403b8298fc179d57d219
 notion_id: 81316c9b-8f69-403b-8298-fc179d57d219
 ---
 

@@ -2,14 +2,13 @@
 title: 摘要：opencli 与 autocli 的开源之争：一封公开信引发的 Apache 2.0 大讨论
 type: summary
 tags:
-- 开发工具
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: 开源, Apache2.0, DMCA, GitHub
 source_article_url: https://www.notion.so/33d701074b6881d2b3ebe1f6bcb93cfd
-notion_url: https://www.notion.so/036e14df91884255a7453debb876c97d
+notion_url: https://www.notion.so/Tizer/036e14df91884255a7453debb876c97d
 notion_id: 036e14df-9188-4255-a745-3debb876c97d
 ---
 

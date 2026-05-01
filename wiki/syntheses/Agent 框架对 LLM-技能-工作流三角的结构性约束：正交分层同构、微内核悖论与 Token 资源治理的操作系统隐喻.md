@@ -2,17 +2,13 @@
 title: Agent 框架对 LLM-技能-工作流三角的结构性约束：正交分层同构、微内核悖论与 Token 资源治理的操作系统隐喻
 type: synthesis
 tags:
-- Agent 框架
-- LLM
-- Agent 技能
-- 工作流
 - 多模态
 status: 已审核
 confidence: high
 last_compiled: '2026-06-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e5e6f5b6e35b47c6abd6eb829b355b9c
+notion_url: https://www.notion.so/Tizer/e5e6f5b6e35b47c6abd6eb829b355b9c
 notion_id: e5e6f5b6-e35b-47c6-abd6-eb829b355b9c
 ---
 
@@ -253,7 +249,7 @@ LLM × 工作流 synthesis 揭示了两个相互强化的成本机制：**上下
 
 ### Agent 框架关键 Concept
 
-- [Agent OS](concepts/Agent OS.md) · [OpenFang](entities/OpenFang.md) · [Conway](entities/Conway.md) · [SuperAgent Harness](concepts/SuperAgent Harness.md) · [Agent Reach](concepts/Agent Reach.md) · [superpowers 框架](concepts/superpowers 框架.md) · [NanoClaw](concepts/NanoClaw.md) · [aApp](concepts/aApp.md) · [QClaw](concepts/QClaw.md)
+- [Agent OS](concepts/Agent OS.md) · [OpenFang](entities/OpenFang.md) · [Conway](entities/Conway.md) · [SuperAgent Harness](concepts/SuperAgent Harness.md) · [Agent Reach](concepts/Agent Reach.md) · [superpowers 框架](entities/superpowers 框架.md) · [NanoClaw](concepts/NanoClaw.md) · [aApp](concepts/aApp.md) · [QClaw](concepts/QClaw.md)
 
 ## 行动建议
 

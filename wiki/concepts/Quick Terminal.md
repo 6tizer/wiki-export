@@ -2,13 +2,13 @@
 title: Quick Terminal
 type: concept
 tags:
-- 开发工具
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: 终端, 开发者工具, macOS
 source_article_url: ''
-notion_url: https://www.notion.so/b901aa82daca471195dc55ee534c43cd
+notion_url: https://www.notion.so/Tizer/b901aa82daca471195dc55ee534c43cd
 notion_id: b901aa82-daca-4711-95dc-55ee534c43cd
 ---
 

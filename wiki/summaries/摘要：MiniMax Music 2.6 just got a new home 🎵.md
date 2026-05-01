@@ -2,14 +2,13 @@
 title: 摘要：MiniMax Music 2.6 just got a new home 🎵
 type: summary
 tags:
-- 内容创作
 - 商业/生态
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68819b9ad4ce4241829f21
-notion_url: https://www.notion.so/dfedba5ae20948b1b227ade2a7cc9f44
+notion_url: https://www.notion.so/Tizer/dfedba5ae20948b1b227ade2a7cc9f44
 notion_id: dfedba5a-e209-48b1-b227-ade2a7cc9f44
 ---
 

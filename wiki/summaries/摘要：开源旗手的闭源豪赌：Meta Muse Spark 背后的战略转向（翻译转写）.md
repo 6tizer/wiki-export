@@ -2,13 +2,15 @@
 title: 摘要：开源旗手的闭源豪赌：Meta Muse Spark 背后的战略转向（翻译转写）
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 推理优化
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/34ab447f1ef342688391c1716bfca7c7
+notion_url: https://www.notion.so/Tizer/34ab447f1ef342688391c1716bfca7c7
 notion_id: 34ab447f-1ef3-4268-8391-c1716bfca7c7
 ---
 

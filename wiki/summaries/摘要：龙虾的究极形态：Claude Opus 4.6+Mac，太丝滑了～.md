@@ -3,12 +3,15 @@ title: 摘要：龙虾的究极形态：Claude Opus 4.6+Mac，太丝滑了～
 type: summary
 tags:
 - OpenClaw
+- 浏览器自动化
+- 内容自动化
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Claude, 工具推荐
 source_article_url: ''
-notion_url: https://www.notion.so/0a504977b0224e4991e7869e673723e2
+notion_url: https://www.notion.so/Tizer/0a504977b0224e4991e7869e673723e2
 notion_id: 0a504977-b022-4e49-91e7-869e673723e2
 ---
 

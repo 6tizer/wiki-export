@@ -2,13 +2,15 @@
 title: 摘要：Virtuals：把 AI Agent 变成链上经济体，它凭什么有独角兽潜力？
 type: summary
 tags:
-- Crypto/DeFi
+- 商业/生态
+- 链上协议
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/44b45ed8ef274fc389d4958751095615
+notion_url: https://www.notion.so/Tizer/44b45ed8ef274fc389d4958751095615
 notion_id: 44b45ed8-ef27-4fc3-89d4-958751095615
 ---
 

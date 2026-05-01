@@ -1,15 +1,13 @@
 ---
 title: QUIC 代理
 type: concept
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a9b110497b9542149563c590d1a0fb10
+notion_url: https://www.notion.so/Tizer/a9b110497b9542149563c590d1a0fb10
 notion_id: a9b11049-7b95-4214-9563-c590d1a0fb10
 ---
 

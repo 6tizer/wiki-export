@@ -2,15 +2,13 @@
 title: 摘要：这可能是我在 X 上到目前为止看到的最详细最具实操性的 TikTok AI slideshow 手册了，是 Roman 月营收从 0 到 10
   万刀的完整路径复盘。
 type: summary
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881e492c5e8cbfc11dd65
-notion_url: https://www.notion.so/bcc733063544471fad5e816f48171496
+notion_url: https://www.notion.so/Tizer/bcc733063544471fad5e816f48171496
 notion_id: bcc73306-3544-471f-ad5e-816f48171496
 ---
 

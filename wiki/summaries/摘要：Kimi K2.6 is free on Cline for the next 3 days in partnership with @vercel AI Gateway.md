@@ -2,15 +2,13 @@
 title: 摘要：Kimi K2.6 is free on Cline for the next 3 days in partnership with @vercel
   AI Gateway.
 type: summary
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881fbaa85fd114d02d2a1
-notion_url: https://www.notion.so/064ec245078f43258b24f10d7a298fd3
+notion_url: https://www.notion.so/Tizer/064ec245078f43258b24f10d7a298fd3
 notion_id: 064ec245-078f-4325-8b24-f10d7a298fd3
 ---
 

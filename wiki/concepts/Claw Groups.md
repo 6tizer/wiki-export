@@ -2,11 +2,8 @@
 title: Claw Groups
 type: concept
 tags:
-- Agent 编排
 - 多Agent协作
-- 工作流
 - 知识管理
-- 内容创作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

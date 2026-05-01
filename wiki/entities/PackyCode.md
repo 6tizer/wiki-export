@@ -2,8 +2,9 @@
 title: PackyCode
 type: entity
 tags:
-- Coding Agent
-- 安全/隐私
+- AI 产品
+- 知识管理
+- 模型评测
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

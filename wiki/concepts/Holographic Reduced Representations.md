@@ -1,14 +1,13 @@
 ---
 title: Holographic Reduced Representations
 type: concept
-tags:
-- 记忆系统
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c2b95efd3295493690ad4983994c3713
+notion_url: https://www.notion.so/Tizer/c2b95efd3295493690ad4983994c3713
 notion_id: c2b95efd-3295-4936-90ad-4983994c3713
 ---
 

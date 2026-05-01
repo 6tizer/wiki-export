@@ -3,12 +3,14 @@ title: memU
 type: entity
 tags:
 - 长期记忆
+- 上下文管理
+- CLI 工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/319b910709f1404db1d50eff2569bcda
+notion_url: https://www.notion.so/Tizer/319b910709f1404db1d50eff2569bcda
 notion_id: 319b9107-09f1-404d-b1d5-0eff2569bcda
 ---
 

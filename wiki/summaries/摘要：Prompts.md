@@ -1,15 +1,13 @@
 ---
 title: 摘要：Prompts
 type: summary
-tags:
-- Agent 技能
-- 内容创作
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688173b27fc0c59b3597ca
-notion_url: https://www.notion.so/6349461cbb7c4fc0886c833ccbe7e394
+notion_url: https://www.notion.so/Tizer/6349461cbb7c4fc0886c833ccbe7e394
 notion_id: 6349461c-bb7c-4fc0-886c-833ccbe7e394
 ---
 

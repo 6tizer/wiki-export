@@ -3,14 +3,14 @@ title: AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识
 type: synthesis
 tags:
 - 知识管理
-- LLM
-- 记忆系统
+- 上下文管理
+- 笔记工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a4b341082c964d48be0aa748e9ee0a25
+notion_url: https://www.notion.so/Tizer/a4b341082c964d48be0aa748e9ee0a25
 notion_id: a4b34108-2c96-4d48-be0a-a748e9ee0a25
 ---
 

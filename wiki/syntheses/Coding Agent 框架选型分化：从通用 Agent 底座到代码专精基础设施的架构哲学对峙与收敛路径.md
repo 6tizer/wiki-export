@@ -1,15 +1,13 @@
 ---
 title: Coding Agent 框架选型分化：从通用 Agent 底座到代码专精基础设施的架构哲学对峙与收敛路径
 type: synthesis
-tags:
-- Agent 框架
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/224ceeae25bc4325a84dc586f75ca93e
+notion_url: https://www.notion.so/Tizer/224ceeae25bc4325a84dc586f75ca93e
 notion_id: 224ceeae-25bc-4325-a84d-c586f75ca93e
 ---
 
@@ -89,7 +87,7 @@ notion_id: 224ceeae-25bc-4325-a84d-c586f75ca93e
 
 尽管两条路线在哲学上对峙，交叉概念揭示了一个正在发生的收敛趋势：
 
-1. **通用框架向代码场景下沉**：[superpowers 框架](concepts/superpowers 框架.md) 同时横跨 Agent 框架、Agent 技能、Coding Agent、开发工具和工作流五个标签，代表了通用框架主动吸收代码场景能力的尝试
+1. **通用框架向代码场景下沉**：[superpowers 框架](entities/superpowers 框架.md) 同时横跨 Agent 框架、Agent 技能、Coding Agent、开发工具和工作流五个标签，代表了通用框架主动吸收代码场景能力的尝试
 
 1. **代码专精框架向平台化升级**：Windsurf 从 IDE 变成「Agent Command Center」，Devin 从代码 Agent 变成云端执行层——两者都在从单一工具走向可编排平台
 
@@ -161,7 +159,7 @@ notion_id: 224ceeae-25bc-4325-a84d-c586f75ca93e
 
 - [PI Agent](entities/PI Agent.md)（草稿）— Agent 框架实体
 
-- [superpowers 框架](concepts/superpowers 框架.md)（草稿）— 横跨五标签的通用-专精混合框架
+- [superpowers 框架](entities/superpowers 框架.md)（草稿）— 横跨五标签的通用-专精混合框架
 
 - [HarnessCode](entities/HarnessCode.md)（草稿）— Coding Agent 框架实体
 

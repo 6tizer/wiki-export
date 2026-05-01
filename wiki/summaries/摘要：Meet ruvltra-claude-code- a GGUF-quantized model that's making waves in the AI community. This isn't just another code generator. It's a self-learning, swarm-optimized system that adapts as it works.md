@@ -3,15 +3,13 @@ title: '摘要：Meet ruvltra-claude-code: a GGUF-quantized model that''s making
   the AI community. This isn''t just another code generator. It''s a self-learning,
   swarm-optimized system that adapts as it works.'
 type: summary
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881e0b434c45afb93c759
-notion_url: https://www.notion.so/d45d9df339f0429f96003f8524f6dd88
+notion_url: https://www.notion.so/Tizer/d45d9df339f0429f96003f8524f6dd88
 notion_id: d45d9df3-39f0-429f-9600-3f8524f6dd88
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：OiiOii 正式上线！用 Seedance 2.0 做 AI 短剧的最优解法来了
 type: summary
-tags:
-- 工作流
-- 内容创作
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/8024a115d7844bdfabf196764e0e097e
+notion_url: https://www.notion.so/Tizer/8024a115d7844bdfabf196764e0e097e
 notion_id: 8024a115-d784-4bdf-abf1-96764e0e097e
 ---
 

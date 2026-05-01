@@ -3,13 +3,12 @@ title: MPP
 type: concept
 tags:
 - 商业/生态
-- Crypto/DeFi
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ac0f9faab9ab4771aa31bc154b4658e5
+notion_url: https://www.notion.so/Tizer/ac0f9faab9ab4771aa31bc154b4658e5
 notion_id: ac0f9faa-b9ab-4771-aa31-bc154b4658e5
 ---
 

@@ -2,14 +2,16 @@
 title: 摘要：x-tweet-fetcher：让 AI Agent 免登录抓取推文，还能顺手找到论文作者的 Twitter
 type: summary
 tags:
-- Agent 技能
-- 知识管理
+- 社交媒体
+- 内容自动化
+- 浏览器自动化
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化, Agent
 source_article_url: https://www.notion.so/335701074b688197a81ee7c937b05862
-notion_url: https://www.notion.so/78ae392f095649439dcb910f5694196c
+notion_url: https://www.notion.so/Tizer/78ae392f095649439dcb910f5694196c
 notion_id: 78ae392f-0956-4943-9dcb-910f5694196c
 ---
 

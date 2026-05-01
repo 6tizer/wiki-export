@@ -1,9 +1,7 @@
 ---
 title: Latent Briefing
 type: concept
-tags:
-- Agent 编排
-- 记忆系统
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

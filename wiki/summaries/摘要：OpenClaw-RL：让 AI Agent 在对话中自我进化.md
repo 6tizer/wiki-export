@@ -3,13 +3,14 @@ title: 摘要：OpenClaw-RL：让 AI Agent 在对话中自我进化
 type: summary
 tags:
 - OpenClaw
-- LLM
+- 训练/微调
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e368b5c79bb64a83ad9d985c0a429a47
+notion_url: https://www.notion.so/Tizer/e368b5c79bb64a83ad9d985c0a429a47
 notion_id: e368b5c7-9bb6-4a83-ad9d-985c0a429a47
 ---
 

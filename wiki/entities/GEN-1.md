@@ -1,14 +1,13 @@
 ---
 title: GEN-1
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/85a88f6998f14dc9a6f40c0a619c027c
+notion_url: https://www.notion.so/Tizer/85a88f6998f14dc9a6f40c0a619c027c
 notion_id: 85a88f69-98f1-4dc9-a6f4-0c0a619c027c
 ---
 

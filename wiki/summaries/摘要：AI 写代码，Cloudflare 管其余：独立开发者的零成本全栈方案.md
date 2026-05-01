@@ -2,14 +2,15 @@
 title: 摘要：AI 写代码，Cloudflare 管其余：独立开发者的零成本全栈方案
 type: summary
 tags:
-- 开发工具
-- 工作流
+- 代码生成
+- 前端开发
+- 算力基础设施
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Cloudflare, Serverless, 开发者工具
 source_article_url: ''
-notion_url: https://www.notion.so/2573a653331b4c64a15e076a3448fb2d
+notion_url: https://www.notion.so/Tizer/2573a653331b4c64a15e076a3448fb2d
 notion_id: 2573a653-331b-4c64-a15e-076a3448fb2d
 ---
 

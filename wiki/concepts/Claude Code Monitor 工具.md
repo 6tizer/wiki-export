@@ -1,15 +1,13 @@
 ---
 title: Claude Code Monitor 工具
 type: concept
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/864e70c129b040b9a0bb9b46e1d7fb7a
+notion_url: https://www.notion.so/Tizer/864e70c129b040b9a0bb9b46e1d7fb7a
 notion_id: 864e70c1-29b0-40b9-a0bb-9b46e1d7fb7a
 ---
 

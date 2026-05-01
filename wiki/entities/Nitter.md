@@ -2,14 +2,14 @@
 title: Nitter
 type: entity
 tags:
-- 开发工具
-- Agent 技能
+- 社交媒体
+- 前端开发
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c67096af8c21424e8d9ff86e1e9ef74b
+notion_url: https://www.notion.so/Tizer/c67096af8c21424e8d9ff86e1e9ef74b
 notion_id: c67096af-8c21-424e-8d9f-f86e1e9ef74b
 ---
 

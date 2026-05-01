@@ -2,7 +2,8 @@
 title: Class-Incremental Learning
 type: concept
 tags:
-- LLM
+- 知识管理
+- AI 设计
 - 训练/微调
 status: 审核中
 confidence: high

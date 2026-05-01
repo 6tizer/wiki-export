@@ -2,7 +2,6 @@
 title: Cursor CLI /btw
 type: concept
 tags:
-- Agent 编排
 - 上下文管理
 status: 审核中
 confidence: medium

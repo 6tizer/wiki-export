@@ -1,15 +1,13 @@
 ---
 title: 摘要：DESIGN.md
 type: summary
-tags:
-- Coding Agent
-- 内容创作
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881f981fdf38488ea34b9
-notion_url: https://www.notion.so/464afb6698de4824ab0365de0b6de529
+notion_url: https://www.notion.so/Tizer/464afb6698de4824ab0365de0b6de529
 notion_id: 464afb66-98de-4824-ab03-65de0b6de529
 ---
 

@@ -2,14 +2,15 @@
 title: Moss Trade Bot Factory
 type: entity
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 量化交易
+- 加密资产
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/58f4d3a8e54e4495a4a8d06bfe8ba676
+notion_url: https://www.notion.so/Tizer/58f4d3a8e54e4495a4a8d06bfe8ba676
 notion_id: 58f4d3a8-e54e-4495-a4a8-d06bfe8ba676
 ---
 

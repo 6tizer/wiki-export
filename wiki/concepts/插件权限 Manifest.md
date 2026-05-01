@@ -1,9 +1,7 @@
 ---
 title: 插件权限 Manifest
 type: concept
-tags:
-- 安全/隐私
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

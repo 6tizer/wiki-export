@@ -3,13 +3,12 @@ title: 摘要：How to Build Services-as-Software Business
 type: summary
 tags:
 - 商业/生态
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881a29353c9fd0eb70348
-notion_url: https://www.notion.so/1a4975f24526466ba351b28d1354a558
+notion_url: https://www.notion.so/Tizer/1a4975f24526466ba351b28d1354a558
 notion_id: 1a4975f2-4526-466b-a351-b28d1354a558
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: 摘要：OpenAI 官方把 Codex 塞进 Claude Code：一个插件，三个命令，一种策略
 type: summary
-tags:
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, Cursor, 自动化
 source_article_url: https://www.notion.so/336701074b68811185a5c6fdbc1e7816
-notion_url: https://www.notion.so/af7a2e1a8da94046a24657c85358b56a
+notion_url: https://www.notion.so/Tizer/af7a2e1a8da94046a24657c85358b56a
 notion_id: af7a2e1a-8da9-4046-a246-57c85358b56a
 ---
 

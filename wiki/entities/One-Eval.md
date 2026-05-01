@@ -2,14 +2,15 @@
 title: One-Eval
 type: entity
 tags:
-- LLM
-- 开发工具
+- 模型评测
+- AI 设计
+- Agent 协作模式
 status: 草稿
 confidence: high
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/28b74f199e5947efbd09507b9571e375
+notion_url: https://www.notion.so/Tizer/28b74f199e5947efbd09507b9571e375
 notion_id: 28b74f19-9e59-47ef-bd09-507b9571e375
 ---
 

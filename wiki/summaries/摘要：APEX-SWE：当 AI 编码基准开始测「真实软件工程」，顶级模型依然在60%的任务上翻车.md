@@ -10,7 +10,7 @@ confidence: high
 last_compiled: '2026-04-27'
 source_tags: LLM, Claude, GitHub, 开源
 source_article_url: https://www.notion.so/348701074b6881bcbb99dc4bae132087
-notion_url: https://www.notion.so/fa4e2356a3344a8e9c6475a70ed31918
+notion_url: https://www.notion.so/Tizer/fa4e2356a3344a8e9c6475a70ed31918
 notion_id: fa4e2356-a334-4a8e-9c64-75a70ed31918
 ---
 

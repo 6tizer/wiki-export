@@ -2,13 +2,17 @@
 title: 摘要：Google AI 代理白皮书：读完这篇，你就搞懂了 LLM Agent 的底层逻辑
 type: summary
 tags:
-- LLM
+- Agent 协作模式
+- 上下文管理
+- 长期记忆
+- RAG/检索
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e699a0758ede4f2ca249d75f149a21b0
+notion_url: https://www.notion.so/Tizer/e699a0758ede4f2ca249d75f149a21b0
 notion_id: e699a075-8ede-4f2c-a249-d75f149a21b0
 ---
 

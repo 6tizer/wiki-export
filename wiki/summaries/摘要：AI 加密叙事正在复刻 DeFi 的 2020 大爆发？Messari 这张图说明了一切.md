@@ -2,13 +2,14 @@
 title: 摘要：AI 加密叙事正在复刻 DeFi 的 2020 大爆发？Messari 这张图说明了一切
 type: summary
 tags:
-- Crypto/DeFi
+- 加密资产
+- 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/13fb8ec850cb4b1a9ca9ecb2f97705ce
+notion_url: https://www.notion.so/Tizer/13fb8ec850cb4b1a9ca9ecb2f97705ce
 notion_id: 13fb8ec8-50cb-4b1a-9ca9-ecb2f97705ce
 ---
 

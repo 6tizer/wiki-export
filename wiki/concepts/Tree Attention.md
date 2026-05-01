@@ -1,14 +1,13 @@
 ---
 title: Tree Attention
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e873937a365544a99b81de7a22bdaa06
+notion_url: https://www.notion.so/Tizer/e873937a365544a99b81de7a22bdaa06
 notion_id: e873937a-3655-44a9-9b81-de7a22bdaa06
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: PraisonAI
 type: entity
-tags:
-- Agent 框架
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9b1244bca7e04ae0b1f6f78839636961
+notion_url: https://www.notion.so/Tizer/9b1244bca7e04ae0b1f6f78839636961
 notion_id: 9b1244bc-a7e0-4ae0-b1f6-f78839636961
 ---
 

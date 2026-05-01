@@ -2,13 +2,15 @@
 title: Taku
 type: entity
 tags:
-- Agent 框架
+- Harness 工程
+- 多Agent协作
+- 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d6b7705aa0ea4fe98a2a2b5076f60a57
+notion_url: https://www.notion.so/Tizer/d6b7705aa0ea4fe98a2a2b5076f60a57
 notion_id: d6b7705a-a0ea-4fe9-8a2a-2b5076f60a57
 ---
 

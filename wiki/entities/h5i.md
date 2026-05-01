@@ -1,9 +1,7 @@
 ---
 title: h5i
 type: entity
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,14 +2,13 @@
 title: Apache 2.0 商标边界
 type: concept
 tags:
-- 开发工具
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/35a877c258ab4eb1baa5e36150ca2d85
+notion_url: https://www.notion.so/Tizer/35a877c258ab4eb1baa5e36150ca2d85
 notion_id: 35a877c2-58ab-4eb1-baa5-e36150ca2d85
 ---
 

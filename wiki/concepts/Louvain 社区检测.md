@@ -8,7 +8,7 @@ confidence: medium
 last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/84d70afe2c774ba8a0e0b5bafa8fe1f5
+notion_url: https://www.notion.so/Tizer/84d70afe2c774ba8a0e0b5bafa8fe1f5
 notion_id: 84d70afe-2c77-4ba8-a0e0-b5bafa8fe1f5
 ---
 
@@ -32,7 +32,7 @@ Louvain 社区检测是一种图网络聚类方法，用来把知识图谱中的
 
 - [Deep Research](entities/Deep Research.md)
 
-- [LanceDB](concepts/LanceDB.md)
+- [LanceDB](entities/LanceDB.md)
 
 - [四信号知识图谱](concepts/四信号知识图谱.md)
 

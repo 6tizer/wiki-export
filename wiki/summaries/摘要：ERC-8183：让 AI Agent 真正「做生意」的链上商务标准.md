@@ -2,14 +2,15 @@
 title: 摘要：ERC-8183：让 AI Agent 真正「做生意」的链上商务标准
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
+- 链上协议
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/5f2b0423f38944e1a2680b376bf998d7
+notion_url: https://www.notion.so/Tizer/5f2b0423f38944e1a2680b376bf998d7
 notion_id: 5f2b0423-f389-44e1-a268-0b376bf998d7
 ---
 
@@ -31,7 +32,7 @@ notion_id: 5f2b0423-f389-44e1-a268-0b376bf998d7
 
 - [ERC-8183](entities/ERC-8183.md)
 
-- [ERC-8004](concepts/ERC-8004.md)
+- [ERC-8004](entities/ERC-8004.md)
 
 - [x402 协议](concepts/x402 协议.md)
 

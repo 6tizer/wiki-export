@@ -1,15 +1,13 @@
 ---
 title: 摘要：OpenAlice & StockClaw：用多 Agent 系统在家搭建你的 AI 量化交易团队
 type: summary
-tags:
-- Crypto/DeFi
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881199c14d0f12ccba8f8
-notion_url: https://www.notion.so/649bbe9ec54e42bb80eb3231f2a1b25e
+notion_url: https://www.notion.so/Tizer/649bbe9ec54e42bb80eb3231f2a1b25e
 notion_id: 649bbe9e-c54e-42bb-80eb-3231f2a1b25e
 ---
 

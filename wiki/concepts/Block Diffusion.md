@@ -1,14 +1,13 @@
 ---
 title: Block Diffusion
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/eab1e2ef31d24583a98a5303c2fc59d2
+notion_url: https://www.notion.so/Tizer/eab1e2ef31d24583a98a5303c2fc59d2
 notion_id: eab1e2ef-31d2-4583-a98a-5303c2fc59d2
 ---
 

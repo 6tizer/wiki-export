@@ -1,15 +1,13 @@
 ---
 title: Agent 持续学习三层框架
 type: concept
-tags:
-- Agent 编排
-- 记忆系统
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/dee008b28f7c41bd8b875726df6538bc
+notion_url: https://www.notion.so/Tizer/dee008b28f7c41bd8b875726df6538bc
 notion_id: dee008b2-8f7c-41bd-8b87-5726df6538bc
 ---
 

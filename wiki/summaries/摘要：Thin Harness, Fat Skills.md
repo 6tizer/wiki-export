@@ -1,15 +1,13 @@
 ---
 title: 摘要：Thin Harness, Fat Skills
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68816bbdf5c98528c32af8
-notion_url: https://www.notion.so/ef81287197084aa6a0fc4429adba3b37
+notion_url: https://www.notion.so/Tizer/ef81287197084aa6a0fc4429adba3b37
 notion_id: ef812871-9708-4aa6-a0fc-4429adba3b37
 ---
 

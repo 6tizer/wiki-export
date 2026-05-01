@@ -1,15 +1,13 @@
 ---
 title: Expert-Granular Abliteration
 type: concept
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d9d0a381247c42958d872258625e318b
+notion_url: https://www.notion.so/Tizer/d9d0a381247c42958d872258625e318b
 notion_id: d9d0a381-247c-4295-8d87-2258625e318b
 ---
 

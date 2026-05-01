@@ -2,13 +2,14 @@
 title: 摘要：public-apis 开源 API 资源库
 type: summary
 tags:
-- 开发工具
+- 商业/生态
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/2f6e26a7afbb47329493e42bcf10b6ab
+notion_url: https://www.notion.so/Tizer/2f6e26a7afbb47329493e42bcf10b6ab
 notion_id: 2f6e26a7-afbb-4732-9493-e42bcf10b6ab
 ---
 

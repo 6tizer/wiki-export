@@ -1,15 +1,13 @@
 ---
 title: 摘要：本周 GitHub 增长最快的十个 AI 仓库：Vibe Coding 的「道法术器」哲学凭什么拿下 10 万星？
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881b5a4d7dc7375a518aa
-notion_url: https://www.notion.so/2106bd6ec6054a39ba4c8102583f5dbb
+notion_url: https://www.notion.so/Tizer/2106bd6ec6054a39ba4c8102583f5dbb
 notion_id: 2106bd6e-c605-4a39-ba4c-8102583f5dbb
 ---
 

@@ -2,14 +2,13 @@
 title: Farside Investors
 type: concept
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/13b4339136fc441ab467ac5ee6b0d8fb
+notion_url: https://www.notion.so/Tizer/13b4339136fc441ab467ac5ee6b0d8fb
 notion_id: 13b43391-36fc-441a-b467-ac5ee6b0d8fb
 ---
 

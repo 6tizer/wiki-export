@@ -1,15 +1,13 @@
 ---
 title: 摘要：扣子编程 CLI，对所有 Agent 全面开放
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b688116abe2f3b83eada25a
-notion_url: https://www.notion.so/79c75d340f7743e9b49f89be08104669
+notion_url: https://www.notion.so/Tizer/79c75d340f7743e9b49f89be08104669
 notion_id: 79c75d34-0f77-43e9-b49f-89be08104669
 ---
 

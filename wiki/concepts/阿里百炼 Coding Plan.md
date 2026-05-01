@@ -2,7 +2,6 @@
 title: 阿里百炼 Coding Plan
 type: concept
 tags:
-- 开发工具
 - 模型部署
 status: 审核中
 confidence: medium

@@ -2,8 +2,9 @@
 title: AI 暴露度
 type: concept
 tags:
+- AI 政策
 - 商业/生态
-- LLM
+- 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

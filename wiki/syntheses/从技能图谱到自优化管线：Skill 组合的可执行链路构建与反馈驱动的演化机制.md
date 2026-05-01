@@ -1,15 +1,13 @@
 ---
 title: 从技能图谱到自优化管线：Skill 组合的可执行链路构建与反馈驱动的演化机制
 type: synthesis
-tags:
-- Agent 技能
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2618ffe813c0491983a80205f5486279
+notion_url: https://www.notion.so/Tizer/2618ffe813c0491983a80205f5486279
 notion_id: 2618ffe8-13c0-4919-83a8-0205f5486279
 ---
 

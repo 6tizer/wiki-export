@@ -2,13 +2,15 @@
 title: 摘要：后端互通，Agent 才能协作｜对话 Taku 团队
 type: summary
 tags:
-- Agent 编排
+- Harness 工程
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, Multi-Agent, 行业观察
 source_article_url: ''
-notion_url: https://www.notion.so/597cf860797e419f94e4f2c9d5f0feb8
+notion_url: https://www.notion.so/Tizer/597cf860797e419f94e4f2c9d5f0feb8
 notion_id: 597cf860-797e-419f-94e4-f2c9d5f0feb8
 ---
 

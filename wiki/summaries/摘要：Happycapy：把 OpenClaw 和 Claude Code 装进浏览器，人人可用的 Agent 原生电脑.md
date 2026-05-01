@@ -2,14 +2,15 @@
 title: 摘要：Happycapy：把 OpenClaw 和 Claude Code 装进浏览器，人人可用的 Agent 原生电脑
 type: summary
 tags:
-- Agent 框架
-- Coding Agent
+- OpenClaw
+- 浏览器自动化
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881088ab5dfb72f0c0d71
-notion_url: https://www.notion.so/3aaa338c52234eec8ea07bb222e13038
+notion_url: https://www.notion.so/Tizer/3aaa338c52234eec8ea07bb222e13038
 notion_id: 3aaa338c-5223-4eec-8ea0-7bb222e13038
 ---
 

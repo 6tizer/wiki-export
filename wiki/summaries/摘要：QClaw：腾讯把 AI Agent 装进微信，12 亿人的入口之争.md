@@ -2,14 +2,15 @@
 title: 摘要：QClaw：腾讯把 AI Agent 装进微信，12 亿人的入口之争
 type: summary
 tags:
+- 商业/生态
+- AI 产品
 - OpenClaw
-- Agent 框架
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1eac0574f31440cc816e0917424cfdcf
+notion_url: https://www.notion.so/Tizer/1eac0574f31440cc816e0917424cfdcf
 notion_id: 1eac0574-f314-40cc-816e-0917424cfdcf
 ---
 

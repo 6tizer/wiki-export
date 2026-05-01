@@ -1,15 +1,13 @@
 ---
 title: Agent 技能安全治理的四层防线：从供应链审计到运行时信任隔离的攻防架构演进
 type: synthesis
-tags:
-- 安全/隐私
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/329670876af2451bb46f70f6e851871e
+notion_url: https://www.notion.so/Tizer/329670876af2451bb46f70f6e851871e
 notion_id: 32967087-6af2-451b-b46f-70f6e851871e
 ---
 

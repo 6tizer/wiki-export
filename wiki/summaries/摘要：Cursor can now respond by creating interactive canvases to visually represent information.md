@@ -2,15 +2,13 @@
 title: 摘要：Cursor can now respond by creating interactive canvases to visually represent
   information.
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881cd886edbc137dc5b10
-notion_url: https://www.notion.so/8363a8729a2d487c9361505f86aa317f
+notion_url: https://www.notion.so/Tizer/8363a8729a2d487c9361505f86aa317f
 notion_id: 8363a872-9a2d-487c-9361-505f86aa317f
 ---
 

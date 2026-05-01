@@ -2,15 +2,14 @@
 title: 摘要：self-improving-agent：让 AI 编程助手从错误中真正学习的 OpenClaw Skills
 type: summary
 tags:
-- Agent 技能
-- 记忆系统
+- 长期记忆
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b6881628cacc6b8f5cc5eea
-notion_url: https://www.notion.so/0c453b43074c4fe581c247d2859ba3f3
+notion_url: https://www.notion.so/Tizer/0c453b43074c4fe581c247d2859ba3f3
 notion_id: 0c453b43-074c-4fe5-81c2-47d2859ba3f3
 ---
 

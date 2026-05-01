@@ -2,8 +2,10 @@
 title: binance-Quant-Zero
 type: entity
 tags:
-- Crypto/DeFi
+- 加密资产
+- 量化交易
 - OpenClaw
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

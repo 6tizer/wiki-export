@@ -1,15 +1,13 @@
 ---
 title: 摘要：Claude 官方 Skills 仓库：11 万 Star 背后，AI Agent 的新工作方式
 type: summary
-tags:
-- Agent 技能
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化, skills, Claude
 source_article_url: https://www.notion.so/33d701074b68812da880e445c2630dec
-notion_url: https://www.notion.so/0555fc5bef74480b98cd5e85987c6a64
+notion_url: https://www.notion.so/Tizer/0555fc5bef74480b98cd5e85987c6a64
 notion_id: 0555fc5b-ef74-480b-98cd-5e85987c6a64
 ---
 

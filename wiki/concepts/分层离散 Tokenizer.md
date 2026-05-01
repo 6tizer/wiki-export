@@ -1,14 +1,13 @@
 ---
 title: 分层离散 Tokenizer
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7d31a550785a4fde9589c00fe7d92dda
+notion_url: https://www.notion.so/Tizer/7d31a550785a4fde9589c00fe7d92dda
 notion_id: 7d31a550-785a-4fde-9589-c00fe7d92dda
 ---
 

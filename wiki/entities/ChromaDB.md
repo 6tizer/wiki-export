@@ -1,15 +1,13 @@
 ---
 title: ChromaDB
 type: entity
-tags:
-- 开发工具
-- 记忆系统
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/392c64d3898640639c48b70699176c08
+notion_url: https://www.notion.so/Tizer/392c64d3898640639c48b70699176c08
 notion_id: 392c64d3-8986-4063-9c48-b70699176c08
 ---
 

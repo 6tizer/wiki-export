@@ -1,15 +1,13 @@
 ---
 title: 摘要：就一个 skills，凭啥 4w Star？
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881b5b014e701318ba587
-notion_url: https://www.notion.so/6dd5db0515d14e519c2ecbae077b3bea
+notion_url: https://www.notion.so/Tizer/6dd5db0515d14e519c2ecbae077b3bea
 notion_id: 6dd5db05-15d1-4e51-9c2e-cbae077b3bea
 ---
 

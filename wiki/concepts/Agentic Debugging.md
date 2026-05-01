@@ -1,14 +1,13 @@
 ---
 title: Agentic Debugging
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a5c5acf86dcc41fe8a613132b972d253
+notion_url: https://www.notion.so/Tizer/a5c5acf86dcc41fe8a613132b972d253
 notion_id: a5c5acf8-6dcc-41fe-8a61-3132b972d253
 ---
 

@@ -2,8 +2,9 @@
 title: Frida 密钥提取
 type: concept
 tags:
-- 安全/隐私
-- 开发工具
+- 加密资产
+- 知识管理
+- Agent 安全
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

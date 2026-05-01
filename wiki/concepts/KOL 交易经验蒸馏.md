@@ -1,15 +1,13 @@
 ---
 title: KOL 交易经验蒸馏
 type: concept
-tags:
-- Crypto/DeFi
-- 工作流
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2ca86d43042a4bd198769907c82fe13a
+notion_url: https://www.notion.so/Tizer/2ca86d43042a4bd198769907c82fe13a
 notion_id: 2ca86d43-042a-4bd1-9876-9907c82fe13a
 ---
 

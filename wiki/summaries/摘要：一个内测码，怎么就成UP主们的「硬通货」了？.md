@@ -2,13 +2,15 @@
 title: 摘要：一个内测码，怎么就成UP主们的「硬通货」了？
 type: summary
 tags:
-- 内容创作
+- 内容自动化
+- 上下文管理
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/a42f9ba7b8314661bbffce3d25d1c2ac
+notion_url: https://www.notion.so/Tizer/a42f9ba7b8314661bbffce3d25d1c2ac
 notion_id: a42f9ba7-b831-4661-bbff-ce3d25d1c2ac
 ---
 

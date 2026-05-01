@@ -1,15 +1,13 @@
 ---
 title: 摘要：Chat Bot 加一个循环，就进化成了 Agent
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688112b59edc29e3ba25b9
-notion_url: https://www.notion.so/6f728be8bd454d75b1b3a998e7e879d9
+notion_url: https://www.notion.so/Tizer/6f728be8bd454d75b1b3a998e7e879d9
 notion_id: 6f728be8-bd45-4d75-b1b3-a998e7e879d9
 ---
 

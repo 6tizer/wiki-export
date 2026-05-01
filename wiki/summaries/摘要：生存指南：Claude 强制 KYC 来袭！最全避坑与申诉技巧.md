@@ -2,14 +2,13 @@
 title: 摘要：生存指南：Claude 强制 KYC 来袭！最全避坑与申诉技巧
 type: summary
 tags:
-- 安全/隐私
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b688121ac4cd1cb86d0a236
-notion_url: https://www.notion.so/6842b10103e8487ab3f7088a120cc3e0
+notion_url: https://www.notion.so/Tizer/6842b10103e8487ab3f7088a120cc3e0
 notion_id: 6842b101-03e8-487a-b3f7-088a120cc3e0
 ---
 

@@ -3,13 +3,12 @@ title: GPU 租赁
 type: concept
 tags:
 - 商业/生态
-- 开发工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/06631efbcc164e79a2d7d3549c109963
+notion_url: https://www.notion.so/Tizer/06631efbcc164e79a2d7d3549c109963
 notion_id: 06631efb-cc16-4e79-a2d7-d3549c109963
 ---
 

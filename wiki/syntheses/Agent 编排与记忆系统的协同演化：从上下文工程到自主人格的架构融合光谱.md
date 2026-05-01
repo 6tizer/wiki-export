@@ -2,14 +2,16 @@
 title: Agent 编排与记忆系统的协同演化：从上下文工程到自主人格的架构融合光谱
 type: synthesis
 tags:
-- Agent 编排
-- 记忆系统
+- 多Agent协作
+- 上下文管理
+- 长期记忆
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4d83a484ab1f41ac81e31c52a1954e76
+notion_url: https://www.notion.so/Tizer/4d83a484ab1f41ac81e31c52a1954e76
 notion_id: 4d83a484-ab1f-41ac-81e3-1c52a1954e76
 ---
 

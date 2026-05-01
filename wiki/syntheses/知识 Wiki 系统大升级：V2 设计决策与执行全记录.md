@@ -3,12 +3,18 @@ title: 知识 Wiki 系统大升级：V2 设计决策与执行全记录
 type: synthesis
 tags:
 - 知识管理
+- OpenClaw
+- 商业/生态
+- Agent 安全
+- 多Agent协作
+- 上下文管理
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5b1488a84d2e4a94b725ca25369f61d5
+notion_url: https://www.notion.so/Tizer/5b1488a84d2e4a94b725ca25369f61d5
 notion_id: 5b1488a8-4d2e-4a94-b725-ca25369f61d5
 ---
 
@@ -246,7 +252,7 @@ notion_id: 5b1488a8-4d2e-4a94-b725-ca25369f61d5
 
 ## 决策七：Wiki Schema 全面重写
 
-将 Wiki Schema（规则文件） 从简单的属性定义升级为完整的系统宪法，新增：
+将 [Wiki Schema（规则文件）](index/Wiki Schema（规则文件）.md) 从简单的属性定义升级为完整的系统宪法，新增：
 
 - **条目类型定义**：summary / concept / entity / synthesis / qa / lint-report / index 七种类型的创建规则
 
@@ -262,7 +268,7 @@ notion_id: 5b1488a8-4d2e-4a94-b725-ca25369f61d5
 
 ## 决策八：系统工作流程图 V2 更新
 
-将 系统工作流程图 全面改写：
+将 [系统工作流程图](index/系统工作流程图.md) 全面改写：
 
 - 架构 mermaid 图：移除 Scheduler 和 Index Updater 节点，新增 entity（B7）节点
 
@@ -296,9 +302,9 @@ notion_id: 5b1488a8-4d2e-4a94-b725-ca25369f61d5
 
 ## 来源列表
 
-- Wiki Schema（规则文件）：系统宪法，标签+类型+流程的权威定义
+- [Wiki Schema（规则文件）](index/Wiki Schema（规则文件）.md)：系统宪法，标签+类型+流程的权威定义
 
-- 系统工作流程图：Agent 架构与自动化运行机制
+- [系统工作流程图](index/系统工作流程图.md)：Agent 架构与自动化运行机制
 
 - Untitled：编译器指令（含来源标签透传、entity 判断）
 

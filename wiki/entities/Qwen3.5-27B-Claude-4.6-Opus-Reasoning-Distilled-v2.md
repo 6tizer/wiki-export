@@ -2,7 +2,6 @@
 title: Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2
 type: entity
 tags:
-- LLM
 - 推理优化
 - 训练/微调
 status: 审核中
@@ -10,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/df6df1e9960e40f88451884ecc330f0e
+notion_url: https://www.notion.so/Tizer/df6df1e9960e40f88451884ecc330f0e
 notion_id: df6df1e9-960e-40f8-8451-884ecc330f0e
 ---
 

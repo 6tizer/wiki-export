@@ -2,13 +2,14 @@
 title: 摘要：AI Coding大有可为，但Vibe Coding还是先洗洗睡吧
 type: summary
 tags:
-- 开发工具
+- 代码生成
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Research
 source_article_url: ''
-notion_url: https://www.notion.so/900430201d7e47e89ecf5ebda34720ee
+notion_url: https://www.notion.so/Tizer/900430201d7e47e89ecf5ebda34720ee
 notion_id: 90043020-1d7e-47e8-9ecf-5ebda34720ee
 ---
 

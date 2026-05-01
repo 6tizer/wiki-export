@@ -2,7 +2,8 @@
 title: Binary RL
 type: concept
 tags:
-- LLM
+- Agent 协作模式
+- OpenClaw
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

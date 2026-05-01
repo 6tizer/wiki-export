@@ -2,8 +2,9 @@
 title: UEFN
 type: entity
 tags:
-- 开发工具
-- 内容创作
+- 商业/生态
+- 前端开发
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

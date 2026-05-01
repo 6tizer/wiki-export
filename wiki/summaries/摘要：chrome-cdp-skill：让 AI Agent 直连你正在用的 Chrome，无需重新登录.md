@@ -2,14 +2,15 @@
 title: 摘要：chrome-cdp-skill：让 AI Agent 直连你正在用的 Chrome，无需重新登录
 type: summary
 tags:
-- Agent 技能
-- Coding Agent
+- 浏览器自动化
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, Cursor, 自动化
 source_article_url: https://www.notion.so/335701074b6881e485e7c6ea42ebb25c
-notion_url: https://www.notion.so/d807c346e09c448595dfe7af7475d1f0
+notion_url: https://www.notion.so/Tizer/d807c346e09c448595dfe7af7475d1f0
 notion_id: d807c346-e09c-4485-95df-e7af7475d1f0
 ---
 

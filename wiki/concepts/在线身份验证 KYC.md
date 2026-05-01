@@ -2,7 +2,8 @@
 title: 在线身份验证 KYC
 type: concept
 tags:
-- 安全/隐私
+- 身份准入
+- AI 政策
 - 商业/生态
 status: 审核中
 confidence: high

@@ -1,15 +1,13 @@
 ---
 title: LLM 能力边界如何塑造 Agent 技能形态：从结构化工具调用到多模态自主操作的技能架构分层与演进路径
 type: synthesis
-tags:
-- Agent 技能
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/fb9c9c53e2a4499dbc7a0cb799592f68
+notion_url: https://www.notion.so/Tizer/fb9c9c53e2a4499dbc7a0cb799592f68
 notion_id: fb9c9c53-e2a4-499d-bc7a-0cb799592f68
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：everything-claude-code：把 Claude Code 调教成 AI 工程团队的完整配置系统
 type: summary
 tags:
-- Coding Agent
+- Agent 协作模式
+- MCP 协议
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b68814e927eee25d896fea1
-notion_url: https://www.notion.so/fa02694f5710433fb15e12a7772ede10
+notion_url: https://www.notion.so/Tizer/fa02694f5710433fb15e12a7772ede10
 notion_id: fa02694f-5710-433f-b15e-12a7772ede10
 ---
 

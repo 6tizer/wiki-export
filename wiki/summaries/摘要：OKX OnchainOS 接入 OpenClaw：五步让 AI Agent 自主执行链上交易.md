@@ -2,13 +2,15 @@
 title: 摘要：OKX OnchainOS 接入 OpenClaw：五步让 AI Agent 自主执行链上交易
 type: summary
 tags:
-- Crypto/DeFi
+- OpenClaw
+- MCP 协议
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/71da1fabc4ba4be1a6aaec057ec13c33
+notion_url: https://www.notion.so/Tizer/71da1fabc4ba4be1a6aaec057ec13c33
 notion_id: 71da1fab-c4ba-4be1-a6aa-ec057ec13c33
 ---
 
@@ -30,7 +32,7 @@ OKX OnchainOS 通过 Skills 和 MCP Server 让 AI Agent 以一行命令接入链
 
 ## 提取的概念
 
-[OKX OnchainOS](concepts/OKX OnchainOS.md) · [OpenClaw](entities/OpenClaw.md)
+[OKX OnchainOS](entities/OKX OnchainOS.md) · [OpenClaw](entities/OpenClaw.md)
 
 ## 原始文章信息
 

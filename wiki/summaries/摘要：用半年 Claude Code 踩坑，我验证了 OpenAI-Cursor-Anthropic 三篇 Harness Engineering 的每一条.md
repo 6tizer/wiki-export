@@ -1,15 +1,13 @@
 ---
 title: 摘要：用半年 Claude Code 踩坑，我验证了 OpenAI/Cursor/Anthropic 三篇 Harness Engineering 的每一条
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, Cursor, 自动化
 source_article_url: https://www.notion.so/33e701074b688191b796ffbe91ac8eb5
-notion_url: https://www.notion.so/76f65ce3369942d0a95bad662687276e
+notion_url: https://www.notion.so/Tizer/76f65ce3369942d0a95bad662687276e
 notion_id: 76f65ce3-3699-42d0-a95b-ad662687276e
 ---
 

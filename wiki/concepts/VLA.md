@@ -1,14 +1,13 @@
 ---
 title: VLA
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/627c9084444b4c1d899c7a994f8bfe9d
+notion_url: https://www.notion.so/Tizer/627c9084444b4c1d899c7a994f8bfe9d
 notion_id: 627c9084-444b-4c1d-899c-7a994f8bfe9d
 ---
 

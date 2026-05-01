@@ -2,14 +2,13 @@
 title: 摘要：拿到「热门开源代码」，先掌握 7 个学习思路（附 SOLO 实战）
 type: summary
 tags:
-- 开发工具
-- 工作流
+- 提示工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/f98fe6d86f7d4270b2bef1c6a23d4da5
+notion_url: https://www.notion.so/Tizer/f98fe6d86f7d4270b2bef1c6a23d4da5
 notion_id: f98fe6d8-6f7d-4270-b2be-f1c6a23d4da5
 ---
 

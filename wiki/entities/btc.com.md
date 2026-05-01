@@ -1,15 +1,13 @@
 ---
 title: btc.com
 type: entity
-tags:
-- Crypto/DeFi
-- 开发工具
+tags: []
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/096a27eaace6498299e5fd658a440698
+notion_url: https://www.notion.so/Tizer/096a27eaace6498299e5fd658a440698
 notion_id: 096a27ea-ace6-4982-99e5-fd658a440698
 ---
 

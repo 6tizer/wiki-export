@@ -1,15 +1,13 @@
 ---
 title: Brand Foundation
 type: concept
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/fbec5059c8004b25afcc452689d0d14a
+notion_url: https://www.notion.so/Tizer/fbec5059c8004b25afcc452689d0d14a
 notion_id: fbec5059-c800-4b25-afcc-452689d0d14a
 ---
 

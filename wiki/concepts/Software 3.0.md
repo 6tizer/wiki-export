@@ -2,8 +2,9 @@
 title: Software 3.0
 type: concept
 tags:
-- 代码生成
-- Harness 工程
+- AI 设计
+- Agent 协作模式
+- 提示工程
 status: 草稿
 confidence: medium
 last_compiled: '2026-05-01'

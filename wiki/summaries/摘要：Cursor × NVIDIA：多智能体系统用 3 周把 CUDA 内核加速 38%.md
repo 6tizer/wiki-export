@@ -1,15 +1,13 @@
 ---
 title: 摘要：Cursor × NVIDIA：多智能体系统用 3 周把 CUDA 内核加速 38%
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: Agent, Multi-Agent, Cursor, 自动化
 source_article_url: https://www.notion.so/343701074b6881ff864fc1c8d84c8f13
-notion_url: https://www.notion.so/2c9ffa63929f41d1887cdbe642fcbb92
+notion_url: https://www.notion.so/Tizer/2c9ffa63929f41d1887cdbe642fcbb92
 notion_id: 2c9ffa63-929f-41d1-887c-dbe642fcbb92
 ---
 

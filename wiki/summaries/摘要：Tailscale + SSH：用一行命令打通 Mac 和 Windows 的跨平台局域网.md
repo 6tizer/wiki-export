@@ -2,13 +2,15 @@
 title: 摘要：Tailscale + SSH：用一行命令打通 Mac 和 Windows 的跨平台局域网
 type: summary
 tags:
-- 开发工具
+- 算力基础设施
+- CLI 工具
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: 开发者工具, 网络加速
 source_article_url: ''
-notion_url: https://www.notion.so/38acdb9f572c47cc9718568b7f236b74
+notion_url: https://www.notion.so/Tizer/38acdb9f572c47cc9718568b7f236b74
 notion_id: 38acdb9f-572c-47cc-9718-568b7f236b74
 ---
 

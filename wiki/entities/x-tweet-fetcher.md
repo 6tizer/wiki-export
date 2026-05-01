@@ -4,7 +4,6 @@ type: entity
 tags:
 - OpenClaw
 - 社交媒体
-- Agent 技能
 - 浏览器自动化
 status: 审核中
 confidence: medium

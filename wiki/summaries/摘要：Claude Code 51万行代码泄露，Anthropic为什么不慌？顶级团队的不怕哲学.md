@@ -2,13 +2,15 @@
 title: 摘要：Claude Code 51万行代码泄露，Anthropic为什么不慌？顶级团队的"不怕"哲学
 type: summary
 tags:
-- 开发工具
+- OpenClaw
+- 长期记忆
+- AI 设计
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Claude Code, 安全/隐私, 行业观察
 source_article_url: ''
-notion_url: https://www.notion.so/492b97e8b2af44fc8835e07126293db1
+notion_url: https://www.notion.so/Tizer/492b97e8b2af44fc8835e07126293db1
 notion_id: 492b97e8-b2af-44fc-8835-e07126293db1
 ---
 

@@ -2,14 +2,15 @@
 title: Memory Parallel
 type: concept
 tags:
-- LLM
-- 记忆系统
+- 推理优化
+- 长期记忆
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c5ef44efe03943029cb943dd203f10f1
+notion_url: https://www.notion.so/Tizer/c5ef44efe03943029cb943dd203f10f1
 notion_id: c5ef44ef-e039-4302-9cb9-43dd203f10f1
 ---
 

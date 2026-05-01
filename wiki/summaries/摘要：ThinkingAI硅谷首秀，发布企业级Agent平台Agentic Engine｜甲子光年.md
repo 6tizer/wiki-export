@@ -2,14 +2,13 @@
 title: 摘要：ThinkingAI硅谷首秀，发布企业级Agent平台Agentic Engine｜甲子光年
 type: summary
 tags:
-- Agent 框架
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b68810ca8d6cb87ff6890de
-notion_url: https://www.notion.so/d7c85d5ef34a4415a80397ae31159356
+notion_url: https://www.notion.so/Tizer/d7c85d5ef34a4415a80397ae31159356
 notion_id: d7c85d5e-f34a-4415-a803-97ae31159356
 ---
 

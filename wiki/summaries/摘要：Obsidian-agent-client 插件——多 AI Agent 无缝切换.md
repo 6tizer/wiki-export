@@ -2,14 +2,14 @@
 title: 摘要：Obsidian-agent-client 插件——多 AI Agent 无缝切换
 type: summary
 tags:
-- 知识管理
-- 开发工具
+- 多Agent协作
+- 笔记工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/b1c71476721b415ab2983b52c583fc63
+notion_url: https://www.notion.so/Tizer/b1c71476721b415ab2983b52c583fc63
 notion_id: b1c71476-721b-415a-b298-3b52c583fc63
 ---
 

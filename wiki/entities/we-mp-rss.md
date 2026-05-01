@@ -3,13 +3,12 @@ title: we-mp-rss
 type: entity
 tags:
 - 知识管理
-- 开发工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/764f9c3a2fae415a8b0dee8ec31a6576
+notion_url: https://www.notion.so/Tizer/764f9c3a2fae415a8b0dee8ec31a6576
 notion_id: 764f9c3a-2fae-415a-8b0d-ee8ec31a6576
 ---
 

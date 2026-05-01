@@ -2,8 +2,9 @@
 title: Memory-Layered Context
 type: concept
 tags:
-- 记忆系统
-- Agent 编排
+- 上下文管理
+- 长期记忆
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

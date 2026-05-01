@@ -1,15 +1,13 @@
 ---
 title: 摘要：Worklanes, not just tabs.
 type: summary
-tags:
-- LLM
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881b6a1f2ff28ac67036b
-notion_url: https://www.notion.so/02508b23d7bc4907b720bd4c0a1475c3
+notion_url: https://www.notion.so/Tizer/02508b23d7bc4907b720bd4c0a1475c3
 notion_id: 02508b23-d7bc-4907-b720-bd4c0a1475c3
 ---
 

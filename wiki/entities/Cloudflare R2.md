@@ -1,15 +1,13 @@
 ---
 title: Cloudflare R2
 type: entity
-tags:
-- 开发工具
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/61a8d40283b545aba3befe47bfa127ab
+notion_url: https://www.notion.so/Tizer/61a8d40283b545aba3befe47bfa127ab
 notion_id: 61a8d402-83b5-45ab-a3be-fe47bfa127ab
 ---
 

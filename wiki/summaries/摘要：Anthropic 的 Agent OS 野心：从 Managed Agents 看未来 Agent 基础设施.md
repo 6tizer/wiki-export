@@ -2,14 +2,13 @@
 title: 摘要：Anthropic 的 Agent OS 野心：从 Managed Agents 看未来 Agent 基础设施
 type: summary
 tags:
-- Agent 编排
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33e701074b68818ebc37d06dc39a4fd0
-notion_url: https://www.notion.so/b6d5a03e55bc4538a9bed129dfe4ffba
+notion_url: https://www.notion.so/Tizer/b6d5a03e55bc4538a9bed129dfe4ffba
 notion_id: b6d5a03e-55bc-4538-a9be-d129dfe4ffba
 ---
 

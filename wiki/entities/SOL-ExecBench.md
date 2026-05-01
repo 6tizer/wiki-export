@@ -1,14 +1,13 @@
 ---
 title: SOL-ExecBench
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b56dd16ef2984be59e49ccff8695aeed
+notion_url: https://www.notion.so/Tizer/b56dd16ef2984be59e49ccff8695aeed
 notion_id: b56dd16e-f298-4be5-9e49-ccff8695aeed
 ---
 

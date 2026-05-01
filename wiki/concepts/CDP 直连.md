@@ -2,14 +2,14 @@
 title: CDP 直连
 type: concept
 tags:
-- 开发工具
-- Agent 技能
+- 浏览器自动化
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3165c25130f84868a8851a34a04569bd
+notion_url: https://www.notion.so/Tizer/3165c25130f84868a8851a34a04569bd
 notion_id: 3165c251-30f8-4868-a885-1a34a04569bd
 ---
 

@@ -2,14 +2,15 @@
 title: 摘要：MiroFish：用千万智能体模拟未来的开源预测引擎
 type: summary
 tags:
-- Agent 编排
-- LLM
+- Agent 协作模式
+- 多Agent协作
+- RAG/检索
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/75a48b015c9f44329126ab7840fdcc06
+notion_url: https://www.notion.so/Tizer/75a48b015c9f44329126ab7840fdcc06
 notion_id: 75a48b01-5c9f-4432-9126-ab7840fdcc06
 ---
 

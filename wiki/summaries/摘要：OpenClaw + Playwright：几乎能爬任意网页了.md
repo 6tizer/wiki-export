@@ -1,14 +1,13 @@
 ---
 title: 摘要：OpenClaw + Playwright：几乎能爬任意网页了
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/a14aee9fc930486f9040cedaf8e5339a
+notion_url: https://www.notion.so/Tizer/a14aee9fc930486f9040cedaf8e5339a
 notion_id: a14aee9f-c930-486f-9040-cedaf8e5339a
 ---
 

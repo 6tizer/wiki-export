@@ -2,14 +2,15 @@
 title: 摘要：扒完 Claude Code 源码里的记忆系统，我重新审视了 OpenClaw 的设计
 type: summary
 tags:
+- 知识管理
+- 长期记忆
 - OpenClaw
-- 记忆系统
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Claude Code, OpenClaw, RAG/Memory, 深度分析
 source_article_url: ''
-notion_url: https://www.notion.so/a9fafa3f9c0346d0af34f2a30199d976
+notion_url: https://www.notion.so/Tizer/a9fafa3f9c0346d0af34f2a30199d976
 notion_id: a9fafa3f-9c03-46d0-af34-f2a30199d976
 ---
 

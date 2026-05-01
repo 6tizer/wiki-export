@@ -1,15 +1,13 @@
 ---
 title: 摘要：Sign in with ChatGPT
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68818fb2cecdb2e0ab92af
-notion_url: https://www.notion.so/c788d364e7ee4c4ca258e724f6bdfab2
+notion_url: https://www.notion.so/Tizer/c788d364e7ee4c4ca258e724f6bdfab2
 notion_id: c788d364-e7ee-4c4c-a258-e724f6bdfab2
 ---
 

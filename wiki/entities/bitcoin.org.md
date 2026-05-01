@@ -2,14 +2,13 @@
 title: bitcoin.org
 type: entity
 tags:
-- Crypto/DeFi
 - 知识管理
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ba5cc9a221804ca385d3f408e82585bd
+notion_url: https://www.notion.so/Tizer/ba5cc9a221804ca385d3f408e82585bd
 notion_id: ba5cc9a2-2180-4ca3-85d3-f408e82585bd
 ---
 

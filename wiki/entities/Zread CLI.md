@@ -3,14 +3,14 @@ title: Zread CLI
 type: entity
 tags:
 - CLI 工具
+- OpenClaw
 - 知识管理
-- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/bae6aba8b72741a486b6b30c630a4d89
+notion_url: https://www.notion.so/Tizer/bae6aba8b72741a486b6b30c630a4d89
 notion_id: bae6aba8-b727-41a4-86b6-b30c630a4d89
 ---
 

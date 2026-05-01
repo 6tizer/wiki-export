@@ -2,14 +2,15 @@
 title: 摘要：Gemma 4 全系列在 M5 Max 本地运行测评
 type: summary
 tags:
-- LLM
-- 开发工具
+- 模型评测
+- 模型部署
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/0d36b6d7da874591ac4ecde1709ce83f
+notion_url: https://www.notion.so/Tizer/0d36b6d7da874591ac4ecde1709ce83f
 notion_id: 0d36b6d7-da87-4591-ac4e-cde1709ce83f
 ---
 

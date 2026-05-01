@@ -2,13 +2,14 @@
 title: 摘要：豆包语音输入法 Mac 内测版：字节的「系统级入口」终于攻上桌面端
 type: summary
 tags:
-- 开发工具
+- OpenClaw
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/a626f4f9dd454694831c86d8ae2b41d8
+notion_url: https://www.notion.so/Tizer/a626f4f9dd454694831c86d8ae2b41d8
 notion_id: a626f4f9-dd45-4694-831c-86d8ae2b41d8
 ---
 

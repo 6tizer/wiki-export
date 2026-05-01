@@ -2,13 +2,15 @@
 title: 摘要：一篇教你从0搭建中转站！超高性价比 token 自由，爽用 GPT-5.4
 type: summary
 tags:
+- 商业/生态
+- CLI 工具
 - OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: API/中转, 教程/实战, 成本优化
 source_article_url: ''
-notion_url: https://www.notion.so/0e311d5aff6f4adaa3b45b84f61eb820
+notion_url: https://www.notion.so/Tizer/0e311d5aff6f4adaa3b45b84f61eb820
 notion_id: 0e311d5a-ff6f-4ada-a3b4-5b84f61eb820
 ---
 

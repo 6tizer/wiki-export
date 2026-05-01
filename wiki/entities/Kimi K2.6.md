@@ -3,15 +3,13 @@ title: Kimi K2.6
 type: entity
 tags:
 - 代码生成
-- LLM
-- 开发工具
 - AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/531518c2ee794184b4d3cb11b26fbc3e
+notion_url: https://www.notion.so/Tizer/531518c2ee794184b4d3cb11b26fbc3e
 notion_id: 531518c2-ee79-4184-b4d3-cb11b26fbc3e
 ---
 

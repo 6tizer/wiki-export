@@ -2,14 +2,13 @@
 title: 摘要：Donut 交易员红宝书：14位币圈顶流的真实交易逻辑全解析
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: Crypto, 交易, 交易策略
 source_article_url: https://www.notion.so/335701074b6881f8b2f9ffb1fc2672a9
-notion_url: https://www.notion.so/e7209b8548914339b66ba08df9bf9a44
+notion_url: https://www.notion.so/Tizer/e7209b8548914339b66ba08df9bf9a44
 notion_id: e7209b85-4891-4339-b66b-a08df9bf9a44
 ---
 

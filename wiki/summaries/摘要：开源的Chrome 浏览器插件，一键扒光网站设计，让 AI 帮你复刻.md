@@ -1,15 +1,13 @@
 ---
 title: 摘要：开源的Chrome 浏览器插件，一键扒光网站设计，让 AI 帮你复刻
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688130ac75fa1a31ec347a
-notion_url: https://www.notion.so/71fe6f9968dd445280cc4234f88766df
+notion_url: https://www.notion.so/Tizer/71fe6f9968dd445280cc4234f88766df
 notion_id: 71fe6f99-68dd-4452-80cc-4234f88766df
 ---
 

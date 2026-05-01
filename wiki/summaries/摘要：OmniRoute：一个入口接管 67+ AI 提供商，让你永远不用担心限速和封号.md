@@ -2,14 +2,15 @@
 title: 摘要：OmniRoute：一个入口接管 67+ AI 提供商，让你永远不用担心限速和封号
 type: summary
 tags:
-- LLM
-- 开发工具
+- 商业/生态
+- 模型部署
+- 算力基础设施
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Cursor, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/72a8460ab1934dec8cf392c8a796f2d6
+notion_url: https://www.notion.so/Tizer/72a8460ab1934dec8cf392c8a796f2d6
 notion_id: 72a8460a-b193-4dec-8cf3-92c8a796f2d6
 ---
 

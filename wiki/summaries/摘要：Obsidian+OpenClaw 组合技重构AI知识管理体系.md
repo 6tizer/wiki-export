@@ -2,14 +2,15 @@
 title: 摘要：Obsidian+OpenClaw 组合技重构AI知识管理体系
 type: summary
 tags:
-- OpenClaw
 - 知识管理
+- 笔记工具
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/05bacee5d0814cc29520235bb1af0162
+notion_url: https://www.notion.so/Tizer/05bacee5d0814cc29520235bb1af0162
 notion_id: 05bacee5-d081-4cc2-9520-235bb1af0162
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: Open-Multi-Agent
 type: entity
-tags:
-- Agent 编排
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/242c4a4c41394fea861181347070bc6e
+notion_url: https://www.notion.so/Tizer/242c4a4c41394fea861181347070bc6e
 notion_id: 242c4a4c-4139-4fea-8611-81347070bc6e
 ---
 

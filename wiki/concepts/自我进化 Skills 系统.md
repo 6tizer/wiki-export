@@ -1,15 +1,13 @@
 ---
 title: 自我进化 Skills 系统
 type: concept
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d6e1a91f9b744a07b2362866698054f0
+notion_url: https://www.notion.so/Tizer/d6e1a91f9b744a07b2362866698054f0
 notion_id: d6e1a91f-9b74-4a07-b236-2866698054f0
 ---
 

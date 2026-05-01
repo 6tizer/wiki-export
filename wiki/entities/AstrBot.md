@@ -1,14 +1,13 @@
 ---
 title: AstrBot
 type: entity
-tags:
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/aa57e5df73d24f18b80eac9139323257
+notion_url: https://www.notion.so/Tizer/aa57e5df73d24f18b80eac9139323257
 notion_id: aa57e5df-73d2-4f18-b80e-ac9139323257
 ---
 

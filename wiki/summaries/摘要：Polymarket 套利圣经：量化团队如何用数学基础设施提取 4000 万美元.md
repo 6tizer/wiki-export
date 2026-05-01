@@ -1,14 +1,13 @@
 ---
 title: 摘要：Polymarket 套利圣经：量化团队如何用数学基础设施提取 4000 万美元
 type: summary
-tags:
-- Crypto/DeFi
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/959ea6ec52684792b6a4a595155e029b
+notion_url: https://www.notion.so/Tizer/959ea6ec52684792b6a4a595155e029b
 notion_id: 959ea6ec-5268-4792-b6a4-a595155e029b
 ---
 

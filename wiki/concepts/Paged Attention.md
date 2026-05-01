@@ -2,8 +2,9 @@
 title: Paged Attention
 type: concept
 tags:
-- LLM
 - 推理优化
+- 上下文管理
+- 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

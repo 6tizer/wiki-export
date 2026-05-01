@@ -1,15 +1,13 @@
 ---
 title: 摘要：OpenSpace：让 AI Agent 从「会做事」进化到「会学习」的开源引擎
 type: summary
-tags:
-- Agent 技能
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: https://www.notion.so/336701074b6881e9b09dd488bdea3e35
-notion_url: https://www.notion.so/887934fbb75a46b5ab1ed219760ba08c
+notion_url: https://www.notion.so/Tizer/887934fbb75a46b5ab1ed219760ba08c
 notion_id: 887934fb-b75a-46b5-ab1e-d219760ba08c
 ---
 

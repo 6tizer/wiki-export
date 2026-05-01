@@ -2,14 +2,13 @@
 title: 摘要：AI Search Hub：一次提问，同时调用 7 个 AI 搜索引擎
 type: summary
 tags:
-- Agent 技能
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b6881679fc2e1716aab4870
-notion_url: https://www.notion.so/15c901efd565442fbe00ab60bf604812
+notion_url: https://www.notion.so/Tizer/15c901efd565442fbe00ab60bf604812
 notion_id: 15c901ef-d565-442f-be00-ab60bf604812
 ---
 

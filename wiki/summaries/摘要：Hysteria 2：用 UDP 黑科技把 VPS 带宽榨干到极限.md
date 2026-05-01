@@ -1,15 +1,13 @@
 ---
 title: 摘要：Hysteria 2：用 UDP 黑科技把 VPS 带宽榨干到极限
 type: summary
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: VPS, Hysteria2/HY2, 代理协议, 网络加速, UDP
 source_article_url: https://www.notion.so/33e701074b6881779dbcd06783b5a85b
-notion_url: https://www.notion.so/dcfeb7b2f5834e909d00ccf44f7c8f2a
+notion_url: https://www.notion.so/Tizer/dcfeb7b2f5834e909d00ccf44f7c8f2a
 notion_id: dcfeb7b2-f583-4e90-9d00-ccf44f7c8f2a
 ---
 

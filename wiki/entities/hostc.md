@@ -1,14 +1,13 @@
 ---
 title: hostc
 type: entity
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/044c79ae2cff4355a551da3454882590
+notion_url: https://www.notion.so/Tizer/044c79ae2cff4355a551da3454882590
 notion_id: 044c79ae-2cff-4355-a551-da3454882590
 ---
 

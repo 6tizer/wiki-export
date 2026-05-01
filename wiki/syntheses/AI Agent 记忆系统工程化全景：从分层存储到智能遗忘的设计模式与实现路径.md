@@ -2,13 +2,15 @@
 title: AI Agent 记忆系统工程化全景：从分层存储到智能遗忘的设计模式与实现路径
 type: synthesis
 tags:
-- 记忆系统
+- 长期记忆
+- 上下文管理
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0406b30a4be74302b52b83fc7d53ea93
+notion_url: https://www.notion.so/Tizer/0406b30a4be74302b52b83fc7d53ea93
 notion_id: 0406b30a-4be7-4302-b52b-83fc7d53ea93
 ---
 
@@ -138,11 +140,11 @@ AI-Native Memory 将记忆参数化为「记忆小球」、记忆整合主动发
 
 ### 概念词条
 
-[记忆分层架构](concepts/记忆分层架构.md) · [记忆操作系统](concepts/记忆操作系统.md) · [L0/L1/L2 分层加载](concepts/L0-L1-L2 分层加载.md) · [AI-Native Memory](concepts/AI-Native Memory.md) · [Auto Memory](concepts/Auto Memory.md) · [Auto Dream](concepts/Auto Dream.md) · [智能遗忘](concepts/智能遗忘.md) · [Weibull 遗忘曲线](concepts/Weibull 遗忘曲线.md) · [Context Compaction](concepts/Context Compaction.md) · [Context Rot](concepts/Context Rot.md) · [LLM 重排序](concepts/LLM 重排序.md) · [Smart Extraction](concepts/Smart Extraction.md) · [记忆整合](concepts/记忆整合.md) · [记忆技术债](concepts/记忆技术债.md) · [Memory Folder](concepts/Memory Folder.md) · [pgvector](concepts/pgvector.md) · [Zep Cloud](entities/Zep Cloud.md) · [LanceDB](concepts/LanceDB.md) · [cognitive-memory](entities/cognitive-memory.md) · [memU](entities/memU.md) · [Compaction](concepts/Compaction.md) · [混合检索](concepts/混合检索.md) · [自我进化 Agent](concepts/自我进化 Agent.md) · [RAG](concepts/RAG.md) · [viking://](concepts/viking---.md) · [Agent 上下文数据库](concepts/Agent 上下文数据库.md) · [编译真相+时间线模式](concepts/编译真相+时间线模式.md) · [GBrain](entities/GBrain.md) · [Claude Subconscious](entities/Claude Subconscious.md) · [Claude Code Memory](concepts/Claude Code Memory.md) · [mcp-memory-service](entities/mcp-memory-service.md) · [Dreaming 记忆机制](concepts/Dreaming 记忆机制.md) · [MEMORY.md](concepts/MEMORY.md.md) · [daily memory](concepts/daily memory.md) · [梦境思考](concepts/梦境思考.md) · [记忆热插拔](concepts/记忆热插拔.md) · [total-recall](concepts/total-recall.md) · [mem9](entities/mem9.md) · [memory-lancedb-pro](concepts/memory-lancedb-pro.md) · [OpenClaw Context Engine](entities/OpenClaw Context Engine.md) · OpenClaw Dreaming（睡眠记忆机制） · [claude-mem](entities/claude-mem.md) · [存在姿态三角形](concepts/存在姿态三角形.md) · [自生长人格](concepts/自生长人格.md) · [Context Agent](concepts/Context Agent.md) · [Agentic Navigation](concepts/Agentic Navigation.md) · [技能注入](concepts/技能注入.md) · [Git 作为 Agent 记忆](concepts/Git 作为 Agent 记忆.md)
+[记忆分层架构](concepts/记忆分层架构.md) · [记忆操作系统](concepts/记忆操作系统.md) · [L0/L1/L2 分层加载](concepts/L0-L1-L2 分层加载.md) · [AI-Native Memory](concepts/AI-Native Memory.md) · [Auto Memory](concepts/Auto Memory.md) · [Auto Dream](concepts/Auto Dream.md) · [智能遗忘](concepts/智能遗忘.md) · [Weibull 遗忘曲线](concepts/Weibull 遗忘曲线.md) · [Context Compaction](concepts/Context Compaction.md) · [Context Rot](concepts/Context Rot.md) · [LLM 重排序](concepts/LLM 重排序.md) · [Smart Extraction](concepts/Smart Extraction.md) · [记忆整合](concepts/记忆整合.md) · [记忆技术债](concepts/记忆技术债.md) · [Memory Folder](concepts/Memory Folder.md) · [pgvector](concepts/pgvector.md) · [Zep Cloud](entities/Zep Cloud.md) · [LanceDB](entities/LanceDB.md) · [cognitive-memory](entities/cognitive-memory.md) · [memU](entities/memU.md) · [Compaction](concepts/Compaction.md) · [混合检索](concepts/混合检索.md) · [自我进化 Agent](concepts/自我进化 Agent.md) · [RAG](concepts/RAG.md) · [viking://](concepts/viking---.md) · [Agent 上下文数据库](concepts/Agent 上下文数据库.md) · [编译真相+时间线模式](concepts/编译真相+时间线模式.md) · [GBrain](entities/GBrain.md) · [Claude Subconscious](entities/Claude Subconscious.md) · [Claude Code Memory](concepts/Claude Code Memory.md) · [mcp-memory-service](entities/mcp-memory-service.md) · [Dreaming 记忆机制](concepts/Dreaming 记忆机制.md) · [MEMORY.md](concepts/MEMORY.md.md) · [daily memory](concepts/daily memory.md) · [梦境思考](concepts/梦境思考.md) · [记忆热插拔](concepts/记忆热插拔.md) · [total-recall](entities/total-recall.md) · [mem9](entities/mem9.md) · [memory-lancedb-pro](entities/memory-lancedb-pro.md) · [OpenClaw Context Engine](entities/OpenClaw Context Engine.md) · OpenClaw Dreaming（睡眠记忆机制） · [claude-mem](entities/claude-mem.md) · [存在姿态三角形](concepts/存在姿态三角形.md) · [自生长人格](concepts/自生长人格.md) · [Context Agent](concepts/Context Agent.md) · [Agentic Navigation](concepts/Agentic Navigation.md) · [技能注入](concepts/技能注入.md) · [Git 作为 Agent 记忆](concepts/Git 作为 Agent 记忆.md)
 
 ### 摘要词条
 
-[摘要：Agent 记忆五款开源框架横评与选型指南](summaries/摘要：Agent 记忆五款开源框架横评与选型指南.md) · [摘要：OpenClaw 长期记忆方案——三层架构 + memU 自动化](summaries/摘要：OpenClaw 长期记忆方案——三层架构 + memU 自动化.md) · [摘要：Claude Code Memory 记忆功能](summaries/摘要：Claude Code Memory 记忆功能.md) · [摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源](summaries/摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源.md) · [摘要：Claude Code悄悄学会了做梦。](summaries/摘要：Claude Code悄悄学会了做梦。.md) · [摘要：OpenViking：字节火山引擎开源的 AI Agent 上下文数据库](summaries/摘要：OpenViking：字节火山引擎开源的 AI Agent 上下文数据库.md) · [摘要：脑子是个好东西：为龙虾和 CC 加装外脑之后，这俩货要上天了](summaries/摘要：脑子是个好东西：为龙虾和 CC 加装外脑之后，这俩货要上天了.md) · [摘要：MemOS：给 OpenClaw Agent 装上真正的长期记忆系统](summaries/摘要：MemOS：给 OpenClaw Agent 装上真正的长期记忆系统.md) · [摘要：最强大脑组合！全球SOTA的逻辑和记忆CodeBrain-1&MemBrain1.5同时开源](summaries/摘要：最强大脑组合！全球SOTA的逻辑和记忆CodeBrain-1&MemBrain1.5同时开源.md) · [摘要：太抽象了，Alice 都来了。（MemPalace记忆系统）](summaries/摘要：太抽象了，Alice 都来了。（MemPalace记忆系统）.md) · 摘要：10,000+ markdown files
+[摘要：Agent 记忆五款开源框架横评与选型指南](summaries/摘要：Agent 记忆五款开源框架横评与选型指南.md) · [摘要：OpenClaw 长期记忆方案——三层架构 + memU 自动化](summaries/摘要：OpenClaw 长期记忆方案——三层架构 + memU 自动化.md) · [摘要：Claude Code Memory 记忆功能](summaries/摘要：Claude Code Memory 记忆功能.md) · [摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源](summaries/摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源.md) · [摘要：Claude Code悄悄学会了做梦。](summaries/摘要：Claude Code悄悄学会了做梦。.md) · [摘要：OpenViking：字节火山引擎开源的 AI Agent 上下文数据库](summaries/摘要：OpenViking：字节火山引擎开源的 AI Agent 上下文数据库.md) · [摘要：脑子是个好东西：为龙虾和 CC 加装外脑之后，这俩货要上天了](summaries/摘要：脑子是个好东西：为龙虾和 CC 加装外脑之后，这俩货要上天了.md) · [摘要：MemOS：给 OpenClaw Agent 装上真正的长期记忆系统](summaries/摘要：MemOS：给 OpenClaw Agent 装上真正的长期记忆系统.md) · [摘要：最强大脑组合！全球SOTA的逻辑和记忆CodeBrain-1&MemBrain1.5同时开源](summaries/摘要：最强大脑组合！全球SOTA的逻辑和记忆CodeBrain-1&MemBrain1.5同时开源.md) · 摘要：太抽象了，Alice 都来了。（MemPalace记忆系统） · 摘要：10,000+ markdown files
 
 ## 行动建议
 

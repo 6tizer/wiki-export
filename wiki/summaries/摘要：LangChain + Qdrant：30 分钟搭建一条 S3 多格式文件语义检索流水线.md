@@ -2,13 +2,14 @@
 title: 摘要：LangChain + Qdrant：30 分钟搭建一条 S3 多格式文件语义检索流水线
 type: summary
 tags:
-- LLM
+- RAG/检索
+- 多模态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/54c1f200c28b4fcabc9278628c82a40a
+notion_url: https://www.notion.so/Tizer/54c1f200c28b4fcabc9278628c82a40a
 notion_id: 54c1f200-c28b-4fca-bc92-78628c82a40a
 ---
 

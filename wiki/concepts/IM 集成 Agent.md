@@ -2,14 +2,13 @@
 title: IM 集成 Agent
 type: concept
 tags:
-- Agent 编排
 - OpenClaw
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6b39e7de337c4884848d3f90b584d684
+notion_url: https://www.notion.so/Tizer/6b39e7de337c4884848d3f90b584d684
 notion_id: 6b39e7de-337c-4884-848d-3f90b584d684
 ---
 

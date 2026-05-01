@@ -2,14 +2,15 @@
 title: 摘要：下载到本地的 Claude Code 源码，用这个 CLI 工具解读太香了
 type: summary
 tags:
-- Coding Agent
-- 开发工具
+- CLI 工具
+- OpenClaw
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/ce6547d4712641939f38e459f5e86de5
+notion_url: https://www.notion.so/Tizer/ce6547d4712641939f38e459f5e86de5
 notion_id: ce6547d4-7126-4193-9f38-e459f5e86de5
 ---
 

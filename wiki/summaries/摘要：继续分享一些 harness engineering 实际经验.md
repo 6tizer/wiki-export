@@ -1,15 +1,13 @@
 ---
 title: 摘要：继续分享一些 harness engineering 实际经验
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881408152d597c74567b1
-notion_url: https://www.notion.so/06f2613c27474aff8851b4c0d551b901
+notion_url: https://www.notion.so/Tizer/06f2613c27474aff8851b4c0d551b901
 notion_id: 06f2613c-2747-4aff-8851-b4c0d551b901
 ---
 

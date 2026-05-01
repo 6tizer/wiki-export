@@ -1,15 +1,13 @@
 ---
 title: 摘要：3个月，从BettaFish开源项目爆火到获三千万投资，我亲历了Vibe Coding带来的超级个体时代
 type: summary
-tags:
-- 开发工具
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e1689276a5ce406087ca8c7f7b4b8808
+notion_url: https://www.notion.so/Tizer/e1689276a5ce406087ca8c7f7b4b8808
 notion_id: e1689276-a5ce-4060-87ca-8c7f7b4b8808
 ---
 

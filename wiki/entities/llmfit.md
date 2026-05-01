@@ -2,14 +2,15 @@
 title: llmfit
 type: entity
 tags:
-- 开发工具
-- LLM
+- 推理优化
+- 模型部署
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1426d4476c8544b39e12c704c0a50a85
+notion_url: https://www.notion.so/Tizer/1426d4476c8544b39e12c704c0a50a85
 notion_id: 1426d447-6c85-44b3-9e12-c704c0a50a85
 ---
 

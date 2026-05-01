@@ -1,15 +1,13 @@
 ---
 title: 摘要：GLM-5V-Turbo：智谱让 AI 真正「看屏写代码」的视觉编码模型
 type: summary
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/33d701074b68813abd3cc221f357ac07
-notion_url: https://www.notion.so/27ba2f82057f4b1fbfdb22324fec6321
+notion_url: https://www.notion.so/Tizer/27ba2f82057f4b1fbfdb22324fec6321
 notion_id: 27ba2f82-057f-4b1f-bfdb-22324fec6321
 ---
 

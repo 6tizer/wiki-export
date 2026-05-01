@@ -2,7 +2,7 @@
 title: 自我进化 Agent
 type: concept
 tags:
-- 知识管理
+- Agent 协作模式
 - 长期记忆
 - 训练/微调
 status: 审核中
@@ -10,7 +10,7 @@ confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e81b87c95a69463d820d08aed46164c6
+notion_url: https://www.notion.so/Tizer/e81b87c95a69463d820d08aed46164c6
 notion_id: e81b87c9-5a69-463d-820d-08aed46164c6
 ---
 

@@ -2,14 +2,14 @@
 title: 摘要：下载到本地的 Claude Code 源码，用 Zread CLI 解读太香了
 type: summary
 tags:
-- 开发工具
-- OpenClaw
+- CLI 工具
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/fbf90231d16842cfbffcc4c0d8edf983
+notion_url: https://www.notion.so/Tizer/fbf90231d16842cfbffcc4c0d8edf983
 notion_id: fbf90231-d168-42cf-bffc-c4c0d8edf983
 ---
 

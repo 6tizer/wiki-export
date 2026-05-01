@@ -2,14 +2,15 @@
 title: 摘要：CLI-Anything：港大开源项目，一行命令让任意软件秒变 Agent 可控工具
 type: summary
 tags:
-- Agent 技能
-- 开发工具
+- CLI 工具
+- 商业/生态
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/eda59e9f4da945c3ab9873f6692b8c39
+notion_url: https://www.notion.so/Tizer/eda59e9f4da945c3ab9873f6692b8c39
 notion_id: eda59e9f-4da9-45c3-ab98-73f6692b8c39
 ---
 

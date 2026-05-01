@@ -2,8 +2,9 @@
 title: Foundry Agent Service
 type: entity
 tags:
-- Agent 框架
-- 安全/隐私
+- 商业/生态
+- 多Agent协作
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

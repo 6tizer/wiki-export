@@ -1,15 +1,13 @@
 ---
 title: 摘要：AI手和脚，企业微信：wecom-cli
 type: summary
-tags:
-- Agent 技能
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688119aeabd116b2d58a68
-notion_url: https://www.notion.so/52c27ede15624d25a34c7ecebc933775
+notion_url: https://www.notion.so/Tizer/52c27ede15624d25a34c7ecebc933775
 notion_id: 52c27ede-1562-4d25-a34c-7ecebc933775
 ---
 

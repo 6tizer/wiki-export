@@ -3,12 +3,14 @@ title: 摘要：OpenClaw 手机版部署教程：用旧安卓跑起你的专属 
 type: summary
 tags:
 - OpenClaw
+- 模型部署
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/05d5951fb57b43e98ea07c3b62283b72
+notion_url: https://www.notion.so/Tizer/05d5951fb57b43e98ea07c3b62283b72
 notion_id: 05d5951f-b57b-43e9-8ea0-7c3b62283b72
 ---
 

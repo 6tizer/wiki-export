@@ -3,7 +3,6 @@ title: EdgeClaw
 type: entity
 tags:
 - OpenClaw
-- 记忆系统
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

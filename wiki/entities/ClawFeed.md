@@ -3,13 +3,12 @@ title: ClawFeed
 type: entity
 tags:
 - OpenClaw
-- 工作流
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/0fcef2ffab2e47cea46fae1bcd893711
+notion_url: https://www.notion.so/Tizer/0fcef2ffab2e47cea46fae1bcd893711
 notion_id: 0fcef2ff-ab2e-47ce-a46f-ae1bcd893711
 ---
 

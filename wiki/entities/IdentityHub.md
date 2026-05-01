@@ -1,15 +1,13 @@
 ---
 title: IdentityHub
 type: entity
-tags:
-- 安全/隐私
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f099774b9f0a4e3db43af98f726b5385
+notion_url: https://www.notion.so/Tizer/f099774b9f0a4e3db43af98f726b5385
 notion_id: f099774b-9f0a-4e3d-b43a-f98f726b5385
 ---
 

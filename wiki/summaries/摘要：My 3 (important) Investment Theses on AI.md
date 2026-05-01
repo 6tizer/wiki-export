@@ -2,14 +2,13 @@
 title: 摘要：My 3 (important) Investment Theses on AI
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: LLM, Agent, Claude, openai
 source_article_url: https://www.notion.so/344701074b6881c8833de04f21ff5bf5
-notion_url: https://www.notion.so/b5dfa0f00ed54fd98b93f0e1c963a30d
+notion_url: https://www.notion.so/Tizer/b5dfa0f00ed54fd98b93f0e1c963a30d
 notion_id: b5dfa0f0-0ed5-4fd9-8b93-f0e1c963a30d
 ---
 

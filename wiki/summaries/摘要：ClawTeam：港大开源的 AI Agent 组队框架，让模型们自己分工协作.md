@@ -2,14 +2,15 @@
 title: 摘要：ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作
 type: summary
 tags:
-- Agent 编排
+- 多Agent协作
+- Agent 协作模式
 - OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b688169b177fafc872450a2
-notion_url: https://www.notion.so/bd159121319c443da263f4f7ea8e2767
+notion_url: https://www.notion.so/Tizer/bd159121319c443da263f4f7ea8e2767
 notion_id: bd159121-319c-443d-a263-f4f7ea8e2767
 ---
 

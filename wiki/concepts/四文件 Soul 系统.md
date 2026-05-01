@@ -2,8 +2,9 @@
 title: 四文件 Soul 系统
 type: concept
 tags:
-- Coding Agent
 - 知识管理
+- Agent 协作模式
+- 长期记忆
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

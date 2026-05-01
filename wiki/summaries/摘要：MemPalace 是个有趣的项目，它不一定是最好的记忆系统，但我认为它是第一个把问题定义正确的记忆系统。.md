@@ -1,15 +1,13 @@
 ---
 title: 摘要：MemPalace 是个有趣的项目，它不一定是最好的记忆系统，但我认为它是第一个把问题定义正确的记忆系统。
 type: summary
-tags:
-- 记忆系统
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b68819d9dd3d147bc40b36d
-notion_url: https://www.notion.so/360af5cdd6484d27be75f39171ea944c
+notion_url: https://www.notion.so/Tizer/360af5cdd6484d27be75f39171ea944c
 notion_id: 360af5cd-d648-4d27-be75-f39171ea944c
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: s-ui
 type: entity
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f03af69ffee14bfebe480fe87de9ff90
+notion_url: https://www.notion.so/Tizer/f03af69ffee14bfebe480fe87de9ff90
 notion_id: f03af69f-fee1-4bfe-be48-0fe87de9ff90
 ---
 

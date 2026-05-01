@@ -1,8 +1,7 @@
 ---
 title: ZeeLinClaw
 type: entity
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: low
 last_compiled: '2026-04-20'

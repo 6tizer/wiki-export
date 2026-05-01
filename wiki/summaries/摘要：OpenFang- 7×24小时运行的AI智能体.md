@@ -2,13 +2,17 @@
 title: '摘要：OpenFang: 7×24小时运行的AI智能体'
 type: summary
 tags:
-- 开发工具
+- 社交媒体
+- 内容自动化
+- Agent 协作模式
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/3a1558f25db14bed903ef3a64a97b494
+notion_url: https://www.notion.so/Tizer/3a1558f25db14bed903ef3a64a97b494
 notion_id: 3a1558f2-5db1-4bed-903e-f3a64a97b494
 ---
 

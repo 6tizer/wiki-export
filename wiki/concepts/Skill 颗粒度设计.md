@@ -1,15 +1,13 @@
 ---
 title: Skill 颗粒度设计
 type: concept
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/10812965aaba411e903d471be061af24
+notion_url: https://www.notion.so/Tizer/10812965aaba411e903d471be061af24
 notion_id: 10812965-aaba-411e-903d-471be061af24
 ---
 

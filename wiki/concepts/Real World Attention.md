@@ -2,14 +2,13 @@
 title: Real World Attention
 type: concept
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/31ed64eaed4f4aa59153e36be6be4dcf
+notion_url: https://www.notion.so/Tizer/31ed64eaed4f4aa59153e36be6be4dcf
 notion_id: 31ed64ea-ed4f-4aa5-9153-e36be6be4dcf
 ---
 

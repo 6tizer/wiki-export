@@ -2,14 +2,15 @@
 title: 摘要：Claude Code Handoff：让 AI 编程助手跨 Session 无缝接力
 type: summary
 tags:
-- 工作流
-- 开发工具
+- 上下文管理
+- 代码生成
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/64facb87e3984741bae1b6acbae5574c
+notion_url: https://www.notion.so/Tizer/64facb87e3984741bae1b6acbae5574c
 notion_id: 64facb87-e398-4741-bae1-b6acbae5574c
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: check-resolvable
 type: concept
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

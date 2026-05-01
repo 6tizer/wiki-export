@@ -1,15 +1,13 @@
 ---
 title: 摘要：用 Claude 搭一套 Polymarket 交易 Agent：Skill 架构比临场判断更靠谱吗？
 type: summary
-tags:
-- Crypto/DeFi
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/f0e83dccfe2e4a5486ed73f7fc889e21
+notion_url: https://www.notion.so/Tizer/f0e83dccfe2e4a5486ed73f7fc889e21
 notion_id: f0e83dcc-fe2e-4a54-86ed-73f7fc889e21
 ---
 

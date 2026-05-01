@@ -1,15 +1,13 @@
 ---
 title: 摘要：Hermes Agent 上手指南：安装后必试的十件事与八大亮点全解析
 type: summary
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/33e701074b68816293bada02888cb5d8
-notion_url: https://www.notion.so/1c6d3b1aa58c494db184afac1ce3e214
+notion_url: https://www.notion.so/Tizer/1c6d3b1aa58c494db184afac1ce3e214
 notion_id: 1c6d3b1a-a58c-494d-b184-afac1ce3e214
 ---
 

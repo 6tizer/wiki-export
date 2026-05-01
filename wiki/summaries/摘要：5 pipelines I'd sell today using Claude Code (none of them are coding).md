@@ -1,15 +1,13 @@
 ---
 title: 摘要：5 pipelines I'd sell today using Claude Code (none of them are coding)
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881f3906bf957e55504d9
-notion_url: https://www.notion.so/dc3aa989c27b42998e94120683811751
+notion_url: https://www.notion.so/Tizer/dc3aa989c27b42998e94120683811751
 notion_id: dc3aa989-c27b-4299-8e94-120683811751
 ---
 

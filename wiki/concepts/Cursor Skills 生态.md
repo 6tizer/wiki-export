@@ -2,10 +2,6 @@
 title: Cursor Skills 生态
 type: concept
 tags:
-- Agent 技能
-- 开发工具
-- 工作流
-- Agent 编排
 - 知识管理
 status: 审核中
 confidence: medium

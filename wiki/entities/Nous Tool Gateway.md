@@ -2,14 +2,13 @@
 title: Nous Tool Gateway
 type: entity
 tags:
-- Agent 技能
 - 商业/生态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0e151fdfd671479e8c1c814551882703
+notion_url: https://www.notion.so/Tizer/0e151fdfd671479e8c1c814551882703
 notion_id: 0e151fdf-d671-479e-8c1c-814551882703
 ---
 

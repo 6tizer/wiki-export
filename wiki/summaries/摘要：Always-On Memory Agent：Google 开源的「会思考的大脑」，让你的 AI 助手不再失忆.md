@@ -2,14 +2,15 @@
 title: 摘要：Always-On Memory Agent：Google 开源的「会思考的大脑」，让你的 AI 助手不再失忆
 type: summary
 tags:
-- 记忆系统
-- Agent 框架
+- 知识管理
+- 长期记忆
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/6350dde16cfd475a9bf843dd4b89ce42
+notion_url: https://www.notion.so/Tizer/6350dde16cfd475a9bf843dd4b89ce42
 notion_id: 6350dde1-6cfd-475a-9bf8-43dd4b89ce42
 ---
 

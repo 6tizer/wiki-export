@@ -1,15 +1,13 @@
 ---
 title: 摘要：Claude 推出 Advisor Strategy
 type: summary
-tags:
-- Agent 编排
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881349b0ec68cd75b01ed
-notion_url: https://www.notion.so/4f1002a196304fc0a193b6473c68bb8a
+notion_url: https://www.notion.so/Tizer/4f1002a196304fc0a193b6473c68bb8a
 notion_id: 4f1002a1-9630-4fc0-a193-b6473c68bb8a
 ---
 

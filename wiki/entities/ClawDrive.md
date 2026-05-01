@@ -2,14 +2,15 @@
 title: ClawDrive
 type: entity
 tags:
+- 量化交易
+- 商业/生态
 - OpenClaw
-- Crypto/DeFi
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/07238f87a9454507926e4eb400f760ec
+notion_url: https://www.notion.so/Tizer/07238f87a9454507926e4eb400f760ec
 notion_id: 07238f87-a945-4507-926e-4eb400f760ec
 ---
 

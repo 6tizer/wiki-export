@@ -1,14 +1,13 @@
 ---
 title: TPOT
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/06e9240bfc7c4c9b859f7904aceac986
+notion_url: https://www.notion.so/Tizer/06e9240bfc7c4c9b859f7904aceac986
 notion_id: 06e9240b-fc7c-4c9b-859f-7904aceac986
 ---
 

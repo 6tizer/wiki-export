@@ -2,8 +2,9 @@
 title: Verse
 type: concept
 tags:
-- 开发工具
-- Coding Agent
+- 商业/生态
+- 前端开发
+- 代码生成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

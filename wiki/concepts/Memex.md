@@ -3,13 +3,12 @@ title: Memex
 type: concept
 tags:
 - 知识管理
-- 记忆系统
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5e5b0a0b55c8446c8f376497603842dd
+notion_url: https://www.notion.so/Tizer/5e5b0a0b55c8446c8f376497603842dd
 notion_id: 5e5b0a0b-55c8-446c-8f37-6497603842dd
 ---
 

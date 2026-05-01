@@ -2,14 +2,13 @@
 title: 摘要：I am a Web3 Ambassador at World Liberty Financial.
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881dca818dd620df18142
-notion_url: https://www.notion.so/6275aedc0eb442f38df96b42f35f9238
+notion_url: https://www.notion.so/Tizer/6275aedc0eb442f38df96b42f35f9238
 notion_id: 6275aedc-0eb4-42f3-8df9-6b42f35f9238
 ---
 

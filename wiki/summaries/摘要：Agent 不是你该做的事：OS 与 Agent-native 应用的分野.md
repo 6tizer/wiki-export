@@ -2,14 +2,15 @@
 title: 摘要：Agent 不是你该做的事：OS 与 Agent-native 应用的分野
 type: summary
 tags:
-- Agent 编排
-- 商业/生态
+- Agent 协作模式
+- 上下文管理
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881fdae85faed9abffbfa
-notion_url: https://www.notion.so/62706f08ac154977ac2d99588c30dd6a
+notion_url: https://www.notion.so/Tizer/62706f08ac154977ac2d99588c30dd6a
 notion_id: 62706f08-ac15-4977-ac2d-99588c30dd6a
 ---
 

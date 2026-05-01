@@ -2,13 +2,14 @@
 title: 摘要：Gemini Embedding 2：Google 首个原生多模态向量模型，让文字、图片、视频、音频住进同一个语义空间
 type: summary
 tags:
-- LLM
+- 多模态
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/50f424f49a6c4736b0647438134f4d1b
+notion_url: https://www.notion.so/Tizer/50f424f49a6c4736b0647438134f4d1b
 notion_id: 50f424f4-9a6c-4736-b064-7438134f4d1b
 ---
 

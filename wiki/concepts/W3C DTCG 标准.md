@@ -2,7 +2,9 @@
 title: W3C DTCG 标准
 type: concept
 tags:
-- 开发工具
+- AI 设计
+- 前端开发
+- 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

@@ -2,13 +2,15 @@
 title: Claude Code Agent 循环
 type: concept
 tags:
-- Coding Agent
+- Agent 协作模式
+- 上下文管理
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/148adef65ba343f2b8a26c0f5b73f959
+notion_url: https://www.notion.so/Tizer/148adef65ba343f2b8a26c0f5b73f959
 notion_id: 148adef6-5ba3-43f2-b8a2-6c0f5b73f959
 ---
 
@@ -34,7 +36,7 @@ Claude Code Agent 循环是 Claude Code 内部驱动 AI 编程任务执行的核
 
 - 《Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行》｜X书签文章｜原文链接：[https://x.com/gerrox/status/2039137055746543860](https://x.com/gerrox/status/2039137055746543860)｜来源条目：[摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行](summaries/摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行.md)
 
-- 《Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构》｜X书签文章｜原文链接：[https://x.com/gerrox/status/2039137055746543860](https://x.com/gerrox/status/2039137055746543860)｜来源条目：[摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构](summaries/摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构.md)
+- 《Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构》｜X书签文章｜原文链接：[https://x.com/gerrox/status/2039137055746543860](https://x.com/gerrox/status/2039137055746543860)｜来源条目：摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构
 
 - 《Claude Code 动态循环（Dynamic Looping）来了！》｜X书签文章｜原文链接：[https://x.com/servasyy_ai/status/2043107256846422407](https://x.com/servasyy_ai/status/2043107256846422407)｜来源条目：[摘要：Claude Code 动态循环（Dynamic Looping）来了！](summaries/摘要：Claude Code 动态循环（Dynamic Looping）来了！.md)
 
@@ -54,4 +56,4 @@ Claude Code Agent 循环是 Claude Code 内部驱动 AI 编程任务执行的核
 
 - 《Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行》｜X书签文章｜来源条目：[摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行](summaries/摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行.md)
 
-- 《Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构》｜X书签文章｜来源条目：[摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构](summaries/摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构.md)
+- 《Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构》｜X书签文章｜来源条目：摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构

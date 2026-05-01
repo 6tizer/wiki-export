@@ -2,14 +2,14 @@
 title: 摘要：GEO 实战指南：如何让 AI 搜索主动引用你的内容
 type: summary
 tags:
-- 商业/生态
-- 知识管理
+- 内容自动化
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent, 自动化
 source_article_url: https://www.notion.so/335701074b6881e29392c5e0012a0109
-notion_url: https://www.notion.so/7e1a3e73113542e4bb402d5730b10b9a
+notion_url: https://www.notion.so/Tizer/7e1a3e73113542e4bb402d5730b10b9a
 notion_id: 7e1a3e73-1135-42e4-bb40-2d5730b10b9a
 ---
 

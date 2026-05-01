@@ -2,13 +2,15 @@
 title: 摘要：Claude Code Auto Dream 记忆整理功能深度解析
 type: summary
 tags:
-- LLM
+- 长期记忆
+- 知识管理
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/1c208833e63547ef94562d62b81a61a7
+notion_url: https://www.notion.so/Tizer/1c208833e63547ef94562d62b81a61a7
 notion_id: 1c208833-e635-47ef-9456-2d62b81a61a7
 ---
 

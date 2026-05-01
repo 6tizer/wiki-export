@@ -1,14 +1,13 @@
 ---
 title: Think Before Coding
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4a508f69c46c4d2bb07aae83229d7d45
+notion_url: https://www.notion.so/Tizer/4a508f69c46c4d2bb07aae83229d7d45
 notion_id: 4a508f69-c46c-4d2b-b07a-ae83229d7d45
 ---
 

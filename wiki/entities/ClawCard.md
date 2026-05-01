@@ -2,8 +2,9 @@
 title: ClawCard
 type: entity
 tags:
-- 商业/生态
 - OpenClaw
+- 身份准入
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

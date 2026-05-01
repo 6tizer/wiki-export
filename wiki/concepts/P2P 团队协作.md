@@ -2,7 +2,6 @@
 title: P2P 团队协作
 type: concept
 tags:
-- Agent 编排
 - 知识管理
 status: 审核中
 confidence: medium

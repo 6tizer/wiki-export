@@ -2,13 +2,15 @@
 title: 摘要：ColaOS——想跟你谈恋爱的 Agent
 type: summary
 tags:
-- Agent 框架
+- 商业/生态
+- 长期记忆
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/13e8c83e364d4fae940276fb19745928
+notion_url: https://www.notion.so/Tizer/13e8c83e364d4fae940276fb19745928
 notion_id: 13e8c83e-364d-4fae-9402-76fb19745928
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Our paper on Subliminal Learning was just published in Nature!
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881bc8503eef1e972634f
-notion_url: https://www.notion.so/d98d776c58c343b8b45b49afafe15a3c
+notion_url: https://www.notion.so/Tizer/d98d776c58c343b8b45b49afafe15a3c
 notion_id: d98d776c-58c3-43b8-b45b-49afafe15a3c
 ---
 

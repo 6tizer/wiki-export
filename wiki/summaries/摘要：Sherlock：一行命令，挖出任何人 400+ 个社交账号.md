@@ -1,15 +1,13 @@
 ---
 title: 摘要：Sherlock：一行命令，挖出任何人 400+ 个社交账号
 type: summary
-tags:
-- 安全/隐私
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: OSINT, 信息收集, 网络安全, 渗透测试, 开源工具
 source_article_url: https://www.notion.so/33d701074b6881c88b41c68d4077ae7e
-notion_url: https://www.notion.so/6668d2d2eda04172bbbca18cb11586d4
+notion_url: https://www.notion.so/Tizer/6668d2d2eda04172bbbca18cb11586d4
 notion_id: 6668d2d2-eda0-4172-bbbc-a18cb11586d4
 ---
 

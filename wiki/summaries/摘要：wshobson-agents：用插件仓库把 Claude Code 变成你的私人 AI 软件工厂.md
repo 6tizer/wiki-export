@@ -2,14 +2,15 @@
 title: 摘要：wshobson/agents：用插件仓库把 Claude Code 变成你的私人 AI 软件工厂
 type: summary
 tags:
-- 开发工具
-- LLM
+- Agent 协作模式
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化, Cursor
 source_article_url: ''
-notion_url: https://www.notion.so/28feaad0bbb140b5bd0b42038c753048
+notion_url: https://www.notion.so/Tizer/28feaad0bbb140b5bd0b42038c753048
 notion_id: 28feaad0-bbb1-40b5-bd0b-42038c753048
 ---
 

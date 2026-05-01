@@ -1,15 +1,13 @@
 ---
 title: 摘要：Better-Harness：LangChain 用 Evals 当梯度信号，让 Agent 越跑越强
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33f701074b68812cb2b1e4129d7d85c6
-notion_url: https://www.notion.so/41fb2ff28f9045e3b458c497dbbeb4b8
+notion_url: https://www.notion.so/Tizer/41fb2ff28f9045e3b458c497dbbeb4b8
 notion_id: 41fb2ff2-8f90-45e3-b458-c497dbbeb4b8
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: AI Hedge Fund
 type: entity
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/aa17419c3525496bae4c4e6b422b96ac
+notion_url: https://www.notion.so/Tizer/aa17419c3525496bae4c4e6b422b96ac
 notion_id: aa17419c-3525-496b-ae4c-4e6b422b96ac
 ---
 

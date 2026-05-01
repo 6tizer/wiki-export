@@ -2,8 +2,9 @@
 title: Prompt Caching
 type: concept
 tags:
+- Agent 协作模式
 - 上下文管理
-- 推理优化
+- 长期记忆
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

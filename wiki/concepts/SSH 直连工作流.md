@@ -1,15 +1,13 @@
 ---
 title: SSH 直连工作流
 type: concept
-tags:
-- 开发工具
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a9550d2477e24fa9bd59073115f0c88d
+notion_url: https://www.notion.so/Tizer/a9550d2477e24fa9bd59073115f0c88d
 notion_id: a9550d24-77e2-4fa9-bd59-073115f0c88d
 ---
 

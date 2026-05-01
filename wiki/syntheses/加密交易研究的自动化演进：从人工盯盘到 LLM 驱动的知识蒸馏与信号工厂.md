@@ -1,15 +1,13 @@
 ---
 title: 加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂
 type: synthesis
-tags:
-- Crypto/DeFi
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e2c8df1ffe25428f964d78ac23a3d4da
+notion_url: https://www.notion.so/Tizer/e2c8df1ffe25428f964d78ac23a3d4da
 notion_id: e2c8df1f-fe25-428f-964d-78ac23a3d4da
 ---
 

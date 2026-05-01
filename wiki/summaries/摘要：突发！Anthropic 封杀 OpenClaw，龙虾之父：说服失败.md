@@ -3,12 +3,14 @@ title: 摘要：突发！Anthropic 封杀 OpenClaw，龙虾之父：说服失败
 type: summary
 tags:
 - OpenClaw
+- 商业/生态
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c71aef7b8b7a4ae8bb08037e5d97738d
+notion_url: https://www.notion.so/Tizer/c71aef7b8b7a4ae8bb08037e5d97738d
 notion_id: c71aef7b-8b7a-4ae8-bb08-037e5d97738d
 ---
 

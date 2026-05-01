@@ -2,14 +2,14 @@
 title: Document-wise RoPE
 type: concept
 tags:
-- LLM
-- 记忆系统
+- 上下文管理
+- 长期记忆
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0804f3d8e64340b682a2851c7a6d3c0c
+notion_url: https://www.notion.so/Tizer/0804f3d8e64340b682a2851c7a6d3c0c
 notion_id: 0804f3d8-e643-40b6-82a2-851c7a6d3c0c
 ---
 

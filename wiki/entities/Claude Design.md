@@ -2,7 +2,6 @@
 title: Claude Design
 type: entity
 tags:
-- 内容创作
 - 图像生成
 - AI 产品
 status: 审核中

@@ -3,7 +3,8 @@ title: daily memory
 type: concept
 tags:
 - OpenClaw
-- 记忆系统
+- 知识管理
+- 长期记忆
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

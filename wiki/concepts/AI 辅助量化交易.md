@@ -1,15 +1,13 @@
 ---
 title: AI 辅助量化交易
 type: concept
-tags:
-- Crypto/DeFi
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/43b009bb71b94a879fd7b7af12d278e2
+notion_url: https://www.notion.so/Tizer/43b009bb71b94a879fd7b7af12d278e2
 notion_id: 43b009bb-71b9-4a87-9fd7-b7af12d278e2
 ---
 

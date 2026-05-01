@@ -2,14 +2,13 @@
 title: 摘要：GPT-Rosalind：OpenAI 为生命科学打造的专用推理模型
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: LLM, Agent
 source_article_url: https://www.notion.so/345701074b68818db455c034f7c23ffc
-notion_url: https://www.notion.so/c0369f3a00304fa2a845f48adec1b547
+notion_url: https://www.notion.so/Tizer/c0369f3a00304fa2a845f48adec1b547
 notion_id: c0369f3a-0030-4fa2-a845-f48adec1b547
 ---
 

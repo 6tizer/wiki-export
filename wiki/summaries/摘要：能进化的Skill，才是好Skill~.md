@@ -1,14 +1,13 @@
 ---
 title: 摘要：能进化的Skill，才是好Skill~
 type: summary
-tags:
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Skill 开发, Agent, Research
 source_article_url: ''
-notion_url: https://www.notion.so/f9f3d14a960645c6a48eb664e48e05ed
+notion_url: https://www.notion.so/Tizer/f9f3d14a960645c6a48eb664e48e05ed
 notion_id: f9f3d14a-9606-45c6-a48e-b664e48e05ed
 ---
 

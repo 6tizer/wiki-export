@@ -3,7 +3,7 @@ title: Contradiction Callouts
 type: concept
 tags:
 - 知识管理
-- 工作流
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

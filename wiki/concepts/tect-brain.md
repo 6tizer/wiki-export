@@ -2,13 +2,15 @@
 title: tect-brain
 type: concept
 tags:
-- 开发工具
+- 知识管理
+- MCP 协议
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/034e43597f8a478d8d91aadb7a78ca29
+notion_url: https://www.notion.so/Tizer/034e43597f8a478d8d91aadb7a78ca29
 notion_id: 034e4359-7f8a-478d-8d91-aadb7a78ca29
 ---
 

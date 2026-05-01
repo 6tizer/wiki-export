@@ -2,7 +2,6 @@
 title: Applied AI 团队
 type: entity
 tags:
-- Coding Agent
 - 商业/生态
 status: 审核中
 confidence: medium

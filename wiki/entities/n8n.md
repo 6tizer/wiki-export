@@ -1,15 +1,13 @@
 ---
 title: n8n
 type: entity
-tags:
-- 工作流
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4c43e602c9df4255af9b42b053a4e850
+notion_url: https://www.notion.so/Tizer/4c43e602c9df4255af9b42b053a4e850
 notion_id: 4c43e602-c9df-4255-af9b-42b053a4e850
 ---
 

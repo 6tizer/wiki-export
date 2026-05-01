@@ -3,13 +3,12 @@ title: 荷兰沃达丰 eSIM
 type: entity
 tags:
 - 商业/生态
-- 安全/隐私
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c5802212f7354d1f99ca0b5b428c21ff
+notion_url: https://www.notion.so/Tizer/c5802212f7354d1f99ca0b5b428c21ff
 notion_id: c5802212-f735-4d1f-99ca-0b5b428c21ff
 ---
 

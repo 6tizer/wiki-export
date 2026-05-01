@@ -3,12 +3,14 @@ title: Claude for Finance
 type: entity
 tags:
 - 商业/生态
+- RAG/检索
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/69ced0c505ff448b8e2a0e34bd7e30d6
+notion_url: https://www.notion.so/Tizer/69ced0c505ff448b8e2a0e34bd7e30d6
 notion_id: 69ced0c5-05ff-448b-8e2a-0e34bd7e30d6
 ---
 

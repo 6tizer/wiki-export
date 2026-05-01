@@ -1,15 +1,13 @@
 ---
 title: 摘要：Introducing GPT-5.5
 type: summary
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: https://www.notion.so/34c701074b68814aa4fedae9a03e273f
-notion_url: https://www.notion.so/61bd381ef9e64cc6bf6063828e656197
+notion_url: https://www.notion.so/Tizer/61bd381ef9e64cc6bf6063828e656197
 notion_id: 61bd381e-f9e6-4cc6-bf60-63828e656197
 ---
 

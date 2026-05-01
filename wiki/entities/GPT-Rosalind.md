@@ -1,14 +1,13 @@
 ---
 title: GPT-Rosalind
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5fa93be90b254cd399cbf425e669fabe
+notion_url: https://www.notion.so/Tizer/5fa93be90b254cd399cbf425e669fabe
 notion_id: 5fa93be9-0b25-4cd3-99cb-f425e669fabe
 ---
 

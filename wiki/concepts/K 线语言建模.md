@@ -1,15 +1,13 @@
 ---
 title: K 线语言建模
 type: concept
-tags:
-- LLM
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a5e38723e0ae402e9e6473bebb44c4e4
+notion_url: https://www.notion.so/Tizer/a5e38723e0ae402e9e6473bebb44c4e4
 notion_id: a5e38723-e0ae-402e-9e64-73bebb44c4e4
 ---
 

@@ -3,13 +3,14 @@ title: 摘要：ClawPanel：给 OpenClaw 装上可视化「驾驶舱」，内置
 type: summary
 tags:
 - OpenClaw
-- Agent 框架
+- AI 产品
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b6881b38ffde6bad074339f
-notion_url: https://www.notion.so/948fcc41e22a4a9eb4500957dcb81e3e
+notion_url: https://www.notion.so/Tizer/948fcc41e22a4a9eb4500957dcb81e3e
 notion_id: 948fcc41-e22a-4a9e-b450-0957dcb81e3e
 ---
 

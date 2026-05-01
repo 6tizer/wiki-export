@@ -1,15 +1,13 @@
 ---
 title: 摘要：AI 真能把一篇论文一路做到实验结果吗？人大团队提出 AiScientist，长程研究工程迈出关键一步
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688124a0e3e621841c7527
-notion_url: https://www.notion.so/e09590380e894de08072f57679537a0e
+notion_url: https://www.notion.so/Tizer/e09590380e894de08072f57679537a0e
 notion_id: e0959038-0e89-4de0-8072-f57679537a0e
 ---
 

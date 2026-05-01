@@ -1,15 +1,13 @@
 ---
 title: Lovart
 type: entity
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/042c1c0c896547f3b0f4ff596e542063
+notion_url: https://www.notion.so/Tizer/042c1c0c896547f3b0f4ff596e542063
 notion_id: 042c1c0c-8965-47f3-b0f4-ff596e542063
 ---
 

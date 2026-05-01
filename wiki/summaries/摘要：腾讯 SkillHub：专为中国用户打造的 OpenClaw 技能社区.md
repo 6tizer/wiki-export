@@ -2,14 +2,15 @@
 title: 摘要：腾讯 SkillHub：专为中国用户打造的 OpenClaw 技能社区
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
-- Agent 技能
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/befc95fa953148fcb151fa5adbb5f1ca
+notion_url: https://www.notion.so/Tizer/befc95fa953148fcb151fa5adbb5f1ca
 notion_id: befc95fa-9531-48fc-b151-fa5adbb5f1ca
 ---
 

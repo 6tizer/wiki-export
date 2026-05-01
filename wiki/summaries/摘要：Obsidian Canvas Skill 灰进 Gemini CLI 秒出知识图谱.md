@@ -2,14 +2,14 @@
 title: 摘要：Obsidian Canvas Skill 灰进 Gemini CLI 秒出知识图谱
 type: summary
 tags:
-- LLM
 - 知识管理
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/7f6d30a554c44e4f8482a6f21e59f73d
+notion_url: https://www.notion.so/Tizer/7f6d30a554c44e4f8482a6f21e59f73d
 notion_id: 7f6d30a5-54c4-4e4f-8482-a6f21e59f73d
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：Anthropic Harness 指南——到期清理、别帮倒忙
 type: summary
 tags:
-- 工作流
+- Harness 工程
+- OpenClaw
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/0a1aad4eaac84846bf991737efd65db4
+notion_url: https://www.notion.so/Tizer/0a1aad4eaac84846bf991737efd65db4
 notion_id: 0a1aad4e-aac8-4846-bf99-1737efd65db4
 ---
 

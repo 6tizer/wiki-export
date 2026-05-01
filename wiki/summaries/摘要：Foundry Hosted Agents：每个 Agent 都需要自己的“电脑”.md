@@ -1,15 +1,13 @@
 ---
 title: 摘要：Foundry Hosted Agents：每个 Agent 都需要自己的“电脑”
 type: summary
-tags:
-- Agent 框架
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881919824d12de1181605
-notion_url: https://www.notion.so/8536787cd82d4420ab2a42c89fd9f2b5
+notion_url: https://www.notion.so/Tizer/8536787cd82d4420ab2a42c89fd9f2b5
 notion_id: 8536787c-d82d-4420-ab2a-42c89fd9f2b5
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Sandboxes are coming to the Agents SDK
 type: summary
-tags:
-- Agent 编排
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881078026f381da361b83
-notion_url: https://www.notion.so/fcb4e876e0404cf3804718e232c2a421
+notion_url: https://www.notion.so/Tizer/fcb4e876e0404cf3804718e232c2a421
 notion_id: fcb4e876-e040-4cf3-8047-18e232c2a421
 ---
 

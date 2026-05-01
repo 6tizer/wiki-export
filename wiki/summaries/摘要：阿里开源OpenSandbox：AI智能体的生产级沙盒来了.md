@@ -2,13 +2,15 @@
 title: 摘要：阿里开源OpenSandbox：AI智能体的生产级沙盒来了
 type: summary
 tags:
-- 开发工具
+- Agent 安全
+- 浏览器自动化
+- 算力基础设施
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: NewStuff, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/26c9113b00d94040b7af6c1e1b3eb9a1
+notion_url: https://www.notion.so/Tizer/26c9113b00d94040b7af6c1e1b3eb9a1
 notion_id: 26c9113b-00d9-4040-b7af-6c1e1b3eb9a1
 ---
 

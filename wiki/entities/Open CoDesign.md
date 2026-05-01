@@ -2,8 +2,9 @@
 title: Open CoDesign
 type: entity
 tags:
-- 内容创作
-- 开发工具
+- AI 设计
+- CLI 工具
+- OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-24'

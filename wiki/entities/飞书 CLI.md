@@ -2,13 +2,15 @@
 title: 飞书 CLI
 type: entity
 tags:
-- MCP 协议
+- CLI 工具
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e570cc2b9cef4267bc5eeef415317fa8
+notion_url: https://www.notion.so/Tizer/e570cc2b9cef4267bc5eeef415317fa8
 notion_id: e570cc2b-9cef-4267-bc5e-eef415317fa8
 ---
 

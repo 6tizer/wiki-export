@@ -1,14 +1,13 @@
 ---
 title: 扣子编程 CLI
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2e896964b6e54b2899ff2b0e06a05bc3
+notion_url: https://www.notion.so/Tizer/2e896964b6e54b2899ff2b0e06a05bc3
 notion_id: 2e896964-b6e5-4b28-99ff-2b0e06a05bc3
 ---
 

@@ -2,8 +2,9 @@
 title: Union
 type: entity
 tags:
-- Crypto/DeFi
-- 安全/隐私
+- 链上协议
+- 加密资产
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

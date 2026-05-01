@@ -1,14 +1,13 @@
 ---
 title: Universal Transformer
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/dad3e4f7d023484db5bd58e484dc489c
+notion_url: https://www.notion.so/Tizer/dad3e4f7d023484db5bd58e484dc489c
 notion_id: dad3e4f7-d023-484d-b5bd-58e484dc489c
 ---
 

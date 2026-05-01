@@ -2,14 +2,13 @@
 title: 摘要：Rust-llm-wiki & Rust-mempalace合并，提供22 个 MCP 工具，Agent 终于有了"持久大脑"，持续的高质量上下文，这事靠谱了
 type: summary
 tags:
-- 记忆系统
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b688118b1afd547825d68c9
-notion_url: https://www.notion.so/2085f04b747a467ba2d10df6b5befbb9
+notion_url: https://www.notion.so/Tizer/2085f04b747a467ba2d10df6b5befbb9
 notion_id: 2085f04b-747a-467b-a2d1-0df6b5befbb9
 ---
 

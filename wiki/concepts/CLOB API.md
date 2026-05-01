@@ -2,8 +2,9 @@
 title: CLOB API
 type: concept
 tags:
-- 开发工具
-- Crypto/DeFi
+- 量化交易
+- 商业/生态
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

@@ -1,15 +1,13 @@
 ---
 title: 摘要：前两天还有人在评论区问我，不知道装了Hermes 能干嘛。
 type: summary
-tags:
-- Agent 框架
-- 内容创作
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b6881fc9d1ae40ffb5249de
-notion_url: https://www.notion.so/02f617b014a74268a2f34d4a07ae310a
+notion_url: https://www.notion.so/Tizer/02f617b014a74268a2f34d4a07ae310a
 notion_id: 02f617b0-14a7-4268-a2f3-4d4a07ae310a
 ---
 

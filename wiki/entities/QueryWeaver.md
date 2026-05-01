@@ -2,7 +2,9 @@
 title: QueryWeaver
 type: entity
 tags:
-- 开发工具
+- 知识管理
+- AI 产品
+- 代码生成
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

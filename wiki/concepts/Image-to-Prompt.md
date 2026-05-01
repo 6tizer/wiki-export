@@ -1,15 +1,13 @@
 ---
 title: Image-to-Prompt
 type: concept
-tags:
-- 内容创作
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/fc50ac9c130c42bd96f03900591865fd
+notion_url: https://www.notion.so/Tizer/fc50ac9c130c42bd96f03900591865fd
 notion_id: fc50ac9c-130c-42bd-96f0-3900591865fd
 ---
 

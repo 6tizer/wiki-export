@@ -2,13 +2,15 @@
 title: 摘要：AI Agent 堆栈的终局：去中心化算力、分布式训练与链上 AI 预言机
 type: summary
 tags:
-- LLM
+- 链上协议
+- 训练/微调
+- 算力基础设施
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c6e25bf2c04e43c598ea532d4beb0d3d
+notion_url: https://www.notion.so/Tizer/c6e25bf2c04e43c598ea532d4beb0d3d
 notion_id: c6e25bf2-c04e-43c5-98ea-532d4beb0d3d
 ---
 

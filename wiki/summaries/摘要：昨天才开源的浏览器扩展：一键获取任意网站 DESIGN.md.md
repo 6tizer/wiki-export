@@ -2,14 +2,13 @@
 title: 摘要：昨天才开源的浏览器扩展：一键获取任意网站 DESIGN.md
 type: summary
 tags:
-- Coding Agent
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b688192ab8bde73c8c37d27
-notion_url: https://www.notion.so/d15ea6c0695b49ce9eb3e7b150c1775b
+notion_url: https://www.notion.so/Tizer/d15ea6c0695b49ce9eb3e7b150c1775b
 notion_id: d15ea6c0-695b-49ce-9eb3-e7b150c1775b
 ---
 

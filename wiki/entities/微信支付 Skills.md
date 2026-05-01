@@ -2,14 +2,13 @@
 title: 微信支付 Skills
 type: entity
 tags:
-- Agent 技能
 - 商业/生态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6317e470fb674c469b0f19efa913f697
+notion_url: https://www.notion.so/Tizer/6317e470fb674c469b0f19efa913f697
 notion_id: 6317e470-fb67-4c46-9b0f-19efa913f697
 ---
 

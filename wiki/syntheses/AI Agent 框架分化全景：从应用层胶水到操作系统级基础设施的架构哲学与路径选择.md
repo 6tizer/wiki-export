@@ -2,13 +2,17 @@
 title: AI Agent 框架分化全景：从应用层胶水到操作系统级基础设施的架构哲学与路径选择
 type: synthesis
 tags:
-- Agent 框架
+- Agent 协作模式
+- 多Agent协作
+- Harness 工程
+- OpenClaw
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/646ea89299804a938ae3baff67bfd77b
+notion_url: https://www.notion.so/Tizer/646ea89299804a938ae3baff67bfd77b
 notion_id: 646ea892-9980-4a93-8ae3-baff67bfd77b
 ---
 
@@ -122,7 +126,7 @@ NanoClaw 代表了「能力范围与安全性」的权衡方向：
 
 ### 概念页面
 
-[aApp](concepts/aApp.md) · [Agent OS](concepts/Agent OS.md) · [Agent Reach](concepts/Agent Reach.md) · [Conway](entities/Conway.md) · Conway Agent · Coze 2.5 Agent 网络 · [DeerFlow 2.0](entities/DeerFlow 2.0.md) · [NanoClaw](concepts/NanoClaw.md) · [OpenFang](entities/OpenFang.md) · [QClaw](concepts/QClaw.md) · [SuperAgent Harness](concepts/SuperAgent Harness.md) · [superpowers 框架](concepts/superpowers 框架.md)
+[aApp](concepts/aApp.md) · [Agent OS](concepts/Agent OS.md) · [Agent Reach](concepts/Agent Reach.md) · [Conway](entities/Conway.md) · Conway Agent · Coze 2.5 Agent 网络 · [DeerFlow 2.0](entities/DeerFlow 2.0.md) · [NanoClaw](concepts/NanoClaw.md) · [OpenFang](entities/OpenFang.md) · [QClaw](concepts/QClaw.md) · [SuperAgent Harness](concepts/SuperAgent Harness.md) · [superpowers 框架](entities/superpowers 框架.md)
 
 ### 摘要页面
 

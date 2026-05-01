@@ -2,14 +2,13 @@
 title: 摘要：比特时代与黄天威：从“生意人”到“时代眼泪”——兼论hibtc37熊市警示帖的深层启示
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68814db5abc07067ac47fb
-notion_url: https://www.notion.so/abdacdd8eac24abbad6171a4c9aa5e32
+notion_url: https://www.notion.so/Tizer/abdacdd8eac24abbad6171a4c9aa5e32
 notion_id: abdacdd8-eac2-4abb-ad61-71a4c9aa5e32
 ---
 

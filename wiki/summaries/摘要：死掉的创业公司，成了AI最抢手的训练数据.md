@@ -3,13 +3,12 @@ title: 摘要：死掉的创业公司，成了AI最抢手的训练数据
 type: summary
 tags:
 - 商业/生态
-- 安全/隐私
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881829f87c3735e132cb8
-notion_url: https://www.notion.so/23ca993f6bde443b8f05e7ca3bb8ccb5
+notion_url: https://www.notion.so/Tizer/23ca993f6bde443b8f05e7ca3bb8ccb5
 notion_id: 23ca993f-6bde-443b-8f05-e7ca3bb8ccb5
 ---
 

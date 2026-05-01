@@ -2,13 +2,15 @@
 title: 摘要：Minimax出了个OpenClaw变体，把6个超好用Agent都传云上用了
 type: summary
 tags:
+- 多Agent协作
+- Agent 协作模式
 - OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent
 source_article_url: ''
-notion_url: https://www.notion.so/f3138858f3b241068045647278c5fb95
+notion_url: https://www.notion.so/Tizer/f3138858f3b241068045647278c5fb95
 notion_id: f3138858-f3b2-4106-8045-647278c5fb95
 ---
 

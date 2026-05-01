@@ -2,13 +2,15 @@
 title: 摘要：Berachain Boyco 预存款全攻略：四大入口、PoL 机制与生态参与指南
 type: summary
 tags:
-- Crypto/DeFi
+- 商业/生态
+- 加密资产
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Crypto, DeFi, 质押
 source_article_url: ''
-notion_url: https://www.notion.so/67ab1f9a1e2a4a79b23df70d72f4867e
+notion_url: https://www.notion.so/Tizer/67ab1f9a1e2a4a79b23df70d72f4867e
 notion_id: 67ab1f9a-1e2a-4a79-b23d-f70d72f4867e
 ---
 

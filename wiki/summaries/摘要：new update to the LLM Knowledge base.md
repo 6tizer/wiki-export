@@ -3,13 +3,12 @@ title: 摘要：new update to the LLM Knowledge base
 type: summary
 tags:
 - 知识管理
-- 记忆系统
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: LLM, Claude, 自动化, 记忆, wiki
 source_article_url: https://www.notion.so/34b701074b68817e8b53e9f0699c2625
-notion_url: https://www.notion.so/981411eb54e54c61bdbaeedc2ba6b152
+notion_url: https://www.notion.so/Tizer/981411eb54e54c61bdbaeedc2ba6b152
 notion_id: 981411eb-54e5-4c61-bdba-eedc2ba6b152
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：OpenHarness：港大开源的 Claude Code 轻量平替，44 倍瘦身只保留 98% 核心功力
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, 自动化, OpenClaw, Cursor, LLM, Claude, 港大开源
 source_article_url: https://www.notion.so/33d701074b6881b8a460ca68da8d7058
-notion_url: https://www.notion.so/c4a75ae4534d42e4b2a2689103e07bbf
+notion_url: https://www.notion.so/Tizer/c4a75ae4534d42e4b2a2689103e07bbf
 notion_id: c4a75ae4-534d-42e4-b2a2-689103e07bbf
 ---
 

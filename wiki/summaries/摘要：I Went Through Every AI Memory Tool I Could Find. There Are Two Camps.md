@@ -1,15 +1,13 @@
 ---
 title: 摘要：I Went Through Every AI Memory Tool I Could Find. There Are Two Camps.
 type: summary
-tags:
-- 记忆系统
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881c3b50bc941bb5a2d4e
-notion_url: https://www.notion.so/3745620d18dc4b65a623159dbd40fd62
+notion_url: https://www.notion.so/Tizer/3745620d18dc4b65a623159dbd40fd62
 notion_id: 3745620d-18dc-4b65-a623-159dbd40fd62
 ---
 

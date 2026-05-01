@@ -1,15 +1,13 @@
 ---
 title: 摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: https://www.notion.so/33d701074b688117b4d9f645d4a13fb3
-notion_url: https://www.notion.so/fec3e876ec6d4316a7eae4eb10145d8b
+notion_url: https://www.notion.so/Tizer/fec3e876ec6d4316a7eae4eb10145d8b
 notion_id: fec3e876-ec6d-4316-a7ea-e4eb10145d8b
 ---
 

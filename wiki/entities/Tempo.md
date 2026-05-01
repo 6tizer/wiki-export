@@ -2,14 +2,16 @@
 title: Tempo
 type: entity
 tags:
+- 稳定币
+- 链上协议
+- 加密资产
 - 商业/生态
-- Crypto/DeFi
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/686fe3d2f262428f94fcbc5d1b5ecb4a
+notion_url: https://www.notion.so/Tizer/686fe3d2f262428f94fcbc5d1b5ecb4a
 notion_id: 686fe3d2-f262-428f-94fc-bc5d1b5ecb4a
 ---
 

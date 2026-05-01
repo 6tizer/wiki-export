@@ -2,7 +2,6 @@
 title: mem9
 type: entity
 tags:
-- 记忆系统
 - OpenClaw
 status: 审核中
 confidence: high

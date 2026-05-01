@@ -2,15 +2,13 @@
 title: 摘要：The Ultimate Hermes Guide - from one agent to a 4-profile team that still
   feels coherent on day 30
 type: summary
-tags:
-- Agent 编排
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688169975fcd49392034b2
-notion_url: https://www.notion.so/80322e9ec3974bb69b28254b374cbf9a
+notion_url: https://www.notion.so/Tizer/80322e9ec3974bb69b28254b374cbf9a
 notion_id: 80322e9e-c397-4bb6-9b28-254b374cbf9a
 ---
 

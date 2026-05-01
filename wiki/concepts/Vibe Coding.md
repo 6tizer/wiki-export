@@ -2,9 +2,9 @@
 title: Vibe Coding
 type: concept
 tags:
+- AI 设计
 - 代码生成
-- 前端开发
-- IDE 集成
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-05-01'

@@ -2,14 +2,15 @@
 title: 摘要：AI Super Quant：把资金费率套利和 Polymarket 对冲做成人人可用的面板
 type: summary
 tags:
-- Crypto/DeFi
-- 商业/生态
+- 量化交易
+- 加密资产
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Crypto, 套利, 量化交易, Polymarket, DeFi
 source_article_url: https://www.notion.so/335701074b68814da65cfe3165ecdcc4
-notion_url: https://www.notion.so/e707b101713942dfbb97bf300ee7ddab
+notion_url: https://www.notion.so/Tizer/e707b101713942dfbb97bf300ee7ddab
 notion_id: e707b101-7139-42df-bb97-bf300ee7ddab
 ---
 

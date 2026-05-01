@@ -2,14 +2,16 @@
 title: 摘要：用OpenClaw+Obsidian搭建内容工厂
 type: summary
 tags:
-- 工作流
+- 内容自动化
 - 知识管理
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/ac93d84e08d84eee87f7062c68276cb0
+notion_url: https://www.notion.so/Tizer/ac93d84e08d84eee87f7062c68276cb0
 notion_id: ac93d84e-08d8-4eee-87f7-062c68276cb0
 ---
 

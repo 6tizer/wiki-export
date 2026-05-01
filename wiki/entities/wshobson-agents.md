@@ -1,14 +1,13 @@
 ---
 title: wshobson/agents
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/84b1af4ed5404e45872b32afc8d114ba
+notion_url: https://www.notion.so/Tizer/84b1af4ed5404e45872b32afc8d114ba
 notion_id: 84b1af4e-d540-4e45-872b-32afc8d114ba
 ---
 

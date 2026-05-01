@@ -1,14 +1,13 @@
 ---
 title: 摘要：OpenHarness：港大实验室用 3% 的代码复刻了 80% 的 Claude Code 能力
 type: summary
-tags:
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, Cursor, OpenClaw, 自动化, harness, 港大开源
 source_article_url: https://www.notion.so/33d701074b6881c19ff8e196f3cdb317
-notion_url: https://www.notion.so/22fb0e329ad747e5abddd92bee62ee83
+notion_url: https://www.notion.so/Tizer/22fb0e329ad747e5abddd92bee62ee83
 notion_id: 22fb0e32-9ad7-47e5-abdd-d92bee62ee83
 ---
 

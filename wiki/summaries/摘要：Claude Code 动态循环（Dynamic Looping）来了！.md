@@ -1,15 +1,13 @@
 ---
 title: 摘要：Claude Code 动态循环（Dynamic Looping）来了！
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881d9973cd77955d2ad58
-notion_url: https://www.notion.so/f2983fc97b9946b28634267b4ca68b67
+notion_url: https://www.notion.so/Tizer/f2983fc97b9946b28634267b4ca68b67
 notion_id: f2983fc9-7b99-46b2-8634-267b4ca68b67
 ---
 

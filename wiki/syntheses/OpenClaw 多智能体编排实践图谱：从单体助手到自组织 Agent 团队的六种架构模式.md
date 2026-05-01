@@ -2,14 +2,13 @@
 title: OpenClaw 多智能体编排实践图谱：从单体助手到自组织 Agent 团队的六种架构模式
 type: synthesis
 tags:
-- Agent 编排
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3e5065f66866420f9088c8e98c797f91
+notion_url: https://www.notion.so/Tizer/3e5065f66866420f9088c8e98c797f91
 notion_id: 3e5065f6-6866-420f-9088-c8e98c797f91
 ---
 

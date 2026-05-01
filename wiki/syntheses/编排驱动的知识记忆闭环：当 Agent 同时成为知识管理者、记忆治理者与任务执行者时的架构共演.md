@@ -2,9 +2,7 @@
 title: 编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演
 type: synthesis
 tags:
-- Agent 编排
 - 知识管理
-- 记忆系统
 - 上下文管理
 - 长期记忆
 - RAG/检索
@@ -13,7 +11,7 @@ confidence: high
 last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e401405a571e49f3aa7a4627e534bd9a
+notion_url: https://www.notion.so/Tizer/e401405a571e49f3aa7a4627e534bd9a
 notion_id: e401405a-571e-49f3-aa7a-4627e534bd9a
 ---
 

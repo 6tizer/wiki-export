@@ -2,13 +2,15 @@
 title: 摘要：Deepseek V4模型将采用华为芯片
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 模型部署
+- 算力基础设施
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/af1176deabec49c7bc2a9aa94eb79420
+notion_url: https://www.notion.so/Tizer/af1176deabec49c7bc2a9aa94eb79420
 notion_id: af1176de-abec-49c7-bc2a-9aa94eb79420
 ---
 

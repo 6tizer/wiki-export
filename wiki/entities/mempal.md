@@ -1,15 +1,13 @@
 ---
 title: mempal
 type: entity
-tags:
-- 记忆系统
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c4c3b4f372c24d538e96ee5bec4914a5
+notion_url: https://www.notion.so/Tizer/c4c3b4f372c24d538e96ee5bec4914a5
 notion_id: c4c3b4f3-72c2-4d53-8e96-ee5bec4914a5
 ---
 

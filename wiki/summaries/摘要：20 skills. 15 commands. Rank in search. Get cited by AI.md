@@ -1,15 +1,13 @@
 ---
 title: 摘要：20 skills. 15 commands. Rank in search. Get cited by AI.
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881ecb8c3de9cda530d56
-notion_url: https://www.notion.so/3450db4f89f2483899d6a1449da72aef
+notion_url: https://www.notion.so/Tizer/3450db4f89f2483899d6a1449da72aef
 notion_id: 3450db4f-89f2-4838-99d6-a1449da72aef
 ---
 

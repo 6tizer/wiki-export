@@ -1,14 +1,13 @@
 ---
 title: 摘要：Qwen 推理性能最高提升8倍！
 type: summary
-tags:
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881489e0efe23aa0b0549
-notion_url: https://www.notion.so/8ae16cecdb7d4511bea340774e8cfb6f
+notion_url: https://www.notion.so/Tizer/8ae16cecdb7d4511bea340774e8cfb6f
 notion_id: 8ae16cec-db7d-4511-bea3-40774e8cfb6f
 ---
 

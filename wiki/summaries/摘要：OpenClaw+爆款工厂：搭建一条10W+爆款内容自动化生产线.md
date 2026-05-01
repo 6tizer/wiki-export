@@ -3,13 +3,12 @@ title: 摘要：OpenClaw+爆款工厂：搭建一条10W+爆款内容自动化生
 type: summary
 tags:
 - OpenClaw
-- 内容创作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688165aec6fad01f5f126e
-notion_url: https://www.notion.so/f16ba82585b649df8d185dbfeb351a1b
+notion_url: https://www.notion.so/Tizer/f16ba82585b649df8d185dbfeb351a1b
 notion_id: f16ba825-85b6-49df-8d18-5dbfeb351a1b
 ---
 

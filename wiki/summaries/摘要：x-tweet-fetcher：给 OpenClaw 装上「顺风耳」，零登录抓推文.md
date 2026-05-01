@@ -2,13 +2,15 @@
 title: 摘要：x-tweet-fetcher：给 OpenClaw 装上「顺风耳」，零登录抓推文
 type: summary
 tags:
+- 社交媒体
+- 浏览器自动化
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/8d29659cd3f44e7e9b08011f14f0ac63
+notion_url: https://www.notion.so/Tizer/8d29659cd3f44e7e9b08011f14f0ac63
 notion_id: 8d29659c-d3f4-4e7e-9b08-011f14f0ac63
 ---
 

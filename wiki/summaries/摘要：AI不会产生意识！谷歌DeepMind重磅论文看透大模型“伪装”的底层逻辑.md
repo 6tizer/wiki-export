@@ -1,15 +1,13 @@
 ---
 title: 摘要：AI不会产生意识！谷歌DeepMind重磅论文看透大模型“伪装”的底层逻辑
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: https://www.notion.so/34a701074b6881e59615dcdaa7515bfe
-notion_url: https://www.notion.so/7d4c2f807eb34f2ea7a5418ccec6b6e8
+notion_url: https://www.notion.so/Tizer/7d4c2f807eb34f2ea7a5418ccec6b6e8
 notion_id: 7d4c2f80-7eb3-4f2e-a7a5-418ccec6b6e8
 ---
 

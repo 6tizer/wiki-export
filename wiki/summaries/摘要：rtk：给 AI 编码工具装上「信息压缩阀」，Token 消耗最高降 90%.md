@@ -11,7 +11,7 @@ confidence: high
 last_compiled: '2026-04-20'
 source_tags: LLM, Cursor, Claude, 开源, Rust
 source_article_url: https://www.notion.so/348701074b68818b8dbdc23b208f6f09
-notion_url: https://www.notion.so/e6253a3db71b46e48d81c5f70d81e910
+notion_url: https://www.notion.so/Tizer/e6253a3db71b46e48d81c5f70d81e910
 notion_id: e6253a3d-b71b-46e4-8d81-c5f70d81e910
 ---
 

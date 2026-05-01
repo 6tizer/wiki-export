@@ -2,14 +2,15 @@
 title: 摘要：MiroFish：用 56 个 AI 智能体模拟群体心理，在 Polymarket 上「预判人心」
 type: summary
 tags:
-- Agent 编排
-- Crypto/DeFi
+- Agent 协作模式
+- 多Agent协作
+- 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b688119bf5df41269ec2181
-notion_url: https://www.notion.so/0618b7a778a7404c97b71e39d52a743b
+notion_url: https://www.notion.so/Tizer/0618b7a778a7404c97b71e39d52a743b
 notion_id: 0618b7a7-78a7-404c-97b7-1e39d52a743b
 ---
 

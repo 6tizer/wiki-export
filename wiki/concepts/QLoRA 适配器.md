@@ -1,14 +1,13 @@
 ---
 title: QLoRA 适配器
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f7206ce56b4840e3a98b1905619f3e81
+notion_url: https://www.notion.so/Tizer/f7206ce56b4840e3a98b1905619f3e81
 notion_id: f7206ce5-6b48-40e3-a98b-1905619f3e81
 ---
 

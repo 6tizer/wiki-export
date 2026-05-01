@@ -1,15 +1,13 @@
 ---
 title: 摘要：Tailscale + VPS：在国内用「干净 IP」访问 Claude 的最简方案
 type: summary
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: LLM, 自动化, Agent
 source_article_url: https://www.notion.so/33d701074b68812a9314c3f9f709d9c6
-notion_url: https://www.notion.so/1941e7f6f5834d71946c44e52bc2a7c1
+notion_url: https://www.notion.so/Tizer/1941e7f6f5834d71946c44e52bc2a7c1
 notion_id: 1941e7f6-f583-4d71-946c-44e52bc2a7c1
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活
 type: summary
-tags:
-- Agent 技能
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b6881b2ba82e63b872ab9a5
-notion_url: https://www.notion.so/abfcf358f1804be1a15b9fcf8e167685
+notion_url: https://www.notion.so/Tizer/abfcf358f1804be1a15b9fcf8e167685
 notion_id: abfcf358-f180-4be1-a15b-9fcf8e167685
 ---
 

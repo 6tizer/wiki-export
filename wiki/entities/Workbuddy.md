@@ -3,7 +3,6 @@ title: Workbuddy
 type: entity
 tags:
 - 知识管理
-- 工作流
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

@@ -3,7 +3,6 @@ title: AST+LLM 双阶段提取
 type: concept
 tags:
 - 知识管理
-- 开发工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

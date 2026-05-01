@@ -2,14 +2,13 @@
 title: 摘要：Codex 重大更新，全面解读
 type: summary
 tags:
-- Coding Agent
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881a2a276effe578d6c1c
-notion_url: https://www.notion.so/4eede90a55094952953a110f049c55fb
+notion_url: https://www.notion.so/Tizer/4eede90a55094952953a110f049c55fb
 notion_id: 4eede90a-5509-4952-953a-110f049c55fb
 ---
 

@@ -2,14 +2,15 @@
 title: 摘要：各种蒸馏 skill 汇总（@oragnes）
 type: summary
 tags:
-- 开发工具
 - 知识管理
+- 商业/生态
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/d9170c50906a4e9a935f48610c6eb4dd
+notion_url: https://www.notion.so/Tizer/d9170c50906a4e9a935f48610c6eb4dd
 notion_id: d9170c50-906a-4e9a-935f-48610c6eb4dd
 ---
 

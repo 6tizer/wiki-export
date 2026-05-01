@@ -1,15 +1,13 @@
 ---
 title: 摘要：Garry Tan 提炼了他在 agentic engineering 领域的核心心法：Fat Skills, Fat Code, Thin Harness。
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: Agent, LLM, 自动化, Prompt工程
 source_article_url: https://www.notion.so/343701074b6881ddb6f2e7e20acfc38f
-notion_url: https://www.notion.so/8c8ef76171444df39453fe1ae39e5d10
+notion_url: https://www.notion.so/Tizer/8c8ef76171444df39453fe1ae39e5d10
 notion_id: 8c8ef761-7144-4df3-9453-fe1ae39e5d10
 ---
 

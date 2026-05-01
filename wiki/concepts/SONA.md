@@ -2,8 +2,9 @@
 title: SONA
 type: concept
 tags:
-- LLM
-- Coding Agent
+- AI 设计
+- 推理优化
+- 长期记忆
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

@@ -1,15 +1,13 @@
 ---
 title: 摘要：兄弟们，昨天配了一个新的bot，在我的失误下，把两个机器人部署到同一个目录下面，成功把旧bot搞炸了
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68814ca7a3c8abf9e11ab4
-notion_url: https://www.notion.so/7ec2c327e93a4d078367f4ec205ab883
+notion_url: https://www.notion.so/Tizer/7ec2c327e93a4d078367f4ec205ab883
 notion_id: 7ec2c327-e93a-4d07-8367-f4ec205ab883
 ---
 

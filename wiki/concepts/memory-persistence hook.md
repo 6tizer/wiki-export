@@ -1,15 +1,13 @@
 ---
 title: memory-persistence hook
 type: concept
-tags:
-- 记忆系统
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/404298eeb85e4a5eb9104fab253160b3
+notion_url: https://www.notion.so/Tizer/404298eeb85e4a5eb9104fab253160b3
 notion_id: 404298ee-b85e-4a5e-b910-4fab253160b3
 ---
 

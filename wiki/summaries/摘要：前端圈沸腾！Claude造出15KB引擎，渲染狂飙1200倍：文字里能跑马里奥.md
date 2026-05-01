@@ -1,14 +1,13 @@
 ---
 title: 摘要：前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: Vibe Coding, 开源项目
 source_article_url: ''
-notion_url: https://www.notion.so/e6c45bba339245799a789c220ebb81f1
+notion_url: https://www.notion.so/Tizer/e6c45bba339245799a789c220ebb81f1
 notion_id: e6c45bba-3392-4579-9a78-9c220ebb81f1
 ---
 

@@ -2,14 +2,13 @@
 title: Coding Agent 商业化路径分化：从开发者提效工具到消费级软件工厂的价值捕获与生态博弈
 type: synthesis
 tags:
-- Coding Agent
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2621ae61c7b74f4ba960737164029ffe
+notion_url: https://www.notion.so/Tizer/2621ae61c7b74f4ba960737164029ffe
 notion_id: 2621ae61-c7b7-4f4b-a960-737164029ffe
 ---
 

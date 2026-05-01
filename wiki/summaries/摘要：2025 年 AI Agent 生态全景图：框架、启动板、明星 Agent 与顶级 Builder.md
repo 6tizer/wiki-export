@@ -1,15 +1,13 @@
 ---
 title: 摘要：2025 年 AI Agent 生态全景图：框架、启动板、明星 Agent 与顶级 Builder
 type: summary
-tags:
-- Agent 框架
-- Crypto/DeFi
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-28'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1ca5cf285da645c5847b9f58852f1d84
+notion_url: https://www.notion.so/Tizer/1ca5cf285da645c5847b9f58852f1d84
 notion_id: 1ca5cf28-5da6-45c5-847b-9f58852f1d84
 ---
 

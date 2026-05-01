@@ -1,14 +1,13 @@
 ---
 title: 摘要：focEliza：让 AI Agent 在 TEE 中「自证清白」的可验证日志插件
 type: summary
-tags:
-- Crypto/DeFi
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/79e623a1b7be450c93ee77841e773f37
+notion_url: https://www.notion.so/Tizer/79e623a1b7be450c93ee77841e773f37
 notion_id: 79e623a1-b7be-450c-93ee-77841e773f37
 ---
 

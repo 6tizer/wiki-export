@@ -1,15 +1,13 @@
 ---
 title: Hysteria 2
 type: entity
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2d04d29628ba41659d969cb121614a8e
+notion_url: https://www.notion.so/Tizer/2d04d29628ba41659d969cb121614a8e
 notion_id: 2d04d296-28ba-4165-9d96-9cb121614a8e
 ---
 

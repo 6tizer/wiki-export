@@ -3,13 +3,14 @@ title: 摘要：Obsidian CLI：一个开关，让 AI Agent 读懂你的知识网
 type: summary
 tags:
 - 知识管理
-- 开发工具
+- CLI 工具
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b68817390ede4b51b294957
-notion_url: https://www.notion.so/ae51ccece0254382805c9cec8d01cf25
+notion_url: https://www.notion.so/Tizer/ae51ccece0254382805c9cec8d01cf25
 notion_id: ae51ccec-e025-4382-805c-9cec8d01cf25
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？
 type: summary
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68819d86f3fb44c66b0f3d
-notion_url: https://www.notion.so/d1fdede87e374478b9e7300d4bdd72c2
+notion_url: https://www.notion.so/Tizer/d1fdede87e374478b9e7300d4bdd72c2
 notion_id: d1fdede8-7e37-4478-b9e7-300d4bdd72c2
 ---
 

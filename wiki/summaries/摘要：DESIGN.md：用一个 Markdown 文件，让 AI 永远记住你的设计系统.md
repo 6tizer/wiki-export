@@ -1,14 +1,13 @@
 ---
 title: 摘要：DESIGN.md：用一个 Markdown 文件，让 AI 永远记住你的设计系统
 type: summary
-tags:
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, Cursor, 自动化, LLM, Google Stitch
 source_article_url: https://www.notion.so/33d701074b6881be814edceadebf64fb
-notion_url: https://www.notion.so/2d23e2894a4d46deaa1ba679b6932d73
+notion_url: https://www.notion.so/Tizer/2d23e2894a4d46deaa1ba679b6932d73
 notion_id: 2d23e289-4a4d-46de-aa1b-a679b6932d73
 ---
 

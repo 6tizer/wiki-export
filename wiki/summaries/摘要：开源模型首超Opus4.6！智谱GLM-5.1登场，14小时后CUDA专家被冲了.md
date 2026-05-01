@@ -1,14 +1,13 @@
 ---
 title: 摘要：开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了
 type: summary
-tags:
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/d6d7b8c5d502442f94b36c5955ef1a50
+notion_url: https://www.notion.so/Tizer/d6d7b8c5d502442f94b36c5955ef1a50
 notion_id: d6d7b8c5-d502-442f-94b3-6c5955ef1a50
 ---
 

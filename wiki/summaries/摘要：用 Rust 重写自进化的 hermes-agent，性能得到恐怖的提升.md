@@ -2,13 +2,15 @@
 title: 摘要：用 Rust 重写自进化的 hermes-agent，性能得到恐怖的提升
 type: summary
 tags:
-- 开发工具
+- OpenClaw
+- Agent 协作模式
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/0b9118ceeca040a581ebb29b919ef1ee
+notion_url: https://www.notion.so/Tizer/0b9118ceeca040a581ebb29b919ef1ee
 notion_id: 0b9118ce-eca0-40a5-81eb-b29b919ef1ee
 ---
 

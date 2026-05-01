@@ -2,14 +2,15 @@
 title: 摘要：Manus Desktop 发布：AI Agent 从云端走向你的本地电脑
 type: summary
 tags:
-- Agent 框架
-- 开发工具
+- 内容自动化
+- Agent 安全
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b688168a688d55d2f9e0cf9
-notion_url: https://www.notion.so/c97df55fbf5240fca4157b3a8e8b49c3
+notion_url: https://www.notion.so/Tizer/c97df55fbf5240fca4157b3a8e8b49c3
 notion_id: c97df55f-bf52-40fc-a415-7b3a8e8b49c3
 ---
 

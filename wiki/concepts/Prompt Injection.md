@@ -2,8 +2,9 @@
 title: Prompt Injection
 type: concept
 tags:
-- 安全/隐私
-- Agent 技能
+- Agent 安全
+- 上下文管理
+- AI 政策
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

@@ -2,13 +2,15 @@
 title: 摘要：Cline Kanban：用看板界面指挥你的 AI 编程特工团队
 type: summary
 tags:
-- 开发工具
+- 多Agent协作
+- Agent 协作模式
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 看板/管理, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c1f9fab732184f9e8f277fcb884ea41a
+notion_url: https://www.notion.so/Tizer/c1f9fab732184f9e8f277fcb884ea41a
 notion_id: c1f9fab7-3218-4f9e-8f27-7fcb884ea41a
 ---
 

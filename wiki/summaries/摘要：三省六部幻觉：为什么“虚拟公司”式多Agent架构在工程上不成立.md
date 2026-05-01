@@ -1,15 +1,13 @@
 ---
 title: 摘要：三省六部幻觉：为什么“虚拟公司”式多Agent架构在工程上不成立
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881bcacd9e29c06b3a770
-notion_url: https://www.notion.so/2d0c8e0cbaaf41dc9ad7ebfd206333fe
+notion_url: https://www.notion.so/Tizer/2d0c8e0cbaaf41dc9ad7ebfd206333fe
 notion_id: 2d0c8e0c-baaf-41dc-9ad7-ebfd206333fe
 ---
 

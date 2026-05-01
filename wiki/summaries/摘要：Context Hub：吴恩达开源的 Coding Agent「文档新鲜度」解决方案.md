@@ -2,14 +2,14 @@
 title: 摘要：Context Hub：吴恩达开源的 Coding Agent「文档新鲜度」解决方案
 type: summary
 tags:
-- 开发工具
-- LLM
+- 上下文管理
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/fdfe2414b64f41d5aac90a546a047c75
+notion_url: https://www.notion.so/Tizer/fdfe2414b64f41d5aac90a546a047c75
 notion_id: fdfe2414-b64f-41d5-aac9-0a546a047c75
 ---
 

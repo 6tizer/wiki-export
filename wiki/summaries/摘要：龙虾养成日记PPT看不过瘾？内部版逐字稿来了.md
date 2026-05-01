@@ -1,14 +1,13 @@
 ---
 title: 摘要：龙虾养成日记PPT看不过瘾？内部版逐字稿来了
 type: summary
-tags:
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: NewStuff, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/2c3613c6b378430d9b2c7c6f71a3b191
+notion_url: https://www.notion.so/Tizer/2c3613c6b378430d9b2c7c6f71a3b191
 notion_id: 2c3613c6-b378-430d-9b2c-7c6f71a3b191
 ---
 

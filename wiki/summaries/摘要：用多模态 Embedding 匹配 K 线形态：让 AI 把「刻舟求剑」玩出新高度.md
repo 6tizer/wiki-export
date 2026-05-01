@@ -2,14 +2,15 @@
 title: 摘要：用多模态 Embedding 匹配 K 线形态：让 AI 把「刻舟求剑」玩出新高度
 type: summary
 tags:
-- Crypto/DeFi
-- LLM
+- 量化交易
+- 多模态
+- RAG/检索
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/7918d243a39c4415a2e320ecbca91bb3
+notion_url: https://www.notion.so/Tizer/7918d243a39c4415a2e320ecbca91bb3
 notion_id: 7918d243-a39c-4415-a2e3-20ecbca91bb3
 ---
 

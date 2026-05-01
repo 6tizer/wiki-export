@@ -2,13 +2,15 @@
 title: 摘要：Coding Team Setup——OpenClaw 多代理团队配置向导
 type: summary
 tags:
+- 多Agent协作
+- Agent 协作模式
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/3c56151372a241529886dbd38aa26d28
+notion_url: https://www.notion.so/Tizer/3c56151372a241529886dbd38aa26d28
 notion_id: 3c561513-72a2-4152-9886-dbd38aa26d28
 ---
 

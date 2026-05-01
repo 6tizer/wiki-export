@@ -1,9 +1,7 @@
 ---
 title: Prompt Cache
 type: concept
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'

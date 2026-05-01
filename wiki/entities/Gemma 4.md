@@ -1,14 +1,13 @@
 ---
 title: Gemma 4
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/09a31eaf99cc4161b51e7029278bc78e
+notion_url: https://www.notion.so/Tizer/09a31eaf99cc4161b51e7029278bc78e
 notion_id: 09a31eaf-99cc-4161-b51e-7029278bc78e
 ---
 

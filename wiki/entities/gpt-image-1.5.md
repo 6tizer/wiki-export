@@ -1,15 +1,13 @@
 ---
 title: gpt-image-1.5
 type: entity
-tags:
-- 内容创作
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c5e40cea64ea49cd97568ceb9020101e
+notion_url: https://www.notion.so/Tizer/c5e40cea64ea49cd97568ceb9020101e
 notion_id: c5e40cea-64ea-49cd-9756-8ceb9020101e
 ---
 

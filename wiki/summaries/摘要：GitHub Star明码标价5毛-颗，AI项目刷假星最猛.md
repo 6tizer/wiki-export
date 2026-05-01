@@ -2,14 +2,13 @@
 title: 摘要：GitHub Star明码标价5毛/颗，AI项目刷假星最猛
 type: summary
 tags:
-- 开发工具
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881e19955ee746397482a
-notion_url: https://www.notion.so/1b41d7e8390745b88ffaca4fbc2cbe02
+notion_url: https://www.notion.so/Tizer/1b41d7e8390745b88ffaca4fbc2cbe02
 notion_id: 1b41d7e8-3907-45b8-8ffa-ca4fbc2cbe02
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：最新风口Harness，李开复、陆奇已重金入场
 type: summary
-tags:
-- Agent 编排
-- Agent 框架
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881ecb617e3a67a3a0ded
-notion_url: https://www.notion.so/9f73bf19f7d34746864ab76fb7d0943f
+notion_url: https://www.notion.so/Tizer/9f73bf19f7d34746864ab76fb7d0943f
 notion_id: 9f73bf19-f7d3-4746-864a-b76fb7d0943f
 ---
 

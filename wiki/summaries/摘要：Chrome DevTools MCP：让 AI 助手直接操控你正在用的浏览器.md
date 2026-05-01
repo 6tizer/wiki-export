@@ -2,14 +2,15 @@
 title: 摘要：Chrome DevTools MCP：让 AI 助手直接操控你正在用的浏览器
 type: summary
 tags:
-- Agent 技能
-- Coding Agent
+- 浏览器自动化
+- MCP 协议
+- 前端开发
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, Cursor, LLM
 source_article_url: https://www.notion.so/335701074b68811c81f9fd03c817cf49
-notion_url: https://www.notion.so/18e66405538047db8b444e17d6e03cd5
+notion_url: https://www.notion.so/Tizer/18e66405538047db8b444e17d6e03cd5
 notion_id: 18e66405-5380-47db-8b44-4e17d6e03cd5
 ---
 

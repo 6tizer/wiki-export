@@ -2,14 +2,13 @@
 title: 比特时代 / AEX
 type: entity
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e8954e60f0c0498e8de1e9b3da4d3b63
+notion_url: https://www.notion.so/Tizer/e8954e60f0c0498e8de1e9b3da4d3b63
 notion_id: e8954e60-f0c0-498e-8de1-e9b3da4d3b63
 ---
 

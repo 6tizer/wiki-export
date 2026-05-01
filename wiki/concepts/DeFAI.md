@@ -1,14 +1,13 @@
 ---
 title: DeFAI
 type: concept
-tags:
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0776894d84374f4894fe9808cf471b57
+notion_url: https://www.notion.so/Tizer/0776894d84374f4894fe9808cf471b57
 notion_id: 0776894d-8437-4f48-94fe-9808cf471b57
 ---
 

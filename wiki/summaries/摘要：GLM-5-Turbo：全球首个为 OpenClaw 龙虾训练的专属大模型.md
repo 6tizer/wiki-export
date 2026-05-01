@@ -2,14 +2,15 @@
 title: 摘要：GLM-5-Turbo：全球首个为 OpenClaw 龙虾训练的专属大模型
 type: summary
 tags:
-- LLM
 - OpenClaw
+- 浏览器自动化
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b688191b42ce4269a7b05d3
-notion_url: https://www.notion.so/e9c3eea0265949c9971d624f2b8412e4
+notion_url: https://www.notion.so/Tizer/e9c3eea0265949c9971d624f2b8412e4
 notion_id: e9c3eea0-2659-49c9-971d-624f2b8412e4
 ---
 

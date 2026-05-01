@@ -3,7 +3,8 @@ title: ClawPanel
 type: entity
 tags:
 - OpenClaw
-- Agent 框架
+- 商业/生态
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

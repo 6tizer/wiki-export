@@ -2,13 +2,16 @@
 title: AI Agent 开发工具链全景：从协议标准到技能市场的能力获取路径演进
 type: synthesis
 tags:
-- 开发工具
+- MCP 协议
+- 浏览器自动化
+- CLI 工具
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/175a3009f1b448898acd9e2f9d752267
+notion_url: https://www.notion.so/Tizer/175a3009f1b448898acd9e2f9d752267
 notion_id: 175a3009-f1b4-4889-8acd-9e2f9d752267
 ---
 
@@ -130,7 +133,7 @@ Agent 获取外部能力的方式正经历一场**三路线并行**的竞争：
 
 ### 概念页面（29 篇）
 
-[MCP 协议](concepts/MCP 协议.md) · [A2UI 协议](concepts/A2UI 协议.md) · [Tool Calling 2.0](entities/Tool Calling 2.0.md) · [CLI-Anything](entities/CLI-Anything.md) · [钉钉 CLI](entities/钉钉 CLI.md) · [飞书 CLI](entities/飞书 CLI.md) · [Claude Code Channels](concepts/Claude Code Channels.md) · [Claude Cowork Skills](concepts/Claude Cowork Skills.md) · [Knowledge Work Plugins](concepts/Knowledge Work Plugins.md) · [Plugin Marketplace](concepts/Plugin Marketplace.md) · [Apify Agent Skills](concepts/Apify Agent Skills.md) · [Playwright Skill](concepts/Playwright Skill.md) · [Scrapling](entities/Scrapling.md) · [OpenFang](entities/OpenFang.md) · [CoPaw](entities/CoPaw.md) · [Dify](entities/Dify.md) · [Symphony](concepts/Symphony.md) · Computer Use · [Generative UI](concepts/Generative UI.md) · [Jina Reader](entities/Jina Reader.md) · [AI 沙箱](concepts/AI 沙箱.md) · [AI 自修改代码](concepts/AI 自修改代码.md) · [规范驱动开发 SDD](concepts/规范驱动开发 SDD.md) · [BMAD Method](concepts/BMAD Method.md) · [Vibe Design](concepts/Vibe Design.md) · [DataClaw](entities/DataClaw.md) · [Webhook 幂等性](concepts/Webhook 幂等性.md) · [Pexo](entities/Pexo.md) · [LibTV](entities/LibTV.md)
+[MCP 协议](concepts/MCP 协议.md) · [A2UI 协议](concepts/A2UI 协议.md) · [Tool Calling 2.0](entities/Tool Calling 2.0.md) · [CLI-Anything](entities/CLI-Anything.md) · [钉钉 CLI](entities/钉钉 CLI.md) · [飞书 CLI](entities/飞书 CLI.md) · [Claude Code Channels](concepts/Claude Code Channels.md) · [Claude Cowork Skills](concepts/Claude Cowork Skills.md) · [Knowledge Work Plugins](concepts/Knowledge Work Plugins.md) · [Plugin Marketplace](concepts/Plugin Marketplace.md) · [Apify Agent Skills](concepts/Apify Agent Skills.md) · [Playwright Skill](concepts/Playwright Skill.md) · [Scrapling](entities/Scrapling.md) · [OpenFang](entities/OpenFang.md) · [CoPaw](entities/CoPaw.md) · [Dify](entities/Dify.md) · [Symphony](entities/Symphony.md) · Computer Use · [Generative UI](concepts/Generative UI.md) · [Jina Reader](entities/Jina Reader.md) · [AI 沙箱](concepts/AI 沙箱.md) · [AI 自修改代码](concepts/AI 自修改代码.md) · [规范驱动开发 SDD](concepts/规范驱动开发 SDD.md) · [BMAD Method](concepts/BMAD Method.md) · [Vibe Design](concepts/Vibe Design.md) · [DataClaw](entities/DataClaw.md) · [Webhook 幂等性](concepts/Webhook 幂等性.md) · [Pexo](entities/Pexo.md) · [LibTV](entities/LibTV.md)
 
 ### 摘要页面（5 篇）
 

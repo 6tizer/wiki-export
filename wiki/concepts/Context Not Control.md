@@ -2,13 +2,15 @@
 title: Context Not Control
 type: concept
 tags:
-- Agent 编排
+- AI 设计
+- Agent 协作模式
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c0c6edeb0f7b43e19cb9d60a1472cf08
+notion_url: https://www.notion.so/Tizer/c0c6edeb0f7b43e19cb9d60a1472cf08
 notion_id: c0c6edeb-0f7b-43e1-9cb9-d60a1472cf08
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：OpenAI Agents SDK 升级：内置沙箱和 Harness，让 Agent 终于能在生产环境跑稳了
 type: summary
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-16'
 source_tags: Agent, LLM, harness, openai, skills
 source_article_url: https://www.notion.so/344701074b68811781ead10f407f3384
-notion_url: https://www.notion.so/d6864fc7cdb74449a523f00a07ad5ec2
+notion_url: https://www.notion.so/Tizer/d6864fc7cdb74449a523f00a07ad5ec2
 notion_id: d6864fc7-cdb7-4449-a523-f00a07ad5ec2
 ---
 

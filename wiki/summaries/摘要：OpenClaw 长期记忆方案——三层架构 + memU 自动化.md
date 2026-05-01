@@ -3,13 +3,15 @@ title: 摘要：OpenClaw 长期记忆方案——三层架构 + memU 自动化
 type: summary
 tags:
 - OpenClaw
-- 记忆系统
+- 长期记忆
+- 上下文管理
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/30d426d7fc894bdf93017aacde187444
+notion_url: https://www.notion.so/Tizer/30d426d7fc894bdf93017aacde187444
 notion_id: 30d426d7-fc89-4bdf-9301-7aacde187444
 ---
 

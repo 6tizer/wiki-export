@@ -2,13 +2,15 @@
 title: 摘要：Gemma-4-31B vs Qwen3.5-27B 深度调研战略报告
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 推理优化
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/f6872f545a004dc8b6ff1e63d6f1467a
+notion_url: https://www.notion.so/Tizer/f6872f545a004dc8b6ff1e63d6f1467a
 notion_id: f6872f54-5a00-4dc8-b6ff-1e63d6f1467a
 ---
 

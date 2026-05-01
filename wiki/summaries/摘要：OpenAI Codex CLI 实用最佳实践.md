@@ -2,14 +2,15 @@
 title: 摘要：OpenAI Codex CLI 实用最佳实践
 type: summary
 tags:
-- 开发工具
-- 工作流
+- CLI 工具
+- 代码生成
+- 推理优化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Codex, 教程/实战, 经验分享
 source_article_url: ''
-notion_url: https://www.notion.so/034916f4979b4c8b825b0449c81cccb8
+notion_url: https://www.notion.so/Tizer/034916f4979b4c8b825b0449c81cccb8
 notion_id: 034916f4-979b-4c8b-825b-0449c81cccb8
 ---
 

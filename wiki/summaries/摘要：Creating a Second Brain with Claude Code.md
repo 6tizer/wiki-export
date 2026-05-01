@@ -1,15 +1,13 @@
 ---
 title: 摘要：Creating a Second Brain with Claude Code
 type: summary
-tags:
-- Coding Agent
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881bc8579c44db19b3a6b
-notion_url: https://www.notion.so/9df183f3f9af4f9bb211de7c4788fdad
+notion_url: https://www.notion.so/Tizer/9df183f3f9af4f9bb211de7c4788fdad
 notion_id: 9df183f3-f9af-4f9b-b211-de7c4788fdad
 ---
 

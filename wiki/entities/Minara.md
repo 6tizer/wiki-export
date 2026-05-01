@@ -1,15 +1,13 @@
 ---
 title: Minara
 type: entity
-tags:
-- Crypto/DeFi
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ece86b86904d4e4abcc5efda1ae4ddc7
+notion_url: https://www.notion.so/Tizer/ece86b86904d4e4abcc5efda1ae4ddc7
 notion_id: ece86b86-904d-4e4a-bcc5-efda1ae4ddc7
 ---
 

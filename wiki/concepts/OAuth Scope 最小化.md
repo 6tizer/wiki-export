@@ -1,15 +1,13 @@
 ---
 title: OAuth Scope 最小化
 type: concept
-tags:
-- 安全/隐私
-- Agent 技能
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/65acffab82e7491a968019d4cc853e5a
+notion_url: https://www.notion.so/Tizer/65acffab82e7491a968019d4cc853e5a
 notion_id: 65acffab-82e7-491a-9680-19d4cc853e5a
 ---
 

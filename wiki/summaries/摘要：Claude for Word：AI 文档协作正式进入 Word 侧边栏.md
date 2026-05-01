@@ -8,7 +8,7 @@ confidence: low
 last_compiled: '2026-04-15'
 source_tags: LLM, Claude, Office, 效率工具
 source_article_url: https://www.notion.so/343701074b688136acf0e7d8a9d11723
-notion_url: https://www.notion.so/274d20df1bec45e599a082634729b537
+notion_url: https://www.notion.so/Tizer/274d20df1bec45e599a082634729b537
 notion_id: 274d20df-1bec-45e5-99a0-82634729b537
 ---
 

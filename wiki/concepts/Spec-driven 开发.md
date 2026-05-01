@@ -1,9 +1,7 @@
 ---
 title: Spec-driven 开发
 type: concept
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-29'

@@ -3,13 +3,12 @@ title: FastClaw
 type: entity
 tags:
 - OpenClaw
-- Agent 框架
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e51eafb25ce24c14a0e4f75add62d4fd
+notion_url: https://www.notion.so/Tizer/e51eafb25ce24c14a0e4f75add62d4fd
 notion_id: e51eafb2-5ce2-4c14-a0e4-f75add62d4fd
 ---
 

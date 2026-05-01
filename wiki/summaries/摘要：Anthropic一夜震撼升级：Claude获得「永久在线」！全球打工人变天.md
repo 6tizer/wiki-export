@@ -2,13 +2,14 @@
 title: 摘要：Anthropic一夜震撼升级：Claude获得「永久在线」！全球打工人变天
 type: summary
 tags:
-- LLM
+- 商业/生态
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/d3e74669afc14d0a812173d54f758385
+notion_url: https://www.notion.so/Tizer/d3e74669afc14d0a812173d54f758385
 notion_id: d3e74669-afc1-4d0a-8121-73d54f758385
 ---
 

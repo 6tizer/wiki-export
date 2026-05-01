@@ -1,14 +1,13 @@
 ---
 title: Cognitive Framework
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7eaf48ed06f549ba9e9b393c3549c0b9
+notion_url: https://www.notion.so/Tizer/7eaf48ed06f549ba9e9b393c3549c0b9
 notion_id: 7eaf48ed-06f5-49ba-9e9b-393c3549c0b9
 ---
 

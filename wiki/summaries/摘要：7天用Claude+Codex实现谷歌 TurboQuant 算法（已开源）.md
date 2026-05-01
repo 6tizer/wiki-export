@@ -1,14 +1,13 @@
 ---
 title: 摘要：7天用Claude+Codex实现谷歌 TurboQuant 算法（已开源）
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: Agent, LLM, 自动化, codex, openai
 source_article_url: ''
-notion_url: https://www.notion.so/4fddc066fd464b0194a8c9d4f0b15fd9
+notion_url: https://www.notion.so/Tizer/4fddc066fd464b0194a8c9d4f0b15fd9
 notion_id: 4fddc066-fd46-4b01-94a8-c9d4f0b15fd9
 ---
 

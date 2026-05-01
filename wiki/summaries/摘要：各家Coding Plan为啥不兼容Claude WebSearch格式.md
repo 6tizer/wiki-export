@@ -1,15 +1,13 @@
 ---
 title: 摘要：各家Coding Plan为啥不兼容Claude WebSearch格式
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b688126a403e7eb4c7198e3
-notion_url: https://www.notion.so/02ede0dc76994dd89ea88f2b54b0cce1
+notion_url: https://www.notion.so/Tizer/02ede0dc76994dd89ea88f2b54b0cce1
 notion_id: 02ede0dc-7699-4dd8-9ea8-8f2b54b0cce1
 ---
 

@@ -3,13 +3,12 @@ title: LLM Wiki v2
 type: entity
 tags:
 - 知识管理
-- LLM
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/78a045d56fc94358b2791a3e919b726b
+notion_url: https://www.notion.so/Tizer/78a045d56fc94358b2791a3e919b726b
 notion_id: 78a045d5-6fc9-4358-b279-1a3e919b726b
 ---
 

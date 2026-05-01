@@ -3,13 +3,12 @@ title: Claim 断言模型
 type: concept
 tags:
 - 知识管理
-- 记忆系统
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/fbb8e4be0a924515bfce5d524936f394
+notion_url: https://www.notion.so/Tizer/fbb8e4be0a924515bfce5d524936f394
 notion_id: fbb8e4be-0a92-4515-bfce-5d524936f394
 ---
 

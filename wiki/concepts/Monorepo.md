@@ -1,15 +1,13 @@
 ---
 title: Monorepo
 type: concept
-tags:
-- 开发工具
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-14'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/58221f1b643d4879beeeb39a6cc80204
+notion_url: https://www.notion.so/Tizer/58221f1b643d4879beeeb39a6cc80204
 notion_id: 58221f1b-643d-4879-beee-b39a6cc80204
 ---
 

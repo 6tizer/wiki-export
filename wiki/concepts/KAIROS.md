@@ -2,13 +2,15 @@
 title: KAIROS
 type: concept
 tags:
+- Agent 协作模式
+- 长期记忆
 - OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/95b0180871a6404f82289265d56c5981
+notion_url: https://www.notion.so/Tizer/95b0180871a6404f82289265d56c5981
 notion_id: 95b01808-71a6-404f-8228-9265d56c5981
 ---
 

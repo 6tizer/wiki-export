@@ -1,15 +1,13 @@
 ---
 title: 摘要：你们需要的推文写作神器来了：tweet-skills，它是一组自动创作技能包。
 type: summary
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: 自动化, OpenClaw, skills, Agent, 开源
 source_article_url: https://www.notion.so/34b701074b688128b7eee8b016d2a5c5
-notion_url: https://www.notion.so/b117e61296574a90a60373c2a342fe33
+notion_url: https://www.notion.so/Tizer/b117e61296574a90a60373c2a342fe33
 notion_id: b117e612-9657-4a90-a603-73c2a342fe33
 ---
 

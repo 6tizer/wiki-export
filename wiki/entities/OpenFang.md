@@ -2,14 +2,11 @@
 title: OpenFang
 type: entity
 tags:
-- Agent 框架
-- Agent 编排
 - 多Agent协作
-- 安全/隐私
 - MCP 协议
 status: 审核中
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-05-01'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/850ba7b88f8f4d2baa507f6626f550d8

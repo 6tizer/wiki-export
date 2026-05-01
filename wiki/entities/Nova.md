@@ -1,15 +1,13 @@
 ---
 title: Nova
 type: entity
-tags:
-- Agent 框架
-- 内容创作
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0f053994a4e34e68bbc7ecb3fd68064f
+notion_url: https://www.notion.so/Tizer/0f053994a4e34e68bbc7ecb3fd68064f
 notion_id: 0f053994-a4e3-4e68-bbc7-ecb3fd68064f
 ---
 

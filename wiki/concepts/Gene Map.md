@@ -1,14 +1,13 @@
 ---
 title: Gene Map
 type: concept
-tags:
-- 记忆系统
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d4025e60abb64a0b976ab32507fa03a1
+notion_url: https://www.notion.so/Tizer/d4025e60abb64a0b976ab32507fa03a1
 notion_id: d4025e60-abb6-4a0b-976a-b32507fa03a1
 ---
 

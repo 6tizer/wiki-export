@@ -2,8 +2,9 @@
 title: 摘要：AI破局_06_GEO下_六步行动清单
 type: summary
 tags:
-- 商业/生态
 - 内容自动化
+- 商业/生态
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-05-01'

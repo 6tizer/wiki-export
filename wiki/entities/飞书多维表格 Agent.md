@@ -2,14 +2,15 @@
 title: 飞书多维表格 Agent
 type: entity
 tags:
-- 知识管理
-- Agent 框架
+- 内容自动化
+- 上下文管理
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8b3c330ce7484abda3bea3bafed2fe4d
+notion_url: https://www.notion.so/Tizer/8b3c330ce7484abda3bea3bafed2fe4d
 notion_id: 8b3c330c-e748-4abd-a3be-a3bafed2fe4d
 ---
 

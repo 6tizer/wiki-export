@@ -2,14 +2,15 @@
 title: 摘要：Superpowers——CC 资深工程素养 Skills 库
 type: summary
 tags:
-- 开发工具
-- 工作流
+- Agent 协作模式
+- Harness 工程
+- 代码生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/4dc8c0d7cc77490186d3e7321f992f8b
+notion_url: https://www.notion.so/Tizer/4dc8c0d7cc77490186d3e7321f992f8b
 notion_id: 4dc8c0d7-cc77-4901-86d3-e7321f992f8b
 ---
 

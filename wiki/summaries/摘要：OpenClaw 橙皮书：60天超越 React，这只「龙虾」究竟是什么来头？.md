@@ -2,14 +2,15 @@
 title: 摘要：OpenClaw 橙皮书：60天超越 React，这只「龙虾」究竟是什么来头？
 type: summary
 tags:
+- 商业/生态
+- 多Agent协作
 - OpenClaw
-- Agent 框架
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/4488a333a5a04f5d92d2f2258c2c84f0
+notion_url: https://www.notion.so/Tizer/4488a333a5a04f5d92d2f2258c2c84f0
 notion_id: 4488a333-a5a0-4f5d-92d2-f2258c2c84f0
 ---
 

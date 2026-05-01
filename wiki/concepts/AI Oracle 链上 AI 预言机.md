@@ -1,14 +1,13 @@
 ---
 title: AI Oracle 链上 AI 预言机
 type: concept
-tags:
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/09768a34fd69443f99a1cea9d3588ffa
+notion_url: https://www.notion.so/Tizer/09768a34fd69443f99a1cea9d3588ffa
 notion_id: 09768a34-fd69-443f-99a1-cea9d3588ffa
 ---
 

@@ -3,13 +3,13 @@ title: 摘要：OpenClaw-Medical-Skills：869个技能让你的AI助手变身专
 type: summary
 tags:
 - OpenClaw
-- Agent 技能
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/bcf106ead776475fbd5d7b0b417bae58
+notion_url: https://www.notion.so/Tizer/bcf106ead776475fbd5d7b0b417bae58
 notion_id: bcf106ea-d776-475f-bd5d-7b0b417bae58
 ---
 

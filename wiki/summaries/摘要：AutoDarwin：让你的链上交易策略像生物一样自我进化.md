@@ -2,14 +2,16 @@
 title: 摘要：AutoDarwin：让你的链上交易策略像生物一样自我进化
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 编排
+- 量化交易
+- 加密资产
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881a1aeb3f968a9dc2e07
-notion_url: https://www.notion.so/a41fe26f17924255a435725feec40688
+notion_url: https://www.notion.so/Tizer/a41fe26f17924255a435725feec40688
 notion_id: a41fe26f-1792-4255-a435-725feec40688
 ---
 

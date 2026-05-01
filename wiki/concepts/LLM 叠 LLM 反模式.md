@@ -1,9 +1,7 @@
 ---
 title: LLM 叠 LLM 反模式
 type: concept
-tags:
-- Agent 编排
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-30'

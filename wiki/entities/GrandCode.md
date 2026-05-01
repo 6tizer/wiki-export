@@ -1,15 +1,13 @@
 ---
 title: GrandCode
 type: entity
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d9698bb1e3d04187b61eb21c8633b392
+notion_url: https://www.notion.so/Tizer/d9698bb1e3d04187b61eb21c8633b392
 notion_id: d9698bb1-e3d0-4187-b61e-b21c8633b392
 ---
 

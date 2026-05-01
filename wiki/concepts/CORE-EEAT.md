@@ -2,8 +2,9 @@
 title: CORE-EEAT
 type: concept
 tags:
-- 工作流
-- 商业/生态
+- 知识管理
+- 内容自动化
+- AI 政策
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

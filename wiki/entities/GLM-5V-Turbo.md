@@ -1,15 +1,13 @@
 ---
 title: GLM-5V-Turbo
 type: entity
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f696f1662d184fe8b5a9ccf238b2d855
+notion_url: https://www.notion.so/Tizer/f696f1662d184fe8b5a9ccf238b2d855
 notion_id: f696f166-2d18-4fe8-b5a9-ccf238b2d855
 ---
 

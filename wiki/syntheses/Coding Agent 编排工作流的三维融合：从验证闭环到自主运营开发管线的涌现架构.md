@@ -2,16 +2,13 @@
 title: Coding Agent 编排工作流的三维融合：从验证闭环到自主运营开发管线的涌现架构
 type: synthesis
 tags:
-- Coding Agent
-- 工作流
-- Agent 编排
 - 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-06-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/929cae04a76d4598a239d590d643e9d6
+notion_url: https://www.notion.so/Tizer/929cae04a76d4598a239d590d643e9d6
 notion_id: 929cae04-a76d-4598-a239-d590d643e9d6
 ---
 

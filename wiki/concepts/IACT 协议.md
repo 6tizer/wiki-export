@@ -2,8 +2,9 @@
 title: IACT 协议
 type: concept
 tags:
-- Agent 技能
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

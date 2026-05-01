@@ -3,13 +3,15 @@ title: 摘要：一键接入OpenClaw，谷歌开源CLI狂揽15k Stars，Agent开
 type: summary
 tags:
 - OpenClaw
-- 开发工具
+- CLI 工具
+- Agent 协作模式
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/48175c1cd6c14db2ab6641f1e841aad0
+notion_url: https://www.notion.so/Tizer/48175c1cd6c14db2ab6641f1e841aad0
 notion_id: 48175c1c-d6c1-4db2-ab66-41f1e841aad0
 ---
 

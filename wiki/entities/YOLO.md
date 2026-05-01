@@ -1,14 +1,13 @@
 ---
 title: YOLO
 type: entity
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cb906fa80c1d47b5a447c70c1e8c7560
+notion_url: https://www.notion.so/Tizer/cb906fa80c1d47b5a447c70c1e8c7560
 notion_id: cb906fa8-0c1d-47b5-a447-c70c1e8c7560
 ---
 

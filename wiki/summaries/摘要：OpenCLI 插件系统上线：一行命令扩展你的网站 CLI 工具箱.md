@@ -1,15 +1,13 @@
 ---
 title: 摘要：OpenCLI 插件系统上线：一行命令扩展你的网站 CLI 工具箱
 type: summary
-tags:
-- Agent 技能
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: OpenClaw, 自动化, Agent
 source_article_url: https://www.notion.so/336701074b6881feaaacc61314c3b384
-notion_url: https://www.notion.so/ca44fa5602274212be3a7e9760f1bd5d
+notion_url: https://www.notion.so/Tizer/ca44fa5602274212be3a7e9760f1bd5d
 notion_id: ca44fa56-0227-4212-be3a-7e9760f1bd5d
 ---
 

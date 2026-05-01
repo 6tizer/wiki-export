@@ -2,14 +2,13 @@
 title: 摘要：汤道生：人工智能正式进入 Harness 时代
 type: summary
 tags:
-- Agent 编排
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b68810fac82eed53528c25c
-notion_url: https://www.notion.so/449d00da43e14a8ca003f9b9d1852959
+notion_url: https://www.notion.so/Tizer/449d00da43e14a8ca003f9b9d1852959
 notion_id: 449d00da-43e1-4a8c-a003-f9b9d1852959
 ---
 

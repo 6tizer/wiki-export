@@ -1,15 +1,13 @@
 ---
 title: 摘要：Logo Generator
 type: summary
-tags:
-- Coding Agent
-- 内容创作
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688136a732c2042e6db3b7
-notion_url: https://www.notion.so/f2f557e3f67a44e1ab3afd5ce72a550b
+notion_url: https://www.notion.so/Tizer/f2f557e3f67a44e1ab3afd5ce72a550b
 notion_id: f2f557e3-f67a-44e1-ab3a-fd5ce72a550b
 ---
 

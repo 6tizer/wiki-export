@@ -1,15 +1,13 @@
 ---
 title: 摘要：用 tmux 搭建 Agent Team 的终端舞台：Claude Code + Codex 多窗口协作入门
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, Cursor, LLM, 自动化
 source_article_url: https://www.notion.so/336701074b68819b97eac2d3f8931516
-notion_url: https://www.notion.so/cb75d6f8d1cd4e6b9f47b546e9b91f2e
+notion_url: https://www.notion.so/Tizer/cb75d6f8d1cd4e6b9f47b546e9b91f2e
 notion_id: cb75d6f8-d1cd-4e6b-9f47-b546e9b91f2e
 ---
 

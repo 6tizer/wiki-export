@@ -2,13 +2,15 @@
 title: 摘要：Coze 2.5 发布：成为 Agent 的网络
 type: summary
 tags:
-- 商业/生态
+- Agent 协作模式
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/efba38dc999744bcb86f446a5e8e987a
+notion_url: https://www.notion.so/Tizer/efba38dc999744bcb86f446a5e8e987a
 notion_id: efba38dc-9997-44bc-b86f-446a5e8e987a
 ---
 

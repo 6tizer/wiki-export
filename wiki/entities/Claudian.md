@@ -2,7 +2,6 @@
 title: Claudian
 type: entity
 tags:
-- Coding Agent
 - 知识管理
 status: 审核中
 confidence: medium

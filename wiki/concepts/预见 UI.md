@@ -2,7 +2,9 @@
 title: 预见 UI
 type: concept
 tags:
-- Agent 编排
+- AI 产品
+- AI 设计
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

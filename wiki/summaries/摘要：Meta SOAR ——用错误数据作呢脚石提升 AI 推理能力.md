@@ -1,14 +1,13 @@
 ---
 title: 摘要：Meta SOAR ——用错误数据作呢脚石提升 AI 推理能力
 type: summary
-tags:
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/e08652a2edb14297b80d2a0023b40e37
+notion_url: https://www.notion.so/Tizer/e08652a2edb14297b80d2a0023b40e37
 notion_id: e08652a2-edb1-4297-b80d-2a0023b40e37
 ---
 

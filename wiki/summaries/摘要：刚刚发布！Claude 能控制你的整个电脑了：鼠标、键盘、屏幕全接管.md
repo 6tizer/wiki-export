@@ -1,14 +1,13 @@
 ---
 title: 摘要：刚刚发布！Claude 能控制你的整个电脑了：鼠标、键盘、屏幕全接管
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Claude, Computer Use, 产品发布
 source_article_url: ''
-notion_url: https://www.notion.so/aeee5843ead04fac90764ddbc238e7cd
+notion_url: https://www.notion.so/Tizer/aeee5843ead04fac90764ddbc238e7cd
 notion_id: aeee5843-ead0-4fac-9076-4ddbc238e7cd
 ---
 

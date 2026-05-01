@@ -1,8 +1,7 @@
 ---
 title: WorldArena
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

@@ -2,14 +2,13 @@
 title: '摘要：The @karpathy SOUL is now live:'
 type: summary
 tags:
-- Coding Agent
 - 知识管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881bf90d2d26ee121e128
-notion_url: https://www.notion.so/dd7c23b2b6f94570b121369eff4cdbc5
+notion_url: https://www.notion.so/Tizer/dd7c23b2b6f94570b121369eff4cdbc5
 notion_id: dd7c23b2-b6f9-4570-b121-369eff4cdbc5
 ---
 

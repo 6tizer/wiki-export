@@ -1,14 +1,13 @@
 ---
 title: Berachain / PoL
 type: concept
-tags:
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0cb566a211f64bdc918fe44360927951
+notion_url: https://www.notion.so/Tizer/0cb566a211f64bdc918fe44360927951
 notion_id: 0cb566a2-11f6-4bdc-918f-e44360927951
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: xianyu-auto-reply
 type: entity
-tags:
-- 工作流
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

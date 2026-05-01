@@ -1,15 +1,13 @@
 ---
 title: 摘要：即梦发布 AI 原生动态叙事创作工具 Octo！
 type: summary
-tags:
-- 内容创作
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881549371d04783cca6a7
-notion_url: https://www.notion.so/7d1a8b0346f2491db07a1bad3f60fbe3
+notion_url: https://www.notion.so/Tizer/7d1a8b0346f2491db07a1bad3f60fbe3
 notion_id: 7d1a8b03-46f2-491d-b07a-1bad3f60fbe3
 ---
 

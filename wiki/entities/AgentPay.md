@@ -2,14 +2,13 @@
 title: AgentPay
 type: entity
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a9b91a2b46be4f2597971dc9231b53cb
+notion_url: https://www.notion.so/Tizer/a9b91a2b46be4f2597971dc9231b53cb
 notion_id: a9b91a2b-46be-4f25-9797-1dc9231b53cb
 ---
 

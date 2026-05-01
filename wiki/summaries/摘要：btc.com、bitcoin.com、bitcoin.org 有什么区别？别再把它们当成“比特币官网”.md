@@ -2,14 +2,13 @@
 title: 摘要：btc.com、bitcoin.com、bitcoin.org 有什么区别？别再把它们当成“比特币官网”
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/34e701074b6881bb90cfddfaf9aca5fd
-notion_url: https://www.notion.so/c596f18344a140eb94f75621815140ca
+notion_url: https://www.notion.so/Tizer/c596f18344a140eb94f75621815140ca
 notion_id: c596f183-44a1-40eb-94f7-5621815140ca
 ---
 

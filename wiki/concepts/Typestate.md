@@ -1,14 +1,13 @@
 ---
 title: Typestate
 type: concept
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/97dd43169ed643f3b200a560739f5f82
+notion_url: https://www.notion.so/Tizer/97dd43169ed643f3b200a560739f5f82
 notion_id: 97dd4316-9ed6-43f3-b200-a560739f5f82
 ---
 

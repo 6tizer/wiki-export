@@ -1,15 +1,13 @@
 ---
 title: recursive-mode
 type: entity
-tags:
-- 工作流
-- 记忆系统
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0f1a0d90afa74fa09eb73c33f53c8936
+notion_url: https://www.notion.so/Tizer/0f1a0d90afa74fa09eb73c33f53c8936
 notion_id: 0f1a0d90-afa7-4fa0-9eb7-3c33f53c8936
 ---
 

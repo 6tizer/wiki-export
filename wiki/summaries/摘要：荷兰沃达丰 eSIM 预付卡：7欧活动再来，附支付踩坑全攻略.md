@@ -3,13 +3,12 @@ title: 摘要：荷兰沃达丰 eSIM 预付卡：7欧活动再来，附支付踩
 type: summary
 tags:
 - 商业/生态
-- 安全/隐私
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: eSIM, Vodafone, 海外电话卡/接码
 source_article_url: https://www.notion.so/33e701074b68815e9523f3becd298609
-notion_url: https://www.notion.so/7ed8a2a18e824fe8993e8e016b3cefbc
+notion_url: https://www.notion.so/Tizer/7ed8a2a18e824fe8993e8e016b3cefbc
 notion_id: 7ed8a2a1-8e82-4fe8-993e-8e016b3cefbc
 ---
 

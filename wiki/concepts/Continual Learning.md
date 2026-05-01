@@ -1,9 +1,7 @@
 ---
 title: Continual Learning
 type: concept
-tags:
-- LLM
-- 记忆系统
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

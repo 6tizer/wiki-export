@@ -2,14 +2,13 @@
 title: Agent 框架的商业化分叉：从开源底座到托管平台的价值捕获路径与生态锁定博弈
 type: synthesis
 tags:
-- Agent 框架
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-06-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4cbfe99c99bf417fbf4377677eeaaa8a
+notion_url: https://www.notion.so/Tizer/4cbfe99c99bf417fbf4377677eeaaa8a
 notion_id: 4cbfe99c-99bf-417f-bf43-77677eeaaa8a
 ---
 

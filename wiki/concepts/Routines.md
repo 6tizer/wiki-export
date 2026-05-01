@@ -1,15 +1,13 @@
 ---
 title: Routines
 type: concept
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f7dad7eb49cc42b5978e0744c872a3c2
+notion_url: https://www.notion.so/Tizer/f7dad7eb49cc42b5978e0744c872a3c2
 notion_id: f7dad7eb-49cc-42b5-978e-0744c872a3c2
 ---
 

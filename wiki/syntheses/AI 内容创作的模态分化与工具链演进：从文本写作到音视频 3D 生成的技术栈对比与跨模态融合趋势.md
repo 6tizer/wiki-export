@@ -1,14 +1,13 @@
 ---
 title: AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势
 type: synthesis
-tags:
-- 内容创作
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e22d10f7196c49b88fd05994a84273f1
+notion_url: https://www.notion.so/Tizer/e22d10f7196c49b88fd05994a84273f1
 notion_id: e22d10f7-196c-49b8-8fd0-5994a84273f1
 ---
 

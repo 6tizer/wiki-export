@@ -1,15 +1,13 @@
 ---
 title: 摘要：没等来 Image 模型，等来了 Codex 大升级。
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881ad93c9d5eef48a8afe
-notion_url: https://www.notion.so/afd428e249894285b155bf9828e4d950
+notion_url: https://www.notion.so/Tizer/afd428e249894285b155bf9828e4d950
 notion_id: afd428e2-4989-4285-b155-bf9828e4d950
 ---
 

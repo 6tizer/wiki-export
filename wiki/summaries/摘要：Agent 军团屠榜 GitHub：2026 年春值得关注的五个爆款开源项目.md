@@ -2,13 +2,15 @@
 title: 摘要：Agent 军团屠榜 GitHub：2026 年春值得关注的五个爆款开源项目
 type: summary
 tags:
-- 开发工具
+- 多Agent协作
+- Agent 协作模式
+- 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/f5668ccc882c4a03a8419c53b493486d
+notion_url: https://www.notion.so/Tizer/f5668ccc882c4a03a8419c53b493486d
 notion_id: f5668ccc-882c-4a03-a841-9c53b493486d
 ---
 

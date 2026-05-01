@@ -1,15 +1,13 @@
 ---
 title: 摘要：EverOS
 type: summary
-tags:
-- 记忆系统
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68819a8461e12266fef137
-notion_url: https://www.notion.so/5ab27ba5420449a093868b4c50a2be2f
+notion_url: https://www.notion.so/Tizer/5ab27ba5420449a093868b4c50a2be2f
 notion_id: 5ab27ba5-4204-49a0-9386-8b4c50a2be2f
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: KV-Cache 分层存储
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

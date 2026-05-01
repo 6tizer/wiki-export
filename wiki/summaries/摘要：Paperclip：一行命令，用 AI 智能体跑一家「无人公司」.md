@@ -2,14 +2,16 @@
 title: 摘要：Paperclip：一行命令，用 AI 智能体跑一家「无人公司」
 type: summary
 tags:
-- Agent 框架
-- 工作流
+- 多Agent协作
+- Agent 协作模式
+- 商业/生态
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, Cursor, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/13e379321ff045b7a610d73490d9d99e
+notion_url: https://www.notion.so/Tizer/13e379321ff045b7a610d73490d9d99e
 notion_id: 13e37932-1ff0-45b7-a610-d73490d9d99e
 ---
 

@@ -2,14 +2,15 @@
 title: 摘要：我用Claude code开发了一个微信小程序：实测78个skills，这5个组合最香
 type: summary
 tags:
-- 开发工具
-- 工作流
+- 前端开发
+- 代码生成
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, Build AI
 source_article_url: ''
-notion_url: https://www.notion.so/37b77d11c6e3471f927a6474d3a22996
+notion_url: https://www.notion.so/Tizer/37b77d11c6e3471f927a6474d3a22996
 notion_id: 37b77d11-c6e3-471f-927a-6474d3a22996
 ---
 

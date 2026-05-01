@@ -3,12 +3,13 @@ title: 摘要：OpenClaw 2026.3.1——25.2万星登顶GitHub
 type: summary
 tags:
 - OpenClaw
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/50542e35388e4cdfb61be173ae6bce13
+notion_url: https://www.notion.so/Tizer/50542e35388e4cdfb61be173ae6bce13
 notion_id: 50542e35-388e-4cdf-b61b-e173ae6bce13
 ---
 

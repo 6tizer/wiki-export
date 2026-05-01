@@ -2,8 +2,9 @@
 title: 满血CC中转站
 type: entity
 tags:
-- LLM
 - 商业/生态
+- AI 产品
+- 知识管理
 status: 审核中
 confidence: low
 last_compiled: '2026-05-01'

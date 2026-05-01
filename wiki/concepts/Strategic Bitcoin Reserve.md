@@ -2,14 +2,13 @@
 title: Strategic Bitcoin Reserve
 type: concept
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2c47fa99ce5d4c35ad421847e8a42468
+notion_url: https://www.notion.so/Tizer/2c47fa99ce5d4c35ad421847e8a42468
 notion_id: 2c47fa99-ce5d-4c35-ad42-1847e8a42468
 ---
 

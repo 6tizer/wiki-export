@@ -2,15 +2,13 @@
 title: '摘要：A new way to think about composing skills to increase leverage: Skill Graphs
   2.0'
 type: summary
-tags:
-- Agent 技能
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881ce9300f1d1bf56598e
-notion_url: https://www.notion.so/679523dc74234186b8e4f52e30b36386
+notion_url: https://www.notion.so/Tizer/679523dc74234186b8e4f52e30b36386
 notion_id: 679523dc-7423-4186-b8e4-f52e30b36386
 ---
 

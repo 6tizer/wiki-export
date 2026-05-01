@@ -2,14 +2,15 @@
 title: 摘要：MiroFish：一个大四学生用 10 天「vibe coding」出来的 AI 未来预测引擎
 type: summary
 tags:
-- Agent 编排
-- LLM
+- Agent 协作模式
+- 长期记忆
+- 多Agent协作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/825ff34ac6674de789a83090fb58017b
+notion_url: https://www.notion.so/Tizer/825ff34ac6674de789a83090fb58017b
 notion_id: 825ff34a-c667-4de7-89a8-3090fb58017b
 ---
 

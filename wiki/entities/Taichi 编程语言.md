@@ -2,7 +2,9 @@
 title: Taichi 编程语言
 type: entity
 tags:
-- 开发工具
+- AI 设计
+- 图像生成
+- 视频/3D
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

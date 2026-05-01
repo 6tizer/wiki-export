@@ -1,15 +1,13 @@
 ---
 title: 摘要：Google Stitch 2.0 + Claude Code：独立开发者终于有了自己的设计师
 type: summary
-tags:
-- Coding Agent
-- 内容创作
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: LLM, 自动化, Agent, Google Stitch, Claude
 source_article_url: https://www.notion.so/33d701074b6881198fcaf70bb1bc603b
-notion_url: https://www.notion.so/482f8eac8d0f4260ba6770edcb150de0
+notion_url: https://www.notion.so/Tizer/482f8eac8d0f4260ba6770edcb150de0
 notion_id: 482f8eac-8d0f-4260-ba67-70edcb150de0
 ---
 

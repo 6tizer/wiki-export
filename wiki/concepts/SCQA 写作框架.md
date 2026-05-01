@@ -1,15 +1,13 @@
 ---
 title: SCQA 写作框架
 type: concept
-tags:
-- 内容创作
-- Agent 技能
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3d87fc2060014c6caf085fca1721c842
+notion_url: https://www.notion.so/Tizer/3d87fc2060014c6caf085fca1721c842
 notion_id: 3d87fc20-6001-4c6c-af08-5fca1721c842
 ---
 

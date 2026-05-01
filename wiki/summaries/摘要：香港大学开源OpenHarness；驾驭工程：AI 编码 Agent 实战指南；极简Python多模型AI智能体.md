@@ -2,13 +2,15 @@
 title: 摘要：香港大学开源OpenHarness；驾驭工程：AI 编码 Agent 实战指南；极简Python多模型AI智能体
 type: summary
 tags:
-- 开发工具
+- Agent 协作模式
+- Harness 工程
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, Cursor, OpenClaw, 自动化, harness, 港大开源
 source_article_url: ''
-notion_url: https://www.notion.so/08de7e623a8545bc82edac82a5996849
+notion_url: https://www.notion.so/Tizer/08de7e623a8545bc82edac82a5996849
 notion_id: 08de7e62-3a85-45bc-82ed-ac82a5996849
 ---
 

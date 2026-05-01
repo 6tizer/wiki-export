@@ -2,13 +2,15 @@
 title: 摘要：Claw-code：一个人用AI，8小时重写Claude Code
 type: summary
 tags:
-- 开发工具
+- 代码生成
+- OpenClaw
+- 前端开发
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Claude Code, Vibe Coding, 开源项目
 source_article_url: ''
-notion_url: https://www.notion.so/a067ddc165c84ee8871531d12319fd3c
+notion_url: https://www.notion.so/Tizer/a067ddc165c84ee8871531d12319fd3c
 notion_id: a067ddc1-65c8-4ee8-8715-31d12319fd3c
 ---
 

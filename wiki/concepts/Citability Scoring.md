@@ -3,13 +3,12 @@ title: Citability Scoring
 type: concept
 tags:
 - 商业/生态
-- Coding Agent
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/acf0aa7a335b4803bb159afbee784479
+notion_url: https://www.notion.so/Tizer/acf0aa7a335b4803bb159afbee784479
 notion_id: acf0aa7a-335b-4803-bb15-9afbee784479
 ---
 

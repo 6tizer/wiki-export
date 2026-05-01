@@ -1,15 +1,13 @@
 ---
 title: PPT Master
 type: entity
-tags:
-- 内容创作
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/08e39f25f3b04b589a2de41b6375cb59
+notion_url: https://www.notion.so/Tizer/08e39f25f3b04b589a2de41b6375cb59
 notion_id: 08e39f25-f3b0-4b58-9a2d-e41b6375cb59
 ---
 

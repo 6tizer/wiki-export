@@ -2,13 +2,16 @@
 title: 摘要：Napkin AI：把文字一键变成精美视觉图表的 AI 神器
 type: summary
 tags:
-- 工作流
+- 内容自动化
+- AI 设计
+- AI 产品
+- 图像生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/ac525c33861545758d5a89b44cfb7571
+notion_url: https://www.notion.so/Tizer/ac525c33861545758d5a89b44cfb7571
 notion_id: ac525c33-8615-4575-8d5a-89b44cfb7571
 ---
 

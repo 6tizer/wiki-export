@@ -3,13 +3,14 @@ title: 摘要：QMD：Shopify CEO 亲手做的本地语义搜索引擎，给 AI 
 type: summary
 tags:
 - 知识管理
-- 记忆系统
+- RAG/检索
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, LLM, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/aabf76dad5434f49900200fa7ddc18ef
+notion_url: https://www.notion.so/Tizer/aabf76dad5434f49900200fa7ddc18ef
 notion_id: aabf76da-d543-4f49-9002-00fa7ddc18ef
 ---
 

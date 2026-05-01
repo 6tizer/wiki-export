@@ -1,14 +1,13 @@
 ---
 title: OpenAI Agents SDK
 type: entity
-tags:
-- Agent 框架
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cecf7a9715ac4ec8b77cef5052e9afdf
+notion_url: https://www.notion.so/Tizer/cecf7a9715ac4ec8b77cef5052e9afdf
 notion_id: cecf7a97-15ac-4ec8-b77c-ef5052e9afdf
 ---
 

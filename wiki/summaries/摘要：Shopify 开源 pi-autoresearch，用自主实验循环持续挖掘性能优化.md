@@ -1,15 +1,13 @@
 ---
 title: 摘要：Shopify 开源 pi-autoresearch，用自主实验循环持续挖掘性能优化
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881f79337c20ce12d1ba5
-notion_url: https://www.notion.so/7b09de20fab14ab3891194c47b00d3f0
+notion_url: https://www.notion.so/Tizer/7b09de20fab14ab3891194c47b00d3f0
 notion_id: 7b09de20-fab1-4ab3-8911-94c47b00d3f0
 ---
 

@@ -2,8 +2,9 @@
 title: Prompt Templates
 type: concept
 tags:
-- Coding Agent
 - 知识管理
+- 提示工程
+- 笔记工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

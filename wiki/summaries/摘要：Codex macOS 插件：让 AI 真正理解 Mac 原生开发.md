@@ -1,15 +1,13 @@
 ---
 title: 摘要：Codex macOS 插件：让 AI 真正理解 Mac 原生开发
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33f701074b6881a3862aedbf15f98cd4
-notion_url: https://www.notion.so/96d61e6f75cc44219bdb13d7da842978
+notion_url: https://www.notion.so/Tizer/96d61e6f75cc44219bdb13d7da842978
 notion_id: 96d61e6f-75cc-4421-9bdb-13d7da842978
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: Manus
 type: entity
-tags:
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/ccefd76b5bb446e8a9e1ebca57f294c6
+notion_url: https://www.notion.so/Tizer/ccefd76b5bb446e8a9e1ebca57f294c6
 notion_id: ccefd76b-5bb4-46e8-a9e1-ebca57f294c6
 ---
 

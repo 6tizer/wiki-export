@@ -2,13 +2,14 @@
 title: 摘要：万字干货：理解 Harness Engineering，看这一篇就够了
 type: summary
 tags:
-- Agent 编排
+- Harness 工程
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/011ab480963044c38f16b0f29de6f7b5
+notion_url: https://www.notion.so/Tizer/011ab480963044c38f16b0f29de6f7b5
 notion_id: 011ab480-9630-44c3-8f16-b0f29de6f7b5
 ---
 

@@ -2,13 +2,14 @@
 title: 摘要：Anthropic 4 亿美金收购 Coefficient Bio 布局 AI 生物学
 type: summary
 tags:
-- LLM
+- 商业/生态
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/2ee7ca4288a0484c9bbb95f64c778030
+notion_url: https://www.notion.so/Tizer/2ee7ca4288a0484c9bbb95f64c778030
 notion_id: 2ee7ca42-88a0-484c-9bbb-95f64c778030
 ---
 

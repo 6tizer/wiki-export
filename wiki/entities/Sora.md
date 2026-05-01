@@ -1,15 +1,13 @@
 ---
 title: Sora
 type: entity
-tags:
-- 内容创作
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2e7171c36bc14aa9b51419073b2fb9ac
+notion_url: https://www.notion.so/Tizer/2e7171c36bc14aa9b51419073b2fb9ac
 notion_id: 2e7171c3-6bc1-4aa9-b514-19073b2fb9ac
 ---
 

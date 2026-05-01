@@ -2,8 +2,9 @@
 title: Sparse Reference Attention
 type: concept
 tags:
-- 内容创作
-- 多模态
+- 推理优化
+- 训练/微调
+- 视频/3D
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

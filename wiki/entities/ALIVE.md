@@ -2,14 +2,13 @@
 title: ALIVE
 type: entity
 tags:
-- 记忆系统
 - 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/badb7ebbc9914797849345cf0218f90b
+notion_url: https://www.notion.so/Tizer/badb7ebbc9914797849345cf0218f90b
 notion_id: badb7ebb-c991-4797-8493-45cf0218f90b
 ---
 

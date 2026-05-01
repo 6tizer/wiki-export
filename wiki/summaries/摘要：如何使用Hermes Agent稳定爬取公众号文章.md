@@ -2,14 +2,15 @@
 title: 摘要：如何使用Hermes Agent稳定爬取公众号文章
 type: summary
 tags:
-- 开发工具
-- 工作流
+- 内容自动化
+- 浏览器自动化
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/a306c2a938f54b8fbce5a804020fba21
+notion_url: https://www.notion.so/Tizer/a306c2a938f54b8fbce5a804020fba21
 notion_id: a306c2a9-38f5-4b8f-bce5-a804020fba21
 ---
 

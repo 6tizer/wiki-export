@@ -3,13 +3,12 @@ title: 摘要：Shopify刚放了个大招，绝大多数人估计半年后才会
 type: summary
 tags:
 - 商业/生态
-- Agent 技能
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b6881889758dd29a4ece312
-notion_url: https://www.notion.so/a07808b4434e45ec9d3d826172313c34
+notion_url: https://www.notion.so/Tizer/a07808b4434e45ec9d3d826172313c34
 notion_id: a07808b4-434e-45ec-9d3d-826172313c34
 ---
 

@@ -3,14 +3,13 @@ title: 摘要：This is 100% right. If you know your market, your customer, and 
   you're solving, you have taste, you know what is good and what sucks
 type: summary
 tags:
-- Coding Agent
 - 商业/生态
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881b7873de0788a69efce
-notion_url: https://www.notion.so/9fa2a84fe935445194f039604fbdd4cc
+notion_url: https://www.notion.so/Tizer/9fa2a84fe935445194f039604fbdd4cc
 notion_id: 9fa2a84f-e935-4451-94f0-39604fbdd4cc
 ---
 

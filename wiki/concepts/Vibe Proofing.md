@@ -1,15 +1,13 @@
 ---
 title: Vibe Proofing
 type: concept
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/12f067e379bb4f23afeb31456c4578a6
+notion_url: https://www.notion.so/Tizer/12f067e379bb4f23afeb31456c4578a6
 notion_id: 12f067e3-79bb-4f23-afeb-31456c4578a6
 ---
 

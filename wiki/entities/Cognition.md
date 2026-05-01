@@ -2,14 +2,13 @@
 title: Cognition
 type: entity
 tags:
-- Coding Agent
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b15a070c30f94bf3995c848711c2f99d
+notion_url: https://www.notion.so/Tizer/b15a070c30f94bf3995c848711c2f99d
 notion_id: b15a070c-30f9-4bf3-995c-848711c2f99d
 ---
 

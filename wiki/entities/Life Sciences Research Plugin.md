@@ -1,15 +1,13 @@
 ---
 title: Life Sciences Research Plugin
 type: entity
-tags:
-- Agent 技能
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1fa60a95ea52408c83fee24101d2ead0
+notion_url: https://www.notion.so/Tizer/1fa60a95ea52408c83fee24101d2ead0
 notion_id: 1fa60a95-ea52-408c-83fe-e24101d2ead0
 ---
 

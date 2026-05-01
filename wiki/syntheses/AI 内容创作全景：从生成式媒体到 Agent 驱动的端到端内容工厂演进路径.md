@@ -2,13 +2,15 @@
 title: AI 内容创作全景：从生成式媒体到 Agent 驱动的端到端内容工厂演进路径
 type: synthesis
 tags:
-- 内容创作
+- 内容自动化
+- 多模态
+- 浏览器自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6eae3d7fb17c4e2e82a27e8608cd539b
+notion_url: https://www.notion.so/Tizer/6eae3d7fb17c4e2e82a27e8608cd539b
 notion_id: 6eae3d7f-b17c-4e2e-82a2-7e8608cd539b
 ---
 

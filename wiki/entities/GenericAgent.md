@@ -1,15 +1,13 @@
 ---
 title: GenericAgent
 type: entity
-tags:
-- Coding Agent
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a6caec11ce8948e1805cf5027b9555ab
+notion_url: https://www.notion.so/Tizer/a6caec11ce8948e1805cf5027b9555ab
 notion_id: a6caec11-ce89-48e1-805c-f5027b9555ab
 ---
 

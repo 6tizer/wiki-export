@@ -2,14 +2,13 @@
 title: 摘要：OpenAI向左，DeepSeek向右
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: https://www.notion.so/34c701074b6881b8a3caf5426041751b
-notion_url: https://www.notion.so/f89a321a805d4c7c8dd51135a55c96c6
+notion_url: https://www.notion.so/Tizer/f89a321a805d4c7c8dd51135a55c96c6
 notion_id: f89a321a-805d-4c7c-8dd5-1135a55c96c6
 ---
 

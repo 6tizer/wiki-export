@@ -1,14 +1,13 @@
 ---
 title: 摘要：Hermes WebUI：给 Hermes Agent 装上浏览器界面，CLI 党也能优雅用 AI
 type: summary
-tags:
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: https://www.notion.so/33d701074b688189a0ffce94843aac06
-notion_url: https://www.notion.so/1725072ad0d744bbbc6a3e121d3e80f2
+notion_url: https://www.notion.so/Tizer/1725072ad0d744bbbc6a3e121d3e80f2
 notion_id: 1725072a-d0d7-44bb-bc6a-3e121d3e80f2
 ---
 

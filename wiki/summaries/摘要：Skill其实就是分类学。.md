@@ -1,15 +1,13 @@
 ---
 title: 摘要：Skill其实就是分类学。
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881d48281c5d7e3ddcc46
-notion_url: https://www.notion.so/00cb245e8301468692d51fd50bbf55e0
+notion_url: https://www.notion.so/Tizer/00cb245e8301468692d51fd50bbf55e0
 notion_id: 00cb245e-8301-4686-92d5-1fd50bbf55e0
 ---
 

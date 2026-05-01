@@ -2,14 +2,13 @@
 title: AI 主权分析框架
 type: concept
 tags:
-- 安全/隐私
 - 商业/生态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c05b76d4d61d47fb80fb67cbfb077cf3
+notion_url: https://www.notion.so/Tizer/c05b76d4d61d47fb80fb67cbfb077cf3
 notion_id: c05b76d4-d61d-47fb-80fb-67cbfb077cf3
 ---
 

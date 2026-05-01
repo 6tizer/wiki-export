@@ -3,13 +3,16 @@ title: OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 
 type: synthesis
 tags:
 - OpenClaw
-- 工作流
+- 多Agent协作
+- Harness 工程
+- Agent 协作模式
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/db6fb9bcc96146bab8e7ec23e26ffc3c
+notion_url: https://www.notion.so/Tizer/db6fb9bcc96146bab8e7ec23e26ffc3c
 notion_id: db6fb9bc-c961-46ba-b8e7-ec23e26ffc3c
 ---
 

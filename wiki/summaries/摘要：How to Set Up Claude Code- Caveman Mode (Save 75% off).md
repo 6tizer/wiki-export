@@ -1,15 +1,13 @@
 ---
 title: '摘要：How to Set Up Claude Code: Caveman Mode (Save 75% off)'
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68810ea7c6d9b5685a4681
-notion_url: https://www.notion.so/af0d31f9e3bf4dc99e308776cac49f7c
+notion_url: https://www.notion.so/Tizer/af0d31f9e3bf4dc99e308776cac49f7c
 notion_id: af0d31f9-e3bf-4dc9-9e30-8776cac49f7c
 ---
 

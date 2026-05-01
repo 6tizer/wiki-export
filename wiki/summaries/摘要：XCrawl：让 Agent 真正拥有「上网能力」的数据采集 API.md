@@ -2,14 +2,13 @@
 title: 摘要：XCrawl：让 Agent 真正拥有「上网能力」的数据采集 API
 type: summary
 tags:
-- Agent 技能
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b6881f59437f5ede55d2919
-notion_url: https://www.notion.so/d43980a2af274b88b4832e0ca0d1febc
+notion_url: https://www.notion.so/Tizer/d43980a2af274b88b4832e0ca0d1febc
 notion_id: d43980a2-af27-4b88-b483-2e0ca0d1febc
 ---
 

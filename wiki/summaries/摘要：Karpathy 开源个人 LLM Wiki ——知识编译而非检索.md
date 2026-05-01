@@ -3,12 +3,14 @@ title: 摘要：Karpathy 开源个人 LLM Wiki ——知识编译而非检索
 type: summary
 tags:
 - 知识管理
+- 笔记工具
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化, Cursor, Agent, Karpathy, wiki
 source_article_url: ''
-notion_url: https://www.notion.so/91dec1d35de54bb6aaaf73086d9d6462
+notion_url: https://www.notion.so/Tizer/91dec1d35de54bb6aaaf73086d9d6462
 notion_id: 91dec1d3-5de5-4bb6-aaaf-73086d9d6462
 ---
 

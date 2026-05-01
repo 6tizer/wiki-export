@@ -2,14 +2,13 @@
 title: 从知识获取到技能封装：Agent 技能与知识管理的双向融合路径
 type: synthesis
 tags:
-- Agent 技能
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/39b7fd7523b148b1a987412a6218bf2e
+notion_url: https://www.notion.so/Tizer/39b7fd7523b148b1a987412a6218bf2e
 notion_id: 39b7fd75-23b1-48b1-a987-412a6218bf2e
 ---
 
@@ -111,7 +110,7 @@ notion_id: 39b7fd75-23b1-48b1-a987-412a6218bf2e
 
 - [摘要：Skill Graph > SKILL.md 渐进式披露典范](summaries/摘要：Skill Graph  SKILL.md 渐进式披露典范.md)
 
-- [摘要：实操指南：如何用 Karpathy 的 LLM + Markdown + Wiki 搭建个人知识库](summaries/摘要：实操指南：如何用 Karpathy 的 LLM + Markdown + Wiki 搭建个人知识库.md)
+- 摘要：实操指南：如何用 Karpathy 的 LLM + Markdown + Wiki 搭建个人知识库
 
 ## 行动建议
 

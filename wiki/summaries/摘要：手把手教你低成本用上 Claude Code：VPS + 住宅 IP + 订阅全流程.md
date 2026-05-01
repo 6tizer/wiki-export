@@ -2,14 +2,14 @@
 title: 摘要：手把手教你低成本用上 Claude Code：VPS + 住宅 IP + 订阅全流程
 type: summary
 tags:
-- Coding Agent
-- 安全/隐私
+- Agent 协作模式
+- 提示工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/dbcc6fa494204c4188a19108b46f961a
+notion_url: https://www.notion.so/Tizer/dbcc6fa494204c4188a19108b46f961a
 notion_id: dbcc6fa4-9420-4c41-88a1-9108b46f961a
 ---
 

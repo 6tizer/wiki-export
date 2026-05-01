@@ -2,14 +2,15 @@
 title: 摘要：GEO-SEO Claude Code Skill：用 AI Agent 给网站做「AI 搜索引擎优化」
 type: summary
 tags:
-- 开发工具
-- 商业/生态
+- 内容自动化
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/afeef8f97dca46aca5bd01f42b4c7324
+notion_url: https://www.notion.so/Tizer/afeef8f97dca46aca5bd01f42b4c7324
 notion_id: afeef8f9-7dca-46ac-a5bd-01f42b4c7324
 ---
 

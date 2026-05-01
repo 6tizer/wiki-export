@@ -2,8 +2,9 @@
 title: 模型聚合 API
 type: concept
 tags:
-- 开发工具
-- 多模态
+- 模型部署
+- 商业/生态
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

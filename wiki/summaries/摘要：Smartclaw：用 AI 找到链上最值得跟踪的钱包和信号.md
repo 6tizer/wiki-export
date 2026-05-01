@@ -2,14 +2,16 @@
 title: 摘要：Smartclaw：用 AI 找到链上最值得跟踪的钱包和信号
 type: summary
 tags:
-- Crypto/DeFi
-- 商业/生态
+- 加密资产
+- 链上协议
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b68814ca123db55a4677c97
-notion_url: https://www.notion.so/912e18cc6559487aa66254bf8bda76f1
+notion_url: https://www.notion.so/Tizer/912e18cc6559487aa66254bf8bda76f1
 notion_id: 912e18cc-6559-487a-a662-54bf8bda76f1
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: 摘要：卡兹克开源内容创作 Skill ——AI 辅助创作的第一性原则
 type: summary
-tags:
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/a7dfa1ec3b2c4665a3816101cb107836
+notion_url: https://www.notion.so/Tizer/a7dfa1ec3b2c4665a3816101cb107836
 notion_id: a7dfa1ec-3b2c-4665-a381-6101cb107836
 ---
 

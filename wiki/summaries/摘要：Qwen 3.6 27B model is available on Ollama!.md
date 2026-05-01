@@ -1,15 +1,13 @@
 ---
 title: 摘要：Qwen 3.6 27B model is available on Ollama!
 type: summary
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68814590b1d47ba0ff8250
-notion_url: https://www.notion.so/8a905011675d4aa08de44b9d3634d2c3
+notion_url: https://www.notion.so/Tizer/8a905011675d4aa08de44b9d3634d2c3
 notion_id: 8a905011-675d-4aa0-8de4-4b9d3634d2c3
 ---
 

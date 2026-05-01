@@ -1,15 +1,13 @@
 ---
 title: AI Native 组织
 type: concept
-tags:
-- Agent 编排
-- 工作流
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c15caa5bd67d4978a340416b507640c7
+notion_url: https://www.notion.so/Tizer/c15caa5bd67d4978a340416b507640c7
 notion_id: c15caa5b-d67d-4978-a340-416b507640c7
 ---
 

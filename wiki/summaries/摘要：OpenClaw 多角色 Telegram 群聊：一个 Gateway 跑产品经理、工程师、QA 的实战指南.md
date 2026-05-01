@@ -2,15 +2,15 @@
 title: 摘要：OpenClaw 多角色 Telegram 群聊：一个 Gateway 跑产品经理、工程师、QA 的实战指南
 type: summary
 tags:
+- Agent 协作模式
+- 多Agent协作
 - OpenClaw
-- Agent 编排
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/a38d41125c024a1ab132a61e68b0c946
+notion_url: https://www.notion.so/Tizer/a38d41125c024a1ab132a61e68b0c946
 notion_id: a38d4112-5c02-4a1a-b132-a61e68b0c946
 ---
 

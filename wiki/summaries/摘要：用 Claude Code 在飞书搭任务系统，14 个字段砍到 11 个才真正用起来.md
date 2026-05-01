@@ -1,15 +1,13 @@
 ---
 title: 摘要：用 Claude Code 在飞书搭任务系统，14 个字段砍到 11 个才真正用起来
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: Claude, 自动化, 开发者工具, Office
 source_article_url: https://www.notion.so/34b701074b6881af91a9e8e2ca9a4ab2
-notion_url: https://www.notion.so/25c9e6cd0de44e1bbe44263a1c95c932
+notion_url: https://www.notion.so/Tizer/25c9e6cd0de44e1bbe44263a1c95c932
 notion_id: 25c9e6cd-0de4-4e1b-be44-263a1c95c932
 ---
 

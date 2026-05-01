@@ -2,13 +2,14 @@
 title: 摘要：这首AI歌曲为何戳中所有人，我们从未如此孤独。
 type: summary
 tags:
-- 内容创作
+- 内容自动化
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/70e416515dcd4a1cbe2996cf6a712c7b
+notion_url: https://www.notion.so/Tizer/70e416515dcd4a1cbe2996cf6a712c7b
 notion_id: 70e41651-5dcd-4a1c-be29-96cf6a712c7b
 ---
 

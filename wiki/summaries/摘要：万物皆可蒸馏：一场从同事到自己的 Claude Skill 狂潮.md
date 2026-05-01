@@ -2,14 +2,13 @@
 title: 摘要：万物皆可蒸馏：一场从同事到自己的 Claude Skill 狂潮
 type: summary
 tags:
-- Agent 技能
 - 知识管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/33f701074b68818981d9f6f541a5eecb
-notion_url: https://www.notion.so/f2103fb6636d4c6a91b33bf2b149dd40
+notion_url: https://www.notion.so/Tizer/f2103fb6636d4c6a91b33bf2b149dd40
 notion_id: f2103fb6-636d-4c6a-91b3-3bf2b149dd40
 ---
 

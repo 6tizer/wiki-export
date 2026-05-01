@@ -3,7 +3,6 @@ title: OpenTwitter MCP
 type: entity
 tags:
 - OpenClaw
-- Crypto/DeFi
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

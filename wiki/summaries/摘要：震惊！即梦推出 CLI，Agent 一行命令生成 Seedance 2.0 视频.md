@@ -2,13 +2,16 @@
 title: 摘要：震惊！即梦推出 CLI，Agent 一行命令生成 Seedance 2.0 视频
 type: summary
 tags:
-- 内容创作
+- 视频/3D
+- CLI 工具
+- 内容自动化
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/51504ad3d33b406a85d1c24d435b6c71
+notion_url: https://www.notion.so/Tizer/51504ad3d33b406a85d1c24d435b6c71
 notion_id: 51504ad3-d33b-406a-85d1-c24d435b6c71
 ---
 

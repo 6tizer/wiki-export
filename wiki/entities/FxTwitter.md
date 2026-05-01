@@ -2,14 +2,13 @@
 title: FxTwitter
 type: entity
 tags:
-- 开发工具
-- Agent 技能
+- 社交媒体
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1be129636611421191d10aabfd99875e
+notion_url: https://www.notion.so/Tizer/1be129636611421191d10aabfd99875e
 notion_id: 1be12963-6611-4211-91d1-0aabfd99875e
 ---
 

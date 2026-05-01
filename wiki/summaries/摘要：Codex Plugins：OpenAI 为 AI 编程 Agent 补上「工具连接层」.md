@@ -2,13 +2,15 @@
 title: 摘要：Codex Plugins：OpenAI 为 AI 编程 Agent 补上「工具连接层」
 type: summary
 tags:
-- 开发工具
+- 商业/生态
+- MCP 协议
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/04d79265b9c540bea2c527e1e5179e21
+notion_url: https://www.notion.so/Tizer/04d79265b9c540bea2c527e1e5179e21
 notion_id: 04d79265-b9c5-40be-a2c5-27e1e5179e21
 ---
 

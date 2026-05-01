@@ -2,14 +2,16 @@
 title: 摘要：OpenViking：字节火山引擎开源的 AI Agent 上下文数据库
 type: summary
 tags:
-- 记忆系统
 - 知识管理
+- 上下文管理
+- 长期记忆
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b688195a10ef8016f6e7dbf
-notion_url: https://www.notion.so/cdbdef8811344156a5f38ef79a0960e7
+notion_url: https://www.notion.so/Tizer/cdbdef8811344156a5f38ef79a0960e7
 notion_id: cdbdef88-1134-4156-a5f3-8ef79a0960e7
 ---
 

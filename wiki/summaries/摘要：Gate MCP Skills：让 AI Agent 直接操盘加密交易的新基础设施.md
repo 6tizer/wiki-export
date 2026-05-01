@@ -2,15 +2,15 @@
 title: 摘要：Gate MCP Skills：让 AI Agent 直接操盘加密交易的新基础设施
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 加密资产
+- MCP 协议
 - OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/f2adf052e92443b7bc943fd367e791e3
+notion_url: https://www.notion.so/Tizer/f2adf052e92443b7bc943fd367e791e3
 notion_id: f2adf052-e924-43b7-bc94-3fd367e791e3
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：openclaw-weixin
 type: summary
-tags:
-- 记忆系统
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881ee8b9dea82abba840c
-notion_url: https://www.notion.so/21c6cdc4351c4a78ae85d1e2103e662a
+notion_url: https://www.notion.so/Tizer/21c6cdc4351c4a78ae85d1e2103e662a
 notion_id: 21c6cdc4-351c-4a78-ae85-d1e2103e662a
 ---
 

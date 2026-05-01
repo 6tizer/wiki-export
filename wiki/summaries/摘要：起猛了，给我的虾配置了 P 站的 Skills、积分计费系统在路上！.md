@@ -2,13 +2,15 @@
 title: 摘要：起猛了，给我的虾配置了 P 站的 Skills、积分计费系统在路上！
 type: summary
 tags:
-- 开发工具
+- 商业/生态
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, API
 source_article_url: ''
-notion_url: https://www.notion.so/dd7ac045cfe344a9a8d45ba8034af504
+notion_url: https://www.notion.so/Tizer/dd7ac045cfe344a9a8d45ba8034af504
 notion_id: dd7ac045-cfe3-44a9-a8d4-5ba8034af504
 ---
 

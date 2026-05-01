@@ -1,15 +1,13 @@
 ---
 title: DrawingML
 type: concept
-tags:
-- 内容创作
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d7b44edb343f49a7ad24badc0aa4aab7
+notion_url: https://www.notion.so/Tizer/d7b44edb343f49a7ad24badc0aa4aab7
 notion_id: d7b44edb-343f-49a7-ad24-badc0aa4aab7
 ---
 

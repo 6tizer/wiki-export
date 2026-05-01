@@ -2,13 +2,15 @@
 title: Pretext 渲染引擎
 type: concept
 tags:
-- 开发工具
+- 前端开发
+- 内容自动化
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/feb4e117fb5e40b8a250b4241669f5e8
+notion_url: https://www.notion.so/Tizer/feb4e117fb5e40b8a250b4241669f5e8
 notion_id: feb4e117-fb5e-40b8-a250-b4241669f5e8
 ---
 

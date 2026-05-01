@@ -2,13 +2,15 @@
 title: 摘要：50个Skills让你的OpenClaw脱胎换骨
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
+- 多Agent协作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/3df0ad07bbcf47c5b3d2d396d47d01ca
+notion_url: https://www.notion.so/Tizer/3df0ad07bbcf47c5b3d2d396d47d01ca
 notion_id: 3df0ad07-bbcf-47c5-b3d2-d396d47d01ca
 ---
 

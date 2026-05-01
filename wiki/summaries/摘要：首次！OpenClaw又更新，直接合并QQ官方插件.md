@@ -8,7 +8,7 @@ confidence: medium
 last_compiled: '2026-04-28'
 source_tags: OpenClaw, 产品发布, 微信生态
 source_article_url: ''
-notion_url: https://www.notion.so/4db45021959a4516985a84aa70395cef
+notion_url: https://www.notion.so/Tizer/4db45021959a4516985a84aa70395cef
 notion_id: 4db45021-959a-4516-985a-84aa70395cef
 ---
 

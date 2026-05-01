@@ -2,14 +2,15 @@
 title: 摘要：MemOS：给 OpenClaw Agent 装上真正的长期记忆系统
 type: summary
 tags:
-- 记忆系统
+- 长期记忆
 - OpenClaw
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b68818bab6cfae2da2702f7
-notion_url: https://www.notion.so/532aae9d2a9f4a6ba9854b8c8200bf28
+notion_url: https://www.notion.so/Tizer/532aae9d2a9f4a6ba9854b8c8200bf28
 notion_id: 532aae9d-2a9f-4a6b-a985-4b8c8200bf28
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀
 type: summary
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881eb9850c472b22b940d
-notion_url: https://www.notion.so/0ed7f8f337894fd4b8c7bf478c9d6d50
+notion_url: https://www.notion.so/Tizer/0ed7f8f337894fd4b8c7bf478c9d6d50
 notion_id: 0ed7f8f3-3789-4fd4-b8c7-bf478c9d6d50
 ---
 

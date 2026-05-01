@@ -2,13 +2,16 @@
 title: 摘要：让 DeFi 协议做好迎接 AI Agent 的准备：一份来自 LayerZero DevRel 的实操清单
 type: summary
 tags:
-- Crypto/DeFi
+- 链上协议
+- Agent 协作模式
+- Agent 安全
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/9d16796381424477a7d1b62b33447553
+notion_url: https://www.notion.so/Tizer/9d16796381424477a7d1b62b33447553
 notion_id: 9d167963-8142-4477-a7d1-b62b33447553
 ---
 

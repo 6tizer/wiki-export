@@ -2,13 +2,15 @@
 title: bilibili-cli
 type: entity
 tags:
+- CLI 工具
 - 社交媒体
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/05f0a12337fe4bca9751038c825f1147
+notion_url: https://www.notion.so/Tizer/05f0a12337fe4bca9751038c825f1147
 notion_id: 05f0a123-37fe-4bca-9751-038c825f1147
 ---
 

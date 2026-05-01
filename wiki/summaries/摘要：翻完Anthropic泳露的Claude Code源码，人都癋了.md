@@ -2,13 +2,15 @@
 title: 摘要：翻完Anthropic泳露的Claude Code源码，人都癋了
 type: summary
 tags:
-- OpenClaw
+- 多Agent协作
+- 长期记忆
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/0228819877794c47be87df4e9f44edea
+notion_url: https://www.notion.so/Tizer/0228819877794c47be87df4e9f44edea
 notion_id: 02288198-7779-4c47-be87-df4e9f44edea
 ---
 

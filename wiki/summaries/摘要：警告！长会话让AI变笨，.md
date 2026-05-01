@@ -1,15 +1,13 @@
 ---
 title: 摘要：警告！长会话让AI变笨，
 type: summary
-tags:
-- Coding Agent
-- 记忆系统
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688112941dfc990b0238d3
-notion_url: https://www.notion.so/2d4dc9d268094647a3ed02a91f36e66a
+notion_url: https://www.notion.so/Tizer/2d4dc9d268094647a3ed02a91f36e66a
 notion_id: 2d4dc9d2-6809-4647-a3ed-02a91f36e66a
 ---
 

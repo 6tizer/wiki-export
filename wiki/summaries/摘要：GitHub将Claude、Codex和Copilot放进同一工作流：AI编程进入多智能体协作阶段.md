@@ -2,13 +2,16 @@
 title: 摘要：GitHub将Claude、Codex和Copilot放进同一工作流：AI编程进入多智能体协作阶段
 type: summary
 tags:
-- Coding Agent
+- 多Agent协作
+- Agent 协作模式
+- 代码生成
+- IDE 集成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, codex, openai
 source_article_url: ''
-notion_url: https://www.notion.so/d925a65aff5d4007a0f17804bff44dcf
+notion_url: https://www.notion.so/Tizer/d925a65aff5d4007a0f17804bff44dcf
 notion_id: d925a65a-ff5d-4007-a0f1-7804bff44dcf
 ---
 

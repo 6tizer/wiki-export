@@ -1,15 +1,13 @@
 ---
 title: 摘要：Qwen Code v0.14：用手机遥控你的服务器，终端 AI 编程助手的新玩法
 type: summary
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33f701074b6881aaa6b7cddf0aac791e
-notion_url: https://www.notion.so/eb0ee868a65f4f5c9f5a583f0ba1d45b
+notion_url: https://www.notion.so/Tizer/eb0ee868a65f4f5c9f5a583f0ba1d45b
 notion_id: eb0ee868-a65f-4f5c-9f5a-583f0ba1d45b
 ---
 

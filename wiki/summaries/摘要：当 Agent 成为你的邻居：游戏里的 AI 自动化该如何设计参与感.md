@@ -2,14 +2,14 @@
 title: 摘要：当 Agent 成为你的邻居：游戏里的 AI 自动化该如何设计参与感
 type: summary
 tags:
-- 内容创作
-- Agent 编排
+- Agent 协作模式
+- AI 设计
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/12287ff436784aceaa3c73530ff3203e
+notion_url: https://www.notion.so/Tizer/12287ff436784aceaa3c73530ff3203e
 notion_id: 12287ff4-3678-4ace-aa3c-73530ff3203e
 ---
 
@@ -29,7 +29,7 @@ notion_id: 12287ff4-3678-4ace-aa3c-73530ff3203e
 
 - [Agent NPC](concepts/Agent NPC.md)
 
-- [Smallville](concepts/Smallville.md)
+- [Smallville](entities/Smallville.md)
 
 - [参与感设计](concepts/参与感设计.md)
 

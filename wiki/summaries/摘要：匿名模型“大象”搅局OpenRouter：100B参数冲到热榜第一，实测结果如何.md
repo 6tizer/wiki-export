@@ -1,15 +1,13 @@
 ---
 title: 摘要：匿名模型“大象”搅局OpenRouter：100B参数冲到热榜第一，实测结果如何
 type: summary
-tags:
-- LLM
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881258208f84b46ea5cad
-notion_url: https://www.notion.so/17e583ff629146acbb1ef7dc5b4da70e
+notion_url: https://www.notion.so/Tizer/17e583ff629146acbb1ef7dc5b4da70e
 notion_id: 17e583ff-6291-46ac-bb1e-f7dc5b4da70e
 ---
 

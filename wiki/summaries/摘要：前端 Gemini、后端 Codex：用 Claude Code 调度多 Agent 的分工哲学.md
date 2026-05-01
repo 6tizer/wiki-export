@@ -1,15 +1,13 @@
 ---
 title: 摘要：前端 Gemini、后端 Codex：用 Claude Code 调度多 Agent 的分工哲学
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, Cursor
 source_article_url: https://www.notion.so/336701074b68819da0d8ef2e18d5d18a
-notion_url: https://www.notion.so/9f0d83fa30ab4c4d898ea663d0324a94
+notion_url: https://www.notion.so/Tizer/9f0d83fa30ab4c4d898ea663d0324a94
 notion_id: 9f0d83fa-30ab-4c4d-898e-a663d0324a94
 ---
 

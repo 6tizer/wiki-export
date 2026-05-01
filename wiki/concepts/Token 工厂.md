@@ -3,7 +3,8 @@ title: Token 工厂
 type: concept
 tags:
 - 商业/生态
-- Crypto/DeFi
+- 加密资产
+- 链上协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

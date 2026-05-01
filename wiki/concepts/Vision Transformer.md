@@ -2,8 +2,9 @@
 title: Vision Transformer
 type: concept
 tags:
-- LLM
 - 多模态
+- 图像生成
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

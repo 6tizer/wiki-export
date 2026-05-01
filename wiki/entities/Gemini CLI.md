@@ -1,14 +1,13 @@
 ---
 title: Gemini CLI
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/fadeb34b5d354cf5a64fec2d7c49c894
+notion_url: https://www.notion.so/Tizer/fadeb34b5d354cf5a64fec2d7c49c894
 notion_id: fadeb34b-5d35-4cf5-a64f-ec2d7c49c894
 ---
 

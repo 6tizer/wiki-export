@@ -2,14 +2,15 @@
 title: 摘要：mem9 + db9：PingCAP CTO 用 AI 写代码，2 天造出 Agent 记忆基础设施
 type: summary
 tags:
-- 记忆系统
-- 开发工具
+- 长期记忆
+- 上下文管理
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/9681ef1fd1714befb4d5a590eb1924b7
+notion_url: https://www.notion.so/Tizer/9681ef1fd1714befb4d5a590eb1924b7
 notion_id: 9681ef1f-d171-4bef-b4d5-a590eb1924b7
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: Human in the Loop
 type: concept
-tags:
-- 工作流
-- Agent 编排
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a27eacc4aef048f6bb62b69f8f80a7f0
+notion_url: https://www.notion.so/Tizer/a27eacc4aef048f6bb62b69f8f80a7f0
 notion_id: a27eacc4-aef0-48f6-bb62-b69f8f80a7f0
 ---
 

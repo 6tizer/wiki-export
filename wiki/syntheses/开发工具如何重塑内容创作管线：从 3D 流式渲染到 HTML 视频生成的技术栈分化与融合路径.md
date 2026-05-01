@@ -2,17 +2,14 @@
 title: 开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径
 type: synthesis
 tags:
-- 开发工具
-- 内容创作
 - 视频/3D
 - 前端开发
-- Coding Agent
 status: 已审核
 confidence: high
 last_compiled: '2026-04-21'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ee0d297b54ad44e4b37af8727597c616
+notion_url: https://www.notion.so/Tizer/ee0d297b54ad44e4b37af8727597c616
 notion_id: ee0d297b-54ad-44e4-b37a-f8727597c616
 ---
 

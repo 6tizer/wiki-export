@@ -1,15 +1,13 @@
 ---
 title: 摘要：用Hermes写的Hermes报告
 type: summary
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881bd966fe6db67bbd400
-notion_url: https://www.notion.so/5ac3e3ec70984670b656067dcd6ee788
+notion_url: https://www.notion.so/Tizer/5ac3e3ec70984670b656067dcd6ee788
 notion_id: 5ac3e3ec-7098-4670-b656-067dcd6ee788
 ---
 

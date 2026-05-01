@@ -1,15 +1,13 @@
 ---
 title: 摘要：让Claude cowork强100倍的17个习惯
 type: summary
-tags:
-- LLM
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: LLM
 source_article_url: ''
-notion_url: https://www.notion.so/b992293b532c4f0e9c3cce760bbd526e
+notion_url: https://www.notion.so/Tizer/b992293b532c4f0e9c3cce760bbd526e
 notion_id: b992293b-532c-4f0e-9c3c-ce760bbd526e
 ---
 

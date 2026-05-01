@@ -3,7 +3,6 @@ title: MindZJ
 type: entity
 tags:
 - 知识管理
-- 开发工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

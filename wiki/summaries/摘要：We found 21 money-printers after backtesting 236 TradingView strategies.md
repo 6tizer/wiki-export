@@ -1,15 +1,13 @@
 ---
 title: 摘要：We found 21 money-printers after backtesting 236 TradingView strategies
 type: summary
-tags:
-- Crypto/DeFi
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68814b88eed4ace23ea6bf
-notion_url: https://www.notion.so/3ffa01786bd94411b7a5c4b0ee83f2e6
+notion_url: https://www.notion.so/Tizer/3ffa01786bd94411b7a5c4b0ee83f2e6
 notion_id: 3ffa0178-6bd9-4411-b7a5-c4b0ee83f2e6
 ---
 

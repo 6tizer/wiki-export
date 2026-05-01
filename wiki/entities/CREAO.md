@@ -2,7 +2,6 @@
 title: CREAO
 type: entity
 tags:
-- Agent 框架
 - 商业/生态
 status: 审核中
 confidence: medium

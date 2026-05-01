@@ -2,8 +2,9 @@
 title: Workflow Studio
 type: concept
 tags:
-- 工作流
-- 内容创作
+- AI 设计
+- 内容自动化
+- 商业/生态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

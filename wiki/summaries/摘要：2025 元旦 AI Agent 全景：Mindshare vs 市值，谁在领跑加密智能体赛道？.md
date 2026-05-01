@@ -2,14 +2,15 @@
 title: 摘要：2025 元旦 AI Agent 全景：Mindshare vs 市值，谁在领跑加密智能体赛道？
 type: summary
 tags:
-- Crypto/DeFi
-- LLM
+- 商业/生态
+- 加密资产
+- 链上协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/1d8ac19987fb42d0a244cba795ecb294
+notion_url: https://www.notion.so/Tizer/1d8ac19987fb42d0a244cba795ecb294
 notion_id: 1d8ac199-87fb-42d0-a244-cba795ecb294
 ---
 

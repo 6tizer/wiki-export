@@ -2,13 +2,15 @@
 title: 摘要：Anthropic说：网传的Harness思路过时了，做这3件事就够！
 type: summary
 tags:
-- 工作流
+- Harness 工程
+- 上下文管理
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/8c0c6681ae4a4122984db3f4a3aa5219
+notion_url: https://www.notion.so/Tizer/8c0c6681ae4a4122984db3f4a3aa5219
 notion_id: 8c0c6681-ae4a-4122-984d-b3f4a3aa5219
 ---
 

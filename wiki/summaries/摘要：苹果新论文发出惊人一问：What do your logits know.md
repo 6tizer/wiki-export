@@ -1,15 +1,13 @@
 ---
 title: 摘要：苹果新论文发出惊人一问：What do your logits know?
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/34f701074b6881b4af34fc9df5460fe1
-notion_url: https://www.notion.so/893dc700d40748d1adf2a72df1f6e28d
+notion_url: https://www.notion.so/Tizer/893dc700d40748d1adf2a72df1f6e28d
 notion_id: 893dc700-d407-48d1-adf2-a72df1f6e28d
 ---
 

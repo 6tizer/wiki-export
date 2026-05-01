@@ -1,14 +1,13 @@
 ---
 title: 摘要：港大刚刚开源了 CLI-Anything！一个命令让任意软件秒变 AI Agent 原生工具！
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: NewStuff, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/e550df33d4764993aae99232b294f8f2
+notion_url: https://www.notion.so/Tizer/e550df33d4764993aae99232b294f8f2
 notion_id: e550df33-d476-4993-aae9-9232b294f8f2
 ---
 

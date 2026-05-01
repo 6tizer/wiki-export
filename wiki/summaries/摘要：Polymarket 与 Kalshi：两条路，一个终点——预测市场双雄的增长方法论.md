@@ -2,14 +2,13 @@
 title: 摘要：Polymarket 与 Kalshi：两条路，一个终点——预测市场双雄的增长方法论
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: 预测市场, Polymarket, Crypto
 source_article_url: https://www.notion.so/335701074b6881a390c6fb2616452646
-notion_url: https://www.notion.so/e9e31e5542d8410795a7e9cdf2df3a02
+notion_url: https://www.notion.so/Tizer/e9e31e5542d8410795a7e9cdf2df3a02
 notion_id: e9e31e55-42d8-4107-95a7-e9cdf2df3a02
 ---
 

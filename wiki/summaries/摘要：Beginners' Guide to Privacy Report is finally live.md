@@ -1,15 +1,13 @@
 ---
 title: 摘要：Beginners' Guide to Privacy Report is finally live
 type: summary
-tags:
-- Crypto/DeFi
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: Crypto, 区块链, 密码学/ZK, 叙事
 source_article_url: https://www.notion.so/343701074b68818fbec5ed6570d5baf7
-notion_url: https://www.notion.so/a77c6b230aa54a6db5c69ae986b5098d
+notion_url: https://www.notion.so/Tizer/a77c6b230aa54a6db5c69ae986b5098d
 notion_id: a77c6b23-0aa5-4a6d-b5c6-9ae986b5098d
 ---
 

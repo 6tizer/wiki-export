@@ -2,13 +2,15 @@
 title: 摘要：炸了！学术论文「全自动撰写 Skill」来了：research→write→review→revise→finalize，连审稿都给你包了
 type: summary
 tags:
-- 工作流
+- Agent 协作模式
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Skill 开发, Agent, Research
 source_article_url: ''
-notion_url: https://www.notion.so/caac10c0007448dc9880d12bc27b5436
+notion_url: https://www.notion.so/Tizer/caac10c0007448dc9880d12bc27b5436
 notion_id: caac10c0-0074-48dc-9880-d12bc27b5436
 ---
 

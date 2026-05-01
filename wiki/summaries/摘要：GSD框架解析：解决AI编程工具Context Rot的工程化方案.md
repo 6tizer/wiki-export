@@ -1,15 +1,13 @@
 ---
 title: 摘要：GSD框架解析：解决AI编程工具Context Rot的工程化方案
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881b089b0d69588fc4504
-notion_url: https://www.notion.so/3321ce44ca014567af9b4d40400dd2c8
+notion_url: https://www.notion.so/Tizer/3321ce44ca014567af9b4d40400dd2c8
 notion_id: 3321ce44-ca01-4567-af9b-4d40400dd2c8
 ---
 

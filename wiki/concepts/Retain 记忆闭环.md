@@ -3,13 +3,12 @@ title: Retain 记忆闭环
 type: concept
 tags:
 - 知识管理
-- 记忆系统
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1f5e7e99841a4d99b599682a2bd0fcb4
+notion_url: https://www.notion.so/Tizer/1f5e7e99841a4d99b599682a2bd0fcb4
 notion_id: 1f5e7e99-841a-4d99-b599-682a2bd0fcb4
 ---
 

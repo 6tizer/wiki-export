@@ -2,7 +2,9 @@
 title: TEE 可信执行环境
 type: concept
 tags:
-- Crypto/DeFi
+- 加密资产
+- Agent 安全
+- 算力基础设施
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'

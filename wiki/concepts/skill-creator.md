@@ -3,13 +3,13 @@ title: skill-creator
 type: concept
 tags:
 - OpenClaw
-- Agent 技能
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d91bc25e7f3449c6a479cfb4f392d400
+notion_url: https://www.notion.so/Tizer/d91bc25e7f3449c6a479cfb4f392d400
 notion_id: d91bc25e-7f34-49c6-a479-cfb4f392d400
 ---
 

@@ -2,7 +2,10 @@
 title: MetaMask
 type: entity
 tags:
-- Crypto/DeFi
+- 加密资产
+- 链上协议
+- 身份准入
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

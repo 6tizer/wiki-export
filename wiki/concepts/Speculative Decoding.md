@@ -1,14 +1,13 @@
 ---
 title: Speculative Decoding
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c372aca9314a459ebcba3c8f7f5bb922
+notion_url: https://www.notion.so/Tizer/c372aca9314a459ebcba3c8f7f5bb922
 notion_id: c372aca9-314a-459e-bcba-3c8f7f5bb922
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了
 type: summary
-tags:
-- 内容创作
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b68819aabc2dbdf43ddb70c
-notion_url: https://www.notion.so/9ccdc4801e824ecebd01ce29892e51ad
+notion_url: https://www.notion.so/Tizer/9ccdc4801e824ecebd01ce29892e51ad
 notion_id: 9ccdc480-1e82-4ece-bd01-ce29892e51ad
 ---
 

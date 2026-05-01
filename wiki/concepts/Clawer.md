@@ -2,13 +2,15 @@
 title: Clawer
 type: concept
 tags:
-- OpenClaw
+- 浏览器自动化
+- CLI 工具
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b3dcaa770b2d49b3a6f327cf483618de
+notion_url: https://www.notion.so/Tizer/b3dcaa770b2d49b3a6f327cf483618de
 notion_id: b3dcaa77-0b2d-49b3-a6f3-27cf483618de
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：GitButler：GitHub 联合创始人重新发明 Git，完成 1700 万美元 A 轮融资
 type: summary
-tags:
-- 开发工具
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33e701074b6881738b6cf0ff6297c002
-notion_url: https://www.notion.so/87d361a857864d84b918ae704cc87d8f
+notion_url: https://www.notion.so/Tizer/87d361a857864d84b918ae704cc87d8f
 notion_id: 87d361a8-5786-4d84-b918-ae704cc87d8f
 ---
 

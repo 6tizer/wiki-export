@@ -1,15 +1,13 @@
 ---
 title: 摘要：Every 用四个 Notion AI Agent 运营一家 25 人公司
 type: summary
-tags:
-- Agent 框架
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33e701074b688198b2bde696c1fb86b5
-notion_url: https://www.notion.so/c30437c4f30d46d5bdb096c2f1171b6b
+notion_url: https://www.notion.so/Tizer/c30437c4f30d46d5bdb096c2f1171b6b
 notion_id: c30437c4-f30d-46d5-bdb0-96c2f1171b6b
 ---
 

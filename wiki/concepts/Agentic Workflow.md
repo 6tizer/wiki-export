@@ -3,6 +3,8 @@ title: Agentic Workflow
 type: concept
 tags:
 - Agent 协作模式
+- 知识管理
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'

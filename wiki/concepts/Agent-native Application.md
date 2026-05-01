@@ -2,15 +2,13 @@
 title: Agent-native Application
 type: concept
 tags:
-- Agent 框架
-- Agent 编排
 - 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/aadc8bdc02824ff7bd89891a81315c84
+notion_url: https://www.notion.so/Tizer/aadc8bdc02824ff7bd89891a81315c84
 notion_id: aadc8bdc-0282-4ff7-bd89-891a81315c84
 ---
 

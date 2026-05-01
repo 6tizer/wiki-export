@@ -1,14 +1,13 @@
 ---
 title: 摘要：obra/superpowers：让 AI 写代码真正靠谱的方法论
 type: summary
-tags:
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/87bf6d5972ec462b9de2758763184551
+notion_url: https://www.notion.so/Tizer/87bf6d5972ec462b9de2758763184551
 notion_id: 87bf6d59-72ec-462b-9de2-758763184551
 ---
 

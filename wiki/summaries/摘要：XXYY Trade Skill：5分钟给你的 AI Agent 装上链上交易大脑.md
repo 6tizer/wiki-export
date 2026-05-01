@@ -2,14 +2,16 @@
 title: 摘要：XXYY Trade Skill：5分钟给你的 AI Agent 装上链上交易大脑
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 加密资产
+- 链上协议
+- Agent 安全
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化, Cursor, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/ad3184212c194548b05ff79e01934f8b
+notion_url: https://www.notion.so/Tizer/ad3184212c194548b05ff79e01934f8b
 notion_id: ad318421-2c19-4548-b05f-f79e01934f8b
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: Graph of Skills
 type: concept
-tags:
-- Agent 编排
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a218b4a94a9c4192885b4f49f78f1093
+notion_url: https://www.notion.so/Tizer/a218b4a94a9c4192885b4f49f78f1093
 notion_id: a218b4a9-4a9c-4192-885b-4f49f78f1093
 ---
 

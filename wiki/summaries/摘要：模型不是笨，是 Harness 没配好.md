@@ -1,15 +1,13 @@
 ---
 title: 摘要：模型不是笨，是 Harness 没配好
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881e185a2e15fde44545c
-notion_url: https://www.notion.so/7cfc66cb5f224215840c19da521d8af8
+notion_url: https://www.notion.so/Tizer/7cfc66cb5f224215840c19da521d8af8
 notion_id: 7cfc66cb-5f22-4215-840c-19da521d8af8
 ---
 

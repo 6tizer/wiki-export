@@ -2,13 +2,15 @@
 title: 摘要：PUA Skill：用「大厂PUA文化」逼 AI 死磕到底的开源神器
 type: summary
 tags:
-- Coding Agent
+- 提示工程
+- Agent 协作模式
+- AI 对齐
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, Cursor, 自动化
 source_article_url: https://www.notion.so/335701074b6881e89dbccd015872aec1
-notion_url: https://www.notion.so/32626c0875744713a48aae923584d29b
+notion_url: https://www.notion.so/Tizer/32626c0875744713a48aae923584d29b
 notion_id: 32626c08-7574-4713-a48a-ae923584d29b
 ---
 

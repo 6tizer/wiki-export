@@ -2,14 +2,14 @@
 title: Daemon + Chrome Extension 架构
 type: concept
 tags:
-- 开发工具
-- Agent 技能
+- 浏览器自动化
+- 前端开发
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/04ca18e0ab8640afb1e8f298431ab867
+notion_url: https://www.notion.so/Tizer/04ca18e0ab8640afb1e8f298431ab867
 notion_id: 04ca18e0-ab86-40af-b1e8-f298431ab867
 ---
 

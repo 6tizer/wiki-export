@@ -2,8 +2,9 @@
 title: TeamClaw
 type: entity
 tags:
-- Agent 框架
-- Agent 编排
+- 知识管理
+- Agent 协作模式
+- OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

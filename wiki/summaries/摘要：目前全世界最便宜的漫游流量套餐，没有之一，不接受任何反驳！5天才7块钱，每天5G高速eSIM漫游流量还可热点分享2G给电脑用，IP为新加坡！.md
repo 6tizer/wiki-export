@@ -1,14 +1,13 @@
 ---
 title: 摘要：目前全世界最便宜的漫游流量套餐，没有之一，不接受任何反驳！5天才7块钱，每天5G高速eSIM漫游流量还可热点分享2G给电脑用，IP为新加坡！
 type: summary
-tags:
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: https://www.notion.so/348701074b6881b386bbfa2b0df5c82d
-notion_url: https://www.notion.so/121d12f5961a4a34b7c3840c2b1a8f77
+notion_url: https://www.notion.so/Tizer/121d12f5961a4a34b7c3840c2b1a8f77
 notion_id: 121d12f5-961a-4a34-b7c3-840c2b1a8f77
 ---
 

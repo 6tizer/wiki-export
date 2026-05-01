@@ -2,14 +2,13 @@
 title: 摘要：Claude + Obsidian | How to use your second brain
 type: summary
 tags:
-- Coding Agent
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68819aa64ce484e7f7fcea
-notion_url: https://www.notion.so/e46bb96c2fee47e6b969d06672ee3f34
+notion_url: https://www.notion.so/Tizer/e46bb96c2fee47e6b969d06672ee3f34
 notion_id: e46bb96c-2fee-47e6-b969-d06672ee3f34
 ---
 

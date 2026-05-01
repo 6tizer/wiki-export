@@ -1,15 +1,13 @@
 ---
 title: '摘要：EvoForge: Scaling Evolutionary Harness Optimization'
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688186acdbcc2c5d8cc45b
-notion_url: https://www.notion.so/73f84b75960140cf8bf14e0c6ab0c0ee
+notion_url: https://www.notion.so/Tizer/73f84b75960140cf8bf14e0c6ab0c0ee
 notion_id: 73f84b75-9601-40cf-8bf1-4e0c6ab0c0ee
 ---
 

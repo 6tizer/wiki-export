@@ -2,14 +2,15 @@
 title: 摘要：全球首款龙虾模型上线！Agent这波直接起飞了～
 type: summary
 tags:
-- LLM
 - OpenClaw
+- 推理优化
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/5c9eb8001c694b9eb8575833fb85289b
+notion_url: https://www.notion.so/Tizer/5c9eb8001c694b9eb8575833fb85289b
 notion_id: 5c9eb800-1c69-4b9e-b857-5833fb85289b
 ---
 

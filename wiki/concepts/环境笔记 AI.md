@@ -2,14 +2,13 @@
 title: 环境笔记 AI
 type: concept
 tags:
-- 工作流
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/51384707cef642eebc81efd4053041b8
+notion_url: https://www.notion.so/Tizer/51384707cef642eebc81efd4053041b8
 notion_id: 51384707-cef6-42ee-bc81-efd4053041b8
 ---
 

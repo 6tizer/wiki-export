@@ -1,15 +1,13 @@
 ---
 title: 锁妖塔 Skill
 type: entity
-tags:
-- Crypto/DeFi
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f32e97c3e517455f95c6bfea335a0b77
+notion_url: https://www.notion.so/Tizer/f32e97c3e517455f95c6bfea335a0b77
 notion_id: f32e97c3-e517-455f-95c6-bfea335a0b77
 ---
 

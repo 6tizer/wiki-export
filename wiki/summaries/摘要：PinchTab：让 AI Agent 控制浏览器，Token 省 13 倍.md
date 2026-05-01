@@ -2,14 +2,15 @@
 title: 摘要：PinchTab：让 AI Agent 控制浏览器，Token 省 13 倍
 type: summary
 tags:
-- Agent 技能
+- 浏览器自动化
+- MCP 协议
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b68812297d1e666d669ca8a
-notion_url: https://www.notion.so/139f6c39a4604e66af14f24098d3ae9f
+notion_url: https://www.notion.so/Tizer/139f6c39a4604e66af14f24098d3ae9f
 notion_id: 139f6c39-a460-4e66-af14-f24098d3ae9f
 ---
 

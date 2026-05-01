@@ -1,14 +1,13 @@
 ---
 title: Qwen3.5-9B-GLM5.1-Distill-v1
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d9f387e4ba0f46019bd34b59598a9667
+notion_url: https://www.notion.so/Tizer/d9f387e4ba0f46019bd34b59598a9667
 notion_id: d9f387e4-ba0f-4601-9bd3-4b59598a9667
 ---
 

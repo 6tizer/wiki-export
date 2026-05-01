@@ -1,15 +1,13 @@
 ---
 title: 摘要：TinyFish CLI + Skills
 type: summary
-tags:
-- Agent 技能
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b68810384e4f2bb5237355a
-notion_url: https://www.notion.so/205a8ffbe8d94817b8498b883c9c1f57
+notion_url: https://www.notion.so/Tizer/205a8ffbe8d94817b8498b883c9c1f57
 notion_id: 205a8ffb-e8d9-4817-b849-8b883c9c1f57
 ---
 

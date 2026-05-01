@@ -1,15 +1,13 @@
 ---
 title: 摘要：Gemini CLI v0.35.2：自定义快捷键、增强 Vim 模式与 A2A 智能体协作
 type: summary
-tags:
-- LLM
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: LLM, Agent, 开发者工具
 source_article_url: ''
-notion_url: https://www.notion.so/f2589f93b673472f84249552903d2ba3
+notion_url: https://www.notion.so/Tizer/f2589f93b673472f84249552903d2ba3
 notion_id: f2589f93-b673-472f-8424-9552903d2ba3
 ---
 

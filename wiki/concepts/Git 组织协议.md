@@ -1,15 +1,13 @@
 ---
 title: Git 组织协议
 type: concept
-tags:
-- 工作流
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/de9f89519daa4190953291efbc156e79
+notion_url: https://www.notion.so/Tizer/de9f89519daa4190953291efbc156e79
 notion_id: de9f8951-9daa-4190-9532-91efbc156e79
 ---
 

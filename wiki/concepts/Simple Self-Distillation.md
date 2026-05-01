@@ -1,15 +1,13 @@
 ---
 title: Simple Self-Distillation
 type: concept
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/da21c21f5f7a4af696ae1d46c106eaee
+notion_url: https://www.notion.so/Tizer/da21c21f5f7a4af696ae1d46c106eaee
 notion_id: da21c21f-5f7a-4af6-96ae-1d46c106eaee
 ---
 

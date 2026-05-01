@@ -1,14 +1,13 @@
 ---
 title: Whisper.cpp
 type: entity
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a45202f1eb064672a54d76e1b77b481a
+notion_url: https://www.notion.so/Tizer/a45202f1eb064672a54d76e1b77b481a
 notion_id: a45202f1-eb06-4672-a54d-76e1b77b481a
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: 摘要：互联网已死，Agent 永生：oran_ge 的六刀与四块基石
 type: summary
-tags:
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/d27baef4bb6a4f4fb134e5639bc3beee
+notion_url: https://www.notion.so/Tizer/d27baef4bb6a4f4fb134e5639bc3beee
 notion_id: d27baef4-bb6a-4f4f-b134-e5639bc3beee
 ---
 

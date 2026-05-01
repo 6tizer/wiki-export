@@ -2,8 +2,6 @@
 title: LLM 运营经济学如何重塑生产工作流：从 Token 成本治理到多模型协同的工程化路径
 type: synthesis
 tags:
-- LLM
-- 工作流
 - 商业/生态
 - 上下文管理
 - 多Agent协作
@@ -12,7 +10,7 @@ confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9b1c500666884553928da3c1383df234
+notion_url: https://www.notion.so/Tizer/9b1c500666884553928da3c1383df234
 notion_id: 9b1c5006-6688-4553-928d-a3c1383df234
 ---
 

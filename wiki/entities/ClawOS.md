@@ -1,14 +1,13 @@
 ---
 title: ClawOS
 type: entity
-tags:
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/fd9cc7d88e8c41a2b20cdf91676b4249
+notion_url: https://www.notion.so/Tizer/fd9cc7d88e8c41a2b20cdf91676b4249
 notion_id: fd9cc7d8-8e8c-41a2-b20c-df91676b4249
 ---
 

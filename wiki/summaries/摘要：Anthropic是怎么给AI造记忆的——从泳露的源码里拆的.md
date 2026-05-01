@@ -2,14 +2,15 @@
 title: 摘要：Anthropic是怎么给AI造记忆的——从泳露的源码里拆的
 type: summary
 tags:
-- OpenClaw
-- 记忆系统
+- 长期记忆
+- 多Agent协作
+- 提示工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/18673a96176848c388f2661078087831
+notion_url: https://www.notion.so/Tizer/18673a96176848c388f2661078087831
 notion_id: 18673a96-1768-48c3-88f2-661078087831
 ---
 

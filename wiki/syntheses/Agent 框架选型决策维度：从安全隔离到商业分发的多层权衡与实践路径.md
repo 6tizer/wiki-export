@@ -1,14 +1,13 @@
 ---
 title: Agent 框架选型决策维度：从安全隔离到商业分发的多层权衡与实践路径
 type: synthesis
-tags:
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-14'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/fbbf72030f9840e4bf8b3ec537ac3d30
+notion_url: https://www.notion.so/Tizer/fbbf72030f9840e4bf8b3ec537ac3d30
 notion_id: fbbf7203-0f98-40e4-bf8b-3ec537ac3d30
 ---
 
@@ -134,7 +133,7 @@ graph LR
 
 ### 概念词条
 
-[NanoClaw](concepts/NanoClaw.md) · [Agent OS](concepts/Agent OS.md) · [SuperAgent Harness](concepts/SuperAgent Harness.md) · [QClaw](concepts/QClaw.md) · [superpowers 框架](concepts/superpowers 框架.md) · [aApp](concepts/aApp.md) · [桌面 Agent](concepts/桌面 Agent.md) · [Agent 模板库](concepts/Agent 模板库.md) · [多租户托管](concepts/多租户托管.md) · [托管 Agent](concepts/托管 Agent.md) · [自我进化 Skills 系统](concepts/自我进化 Skills 系统.md)
+[NanoClaw](concepts/NanoClaw.md) · [Agent OS](concepts/Agent OS.md) · [SuperAgent Harness](concepts/SuperAgent Harness.md) · [QClaw](concepts/QClaw.md) · [superpowers 框架](entities/superpowers 框架.md) · [aApp](concepts/aApp.md) · [桌面 Agent](concepts/桌面 Agent.md) · [Agent 模板库](concepts/Agent 模板库.md) · [多租户托管](concepts/多租户托管.md) · [托管 Agent](concepts/托管 Agent.md) · [自我进化 Skills 系统](concepts/自我进化 Skills 系统.md)
 
 ### 摘要来源
 

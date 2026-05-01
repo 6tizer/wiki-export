@@ -3,13 +3,12 @@ title: 摘要：OpenAI买了个脱口秀公司
 type: summary
 tags:
 - 商业/生态
-- 内容创作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881998d8ef5dca4b60721
-notion_url: https://www.notion.so/19590a95a2504bf69ae2d2cd2969512e
+notion_url: https://www.notion.so/Tizer/19590a95a2504bf69ae2d2cd2969512e
 notion_id: 19590a95-a250-4bf6-9ae2-d2cd2969512e
 ---
 

@@ -3,7 +3,6 @@ title: Cursor CLI /config
 type: concept
 tags:
 - CLI 工具
-- Agent 技能
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

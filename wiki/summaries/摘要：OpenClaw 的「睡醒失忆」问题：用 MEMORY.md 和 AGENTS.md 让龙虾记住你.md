@@ -3,13 +3,14 @@ title: 摘要：OpenClaw 的「睡醒失忆」问题：用 MEMORY.md 和 AGENTS.
 type: summary
 tags:
 - OpenClaw
-- 记忆系统
+- 长期记忆
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: https://www.notion.so/335701074b6881a3ac66ce6bbdeab9b9
-notion_url: https://www.notion.so/01257919164d4acc90ffeff8d2ce26fe
+notion_url: https://www.notion.so/Tizer/01257919164d4acc90ffeff8d2ce26fe
 notion_id: 01257919-164d-4acc-90ff-eff8d2ce26fe
 ---
 

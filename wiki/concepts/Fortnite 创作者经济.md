@@ -3,7 +3,8 @@ title: Fortnite 创作者经济
 type: concept
 tags:
 - 商业/生态
-- 内容创作
+- 社交媒体
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

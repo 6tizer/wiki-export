@@ -1,9 +1,7 @@
 ---
 title: hermes-agent-camel
 type: entity
-tags:
-- Agent 框架
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

@@ -2,14 +2,13 @@
 title: 摘要：Claude Cowork 正式开放并补齐企业治理能力
 type: summary
 tags:
-- Agent 框架
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881aebdb0e5cc3d8d88d8
-notion_url: https://www.notion.so/ca5c9a8014ca427c843883fcda2e6aac
+notion_url: https://www.notion.so/Tizer/ca5c9a8014ca427c843883fcda2e6aac
 notion_id: ca5c9a80-14ca-427c-8438-83fcda2e6aac
 ---
 

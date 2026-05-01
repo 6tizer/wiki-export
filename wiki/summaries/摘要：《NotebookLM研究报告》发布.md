@@ -3,13 +3,12 @@ title: 摘要：《NotebookLM研究报告》发布
 type: summary
 tags:
 - 知识管理
-- LLM
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881799338d82b504c8a80
-notion_url: https://www.notion.so/26def55a764c43ab87c7e6bb66f375f6
+notion_url: https://www.notion.so/Tizer/26def55a764c43ab87c7e6bb66f375f6
 notion_id: 26def55a-764c-43ab-87c7-e6bb66f375f6
 ---
 

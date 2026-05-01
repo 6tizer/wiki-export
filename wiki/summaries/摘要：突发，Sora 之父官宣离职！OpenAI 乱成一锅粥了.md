@@ -3,13 +3,12 @@ title: 摘要：突发，Sora 之父官宣离职！OpenAI 乱成一锅粥了
 type: summary
 tags:
 - 商业/生态
-- 内容创作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b6881838606f7e09fffd518
-notion_url: https://www.notion.so/fea8dfb67b4f422584e6f697e4900e02
+notion_url: https://www.notion.so/Tizer/fea8dfb67b4f422584e6f697e4900e02
 notion_id: fea8dfb6-7b4f-4225-84e6-f697e4900e02
 ---
 

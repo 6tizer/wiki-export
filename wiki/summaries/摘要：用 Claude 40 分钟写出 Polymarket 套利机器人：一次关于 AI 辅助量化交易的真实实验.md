@@ -1,15 +1,13 @@
 ---
 title: 摘要：用 Claude 40 分钟写出 Polymarket 套利机器人：一次关于 AI 辅助量化交易的真实实验
 type: summary
-tags:
-- Crypto/DeFi
-- Coding Agent
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b688142b62befaa37c3f1fb
-notion_url: https://www.notion.so/361b443fe73541d6b3c14a6e13e5b7bb
+notion_url: https://www.notion.so/Tizer/361b443fe73541d6b3c14a6e13e5b7bb
 notion_id: 361b443f-e735-41d6-b3c1-4a6e13e5b7bb
 ---
 

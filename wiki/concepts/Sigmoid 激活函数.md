@@ -1,8 +1,7 @@
 ---
 title: Sigmoid 激活函数
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Anthropic 最新博客：MCP 没死，它又来了
 type: summary
-tags:
-- Agent 技能
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68817785a5ceda6489a48f
-notion_url: https://www.notion.so/3b340ea96daa41548d7c720a4bda72fe
+notion_url: https://www.notion.so/Tizer/3b340ea96daa41548d7c720a4bda72fe
 notion_id: 3b340ea9-6daa-4154-8d7c-720a4bda72fe
 ---
 

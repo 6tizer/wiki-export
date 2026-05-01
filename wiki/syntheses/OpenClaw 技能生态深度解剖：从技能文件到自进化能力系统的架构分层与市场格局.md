@@ -2,14 +2,17 @@
 title: OpenClaw 技能生态深度解剖：从技能文件到自进化能力系统的架构分层与市场格局
 type: synthesis
 tags:
-- Agent 技能
+- 商业/生态
+- MCP 协议
+- 浏览器自动化
+- CLI 工具
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0aa94eb5b6144380bbb6d6d81093cf57
+notion_url: https://www.notion.so/Tizer/0aa94eb5b6144380bbb6d6d81093cf57
 notion_id: 0aa94eb5-b614-4380-bbb6-d6d81093cf57
 ---
 

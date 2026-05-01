@@ -2,13 +2,14 @@
 title: 摘要：Swarms：目前最复杂的多 Agent 框架，究竟创新在哪里？
 type: summary
 tags:
-- Agent 框架
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/3dd8704684ab44788cb4ebc096025ca4
+notion_url: https://www.notion.so/Tizer/3dd8704684ab44788cb4ebc096025ca4
 notion_id: 3dd87046-84ab-4478-8cb4-ebc096025ca4
 ---
 

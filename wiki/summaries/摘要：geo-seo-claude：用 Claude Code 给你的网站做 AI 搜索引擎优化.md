@@ -2,14 +2,13 @@
 title: 摘要：geo-seo-claude：用 Claude Code 给你的网站做 AI 搜索引擎优化
 type: summary
 tags:
-- Coding Agent
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: LLM, Agent, 自动化
 source_article_url: https://www.notion.so/335701074b688149bb16df796b7723e0
-notion_url: https://www.notion.so/e7fbf80b1670470a9bde558d5dc59d77
+notion_url: https://www.notion.so/Tizer/e7fbf80b1670470a9bde558d5dc59d77
 notion_id: e7fbf80b-1670-470a-9bde-558d5dc59d77
 ---
 

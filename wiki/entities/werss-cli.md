@@ -3,13 +3,12 @@ title: werss-cli
 type: entity
 tags:
 - 知识管理
-- 开发工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e05b65ecbb1942c7b6d16658a2a411e7
+notion_url: https://www.notion.so/Tizer/e05b65ecbb1942c7b6d16658a2a411e7
 notion_id: e05b65ec-bb19-42c7-b6d1-6658a2a411e7
 ---
 

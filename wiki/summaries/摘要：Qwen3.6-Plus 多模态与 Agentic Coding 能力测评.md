@@ -2,13 +2,18 @@
 title: 摘要：Qwen3.6-Plus 多模态与 Agentic Coding 能力测评
 type: summary
 tags:
-- LLM
+- 前端开发
+- 多模态
+- 代码生成
+- 上下文管理
+- 模型评测
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/7a2b0b01b02d493ea5ab272bb88c01f9
+notion_url: https://www.notion.so/Tizer/7a2b0b01b02d493ea5ab272bb88c01f9
 notion_id: 7a2b0b01-b02d-493e-a5ab-272bb88c01f9
 ---
 

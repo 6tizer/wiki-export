@@ -2,13 +2,15 @@
 title: SearxNG
 type: concept
 tags:
-- MCP 协议
+- Agent 协作模式
+- RAG/检索
+- OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/46b12726a3d54fb494d4fed43b1d1897
+notion_url: https://www.notion.so/Tizer/46b12726a3d54fb494d4fed43b1d1897
 notion_id: 46b12726-a3d5-4fb4-94d4-fed43b1d1897
 ---
 

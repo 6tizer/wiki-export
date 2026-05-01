@@ -2,13 +2,14 @@
 title: 摘要：中国西部小城成为全球 Token 工厂
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 算力基础设施
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c3ec6b8efd9f4ee58e3e3d23bf277b35
+notion_url: https://www.notion.so/Tizer/c3ec6b8efd9f4ee58e3e3d23bf277b35
 notion_id: c3ec6b8e-fd9f-4ee5-8e3e-3d23bf277b35
 ---
 

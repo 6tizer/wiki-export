@@ -2,13 +2,14 @@
 title: DOM 代理自动化
 type: concept
 tags:
+- 前端开发
 - 浏览器自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/615a54789aec4f03a1f64c75318fc0ef
+notion_url: https://www.notion.so/Tizer/615a54789aec4f03a1f64c75318fc0ef
 notion_id: 615a5478-9aec-4f03-a1f6-4c75318fc0ef
 ---
 

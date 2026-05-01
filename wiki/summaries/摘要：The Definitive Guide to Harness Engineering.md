@@ -1,15 +1,13 @@
 ---
 title: 摘要：The Definitive Guide to Harness Engineering
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: Agent, LLM, 自动化, harness, Prompt工程
 source_article_url: https://www.notion.so/34b701074b6881ca8195e2de37fb2d57
-notion_url: https://www.notion.so/3c3f4d07179c408294f8ea16d12e99c7
+notion_url: https://www.notion.so/Tizer/3c3f4d07179c408294f8ea16d12e99c7
 notion_id: 3c3f4d07-179c-4082-94f8-ea16d12e99c7
 ---
 

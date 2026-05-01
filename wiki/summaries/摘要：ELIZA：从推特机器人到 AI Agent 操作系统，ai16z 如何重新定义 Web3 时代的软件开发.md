@@ -2,13 +2,17 @@
 title: 摘要：ELIZA：从推特机器人到 AI Agent 操作系统，ai16z 如何重新定义 Web3 时代的软件开发
 type: summary
 tags:
-- LLM
+- 多Agent协作
+- Agent 协作模式
+- 商业/生态
+- 链上协议
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/28f71df3c8314d6da520c8cab9467f29
+notion_url: https://www.notion.so/Tizer/28f71df3c8314d6da520c8cab9467f29
 notion_id: 28f71df3-c831-4d6d-a520-c8cab9467f29
 ---
 

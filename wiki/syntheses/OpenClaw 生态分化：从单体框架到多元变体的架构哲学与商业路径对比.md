@@ -2,17 +2,15 @@
 title: OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比
 type: synthesis
 tags:
-- OpenClaw
-- Agent 框架
 - 商业/生态
-- 工作流
-- Agent 技能
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/87fdd728e9af4f0aa17270f4ec345ae2
+notion_url: https://www.notion.so/Tizer/87fdd728e9af4f0aa17270f4ec345ae2
 notion_id: 87fdd728-e9af-4f0a-a172-70f4ec345ae2
 ---
 

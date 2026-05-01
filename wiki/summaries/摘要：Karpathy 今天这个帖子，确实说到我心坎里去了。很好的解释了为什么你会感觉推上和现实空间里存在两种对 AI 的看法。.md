@@ -1,15 +1,13 @@
 ---
 title: 摘要：Karpathy 今天这个帖子，确实说到我心坎里去了。很好的解释了为什么你会感觉推上和现实空间里存在两种对 AI 的看法。
 type: summary
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b6881778803cc7de3df5162
-notion_url: https://www.notion.so/659f8437d0a14178ac616123b7a08d07
+notion_url: https://www.notion.so/Tizer/659f8437d0a14178ac616123b7a08d07
 notion_id: 659f8437-d0a1-4178-ac61-6123b7a08d07
 ---
 

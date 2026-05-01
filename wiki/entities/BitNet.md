@@ -1,14 +1,13 @@
 ---
 title: BitNet
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/8a299717ffa04a2a9a243cae67589e81
+notion_url: https://www.notion.so/Tizer/8a299717ffa04a2a9a243cae67589e81
 notion_id: 8a299717-ffa0-4a2a-9a24-3cae67589e81
 ---
 

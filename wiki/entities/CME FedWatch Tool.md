@@ -2,14 +2,13 @@
 title: CME FedWatch Tool
 type: entity
 tags:
-- Crypto/DeFi
-- 商业/生态
+- 量化交易
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/651ee71b7c794c738fb3f5599f6176be
+notion_url: https://www.notion.so/Tizer/651ee71b7c794c738fb3f5599f6176be
 notion_id: 651ee71b-7c79-4c73-8fb3-f5599f6176be
 ---
 

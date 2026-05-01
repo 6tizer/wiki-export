@@ -1,15 +1,13 @@
 ---
 title: 摘要：Lightweight agent harness for building AI agents!
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: https://www.notion.so/34b701074b6881f3bda2eca07a3b5f32
-notion_url: https://www.notion.so/ebef199a1d604da790e46a7fca273c4a
+notion_url: https://www.notion.so/Tizer/ebef199a1d604da790e46a7fca273c4a
 notion_id: ebef199a-1d60-4da7-90e4-6a7fca273c4a
 ---
 

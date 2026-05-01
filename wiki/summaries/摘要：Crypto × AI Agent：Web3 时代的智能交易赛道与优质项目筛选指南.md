@@ -1,14 +1,13 @@
 ---
 title: 摘要：Crypto × AI Agent：Web3 时代的智能交易赛道与优质项目筛选指南
 type: summary
-tags:
-- Crypto/DeFi
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c21f98b7e59f42ac96aa57db48572eaa
+notion_url: https://www.notion.so/Tizer/c21f98b7e59f42ac96aa57db48572eaa
 notion_id: c21f98b7-e59f-42ac-96aa-57db48572eaa
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：多Agent团队协作才是Hermes Agent的正确打开方式。
 type: summary
-tags:
-- Agent 编排
-- Agent 框架
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688113b009e44a58a6ebd6
-notion_url: https://www.notion.so/8686e90c56df4849a1e46bc6568af627
+notion_url: https://www.notion.so/Tizer/8686e90c56df4849a1e46bc6568af627
 notion_id: 8686e90c-56df-4849-a1e4-6bc6568af627
 ---
 

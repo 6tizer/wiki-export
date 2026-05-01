@@ -2,14 +2,13 @@
 title: 摘要：传播定价模型：用「猜疑链」解剖 Crypto 的 FOMO 本质
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Crypto, 传播定价, 叙事, FOMO, 注意力经济/RWA
 source_article_url: https://www.notion.so/33e701074b6881168ca4ca47146b06e0
-notion_url: https://www.notion.so/f3673217425d49289489fb6021bb4881
+notion_url: https://www.notion.so/Tizer/f3673217425d49289489fb6021bb4881
 notion_id: f3673217-425d-4928-9489-fb6021bb4881
 ---
 

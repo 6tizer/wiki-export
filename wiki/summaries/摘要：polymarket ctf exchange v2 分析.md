@@ -1,14 +1,13 @@
 ---
 title: 摘要：polymarket ctf exchange v2 分析
 type: summary
-tags:
-- Crypto/DeFi
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881069cc0d77b18ffe67b
-notion_url: https://www.notion.so/c7ed378881044615a369f7d55d908fea
+notion_url: https://www.notion.so/Tizer/c7ed378881044615a369f7d55d908fea
 notion_id: c7ed3788-8104-4615-a369-f7d55d908fea
 ---
 

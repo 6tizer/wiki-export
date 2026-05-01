@@ -2,13 +2,18 @@
 title: 摘要：Spore.fun：Adam 与 Eve 的双线进化，AI 文明的代币发行新实验
 type: summary
 tags:
-- Crypto/DeFi
+- 商业/生态
+- 加密资产
+- 链上协议
+- Agent 协作模式
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/d2acf4b7201c4a6ea8539282f1ea5c61
+notion_url: https://www.notion.so/Tizer/d2acf4b7201c4a6ea8539282f1ea5c61
 notion_id: d2acf4b7-201c-4a6e-a853-9282f1ea5c61
 ---
 

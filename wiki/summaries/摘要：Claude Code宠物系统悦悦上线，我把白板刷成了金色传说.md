@@ -1,14 +1,13 @@
 ---
 title: 摘要：Claude Code宠物系统悦悦上线，我把白板刷成了金色传说
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/185361106594482687010237e36584d2
+notion_url: https://www.notion.so/Tizer/185361106594482687010237e36584d2
 notion_id: 18536110-6594-4826-8701-0237e36584d2
 ---
 

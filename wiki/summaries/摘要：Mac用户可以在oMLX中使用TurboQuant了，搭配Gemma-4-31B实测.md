@@ -2,14 +2,14 @@
 title: 摘要：Mac用户可以在oMLX中使用TurboQuant了，搭配Gemma-4-31B实测
 type: summary
 tags:
-- LLM
-- 开发工具
+- 推理优化
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1700f5a80a434959b44dffe38ec1e43d
+notion_url: https://www.notion.so/Tizer/1700f5a80a434959b44dffe38ec1e43d
 notion_id: 1700f5a8-0a43-4959-b44d-ffe38ec1e43d
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：币安 AI Agent Skills：用「模块化技能包」给每个 AI Agent 装上币安级大脑
 type: summary
 tags:
-- Crypto/DeFi
+- 加密资产
+- 量化交易
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/5e82b25fe9c44e7c840c7d91202ef430
+notion_url: https://www.notion.so/Tizer/5e82b25fe9c44e7c840c7d91202ef430
 notion_id: 5e82b25f-e9c4-4e7c-840c-7d91202ef430
 ---
 

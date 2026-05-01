@@ -2,7 +2,8 @@
 title: UniPat AI
 type: entity
 tags:
-- Crypto/DeFi
+- 加密资产
+- AI 产品
 - 商业/生态
 status: 审核中
 confidence: medium

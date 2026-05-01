@@ -2,13 +2,15 @@
 title: Cognee
 type: entity
 tags:
-- 记忆系统
+- 长期记忆
+- RAG/检索
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/cc13e531ba1b466593c09cf8ee46d5a8
+notion_url: https://www.notion.so/Tizer/cc13e531ba1b466593c09cf8ee46d5a8
 notion_id: cc13e531-ba1b-4665-93c0-9cf8ee46d5a8
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: LABBench2
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/72b19cdf137c45a0b73d9384fa57ef0e
+notion_url: https://www.notion.so/Tizer/72b19cdf137c45a0b73d9384fa57ef0e
 notion_id: 72b19cdf-137c-45a0-b73d-9384fa57ef0e
 ---
 

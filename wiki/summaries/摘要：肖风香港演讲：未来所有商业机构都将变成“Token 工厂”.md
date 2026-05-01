@@ -2,14 +2,13 @@
 title: 摘要：肖风香港演讲：未来所有商业机构都将变成“Token 工厂”
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688127b00ec910ee4758ef
-notion_url: https://www.notion.so/2f9f6c293dd949448fd88bd7f569f0d7
+notion_url: https://www.notion.so/Tizer/2f9f6c293dd949448fd88bd7f569f0d7
 notion_id: 2f9f6c29-3dd9-4944-8fd8-8bd7f569f0d7
 ---
 

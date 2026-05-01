@@ -2,7 +2,9 @@
 title: viking://
 type: concept
 tags:
-- 长期记忆
+- 知识管理
+- 上下文管理
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

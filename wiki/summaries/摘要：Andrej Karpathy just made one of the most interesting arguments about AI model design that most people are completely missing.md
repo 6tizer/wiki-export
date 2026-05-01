@@ -13,7 +13,7 @@ confidence: medium
 last_compiled: '2026-04-20'
 source_tags: LLM, Karpathy, 记忆, openai
 source_article_url: https://www.notion.so/348701074b6881719b19f7b6606a68a4
-notion_url: https://www.notion.so/d78d59b999b14f2388d2de685b1c077c
+notion_url: https://www.notion.so/Tizer/d78d59b999b14f2388d2de685b1c077c
 notion_id: d78d59b9-99b1-4f23-88d2-de685b1c077c
 ---
 

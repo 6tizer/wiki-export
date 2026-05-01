@@ -1,15 +1,13 @@
 ---
 title: AI-First Engineering
 type: concept
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-14'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e94d8cf84aaf41af9097357359f6c758
+notion_url: https://www.notion.so/Tizer/e94d8cf84aaf41af9097357359f6c758
 notion_id: e94d8cf8-4aaf-41af-9097-357359f6c758
 ---
 

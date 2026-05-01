@@ -1,15 +1,13 @@
 ---
 title: 摘要：迎接智能体的「觉醒时刻」：EverOS全球公测开启Agent Memory自进化序章
 type: summary
-tags:
-- 记忆系统
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/342701074b6881cfab15f2bdf4957d10
-notion_url: https://www.notion.so/8eff498034f54b15a95fb26b61d381c2
+notion_url: https://www.notion.so/Tizer/8eff498034f54b15a95fb26b61d381c2
 notion_id: 8eff4980-34f5-4b15-a95f-b26b61d381c2
 ---
 

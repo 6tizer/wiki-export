@@ -1,15 +1,13 @@
 ---
 title: 摘要：Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881de996bea06f416f788
-notion_url: https://www.notion.so/8f92a62227fc4a23899f861b9bc5d09b
+notion_url: https://www.notion.so/Tizer/8f92a62227fc4a23899f861b9bc5d09b
 notion_id: 8f92a622-27fc-4a23-899f-861b9bc5d09b
 ---
 

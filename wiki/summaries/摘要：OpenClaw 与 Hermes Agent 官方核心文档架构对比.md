@@ -2,14 +2,13 @@
 title: 摘要：OpenClaw 与 Hermes Agent 官方核心文档架构对比
 type: summary
 tags:
-- Agent 框架
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6880dd995acb5fdc19fb2a
-notion_url: https://www.notion.so/0a61eb4a268c476298e3494d6c769074
+notion_url: https://www.notion.so/Tizer/0a61eb4a268c476298e3494d6c769074
 notion_id: 0a61eb4a-268c-4762-98e3-494d6c769074
 ---
 

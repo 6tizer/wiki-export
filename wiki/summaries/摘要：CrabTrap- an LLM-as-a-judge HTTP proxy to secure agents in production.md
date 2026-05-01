@@ -1,15 +1,13 @@
 ---
 title: '摘要：CrabTrap: an LLM-as-a-judge HTTP proxy to secure agents in production'
 type: summary
-tags:
-- 安全/隐私
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68810c8a1bd0f45c6a63e8
-notion_url: https://www.notion.so/234b53ba20df4e46a56b842eb1b910cf
+notion_url: https://www.notion.so/Tizer/234b53ba20df4e46a56b842eb1b910cf
 notion_id: 234b53ba-20df-4e46-a56b-842eb1b910cf
 ---
 

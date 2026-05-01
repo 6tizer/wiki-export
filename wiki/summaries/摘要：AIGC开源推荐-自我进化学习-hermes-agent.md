@@ -2,13 +2,15 @@
 title: 摘要：AIGC开源推荐-自我进化学习-hermes-agent
 type: summary
 tags:
-- 记忆系统
+- Agent 协作模式
+- 长期记忆
+- 训练/微调
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, 开源项目, Skill 开发
 source_article_url: ''
-notion_url: https://www.notion.so/a5c090f5f38b4ea6b862a7a043d88a34
+notion_url: https://www.notion.so/Tizer/a5c090f5f38b4ea6b862a7a043d88a34
 notion_id: a5c090f5-f38b-4ea6-b862-a7a043d88a34
 ---
 

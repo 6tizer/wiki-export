@@ -2,14 +2,15 @@
 title: 摘要：Anthropic 实战指南：如何构建真正有效的 AI Agent 系统
 type: summary
 tags:
-- LLM
-- 工作流
+- Agent 协作模式
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/dc3834ab637149a8adb20659396fc0fc
+notion_url: https://www.notion.so/Tizer/dc3834ab637149a8adb20659396fc0fc
 notion_id: dc3834ab-6371-49a8-adb2-0659396fc0fc
 ---
 

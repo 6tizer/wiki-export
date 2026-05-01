@@ -2,8 +2,9 @@
 title: Depth Anything V2
 type: entity
 tags:
-- 内容创作
-- 开发工具
+- 视频/3D
+- 前端开发
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

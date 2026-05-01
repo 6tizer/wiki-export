@@ -1,14 +1,13 @@
 ---
 title: Ouro
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3c67ed520cb24b0faefd52c870d33a0c
+notion_url: https://www.notion.so/Tizer/3c67ed520cb24b0faefd52c870d33a0c
 notion_id: 3c67ed52-0cb2-4b0f-aefd-52c870d33a0c
 ---
 

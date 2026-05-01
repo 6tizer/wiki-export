@@ -2,13 +2,17 @@
 title: 摘要：Google DeepMind 正式推出 Gemma 4
 type: summary
 tags:
-- LLM
+- 多模态
+- 模型部署
+- Agent 协作模式
+- OpenClaw
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/81038c63fceb473a961e8741f72b24f2
+notion_url: https://www.notion.so/Tizer/81038c63fceb473a961e8741f72b24f2
 notion_id: 81038c63-fceb-473a-961e-8741f72b24f2
 ---
 

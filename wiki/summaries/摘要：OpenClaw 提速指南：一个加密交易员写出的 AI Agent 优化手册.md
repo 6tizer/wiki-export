@@ -3,13 +3,14 @@ title: 摘要：OpenClaw 提速指南：一个加密交易员写出的 AI Agent 
 type: summary
 tags:
 - OpenClaw
-- 记忆系统
+- 上下文管理
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b688175a5cecfea0bd6a596
-notion_url: https://www.notion.so/aaff272772964331b06f3e476160bfcb
+notion_url: https://www.notion.so/Tizer/aaff272772964331b06f3e476160bfcb
 notion_id: aaff2727-7296-4331-b06f-3e476160bfcb
 ---
 

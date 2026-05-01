@@ -2,13 +2,15 @@
 title: 摘要：谷歌掀语音Agent新纪元！开口就是生产力
 type: summary
 tags:
-- LLM
+- Agent 协作模式
+- 上下文管理
+- 模型评测
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c463821b17974b408928fffcb20fb4da
+notion_url: https://www.notion.so/Tizer/c463821b17974b408928fffcb20fb4da
 notion_id: c463821b-1797-4b40-8928-fffcb20fb4da
 ---
 

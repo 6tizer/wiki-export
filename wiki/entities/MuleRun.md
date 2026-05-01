@@ -1,8 +1,7 @@
 ---
 title: MuleRun
 type: entity
-tags:
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-29'

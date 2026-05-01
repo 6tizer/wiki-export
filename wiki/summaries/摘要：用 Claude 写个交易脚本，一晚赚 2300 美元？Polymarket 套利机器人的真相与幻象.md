@@ -2,14 +2,15 @@
 title: 摘要：用 Claude 写个交易脚本，一晚赚 2300 美元？Polymarket 套利机器人的真相与幻象
 type: summary
 tags:
-- Crypto/DeFi
-- Coding Agent
+- 量化交易
+- 加密资产
+- 代码生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化, Agent
 source_article_url: https://www.notion.so/335701074b6881da9c3ae2bccbc43095
-notion_url: https://www.notion.so/c198d7a33a2945b4aec987e80873e871
+notion_url: https://www.notion.so/Tizer/c198d7a33a2945b4aec987e80873e871
 notion_id: c198d7a3-3a29-45b4-aec9-87e80873e871
 ---
 

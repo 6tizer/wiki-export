@@ -2,10 +2,6 @@
 title: autoresearch
 type: entity
 tags:
-- Agent 框架
-- Agent 编排
-- Agent 技能
-- Coding Agent
 - 训练/微调
 status: 审核中
 confidence: high

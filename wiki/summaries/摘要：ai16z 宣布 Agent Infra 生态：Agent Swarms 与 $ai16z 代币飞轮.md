@@ -1,14 +1,13 @@
 ---
 title: 摘要：ai16z 宣布 Agent Infra 生态：Agent Swarms 与 $ai16z 代币飞轮
 type: summary
-tags:
-- Crypto/DeFi
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/dd890e5433fe4d4ea9c4e17cf33ab1f9
+notion_url: https://www.notion.so/Tizer/dd890e5433fe4d4ea9c4e17cf33ab1f9
 notion_id: dd890e54-33fe-4d4e-a9c4-e17cf33ab1f9
 ---
 

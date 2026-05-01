@@ -2,13 +2,17 @@
 title: 摘要：前谷歌产品经理用一个周末 Vibe Code 了一个 Palantir
 type: summary
 tags:
-- 开发工具
+- 多Agent协作
+- 代码生成
+- OpenClaw
+- 商业/生态
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/ff79a2fe387743a0bbe679a658ecf4a6
+notion_url: https://www.notion.so/Tizer/ff79a2fe387743a0bbe679a658ecf4a6
 notion_id: ff79a2fe-3877-43a0-bbe6-79a658ecf4a6
 ---
 

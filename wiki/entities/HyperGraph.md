@@ -3,13 +3,13 @@ title: HyperGraph
 type: entity
 tags:
 - 知识管理
-- Agent 技能
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a5eccdcd3db64cf194197642da501de8
+notion_url: https://www.notion.so/Tizer/a5eccdcd3db64cf194197642da501de8
 notion_id: a5eccdcd-3db6-4cf1-9419-7642da501de8
 ---
 

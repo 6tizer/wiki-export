@@ -1,14 +1,13 @@
 ---
 title: /plan 规划模式
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f67e1c5d150f488a83be73f65b950f37
+notion_url: https://www.notion.so/Tizer/f67e1c5d150f488a83be73f65b950f37
 notion_id: f67e1c5d-150f-488a-83be-73f65b950f37
 ---
 

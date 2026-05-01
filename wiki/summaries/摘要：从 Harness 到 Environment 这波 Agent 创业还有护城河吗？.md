@@ -1,14 +1,13 @@
 ---
 title: 摘要：从 Harness 到 Environment? 这波 Agent 创业还有护城河吗？
 type: summary
-tags:
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/fb7276d9992a459db08b73aaaf1daac4
+notion_url: https://www.notion.so/Tizer/fb7276d9992a459db08b73aaaf1daac4
 notion_id: fb7276d9-992a-459d-b08b-73aaaf1daac4
 ---
 

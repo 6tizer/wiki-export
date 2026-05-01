@@ -1,14 +1,13 @@
 ---
 title: Marzban
 type: entity
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4a7d5e113ff1487ab51849196ef528d2
+notion_url: https://www.notion.so/Tizer/4a7d5e113ff1487ab51849196ef528d2
 notion_id: 4a7d5e11-3ff1-487a-b518-49196ef528d2
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Vercel 开源了 Open Agents，一个用来搭建企业自有编程 Agent 平台的参考实现。
 type: summary
-tags:
-- Coding Agent
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881bca10fd8370a39821e
-notion_url: https://www.notion.so/5d9828ec1ae549e69aca7a8f9f34d8d8
+notion_url: https://www.notion.so/Tizer/5d9828ec1ae549e69aca7a8f9f34d8d8
 notion_id: 5d9828ec-1ae5-49e6-9aca-7a8f9f34d8d8
 ---
 

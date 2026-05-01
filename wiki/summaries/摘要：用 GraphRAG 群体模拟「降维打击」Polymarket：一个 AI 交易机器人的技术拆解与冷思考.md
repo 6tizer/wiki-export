@@ -2,14 +2,16 @@
 title: 摘要：用 GraphRAG 群体模拟「降维打击」Polymarket：一个 AI 交易机器人的技术拆解与冷思考
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 编排
+- 量化交易
+- RAG/检索
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881e58dfac17e43336b23
-notion_url: https://www.notion.so/99c44bf0ba314acf853e917fcc8452ed
+notion_url: https://www.notion.so/Tizer/99c44bf0ba314acf853e917fcc8452ed
 notion_id: 99c44bf0-ba31-4acf-853e-917fcc8452ed
 ---
 

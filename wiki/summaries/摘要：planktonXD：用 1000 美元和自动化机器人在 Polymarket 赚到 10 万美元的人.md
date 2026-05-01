@@ -2,14 +2,13 @@
 title: 摘要：planktonXD：用 1000 美元和自动化机器人在 Polymarket 赚到 10 万美元的人
 type: summary
 tags:
-- Crypto/DeFi
-- 工作流
+- 量化交易
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/c23a3e805bda448e9c2723a5036f50e0
+notion_url: https://www.notion.so/Tizer/c23a3e805bda448e9c2723a5036f50e0
 notion_id: c23a3e80-5bda-448e-9c27-23a5036f50e0
 ---
 
@@ -27,7 +26,7 @@ planktonXD 的案例说明，在预测市场中把极小赔率错价与自动化
 
 ### 提取的概念
 
-- [planktonXD](concepts/planktonXD.md)
+- [planktonXD](entities/planktonXD.md)
 
 - [高频刮痧](concepts/高频刮痧.md)
 

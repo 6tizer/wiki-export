@@ -1,15 +1,13 @@
 ---
 title: 摘要：Vibe Coding规范工作流
 type: summary
-tags:
-- 开发工具
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/7f5e71a97f1d4a8f928081bd676742c3
+notion_url: https://www.notion.so/Tizer/7f5e71a97f1d4a8f928081bd676742c3
 notion_id: 7f5e71a9-7f1d-4a8f-9280-81bd676742c3
 ---
 

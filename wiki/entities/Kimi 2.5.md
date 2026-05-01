@@ -2,7 +2,9 @@
 title: Kimi 2.5
 type: entity
 tags:
-- LLM
+- AI 产品
+- 模型部署
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

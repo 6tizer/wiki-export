@@ -2,13 +2,15 @@
 title: 摘要：支付宝官方 Skill 刚刚上线 ModelScope：AI 支付进入「官方背书」时代
 type: summary
 tags:
-- Agent 技能
+- 商业/生态
+- MCP 协议
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: MCP, Agent, 产品发布
 source_article_url: ''
-notion_url: https://www.notion.so/7e952656b24145ee89895f598bd44525
+notion_url: https://www.notion.so/Tizer/7e952656b24145ee89895f598bd44525
 notion_id: 7e952656-b241-45ee-8989-5f598bd44525
 ---
 

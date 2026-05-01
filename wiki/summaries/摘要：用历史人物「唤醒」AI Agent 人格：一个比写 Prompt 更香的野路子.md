@@ -2,14 +2,14 @@
 title: 摘要：用历史人物「唤醒」AI Agent 人格：一个比写 Prompt 更香的野路子
 type: summary
 tags:
-- Agent 编排
-- LLM
+- Agent 协作模式
+- 提示工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/197c468e2dd64b8c8d1cfc8fb5239c5f
+notion_url: https://www.notion.so/Tizer/197c468e2dd64b8c8d1cfc8fb5239c5f
 notion_id: 197c468e-2dd6-4b8c-8d1c-fc8fb5239c5f
 ---
 

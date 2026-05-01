@@ -2,13 +2,15 @@
 title: 摘要：Creao AI：用自然语言定制专属 Agent，Grok 帮你搞定一切难题
 type: summary
 tags:
-- Agent 框架
+- Agent 协作模式
+- AI 产品
+- 提示工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/537ecaccbb194dc583885747e2281761
+notion_url: https://www.notion.so/Tizer/537ecaccbb194dc583885747e2281761
 notion_id: 537ecacc-bb19-4dc5-8388-5747e2281761
 ---
 

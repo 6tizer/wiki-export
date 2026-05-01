@@ -2,13 +2,14 @@
 title: 摘要：闲鱼，更适合中国宝宝的 OpenClaw
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
 status: 已审核
 confidence: low
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1447f18d1d264f30b307a9aa9dfcbe0c
+notion_url: https://www.notion.so/Tizer/1447f18d1d264f30b307a9aa9dfcbe0c
 notion_id: 1447f18d-1d26-4f30-b307-a9aa9dfcbe0c
 ---
 

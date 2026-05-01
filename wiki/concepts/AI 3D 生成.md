@@ -2,7 +2,8 @@
 title: AI 3D 生成
 type: concept
 tags:
-- 内容创作
+- 视频/3D
+- AI 设计
 - 商业/生态
 status: 审核中
 confidence: high

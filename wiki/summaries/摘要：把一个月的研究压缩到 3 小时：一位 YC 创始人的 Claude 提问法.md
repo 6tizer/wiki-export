@@ -2,14 +2,15 @@
 title: 摘要：把一个月的研究压缩到 3 小时：一位 YC 创始人的 Claude 提问法
 type: summary
 tags:
-- Agent 编排
-- LLM
+- 知识管理
+- 提示工程
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/a4183bdb1b234a59b4704ebe1c8c6c62
+notion_url: https://www.notion.so/Tizer/a4183bdb1b234a59b4704ebe1c8c6c62
 notion_id: a4183bdb-1b23-4a59-b470-4ebe1c8c6c62
 ---
 

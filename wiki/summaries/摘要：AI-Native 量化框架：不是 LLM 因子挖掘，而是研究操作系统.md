@@ -2,14 +2,13 @@
 title: 摘要：AI-Native 量化框架：不是 LLM 因子挖掘，而是研究操作系统
 type: summary
 tags:
-- Agent 框架
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688123981fe6e21e396934
-notion_url: https://www.notion.so/a990ab411af740b78a900fc7194d8621
+notion_url: https://www.notion.so/Tizer/a990ab411af740b78a900fc7194d8621
 notion_id: a990ab41-1af7-40b7-8a90-0fc7194d8621
 ---
 

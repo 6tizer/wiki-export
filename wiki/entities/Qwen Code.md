@@ -1,14 +1,13 @@
 ---
 title: Qwen Code
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ca54f2341e684eb4af2c5b190f0c0c31
+notion_url: https://www.notion.so/Tizer/ca54f2341e684eb4af2c5b190f0c0c31
 notion_id: ca54f234-1e68-4eb4-af2c-5b190f0c0c31
 ---
 

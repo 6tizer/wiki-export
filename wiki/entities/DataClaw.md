@@ -2,15 +2,14 @@
 title: DataClaw
 type: entity
 tags:
-- CLI 工具
 - 知识管理
-- OpenClaw
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a0ebe1a3e25c43c896106b9f4dac3f45
+notion_url: https://www.notion.so/Tizer/a0ebe1a3e25c43c896106b9f4dac3f45
 notion_id: a0ebe1a3-e25c-43c8-9610-6b9f4dac3f45
 ---
 

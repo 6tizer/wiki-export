@@ -1,15 +1,13 @@
 ---
 title: 摘要：Hermes Agent 生态继续疯涨
 type: summary
-tags:
-- Agent 框架
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881129cdfcf85e8ee0bc1
-notion_url: https://www.notion.so/a76d69a418de48c2875d6779e0284f2a
+notion_url: https://www.notion.so/Tizer/a76d69a418de48c2875d6779e0284f2a
 notion_id: a76d69a4-18de-48c2-875d-6779e0284f2a
 ---
 

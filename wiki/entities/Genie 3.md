@@ -1,9 +1,7 @@
 ---
 title: Genie 3
 type: entity
-tags:
-- 内容创作
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'

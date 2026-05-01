@@ -2,14 +2,13 @@
 title: AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑
 type: synthesis
 tags:
-- 安全/隐私
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/462c53849c2442d2b63b7579d463339a
+notion_url: https://www.notion.so/Tizer/462c53849c2442d2b63b7579d463339a
 notion_id: 462c5384-9c24-42d2-b63b-7579d463339a
 ---
 

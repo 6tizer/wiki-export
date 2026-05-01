@@ -1,15 +1,13 @@
 ---
 title: 摘要：Hermes 核心文档架构详尽分析与优化方案指南
 type: summary
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68807e9b52f789052e139c
-notion_url: https://www.notion.so/b28c45aaf1834b0383d950d5f31562da
+notion_url: https://www.notion.so/Tizer/b28c45aaf1834b0383d950d5f31562da
 notion_id: b28c45aa-f183-4b03-83d9-50d5f31562da
 ---
 

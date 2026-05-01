@@ -2,13 +2,14 @@
 title: 摘要：重构AI信息获取工作流——筛选5%信息差
 type: summary
 tags:
-- 工作流
+- 内容自动化
+- RAG/检索
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/3a225b15355543b19c8d8999706efe19
+notion_url: https://www.notion.so/Tizer/3a225b15355543b19c8d8999706efe19
 notion_id: 3a225b15-3555-43b1-9c8d-8999706efe19
 ---
 

@@ -2,17 +2,13 @@
 title: Agent 技能如何重塑内容创作：从通用提示到领域专精 Skill 的能力封装与质量治理演进
 type: synthesis
 tags:
-- Agent 技能
-- 内容创作
-- 工作流
 - 上下文管理
-- Agent 编排
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/50a71f99da17449d9573fad71578de8a
+notion_url: https://www.notion.so/Tizer/50a71f99da17449d9573fad71578de8a
 notion_id: 50a71f99-da17-449d-9573-fad71578de8a
 ---
 

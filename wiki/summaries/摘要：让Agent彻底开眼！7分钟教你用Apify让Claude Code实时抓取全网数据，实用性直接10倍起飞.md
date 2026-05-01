@@ -2,13 +2,15 @@
 title: 摘要：让Agent彻底"开眼"！7分钟教你用Apify让Claude Code实时抓取全网数据，实用性直接10倍起飞
 type: summary
 tags:
-- 开发工具
+- 内容自动化
+- 浏览器自动化
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/8d1be004eca447cd9d50eca7fab50658
+notion_url: https://www.notion.so/Tizer/8d1be004eca447cd9d50eca7fab50658
 notion_id: 8d1be004-eca4-47cd-9d50-eca7fab50658
 ---
 

@@ -3,13 +3,13 @@ title: 摘要：Stripe × Tempo MPP：AI Agent 终于能自主「刷卡」了
 type: summary
 tags:
 - 商业/生态
-- Crypto/DeFi
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化
 source_article_url: https://www.notion.so/335701074b6881ac8b1df1ee7431e979
-notion_url: https://www.notion.so/2a3add9f945c4e009fe14bd4b2a81c75
+notion_url: https://www.notion.so/Tizer/2a3add9f945c4e009fe14bd4b2a81c75
 notion_id: 2a3add9f-945c-4e00-9fe1-4bd4b2a81c75
 ---
 

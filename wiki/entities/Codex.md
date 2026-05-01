@@ -1,11 +1,7 @@
 ---
 title: Codex
 type: entity
-tags:
-- Coding Agent
-- Agent 技能
-- 开发工具
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-30'

@@ -2,14 +2,13 @@
 title: 摘要：最近看到一个 AI x 预测市场的项目，UniPat AI @UniPat_AI ，把预测做成了可对比、可验证的一套系统。
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881679ed1e2145ce37523
-notion_url: https://www.notion.so/29d972d12db74bb4af53afb027211856
+notion_url: https://www.notion.so/Tizer/29d972d12db74bb4af53afb027211856
 notion_id: 29d972d1-2db7-4bb4-af53-afb027211856
 ---
 

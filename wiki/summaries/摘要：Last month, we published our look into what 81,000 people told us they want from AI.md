@@ -4,13 +4,12 @@ title: 摘要：Last month, we published our look into what 81,000 people told u
 type: summary
 tags:
 - 商业/生态
-- LLM
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688163a56bfca74c16a446
-notion_url: https://www.notion.so/e8a8d547d94949ba934f079d7ba41563
+notion_url: https://www.notion.so/Tizer/e8a8d547d94949ba934f079d7ba41563
 notion_id: e8a8d547-d949-49ba-934f-079d7ba41563
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：5 Agent Design patterns for Long-running AI Agents
 type: summary
-tags:
-- Agent 编排
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881fd8549e1e7a1f8218f
-notion_url: https://www.notion.so/f8b5a2644e6b4285840ce73918d81905
+notion_url: https://www.notion.so/Tizer/f8b5a2644e6b4285840ce73918d81905
 notion_id: f8b5a264-4e6b-4285-840c-e73918d81905
 ---
 

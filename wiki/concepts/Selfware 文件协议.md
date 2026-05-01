@@ -2,7 +2,6 @@
 title: Selfware 文件协议
 type: concept
 tags:
-- Agent 技能
 - 知识管理
 status: 审核中
 confidence: medium

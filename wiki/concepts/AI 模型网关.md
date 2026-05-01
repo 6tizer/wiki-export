@@ -2,14 +2,15 @@
 title: AI 模型网关
 type: concept
 tags:
-- LLM
+- 算力基础设施
 - 商业/生态
+- 模型部署
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c1cfa67308ff4431a3da48e229ff9530
+notion_url: https://www.notion.so/Tizer/c1cfa67308ff4431a3da48e229ff9530
 notion_id: c1cfa673-08ff-4431-a3da-48e229ff9530
 ---
 

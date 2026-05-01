@@ -2,14 +2,13 @@
 title: 摘要：Kiro CLI 2.0 升级指南：OpenClaw 加持下的 AI 编程提效新体验
 type: summary
 tags:
-- Coding Agent
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b6881579710f08cbf607d30
-notion_url: https://www.notion.so/622fdd66b89c4cc687025dfc4c47e761
+notion_url: https://www.notion.so/Tizer/622fdd66b89c4cc687025dfc4c47e761
 notion_id: 622fdd66-b89c-4cc6-8702-5dfc4c47e761
 ---
 

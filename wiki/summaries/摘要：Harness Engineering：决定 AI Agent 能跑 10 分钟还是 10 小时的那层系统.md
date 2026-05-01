@@ -2,13 +2,15 @@
 title: 摘要：Harness Engineering：决定 AI Agent 能跑 10 分钟还是 10 小时的那层系统
 type: summary
 tags:
-- Agent 编排
+- Harness 工程
+- Agent 协作模式
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/4ae6090220174e7ab14a0d3a3db61b3d
+notion_url: https://www.notion.so/Tizer/4ae6090220174e7ab14a0d3a3db61b3d
 notion_id: 4ae60902-2017-4e7a-b14a-0d3a3db61b3d
 ---
 

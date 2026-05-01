@@ -1,15 +1,13 @@
 ---
 title: Tool Calling
 type: concept
-tags:
-- Agent 技能
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/33902eb0e13e405b8c2de8c7bff64b0c
+notion_url: https://www.notion.so/Tizer/33902eb0e13e405b8c2de8c7bff64b0c
 notion_id: 33902eb0-e13e-405b-8c2d-e8c7bff64b0c
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Cloudflare Dynamic Workers：用 V8 隔离沙箱让 AI Agent 代码执行快 100 倍
 type: summary
-tags:
-- Agent 技能
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, 自动化
 source_article_url: https://www.notion.so/336701074b6881a698e0e853c2b5856c
-notion_url: https://www.notion.so/9a8b9d4bd16243c0a5463d2e8476ec1c
+notion_url: https://www.notion.so/Tizer/9a8b9d4bd16243c0a5463d2e8476ec1c
 notion_id: 9a8b9d4b-d162-43c0-a546-3d2e8476ec1c
 ---
 

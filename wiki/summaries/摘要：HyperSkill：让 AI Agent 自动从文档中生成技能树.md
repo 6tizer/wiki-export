@@ -2,14 +2,15 @@
 title: 摘要：HyperSkill：让 AI Agent 自动从文档中生成技能树
 type: summary
 tags:
-- Agent 技能
 - 知识管理
+- 浏览器自动化
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b688124bf99c02cb3c743ac
-notion_url: https://www.notion.so/96e4021bb5144ddfb10832ddd009d643
+notion_url: https://www.notion.so/Tizer/96e4021bb5144ddfb10832ddd009d643
 notion_id: 96e4021b-b514-4ddf-b108-32ddd009d643
 ---
 

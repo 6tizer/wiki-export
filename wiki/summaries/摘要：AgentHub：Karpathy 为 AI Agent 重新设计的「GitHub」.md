@@ -2,14 +2,15 @@
 title: 摘要：AgentHub：Karpathy 为 AI Agent 重新设计的「GitHub」
 type: summary
 tags:
-- Agent 编排
-- 开发工具
+- Agent 协作模式
+- 多Agent协作
+- 算力基础设施
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/7239e5e340c440019662655da8a49889
+notion_url: https://www.notion.so/Tizer/7239e5e340c440019662655da8a49889
 notion_id: 7239e5e3-40c4-4001-9662-655da8a49889
 ---
 

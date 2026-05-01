@@ -2,8 +2,9 @@
 title: startup-founder-skills
 type: entity
 tags:
-- Agent 技能
 - 商业/生态
+- Agent 协作模式
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

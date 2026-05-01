@@ -1,15 +1,13 @@
 ---
 title: 摘要：Harness Engineering：当 AI Agent 遇上七十年前的控制论
 type: summary
-tags:
-- Agent 编排
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/2dc83655519444579658f183edc06e4e
+notion_url: https://www.notion.so/Tizer/2dc83655519444579658f183edc06e4e
 notion_id: 2dc83655-5194-4457-9658-f183edc06e4e
 ---
 

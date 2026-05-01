@@ -2,14 +2,13 @@
 title: Dola
 type: entity
 tags:
-- LLM
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/09ff0c8d16974baca69b28e9e3abefde
+notion_url: https://www.notion.so/Tizer/09ff0c8d16974baca69b28e9e3abefde
 notion_id: 09ff0c8d-1697-4bac-a69b-28e9e3abefde
 ---
 

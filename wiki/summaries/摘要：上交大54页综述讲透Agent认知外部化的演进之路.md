@@ -1,15 +1,13 @@
 ---
 title: 摘要：上交大54页综述讲透Agent认知外部化的演进之路
 type: summary
-tags:
-- Agent 编排
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881f6b184f3f96999e71a
-notion_url: https://www.notion.so/abc16b2c64c542bfab4466d5b864e95e
+notion_url: https://www.notion.so/Tizer/abc16b2c64c542bfab4466d5b864e95e
 notion_id: abc16b2c-64c5-42bf-ab44-66d5b864e95e
 ---
 

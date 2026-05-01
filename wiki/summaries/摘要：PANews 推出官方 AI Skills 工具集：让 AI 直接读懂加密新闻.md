@@ -1,15 +1,13 @@
 ---
 title: 摘要：PANews 推出官方 AI Skills 工具集：让 AI 直接读懂加密新闻
 type: summary
-tags:
-- 内容创作
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, Cursor, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b6881cb96a8c999d35d76b4
-notion_url: https://www.notion.so/47275568b0864e7e90710253aad633a2
+notion_url: https://www.notion.so/Tizer/47275568b0864e7e90710253aad633a2
 notion_id: 47275568-b086-4e7e-9071-0253aad633a2
 ---
 

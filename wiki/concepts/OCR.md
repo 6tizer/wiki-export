@@ -1,15 +1,13 @@
 ---
 title: OCR
 type: concept
-tags:
-- 开发工具
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7a5a323e4cee41958a0cd0589bf560b8
+notion_url: https://www.notion.so/Tizer/7a5a323e4cee41958a0cd0589bf560b8
 notion_id: 7a5a323e-4cee-4195-8a0c-d0589bf560b8
 ---
 

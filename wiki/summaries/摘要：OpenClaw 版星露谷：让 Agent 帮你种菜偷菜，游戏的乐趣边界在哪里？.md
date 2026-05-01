@@ -2,14 +2,15 @@
 title: 摘要：OpenClaw 版星露谷：让 Agent 帮你种菜偷菜，游戏的乐趣边界在哪里？
 type: summary
 tags:
-- 内容创作
 - OpenClaw
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/27f1abaf18fe47e88c7d364545173e0a
+notion_url: https://www.notion.so/Tizer/27f1abaf18fe47e88c7d364545173e0a
 notion_id: 27f1abaf-18fe-47e8-8c7d-364545173e0a
 ---
 

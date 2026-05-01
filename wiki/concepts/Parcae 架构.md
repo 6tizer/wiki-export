@@ -1,8 +1,7 @@
 ---
 title: Parcae 架构
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

@@ -1,14 +1,13 @@
 ---
 title: 摘要：Gemma4-31B-Opus-4.6-reasoning：把 Claude 的推理方式「蒸馏」进开源模型
 type: summary
-tags:
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: LLM, Agent
 source_article_url: https://www.notion.so/33f701074b68814cad72d32f2c02a093
-notion_url: https://www.notion.so/21dda044a967409fbdc69767fcb134bc
+notion_url: https://www.notion.so/Tizer/21dda044a967409fbdc69767fcb134bc
 notion_id: 21dda044-a967-409f-bdc6-9767fcb134bc
 ---
 

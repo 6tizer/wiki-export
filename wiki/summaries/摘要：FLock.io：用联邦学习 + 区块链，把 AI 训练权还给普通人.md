@@ -2,13 +2,15 @@
 title: 摘要：FLock.io：用联邦学习 + 区块链，把 AI 训练权还给普通人
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 训练/微调
+- 算力基础设施
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/da353605331e4be09a1554765189c500
+notion_url: https://www.notion.so/Tizer/da353605331e4be09a1554765189c500
 notion_id: da353605-331e-4be0-9a15-54765189c500
 ---
 

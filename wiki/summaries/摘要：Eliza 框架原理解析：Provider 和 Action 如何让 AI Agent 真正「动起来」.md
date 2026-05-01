@@ -2,14 +2,16 @@
 title: 摘要：Eliza 框架原理解析：Provider 和 Action 如何让 AI Agent 真正「动起来」
 type: summary
 tags:
-- LLM
-- 工作流
+- Agent 协作模式
+- 长期记忆
+- 上下文管理
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/bf42cf85950148998e348fd4859dab85
+notion_url: https://www.notion.so/Tizer/bf42cf85950148998e348fd4859dab85
 notion_id: bf42cf85-9501-4899-8e34-8fd4859dab85
 ---
 

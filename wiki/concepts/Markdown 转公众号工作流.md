@@ -1,15 +1,13 @@
 ---
 title: Markdown 转公众号工作流
 type: concept
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a5a491a4b2d64875a008fd98d02e9fd8
+notion_url: https://www.notion.so/Tizer/a5a491a4b2d64875a008fd98d02e9fd8
 notion_id: a5a491a4-b2d6-4875-a008-fd98d02e9fd8
 ---
 

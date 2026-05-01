@@ -1,9 +1,7 @@
 ---
 title: Task Horizon
 type: concept
-tags:
-- LLM
-- Agent 编排
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'

@@ -2,13 +2,16 @@
 title: 摘要：Nexu：用 AI 龙虾帮你逛淘宝，比价砍价下单一句话搞定
 type: summary
 tags:
+- 商业/生态
+- 浏览器自动化
 - OpenClaw
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/42afa51c9d3b4e7b8d277f849779cddf
+notion_url: https://www.notion.so/Tizer/42afa51c9d3b4e7b8d277f849779cddf
 notion_id: 42afa51c-9d3b-4e7b-8d27-7f849779cddf
 ---
 

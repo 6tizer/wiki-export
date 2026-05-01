@@ -2,14 +2,15 @@
 title: LI.FI MCP
 type: entity
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 链上协议
+- MCP 协议
+- 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1488cdccae564985974431aaea9dacc8
+notion_url: https://www.notion.so/Tizer/1488cdccae564985974431aaea9dacc8
 notion_id: 1488cdcc-ae56-4985-9744-31aaea9dacc8
 ---
 

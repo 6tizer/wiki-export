@@ -1,15 +1,13 @@
 ---
 title: 摘要：SHL0MS | HERMES AGENT
 type: summary
-tags:
-- Agent 编排
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/342701074b6881818418e86a2b2ac992
-notion_url: https://www.notion.so/9bb4e6bc3fd245d0960818711fa9445d
+notion_url: https://www.notion.so/Tizer/9bb4e6bc3fd245d0960818711fa9445d
 notion_id: 9bb4e6bc-3fd2-45d0-9608-18711fa9445d
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Why long-term memory for LLMs remains unsolved
 type: summary
-tags:
-- 记忆系统
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881fd8d8bddfa995694b1
-notion_url: https://www.notion.so/01ae2d30942648f58ce1b5753fb40c05
+notion_url: https://www.notion.so/Tizer/01ae2d30942648f58ce1b5753fb40c05
 notion_id: 01ae2d30-9426-48f5-8ce1-b5753fb40c05
 ---
 

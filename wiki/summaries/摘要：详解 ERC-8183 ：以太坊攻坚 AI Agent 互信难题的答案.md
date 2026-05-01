@@ -2,13 +2,17 @@
 title: 摘要：详解 ERC-8183 ：以太坊攻坚 AI Agent 互信难题的答案
 type: summary
 tags:
-- Crypto/DeFi
+- 链上协议
+- 商业/生态
+- Agent 协作模式
+- OpenClaw
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Crypto, Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/3d46953a3d2645adb63c1ca2e472e49f
+notion_url: https://www.notion.so/Tizer/3d46953a3d2645adb63c1ca2e472e49f
 notion_id: 3d46953a-3d26-45ad-b63c-1ca2e472e49f
 ---
 

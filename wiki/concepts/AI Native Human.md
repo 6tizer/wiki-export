@@ -2,14 +2,13 @@
 title: AI Native Human
 type: concept
 tags:
-- 工作流
 - 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/13ea111c78584d5586d3aacef2ee1b6c
+notion_url: https://www.notion.so/Tizer/13ea111c78584d5586d3aacef2ee1b6c
 notion_id: 13ea111c-7858-4d55-86d3-aacef2ee1b6c
 ---
 

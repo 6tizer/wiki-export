@@ -3,6 +3,8 @@ title: MCP 协议
 type: concept
 tags:
 - MCP 协议
+- 商业/生态
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-05-01'

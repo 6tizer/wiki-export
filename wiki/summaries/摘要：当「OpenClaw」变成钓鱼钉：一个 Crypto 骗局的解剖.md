@@ -2,13 +2,15 @@
 title: 摘要：当「OpenClaw」变成钓鱼钉：一个 Crypto 骗局的解剖
 type: summary
 tags:
+- 加密资产
+- Agent 安全
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/ace96d85a82141e58614c142cfe6c202
+notion_url: https://www.notion.so/Tizer/ace96d85a82141e58614c142cfe6c202
 notion_id: ace96d85-a821-41e5-8614-c142cfe6c202
 ---
 

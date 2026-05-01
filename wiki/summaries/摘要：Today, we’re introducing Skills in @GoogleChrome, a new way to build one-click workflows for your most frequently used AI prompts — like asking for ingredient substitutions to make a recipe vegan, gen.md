@@ -3,15 +3,13 @@ title: 摘要：Today, we’re introducing Skills in @GoogleChrome, a new way to
   workflows for your most frequently used AI prompts — like asking for ingredient
   substitutions to make a recipe vegan, gen
 type: summary
-tags:
-- Agent 技能
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688187959fd73ab3f9e580
-notion_url: https://www.notion.so/da65436de82e44c591b5500a5d1a794f
+notion_url: https://www.notion.so/Tizer/da65436de82e44c591b5500a5d1a794f
 notion_id: da65436d-e82e-44c5-91b5-500a5d1a794f
 ---
 

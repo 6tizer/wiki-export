@@ -1,15 +1,13 @@
 ---
 title: AutoCLI.ai
 type: entity
-tags:
-- 开发工具
-- Agent 技能
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0cf2bc3fbbdf4abea27e9d0d1673d8fb
+notion_url: https://www.notion.so/Tizer/0cf2bc3fbbdf4abea27e9d0d1673d8fb
 notion_id: 0cf2bc3f-bbdf-4abe-a27e-9d0d1673d8fb
 ---
 

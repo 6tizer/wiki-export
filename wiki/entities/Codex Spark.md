@@ -1,9 +1,7 @@
 ---
 title: Codex Spark
 type: entity
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

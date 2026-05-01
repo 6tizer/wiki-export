@@ -1,15 +1,13 @@
 ---
 title: 摘要：在Mac上使用mlx_vlm推理gemma 4
 type: summary
-tags:
-- 开发工具
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688139bddcfa78d8e4a0cd
-notion_url: https://www.notion.so/e07ad0a3e811436599e2c82b07bd1d6a
+notion_url: https://www.notion.so/Tizer/e07ad0a3e811436599e2c82b07bd1d6a
 notion_id: e07ad0a3-e811-4365-99e2-c82b07bd1d6a
 ---
 

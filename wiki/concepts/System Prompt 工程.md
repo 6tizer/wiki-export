@@ -1,15 +1,13 @@
 ---
 title: System Prompt 工程
 type: concept
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8d99067df76d4bcb8981b702fe0e6ea7
+notion_url: https://www.notion.so/Tizer/8d99067df76d4bcb8981b702fe0e6ea7
 notion_id: 8d99067d-f76d-4bcb-8981-b702fe0e6ea7
 ---
 

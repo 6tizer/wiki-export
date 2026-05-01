@@ -2,14 +2,13 @@
 title: 摘要：Google 发布 5 个 Agent Skill 设计模式：告别乱写 SKILL.md 的时代
 type: summary
 tags:
-- Agent 技能
-- Coding Agent
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, Cursor, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881518480fa64a1be5b2d
-notion_url: https://www.notion.so/a5b3725cef7c43efa240e13ac153ad74
+notion_url: https://www.notion.so/Tizer/a5b3725cef7c43efa240e13ac153ad74
 notion_id: a5b3725c-ef7c-43ef-a240-e13ac153ad74
 ---
 

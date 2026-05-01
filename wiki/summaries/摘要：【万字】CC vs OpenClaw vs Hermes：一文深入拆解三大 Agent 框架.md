@@ -1,15 +1,13 @@
 ---
 title: 摘要：【万字】CC vs OpenClaw vs Hermes：一文深入拆解三大 Agent 框架
 type: summary
-tags:
-- Agent 框架
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68817fa038cca453b07421
-notion_url: https://www.notion.so/d2663611b2bd4439afe604612919e4a4
+notion_url: https://www.notion.so/Tizer/d2663611b2bd4439afe604612919e4a4
 notion_id: d2663611-b2bd-4439-afe6-04612919e4a4
 ---
 
@@ -43,7 +41,7 @@ notion_id: d2663611-b2bd-4439-afe6-04612919e4a4
 
 - [task budget](concepts/task budget.md)
 
-- [agentskills.io](concepts/agentskills.io.md)
+- [agentskills.io](entities/agentskills.io.md)
 
 ## 原始文章信息
 

@@ -2,13 +2,15 @@
 title: 摘要：2025 年初 AI Agent 框架全景：Swarms、ELIZA、ARC、ZerePy、Dolos 谁是真正的基础设施？
 type: summary
 tags:
-- Agent 框架
+- 多Agent协作
+- Agent 协作模式
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/40989333f78c4f44868f82abc162ef03
+notion_url: https://www.notion.so/Tizer/40989333f78c4f44868f82abc162ef03
 notion_id: 40989333-f78c-4f44-868f-82abc162ef03
 ---
 

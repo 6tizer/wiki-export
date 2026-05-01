@@ -2,14 +2,17 @@
 title: 摘要：6551 OpenClaw MCP V2：用 WSS 实时推送取代轮询，加密情报订阅最低 1.9U
 type: summary
 tags:
+- 加密资产
+- MCP 协议
 - OpenClaw
-- Crypto/DeFi
+- 商业/生态
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/7ec8fb3de870476ea5ac73efd41ecc66
+notion_url: https://www.notion.so/Tizer/7ec8fb3de870476ea5ac73efd41ecc66
 notion_id: 7ec8fb3d-e870-476e-a5ac-73efd41ecc66
 ---
 

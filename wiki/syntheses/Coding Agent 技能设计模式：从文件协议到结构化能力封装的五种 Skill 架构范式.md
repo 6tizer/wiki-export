@@ -1,15 +1,13 @@
 ---
 title: Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式
 type: synthesis
-tags:
-- Agent 技能
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f1f193fa32f745c5a07a39cc6250ca84
+notion_url: https://www.notion.so/Tizer/f1f193fa32f745c5a07a39cc6250ca84
 notion_id: f1f193fa-32f7-45c5-a07a-39cc6250ca84
 ---
 

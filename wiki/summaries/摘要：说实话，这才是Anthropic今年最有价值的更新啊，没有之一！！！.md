@@ -1,15 +1,13 @@
 ---
 title: 摘要：说实话，这才是Anthropic今年最有价值的更新啊，没有之一！！！
 type: summary
-tags:
-- Coding Agent
-- 记忆系统
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68810baefecaead09a3121
-notion_url: https://www.notion.so/b878d15f73b64cac8ce9d4df4cdca035
+notion_url: https://www.notion.so/Tizer/b878d15f73b64cac8ce9d4df4cdca035
 notion_id: b878d15f-73b6-4cac-8ce9-d4df4cdca035
 ---
 

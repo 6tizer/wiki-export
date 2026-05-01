@@ -1,15 +1,13 @@
 ---
 title: 摘要：Notion Custom Agents复盘：三年重写5次，Notion 历史上最成功的新功能之一
 type: summary
-tags:
-- Agent 框架
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881c99eb7cda0ba10dbb0
-notion_url: https://www.notion.so/0193e95a75334ff880ae98e8e5681808
+notion_url: https://www.notion.so/Tizer/0193e95a75334ff880ae98e8e5681808
 notion_id: 0193e95a-7533-4ff8-80ae-98e8e5681808
 ---
 

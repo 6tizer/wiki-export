@@ -1,15 +1,13 @@
 ---
 title: 摘要：ReasoningBank
 type: summary
-tags:
-- 记忆系统
-- Agent 编排
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881ebb668d895abffece3
-notion_url: https://www.notion.so/3bc2037f59694293809522c352f775d5
+notion_url: https://www.notion.so/Tizer/3bc2037f59694293809522c352f775d5
 notion_id: 3bc2037f-5969-4293-8095-22c352f775d5
 ---
 

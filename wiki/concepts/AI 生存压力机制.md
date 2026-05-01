@@ -1,9 +1,7 @@
 ---
 title: AI 生存压力机制
 type: concept
-tags:
-- Agent 编排
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

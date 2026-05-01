@@ -4,14 +4,13 @@ type: entity
 tags:
 - MCP 协议
 - 浏览器自动化
-- 内容创作
 - 社交媒体
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f203048ef85b4b58a85d138ede208fe2
+notion_url: https://www.notion.so/Tizer/f203048ef85b4b58a85d138ede208fe2
 notion_id: f203048e-f85b-4b58-a85d-138ede208fe2
 ---
 

@@ -2,14 +2,15 @@
 title: 摘要：DeerFlow 2.0：字节跳动开源的 SuperAgent 框架，给 AI 一台真正的电脑
 type: summary
 tags:
-- Agent 框架
-- Agent 编排
+- Agent 协作模式
+- Harness 工程
+- 算力基础设施
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/26720c711855467bb0d6414cbabe8e81
+notion_url: https://www.notion.so/Tizer/26720c711855467bb0d6414cbabe8e81
 notion_id: 26720c71-1855-467b-b0d6-414cbabe8e81
 ---
 

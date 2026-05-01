@@ -2,13 +2,15 @@
 title: 摘要：Web3 AI Agent 的真相：大多数都是 Vercel AI SDK 的外壳
 type: summary
 tags:
-- LLM
+- 链上协议
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1f636de0a7ee4590aa227b65cd8cfffd
+notion_url: https://www.notion.so/Tizer/1f636de0a7ee4590aa227b65cd8cfffd
 notion_id: 1f636de0-a7ee-4590-aa22-7b65cd8cfffd
 ---
 

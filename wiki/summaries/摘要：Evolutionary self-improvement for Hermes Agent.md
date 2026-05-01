@@ -1,15 +1,13 @@
 ---
 title: 摘要：Evolutionary self-improvement for Hermes Agent
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881c6a791fb6dc3573211
-notion_url: https://www.notion.so/0f542a8cbed04494b1b6bbfa81491a78
+notion_url: https://www.notion.so/Tizer/0f542a8cbed04494b1b6bbfa81491a78
 notion_id: 0f542a8c-bed0-4494-b1b6-bbfa81491a78
 ---
 

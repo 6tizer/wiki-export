@@ -3,13 +3,14 @@ title: 摘要：Siftly：把你堆积如山的 X 书签变成本地 AI 知识库
 type: summary
 tags:
 - 知识管理
-- 开发工具
+- RAG/检索
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e0c77531b2da4d97b19c3efa18c679ea
+notion_url: https://www.notion.so/Tizer/e0c77531b2da4d97b19c3efa18c679ea
 notion_id: e0c77531-b2da-4d97-b19c-3efa18c679ea
 ---
 

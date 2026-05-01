@@ -1,15 +1,13 @@
 ---
 title: 摘要：抽丝剥茧：深度解析 Hermes Agent 万字系统提示词（System Prompt）构成
 type: summary
-tags:
-- Coding Agent
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68816eb7fde1d0b5573b3a
-notion_url: https://www.notion.so/5de5dc6195724959be4e6636dbb83643
+notion_url: https://www.notion.so/Tizer/5de5dc6195724959be4e6636dbb83643
 notion_id: 5de5dc61-9572-4959-be4e-6636dbb83643
 ---
 

@@ -3,13 +3,14 @@ title: ClawForce
 type: entity
 tags:
 - OpenClaw
-- 工作流
+- 知识管理
+- 商业/生态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4c055bc80b824e25922a98de25fe8ae4
+notion_url: https://www.notion.so/Tizer/4c055bc80b824e25922a98de25fe8ae4
 notion_id: 4c055bc8-0b82-4e25-922a-98de25fe8ae4
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：fireworks-tech-graph：用自然语言生成工业级架构图，Claude Code 绘图神器！
 type: summary
-tags:
-- 开发工具
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881e3b78bd160838e9392
-notion_url: https://www.notion.so/7eed2901b7cd4c12b18d6ff98ab44a6e
+notion_url: https://www.notion.so/Tizer/7eed2901b7cd4c12b18d6ff98ab44a6e
 notion_id: 7eed2901-b7cd-4c12-b18d-6ff98ab44a6e
 ---
 

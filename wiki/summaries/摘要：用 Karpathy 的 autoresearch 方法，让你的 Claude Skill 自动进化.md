@@ -2,14 +2,13 @@
 title: 摘要：用 Karpathy 的 autoresearch 方法，让你的 Claude Skill 自动进化
 type: summary
 tags:
-- 工作流
-- Coding Agent
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b688187be7df0db5e58a161
-notion_url: https://www.notion.so/111563a040c6484ba786e6c177a7d9f7
+notion_url: https://www.notion.so/Tizer/111563a040c6484ba786e6c177a7d9f7
 notion_id: 111563a0-40c6-484b-a786-e6c177a7d9f7
 ---
 

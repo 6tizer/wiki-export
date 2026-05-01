@@ -2,7 +2,6 @@
 title: AGENTS.md
 type: concept
 tags:
-- Agent 编排
 - 知识管理
 status: 审核中
 confidence: medium
@@ -45,7 +44,7 @@ notion_id: 5da673ca-2377-4844-98ec-12f5679bfbf3
 
 - [摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？](summaries/摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？.md) — 用 [AGENTS.md](http://agents.md/) 与 [SOUL.md](http://soul.md/) 的职责差异讨论调度规则应放在哪里
 
-- [摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门](summaries/摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门.md) — 展示 [AGENTS.md](http://agents.md/) 一类角色规范文件在多工具 Agent 生态中的复用价值
+- 摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门 — 展示 [AGENTS.md](http://agents.md/) 一类角色规范文件在多工具 Agent 生态中的复用价值
 
 - [摘要：OpenClaw 养虾踩坑实录：如何用 CDP 把浏览器完全交给 AI Agent 控制](summaries/摘要：OpenClaw 养虾踩坑实录：如何用 CDP 把浏览器完全交给 AI Agent 控制.md) — 补充把浏览器配置、Profile 与登录流程沉淀进 [AGENTS.md](http://agents.md/) 的实战做法
 

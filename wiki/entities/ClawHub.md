@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9600b7453e704ac4914edd0a5fd430f0
+notion_url: https://www.notion.so/Tizer/9600b7453e704ac4914edd0a5fd430f0
 notion_id: 9600b745-3e70-4ac4-914e-dd0a5fd430f0
 ---
 
@@ -67,7 +67,7 @@ Cisco 研究发现 ClawHub 插件市场中约 **20%** 的插件存在恶意行�
 
 ## 关联概念
 
-- [agentskills.io](concepts/agentskills.io.md)
+- [agentskills.io](entities/agentskills.io.md)
 
 - [find-skills](concepts/find-skills.md)
 

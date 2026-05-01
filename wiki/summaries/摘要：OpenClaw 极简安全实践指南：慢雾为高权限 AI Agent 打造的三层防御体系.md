@@ -3,12 +3,13 @@ title: 摘要：OpenClaw 极简安全实践指南：慢雾为高权限 AI Agent 
 type: summary
 tags:
 - OpenClaw
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/30525cb470994ca2942c1d74a0e63e42
+notion_url: https://www.notion.so/Tizer/30525cb470994ca2942c1d74a0e63e42
 notion_id: 30525cb4-7099-4ca2-942c-1d74a0e63e42
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：刚刚开源就斩获 46K+ Star！生化危机女主在 GitHub 开源了一个本地 AI 记忆系统！
 type: summary
-tags:
-- 记忆系统
-- Coding Agent
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68810ea64ed7cca3748fdc
-notion_url: https://www.notion.so/2f7d2ae72655497eb531cbe3b67d173f
+notion_url: https://www.notion.so/Tizer/2f7d2ae72655497eb531cbe3b67d173f
 notion_id: 2f7d2ae7-2655-497e-b531-cbe3b67d173f
 ---
 

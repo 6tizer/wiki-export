@@ -1,15 +1,13 @@
 ---
 title: Hermes Desktop
 type: entity
-tags:
-- 开发工具
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1fed3363b2874bf3916e7f32961caf81
+notion_url: https://www.notion.so/Tizer/1fed3363b2874bf3916e7f32961caf81
 notion_id: 1fed3363-b287-4bf3-916e-7f32961caf81
 ---
 

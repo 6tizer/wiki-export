@@ -2,14 +2,16 @@
 title: 摘要：把 Agent 当新员工带：OpenClaw 深度使用心得
 type: summary
 tags:
+- Agent 协作模式
+- 多Agent协作
 - OpenClaw
-- 工作流
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/be94bcf761e947dbbe91490ac02a70a8
+notion_url: https://www.notion.so/Tizer/be94bcf761e947dbbe91490ac02a70a8
 notion_id: be94bcf7-61e9-47db-be91-490ac02a70a8
 ---
 

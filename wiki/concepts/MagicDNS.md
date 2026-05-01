@@ -2,8 +2,9 @@
 title: MagicDNS
 type: concept
 tags:
-- 开发工具
-- 安全/隐私
+- 商业/生态
+- 知识管理
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

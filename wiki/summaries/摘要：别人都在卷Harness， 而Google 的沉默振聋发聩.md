@@ -1,15 +1,13 @@
 ---
 title: 摘要：别人都在卷Harness， 而Google 的沉默振聋发聩
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881e89a96ccf2a9d936a6
-notion_url: https://www.notion.so/cbe7f7773f804f86bd979e7c6b8b507e
+notion_url: https://www.notion.so/Tizer/cbe7f7773f804f86bd979e7c6b8b507e
 notion_id: cbe7f777-3f80-4f86-bd97-9e7c6b8b507e
 ---
 

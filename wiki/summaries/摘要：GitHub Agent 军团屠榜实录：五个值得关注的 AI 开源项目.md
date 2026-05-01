@@ -1,15 +1,13 @@
 ---
 title: 摘要：GitHub Agent 军团屠榜实录：五个值得关注的 AI 开源项目
 type: summary
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/33d701074b6881409c64c037dbf18bd1
-notion_url: https://www.notion.so/66ea314e8d9b4806a34ed6f718873918
+notion_url: https://www.notion.so/Tizer/66ea314e8d9b4806a34ed6f718873918
 notion_id: 66ea314e-8d9b-4806-a34e-d6f718873918
 ---
 

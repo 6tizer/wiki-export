@@ -4,13 +4,12 @@ title: 摘要：You can now build agents on BNB Chain with @BuildOnNodeOps’s n
 type: summary
 tags:
 - OpenClaw
-- Crypto/DeFi
 status: 已审核
 confidence: low
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881d1a669ceeda43a16ab
-notion_url: https://www.notion.so/adf20f5c5abb4e76911dba23ad4de66b
+notion_url: https://www.notion.so/Tizer/adf20f5c5abb4e76911dba23ad4de66b
 notion_id: adf20f5c-5abb-4e76-911d-ba23ad4de66b
 ---
 

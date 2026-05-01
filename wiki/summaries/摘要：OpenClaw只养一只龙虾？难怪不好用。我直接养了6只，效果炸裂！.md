@@ -2,13 +2,15 @@
 title: 摘要：OpenClaw只养一只龙虾？难怪不好用。我直接养了6只，效果炸裂！
 type: summary
 tags:
+- 多Agent协作
+- Agent 协作模式
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent
 source_article_url: ''
-notion_url: https://www.notion.so/1a15e2117f9e4fdeb4998ea2e40223b9
+notion_url: https://www.notion.so/Tizer/1a15e2117f9e4fdeb4998ea2e40223b9
 notion_id: 1a15e211-7f9e-4fde-b499-8ea2e40223b9
 ---
 

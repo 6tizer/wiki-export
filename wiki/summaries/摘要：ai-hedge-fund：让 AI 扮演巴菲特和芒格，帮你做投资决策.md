@@ -2,14 +2,15 @@
 title: 摘要：ai-hedge-fund：让 AI 扮演巴菲特和芒格，帮你做投资决策
 type: summary
 tags:
-- LLM
-- 工作流
+- 量化交易
+- 多Agent协作
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/97072579e0d04e99b3c0e32db599545b
+notion_url: https://www.notion.so/Tizer/97072579e0d04e99b3c0e32db599545b
 notion_id: 97072579-e0d0-4e99-b3c0-e32db599545b
 ---
 

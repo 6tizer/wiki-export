@@ -3,7 +3,6 @@ title: Token 经济学
 type: concept
 tags:
 - 商业/生态
-- LLM
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

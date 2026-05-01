@@ -3,15 +3,13 @@ title: '摘要：Meet Qwen3-Coder-30B-A3B-Instruct-GGUF: a specialized 30B param
   assistant that''s been optimized for efficiency. This model isn''t just another
   chatbot. It''s a powerhouse fine-tuned for under'
 type: summary
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688160b381c8d5f5016582
-notion_url: https://www.notion.so/61e9bcebbbb44072bac7cc8dfd2933ae
+notion_url: https://www.notion.so/Tizer/61e9bcebbbb44072bac7cc8dfd2933ae
 notion_id: 61e9bceb-bbb4-4072-bac7-cc8dfd2933ae
 ---
 

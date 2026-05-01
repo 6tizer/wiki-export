@@ -1,15 +1,13 @@
 ---
 title: Open Memory
 type: concept
-tags:
-- 记忆系统
-- Agent 编排
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/04d023a7588f4a21b0c2be18b717329c
+notion_url: https://www.notion.so/Tizer/04d023a7588f4a21b0c2be18b717329c
 notion_id: 04d023a7-588f-4a21-b0c2-be18b717329c
 ---
 

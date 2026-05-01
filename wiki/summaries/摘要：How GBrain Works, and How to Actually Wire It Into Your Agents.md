@@ -1,15 +1,13 @@
 ---
 title: 摘要：How GBrain Works, and How to Actually Wire It Into Your Agents
 type: summary
-tags:
-- 记忆系统
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688131a87ac9a51ce7fbe2
-notion_url: https://www.notion.so/17a18802aa2145a3a84a608d2c1136e3
+notion_url: https://www.notion.so/Tizer/17a18802aa2145a3a84a608d2c1136e3
 notion_id: 17a18802-aa21-45a3-a84a-608d2c1136e3
 ---
 

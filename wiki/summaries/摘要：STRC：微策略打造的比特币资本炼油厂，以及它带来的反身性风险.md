@@ -2,14 +2,14 @@
 title: 摘要：STRC：微策略打造的比特币资本炼油厂，以及它带来的反身性风险
 type: summary
 tags:
-- Crypto/DeFi
+- 加密资产
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Crypto, BTC, 加密金融
 source_article_url: https://www.notion.so/335701074b6881998fb3cb26fa72222a
-notion_url: https://www.notion.so/007ef0bfcab44c899d19c1e99deb288b
+notion_url: https://www.notion.so/Tizer/007ef0bfcab44c899d19c1e99deb288b
 notion_id: 007ef0bf-cab4-4c89-9d19-c1e99deb288b
 ---
 

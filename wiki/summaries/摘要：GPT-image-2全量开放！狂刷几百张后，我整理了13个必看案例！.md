@@ -1,15 +1,13 @@
 ---
 title: 摘要：GPT-image-2全量开放！狂刷几百张后，我整理了13个必看案例！
 type: summary
-tags:
-- 内容创作
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881629e0ef0be54ddf53a
-notion_url: https://www.notion.so/62c43eef64784605b27bcde4ab866e75
+notion_url: https://www.notion.so/Tizer/62c43eef64784605b27bcde4ab866e75
 notion_id: 62c43eef-6478-4605-b27b-cde4ab866e75
 ---
 

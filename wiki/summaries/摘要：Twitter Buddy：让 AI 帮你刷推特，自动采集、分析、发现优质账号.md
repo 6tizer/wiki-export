@@ -2,14 +2,15 @@
 title: 摘要：Twitter Buddy：让 AI 帮你刷推特，自动采集、分析、发现优质账号
 type: summary
 tags:
-- 工作流
-- 开发工具
+- 社交媒体
+- 浏览器自动化
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/bfb2b7a745b246aba54bf1caa75e0f39
+notion_url: https://www.notion.so/Tizer/bfb2b7a745b246aba54bf1caa75e0f39
 notion_id: bfb2b7a7-45b2-46ab-a54b-f1caa75e0f39
 ---
 

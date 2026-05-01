@@ -2,12 +2,10 @@
 title: AI 自修改代码
 type: concept
 tags:
-- Coding Agent
-- Agent 技能
 - 代码生成
 status: 已审核
 confidence: medium
-last_compiled: '2026-04-27'
+last_compiled: '2026-05-01'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/8de4a11e53614523b5ffaf51a9400218

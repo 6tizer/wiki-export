@@ -2,14 +2,15 @@
 title: 摘要：AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式
 type: summary
 tags:
-- 工作流
-- LLM
+- Agent 协作模式
+- 内容自动化
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1375919715bb47bc97a9496d96d7843c
+notion_url: https://www.notion.so/Tizer/1375919715bb47bc97a9496d96d7843c
 notion_id: 13759197-15bb-47bc-97a9-496d96d7843c
 ---
 

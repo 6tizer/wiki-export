@@ -3,8 +3,6 @@ title: Cursor CLI /statusline
 type: concept
 tags:
 - CLI 工具
-- Coding Agent
-- 开发工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

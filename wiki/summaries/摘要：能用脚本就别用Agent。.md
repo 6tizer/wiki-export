@@ -2,13 +2,14 @@
 title: 摘要：能用脚本就别用Agent。
 type: summary
 tags:
-- 工作流
+- Agent 协作模式
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 经验分享
 source_article_url: ''
-notion_url: https://www.notion.so/653d99f7ef5342c1b3fcb23d9c935c6d
+notion_url: https://www.notion.so/Tizer/653d99f7ef5342c1b3fcb23d9c935c6d
 notion_id: 653d99f7-ef53-42c1-b3fc-b23d9c935c6d
 ---
 

@@ -2,13 +2,13 @@
 title: 摘要：预测市场的 Black-Scholes 时刻：Polymarket 做市量化定价框架全解析
 type: summary
 tags:
-- Crypto/DeFi
+- 量化交易
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: 预测市场, Polymarket, 量化交易, 做市
 source_article_url: https://www.notion.so/335701074b6881a1b24afbe3e51ac0b7
-notion_url: https://www.notion.so/7b4879f4c2404130901267f1919e3c39
+notion_url: https://www.notion.so/Tizer/7b4879f4c2404130901267f1919e3c39
 notion_id: 7b4879f4-c240-4130-9012-67f1919e3c39
 ---
 

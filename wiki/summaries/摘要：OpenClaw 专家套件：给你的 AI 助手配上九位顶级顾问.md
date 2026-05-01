@@ -3,13 +3,15 @@ title: 摘要：OpenClaw 专家套件：给你的 AI 助手配上九位顶级顾
 type: summary
 tags:
 - OpenClaw
-- Agent 编排
+- 多Agent协作
+- 长期记忆
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/60ecd3eb88f746789cf21d4a8b85d0f5
+notion_url: https://www.notion.so/Tizer/60ecd3eb88f746789cf21d4a8b85d0f5
 notion_id: 60ecd3eb-88f7-4678-9cf2-1d4a8b85d0f5
 ---
 

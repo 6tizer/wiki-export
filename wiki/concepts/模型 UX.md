@@ -1,15 +1,13 @@
 ---
 title: 模型 UX
 type: concept
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d2654d6c1edc475bb31216742babc7fd
+notion_url: https://www.notion.so/Tizer/d2654d6c1edc475bb31216742babc7fd
 notion_id: d2654d6c-1edc-475b-b312-16742babc7fd
 ---
 

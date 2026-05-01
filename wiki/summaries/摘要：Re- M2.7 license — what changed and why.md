@@ -2,14 +2,13 @@
 title: '摘要：Re: M2.7 license — what changed and why'
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881b0942ccb761b96d633
-notion_url: https://www.notion.so/e8505d3ec2c947ca814f5572294f9223
+notion_url: https://www.notion.so/Tizer/e8505d3ec2c947ca814f5572294f9223
 notion_id: e8505d3e-c2c9-47ca-814f-5572294f9223
 ---
 

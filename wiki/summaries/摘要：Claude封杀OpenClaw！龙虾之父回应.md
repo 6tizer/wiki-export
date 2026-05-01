@@ -2,13 +2,14 @@
 title: 摘要：Claude封杀OpenClaw！龙虾之父回应
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/cb409d6b3ed846d59c9bfb8dd4061bed
+notion_url: https://www.notion.so/Tizer/cb409d6b3ed846d59c9bfb8dd4061bed
 notion_id: cb409d6b-3ed8-46d5-9c9b-fb8dd4061bed
 ---
 

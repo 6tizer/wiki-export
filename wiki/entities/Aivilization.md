@@ -3,8 +3,6 @@ title: Aivilization
 type: entity
 tags:
 - AI 产品
-- Agent 技能
-- Agent 编排
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-30'

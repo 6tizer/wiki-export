@@ -2,14 +2,15 @@
 title: 摘要：从搜索到导航：Context Agent 如何重新定义 AI 的上下文获取方式
 type: summary
 tags:
-- Agent 编排
-- 记忆系统
+- RAG/检索
+- 上下文管理
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/7c0cf719f3a4416ca0dcd503eae82f52
+notion_url: https://www.notion.so/Tizer/7c0cf719f3a4416ca0dcd503eae82f52
 notion_id: 7c0cf719-f3a4-416c-a0dc-d503eae82f52
 ---
 

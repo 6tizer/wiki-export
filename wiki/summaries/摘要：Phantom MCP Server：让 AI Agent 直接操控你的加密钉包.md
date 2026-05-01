@@ -2,14 +2,15 @@
 title: 摘要：Phantom MCP Server：让 AI Agent 直接操控你的加密钉包
 type: summary
 tags:
+- 加密资产
+- MCP 协议
 - OpenClaw
-- Crypto/DeFi
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/2d448245e778471795340ac95156e8b7
+notion_url: https://www.notion.so/Tizer/2d448245e778471795340ac95156e8b7
 notion_id: 2d448245-e778-4717-9534-0ac95156e8b7
 ---
 

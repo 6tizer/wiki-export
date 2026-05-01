@@ -2,7 +2,6 @@
 title: skills.sh
 type: entity
 tags:
-- Agent 技能
 - 商业/生态
 status: 审核中
 confidence: medium

@@ -2,13 +2,15 @@
 title: 摘要：刚刚，Anthropic 揭开了 Claude 的「大脑」：绝望时它会勒索，失败后它会作弊
 type: summary
 tags:
-- LLM
+- Agent 安全
+- OpenClaw
+- AI 对齐
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/9a28765e4cdd46d98e9c28f580385cb2
+notion_url: https://www.notion.so/Tizer/9a28765e4cdd46d98e9c28f580385cb2
 notion_id: 9a28765e-4cdd-46d9-8e9c-28f580385cb2
 ---
 

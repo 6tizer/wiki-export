@@ -1,14 +1,13 @@
 ---
 title: scaling ladder
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/10627a0667ac461dbedf62a37d74d442
+notion_url: https://www.notion.so/Tizer/10627a0667ac461dbedf62a37d74d442
 notion_id: 10627a06-67ac-461d-bedf-62a37d74d442
 ---
 

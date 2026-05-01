@@ -2,14 +2,15 @@
 title: 摘要：The Agency：给你的 AI 编程工具配齐 144 个专属打工人
 type: summary
 tags:
-- Agent 编排
-- 开发工具
+- Agent 协作模式
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, Cursor, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/18ab7b8d6b894f07aba8039783a18ccf
+notion_url: https://www.notion.so/Tizer/18ab7b8d6b894f07aba8039783a18ccf
 notion_id: 18ab7b8d-6b89-4f07-aba8-039783a18ccf
 ---
 

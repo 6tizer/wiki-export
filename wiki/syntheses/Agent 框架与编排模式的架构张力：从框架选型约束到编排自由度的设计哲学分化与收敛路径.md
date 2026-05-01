@@ -1,15 +1,13 @@
 ---
 title: Agent 框架与编排模式的架构张力：从框架选型约束到编排自由度的设计哲学分化与收敛路径
 type: synthesis
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/143cb129afc344d4867a87d68ef06f95
+notion_url: https://www.notion.so/Tizer/143cb129afc344d4867a87d68ef06f95
 notion_id: 143cb129-afc3-44d4-867a-87d68ef06f95
 ---
 

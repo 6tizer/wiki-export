@@ -10,7 +10,7 @@ confidence: high
 last_compiled: '2026-04-25'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e595dd16830d485290ffd625650b401f
+notion_url: https://www.notion.so/Tizer/e595dd16830d485290ffd625650b401f
 notion_id: e595dd16-830d-4852-90ff-d625650b401f
 ---
 
@@ -34,7 +34,7 @@ llm-wiki 是一个把 Karpathy LLM Wiki 方法论产品化的桌面应用，用�
 
 - [Deep Research](entities/Deep Research.md)
 
-- [LanceDB](concepts/LanceDB.md)
+- [LanceDB](entities/LanceDB.md)
 
 - [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)
 

@@ -2,14 +2,14 @@
 title: Zenmux
 type: entity
 tags:
-- LLM
 - 商业/生态
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/477b1f61159e4b9da75c5550f4853a4a
+notion_url: https://www.notion.so/Tizer/477b1f61159e4b9da75c5550f4853a4a
 notion_id: 477b1f61-159e-4b9d-a75c-5550f4853a4a
 ---
 

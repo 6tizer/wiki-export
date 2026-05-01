@@ -3,13 +3,12 @@ title: 摘要：真正的 Skill 商店，为什么变成了微信公众号和小
 type: summary
 tags:
 - 商业/生态
-- Agent 技能
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68814baba5f23ae7575454
-notion_url: https://www.notion.so/5740f2ba17944dbf8c5c6b0b9107835c
+notion_url: https://www.notion.so/Tizer/5740f2ba17944dbf8c5c6b0b9107835c
 notion_id: 5740f2ba-1794-4dbf-8c5c-6b0b9107835c
 ---
 

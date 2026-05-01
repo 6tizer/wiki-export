@@ -1,15 +1,13 @@
 ---
 title: Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡
 type: synthesis
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a73cf2ea3a6b4f8392ec9d386e5a2ab8
+notion_url: https://www.notion.so/Tizer/a73cf2ea3a6b4f8392ec9d386e5a2ab8
 notion_id: a73cf2ea-3a6b-4f83-92ec-9d386e5a2ab8
 ---
 

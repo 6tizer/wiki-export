@@ -2,13 +2,15 @@
 title: 摘要：Biteye 深度盘点：AI Agents 的四大赛道与 45 个潜力项目
 type: summary
 tags:
-- Crypto/DeFi
+- 商业/生态
+- 链上协议
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/208cd8c2477b4f8c862d6af9f4992153
+notion_url: https://www.notion.so/Tizer/208cd8c2477b4f8c862d6af9f4992153
 notion_id: 208cd8c2-477b-4f8c-862d-6af9f4992153
 ---
 

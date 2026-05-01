@@ -2,14 +2,13 @@
 title: 摘要：用开源中转统一接入Claude/OpenAI/Gemini：Sub2API核心功能解析
 type: summary
 tags:
-- 开发工具
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b688125bcf0cb1e68040d65
-notion_url: https://www.notion.so/b064198052a64026b3b990d54ed8e85a
+notion_url: https://www.notion.so/Tizer/b064198052a64026b3b990d54ed8e85a
 notion_id: b0641980-52a6-4026-b3b9-90d54ed8e85a
 ---
 

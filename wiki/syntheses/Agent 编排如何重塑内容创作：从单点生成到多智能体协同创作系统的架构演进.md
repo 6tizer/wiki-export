@@ -2,16 +2,13 @@
 title: Agent 编排如何重塑内容创作：从单点生成到多智能体协同创作系统的架构演进
 type: synthesis
 tags:
-- Agent 编排
-- 内容创作
 - 多Agent协作
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9fa92ce105a440609c9f6d0a58e6ec47
+notion_url: https://www.notion.so/Tizer/9fa92ce105a440609c9f6d0a58e6ec47
 notion_id: 9fa92ce1-05a4-4060-9c9f-6d0a58e6ec47
 ---
 

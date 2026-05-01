@@ -1,15 +1,13 @@
 ---
 title: 开发工具如何重塑 Agent 时代的工作流：从部署底座到远程操控的工具化路径演进
 type: synthesis
-tags:
-- 开发工具
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ec3815805b9d4eeaa36498f7ace69ef5
+notion_url: https://www.notion.so/Tizer/ec3815805b9d4eeaa36498f7ace69ef5
 notion_id: ec381580-5b9d-4eea-a364-98f7ace69ef5
 ---
 

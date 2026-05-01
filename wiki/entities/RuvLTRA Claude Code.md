@@ -2,8 +2,9 @@
 title: RuvLTRA Claude Code
 type: entity
 tags:
-- Coding Agent
-- LLM
+- 代码生成
+- 模型部署
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

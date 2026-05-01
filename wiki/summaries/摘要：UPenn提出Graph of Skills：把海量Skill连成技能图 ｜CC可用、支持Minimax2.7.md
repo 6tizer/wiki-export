@@ -1,15 +1,13 @@
 ---
 title: 摘要：UPenn提出Graph of Skills：把海量Skill连成技能图 ｜CC可用、支持Minimax2.7
 type: summary
-tags:
-- Agent 编排
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68817f808ccb52a147a99f
-notion_url: https://www.notion.so/26170ed28bf243bf86ac0193fe476fae
+notion_url: https://www.notion.so/Tizer/26170ed28bf243bf86ac0193fe476fae
 notion_id: 26170ed2-8bf2-43bf-86ac-0193fe476fae
 ---
 

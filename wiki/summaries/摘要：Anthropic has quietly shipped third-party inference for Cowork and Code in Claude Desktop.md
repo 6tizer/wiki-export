@@ -3,14 +3,13 @@ title: 摘要：Anthropic has quietly shipped third-party inference for Cowork a
   in Claude Desktop.
 type: summary
 tags:
-- Coding Agent
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881b6ad3bfbec9aeb0236
-notion_url: https://www.notion.so/416f089fef374024abfaa48faa73622a
+notion_url: https://www.notion.so/Tizer/416f089fef374024abfaa48faa73622a
 notion_id: 416f089f-ef37-4024-abfa-a48faa73622a
 ---
 

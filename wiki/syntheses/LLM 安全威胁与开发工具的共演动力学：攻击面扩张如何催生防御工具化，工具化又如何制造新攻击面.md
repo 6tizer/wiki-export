@@ -1,16 +1,13 @@
 ---
 title: LLM 安全威胁与开发工具的共演动力学：攻击面扩张如何催生防御工具化，工具化又如何制造新攻击面
 type: synthesis
-tags:
-- LLM
-- 安全/隐私
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a4792adbd3934ad9958ca43e41f4711e
+notion_url: https://www.notion.so/Tizer/a4792adbd3934ad9958ca43e41f4711e
 notion_id: a4792adb-d393-4ad9-958c-a43e41f4711e
 ---
 
@@ -59,7 +56,7 @@ flowchart TD
 
 | [Untitled](concepts/提示注入.md) | 通过输入诱导模型偏离指令 | [Untitled](concepts/Docker 沙箱执行.md) · [Untitled](concepts/V8 Isolate.md) | 执行隔离层 |
 
-| [Untitled](concepts/间接提示注入.md) | 恶意指令埋入外部内容，Agent 被动摄入 | [Untitled](concepts/插件权限 Manifest.md) · [Untitled](concepts/Daytona 沙箱.md) | 能力边界层 |
+| [Untitled](concepts/间接提示注入.md) | 恶意指令埋入外部内容，Agent 被动摄入 | [Untitled](concepts/插件权限 Manifest.md) · [Untitled](entities/Daytona 沙箱.md) | 能力边界层 |
 
 | [Untitled](concepts/System Prompt 泄露.md) | 提取并公开隐藏的系统配置 | [Untitled](concepts/HTTP-3 流量伪装.md) · [Untitled](concepts/QUIC 代理.md) | 通信隐匿层 |
 
@@ -160,7 +157,7 @@ flowchart TB
 
 - [账号风控](concepts/账号风控.md) · [红队演练](concepts/红队演练.md) · [部署安全](concepts/部署安全.md)
 
-- [Daytona 沙箱](concepts/Daytona 沙箱.md) · [V8 Isolate](concepts/V8 Isolate.md) · [插件权限 Manifest](concepts/插件权限 Manifest.md) · [Token 污染](concepts/Token 污染.md)
+- [Daytona 沙箱](entities/Daytona 沙箱.md) · [V8 Isolate](concepts/V8 Isolate.md) · [插件权限 Manifest](concepts/插件权限 Manifest.md) · [Token 污染](concepts/Token 污染.md)
 
 ### 关联 Synthesis 页面
 

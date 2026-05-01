@@ -2,8 +2,9 @@
 title: WCAG 可访问性
 type: concept
 tags:
-- 内容创作
-- 开发工具
+- AI 设计
+- 知识管理
+- 前端开发
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

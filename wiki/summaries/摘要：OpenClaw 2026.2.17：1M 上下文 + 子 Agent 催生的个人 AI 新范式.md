@@ -3,13 +3,14 @@ title: 摘要：OpenClaw 2026.2.17：1M 上下文 + 子 Agent 催生的个人 AI
 type: summary
 tags:
 - OpenClaw
-- 工作流
+- 上下文管理
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/b2c876fe981b4f22abcb862a4a58c590
+notion_url: https://www.notion.so/Tizer/b2c876fe981b4f22abcb862a4a58c590
 notion_id: b2c876fe-981b-4f22-abcb-862a4a58c590
 ---
 

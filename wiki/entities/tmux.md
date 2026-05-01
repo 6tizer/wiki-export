@@ -2,15 +2,13 @@
 title: tmux
 type: entity
 tags:
-- 开发工具
-- 工作流
 - CLI 工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8807c76b1e4a4d8680df35198ec709b5
+notion_url: https://www.notion.so/Tizer/8807c76b1e4a4d8680df35198ec709b5
 notion_id: 8807c76b-1e4a-4d86-80df-35198ec709b5
 ---
 

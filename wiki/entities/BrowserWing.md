@@ -2,8 +2,9 @@
 title: BrowserWing
 type: entity
 tags:
-- Agent 技能
+- 浏览器自动化
 - OpenClaw
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

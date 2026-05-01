@@ -2,15 +2,13 @@
 title: '摘要：Introducing Latent Briefing, a way for agents to quickly share their relevant
   memory directly. Result: 31% fewer tokens used, same accuracy.'
 type: summary
-tags:
-- Agent 编排
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b6881779065ded3acf0b0fc
-notion_url: https://www.notion.so/53cdd6b1d1114c14a4daabfa1de95340
+notion_url: https://www.notion.so/Tizer/53cdd6b1d1114c14a4daabfa1de95340
 notion_id: 53cdd6b1-d111-4c14-a4da-abfa1de95340
 ---
 

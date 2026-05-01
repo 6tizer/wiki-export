@@ -1,15 +1,13 @@
 ---
 title: 摘要：Three.js
 type: summary
-tags:
-- 内容创作
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68815fbe6cebca6bdff645
-notion_url: https://www.notion.so/2c655c459e8349e0bfd838eb2bf13914
+notion_url: https://www.notion.so/Tizer/2c655c459e8349e0bfd838eb2bf13914
 notion_id: 2c655c45-9e83-49e0-bfd8-38eb2bf13914
 ---
 

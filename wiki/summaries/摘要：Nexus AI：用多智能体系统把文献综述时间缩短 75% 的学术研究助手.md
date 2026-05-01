@@ -2,13 +2,14 @@
 title: 摘要：Nexus AI：用多智能体系统把文献综述时间缩短 75% 的学术研究助手
 type: summary
 tags:
-- LLM
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/ce28cefc7c1b4022bcf48aa61dafe217
+notion_url: https://www.notion.so/Tizer/ce28cefc7c1b4022bcf48aa61dafe217
 notion_id: ce28cefc-7c1b-4022-bcf4-8aa61dafe217
 ---
 

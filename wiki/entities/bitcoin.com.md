@@ -2,14 +2,13 @@
 title: bitcoin.com
 type: entity
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/df0835eaea1d4c20bff20a206e2eb9e9
+notion_url: https://www.notion.so/Tizer/df0835eaea1d4c20bff20a206e2eb9e9
 notion_id: df0835ea-ea1d-4c20-bff2-0a206e2eb9e9
 ---
 

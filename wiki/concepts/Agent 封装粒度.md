@@ -1,9 +1,7 @@
 ---
 title: Agent 封装粒度
 type: concept
-tags:
-- Agent 编排
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

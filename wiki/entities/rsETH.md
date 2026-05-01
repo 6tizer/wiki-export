@@ -1,14 +1,13 @@
 ---
 title: rsETH
 type: entity
-tags:
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7631ad25e5d445f18146514a1aa521e7
+notion_url: https://www.notion.so/Tizer/7631ad25e5d445f18146514a1aa521e7
 notion_id: 7631ad25-e5d4-45f1-8146-514a1aa521e7
 ---
 

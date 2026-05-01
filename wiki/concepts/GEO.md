@@ -2,8 +2,8 @@
 title: GEO
 type: concept
 tags:
+- 知识管理
 - 内容自动化
-- 提示工程
 - AI 产品
 status: 审核中
 confidence: medium

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Harrison Chase：你的 Agent Harness 就是你的记忆，一旦选了闭源，数据就不是你的了
 type: summary
-tags:
-- Agent 编排
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b6881a8a81dcd04dcc8cc58
-notion_url: https://www.notion.so/120aabcd6abf4ab59a5d61013ab68d9f
+notion_url: https://www.notion.so/Tizer/120aabcd6abf4ab59a5d61013ab68d9f
 notion_id: 120aabcd-6abf-4ab5-9a5d-61013ab68d9f
 ---
 

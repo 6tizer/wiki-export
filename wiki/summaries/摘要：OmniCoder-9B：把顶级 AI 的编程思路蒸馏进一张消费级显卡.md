@@ -1,15 +1,13 @@
 ---
 title: 摘要：OmniCoder-9B：把顶级 AI 的编程思路蒸馏进一张消费级显卡
 type: summary
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: LLM, Agent, OpenClaw, 自动化
 source_article_url: https://www.notion.so/336701074b688127bd84e18a69ddab80
-notion_url: https://www.notion.so/375c0e51b78e4b2eaee93aaa896a3ea1
+notion_url: https://www.notion.so/Tizer/375c0e51b78e4b2eaee93aaa896a3ea1
 notion_id: 375c0e51-b78e-4b2e-aee9-3aaa896a3ea1
 ---
 

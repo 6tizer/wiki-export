@@ -2,14 +2,13 @@
 title: ClawTalk
 type: entity
 tags:
-- Agent 框架
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/adbf16ce1a8a49b483c89e56eb085fed
+notion_url: https://www.notion.so/Tizer/adbf16ce1a8a49b483c89e56eb085fed
 notion_id: adbf16ce-1a8a-49b4-83c8-9e56eb085fed
 ---
 

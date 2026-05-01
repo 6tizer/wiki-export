@@ -1,15 +1,13 @@
 ---
 title: 摘要：Tree-based speculative decoding for Apple Silicon.
 type: summary
-tags:
-- LLM
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881b68b62d9858854016e
-notion_url: https://www.notion.so/da351956854c4aa6b9eb1589b09ff925
+notion_url: https://www.notion.so/Tizer/da351956854c4aa6b9eb1589b09ff925
 notion_id: da351956-854c-4aa6-b9eb-1589b09ff925
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：ClawManager ——统一管理 OpenClaw 的 Kubernetes-first 控制平面
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/4504877430294945a6e9d8f9d4844282
+notion_url: https://www.notion.so/Tizer/4504877430294945a6e9d8f9d4844282
 notion_id: 45048774-3029-4945-a6e9-d8f9d4844282
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：skills-manage：让一个 Skill 仓库驱动 20+ AI 编程工具
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68815abfeac46e81de4e33
-notion_url: https://www.notion.so/71106335a79b44daa290eb4736f63a0f
+notion_url: https://www.notion.so/Tizer/71106335a79b44daa290eb4736f63a0f
 notion_id: 71106335-a79b-44da-a290-eb4736f63a0f
 ---
 

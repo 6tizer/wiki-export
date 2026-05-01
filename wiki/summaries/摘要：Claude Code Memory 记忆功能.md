@@ -2,15 +2,14 @@
 title: 摘要：Claude Code Memory 记忆功能
 type: summary
 tags:
-- LLM
-- 记忆系统
-- 开发工具
+- 长期记忆
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/a860e3f3819247328f9f8e9e85f56b48
+notion_url: https://www.notion.so/Tizer/a860e3f3819247328f9f8e9e85f56b48
 notion_id: a860e3f3-8192-4732-8f9f-8e9e85f56b48
 ---
 

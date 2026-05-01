@@ -2,14 +2,13 @@
 title: 摘要：last30days-skill ——看清近 30 天真实口碑与趋势的千察器
 type: summary
 tags:
-- 开发工具
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/b46edc6a8bd044d586c30f2f1aa687f2
+notion_url: https://www.notion.so/Tizer/b46edc6a8bd044d586c30f2f1aa687f2
 notion_id: b46edc6a-8bd0-44d5-86c3-0f2f1aa687f2
 ---
 

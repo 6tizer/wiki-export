@@ -1,9 +1,7 @@
 ---
 title: Sub agent 上下文隔离
 type: concept
-tags:
-- Agent 编排
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-30'

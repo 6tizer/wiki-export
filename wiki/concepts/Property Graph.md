@@ -3,7 +3,8 @@ title: Property Graph
 type: concept
 tags:
 - 知识管理
-- 开发工具
+- RAG/检索
+- AI 设计
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

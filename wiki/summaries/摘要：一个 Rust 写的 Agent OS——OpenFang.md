@@ -2,13 +2,15 @@
 title: 摘要：一个 Rust 写的 Agent OS——OpenFang
 type: summary
 tags:
-- 开发工具
+- Agent 协作模式
+- MCP 协议
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/dcdcd38f38c845fea561bd9007b86cdf
+notion_url: https://www.notion.so/Tizer/dcdcd38f38c845fea561bd9007b86cdf
 notion_id: dcdcd38f-38c8-45fe-a561-bd9007b86cdf
 ---
 

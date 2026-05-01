@@ -3,13 +3,14 @@ title: 摘要：OpenClaw 内置命令完全指南：用好这只龙虾的 18 个
 type: summary
 tags:
 - OpenClaw
-- Agent 框架
+- CLI 工具
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化, Agent
 source_article_url: https://www.notion.so/335701074b688123a84cd9475253141b
-notion_url: https://www.notion.so/1e65090a4159452a8ce60abc2645cf38
+notion_url: https://www.notion.so/Tizer/1e65090a4159452a8ce60abc2645cf38
 notion_id: 1e65090a-4159-452a-8ce6-0abc2645cf38
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：HeyGen 发布这个 hyperframes CLI 很强啊
 type: summary
-tags:
-- 内容创作
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881e6a83cec5136011006
-notion_url: https://www.notion.so/6e256be75e5c4d898c8e26ba8233b4f4
+notion_url: https://www.notion.so/Tizer/6e256be75e5c4d898c8e26ba8233b4f4
 notion_id: 6e256be7-5e5c-4d89-8c8e-26ba8233b4f4
 ---
 

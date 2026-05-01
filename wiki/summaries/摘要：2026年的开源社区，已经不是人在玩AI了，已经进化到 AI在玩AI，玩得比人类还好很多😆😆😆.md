@@ -1,15 +1,13 @@
 ---
 title: 摘要：2026年的开源社区，已经不是人在玩AI了，已经进化到 AI在玩AI，玩得比人类还好很多😆😆😆
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b688175bc57d6a666761ffc
-notion_url: https://www.notion.so/51e053b911af418eb684b05257a3dd7c
+notion_url: https://www.notion.so/Tizer/51e053b911af418eb684b05257a3dd7c
 notion_id: 51e053b9-11af-418e-b684-b05257a3dd7c
 ---
 

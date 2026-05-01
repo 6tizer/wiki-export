@@ -3,13 +3,12 @@ title: Dataview
 type: entity
 tags:
 - 知识管理
-- 开发工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3d8fe86bf54d4996bcf15a8352ab0c2a
+notion_url: https://www.notion.so/Tizer/3d8fe86bf54d4996bcf15a8352ab0c2a
 notion_id: 3d8fe86b-f54d-4996-bcf1-5a8352ab0c2a
 ---
 

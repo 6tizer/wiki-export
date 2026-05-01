@@ -1,15 +1,13 @@
 ---
 title: 摘要：技术动态 | OpenClaw带火的大量Skill如何做RAG？一项实验报告及学科图表转LaTeXcode强化学习思路
 type: summary
-tags:
-- Agent 技能
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b68817f81cfe3dc0a791209
-notion_url: https://www.notion.so/d9eaa1c410064549991f91e1c6c73889
+notion_url: https://www.notion.so/Tizer/d9eaa1c410064549991f91e1c6c73889
 notion_id: d9eaa1c4-1006-4549-991f-91e1c6c73889
 ---
 

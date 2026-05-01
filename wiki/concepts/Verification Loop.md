@@ -1,15 +1,13 @@
 ---
 title: Verification Loop
 type: concept
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/55b0f46f01aa4d52a723d4b35350e7d0
+notion_url: https://www.notion.so/Tizer/55b0f46f01aa4d52a723d4b35350e7d0
 notion_id: 55b0f46f-01aa-4d52-a723-d4b35350e7d0
 ---
 

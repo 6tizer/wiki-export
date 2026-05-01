@@ -1,15 +1,13 @@
 ---
 title: Mano-P
 type: entity
-tags:
-- Agent 技能
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b4f52fe249754cf38cbcf28bc9b54dbe
+notion_url: https://www.notion.so/Tizer/b4f52fe249754cf38cbcf28bc9b54dbe
 notion_id: b4f52fe2-4975-4cf3-8cbc-f28bc9b54dbe
 ---
 

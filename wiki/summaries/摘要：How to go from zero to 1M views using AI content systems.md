@@ -1,15 +1,13 @@
 ---
 title: 摘要：How to go from zero to 1M views using AI content systems
 type: summary
-tags:
-- 工作流
-- 内容创作
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881578b8de7a7e06e83e5
-notion_url: https://www.notion.so/027dabd10d304b56ac9651f7ce719900
+notion_url: https://www.notion.so/Tizer/027dabd10d304b56ac9651f7ce719900
 notion_id: 027dabd1-0d30-4b56-ac96-51f7ce719900
 ---
 

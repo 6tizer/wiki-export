@@ -2,14 +2,13 @@
 title: OpenCLI 插件系统
 type: entity
 tags:
-- 开发工具
 - CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/da9113e72c4447d8820d52ecdbe7c289
+notion_url: https://www.notion.so/Tizer/da9113e72c4447d8820d52ecdbe7c289
 notion_id: da9113e7-2c44-47d8-820d-52ecdbe7c289
 ---
 

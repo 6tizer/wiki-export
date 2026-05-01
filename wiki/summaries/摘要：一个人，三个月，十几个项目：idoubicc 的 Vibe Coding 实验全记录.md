@@ -2,14 +2,13 @@
 title: 摘要：一个人，三个月，十几个项目：idoubicc 的 Vibe Coding 实验全记录
 type: summary
 tags:
-- Coding Agent
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: https://www.notion.so/33d701074b688160bd97c26bccfb398a
-notion_url: https://www.notion.so/bd2302ed959a4450a4f6a590b8939950
+notion_url: https://www.notion.so/Tizer/bd2302ed959a4450a4f6a590b8939950
 notion_id: bd2302ed-959a-4450-a4f6-a590b8939950
 ---
 

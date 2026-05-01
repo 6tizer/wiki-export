@@ -2,14 +2,14 @@
 title: LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略
 type: synthesis
 tags:
-- LLM
-- 安全/隐私
+- Agent 安全
+- 提示工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/888fa80d3f304bf38143a8c25ad4e30d
+notion_url: https://www.notion.so/Tizer/888fa80d3f304bf38143a8c25ad4e30d
 notion_id: 888fa80d-3f30-4bf3-8143-a8c25ad4e30d
 ---
 

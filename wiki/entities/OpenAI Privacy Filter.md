@@ -2,8 +2,9 @@
 title: OpenAI Privacy Filter
 type: entity
 tags:
-- LLM
-- 安全/隐私
+- 知识管理
+- AI 产品
+- 模型部署
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

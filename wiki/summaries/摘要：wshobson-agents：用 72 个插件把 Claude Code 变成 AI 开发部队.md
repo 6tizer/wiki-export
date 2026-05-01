@@ -2,15 +2,14 @@
 title: 摘要：wshobson/agents：用 72 个插件把 Claude Code 变成 AI 开发部队
 type: summary
 tags:
-- 开发工具
-- LLM
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/52dd4e29399042ad9f29111d781f3a97
+notion_url: https://www.notion.so/Tizer/52dd4e29399042ad9f29111d781f3a97
 notion_id: 52dd4e29-3990-42ad-9f29-111d781f3a97
 ---
 

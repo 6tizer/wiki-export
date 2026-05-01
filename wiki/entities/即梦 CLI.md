@@ -1,15 +1,13 @@
 ---
 title: 即梦 CLI
 type: entity
-tags:
-- 内容创作
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/fd81245c24f04b2ca038fa6a209da845
+notion_url: https://www.notion.so/Tizer/fd81245c24f04b2ca038fa6a209da845
 notion_id: fd81245c-24f0-4b2c-a038-fa6a209da845
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: 预测市场交易 Agent
 type: concept
-tags:
-- Crypto/DeFi
-- Agent 编排
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

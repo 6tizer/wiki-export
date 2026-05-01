@@ -1,14 +1,13 @@
 ---
 title: 摘要：EqualVPN：Claude封号潮下，静态住宅IP为什么成了AI重度用户的刚需
 type: summary
-tags:
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: LLM, VPN, Claude, 风控, IP/代理
 source_article_url: https://www.notion.so/336701074b68811a9fd2cb7939dc260b
-notion_url: https://www.notion.so/fed334b7ddf14fb082e6e995cccf0be9
+notion_url: https://www.notion.so/Tizer/fed334b7ddf14fb082e6e995cccf0be9
 notion_id: fed334b7-ddf1-4fb0-82e6-e995cccf0be9
 ---
 

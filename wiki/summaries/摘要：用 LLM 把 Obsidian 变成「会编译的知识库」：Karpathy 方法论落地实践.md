@@ -3,13 +3,12 @@ title: 摘要：用 LLM 把 Obsidian 变成「会编译的知识库」：Karpath
 type: summary
 tags:
 - 知识管理
-- LLM
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: LLM, 自动化, Agent, wiki, Karpathy
 source_article_url: https://www.notion.so/33d701074b68813085e7fd62895feaf5
-notion_url: https://www.notion.so/8c22d9dbe0a64c129a245769ca925a6f
+notion_url: https://www.notion.so/Tizer/8c22d9dbe0a64c129a245769ca925a6f
 notion_id: 8c22d9db-e0a6-4c12-9a24-5769ca925a6f
 ---
 

@@ -3,13 +3,14 @@ title: 摘要：Driftwatch：30 秒看透你的 OpenClaw 智能体架构
 type: summary
 tags:
 - OpenClaw
-- 开发工具
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e0697c1644a04295846b6cc60ac8ff40
+notion_url: https://www.notion.so/Tizer/e0697c1644a04295846b6cc60ac8ff40
 notion_id: e0697c16-44a0-4295-846b-6cc60ac8ff40
 ---
 

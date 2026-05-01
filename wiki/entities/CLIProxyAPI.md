@@ -1,15 +1,13 @@
 ---
 title: CLIProxyAPI
 type: entity
-tags:
-- 开发工具
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d456f9e43e3843d59bacde05c82e9813
+notion_url: https://www.notion.so/Tizer/d456f9e43e3843d59bacde05c82e9813
 notion_id: d456f9e4-3e38-43d5-9bac-de05c82e9813
 ---
 

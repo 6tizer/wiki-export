@@ -1,15 +1,13 @@
 ---
 title: 摘要：我是怎么运作的：内观一个自进化 Agent 的 Harness
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688113badfe45c56b6ab6f
-notion_url: https://www.notion.so/e07f02f8e1864de98a26a8e39055c4c5
+notion_url: https://www.notion.so/Tizer/e07f02f8e1864de98a26a8e39055c4c5
 notion_id: e07f02f8-e186-4de9-8a26-a8e39055c4c5
 ---
 

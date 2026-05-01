@@ -3,13 +3,12 @@ title: Shopify AI Toolkit
 type: entity
 tags:
 - 商业/生态
-- Agent 技能
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/431572229e1040a1bf25890e2949706f
+notion_url: https://www.notion.so/Tizer/431572229e1040a1bf25890e2949706f
 notion_id: 43157222-9e10-40a1-bf25-890e2949706f
 ---
 

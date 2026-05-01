@@ -2,14 +2,15 @@
 title: 摘要：飞书新品发布会深度解析：aily + 妙搭，国内最肥沃的 Agent 平台来了
 type: summary
 tags:
-- Agent 框架
-- 商业/生态
+- Agent 协作模式
+- 上下文管理
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b6881779049d24b70ab417e
-notion_url: https://www.notion.so/d4d85291b63443179cc4540e47b1c258
+notion_url: https://www.notion.so/Tizer/d4d85291b63443179cc4540e47b1c258
 notion_id: d4d85291-b634-4317-9cc4-540e47b1c258
 ---
 

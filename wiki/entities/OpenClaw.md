@@ -2,11 +2,7 @@
 title: OpenClaw
 type: entity
 tags:
-- Agent 框架
 - 多Agent协作
-- 安全/隐私
-- Agent 技能
-- 工作流
 status: 审核中
 confidence: high
 last_compiled: '2026-04-30'

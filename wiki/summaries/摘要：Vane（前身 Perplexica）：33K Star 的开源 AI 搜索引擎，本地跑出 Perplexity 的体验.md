@@ -2,14 +2,16 @@
 title: 摘要：Vane（前身 Perplexica）：33K Star 的开源 AI 搜索引擎，本地跑出 Perplexity 的体验
 type: summary
 tags:
-- LLM
-- 开发工具
+- OpenClaw
+- AI 产品
+- 模型部署
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e11e82b0508747e49a152fd0df92b543
+notion_url: https://www.notion.so/Tizer/e11e82b0508747e49a152fd0df92b543
 notion_id: e11e82b0-5087-47e4-9a15-2fd0df92b543
 ---
 

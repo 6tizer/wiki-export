@@ -1,15 +1,13 @@
 ---
 title: 摘要：20 Powerful Agentic-Skills for Claude, ChatGPT & Gemini.
 type: summary
-tags:
-- Agent 技能
-- Coding Agent
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881bc94f5d287f5df63d0
-notion_url: https://www.notion.so/a226fe5476984a64ad5d27f6cf9a579c
+notion_url: https://www.notion.so/Tizer/a226fe5476984a64ad5d27f6cf9a579c
 notion_id: a226fe54-7698-4a64-ad5d-27f6cf9a579c
 ---
 

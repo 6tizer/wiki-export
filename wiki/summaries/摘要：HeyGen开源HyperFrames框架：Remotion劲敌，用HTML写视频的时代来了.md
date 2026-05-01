@@ -1,15 +1,13 @@
 ---
 title: 摘要：HeyGen开源HyperFrames框架：Remotion劲敌，用HTML写视频的时代来了
 type: summary
-tags:
-- 内容创作
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b6881c0a60afc7755c2d354
-notion_url: https://www.notion.so/5d9daed69d9c43f797f7158b8b53a736
+notion_url: https://www.notion.so/Tizer/5d9daed69d9c43f797f7158b8b53a736
 notion_id: 5d9daed6-9d9c-43f7-97f7-158b8b53a736
 ---
 

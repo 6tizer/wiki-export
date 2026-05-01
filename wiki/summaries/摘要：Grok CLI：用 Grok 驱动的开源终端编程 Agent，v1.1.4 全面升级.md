@@ -1,15 +1,13 @@
 ---
 title: 摘要：Grok CLI：用 Grok 驱动的开源终端编程 Agent，v1.1.4 全面升级
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化, Grok
 source_article_url: https://www.notion.so/33d701074b6881d48907c4883a8c3b21
-notion_url: https://www.notion.so/a4c7c406f48f4af4b9422959aa24e4b6
+notion_url: https://www.notion.so/Tizer/a4c7c406f48f4af4b9422959aa24e4b6
 notion_id: a4c7c406-f48f-4af4-b942-2959aa24e4b6
 ---
 

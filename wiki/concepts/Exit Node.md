@@ -1,15 +1,13 @@
 ---
 title: Exit Node
 type: concept
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/89d10e8da9bf482e9370128028d6c585
+notion_url: https://www.notion.so/Tizer/89d10e8da9bf482e9370128028d6c585
 notion_id: 89d10e8d-a9bf-482e-9370-128028d6c585
 ---
 

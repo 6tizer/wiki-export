@@ -2,13 +2,16 @@
 title: 摘要：Polymarket 工具全攻略：用这 7 个神器，你的胜率会超过 90% 的交易者
 type: summary
 tags:
-- Crypto/DeFi
+- 加密资产
+- 量化交易
+- 商业/生态
+- 浏览器自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: 自动化, Polymarket, 预测市场, 交易机器人
 source_article_url: ''
-notion_url: https://www.notion.so/bf129b2a738e41829b1a79365247ea18
+notion_url: https://www.notion.so/Tizer/bf129b2a738e41829b1a79365247ea18
 notion_id: bf129b2a-738e-4182-9b1a-79365247ea18
 ---
 

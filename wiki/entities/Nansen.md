@@ -2,7 +2,9 @@
 title: Nansen
 type: entity
 tags:
-- Crypto/DeFi
+- 加密资产
+- 链上协议
+- 商业/生态
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

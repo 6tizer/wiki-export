@@ -2,8 +2,9 @@
 title: Peer Relay
 type: concept
 tags:
-- 开发工具
-- 安全/隐私
+- 商业/生态
+- 多Agent协作
+- 模型部署
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

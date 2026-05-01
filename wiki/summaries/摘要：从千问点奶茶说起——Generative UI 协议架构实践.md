@@ -1,14 +1,13 @@
 ---
 title: 摘要：从千问点奶茶说起——Generative UI 协议架构实践
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/7bbfbab3987142a5a79f1e4aca811fb3
+notion_url: https://www.notion.so/Tizer/7bbfbab3987142a5a79f1e4aca811fb3
 notion_id: 7bbfbab3-9871-42a5-a79f-1e4aca811fb3
 ---
 

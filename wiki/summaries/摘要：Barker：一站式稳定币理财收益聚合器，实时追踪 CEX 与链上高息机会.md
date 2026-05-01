@@ -2,14 +2,14 @@
 title: 摘要：Barker：一站式稳定币理财收益聚合器，实时追踪 CEX 与链上高息机会
 type: summary
 tags:
-- Crypto/DeFi
+- 稳定币
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Crypto, 稳定币, DeFi, 理财
 source_article_url: ''
-notion_url: https://www.notion.so/aa74a9208cdb424098b4e32692d1cd85
+notion_url: https://www.notion.so/Tizer/aa74a9208cdb424098b4e32692d1cd85
 notion_id: aa74a920-8cdb-4240-98b4-e32692d1cd85
 ---
 

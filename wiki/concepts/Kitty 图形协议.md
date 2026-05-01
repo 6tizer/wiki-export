@@ -2,7 +2,9 @@
 title: Kitty 图形协议
 type: concept
 tags:
-- 开发工具
+- 多模态
+- 上下文管理
+- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Why Your “AI-First” Strategy Is Probably Wrong
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-14'
 source_tags: ''
 source_article_url: https://www.notion.so/342701074b6881668391dc40ccc68e91
-notion_url: https://www.notion.so/557991fb78b842fe9545527c4a2daa6d
+notion_url: https://www.notion.so/Tizer/557991fb78b842fe9545527c4a2daa6d
 notion_id: 557991fb-78b8-42fe-9545-527c4a2daa6d
 ---
 

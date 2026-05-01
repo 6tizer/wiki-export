@@ -4,13 +4,12 @@ title: 摘要：最近我也一直在用 Obsidian 去学习 YouTube 里面的一
 type: summary
 tags:
 - 知识管理
-- 工作流
 status: 已审核
 confidence: low
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b6881bca2e1f0db11a99d00
-notion_url: https://www.notion.so/936f4d76887e4138b51b6026fae7d7ff
+notion_url: https://www.notion.so/Tizer/936f4d76887e4138b51b6026fae7d7ff
 notion_id: 936f4d76-887e-4138-b51b-6026fae7d7ff
 ---
 

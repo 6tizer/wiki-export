@@ -2,13 +2,15 @@
 title: 摘要：NEAR x Delphi Labs Crypto AI 加速器：8 支团队如何重塑 AI Agent 与 Web3 的边界
 type: summary
 tags:
-- Crypto/DeFi
+- 商业/生态
+- 加密资产
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, Web3, Crypto
 source_article_url: ''
-notion_url: https://www.notion.so/c386f743a71346fc90333726a73d7a88
+notion_url: https://www.notion.so/Tizer/c386f743a71346fc90333726a73d7a88
 notion_id: c386f743-a713-46fc-9033-3726a73d7a88
 ---
 

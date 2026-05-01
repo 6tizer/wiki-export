@@ -1,14 +1,13 @@
 ---
 title: LZ77/LZMA 家族
 type: concept
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/135454f411f64da3b9526574250ea1f4
+notion_url: https://www.notion.so/Tizer/135454f411f64da3b9526574250ea1f4
 notion_id: 135454f4-11f6-4da3-b952-6574250ea1f4
 ---
 

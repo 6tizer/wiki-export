@@ -1,15 +1,13 @@
 ---
 title: Top-k Logits
 type: concept
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 草稿
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d95475c075a644f085fd1b18dfa7d6ce
+notion_url: https://www.notion.so/Tizer/d95475c075a644f085fd1b18dfa7d6ce
 notion_id: d95475c0-75a6-44f0-85fd-1b18dfa7d6ce
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Agent 的"手"长出来了，但为什么还是不可靠？
 type: summary
-tags:
-- Agent 技能
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881d281b7d9342d1005e6
-notion_url: https://www.notion.so/81b0f9105e5044028108a56e3780c0a8
+notion_url: https://www.notion.so/Tizer/81b0f9105e5044028108a56e3780c0a8
 notion_id: 81b0f910-5e50-4402-8108-a56e3780c0a8
 ---
 

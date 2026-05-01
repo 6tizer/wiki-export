@@ -2,14 +2,15 @@
 title: 摘要：OpenClaw 让每个聊天软件都有机会变成微信
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
-- 工作流
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/5ed01e27d1a443138758969a89943e95
+notion_url: https://www.notion.so/Tizer/5ed01e27d1a443138758969a89943e95
 notion_id: 5ed01e27-d1a4-4313-8758-969a89943e95
 ---
 

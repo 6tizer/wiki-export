@@ -2,13 +2,18 @@
 title: 摘要：MiniMax 发布 MMX-CLI：为 Agent 设计的全模态命令行工具
 type: summary
 tags:
-- Agent 技能
+- 多模态
+- CLI 工具
+- OpenClaw
+- MCP 协议
+- Agent 协作模式
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/2761008d371f4cf6a6d923deb12b1f75
+notion_url: https://www.notion.so/Tizer/2761008d371f4cf6a6d923deb12b1f75
 notion_id: 2761008d-371f-4cf6-a6d9-23deb12b1f75
 ---
 

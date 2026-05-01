@@ -3,12 +3,14 @@ title: 摘要：终于明白为什么 Skill 不好用了
 type: summary
 tags:
 - OpenClaw
+- 代码生成
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/792c4e012ca54362b9dc07645472bbb8
+notion_url: https://www.notion.so/Tizer/792c4e012ca54362b9dc07645472bbb8
 notion_id: 792c4e01-2ca5-4362-b9dc-07645472bbb8
 ---
 

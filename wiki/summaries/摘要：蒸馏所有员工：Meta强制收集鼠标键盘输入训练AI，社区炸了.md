@@ -2,14 +2,13 @@
 title: 摘要：蒸馏所有员工：Meta强制收集鼠标键盘输入训练AI，社区炸了
 type: summary
 tags:
-- 安全/隐私
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881238a35e69a3811365d
-notion_url: https://www.notion.so/4947758057ae483693060a66bd31e98e
+notion_url: https://www.notion.so/Tizer/4947758057ae483693060a66bd31e98e
 notion_id: 49477580-57ae-4836-9306-0a66bd31e98e
 ---
 

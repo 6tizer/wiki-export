@@ -1,14 +1,13 @@
 ---
 title: 摘要：我把微信 cli 开源了，群消息终于不用爬楼了
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/f9acb8aec5da4fe892401f194e77594a
+notion_url: https://www.notion.so/Tizer/f9acb8aec5da4fe892401f194e77594a
 notion_id: f9acb8ae-c5da-4fe8-9240-1f194e77594a
 ---
 

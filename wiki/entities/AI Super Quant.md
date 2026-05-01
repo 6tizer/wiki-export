@@ -2,14 +2,15 @@
 title: AI Super Quant
 type: entity
 tags:
-- Crypto/DeFi
-- 商业/生态
+- 量化交易
+- 加密资产
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/32fc1575e7b44f278878e4a46d68b211
+notion_url: https://www.notion.so/Tizer/32fc1575e7b44f278878e4a46d68b211
 notion_id: 32fc1575-e7b4-4f27-8878-e4a46d68b211
 ---
 

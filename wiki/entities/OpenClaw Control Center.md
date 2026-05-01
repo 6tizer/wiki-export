@@ -3,13 +3,12 @@ title: OpenClaw Control Center
 type: entity
 tags:
 - OpenClaw
-- 开发工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/19c548c2bad644a38df2ddfe3ec257fb
+notion_url: https://www.notion.so/Tizer/19c548c2bad644a38df2ddfe3ec257fb
 notion_id: 19c548c2-bad6-44a3-8df2-ddfe3ec257fb
 ---
 

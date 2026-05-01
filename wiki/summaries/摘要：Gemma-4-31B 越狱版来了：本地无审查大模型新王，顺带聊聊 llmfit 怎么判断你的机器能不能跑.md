@@ -1,15 +1,13 @@
 ---
 title: 摘要：Gemma-4-31B 越狱版来了：本地无审查大模型新王，顺带聊聊 llmfit 怎么判断你的机器能不能跑
 type: summary
-tags:
-- LLM
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: LLM, Agent, 自动化
 source_article_url: https://www.notion.so/33d701074b6881dcb081da04cbc53080
-notion_url: https://www.notion.so/1ce8db9eff954d70b5ef5caa14c53a44
+notion_url: https://www.notion.so/Tizer/1ce8db9eff954d70b5ef5caa14c53a44
 notion_id: 1ce8db9e-ff95-4d70-b5ef-5caa14c53a44
 ---
 

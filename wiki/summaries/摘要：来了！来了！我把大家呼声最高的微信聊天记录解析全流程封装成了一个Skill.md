@@ -1,15 +1,13 @@
 ---
 title: 摘要：来了！来了！我把大家呼声最高的微信聊天记录解析全流程封装成了一个Skill
 type: summary
-tags:
-- Agent 技能
-- Coding Agent
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688123b0b6fd1d45cc839f
-notion_url: https://www.notion.so/d3a76161ec5048d98b71603c2af6ea5f
+notion_url: https://www.notion.so/Tizer/d3a76161ec5048d98b71603c2af6ea5f
 notion_id: d3a76161-ec50-48d9-8b71-603c2af6ea5f
 ---
 

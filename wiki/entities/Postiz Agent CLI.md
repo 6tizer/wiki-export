@@ -1,9 +1,7 @@
 ---
 title: Postiz Agent CLI
 type: entity
-tags:
-- 开发工具
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

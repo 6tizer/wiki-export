@@ -2,14 +2,13 @@
 title: ChromaFs
 type: concept
 tags:
-- 开发工具
 - 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/814baa5de0b74fac835d31973ce3500b
+notion_url: https://www.notion.so/Tizer/814baa5de0b74fac835d31973ce3500b
 notion_id: 814baa5d-e0b7-4fac-835d-31973ce3500b
 ---
 

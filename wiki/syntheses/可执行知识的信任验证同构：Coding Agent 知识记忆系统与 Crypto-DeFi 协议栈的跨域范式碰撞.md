@@ -3,7 +3,6 @@ title: 可执行知识的信任验证同构：Coding Agent 知识记忆系统与
 type: synthesis
 tags:
 - 知识管理
-- 记忆系统
 - 长期记忆
 status: 已审核
 confidence: high

@@ -1,15 +1,13 @@
 ---
 title: 摘要：清华沈阳团队发布：首个由 AI 自动化科研框架独立研发的新型压缩算法
 type: summary
-tags:
-- 开发工具
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881598d34fcde57434f08
-notion_url: https://www.notion.so/d5e499c8e4b845e586da632912a904f6
+notion_url: https://www.notion.so/Tizer/d5e499c8e4b845e586da632912a904f6
 notion_id: d5e499c8-e4b8-45e5-86da-632912a904f6
 ---
 

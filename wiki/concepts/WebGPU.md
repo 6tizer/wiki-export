@@ -2,7 +2,9 @@
 title: WebGPU
 type: concept
 tags:
-- 开发工具
+- 前端开发
+- 视频/3D
+- 推理优化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

@@ -10,7 +10,7 @@ confidence: medium
 last_compiled: '2026-04-20'
 source_tags: Agent, LLM, Cursor, openai
 source_article_url: https://www.notion.so/348701074b6881a694e3d43f58e91924
-notion_url: https://www.notion.so/bb9153b672534befb65ce1b4daf4145f
+notion_url: https://www.notion.so/Tizer/bb9153b672534befb65ce1b4daf4145f
 notion_id: bb9153b6-7253-4bef-b65c-e1b4daf4145f
 ---
 

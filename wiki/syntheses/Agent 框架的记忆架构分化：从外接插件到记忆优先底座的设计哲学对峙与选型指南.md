@@ -2,8 +2,6 @@
 title: Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南
 type: synthesis
 tags:
-- Agent 框架
-- 记忆系统
 - 长期记忆
 - 多Agent协作
 - RAG/检索
@@ -12,7 +10,7 @@ confidence: high
 last_compiled: '2026-06-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/bbf0d36cc05f4891bed889c3cb0e2e00
+notion_url: https://www.notion.so/Tizer/bbf0d36cc05f4891bed889c3cb0e2e00
 notion_id: bbf0d36c-c05f-4891-bed8-89c3cb0e2e00
 ---
 

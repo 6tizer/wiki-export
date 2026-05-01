@@ -1,15 +1,13 @@
 ---
 title: 摘要：卧槽！本地 AI 又出神器了 🔥
 type: summary
-tags:
-- LLM
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881879098faab9b9a231c
-notion_url: https://www.notion.so/cc91aa3f160341ef94fdecb966369c78
+notion_url: https://www.notion.so/Tizer/cc91aa3f160341ef94fdecb966369c78
 notion_id: cc91aa3f-1603-41ef-94fd-ecb966369c78
 ---
 

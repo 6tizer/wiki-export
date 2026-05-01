@@ -1,15 +1,13 @@
 ---
 title: 摘要：OpenCLI 1.0：告别 Playwright，国人开发的全平台浏览器自动化 CLI 正式起航
 type: summary
-tags:
-- 开发工具
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: OpenClaw, 自动化, Cursor, Agent
 source_article_url: https://www.notion.so/335701074b688160996fd4409830dde1
-notion_url: https://www.notion.so/b79e92c2edf14a95aa71bc3e1ee2063e
+notion_url: https://www.notion.so/Tizer/b79e92c2edf14a95aa71bc3e1ee2063e
 notion_id: b79e92c2-edf1-4a95-aa71-bc3e1ee2063e
 ---
 

@@ -2,8 +2,9 @@
 title: wechat-daily
 type: entity
 tags:
-- Agent 技能
-- Coding Agent
+- 社交媒体
+- 知识管理
+- 笔记工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

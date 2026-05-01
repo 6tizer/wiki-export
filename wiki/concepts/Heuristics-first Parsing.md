@@ -2,8 +2,9 @@
 title: Heuristics-first Parsing
 type: concept
 tags:
-- 开发工具
-- Agent 技能
+- 知识管理
+- Agent 协作模式
+- 推理优化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

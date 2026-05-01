@@ -2,14 +2,15 @@
 title: 摘要：PolyCop：用 AI 扫描钱包、一键跟单的 Polymarket「彭博终端」
 type: summary
 tags:
-- Crypto/DeFi
+- 加密资产
 - 商业/生态
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/9f3f8b78516c44dc93467252da5f9ec8
+notion_url: https://www.notion.so/Tizer/9f3f8b78516c44dc93467252da5f9ec8
 notion_id: 9f3f8b78-516c-44dc-9346-7252da5f9ec8
 ---
 

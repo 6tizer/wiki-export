@@ -2,13 +2,16 @@
 title: 摘要：Qwen3.5 开源多模态大模型
 type: summary
 tags:
-- LLM
+- 多模态
+- 内容自动化
+- Agent 协作模式
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c2836e15d0f444468d9d2e94a5c01e93
+notion_url: https://www.notion.so/Tizer/c2836e15d0f444468d9d2e94a5c01e93
 notion_id: c2836e15-d0f4-4446-8d9d-2e94a5c01e93
 ---
 

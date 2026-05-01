@@ -1,14 +1,13 @@
 ---
 title: Codex 插件系统
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d633b8cc630242f6af5c1d615156848e
+notion_url: https://www.notion.so/Tizer/d633b8cc630242f6af5c1d615156848e
 notion_id: d633b8cc-6302-42f6-af5c-1d615156848e
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Hermes Desktop：通过 SSH 直连远程主机的原生 macOS 工作流客户端
 type: summary
-tags:
-- 开发工具
-- Agent 框架
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b68810c817ffa4e45e4b298
-notion_url: https://www.notion.so/47d9b907e30948af83bfc520f45cb8b8
+notion_url: https://www.notion.so/Tizer/47d9b907e30948af83bfc520f45cb8b8
 notion_id: 47d9b907-e309-48af-83bf-c520f45cb8b8
 ---
 

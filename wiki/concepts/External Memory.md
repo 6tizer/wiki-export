@@ -1,9 +1,7 @@
 ---
 title: External Memory
 type: concept
-tags:
-- 记忆系统
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

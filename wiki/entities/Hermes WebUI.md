@@ -1,14 +1,13 @@
 ---
 title: Hermes WebUI
 type: entity
-tags:
-- Agent 框架
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9082f2e4751f4574ba1d0ea636647df9
+notion_url: https://www.notion.so/Tizer/9082f2e4751f4574ba1d0ea636647df9
 notion_id: 9082f2e4-751f-4574-ba1d-0ea636647df9
 ---
 

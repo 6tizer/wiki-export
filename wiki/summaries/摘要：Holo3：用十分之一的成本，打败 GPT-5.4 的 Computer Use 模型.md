@@ -1,15 +1,13 @@
 ---
 title: 摘要：Holo3：用十分之一的成本，打败 GPT-5.4 的 Computer Use 模型
 type: summary
-tags:
-- LLM
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33d701074b68813c8c39e6384ddde722
-notion_url: https://www.notion.so/e4f8cce67a104ba591433500e8b7291b
+notion_url: https://www.notion.so/Tizer/e4f8cce67a104ba591433500e8b7291b
 notion_id: e4f8cce6-7a10-4ba5-9143-3500e8b7291b
 ---
 

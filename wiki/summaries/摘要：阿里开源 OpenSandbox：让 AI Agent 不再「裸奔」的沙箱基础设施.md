@@ -2,14 +2,15 @@
 title: 摘要：阿里开源 OpenSandbox：让 AI Agent 不再「裸奔」的沙箱基础设施
 type: summary
 tags:
-- 安全/隐私
-- 开发工具
+- Agent 协作模式
+- 浏览器自动化
+- 算力基础设施
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b68815ca465ce2c20f6427d
-notion_url: https://www.notion.so/38e37d9eed0e414bbabff0a454edeafe
+notion_url: https://www.notion.so/Tizer/38e37d9eed0e414bbabff0a454edeafe
 notion_id: 38e37d9e-ed0e-414b-babf-f0a454edeafe
 ---
 

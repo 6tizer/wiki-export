@@ -2,14 +2,15 @@
 title: 摘要：DenchClaw：用 OpenClaw 搭一套本地 AI CRM，一行命令搞定客户管理
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
-- 工作流
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/de0ec60b7ef3422aad0d79916d3d78bd
+notion_url: https://www.notion.so/Tizer/de0ec60b7ef3422aad0d79916d3d78bd
 notion_id: de0ec60b-7ef3-422a-ad0d-79916d3d78bd
 ---
 

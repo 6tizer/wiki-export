@@ -2,7 +2,8 @@
 title: Open Interest
 type: concept
 tags:
-- Crypto/DeFi
+- 量化交易
+- 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

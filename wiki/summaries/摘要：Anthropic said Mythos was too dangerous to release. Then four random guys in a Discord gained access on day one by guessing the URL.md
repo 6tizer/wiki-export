@@ -2,15 +2,13 @@
 title: 摘要：Anthropic said Mythos was too dangerous to release. Then four random guys
   in a Discord gained access on day one by guessing the URL...
 type: summary
-tags:
-- 安全/隐私
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881adba61f2fc27c6e590
-notion_url: https://www.notion.so/d05f6397ba114ae6913fcd036d05a9c2
+notion_url: https://www.notion.so/Tizer/d05f6397ba114ae6913fcd036d05a9c2
 notion_id: d05f6397-ba11-4ae6-913f-cd036d05a9c2
 ---
 

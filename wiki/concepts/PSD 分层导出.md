@@ -1,15 +1,13 @@
 ---
 title: PSD 分层导出
 type: concept
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/893773e9586d4b8fb6211a836037337a
+notion_url: https://www.notion.so/Tizer/893773e9586d4b8fb6211a836037337a
 notion_id: 893773e9-586d-4b8f-b621-1a836037337a
 ---
 

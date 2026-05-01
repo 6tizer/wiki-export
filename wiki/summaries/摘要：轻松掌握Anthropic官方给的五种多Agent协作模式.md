@@ -1,14 +1,13 @@
 ---
 title: 摘要：轻松掌握Anthropic官方给的五种"多Agent协作"模式
 type: summary
-tags:
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688154ba7ae99dc4518086
-notion_url: https://www.notion.so/b838f91f0e4141d5ac6d54de339bf86f
+notion_url: https://www.notion.so/Tizer/b838f91f0e4141d5ac6d54de339bf86f
 notion_id: b838f91f-0e41-41d5-ac6d-54de339bf86f
 ---
 

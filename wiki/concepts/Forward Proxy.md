@@ -2,8 +2,9 @@
 title: Forward Proxy
 type: concept
 tags:
-- 安全/隐私
-- 开发工具
+- Agent 协作模式
+- MCP 协议
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

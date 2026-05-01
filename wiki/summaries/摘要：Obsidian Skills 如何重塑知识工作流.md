@@ -3,12 +3,14 @@ title: 摘要：Obsidian Skills 如何重塑知识工作流
 type: summary
 tags:
 - 知识管理
+- 笔记工具
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/6c2699b6abbf47418bf04c5f7f8f18af
+notion_url: https://www.notion.so/Tizer/6c2699b6abbf47418bf04c5f7f8f18af
 notion_id: 6c2699b6-abbf-4741-8bf0-4c5f7f8f18af
 ---
 

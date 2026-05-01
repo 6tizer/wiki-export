@@ -1,15 +1,13 @@
 ---
 title: 摘要：前两天看到 Dario Amodei 在一个采访里说，continual learning已经 solved 了。
 type: summary
-tags:
-- LLM
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b688174a4a1db6be5a32f64
-notion_url: https://www.notion.so/5c2b59e1af804e599809ca69adcb0a55
+notion_url: https://www.notion.so/Tizer/5c2b59e1af804e599809ca69adcb0a55
 notion_id: 5c2b59e1-af80-4e59-9809-ca69adcb0a55
 ---
 

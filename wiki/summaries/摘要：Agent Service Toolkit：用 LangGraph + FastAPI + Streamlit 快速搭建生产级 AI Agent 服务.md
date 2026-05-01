@@ -3,13 +3,15 @@ title: 摘要：Agent Service Toolkit：用 LangGraph + FastAPI + Streamlit 快�
   服务
 type: summary
 tags:
-- 工作流
+- Agent 协作模式
+- 模型部署
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/0bd4320e2a4842a89b77594c65671460
+notion_url: https://www.notion.so/Tizer/0bd4320e2a4842a89b77594c65671460
 notion_id: 0bd4320e-2a48-42a8-9b77-594c65671460
 ---
 

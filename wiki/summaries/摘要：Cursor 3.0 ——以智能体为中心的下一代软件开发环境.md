@@ -1,14 +1,13 @@
 ---
 title: 摘要：Cursor 3.0 ——以智能体为中心的下一代软件开发环境
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-28'
 source_tags: Agent, LLM, Cursor, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1b2614f70cb5485686a09d21fbd0cc51
+notion_url: https://www.notion.so/Tizer/1b2614f70cb5485686a09d21fbd0cc51
 notion_id: 1b2614f7-0cb5-4856-86a0-9d21fbd0cc51
 ---
 

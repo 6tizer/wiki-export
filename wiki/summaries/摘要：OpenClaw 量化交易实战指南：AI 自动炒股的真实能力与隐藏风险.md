@@ -2,13 +2,15 @@
 title: 摘要：OpenClaw 量化交易实战指南：AI 自动炒股的真实能力与隐藏风险
 type: summary
 tags:
+- 量化交易
+- Agent 安全
 - OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/cf84fccf45d5494bbc5caac05de1bcae
+notion_url: https://www.notion.so/Tizer/cf84fccf45d5494bbc5caac05de1bcae
 notion_id: cf84fccf-45d5-494b-bc5c-aac05de1bcae
 ---
 

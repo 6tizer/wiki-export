@@ -1,15 +1,13 @@
 ---
 title: 摘要：Canva可画联合创始人独家专访：2.65亿用户的Canva，用自研模型，解决了设计的审美问题
 type: summary
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881e7a2b6d87934611eab
-notion_url: https://www.notion.so/7e2c6df72f8944beb8b0c73d19094ac0
+notion_url: https://www.notion.so/Tizer/7e2c6df72f8944beb8b0c73d19094ac0
 notion_id: 7e2c6df7-2f89-44be-b8b0-c73d19094ac0
 ---
 

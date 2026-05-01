@@ -1,15 +1,13 @@
 ---
 title: 摘要：为什么要在OiiOii用Seedance2.0？
 type: summary
-tags:
-- 内容创作
-- Agent 框架
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881e5ad6cc2e1e64aa510
-notion_url: https://www.notion.so/3164d36ae8e34f778675cfa38e7347fd
+notion_url: https://www.notion.so/Tizer/3164d36ae8e34f778675cfa38e7347fd
 notion_id: 3164d36a-e8e3-4f77-8675-cfa38e7347fd
 ---
 

@@ -2,15 +2,17 @@
 title: 摘要：OpenClaw Memory Web UI——AI知识库的人侧管理层
 type: summary
 tags:
-- OpenClaw
 - 知识管理
-- 记忆系统
+- RAG/检索
+- 长期记忆
+- OpenClaw
+- 笔记工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/37fa85b7367c4b12877328611edab627
+notion_url: https://www.notion.so/Tizer/37fa85b7367c4b12877328611edab627
 notion_id: 37fa85b7-367c-4b12-8773-28611edab627
 ---
 

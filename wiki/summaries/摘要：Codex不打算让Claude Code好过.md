@@ -2,14 +2,15 @@
 title: 摘要：Codex不打算让Claude Code好过
 type: summary
 tags:
-- LLM
-- 开发工具
+- 代码生成
+- 商业/生态
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Codex, NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/a28f032624b04d359fb6da672fdf364f
+notion_url: https://www.notion.so/Tizer/a28f032624b04d359fb6da672fdf364f
 notion_id: a28f0326-24b0-4d35-9fb6-da672fdf364f
 ---
 

@@ -2,14 +2,14 @@
 title: Google ADK
 type: entity
 tags:
-- Agent 框架
-- 记忆系统
+- Agent 协作模式
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c2c71b473615428da275461f0a844871
+notion_url: https://www.notion.so/Tizer/c2c71b473615428da275461f0a844871
 notion_id: c2c71b47-3615-428d-a275-461f0a844871
 ---
 

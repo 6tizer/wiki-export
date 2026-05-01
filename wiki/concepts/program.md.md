@@ -2,8 +2,6 @@
 title: program.md
 type: concept
 tags:
-- 工作流
-- Agent 编排
 - 知识管理
 status: 审核中
 confidence: medium

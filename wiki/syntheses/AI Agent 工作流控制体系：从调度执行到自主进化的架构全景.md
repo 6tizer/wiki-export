@@ -2,13 +2,16 @@
 title: AI Agent 工作流控制体系：从调度执行到自主进化的架构全景
 type: synthesis
 tags:
-- 工作流
+- 多Agent协作
+- 上下文管理
+- 长期记忆
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/20c862a65f12426aa01e8f4b373d85c1
+notion_url: https://www.notion.so/Tizer/20c862a65f12426aa01e8f4b373d85c1
 notion_id: 20c862a6-5f12-426a-a01e-8f4b373d85c1
 ---
 

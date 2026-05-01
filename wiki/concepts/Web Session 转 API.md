@@ -1,15 +1,13 @@
 ---
 title: Web Session 转 API
 type: concept
-tags:
-- 开发工具
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0b5851a9e6914e1f90b3e08a749b6511
+notion_url: https://www.notion.so/Tizer/0b5851a9e6914e1f90b3e08a749b6511
 notion_id: 0b5851a9-e691-4e1f-90b3-e08a749b6511
 ---
 

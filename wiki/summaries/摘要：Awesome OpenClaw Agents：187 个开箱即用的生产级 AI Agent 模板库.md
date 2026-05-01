@@ -3,13 +3,14 @@ title: 摘要：Awesome OpenClaw Agents：187 个开箱即用的生产级 AI Age
 type: summary
 tags:
 - OpenClaw
-- Agent 框架
+- 商业/生态
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: https://www.notion.so/335701074b6881788a27d46004251039
-notion_url: https://www.notion.so/be8db9eef5454b0fb4eb063397b0fe2d
+notion_url: https://www.notion.so/Tizer/be8db9eef5454b0fb4eb063397b0fe2d
 notion_id: be8db9ee-f545-4b0f-b4eb-063397b0fe2d
 ---
 

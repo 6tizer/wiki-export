@@ -1,15 +1,13 @@
 ---
 title: Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进
 type: synthesis
-tags:
-- 开发工具
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/50bbfe44c5be4db79133a414d5a962f2
+notion_url: https://www.notion.so/Tizer/50bbfe44c5be4db79133a414d5a962f2
 notion_id: 50bbfe44-c5be-4db7-9133-a414d5a962f2
 ---
 

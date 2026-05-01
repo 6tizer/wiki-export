@@ -3,12 +3,14 @@ title: 摘要：OpenClaw：一个奥地利农场少年如何「意外」颠覆 A
 type: summary
 tags:
 - OpenClaw
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/08b79fa68fdc4b119266470ebab8bbdf
+notion_url: https://www.notion.so/Tizer/08b79fa68fdc4b119266470ebab8bbdf
 notion_id: 08b79fa6-8fdc-4b11-9266-470ebab8bbdf
 ---
 

@@ -2,14 +2,13 @@
 title: 摘要：Hermes Agent 深度技术解析：架构、演进与 OpenClaw 的差异化对比
 type: summary
 tags:
-- Agent 框架
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68811eb712f29062aa8c8b
-notion_url: https://www.notion.so/11500aee3c28461fbe0d25f6391b0d2d
+notion_url: https://www.notion.so/Tizer/11500aee3c28461fbe0d25f6391b0d2d
 notion_id: 11500aee-3c28-461f-be0d-25f6391b0d2d
 ---
 

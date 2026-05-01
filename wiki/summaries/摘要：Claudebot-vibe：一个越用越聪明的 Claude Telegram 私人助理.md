@@ -1,15 +1,13 @@
 ---
 title: 摘要：Claudebot-vibe：一个越用越聪明的 Claude Telegram 私人助理
 type: summary
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33d701074b68813c9de8cbe4a7f6ee73
-notion_url: https://www.notion.so/6934552bc4ec4282a82f2430901fad54
+notion_url: https://www.notion.so/Tizer/6934552bc4ec4282a82f2430901fad54
 notion_id: 6934552b-c4ec-4282-a82f-2430901fad54
 ---
 

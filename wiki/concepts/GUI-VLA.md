@@ -1,9 +1,7 @@
 ---
 title: GUI-VLA
 type: concept
-tags:
-- Agent 技能
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'

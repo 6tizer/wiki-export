@@ -2,13 +2,15 @@
 title: 摘要：来看看微信Clawbot催生出了多少离谱的项目吧
 type: summary
 tags:
+- 商业/生态
+- 多Agent协作
 - OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: 微信生态, OpenClaw, 开源项目
 source_article_url: ''
-notion_url: https://www.notion.so/d6f143df32ba4bdaa298842c5aa3c40c
+notion_url: https://www.notion.so/Tizer/d6f143df32ba4bdaa298842c5aa3c40c
 notion_id: d6f143df-32ba-4bda-a298-842c5aa3c40c
 ---
 

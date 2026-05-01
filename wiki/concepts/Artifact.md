@@ -1,14 +1,13 @@
 ---
 title: Artifact
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a46ed5316b144401971354dd07196038
+notion_url: https://www.notion.so/Tizer/a46ed5316b144401971354dd07196038
 notion_id: a46ed531-6b14-4401-9713-54dd07196038
 ---
 

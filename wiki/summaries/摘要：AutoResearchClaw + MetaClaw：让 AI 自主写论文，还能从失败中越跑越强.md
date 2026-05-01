@@ -2,14 +2,16 @@
 title: 摘要：AutoResearchClaw + MetaClaw：让 AI 自主写论文，还能从失败中越跑越强
 type: summary
 tags:
-- 知识管理
+- Agent 协作模式
+- 多Agent协作
+- RAG/检索
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b6881608653d61f328f3f1e
-notion_url: https://www.notion.so/8133d7187dec45698eee9cc95264d9bb
+notion_url: https://www.notion.so/Tizer/8133d7187dec45698eee9cc95264d9bb
 notion_id: 8133d718-7dec-4569-8eee-9cc95264d9bb
 ---
 

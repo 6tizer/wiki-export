@@ -1,14 +1,13 @@
 ---
 title: 摘要：清华2年前预言，正成为全球共识！Meta等三大AI机构已得出同一结论
 type: summary
-tags:
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b688184b599d7cb8ba7aa31
-notion_url: https://www.notion.so/6ebb2f92f7964e0c926b68f9177344f8
+notion_url: https://www.notion.so/Tizer/6ebb2f92f7964e0c926b68f9177344f8
 notion_id: 6ebb2f92-f796-4e0c-926b-68f9177344f8
 ---
 

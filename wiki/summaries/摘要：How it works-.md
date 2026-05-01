@@ -10,7 +10,7 @@ confidence: medium
 last_compiled: '2026-04-21'
 source_tags: Cursor, Agent, 自动化
 source_article_url: https://www.notion.so/349701074b6881418598ea056b0db422
-notion_url: https://www.notion.so/e39eadb7838d4ab5a9370666adf6f12d
+notion_url: https://www.notion.so/Tizer/e39eadb7838d4ab5a9370666adf6f12d
 notion_id: e39eadb7-838d-4ab5-a937-0666adf6f12d
 ---
 

@@ -2,13 +2,15 @@
 title: Attention Residuals
 type: concept
 tags:
-- LLM
+- 推理优化
+- 训练/微调
+- AI 设计
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5da3925106584212b41f12e0bd0634a1
+notion_url: https://www.notion.so/Tizer/5da3925106584212b41f12e0bd0634a1
 notion_id: 5da39251-0658-4212-b41f-12e0bd0634a1
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：全球第一，13个SOTA！我们找到了龙虾界掌管GUI的神
 type: summary
-tags:
-- Agent 技能
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881b19548f423535a9a86
-notion_url: https://www.notion.so/d17fd7ef402a4b3e8370266f8c95ecb9
+notion_url: https://www.notion.so/Tizer/d17fd7ef402a4b3e8370266f8c95ecb9
 notion_id: d17fd7ef-402a-4b3e-8370-266f8c95ecb9
 ---
 

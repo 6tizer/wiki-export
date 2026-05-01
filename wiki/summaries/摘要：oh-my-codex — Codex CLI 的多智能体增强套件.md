@@ -1,14 +1,13 @@
 ---
 title: 摘要：oh-my-codex — Codex CLI 的多智能体增强套件
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化, codex, openai
 source_article_url: ''
-notion_url: https://www.notion.so/f799174f978946f3ae074f2ccc5a8194
+notion_url: https://www.notion.so/Tizer/f799174f978946f3ae074f2ccc5a8194
 notion_id: f799174f-9789-46f3-ae07-4f2ccc5a8194
 ---
 

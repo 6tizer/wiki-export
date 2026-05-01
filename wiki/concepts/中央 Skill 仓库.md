@@ -2,8 +2,9 @@
 title: 中央 Skill 仓库
 type: concept
 tags:
-- Agent 技能
 - 知识管理
+- 多Agent协作
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

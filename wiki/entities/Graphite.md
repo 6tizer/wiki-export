@@ -1,15 +1,13 @@
 ---
 title: Graphite
 type: entity
-tags:
-- 开发工具
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2aad0cc114e94355b7212c8f611ab584
+notion_url: https://www.notion.so/Tizer/2aad0cc114e94355b7212c8f611ab584
 notion_id: 2aad0cc1-14e9-4355-b721-2c8f611ab584
 ---
 

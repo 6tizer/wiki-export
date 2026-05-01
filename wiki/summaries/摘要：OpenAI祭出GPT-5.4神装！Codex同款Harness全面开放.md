@@ -1,15 +1,13 @@
 ---
 title: 摘要：OpenAI祭出GPT-5.4神装！Codex同款Harness全面开放
 type: summary
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688157ab24ce87925481c7
-notion_url: https://www.notion.so/3775256cf8be4649aa707437e04d5f32
+notion_url: https://www.notion.so/Tizer/3775256cf8be4649aa707437e04d5f32
 notion_id: 3775256c-f8be-4649-aa70-7437e04d5f32
 ---
 

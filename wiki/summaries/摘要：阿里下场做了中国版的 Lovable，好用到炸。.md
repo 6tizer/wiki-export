@@ -1,15 +1,13 @@
 ---
 title: 摘要：阿里下场做了中国版的 Lovable，好用到炸。
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68819b93b2f1d64c2949d4
-notion_url: https://www.notion.so/72a039f8d2f7472684d7cc8d5603fa2e
+notion_url: https://www.notion.so/Tizer/72a039f8d2f7472684d7cc8d5603fa2e
 notion_id: 72a039f8-d2f7-4726-84d7-cc8d5603fa2e
 ---
 

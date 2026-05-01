@@ -2,8 +2,9 @@
 title: Schema Retrieval
 type: concept
 tags:
-- 开发工具
-- LLM
+- 知识管理
+- RAG/检索
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

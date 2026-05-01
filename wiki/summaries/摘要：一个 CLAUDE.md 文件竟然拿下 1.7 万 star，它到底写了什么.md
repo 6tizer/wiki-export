@@ -1,14 +1,13 @@
 ---
 title: 摘要：一个 CLAUDE.md 文件竟然拿下 1.7 万 star，它到底写了什么
 type: summary
-tags:
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881708e0bec3f030aa232
-notion_url: https://www.notion.so/195b02ea8d364e77a7228b4d22bc4d8a
+notion_url: https://www.notion.so/Tizer/195b02ea8d364e77a7228b4d22bc4d8a
 notion_id: 195b02ea-8d36-4e77-a722-8b4d22bc4d8a
 ---
 

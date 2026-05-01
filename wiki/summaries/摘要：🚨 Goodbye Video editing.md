@@ -1,15 +1,13 @@
 ---
 title: 摘要：🚨 Goodbye Video editing
 type: summary
-tags:
-- 内容创作
-- Coding Agent
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688147a224e4037fd0d28b
-notion_url: https://www.notion.so/24e4fad3c8c64419909246db2649ed34
+notion_url: https://www.notion.so/Tizer/24e4fad3c8c64419909246db2649ed34
 notion_id: 24e4fad3-c8c6-4419-9092-46db2649ed34
 ---
 

@@ -3,13 +3,12 @@ title: 摘要：Hermes Agent抄袭中国团队代码实锤！被锤后回应：�
 type: summary
 tags:
 - 商业/生态
-- Coding Agent
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68816c84d1f6c44cd35a90
-notion_url: https://www.notion.so/7b39d20bbf8543309930e9b299e41c47
+notion_url: https://www.notion.so/Tizer/7b39d20bbf8543309930e9b299e41c47
 notion_id: 7b39d20b-bf85-4330-9930-e9b299e41c47
 ---
 

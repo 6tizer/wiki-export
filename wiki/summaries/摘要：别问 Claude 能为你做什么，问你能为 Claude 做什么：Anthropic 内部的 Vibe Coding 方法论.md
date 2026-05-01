@@ -1,15 +1,13 @@
 ---
 title: 摘要：别问 Claude 能为你做什么，问你能为 Claude 做什么：Anthropic 内部的 Vibe Coding 方法论
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68811da565efe4dc8faaa5
-notion_url: https://www.notion.so/ec6612e42d0d4a84b0d573d172ef2022
+notion_url: https://www.notion.so/Tizer/ec6612e42d0d4a84b0d573d172ef2022
 notion_id: ec6612e4-2d0d-4a84-b0d5-73d172ef2022
 ---
 

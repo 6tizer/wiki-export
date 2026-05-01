@@ -2,14 +2,13 @@
 title: 文档转 Markdown
 type: concept
 tags:
-- 开发工具
 - 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/deb2d5099aba4047978fa1f5841150eb
+notion_url: https://www.notion.so/Tizer/deb2d5099aba4047978fa1f5841150eb
 notion_id: deb2d509-9aba-4047-978f-a1f5841150eb
 ---
 

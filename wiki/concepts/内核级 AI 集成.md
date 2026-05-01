@@ -2,7 +2,6 @@
 title: 内核级 AI 集成
 type: concept
 tags:
-- 开发工具
 - 知识管理
 status: 审核中
 confidence: medium

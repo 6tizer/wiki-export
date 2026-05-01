@@ -2,13 +2,15 @@
 title: 摘要：Anthropic被逼急了！亲生龙虾意外曙光，Karpathy：这就是Claude Claw
 type: summary
 tags:
-- 开发工具
+- Agent 协作模式
+- AI 产品
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化, Cursor, Agent, Karpathy, wiki
 source_article_url: ''
-notion_url: https://www.notion.so/c87e6437b70b4f3f99c29ce2360252eb
+notion_url: https://www.notion.so/Tizer/c87e6437b70b4f3f99c29ce2360252eb
 notion_id: c87e6437-b70b-4f3f-99c2-9ce2360252eb
 ---
 

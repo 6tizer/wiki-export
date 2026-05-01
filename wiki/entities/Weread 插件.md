@@ -3,6 +3,8 @@ title: Weread 插件
 type: entity
 tags:
 - 知识管理
+- 笔记工具
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

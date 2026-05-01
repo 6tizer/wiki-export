@@ -1,14 +1,13 @@
 ---
 title: 摘要：设计师们的天塌了，谷歌 Stitch 太疯狂了
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: AI 设计, 行业观察, 产品发布
 source_article_url: ''
-notion_url: https://www.notion.so/74faea77cb56454f9f9e4c4312279548
+notion_url: https://www.notion.so/Tizer/74faea77cb56454f9f9e4c4312279548
 notion_id: 74faea77-cb56-454f-9f9e-4c4312279548
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881ed95aff9341687924f
-notion_url: https://www.notion.so/111af1a9ed5b4e58b924bbd337fc9836
+notion_url: https://www.notion.so/Tizer/111af1a9ed5b4e58b924bbd337fc9836
 notion_id: 111af1a9-ed5b-4e58-b924-bbd337fc9836
 ---
 

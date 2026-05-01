@@ -1,15 +1,13 @@
 ---
 title: 摘要：5 分钟零代码：用 Railway 把 Claude 接入 Telegram，打造你的 Crypto 私人助理
 type: summary
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b68810680cbf82c8e1681d4
-notion_url: https://www.notion.so/1e9495a01c4c4c8eb8f75d0d44cac7ce
+notion_url: https://www.notion.so/Tizer/1e9495a01c4c4c8eb8f75d0d44cac7ce
 notion_id: 1e9495a0-1c4c-4c8e-b8f7-5d0d44cac7ce
 ---
 

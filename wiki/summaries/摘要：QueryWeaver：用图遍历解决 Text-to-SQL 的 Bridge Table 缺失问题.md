@@ -1,15 +1,13 @@
 ---
 title: 摘要：QueryWeaver：用图遍历解决 Text-to-SQL 的 Bridge Table 缺失问题
 type: summary
-tags:
-- 开发工具
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: LLM, Agent, 开源, GitHub
 source_article_url: https://www.notion.so/34b701074b688155861dc1a631df677f
-notion_url: https://www.notion.so/4f1dc9e34b37492da2c1fccd9fcc6f0d
+notion_url: https://www.notion.so/Tizer/4f1dc9e34b37492da2c1fccd9fcc6f0d
 notion_id: 4f1dc9e3-4b37-492d-a2c1-fccd9fcc6f0d
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：用 Rust 重写的 Claw Code ,已经178K Star !有些东西看了后，睡不着觉
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68819c94a8cfe85c7d1ba6
-notion_url: https://www.notion.so/c6252fb5cdef43c7a72db42c8830d7e4
+notion_url: https://www.notion.so/Tizer/c6252fb5cdef43c7a72db42c8830d7e4
 notion_id: c6252fb5-cdef-43c7-a72d-b42c8830d7e4
 ---
 

@@ -2,13 +2,19 @@
 title: 摘要：Crypto 的原住民终于来了：写给 Agent 时代的终局思考
 type: summary
 tags:
-- Crypto/DeFi
+- Agent 协作模式
+- 加密资产
+- 链上协议
+- 商业/生态
+- 多Agent协作
+- 身份准入
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/310b84919c4f4110a0476958ada35423
+notion_url: https://www.notion.so/Tizer/310b84919c4f4110a0476958ada35423
 notion_id: 310b8491-9c4f-4110-a047-6958ada35423
 ---
 

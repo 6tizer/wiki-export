@@ -1,14 +1,13 @@
 ---
 title: 摘要：Skills Hub ——统一管理多 AI 工具 Skill 文件的桌面应用
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/c12b7d79aacd493e8e1c32ca42b14098
+notion_url: https://www.notion.so/Tizer/c12b7d79aacd493e8e1c32ca42b14098
 notion_id: c12b7d79-aacd-493e-8e1c-32ca42b14098
 ---
 

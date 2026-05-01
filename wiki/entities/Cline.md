@@ -2,7 +2,9 @@
 title: Cline
 type: entity
 tags:
-- Coding Agent
+- IDE 集成
+- 代码生成
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

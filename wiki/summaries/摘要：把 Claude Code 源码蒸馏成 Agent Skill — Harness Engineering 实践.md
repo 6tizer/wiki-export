@@ -2,13 +2,15 @@
 title: 摘要：把 Claude Code 源码蒸馏成 Agent Skill — Harness Engineering 实践
 type: summary
 tags:
-- 开发工具
+- 多Agent协作
+- Harness 工程
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/258796200cb5454ca9de5c2129931c5c
+notion_url: https://www.notion.so/Tizer/258796200cb5454ca9de5c2129931c5c
 notion_id: 25879620-0cb5-454c-a9de-5c2129931c5c
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：LangChain创始人Harrison Chase这篇，直接点透了现在所有AI Agent的核心问题。
 type: summary
-tags:
-- Agent 编排
-- 记忆系统
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b688148bc7ad69e84da6a53
-notion_url: https://www.notion.so/0dacc8db99694b439f001561801b6e72
+notion_url: https://www.notion.so/Tizer/0dacc8db99694b439f001561801b6e72
 notion_id: 0dacc8db-9969-4b43-9f00-1561801b6e72
 ---
 

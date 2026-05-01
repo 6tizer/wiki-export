@@ -2,14 +2,16 @@
 title: 摘要：SwarmClaw：从管理一个 AI 助手到指挥一支 AI 团队
 type: summary
 tags:
+- 商业/生态
+- 多Agent协作
 - OpenClaw
-- Agent 编排
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b688138b664d3b05c173418
-notion_url: https://www.notion.so/0bb00b47b9ae470abbe6d9c8fa99db63
+notion_url: https://www.notion.so/Tizer/0bb00b47b9ae470abbe6d9c8fa99db63
 notion_id: 0bb00b47-b9ae-470a-bbe6-d9c8fa99db63
 ---
 

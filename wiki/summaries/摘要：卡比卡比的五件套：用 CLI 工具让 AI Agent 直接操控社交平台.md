@@ -2,14 +2,15 @@
 title: 摘要：卡比卡比的五件套：用 CLI 工具让 AI Agent 直接操控社交平台
 type: summary
 tags:
-- 开发工具
-- 内容创作
+- 社交媒体
+- CLI 工具
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, OpenClaw
 source_article_url: ''
-notion_url: https://www.notion.so/5929bb8d553b462292ce2cd351077117
+notion_url: https://www.notion.so/Tizer/5929bb8d553b462292ce2cd351077117
 notion_id: 5929bb8d-553b-4622-92ce-2cd351077117
 ---
 

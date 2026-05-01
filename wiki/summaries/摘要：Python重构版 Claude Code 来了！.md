@@ -1,14 +1,13 @@
 ---
 title: 摘要：Python重构版 Claude Code 来了！
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/bebf245e06b3401899b954ae7b19c09b
+notion_url: https://www.notion.so/Tizer/bebf245e06b3401899b954ae7b19c09b
 notion_id: bebf245e-06b3-4018-99b9-54ae7b19c09b
 ---
 

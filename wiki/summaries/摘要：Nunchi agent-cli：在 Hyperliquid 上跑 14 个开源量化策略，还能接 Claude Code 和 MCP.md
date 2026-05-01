@@ -2,14 +2,16 @@
 title: 摘要：Nunchi agent-cli：在 Hyperliquid 上跑 14 个开源量化策略，还能接 Claude Code 和 MCP
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 量化交易
+- MCP 协议
+- CLI 工具
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b688173ae8fd0ec5533d44d
-notion_url: https://www.notion.so/35ac4a6b80834d2f8ec434d628e92088
+notion_url: https://www.notion.so/Tizer/35ac4a6b80834d2f8ec434d628e92088
 notion_id: 35ac4a6b-8083-4d2f-8ec4-34d628e92088
 ---
 

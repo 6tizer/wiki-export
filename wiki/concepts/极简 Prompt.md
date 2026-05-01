@@ -1,9 +1,7 @@
 ---
 title: 极简 Prompt
 type: concept
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

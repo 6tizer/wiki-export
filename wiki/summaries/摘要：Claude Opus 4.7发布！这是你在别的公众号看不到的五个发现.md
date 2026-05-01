@@ -1,15 +1,13 @@
 ---
 title: 摘要：Claude Opus 4.7发布！这是你在别的公众号看不到的五个发现
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881b7bda7f4d8d8886167
-notion_url: https://www.notion.so/f995026dfb2d41c5aebe7dd5dca29119
+notion_url: https://www.notion.so/Tizer/f995026dfb2d41c5aebe7dd5dca29119
 notion_id: f995026d-fb2d-41c5-aebe-7dd5dca29119
 ---
 

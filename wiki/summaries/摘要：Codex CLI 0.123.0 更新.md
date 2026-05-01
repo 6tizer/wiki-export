@@ -1,15 +1,13 @@
 ---
 title: 摘要：Codex CLI 0.123.0 更新
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68818faf49efe9a480fbb4
-notion_url: https://www.notion.so/ac0bb3212bc64a7fa82f77fd77e33836
+notion_url: https://www.notion.so/Tizer/ac0bb3212bc64a7fa82f77fd77e33836
 notion_id: ac0bb321-2bc6-4a7f-a82f-77fd77e33836
 ---
 

@@ -2,14 +2,15 @@
 title: 摘要：用 Claude 替代彭博终端：10 个提示词让你在家搭建私人量化分析师
 type: summary
 tags:
-- LLM
-- 工作流
+- 量化交易
+- 提示工程
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/02e499ec2011481db445a4f14df82d96
+notion_url: https://www.notion.so/Tizer/02e499ec2011481db445a4f14df82d96
 notion_id: 02e499ec-2011-481d-b445-a4f14df82d96
 ---
 

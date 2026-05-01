@@ -1,15 +1,13 @@
 ---
 title: ultrathink
 type: concept
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/c5fcece160c44811a8c2377d958322f5
+notion_url: https://www.notion.so/Tizer/c5fcece160c44811a8c2377d958322f5
 notion_id: c5fcece1-60c4-4811-a8c2-377d958322f5
 ---
 

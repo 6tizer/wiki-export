@@ -2,14 +2,15 @@
 title: 摘要：Cloudflare /crawl：一个 API 调用爬取整个网站，AI Agent 的基础设施革命
 type: summary
 tags:
-- Agent 技能
-- 开发工具
+- 浏览器自动化
+- RAG/检索
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/2d748ec2587e416a8fcc3d0e2fb43fd8
+notion_url: https://www.notion.so/Tizer/2d748ec2587e416a8fcc3d0e2fb43fd8
 notion_id: 2d748ec2-587e-416a-8fcc-3d0e2fb43fd8
 ---
 

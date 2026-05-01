@@ -1,15 +1,13 @@
 ---
 title: 摘要：从"人肉路由"到 Agent 网络——AI Native 组织的构想
 type: summary
-tags:
-- Agent 编排
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881acbb66faecb682c443
-notion_url: https://www.notion.so/1bf5d61eb1d04bff8abed2289418c20c
+notion_url: https://www.notion.so/Tizer/1bf5d61eb1d04bff8abed2289418c20c
 notion_id: 1bf5d61e-b1d0-4bff-8abe-d2289418c20c
 ---
 

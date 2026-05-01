@@ -2,7 +2,9 @@
 title: WALL-B
 type: entity
 tags:
-- LLM
+- 多模态
+- AI 设计
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

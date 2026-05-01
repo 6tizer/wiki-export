@@ -1,14 +1,13 @@
 ---
 title: GraphWalks BFS
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4cd2ccb2746742e09e5805554cc6bcdf
+notion_url: https://www.notion.so/Tizer/4cd2ccb2746742e09e5805554cc6bcdf
 notion_id: 4cd2ccb2-7467-42e0-9e58-05554cc6bcdf
 ---
 

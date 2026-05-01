@@ -2,7 +2,6 @@
 title: Antigravity
 type: entity
 tags:
-- Agent 框架
 - Harness 工程
 - AI 产品
 status: 审核中
@@ -10,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7d938edf987b4f78b355daa50cc78fcf
+notion_url: https://www.notion.so/Tizer/7d938edf987b4f78b355daa50cc78fcf
 notion_id: 7d938edf-987b-4f78-b355-daa50cc78fcf
 ---
 

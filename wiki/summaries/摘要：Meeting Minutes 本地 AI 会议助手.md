@@ -2,14 +2,15 @@
 title: 摘要：Meeting Minutes 本地 AI 会议助手
 type: summary
 tags:
-- LLM
-- 开发工具
+- 知识管理
+- RAG/检索
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/8f632cead0eb4b0486ca265499135328
+notion_url: https://www.notion.so/Tizer/8f632cead0eb4b0486ca265499135328
 notion_id: 8f632cea-d0eb-4b04-86ca-265499135328
 ---
 

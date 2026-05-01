@@ -2,15 +2,13 @@
 title: 摘要：Had no idea but there is a lot of simultaneous discovery in agentic engineering
   these days
 type: summary
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881b9af47f9c67d5d6449
-notion_url: https://www.notion.so/505ea37a89b2455ab6bffa851391a23d
+notion_url: https://www.notion.so/Tizer/505ea37a89b2455ab6bffa851391a23d
 notion_id: 505ea37a-89b2-455a-b6bf-fa851391a23d
 ---
 

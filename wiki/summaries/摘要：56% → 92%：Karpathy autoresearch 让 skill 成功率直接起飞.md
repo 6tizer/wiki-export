@@ -2,14 +2,15 @@
 title: 摘要：56% → 92%：Karpathy autoresearch 让 skill 成功率直接起飞
 type: summary
 tags:
-- 工作流
-- 开发工具
+- Agent 协作模式
+- 训练/微调
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Skill 开发, Agent, 开源项目
 source_article_url: ''
-notion_url: https://www.notion.so/1b66b96fa0444d6fa10de49a27149189
+notion_url: https://www.notion.so/Tizer/1b66b96fa0444d6fa10de49a27149189
 notion_id: 1b66b96f-a044-4d6f-a10d-e49a27149189
 ---
 

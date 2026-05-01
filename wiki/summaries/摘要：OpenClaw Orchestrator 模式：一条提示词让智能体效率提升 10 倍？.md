@@ -2,14 +2,15 @@
 title: 摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？
 type: summary
 tags:
-- Agent 编排
 - OpenClaw
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/bb4744b7f2b94501aaac1a3fa4bc47c1
+notion_url: https://www.notion.so/Tizer/bb4744b7f2b94501aaac1a3fa4bc47c1
 notion_id: bb4744b7-f2b9-4501-aaac-1a3fa4bc47c1
 ---
 

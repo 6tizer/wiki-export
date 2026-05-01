@@ -2,14 +2,15 @@
 title: 摘要：bb-browser：用你真实的 Chrome 登录态，把整个互联网变成 AI Agent 的 CLI
 type: summary
 tags:
-- 开发工具
-- Agent 技能
+- 浏览器自动化
+- CLI 工具
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化
 source_article_url: https://www.notion.so/335701074b688181811ce011fc5c0f72
-notion_url: https://www.notion.so/9ca1ef5995fc4489a673388c303b296a
+notion_url: https://www.notion.so/Tizer/9ca1ef5995fc4489a673388c303b296a
 notion_id: 9ca1ef59-95fc-4489-a673-388c303b296a
 ---
 

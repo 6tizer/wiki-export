@@ -2,13 +2,15 @@
 title: 摘要：mcp-use——Agent MCP 服务全栈开发框架
 type: summary
 tags:
-- 开发工具
+- MCP 协议
+- 商业/生态
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/469ae51f5e734c2ea1fa45d6c48ed05f
+notion_url: https://www.notion.so/Tizer/469ae51f5e734c2ea1fa45d6c48ed05f
 notion_id: 469ae51f-5e73-4c2e-a1fa-45d6c48ed05f
 ---
 

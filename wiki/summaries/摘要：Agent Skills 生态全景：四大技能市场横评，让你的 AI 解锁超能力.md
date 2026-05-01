@@ -2,14 +2,13 @@
 title: 摘要：Agent Skills 生态全景：四大技能市场横评，让你的 AI 解锁超能力
 type: summary
 tags:
-- Agent 技能
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/a4827382c4534d89accea0176c907512
+notion_url: https://www.notion.so/Tizer/a4827382c4534d89accea0176c907512
 notion_id: a4827382-c453-4d89-acce-a0176c907512
 ---
 

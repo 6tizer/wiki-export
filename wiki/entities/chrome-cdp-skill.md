@@ -2,8 +2,9 @@
 title: chrome-cdp-skill
 type: entity
 tags:
-- Agent 技能
-- Coding Agent
+- 浏览器自动化
+- Agent 协作模式
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

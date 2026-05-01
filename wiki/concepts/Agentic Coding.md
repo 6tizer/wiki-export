@@ -2,10 +2,7 @@
 title: Agentic Coding
 type: concept
 tags:
-- Coding Agent
-- 工作流
 - 代码生成
-- Agent 编排
 - 上下文管理
 status: 审核中
 confidence: high

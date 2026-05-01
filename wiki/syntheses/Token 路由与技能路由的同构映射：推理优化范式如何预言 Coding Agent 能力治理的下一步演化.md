@@ -2,9 +2,6 @@
 title: Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化
 type: synthesis
 tags:
-- Agent 技能
-- Coding Agent
-- Agent 编排
 - 推理优化
 status: 已审核
 confidence: high

@@ -1,14 +1,13 @@
 ---
 title: Agent-curated memory
 type: concept
-tags:
-- 记忆系统
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ed9bdd7147f54f2ab36a0eebf67d4f71
+notion_url: https://www.notion.so/Tizer/ed9bdd7147f54f2ab36a0eebf67d4f71
 notion_id: ed9bdd71-47f5-4f2a-b36a-0eebf67d4f71
 ---
 

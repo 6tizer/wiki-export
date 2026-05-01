@@ -1,15 +1,13 @@
 ---
 title: 摘要：刚刚！OpenAI 凌晨甩出 Workspace Agents：一句话，给整个团队造一个 Agent
 type: summary
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881f186ecf346476711c9
-notion_url: https://www.notion.so/50a0dc9c24264b64be48fbffd0aadb04
+notion_url: https://www.notion.so/Tizer/50a0dc9c24264b64be48fbffd0aadb04
 notion_id: 50a0dc9c-2426-4b64-be48-fbffd0aadb04
 ---
 

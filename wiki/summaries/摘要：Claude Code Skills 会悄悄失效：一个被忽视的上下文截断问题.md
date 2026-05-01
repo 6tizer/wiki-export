@@ -9,7 +9,7 @@ confidence: high
 last_compiled: '2026-04-23'
 source_tags: Agent, OpenClaw, Claude, Hooks, skills
 source_article_url: https://www.notion.so/34b701074b6881c0aaf1c759991d81a4
-notion_url: https://www.notion.so/6a2571643d0e46c6bd413851c89354b1
+notion_url: https://www.notion.so/Tizer/6a2571643d0e46c6bd413851c89354b1
 notion_id: 6a257164-3d0e-46c6-bd41-3851c89354b1
 ---
 

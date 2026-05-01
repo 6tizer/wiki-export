@@ -2,13 +2,14 @@
 title: 摘要：MiniMax 开源 Office Skills：AI 生成文档，如何从「能打开」到「能交付」
 type: summary
 tags:
-- 开发工具
+- 内容自动化
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Office, 开源工具
 source_article_url: ''
-notion_url: https://www.notion.so/98504dfbae234f928a0df1f3fe7bb93c
+notion_url: https://www.notion.so/Tizer/98504dfbae234f928a0df1f3fe7bb93c
 notion_id: 98504dfb-ae23-4f92-8a0d-f1f3fe7bb93c
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：OpenAI 开源 Symphony！四天狂揽 8.7K Star，AI 编程自主管理神器！
 type: summary
 tags:
-- 开发工具
+- 代码生成
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Coding Agent, 开源项目, Multi-Agent
 source_article_url: ''
-notion_url: https://www.notion.so/a0071d75d92748aa92c29fbaf2439c90
+notion_url: https://www.notion.so/Tizer/a0071d75d92748aa92c29fbaf2439c90
 notion_id: a0071d75-d927-48aa-92c2-9fbaf2439c90
 ---
 
@@ -28,7 +30,7 @@ notion_id: a0071d75-d927-48aa-92c2-9fbaf2439c90
 
 **提取的概念**
 
-- [Symphony](concepts/Symphony.md)
+- [Symphony](entities/Symphony.md)
 
 **原始文章信息**
 

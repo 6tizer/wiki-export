@@ -2,14 +2,13 @@
 title: 摘要：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？
 type: summary
 tags:
-- Coding Agent
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688148867aeb99aa691c21
-notion_url: https://www.notion.so/283af1d854854d79bbd92d10f7db37ed
+notion_url: https://www.notion.so/Tizer/283af1d854854d79bbd92d10f7db37ed
 notion_id: 283af1d8-5485-4d79-bbd9-2d10f7db37ed
 ---
 

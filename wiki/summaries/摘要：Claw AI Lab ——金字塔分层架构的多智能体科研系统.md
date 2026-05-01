@@ -2,13 +2,15 @@
 title: 摘要：Claw AI Lab ——金字塔分层架构的多智能体科研系统
 type: summary
 tags:
-- 工作流
+- 多Agent协作
+- Harness 工程
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/16fb2bfadcb743a6867af43f9fed67ce
+notion_url: https://www.notion.so/Tizer/16fb2bfadcb743a6867af43f9fed67ce
 notion_id: 16fb2bfa-dcb7-43a6-867a-f43f9fed67ce
 ---
 

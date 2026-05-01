@@ -2,10 +2,8 @@
 title: xiaohongshu-skills
 type: entity
 tags:
-- Agent 技能
 - 浏览器自动化
 - OpenClaw
-- 内容创作
 - AI 产品
 status: 审核中
 confidence: high

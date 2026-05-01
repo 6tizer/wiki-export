@@ -2,14 +2,16 @@
 title: 摘要：xiaohongshu-skills：让 AI Agent 真正「操控」小红书的 CDP 自动化方案
 type: summary
 tags:
-- Agent 技能
-- 内容创作
+- 社交媒体
+- 内容自动化
+- 浏览器自动化
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/3f0e0e10bd59498b8a5ff7d7fd8b8c54
+notion_url: https://www.notion.so/Tizer/3f0e0e10bd59498b8a5ff7d7fd8b8c54
 notion_id: 3f0e0e10-bd59-498b-8a5f-f7d7fd8b8c54
 ---
 

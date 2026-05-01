@@ -2,8 +2,9 @@
 title: Text-to-SQL
 type: concept
 tags:
-- 开发工具
-- LLM
+- 知识管理
+- 商业/生态
+- 推理优化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Velocity Card
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881e89e6ae7ebf46f2e3b
-notion_url: https://www.notion.so/8a22d44314a0419ba0a79fb828b390a8
+notion_url: https://www.notion.so/Tizer/8a22d44314a0419ba0a79fb828b390a8
 notion_id: 8a22d443-14a0-419b-a0a7-9fb828b390a8
 ---
 

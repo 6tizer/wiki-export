@@ -2,14 +2,16 @@
 title: 摘要：last30days-skill：让 Claude Code 变成全网情报分析师
 type: summary
 tags:
-- LLM
+- 内容自动化
+- 浏览器自动化
+- 多Agent协作
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, Cursor, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/74b5a90f769c42cb8b1908d9f01ea9d9
+notion_url: https://www.notion.so/Tizer/74b5a90f769c42cb8b1908d9f01ea9d9
 notion_id: 74b5a90f-769c-42cb-8b19-08d9f01ea9d9
 ---
 

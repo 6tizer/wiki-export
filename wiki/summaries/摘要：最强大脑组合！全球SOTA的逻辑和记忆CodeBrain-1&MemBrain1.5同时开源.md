@@ -1,14 +1,13 @@
 ---
 title: 摘要：最强大脑组合！全球SOTA的逻辑和记忆CodeBrain-1&MemBrain1.5同时开源
 type: summary
-tags:
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/715659112e52406ebccc2cb9de3f908c
+notion_url: https://www.notion.so/Tizer/715659112e52406ebccc2cb9de3f908c
 notion_id: 71565911-2e52-406e-bccc-2cb9de3f908c
 ---
 

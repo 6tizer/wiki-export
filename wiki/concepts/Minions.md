@@ -2,7 +2,6 @@
 title: Minions
 type: concept
 tags:
-- Agent 编排
 - OpenClaw
 status: 审核中
 confidence: high

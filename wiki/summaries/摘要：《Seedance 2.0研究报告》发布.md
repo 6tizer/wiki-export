@@ -2,14 +2,13 @@
 title: 摘要：《Seedance 2.0研究报告》发布
 type: summary
 tags:
-- 内容创作
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881d5ba29c1cdc6dc7757
-notion_url: https://www.notion.so/e7d0eacbcfc440448b82298accdd0eca
+notion_url: https://www.notion.so/Tizer/e7d0eacbcfc440448b82298accdd0eca
 notion_id: e7d0eacb-cfc4-4044-8b82-298accdd0eca
 ---
 

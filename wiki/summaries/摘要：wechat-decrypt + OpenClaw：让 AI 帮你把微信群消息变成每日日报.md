@@ -2,14 +2,15 @@
 title: 摘要：wechat-decrypt + OpenClaw：让 AI 帮你把微信群消息变成每日日报
 type: summary
 tags:
+- 社交媒体
+- MCP 协议
 - OpenClaw
-- 工作流
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化, Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/4033f309564443b597eb877cf7cbb595
+notion_url: https://www.notion.so/Tizer/4033f309564443b597eb877cf7cbb595
 notion_id: 4033f309-5644-43b5-97eb-877cf7cbb595
 ---
 

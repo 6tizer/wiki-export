@@ -1,9 +1,7 @@
 ---
 title: Coordinator 技能
 type: concept
-tags:
-- Agent 编排
-- Agent 技能
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-30'

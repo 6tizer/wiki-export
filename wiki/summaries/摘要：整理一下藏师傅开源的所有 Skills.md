@@ -3,13 +3,12 @@ title: 摘要：整理一下藏师傅开源的所有 Skills
 type: summary
 tags:
 - OpenClaw
-- 开发工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/d8321e93c1c64e8d94948c5d36e5dbe5
+notion_url: https://www.notion.so/Tizer/d8321e93c1c64e8d94948c5d36e5dbe5
 notion_id: d8321e93-c1c6-4e8d-9494-8c5d36e5dbe5
 ---
 

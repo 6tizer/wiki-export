@@ -2,14 +2,15 @@
 title: 摘要：Claude Code 国内跑通指南：用阿里百炼 API，几十块钱进入 AI Agent 实战
 type: summary
 tags:
-- 开发工具
-- LLM
+- 代码生成
+- Agent 协作模式
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/d4240d860e104ac4b1856c0d3fe48743
+notion_url: https://www.notion.so/Tizer/d4240d860e104ac4b1856c0d3fe48743
 notion_id: d4240d86-0e10-4ac4-b185-6c0d3fe48743
 ---
 

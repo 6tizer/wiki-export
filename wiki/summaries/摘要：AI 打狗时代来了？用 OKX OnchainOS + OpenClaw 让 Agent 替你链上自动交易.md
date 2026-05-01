@@ -2,14 +2,15 @@
 title: 摘要：AI 打狗时代来了？用 OKX OnchainOS + OpenClaw 让 Agent 替你链上自动交易
 type: summary
 tags:
-- Crypto/DeFi
+- 量化交易
+- 加密资产
 - OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b688158b2f6fe2c07d07893
-notion_url: https://www.notion.so/a781433cc1c04dbea41c249f44a0b7b4
+notion_url: https://www.notion.so/Tizer/a781433cc1c04dbea41c249f44a0b7b4
 notion_id: a781433c-c1c0-4dbe-a41c-249f44a0b7b4
 ---
 
@@ -29,7 +30,7 @@ notion_id: a781433c-c1c0-4dbe-a41c-249f44a0b7b4
 
 ### 提取的概念
 
-- [OKX OnchainOS](concepts/OKX OnchainOS.md)
+- [OKX OnchainOS](entities/OKX OnchainOS.md)
 
 - [OpenClaw](entities/OpenClaw.md)
 

@@ -1,14 +1,13 @@
 ---
 title: 无 NMS 端到端检测架构
 type: concept
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b9b92ef957aa478bb5b8e1d0eac0c1c7
+notion_url: https://www.notion.so/Tizer/b9b92ef957aa478bb5b8e1d0eac0c1c7
 notion_id: b9b92ef9-57aa-478b-b5b8-e1d0eac0c1c7
 ---
 

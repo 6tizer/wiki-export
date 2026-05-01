@@ -1,9 +1,7 @@
 ---
 title: Pimlico
 type: entity
-tags:
-- Crypto/DeFi
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

@@ -2,13 +2,15 @@
 title: 摘要：OpenViking：字节跳动用「文件系统范式」重构 Agent 记忆，终结扁平 RAG 时代
 type: summary
 tags:
-- 记忆系统
+- 长期记忆
+- RAG/检索
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/10c5c24daa954be39a60b05daab997df
+notion_url: https://www.notion.so/Tizer/10c5c24daa954be39a60b05daab997df
 notion_id: 10c5c24d-aa95-4be3-9a60-b05daab997df
 ---
 

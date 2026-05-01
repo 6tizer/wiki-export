@@ -1,15 +1,13 @@
 ---
 title: Abliteration
 type: concept
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/aee606cb98904863aa3764d0da0d3d02
+notion_url: https://www.notion.so/Tizer/aee606cb98904863aa3764d0da0d3d02
 notion_id: aee606cb-9890-4863-aa37-64d0da0d3d02
 ---
 

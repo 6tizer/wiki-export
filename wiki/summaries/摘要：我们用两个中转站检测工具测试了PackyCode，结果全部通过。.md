@@ -1,15 +1,13 @@
 ---
 title: 摘要：我们用两个中转站检测工具测试了PackyCode，结果全部通过。
 type: summary
-tags:
-- Coding Agent
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881a7812ed178847feaa1
-notion_url: https://www.notion.so/66731ac903264b1a9e86de81305eade1
+notion_url: https://www.notion.so/Tizer/66731ac903264b1a9e86de81305eade1
 notion_id: 66731ac9-0326-4b1a-9e86-de81305eade1
 ---
 

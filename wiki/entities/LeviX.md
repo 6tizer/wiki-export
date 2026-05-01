@@ -1,15 +1,13 @@
 ---
 title: LeviX
 type: entity
-tags:
-- Crypto/DeFi
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/22d0525fb05441be802678991bf48df0
+notion_url: https://www.notion.so/Tizer/22d0525fb05441be802678991bf48df0
 notion_id: 22d0525f-b054-41be-8026-78991bf48df0
 ---
 

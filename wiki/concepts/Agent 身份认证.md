@@ -2,7 +2,6 @@
 title: Agent 身份认证
 type: concept
 tags:
-- 安全/隐私
 - 商业/生态
 status: 审核中
 confidence: medium

@@ -1,14 +1,13 @@
 ---
 title: WSL2
 type: entity
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/99050fdebd084280964d6f90e4f88611
+notion_url: https://www.notion.so/Tizer/99050fdebd084280964d6f90e4f88611
 notion_id: 99050fde-bd08-4280-964d-6f90e4f88611
 ---
 

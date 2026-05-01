@@ -2,14 +2,13 @@
 title: 摘要：用 50 行 Python 跑通 Google A2A 协议：Hermes + OpenClaw 的多 Agent 互联实践
 type: summary
 tags:
-- Agent 编排
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/33e701074b6881f480a4faff6046be1e
-notion_url: https://www.notion.so/7f8d339d43a840acb761b5dc3b8bfeb5
+notion_url: https://www.notion.so/Tizer/7f8d339d43a840acb761b5dc3b8bfeb5
 notion_id: 7f8d339d-43a8-40ac-b761-b5dc3b8bfeb5
 ---
 

@@ -3,7 +3,10 @@ title: AI Token
 type: concept
 tags:
 - 商业/生态
-- Crypto/DeFi
+- AI 设计
+- 加密资产
+- 内容自动化
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

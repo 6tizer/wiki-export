@@ -1,15 +1,13 @@
 ---
 title: Compaction
 type: concept
-tags:
-- LLM
-- 记忆系统
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/db4d6197c3984185bb0c7d8ec325a815
+notion_url: https://www.notion.so/Tizer/db4d6197c3984185bb0c7d8ec325a815
 notion_id: db4d6197-c398-4185-bb0c-7d8ec325a815
 ---
 

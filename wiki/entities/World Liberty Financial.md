@@ -2,14 +2,13 @@
 title: World Liberty Financial
 type: entity
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6f1bc9ca5b36497faaa477f1fbdebc43
+notion_url: https://www.notion.so/Tizer/6f1bc9ca5b36497faaa477f1fbdebc43
 notion_id: 6f1bc9ca-5b36-497f-aaa4-77f1fbdebc43
 ---
 

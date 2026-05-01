@@ -2,8 +2,9 @@
 title: Expert parallelism
 type: concept
 tags:
-- LLM
 - 推理优化
+- 模型评测
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

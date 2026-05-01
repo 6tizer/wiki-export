@@ -2,14 +2,13 @@
 title: 摘要：Claude Code 更新又遭泄露，Cursor 们的好日子到头了
 type: summary
 tags:
-- Coding Agent
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b68810ab928c1175f13ada8
-notion_url: https://www.notion.so/9d9b3d7d398b4de69970ede7c533940c
+notion_url: https://www.notion.so/Tizer/9d9b3d7d398b4de69970ede7c533940c
 notion_id: 9d9b3d7d-398b-4de6-9970-ede7c533940c
 ---
 

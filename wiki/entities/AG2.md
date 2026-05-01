@@ -1,9 +1,7 @@
 ---
 title: AG2
 type: entity
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

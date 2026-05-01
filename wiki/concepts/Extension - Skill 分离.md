@@ -1,15 +1,13 @@
 ---
 title: Extension / Skill 分离
 type: concept
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f744898cf33044db960d20c1491f2da4
+notion_url: https://www.notion.so/Tizer/f744898cf33044db960d20c1491f2da4
 notion_id: f744898c-f330-44db-960d-20c1491f2da4
 ---
 

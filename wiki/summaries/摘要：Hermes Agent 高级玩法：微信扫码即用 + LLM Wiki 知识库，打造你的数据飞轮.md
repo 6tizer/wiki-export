@@ -2,14 +2,13 @@
 title: 摘要：Hermes Agent 高级玩法：微信扫码即用 + LLM Wiki 知识库，打造你的数据飞轮
 type: summary
 tags:
-- Agent 框架
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b6881a3bb7eeb374f5dbaef
-notion_url: https://www.notion.so/7703c90fb35840059eec33785b8df100
+notion_url: https://www.notion.so/Tizer/7703c90fb35840059eec33785b8df100
 notion_id: 7703c90f-b358-4005-9eec-33785b8df100
 ---
 

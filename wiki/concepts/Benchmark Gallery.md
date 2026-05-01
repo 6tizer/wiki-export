@@ -2,14 +2,15 @@
 title: Benchmark Gallery
 type: concept
 tags:
-- LLM
-- 开发工具
+- 模型评测
+- 知识管理
+- 商业/生态
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4df1192ab7ac40059233489ff416f148
+notion_url: https://www.notion.so/Tizer/4df1192ab7ac40059233489ff416f148
 notion_id: 4df1192a-b7ac-4005-9233-489ff416f148
 ---
 

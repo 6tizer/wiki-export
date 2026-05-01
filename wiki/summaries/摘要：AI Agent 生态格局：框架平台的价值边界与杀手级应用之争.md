@@ -2,13 +2,14 @@
 title: 摘要：AI Agent 生态格局：框架平台的价值边界与杀手级应用之争
 type: summary
 tags:
-- Agent 框架
+- 商业/生态
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/7ba2482a4f5948a28d1542465c6e95e7
+notion_url: https://www.notion.so/Tizer/7ba2482a4f5948a28d1542465c6e95e7
 notion_id: 7ba2482a-4f59-48a2-8d15-42465c6e95e7
 ---
 

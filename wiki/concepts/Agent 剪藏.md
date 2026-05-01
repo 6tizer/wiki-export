@@ -2,14 +2,13 @@
 title: Agent 剪藏
 type: concept
 tags:
-- Agent 技能
 - 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/aa560aba90674bd49c9187b6d6106a86
+notion_url: https://www.notion.so/Tizer/aa560aba90674bd49c9187b6d6106a86
 notion_id: aa560aba-9067-4bd4-9c91-87b6d6106a86
 ---
 

@@ -2,14 +2,14 @@
 title: 画布式 Agent 编排
 type: concept
 tags:
-- Agent 编排
-- Agent 框架
+- 多Agent协作
+- Agent 协作模式
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3d446411720e453aba67bc0feab0bdfc
+notion_url: https://www.notion.so/Tizer/3d446411720e453aba67bc0feab0bdfc
 notion_id: 3d446411-720e-453a-ba67-bc0feab0bdfc
 ---
 

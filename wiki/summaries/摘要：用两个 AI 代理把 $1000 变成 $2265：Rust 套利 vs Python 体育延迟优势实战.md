@@ -2,13 +2,15 @@
 title: 摘要：用两个 AI 代理把 $1000 变成 $2265：Rust 套利 vs Python 体育延迟优势实战
 type: summary
 tags:
-- Crypto/DeFi
+- 量化交易
+- Agent 协作模式
+- 多Agent协作
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/7a780ca75ac646e7a8fcea370e3a24b6
+notion_url: https://www.notion.so/Tizer/7a780ca75ac646e7a8fcea370e3a24b6
 notion_id: 7a780ca7-5ac6-46e7-a8fc-ea370e3a24b6
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: 摘要：All Platforms, One Memory
 type: summary
-tags:
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881c79b97c8aba9abdf11
-notion_url: https://www.notion.so/0dc95d8924ae4ec7bbe309a06cd6a75b
+notion_url: https://www.notion.so/Tizer/0dc95d8924ae4ec7bbe309a06cd6a75b
 notion_id: 0dc95d89-24ae-4ec7-bbe3-09a06cd6a75b
 ---
 

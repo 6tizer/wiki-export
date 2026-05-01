@@ -2,14 +2,18 @@
 title: agent-cli
 type: entity
 tags:
-- Crypto/DeFi
-- Agent 技能
+- CLI 工具
+- 量化交易
+- MCP 协议
+- OpenClaw
+- 链上协议
+- 加密资产
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f52c7373fb6a4dcb80245790335878d9
+notion_url: https://www.notion.so/Tizer/f52c7373fb6a4dcb80245790335878d9
 notion_id: f52c7373-fb6a-4dcb-8024-5790335878d9
 ---
 

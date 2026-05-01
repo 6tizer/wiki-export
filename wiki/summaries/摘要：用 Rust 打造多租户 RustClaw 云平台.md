@@ -2,13 +2,15 @@
 title: 摘要：用 Rust 打造多租户 RustClaw 云平台
 type: summary
 tags:
-- 开发工具
+- 商业/生态
+- MCP 协议
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/286467e934924cca90c5d548d3f53024
+notion_url: https://www.notion.so/Tizer/286467e934924cca90c5d548d3f53024
 notion_id: 286467e9-3492-4cca-90c5-d548d3f53024
 ---
 

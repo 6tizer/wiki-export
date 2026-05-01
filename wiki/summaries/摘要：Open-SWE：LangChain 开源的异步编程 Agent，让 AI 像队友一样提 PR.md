@@ -1,15 +1,13 @@
 ---
 title: 摘要：Open-SWE：LangChain 开源的异步编程 Agent，让 AI 像队友一样提 PR
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/336701074b6881279adce2a64c015957
-notion_url: https://www.notion.so/0a4971b1ecc0420db5cffac80335a59e
+notion_url: https://www.notion.so/Tizer/0a4971b1ecc0420db5cffac80335a59e
 notion_id: 0a4971b1-ecc0-420d-b5cf-fac80335a59e
 ---
 

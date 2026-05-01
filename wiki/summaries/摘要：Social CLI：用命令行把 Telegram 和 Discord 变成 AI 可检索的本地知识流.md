@@ -2,14 +2,15 @@
 title: 摘要：Social CLI：用命令行把 Telegram 和 Discord 变成 AI 可检索的本地知识流
 type: summary
 tags:
-- 知识管理
-- Agent 技能
+- 社交媒体
+- RAG/检索
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: 自动化, Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/82a4d5987569400d829a7be9e4468f64
+notion_url: https://www.notion.so/Tizer/82a4d5987569400d829a7be9e4468f64
 notion_id: 82a4d598-7569-400d-829a-7be9e4468f64
 ---
 
@@ -29,7 +30,7 @@ notion_id: 82a4d598-7569-400d-829a-7be9e4468f64
 
 - [Social CLI](entities/Social CLI.md)
 
-- [MTProto](concepts/MTProto.md)
+- [MTProto](entities/MTProto.md)
 
 - [Telethon](concepts/Telethon.md)
 

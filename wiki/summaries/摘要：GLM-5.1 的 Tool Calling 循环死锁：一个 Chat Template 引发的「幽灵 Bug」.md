@@ -1,15 +1,13 @@
 ---
 title: 摘要：GLM-5.1 的 Tool Calling 循环死锁：一个 Chat Template 引发的「幽灵 Bug」
 type: summary
-tags:
-- LLM
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: LLM, Agent, 开发者工具
 source_article_url: https://www.notion.so/344701074b688122b769d875cbfa7bf4
-notion_url: https://www.notion.so/1faa7a74e28a44c6ad0563fddf001db1
+notion_url: https://www.notion.so/Tizer/1faa7a74e28a44c6ad0563fddf001db1
 notion_id: 1faa7a74-e28a-44c6-ad05-63fddf001db1
 ---
 

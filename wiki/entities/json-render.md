@@ -1,9 +1,7 @@
 ---
 title: json-render
 type: entity
-tags:
-- 开发工具
-- Agent 编排
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

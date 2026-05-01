@@ -2,8 +2,11 @@
 title: API 中转站检测
 type: concept
 tags:
-- 安全/隐私
-- 开发工具
+- 知识管理
+- AI 政策
+- 商业/生态
+- 多Agent协作
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

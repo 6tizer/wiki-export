@@ -10,7 +10,7 @@ confidence: medium
 last_compiled: '2026-04-20'
 source_tags: LLM, Claude, 提示词, Prompt工程
 source_article_url: https://www.notion.so/348701074b6881fc9c44e4b65a80b8ce
-notion_url: https://www.notion.so/a993347f2138481ab9ca4301d9b23ed5
+notion_url: https://www.notion.so/Tizer/a993347f2138481ab9ca4301d9b23ed5
 notion_id: a993347f-2138-481a-b9ca-4301d9b23ed5
 ---
 

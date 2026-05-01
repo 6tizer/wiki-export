@@ -2,14 +2,15 @@
 title: 摘要：LangChain CEO：编程 Agent 正在重塑工程、产品与设计团队的协作方式
 type: summary
 tags:
-- Agent 编排
-- 工作流
+- Agent 协作模式
+- 代码生成
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1b9ce536158b467a8c16826d953ac8b3
+notion_url: https://www.notion.so/Tizer/1b9ce536158b467a8c16826d953ac8b3
 notion_id: 1b9ce536-158b-467a-8c16-826d953ac8b3
 ---
 

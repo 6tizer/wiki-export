@@ -1,14 +1,13 @@
 ---
 title: 终端编程 Agent
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3ebc89cb9d934c26bfcc3b4bd8124d9d
+notion_url: https://www.notion.so/Tizer/3ebc89cb9d934c26bfcc3b4bd8124d9d
 notion_id: 3ebc89cb-9d93-4c26-bfcc-3b4bd8124d9d
 ---
 

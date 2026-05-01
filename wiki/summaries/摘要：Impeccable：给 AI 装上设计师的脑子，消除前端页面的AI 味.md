@@ -1,14 +1,13 @@
 ---
 title: 摘要：Impeccable：给 AI 装上设计师的脑子，消除前端页面的"AI 味"
 type: summary
-tags:
-- 内容创作
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: Cursor, LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/c56217f19d084a7abd7a52cc2aa697b9
+notion_url: https://www.notion.so/Tizer/c56217f19d084a7abd7a52cc2aa697b9
 notion_id: c56217f1-9d08-4a7a-bd7a-52cc2aa697b9
 ---
 

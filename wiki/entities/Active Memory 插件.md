@@ -3,13 +3,12 @@ title: Active Memory 插件
 type: entity
 tags:
 - OpenClaw
-- 记忆系统
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3ed9eaefb9954f5fbfb3886fd6fe9466
+notion_url: https://www.notion.so/Tizer/3ed9eaefb9954f5fbfb3886fd6fe9466
 notion_id: 3ed9eaef-b995-4f5f-bfb3-886fd6fe9466
 ---
 

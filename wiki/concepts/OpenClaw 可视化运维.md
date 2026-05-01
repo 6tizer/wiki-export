@@ -3,7 +3,8 @@ title: OpenClaw 可视化运维
 type: concept
 tags:
 - OpenClaw
-- Agent 协作模式
+- 商业/生态
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

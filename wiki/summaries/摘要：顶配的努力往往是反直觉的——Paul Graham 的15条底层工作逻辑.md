@@ -1,14 +1,13 @@
 ---
 title: 摘要：顶配的努力往往是反直觉的——Paul Graham 的15条底层工作逻辑
 type: summary
-tags:
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/3fe36fe8341f4afeb9a3a6ec2cda751d
+notion_url: https://www.notion.so/Tizer/3fe36fe8341f4afeb9a3a6ec2cda751d
 notion_id: 3fe36fe8-341f-4afe-b9a3-a6ec2cda751d
 ---
 

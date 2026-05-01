@@ -1,14 +1,13 @@
 ---
 title: 摘要：太抽象了，Alice 都来了。MemPalace AI记忆系统
 type: summary
-tags:
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 记忆
 source_article_url: ''
-notion_url: https://www.notion.so/4d8ee340a337481dba94b753ae1a0a02
+notion_url: https://www.notion.so/Tizer/4d8ee340a337481dba94b753ae1a0a02
 notion_id: 4d8ee340-a337-481d-ba94-b753ae1a0a02
 ---
 

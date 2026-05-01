@@ -1,15 +1,13 @@
 ---
 title: 摘要：GPT-Image-2 爆款案例 + 完整提示词（X 高赞合集 · 可复制）
 type: summary
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: LLM, 提示词, Grok, Claude, openai
 source_article_url: https://www.notion.so/34b701074b68811984f7d762a904978d
-notion_url: https://www.notion.so/d7b46525c4df453889ede14ecee98fc4
+notion_url: https://www.notion.so/Tizer/d7b46525c4df453889ede14ecee98fc4
 notion_id: d7b46525-c4df-4538-89ed-e14ecee98fc4
 ---
 

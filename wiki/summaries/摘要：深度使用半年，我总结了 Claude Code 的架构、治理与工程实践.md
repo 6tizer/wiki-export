@@ -2,14 +2,15 @@
 title: 摘要：深度使用半年，我总结了 Claude Code 的架构、治理与工程实践
 type: summary
 tags:
-- Coding Agent
-- Agent 编排
+- Agent 协作模式
+- 上下文管理
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, Cursor, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/8470a30fa1064d1f969113b7a71d85dd
+notion_url: https://www.notion.so/Tizer/8470a30fa1064d1f969113b7a71d85dd
 notion_id: 8470a30f-a106-4d1f-9691-13b7a71d85dd
 ---
 

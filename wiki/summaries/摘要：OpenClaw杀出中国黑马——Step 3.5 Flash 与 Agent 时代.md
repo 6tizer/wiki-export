@@ -2,13 +2,16 @@
 title: 摘要：OpenClaw杀出中国黑马——Step 3.5 Flash 与 Agent 时代
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 推理优化
+- 模型部署
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/59805b87b4dd47a6af4f2220fd61edf0
+notion_url: https://www.notion.so/Tizer/59805b87b4dd47a6af4f2220fd61edf0
 notion_id: 59805b87-b4dd-47a6-af4f-2220fd61edf0
 ---
 

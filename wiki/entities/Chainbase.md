@@ -2,8 +2,9 @@
 title: Chainbase
 type: entity
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 链上协议
+- 加密资产
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

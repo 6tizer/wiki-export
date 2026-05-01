@@ -2,16 +2,15 @@
 title: 摘要：OpenClaw + Obsidian：用 AI 智能体打造 7×24 小时内容工厂
 type: summary
 tags:
-- OpenClaw
 - 知识管理
-- 内容创作
-- 工作流
+- OpenClaw
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Cursor, Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/b00391f69c0d40e2b18c4b6bee7300bf
+notion_url: https://www.notion.so/Tizer/b00391f69c0d40e2b18c4b6bee7300bf
 notion_id: b00391f6-9c0d-40e2-b18c-4b6bee7300bf
 ---
 

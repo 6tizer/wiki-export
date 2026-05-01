@@ -2,13 +2,14 @@
 title: 摘要：88岁图灵奖得主，用Claude一小时破解30年数学悬案
 type: summary
 tags:
-- LLM
+- 推理优化
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Research, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/5045297d87044813abe59fec43dd3413
+notion_url: https://www.notion.so/Tizer/5045297d87044813abe59fec43dd3413
 notion_id: 5045297d-8704-4813-abe5-9fec43dd3413
 ---
 

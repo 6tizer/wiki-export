@@ -1,11 +1,10 @@
 ---
 title: G.A.M.E 框架
 type: concept
-tags:
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-05-01'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/9e145f1e20ea4eea9dc2cec470997a36

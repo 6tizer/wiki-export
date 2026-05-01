@@ -2,14 +2,15 @@
 title: 摘要：OpenAI 用 Codex 维护 Agents SDK 的四层架构：把工程规范变成 Agent 的行为约束
 type: summary
 tags:
-- 开发工具
-- Agent 编排
+- Agent 协作模式
+- OpenClaw
+- Harness 工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/9587163aa4e2457c9d6652ab7643bc96
+notion_url: https://www.notion.so/Tizer/9587163aa4e2457c9d6652ab7643bc96
 notion_id: 9587163a-a4e2-457c-9d66-52ab7643bc96
 ---
 

@@ -2,7 +2,8 @@
 title: PureMac
 type: entity
 tags:
-- 开发工具
+- 知识管理
+- 笔记工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

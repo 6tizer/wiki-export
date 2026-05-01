@@ -2,14 +2,13 @@
 title: 摘要：用 AI 工具做微信小程序副业：从 0 到上架变现的完整路径
 type: summary
 tags:
-- Coding Agent
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: Cursor, LLM, 自动化
 source_article_url: https://www.notion.so/33f701074b68811dba7af5608192a377
-notion_url: https://www.notion.so/ab0c37a1b9734c79b016ec60d947df97
+notion_url: https://www.notion.so/Tizer/ab0c37a1b9734c79b016ec60d947df97
 notion_id: ab0c37a1-b973-4c79-b016-ec60d947df97
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: '摘要：Now in research preview: routines in Claude Code.'
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68814e9813c8d270913160
-notion_url: https://www.notion.so/7062762165d14794826f3563865835cf
+notion_url: https://www.notion.so/Tizer/7062762165d14794826f3563865835cf
 notion_id: 70627621-65d1-4794-826f-3563865835cf
 ---
 

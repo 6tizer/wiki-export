@@ -1,15 +1,13 @@
 ---
 title: Agent 与执行环境分离
 type: concept
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b345b317c0df44309d20b3adf5d8cc53
+notion_url: https://www.notion.so/Tizer/b345b317c0df44309d20b3adf5d8cc53
 notion_id: b345b317-c0df-4430-9d20-b3adf5d8cc53
 ---
 

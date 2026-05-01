@@ -3,13 +3,12 @@ title: 摘要：ClawFlows：Alchemy CEO 把私人生活 OS 开源了，100+ 预�
 type: summary
 tags:
 - OpenClaw
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: https://www.notion.so/335701074b6881e4b8a1de210db90dd2
-notion_url: https://www.notion.so/0e9d89db3add418d8412ea0a0a347ddc
+notion_url: https://www.notion.so/Tizer/0e9d89db3add418d8412ea0a0a347ddc
 notion_id: 0e9d89db-3add-418d-8412-ea0a0a347ddc
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: TradingView MCP Bridge
 type: entity
-tags:
-- Agent 技能
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8fe8c2b16ae54741858dd0dcbded9eac
+notion_url: https://www.notion.so/Tizer/8fe8c2b16ae54741858dd0dcbded9eac
 notion_id: 8fe8c2b1-6ae5-4741-858d-d0dcbded9eac
 ---
 

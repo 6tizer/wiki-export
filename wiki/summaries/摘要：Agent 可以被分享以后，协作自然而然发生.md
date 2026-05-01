@@ -1,15 +1,13 @@
 ---
 title: 摘要：Agent 可以被分享以后，协作自然而然发生
 type: summary
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881de9d68ef4fac7d82ab
-notion_url: https://www.notion.so/16d8982f8f304f448253cd1aed5b11cb
+notion_url: https://www.notion.so/Tizer/16d8982f8f304f448253cd1aed5b11cb
 notion_id: 16d8982f-8f30-4f44-8253-cd1aed5b11cb
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: Linearized RL
 type: concept
-tags:
-- Agent 编排
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/809ea4d5e11040f190d9fcb07217931d
+notion_url: https://www.notion.so/Tizer/809ea4d5e11040f190d9fcb07217931d
 notion_id: 809ea4d5-e110-40f1-90d9-fcb07217931d
 ---
 

@@ -2,14 +2,13 @@
 title: 摘要：真香！这可能是openclaw抓取任何网页的终极解决方案了
 type: summary
 tags:
-- Agent 技能
 - OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b68817295d0f21ae0cd695a
-notion_url: https://www.notion.so/9fd975e3e37d4a42a6e6d124dd1e9bff
+notion_url: https://www.notion.so/Tizer/9fd975e3e37d4a42a6e6d124dd1e9bff
 notion_id: 9fd975e3-e37d-4a42-a6e6-d124dd1e9bff
 ---
 

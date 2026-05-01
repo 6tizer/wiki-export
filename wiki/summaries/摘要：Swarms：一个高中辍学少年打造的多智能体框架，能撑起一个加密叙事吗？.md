@@ -2,14 +2,16 @@
 title: 摘要：Swarms：一个高中辍学少年打造的多智能体框架，能撑起一个加密叙事吗？
 type: summary
 tags:
-- Agent 框架
-- Crypto/DeFi
+- 多Agent协作
+- 商业/生态
+- 加密资产
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c18d9a494d19438d9575232bc7cfd26f
+notion_url: https://www.notion.so/Tizer/c18d9a494d19438d9575232bc7cfd26f
 notion_id: c18d9a49-4d19-438d-9575-232bc7cfd26f
 ---
 

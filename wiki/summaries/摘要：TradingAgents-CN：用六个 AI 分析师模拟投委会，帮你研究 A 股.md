@@ -1,15 +1,13 @@
 ---
 title: 摘要：TradingAgents-CN：用六个 AI 分析师模拟投委会，帮你研究 A 股
 type: summary
-tags:
-- Agent 编排
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/336701074b6881fda296d08187244899
-notion_url: https://www.notion.so/604366422df6436896c2e0dd084bbf39
+notion_url: https://www.notion.so/Tizer/604366422df6436896c2e0dd084bbf39
 notion_id: 60436642-2df6-4368-96c2-e0dd084bbf39
 ---
 

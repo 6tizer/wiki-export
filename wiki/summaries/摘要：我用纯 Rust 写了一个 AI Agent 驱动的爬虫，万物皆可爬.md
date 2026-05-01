@@ -2,13 +2,15 @@
 title: 摘要：我用纯 Rust 写了一个 AI Agent 驱动的爬虫，万物皆可爬
 type: summary
 tags:
-- 开发工具
+- 内容自动化
+- 浏览器自动化
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e26543b940a749b0a5c17bd06d7ed49e
+notion_url: https://www.notion.so/Tizer/e26543b940a749b0a5c17bd06d7ed49e
 notion_id: e26543b9-40a7-49b0-a5c1-7bd06d7ed49e
 ---
 

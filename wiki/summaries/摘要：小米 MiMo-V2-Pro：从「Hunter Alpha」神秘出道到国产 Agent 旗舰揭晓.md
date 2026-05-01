@@ -2,13 +2,14 @@
 title: 摘要：小米 MiMo-V2-Pro：从「Hunter Alpha」神秘出道到国产 Agent 旗舰揭晓
 type: summary
 tags:
-- LLM
+- Agent 协作模式
+- 上下文管理
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent
 source_article_url: https://www.notion.so/335701074b6881338ff9e3252d21f9f4
-notion_url: https://www.notion.so/930eb8eaad8540efb11c8a1734bac91e
+notion_url: https://www.notion.so/Tizer/930eb8eaad8540efb11c8a1734bac91e
 notion_id: 930eb8ea-ad85-40ef-b11c-8a1734bac91e
 ---
 

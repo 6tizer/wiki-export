@@ -1,15 +1,13 @@
 ---
 title: 摘要：Hermes Agent 生态继续狂飙，又卷出一大批全新进化体！
 type: summary
-tags:
-- Agent 框架
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68812f9041d6e279bb7894
-notion_url: https://www.notion.so/3ab23dee06d447fba47d4e453236bd90
+notion_url: https://www.notion.so/Tizer/3ab23dee06d447fba47d4e453236bd90
 notion_id: 3ab23dee-06d4-47fb-a47d-4e453236bd90
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：有意思，Codex 被 OpenAI 做成插件，塞进了 Claude Code
 type: summary
 tags:
-- 开发工具
+- IDE 集成
+- 商业/生态
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, codex, openai
 source_article_url: ''
-notion_url: https://www.notion.so/d7e6455512f14b83a6595f8c2beb8b36
+notion_url: https://www.notion.so/Tizer/d7e6455512f14b83a6595f8c2beb8b36
 notion_id: d7e64555-12f1-4b83-a659-5f8c2beb8b36
 ---
 

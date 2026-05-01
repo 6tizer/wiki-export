@@ -1,15 +1,13 @@
 ---
 title: GEP 协议
 type: concept
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0a031eae684b468190d150bfcda35fcb
+notion_url: https://www.notion.so/Tizer/0a031eae684b468190d150bfcda35fcb
 notion_id: 0a031eae-684b-4681-90d1-50bfcda35fcb
 ---
 

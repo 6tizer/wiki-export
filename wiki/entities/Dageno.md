@@ -2,7 +2,6 @@
 title: Dageno
 type: entity
 tags:
-- 内容创作
 - 商业/生态
 - AI 产品
 status: 审核中

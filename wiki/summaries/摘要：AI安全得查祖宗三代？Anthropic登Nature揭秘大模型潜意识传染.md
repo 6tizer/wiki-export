@@ -1,15 +1,13 @@
 ---
 title: 摘要：AI安全得查祖宗三代？Anthropic登Nature揭秘大模型潜意识传染
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881c0bc07c7013dca3f6f
-notion_url: https://www.notion.so/aa7db5c21e9e4332aa4896213c666081
+notion_url: https://www.notion.so/Tizer/aa7db5c21e9e4332aa4896213c666081
 notion_id: aa7db5c2-1e9e-4332-aa48-96213c666081
 ---
 

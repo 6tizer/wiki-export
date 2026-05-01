@@ -3,14 +3,12 @@ title: 摘要：Karpathy LLM Wiki 个人知识库方法论
 type: summary
 tags:
 - 知识管理
-- LLM
-- 记忆系统
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: LLM, 自动化, Cursor, Agent, Karpathy, wiki
 source_article_url: ''
-notion_url: https://www.notion.so/a95b261e17184b138cd0cdca35bbe065
+notion_url: https://www.notion.so/Tizer/a95b261e17184b138cd0cdca35bbe065
 notion_id: a95b261e-1718-4b13-8cd0-cdca35bbe065
 ---
 

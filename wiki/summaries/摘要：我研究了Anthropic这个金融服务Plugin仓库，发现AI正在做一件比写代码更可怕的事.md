@@ -2,13 +2,15 @@
 title: 摘要：我研究了Anthropic这个金融服务Plugin仓库，发现AI正在做一件比写代码更可怕的事
 type: summary
 tags:
-- 开发工具
+- 商业/生态
+- MCP 协议
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/bda0ddc79ab84953aaaaedbfab234e7d
+notion_url: https://www.notion.so/Tizer/bda0ddc79ab84953aaaaedbfab234e7d
 notion_id: bda0ddc7-9ab8-4953-aaaa-edbfab234e7d
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 六阶段蒸馏 SOP
 type: concept
-tags:
-- Agent 技能
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d6e69c4367f6471f8004eec3b66f3ef1
+notion_url: https://www.notion.so/Tizer/d6e69c4367f6471f8004eec3b66f3ef1
 notion_id: d6e69c43-67f6-471f-8004-eec3b66f3ef1
 ---
 

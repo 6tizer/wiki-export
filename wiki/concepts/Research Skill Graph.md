@@ -3,13 +3,12 @@ title: Research Skill Graph
 type: concept
 tags:
 - 知识管理
-- 工作流
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/429b4362ece642e19ca3aee82c682969
+notion_url: https://www.notion.so/Tizer/429b4362ece642e19ca3aee82c682969
 notion_id: 429b4362-ece6-42e1-9ca3-aee82c682969
 ---
 

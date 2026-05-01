@@ -2,13 +2,15 @@
 title: 摘要：Kimi新架构让马斯克叹服！17岁高中生作者一战成名
 type: summary
 tags:
-- LLM
+- 推理优化
+- 训练/微调
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Research
 source_article_url: ''
-notion_url: https://www.notion.so/15de2161fc0f4b0bbbe632eb88a77970
+notion_url: https://www.notion.so/Tizer/15de2161fc0f4b0bbbe632eb88a77970
 notion_id: 15de2161-fc0f-4b0b-bbe6-32eb88a77970
 ---
 

@@ -2,8 +2,9 @@
 title: Qwen3-Coder-30B-A3B-Instruct-GGUF
 type: entity
 tags:
-- LLM
-- Coding Agent
+- 代码生成
+- AI 产品
+- 商业/生态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

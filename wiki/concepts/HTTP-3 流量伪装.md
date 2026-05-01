@@ -1,15 +1,13 @@
 ---
 title: HTTP/3 流量伪装
 type: concept
-tags:
-- 安全/隐私
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8c2a77a46d044ce69a85433f9b1cff71
+notion_url: https://www.notion.so/Tizer/8c2a77a46d044ce69a85433f9b1cff71
 notion_id: 8c2a77a4-6d04-4ce6-9a85-433f9b1cff71
 ---
 

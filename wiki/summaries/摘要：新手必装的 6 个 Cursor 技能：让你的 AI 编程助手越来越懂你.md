@@ -2,13 +2,16 @@
 title: 摘要：新手必装的 6 个 Cursor 技能：让你的 AI 编程助手越来越懂你
 type: summary
 tags:
-- 开发工具
+- 商业/生态
+- 浏览器自动化
+- 代码生成
+- IDE 集成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/31d08af9103f41269119a85433d74906
+notion_url: https://www.notion.so/Tizer/31d08af9103f41269119a85433d74906
 notion_id: 31d08af9-103f-4126-9119-a85433d74906
 ---
 

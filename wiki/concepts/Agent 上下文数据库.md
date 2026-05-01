@@ -2,8 +2,9 @@
 title: Agent 上下文数据库
 type: concept
 tags:
-- 记忆系统
-- 知识管理
+- 上下文管理
+- 长期记忆
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

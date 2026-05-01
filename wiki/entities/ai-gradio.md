@@ -1,14 +1,13 @@
 ---
 title: ai-gradio
 type: entity
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1bdda8786b644d33b318ce8c83b91d96
+notion_url: https://www.notion.so/Tizer/1bdda8786b644d33b318ce8c83b91d96
 notion_id: 1bdda878-6b64-4d33-b318-ce8c83b91d96
 ---
 

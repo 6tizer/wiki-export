@@ -1,15 +1,13 @@
 ---
 title: 摘要：Your next 10 hires won't be human.
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68812eaa11c8564e48c0bc
-notion_url: https://www.notion.so/c4377d37df1349dcaed8e1e32b0647c0
+notion_url: https://www.notion.so/Tizer/c4377d37df1349dcaed8e1e32b0647c0
 notion_id: c4377d37-df13-49dc-aed8-e1e32b0647c0
 ---
 

@@ -3,13 +3,14 @@ title: 摘要：Spool：把你的 AI 对话和书签变成本地搜索引擎
 type: summary
 tags:
 - 知识管理
-- 开发工具
+- RAG/检索
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: 本地搜索, 开发者工具, 开源工具
 source_article_url: ''
-notion_url: https://www.notion.so/8496f9435c104a1faaba33d041b4aee5
+notion_url: https://www.notion.so/Tizer/8496f9435c104a1faaba33d041b4aee5
 notion_id: 8496f943-5c10-4a1f-aaba-33d041b4aee5
 ---
 

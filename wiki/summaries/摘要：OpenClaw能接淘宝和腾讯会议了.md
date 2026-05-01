@@ -3,12 +3,14 @@ title: 摘要：OpenClaw能接淘宝和腾讯会议了
 type: summary
 tags:
 - OpenClaw
+- 商业/生态
+- MCP 协议
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, MCP, 产品发布
 source_article_url: ''
-notion_url: https://www.notion.so/3a295e91b5544b05bbff7b83ab104571
+notion_url: https://www.notion.so/Tizer/3a295e91b5544b05bbff7b83ab104571
 notion_id: 3a295e91-b554-4b05-bbff-7b83ab104571
 ---
 

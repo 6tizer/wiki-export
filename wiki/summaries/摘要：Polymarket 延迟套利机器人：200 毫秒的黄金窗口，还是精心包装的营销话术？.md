@@ -2,13 +2,15 @@
 title: 摘要：Polymarket 延迟套利机器人：200 毫秒的黄金窗口，还是精心包装的营销话术？
 type: summary
 tags:
-- Crypto/DeFi
+- 量化交易
+- 加密资产
+- 浏览器自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: 自动化, Polymarket, 套利, 交易机器人
 source_article_url: ''
-notion_url: https://www.notion.so/cc0bfd08337e43e9b3edba644768995c
+notion_url: https://www.notion.so/Tizer/cc0bfd08337e43e9b3edba644768995c
 notion_id: cc0bfd08-337e-43e9-b3ed-ba644768995c
 ---
 

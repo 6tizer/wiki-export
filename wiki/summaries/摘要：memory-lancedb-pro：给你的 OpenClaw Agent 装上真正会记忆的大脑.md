@@ -2,15 +2,15 @@
 title: 摘要：memory-lancedb-pro：给你的 OpenClaw Agent 装上真正会记忆的大脑
 type: summary
 tags:
+- 长期记忆
+- RAG/检索
 - OpenClaw
-- 记忆系统
-- LLM
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/f2134e2168a449a1b4d8fb26fcd8c1e6
+notion_url: https://www.notion.so/Tizer/f2134e2168a449a1b4d8fb26fcd8c1e6
 notion_id: f2134e21-68a4-49a1-b4d8-fb26fcd8c1e6
 ---
 
@@ -28,7 +28,7 @@ memory-lancedb-pro 通过混合检索、重排和记忆生命周期设计，把 
 
 ### 提取的概念
 
-- [memory-lancedb-pro](concepts/memory-lancedb-pro.md)
+- [memory-lancedb-pro](entities/memory-lancedb-pro.md)
 
 - [混合检索](concepts/混合检索.md)
 

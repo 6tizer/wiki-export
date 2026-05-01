@@ -1,15 +1,13 @@
 ---
 title: Cerebras
 type: entity
-tags:
-- LLM
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: LLM, API Key, 开发者工具
 source_article_url: ''
-notion_url: https://www.notion.so/67c8177cfb47493da4166ec94408262a
+notion_url: https://www.notion.so/Tizer/67c8177cfb47493da4166ec94408262a
 notion_id: 67c8177c-fb47-493d-a416-6ec94408262a
 ---
 

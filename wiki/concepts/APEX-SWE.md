@@ -1,15 +1,13 @@
 ---
 title: APEX-SWE
 type: concept
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/bcc099e164ae4b94a5ff38a6203d0a96
+notion_url: https://www.notion.so/Tizer/bcc099e164ae4b94a5ff38a6203d0a96
 notion_id: bcc099e1-64ae-4b94-a5ff-38a6203d0a96
 ---
 

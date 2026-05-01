@@ -2,8 +2,7 @@
 title: Schema 结构化数据
 type: concept
 tags:
-- 知识管理
-- 商业/生态
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'

@@ -1,15 +1,13 @@
 ---
 title: transcript 模式
 type: concept
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4ac2a27652df4d609c8aa4e79fac5bdf
+notion_url: https://www.notion.so/Tizer/4ac2a27652df4d609c8aa4e79fac5bdf
 notion_id: 4ac2a276-52df-4d60-9c8a-a4e79fac5bdf
 ---
 

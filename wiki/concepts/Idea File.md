@@ -1,15 +1,13 @@
 ---
 title: Idea File
 type: concept
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/eed38086a9e3469fbea43178536c858b
+notion_url: https://www.notion.so/Tizer/eed38086a9e3469fbea43178536c858b
 notion_id: eed38086-a9e3-469f-bea4-3178536c858b
 ---
 

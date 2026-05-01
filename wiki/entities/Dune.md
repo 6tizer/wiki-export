@@ -2,8 +2,9 @@
 title: Dune
 type: entity
 tags:
-- Crypto/DeFi
-- 开发工具
+- 加密资产
+- 链上协议
+- 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

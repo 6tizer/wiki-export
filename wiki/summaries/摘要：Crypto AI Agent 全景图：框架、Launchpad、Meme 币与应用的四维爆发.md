@@ -2,13 +2,17 @@
 title: 摘要：Crypto AI Agent 全景图：框架、Launchpad、Meme 币与应用的四维爆发
 type: summary
 tags:
-- Crypto/DeFi
+- 加密资产
+- 链上协议
+- 商业/生态
+- Agent 协作模式
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/9a0a92cbe2e34233bba972ca71738031
+notion_url: https://www.notion.so/Tizer/9a0a92cbe2e34233bba972ca71738031
 notion_id: 9a0a92cb-e2e3-4233-bba9-72ca71738031
 ---
 

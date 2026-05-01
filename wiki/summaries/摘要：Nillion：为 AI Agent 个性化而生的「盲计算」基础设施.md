@@ -2,14 +2,15 @@
 title: 摘要：Nillion：为 AI Agent 个性化而生的「盲计算」基础设施
 type: summary
 tags:
-- Crypto/DeFi
-- 安全/隐私
+- Agent 协作模式
+- 算力基础设施
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/fc3bf39fc49d45a8a874b1d02a2d0e4b
+notion_url: https://www.notion.so/Tizer/fc3bf39fc49d45a8a874b1d02a2d0e4b
 notion_id: fc3bf39f-c49d-45a8-a874-b1d02a2d0e4b
 ---
 

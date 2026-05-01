@@ -1,15 +1,13 @@
 ---
 title: Skill 分类学
 type: concept
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ca81653e60164140a17dc9a930fa5e75
+notion_url: https://www.notion.so/Tizer/ca81653e60164140a17dc9a930fa5e75
 notion_id: ca81653e-6016-4140-a17d-c9a930fa5e75
 ---
 

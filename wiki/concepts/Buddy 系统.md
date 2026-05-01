@@ -1,14 +1,13 @@
 ---
 title: Buddy 系统
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ff73f84a28b2479a83da127de63c01d8
+notion_url: https://www.notion.so/Tizer/ff73f84a28b2479a83da127de63c01d8
 notion_id: ff73f84a-28b2-479a-83da-127de63c01d8
 ---
 

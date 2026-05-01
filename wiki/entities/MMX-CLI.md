@@ -1,9 +1,7 @@
 ---
 title: MMX-CLI
 type: entity
-tags:
-- Agent 技能
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

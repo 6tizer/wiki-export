@@ -2,14 +2,15 @@
 title: 摘要：Unusual Whales MCP：让 Claude 和 Cursor 直接调用专业美股交易数据
 type: summary
 tags:
-- Agent 技能
+- 量化交易
+- MCP 协议
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, Cursor, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881008b73cb804c6ba038
-notion_url: https://www.notion.so/58f65c04ac044138b4eaf7954091c6dc
+notion_url: https://www.notion.so/Tizer/58f65c04ac044138b4eaf7954091c6dc
 notion_id: 58f65c04-ac04-4138-b4ea-f7954091c6dc
 ---
 

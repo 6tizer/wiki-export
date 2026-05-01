@@ -2,13 +2,15 @@
 title: 摘要：AI Coding 时代的企业 IT 组织重塑
 type: summary
 tags:
-- Coding Agent
+- 商业/生态
+- 代码生成
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/4a10925470d74ea688e5ebec6b93aafb
+notion_url: https://www.notion.so/Tizer/4a10925470d74ea688e5ebec6b93aafb
 notion_id: 4a109254-70d7-4ea6-88e5-ebec6b93aafb
 ---
 

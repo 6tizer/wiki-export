@@ -2,13 +2,15 @@
 title: 摘要：GAME lite：在 Virtuals Protocol 上快速试炼 AI Agent 的沙盒体验
 type: summary
 tags:
-- Crypto/DeFi
+- 商业/生态
+- 浏览器自动化
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/dc1924877a8a4c38b1c2f83888a37e20
+notion_url: https://www.notion.so/Tizer/dc1924877a8a4c38b1c2f83888a37e20
 notion_id: dc192487-7a8a-4c38-b1c2-f83888a37e20
 ---
 

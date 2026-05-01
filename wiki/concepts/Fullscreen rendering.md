@@ -1,15 +1,13 @@
 ---
 title: Fullscreen rendering
 type: concept
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1c1b047f256647e6a902a434557bca69
+notion_url: https://www.notion.so/Tizer/1c1b047f256647e6a902a434557bca69
 notion_id: 1c1b047f-2566-47e6-a902-a434557bca69
 ---
 

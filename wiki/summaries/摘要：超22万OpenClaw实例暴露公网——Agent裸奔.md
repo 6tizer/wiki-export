@@ -2,13 +2,14 @@
 title: 摘要：超22万OpenClaw实例暴露公网——Agent裸奔
 type: summary
 tags:
+- Agent 安全
 - OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: OpenClaw, Agent, 自动化, 安全
 source_article_url: ''
-notion_url: https://www.notion.so/b32a4002141443a39516ff1807497170
+notion_url: https://www.notion.so/Tizer/b32a4002141443a39516ff1807497170
 notion_id: b32a4002-1414-43a3-9516-ff1807497170
 ---
 

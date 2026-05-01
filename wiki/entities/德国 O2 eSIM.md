@@ -3,7 +3,8 @@ title: 德国 O2 eSIM
 type: entity
 tags:
 - 商业/生态
-- 安全/隐私
+- 身份准入
+- 内容自动化
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

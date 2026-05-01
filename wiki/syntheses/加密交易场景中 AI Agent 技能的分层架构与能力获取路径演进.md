@@ -2,14 +2,15 @@
 title: 加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进
 type: synthesis
 tags:
-- Agent 技能
-- Crypto/DeFi
+- 加密资产
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3ba07564dc704fd29f720d404f8d51d2
+notion_url: https://www.notion.so/Tizer/3ba07564dc704fd29f720d404f8d51d2
 notion_id: 3ba07564-dc70-4fd2-9f72-0d404f8d51d2
 ---
 
@@ -43,7 +44,7 @@ notion_id: 3ba07564-dc70-4fd2-9f72-0d404f8d51d2
 
 | --- | --- | --- |
 
-| **代表** | [Untitled](concepts/Gate MCP Skills.md)、[Untitled](entities/Binance Skills Hub.md) | [Untitled](concepts/托管式链上交易 API.md)、[Untitled](concepts/链上交易 Skill.md) |
+| **代表** | [Untitled](entities/Gate MCP Skills.md)、[Untitled](entities/Binance Skills Hub.md) | [Untitled](concepts/托管式链上交易 API.md)、[Untitled](concepts/链上交易 Skill.md) |
 
 | **覆盖范围** | CEX + DEX + 钱包 + 资讯 + 链上分析 | 聚焦链上交易，尤其 Meme/Solana 场景 |
 
@@ -99,7 +100,7 @@ Binance Skills Hub 展示了一个完整的交易决策闭环：
 
 - [链上交易 Skill](concepts/链上交易 Skill.md)
 
-- [Gate MCP Skills](concepts/Gate MCP Skills.md)
+- [Gate MCP Skills](entities/Gate MCP Skills.md)
 
 - [6551-twitter-to-binance-square](entities/6551-twitter-to-binance-square.md)
 

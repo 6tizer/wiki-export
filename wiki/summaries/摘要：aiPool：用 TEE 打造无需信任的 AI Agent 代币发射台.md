@@ -1,14 +1,13 @@
 ---
 title: 摘要：aiPool：用 TEE 打造无需信任的 AI Agent 代币发射台
 type: summary
-tags:
-- Crypto/DeFi
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/f584c3b20555403ba78821244c79a1c6
+notion_url: https://www.notion.so/Tizer/f584c3b20555403ba78821244c79a1c6
 notion_id: f584c3b2-0555-403b-a788-21244c79a1c6
 ---
 

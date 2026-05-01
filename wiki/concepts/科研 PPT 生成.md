@@ -1,15 +1,13 @@
 ---
 title: 科研 PPT 生成
 type: concept
-tags:
-- 工作流
-- 内容创作
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c5cf58503638478d89ae88c3ac6f0b71
+notion_url: https://www.notion.so/Tizer/c5cf58503638478d89ae88c3ac6f0b71
 notion_id: c5cf5850-3638-478d-89ae-88c3ac6f0b71
 ---
 

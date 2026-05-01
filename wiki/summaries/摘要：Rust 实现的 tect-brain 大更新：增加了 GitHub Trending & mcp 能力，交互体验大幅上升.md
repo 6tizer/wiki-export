@@ -2,13 +2,15 @@
 title: 摘要：Rust 实现的 tect-brain 大更新：增加了 GitHub Trending & mcp 能力，交互体验大幅上升
 type: summary
 tags:
-- 开发工具
+- 商业/生态
+- MCP 协议
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: MCP, 开源项目, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/0dee06ccf75e4dc0817324f4466ed8d6
+notion_url: https://www.notion.so/Tizer/0dee06ccf75e4dc0817324f4466ed8d6
 notion_id: 0dee06cc-f75e-4dc0-8173-24f4466ed8d6
 ---
 

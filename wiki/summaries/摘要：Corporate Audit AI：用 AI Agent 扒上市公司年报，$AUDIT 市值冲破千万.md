@@ -2,14 +2,15 @@
 title: 摘要：Corporate Audit AI：用 AI Agent 扒上市公司年报，$AUDIT 市值冲破千万
 type: summary
 tags:
-- LLM
-- 工作流
+- 商业/生态
+- 内容自动化
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c6ff284406d44dc1ac7ee7efa1910cf9
+notion_url: https://www.notion.so/Tizer/c6ff284406d44dc1ac7ee7efa1910cf9
 notion_id: c6ff2844-06d4-4dc1-ac7e-e7efa1910cf9
 ---
 

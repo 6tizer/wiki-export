@@ -2,13 +2,16 @@
 title: AI × Crypto 融合全景：从链上基础设施到自主交易 Agent 的技术栈与策略演进
 type: synthesis
 tags:
-- Crypto/DeFi
+- 加密资产
+- 链上协议
+- MCP 协议
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/562985e7a0ab4c5d84307c81be6dfe63
+notion_url: https://www.notion.so/Tizer/562985e7a0ab4c5d84307c81be6dfe63
 notion_id: 562985e7-a0ab-4c5d-8430-7c81be6dfe63
 ---
 
@@ -128,7 +131,7 @@ DeFi 协议正在从「为人类设计」转向「为 Agent 设计」：
 
 ### 概念页面
 
-[Agentic DeFi](concepts/Agentic DeFi.md) · [DeFAI](concepts/DeFAI.md) · [G.A.M.E 框架](concepts/G.A.M.E 框架.md) · [ERC-8183](entities/ERC-8183.md) · [ERC-8004](concepts/ERC-8004.md) · [x402 协议](concepts/x402 协议.md) · [TEE 可信执行环境](concepts/TEE 可信执行环境.md) · [AI Oracle 链上 AI 预言机](concepts/AI Oracle 链上 AI 预言机.md) · [Nillion 盲计算](concepts/Nillion 盲计算.md) · [OKX OnchainOS](concepts/OKX OnchainOS.md) · OnchainOS Signal · [Binance Skills Hub](entities/Binance Skills Hub.md) · Gate MCP Skills · [聪明钱信号](concepts/聪明钱信号.md) · [聪明钱跟踪](concepts/聪明钱跟踪.md) · [跨交易所套利](concepts/跨交易所套利.md) · [体育延迟套利](concepts/体育延迟套利.md) · [延迟优势](concepts/延迟优势.md) · [高频刮痧](concepts/高频刮痧.md) · [planktonXD](concepts/planktonXD.md) · [Polymarket Analytics](concepts/Polymarket Analytics.md) · [PolyCop BOT](concepts/PolyCop BOT.md) · [AI Wallet Matcher](concepts/AI Wallet Matcher.md) · [交易信号自动化](concepts/交易信号自动化.md) · [稳定币收益聚合](concepts/稳定币收益聚合.md) · [Farside ETF 资金流追踪](concepts/Farside ETF 资金流追踪.md)
+[Agentic DeFi](concepts/Agentic DeFi.md) · [DeFAI](concepts/DeFAI.md) · [G.A.M.E 框架](concepts/G.A.M.E 框架.md) · [ERC-8183](entities/ERC-8183.md) · [ERC-8004](entities/ERC-8004.md) · [x402 协议](concepts/x402 协议.md) · [TEE 可信执行环境](concepts/TEE 可信执行环境.md) · [AI Oracle 链上 AI 预言机](concepts/AI Oracle 链上 AI 预言机.md) · [Nillion 盲计算](concepts/Nillion 盲计算.md) · [OKX OnchainOS](entities/OKX OnchainOS.md) · OnchainOS Signal · [Binance Skills Hub](entities/Binance Skills Hub.md) · Gate MCP Skills · [聪明钱信号](concepts/聪明钱信号.md) · [聪明钱跟踪](concepts/聪明钱跟踪.md) · [跨交易所套利](concepts/跨交易所套利.md) · [体育延迟套利](concepts/体育延迟套利.md) · [延迟优势](concepts/延迟优势.md) · [高频刮痧](concepts/高频刮痧.md) · [planktonXD](entities/planktonXD.md) · [Polymarket Analytics](concepts/Polymarket Analytics.md) · [PolyCop BOT](concepts/PolyCop BOT.md) · [AI Wallet Matcher](concepts/AI Wallet Matcher.md) · [交易信号自动化](concepts/交易信号自动化.md) · [稳定币收益聚合](concepts/稳定币收益聚合.md) · [Farside ETF 资金流追踪](concepts/Farside ETF 资金流追踪.md)
 
 ### 其他 Crypto/DeFi 概念（未逐一展开但纳入统计）
 

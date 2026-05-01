@@ -3,13 +3,12 @@ title: Molty SOUL
 type: concept
 tags:
 - OpenClaw
-- Agent 编排
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/690db72bb4d2437faf5c467e4508b5d2
+notion_url: https://www.notion.so/Tizer/690db72bb4d2437faf5c467e4508b5d2
 notion_id: 690db72b-b4d2-437f-af5c-467e4508b5d2
 ---
 

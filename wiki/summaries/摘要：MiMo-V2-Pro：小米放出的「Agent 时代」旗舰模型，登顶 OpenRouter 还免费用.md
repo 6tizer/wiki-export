@@ -2,13 +2,16 @@
 title: 摘要：MiMo-V2-Pro：小米放出的「Agent 时代」旗舰模型，登顶 OpenRouter 还免费用
 type: summary
 tags:
-- LLM
+- OpenClaw
+- 商业/生态
+- 推理优化
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/61eefdd584ec4565b302e13364dcb1e5
+notion_url: https://www.notion.so/Tizer/61eefdd584ec4565b302e13364dcb1e5
 notion_id: 61eefdd5-84ec-4565-b302-e13364dcb1e5
 ---
 

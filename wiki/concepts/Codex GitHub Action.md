@@ -1,8 +1,7 @@
 ---
 title: Codex GitHub Action
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

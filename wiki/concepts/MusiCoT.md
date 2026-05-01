@@ -2,13 +2,15 @@
 title: MusiCoT
 type: concept
 tags:
-- 视频/3D
+- AI 设计
+- 推理优化
+- 多模态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/188108507f4c4945ac4b703e7eebca79
+notion_url: https://www.notion.so/Tizer/188108507f4c4945ac4b703e7eebca79
 notion_id: 18810850-7f4c-4945-ac4b-703e7eebca79
 ---
 

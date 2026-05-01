@@ -2,7 +2,6 @@
 title: 程序化 SEO
 type: concept
 tags:
-- 工作流
 - 商业/生态
 status: 审核中
 confidence: medium

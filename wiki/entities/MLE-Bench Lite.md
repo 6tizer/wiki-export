@@ -1,14 +1,13 @@
 ---
 title: MLE-Bench Lite
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/67f1a8d1309b43be8a813a2b8cab1658
+notion_url: https://www.notion.so/Tizer/67f1a8d1309b43be8a813a2b8cab1658
 notion_id: 67f1a8d1-309b-43be-8a81-3a2b8cab1658
 ---
 

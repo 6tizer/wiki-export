@@ -3,11 +3,10 @@ title: A2UI 协议
 type: concept
 tags:
 - MCP 协议
-- Agent 框架
 - 前端开发
 status: 审核中
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-05-01'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/639d7a9d1ccc48f696483ce6d3e34933

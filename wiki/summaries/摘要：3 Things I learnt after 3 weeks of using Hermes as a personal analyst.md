@@ -1,15 +1,13 @@
 ---
 title: 摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst
 type: summary
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: Agent, LLM, 记忆, OpenClaw, 自动化
 source_article_url: https://www.notion.so/343701074b6881728fffe750fffb4d28
-notion_url: https://www.notion.so/c38bf773df474c989a87540a90ced1c0
+notion_url: https://www.notion.so/Tizer/c38bf773df474c989a87540a90ced1c0
 notion_id: c38bf773-df47-4c98-9a87-540a90ced1c0
 ---
 

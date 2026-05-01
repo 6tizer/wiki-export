@@ -2,13 +2,15 @@
 title: 摘要：GAME by Virtuals：用无代码方式启动你的第一个链上 AI Agent
 type: summary
 tags:
-- Crypto/DeFi
+- 商业/生态
+- 链上协议
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/87a2d99d81b041fcb512189bdefe31b3
+notion_url: https://www.notion.so/Tizer/87a2d99d81b041fcb512189bdefe31b3
 notion_id: 87a2d99d-81b0-41fc-b512-189bdefe31b3
 ---
 

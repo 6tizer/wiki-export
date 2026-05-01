@@ -2,15 +2,13 @@
 title: 摘要：The free, open-source, unrestricted alternative to Higgsfield AI, Freepik,
   Krea, Openart AI.
 type: summary
-tags:
-- 内容创作
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881e58bc2eac97ccee815
-notion_url: https://www.notion.so/c02b70a9b7774822b26e297e70171d97
+notion_url: https://www.notion.so/Tizer/c02b70a9b7774822b26e297e70171d97
 notion_id: c02b70a9-b777-4822-b26e-297e70171d97
 ---
 

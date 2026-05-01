@@ -2,7 +2,9 @@
 title: Agentic Engineering
 type: concept
 tags:
-- Agent 编排
+- 多Agent协作
+- Agent 协作模式
+- IDE 集成
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

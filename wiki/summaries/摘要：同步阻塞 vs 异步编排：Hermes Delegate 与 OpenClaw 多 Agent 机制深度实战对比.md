@@ -2,14 +2,13 @@
 title: 摘要：同步阻塞 vs 异步编排：Hermes Delegate 与 OpenClaw 多 Agent 机制深度实战对比
 type: summary
 tags:
-- Agent 编排
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881ca8de8db44e6a04ede
-notion_url: https://www.notion.so/cf1f1f4bc9864870ac68d6c33335cb09
+notion_url: https://www.notion.so/Tizer/cf1f1f4bc9864870ac68d6c33335cb09
 notion_id: cf1f1f4b-c986-4870-ac68-d6c33335cb09
 ---
 

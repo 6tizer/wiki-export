@@ -2,7 +2,6 @@
 title: PipeLive
 type: entity
 tags:
-- LLM
 - 推理优化
 - 模型部署
 status: 审核中

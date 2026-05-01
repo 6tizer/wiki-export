@@ -2,13 +2,15 @@
 title: 摘要：GPT-Image-2 泄露——开源图像生成新王登场
 type: summary
 tags:
-- LLM
+- AI 设计
+- 前端开发
+- 图像生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1d6ca8b2b435459e93fb1dbd5d6f2ce0
+notion_url: https://www.notion.so/Tizer/1d6ca8b2b435459e93fb1dbd5d6f2ce0
 notion_id: 1d6ca8b2-b435-459e-93fb-1dbd5d6f2ce0
 ---
 

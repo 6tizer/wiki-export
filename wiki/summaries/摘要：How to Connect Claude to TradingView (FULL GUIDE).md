@@ -1,15 +1,13 @@
 ---
 title: 摘要：How to Connect Claude to TradingView (FULL GUIDE)
 type: summary
-tags:
-- Agent 技能
-- Coding Agent
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68811fbe87d10a3e4f49dd
-notion_url: https://www.notion.so/d6e747cb7c04466aa9722d3cb3aa680e
+notion_url: https://www.notion.so/Tizer/d6e747cb7c04466aa9722d3cb3aa680e
 notion_id: d6e747cb-7c04-466a-a972-2d3cb3aa680e
 ---
 

@@ -2,7 +2,6 @@
 title: GitHub 假 Star
 type: concept
 tags:
-- 开发工具
 - 商业/生态
 status: 审核中
 confidence: high

@@ -1,15 +1,13 @@
 ---
 title: Bug-for-bug 兼容
 type: concept
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c4b8057b8fbf45b5a12d4ca9637732f3
+notion_url: https://www.notion.so/Tizer/c4b8057b8fbf45b5a12d4ca9637732f3
 notion_id: c4b8057b-8fbf-45b5-a12d-4ca9637732f3
 ---
 

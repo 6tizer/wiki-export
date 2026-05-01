@@ -2,14 +2,13 @@
 title: BYOK
 type: concept
 tags:
-- Agent 技能
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9e10b9de7e9f47a1ba7c1cb4f39ab701
+notion_url: https://www.notion.so/Tizer/9e10b9de7e9f47a1ba7c1cb4f39ab701
 notion_id: 9e10b9de-7e9f-47a1-ba7c-1cb4f39ab701
 ---
 

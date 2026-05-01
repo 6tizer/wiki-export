@@ -1,9 +1,7 @@
 ---
 title: Xiaomi MiMo-V2.5-Pro
 type: entity
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'

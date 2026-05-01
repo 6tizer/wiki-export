@@ -2,15 +2,13 @@
 title: 摘要：We've published new research on how we post-train models for accurate search-augmented
   answers.
 type: summary
-tags:
-- LLM
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881879037e81fd466c81f
-notion_url: https://www.notion.so/fc2c29635c9c423c996216a7e8f399ed
+notion_url: https://www.notion.so/Tizer/fc2c29635c9c423c996216a7e8f399ed
 notion_id: fc2c2963-5c9c-423c-9962-16a7e8f399ed
 ---
 

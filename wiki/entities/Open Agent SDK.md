@@ -1,15 +1,13 @@
 ---
 title: Open Agent SDK
 type: entity
-tags:
-- Coding Agent
-- Agent 框架
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9cedd55534b4459a84f5f357aa3d309f
+notion_url: https://www.notion.so/Tizer/9cedd55534b4459a84f5f357aa3d309f
 notion_id: 9cedd555-34b4-459a-84f5-f357aa3d309f
 ---
 

@@ -5,7 +5,6 @@ tags:
 - 知识管理
 - 上下文管理
 - 长期记忆
-- 记忆系统
 - RAG/检索
 status: 审核中
 confidence: medium

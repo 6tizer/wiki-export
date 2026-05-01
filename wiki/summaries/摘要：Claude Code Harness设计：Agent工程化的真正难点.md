@@ -2,13 +2,15 @@
 title: 摘要：Claude Code Harness设计：Agent工程化的真正难点
 type: summary
 tags:
-- OpenClaw
+- Agent 协作模式
+- Harness 工程
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/b4b725e3a67642688aa8ea97786eb06b
+notion_url: https://www.notion.so/Tizer/b4b725e3a67642688aa8ea97786eb06b
 notion_id: b4b725e3-a676-4268-8aa8-ea97786eb06b
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Deep Agents
 type: entity
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-30'

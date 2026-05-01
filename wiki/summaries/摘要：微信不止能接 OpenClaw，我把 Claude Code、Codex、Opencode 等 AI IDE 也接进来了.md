@@ -3,13 +3,16 @@ title: 摘要：微信不止能接 OpenClaw，我把 Claude Code、Codex、Openc
 type: summary
 tags:
 - OpenClaw
-- 开发工具
+- IDE 集成
+- 多Agent协作
+- 商业/生态
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: 微信生态, OpenClaw, Claude Code
 source_article_url: ''
-notion_url: https://www.notion.so/c494f579449a42d9ba10bcbcadc1c766
+notion_url: https://www.notion.so/Tizer/c494f579449a42d9ba10bcbcadc1c766
 notion_id: c494f579-449a-42d9-ba10-bcbcadc1c766
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 灰盒 API
 type: concept
-tags:
-- 安全/隐私
-- LLM
+tags: []
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/88159ac9dac542428f4ca1b8da35e895
+notion_url: https://www.notion.so/Tizer/88159ac9dac542428f4ca1b8da35e895
 notion_id: 88159ac9-dac5-4242-8f4c-a1b8da35e895
 ---
 

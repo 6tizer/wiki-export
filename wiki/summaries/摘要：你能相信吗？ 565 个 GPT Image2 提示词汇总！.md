@@ -2,14 +2,13 @@
 title: 摘要：你能相信吗？ 565 个 GPT Image2 提示词汇总！
 type: summary
 tags:
-- 内容创作
 - 图像生成
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881e7a393f707661cbe55
-notion_url: https://www.notion.so/8d6bfedd587747cc90e560d82d6e1bdd
+notion_url: https://www.notion.so/Tizer/8d6bfedd587747cc90e560d82d6e1bdd
 notion_id: 8d6bfedd-5877-47cc-90e5-60d82d6e1bdd
 ---
 

@@ -2,14 +2,15 @@
 title: 摘要：ERC-8183：以太坊为 AI Agent 互聘经济立规矩
 type: summary
 tags:
-- Crypto/DeFi
+- 链上协议
 - 商业/生态
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/6693fb88b6704d34a0c9afb93b63cdd5
+notion_url: https://www.notion.so/Tizer/6693fb88b6704d34a0c9afb93b63cdd5
 notion_id: 6693fb88-b670-4d34-a0c9-afb93b63cdd5
 ---
 
@@ -29,7 +30,7 @@ notion_id: 6693fb88-b670-4d34-a0c9-afb93b63cdd5
 
 - [ERC-8183](entities/ERC-8183.md)
 
-- [ERC-8004](concepts/ERC-8004.md)
+- [ERC-8004](entities/ERC-8004.md)
 
 - [x402 协议](concepts/x402 协议.md)
 

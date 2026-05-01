@@ -1,14 +1,13 @@
 ---
 title: Farside ETF 资金流追踪
 type: concept
-tags:
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/028ff02416944b74b299a195d243ad34
+notion_url: https://www.notion.so/Tizer/028ff02416944b74b299a195d243ad34
 notion_id: 028ff024-1694-4b74-b299-a195d243ad34
 ---
 

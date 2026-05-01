@@ -2,13 +2,15 @@
 title: 摘要：G.A.M.E vs ElizaOS：一位两边都贡献过代码的开发者，怎么看这两个 AI Agent 框架
 type: summary
 tags:
-- Crypto/DeFi
+- 商业/生态
+- 链上协议
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/93fcef8fbadd48b89976e0e79a7f59db
+notion_url: https://www.notion.so/Tizer/93fcef8fbadd48b89976e0e79a7f59db
 notion_id: 93fcef8f-badd-48b8-9976-e0e79a7f59db
 ---
 

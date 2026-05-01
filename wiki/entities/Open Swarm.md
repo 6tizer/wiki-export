@@ -2,14 +2,15 @@
 title: Open Swarm
 type: entity
 tags:
-- Agent 框架
-- Agent 编排
+- 多Agent协作
+- Agent 协作模式
+- AI 产品
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6a3f06456a5b476ab4698832d8a829bd
+notion_url: https://www.notion.so/Tizer/6a3f06456a5b476ab4698832d8a829bd
 notion_id: 6a3f0645-6a5b-476a-b469-8832d8a829bd
 ---
 

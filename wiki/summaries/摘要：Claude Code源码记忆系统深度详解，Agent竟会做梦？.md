@@ -1,14 +1,13 @@
 ---
 title: 摘要：Claude Code源码记忆系统深度详解，Agent竟会做梦？
 type: summary
-tags:
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Claude Code, RAG/Memory, 深度分析
 source_article_url: ''
-notion_url: https://www.notion.so/a2764d9585344b97869c6a83b149a0ef
+notion_url: https://www.notion.so/Tizer/a2764d9585344b97869c6a83b149a0ef
 notion_id: a2764d95-8534-4b97-869c-6a83b149a0ef
 ---
 

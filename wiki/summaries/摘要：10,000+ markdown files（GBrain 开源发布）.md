@@ -3,14 +3,14 @@ title: 摘要：10,000+ markdown files（GBrain 开源发布）
 type: summary
 tags:
 - 知识管理
-- 记忆系统
+- RAG/检索
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/51bc8d1b1e7747818573fe99d3c0ca8f
+notion_url: https://www.notion.so/Tizer/51bc8d1b1e7747818573fe99d3c0ca8f
 notion_id: 51bc8d1b-1e77-4781-8573-fe99d3c0ca8f
 ---
 

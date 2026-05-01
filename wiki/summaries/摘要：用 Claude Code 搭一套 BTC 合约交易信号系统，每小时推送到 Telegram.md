@@ -2,14 +2,17 @@
 title: 摘要：用 Claude Code 搭一套 BTC 合约交易信号系统，每小时推送到 Telegram
 type: summary
 tags:
-- Crypto/DeFi
+- 量化交易
+- 加密资产
+- 内容自动化
+- 代码生成
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/311ff51401cf490cb48118c7e30398ae
+notion_url: https://www.notion.so/Tizer/311ff51401cf490cb48118c7e30398ae
 notion_id: 311ff514-01cf-490c-b481-18c7e30398ae
 ---
 

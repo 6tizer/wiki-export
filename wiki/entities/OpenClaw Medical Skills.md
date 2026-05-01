@@ -3,13 +3,14 @@ title: OpenClaw Medical Skills
 type: entity
 tags:
 - OpenClaw
-- Agent 技能
+- AI 产品
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b429cfa93d454da1922576fbf69d971c
+notion_url: https://www.notion.so/Tizer/b429cfa93d454da1922576fbf69d971c
 notion_id: b429cfa9-3d45-4da1-9225-76fbf69d971c
 ---
 

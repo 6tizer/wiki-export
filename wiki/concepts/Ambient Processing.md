@@ -2,8 +2,9 @@
 title: Ambient Processing
 type: concept
 tags:
-- Agent 编排
-- 工作流
+- 知识管理
+- Agent 协作模式
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

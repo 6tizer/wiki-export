@@ -1,14 +1,13 @@
 ---
 title: MAD-normalized thresholding
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d020e27251174fa5b45391aded4b4e86
+notion_url: https://www.notion.so/Tizer/d020e27251174fa5b45391aded4b4e86
 notion_id: d020e272-5117-4fa5-b453-91aded4b4e86
 ---
 

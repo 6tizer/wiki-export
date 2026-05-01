@@ -2,14 +2,15 @@
 title: 摘要：搞钱副业：AI小程序从0到上架
 type: summary
 tags:
-- 开发工具
-- 工作流
+- 商业/生态
+- 代码生成
+- 前端开发
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Cursor, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/040213179c6e4f62942e27aaa867118b
+notion_url: https://www.notion.so/Tizer/040213179c6e4f62942e27aaa867118b
 notion_id: 04021317-9c6e-4f62-942e-27aaa867118b
 ---
 

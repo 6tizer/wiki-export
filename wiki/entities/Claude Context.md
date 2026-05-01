@@ -1,9 +1,7 @@
 ---
 title: Claude Context
 type: entity
-tags:
-- Coding Agent
-- Agent 技能
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

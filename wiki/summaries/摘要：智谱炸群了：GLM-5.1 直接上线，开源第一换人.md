@@ -2,14 +2,15 @@
 title: 摘要：智谱炸群了：GLM-5.1 直接上线，开源第一换人
 type: summary
 tags:
-- LLM
-- 开发工具
+- 内容自动化
+- 代码生成
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/94d5480359c047b6be5955ff893a0c67
+notion_url: https://www.notion.so/Tizer/94d5480359c047b6be5955ff893a0c67
 notion_id: 94d54803-59c0-47b6-be59-55ff893a0c67
 ---
 

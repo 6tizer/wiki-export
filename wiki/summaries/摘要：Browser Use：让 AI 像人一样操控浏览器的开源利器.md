@@ -2,13 +2,14 @@
 title: 摘要：Browser Use：让 AI 像人一样操控浏览器的开源利器
 type: summary
 tags:
-- Agent 技能
+- 浏览器自动化
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e6a285e1d25e4c58b1bc72d55d516aaf
+notion_url: https://www.notion.so/Tizer/e6a285e1d25e4c58b1bc72d55d516aaf
 notion_id: e6a285e1-d25e-4c58-b1bc-72d55d516aaf
 ---
 

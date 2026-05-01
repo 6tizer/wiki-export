@@ -2,14 +2,15 @@
 title: 摘要：gstack：YC CEO Garry Tan 的 Claude Code 虚拟工程团队配置
 type: summary
 tags:
-- Coding Agent
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b6881d0a6bfc6d76a3df7c1
-notion_url: https://www.notion.so/990270f9bdde4a3188ba25ccd03891a9
+notion_url: https://www.notion.so/Tizer/990270f9bdde4a3188ba25ccd03891a9
 notion_id: 990270f9-bdde-4a31-88ba-25ccd03891a9
 ---
 

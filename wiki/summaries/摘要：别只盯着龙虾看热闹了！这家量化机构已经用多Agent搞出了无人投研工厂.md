@@ -2,13 +2,15 @@
 title: 摘要：别只盯着"龙虾"看热闹了！这家量化机构已经用多Agent搞出了"无人投研工厂"
 type: summary
 tags:
-- LLM
+- 量化交易
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/67a7ec69651d48dcba11f72e97da4792
+notion_url: https://www.notion.so/Tizer/67a7ec69651d48dcba11f72e97da4792
 notion_id: 67a7ec69-651d-48dc-ba11-f72e97da4792
 ---
 

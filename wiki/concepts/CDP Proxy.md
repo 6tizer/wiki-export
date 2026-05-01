@@ -1,9 +1,7 @@
 ---
 title: CDP Proxy
 type: concept
-tags:
-- 开发工具
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

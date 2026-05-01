@@ -1,15 +1,13 @@
 ---
 title: 摘要：有人修复了泄露的 Claude Code 源码，让它真正能跑起来
 type: summary
-tags:
-- Coding Agent
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: LLM, Agent, 自动化, Claude
 source_article_url: https://www.notion.so/33d701074b6881aeb121cb51d06a89c6
-notion_url: https://www.notion.so/8bf50497eacc4b6691dcb099bbf1ad91
+notion_url: https://www.notion.so/Tizer/8bf50497eacc4b6691dcb099bbf1ad91
 notion_id: 8bf50497-eacc-4b66-91dc-b099bbf1ad91
 ---
 

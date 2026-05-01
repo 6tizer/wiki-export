@@ -1,15 +1,13 @@
 ---
 title: Cloudflare Email Routing
 type: concept
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5c9ae4c078264d11aaae6ccc5cda5d8d
+notion_url: https://www.notion.so/Tizer/5c9ae4c078264d11aaae6ccc5cda5d8d
 notion_id: 5c9ae4c0-7826-4d11-aaae-6ccc5cda5d8d
 ---
 

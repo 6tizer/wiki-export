@@ -2,14 +2,15 @@
 title: 摘要：XXYY API：用 API Key 操盘多链 Meme 币，无需私钥的托管式链上交易接口
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 量化交易
+- 加密资产
+- 链上协议
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: 自动化, Web3, Solana, 链上交易
 source_article_url: https://www.notion.so/335701074b688199a6e1eb4a30fc93c9
-notion_url: https://www.notion.so/ef01421a04b0417da1a48ca66640ceaa
+notion_url: https://www.notion.so/Tizer/ef01421a04b0417da1a48ca66640ceaa
 notion_id: ef01421a-04b0-417d-a1a4-8ca66640ceaa
 ---
 

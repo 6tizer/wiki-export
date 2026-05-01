@@ -2,14 +2,13 @@
 title: Cocoon
 type: entity
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2aece88173a54d05919306009528ead1
+notion_url: https://www.notion.so/Tizer/2aece88173a54d05919306009528ead1
 notion_id: 2aece881-73a5-4d05-9193-06009528ead1
 ---
 

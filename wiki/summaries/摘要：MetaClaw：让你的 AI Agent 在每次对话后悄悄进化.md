@@ -2,14 +2,15 @@
 title: 摘要：MetaClaw：让你的 AI Agent 在每次对话后悄悄进化
 type: summary
 tags:
+- 长期记忆
 - OpenClaw
-- 记忆系统
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b68817bbc42c8b9fa1bc54b
-notion_url: https://www.notion.so/32051ee348cf478081de80e6eed04ee6
+notion_url: https://www.notion.so/Tizer/32051ee348cf478081de80e6eed04ee6
 notion_id: 32051ee3-48cf-4780-81de-80e6eed04ee6
 ---
 

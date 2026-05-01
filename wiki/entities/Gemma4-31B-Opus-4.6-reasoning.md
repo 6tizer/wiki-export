@@ -1,14 +1,13 @@
 ---
 title: Gemma4-31B-Opus-4.6-reasoning
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b8e9411992d94492b058c11b6cffd281
+notion_url: https://www.notion.so/Tizer/b8e9411992d94492b058c11b6cffd281
 notion_id: b8e94119-92d9-4492-b058-c11b6cffd281
 ---
 

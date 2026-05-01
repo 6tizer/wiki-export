@@ -3,13 +3,12 @@ title: Claude for Word
 type: entity
 tags:
 - 商业/生态
-- Agent 技能
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/42d603a04e5149578193f14833624834
+notion_url: https://www.notion.so/Tizer/42d603a04e5149578193f14833624834
 notion_id: 42d603a0-4e51-4957-8193-f14833624834
 ---
 

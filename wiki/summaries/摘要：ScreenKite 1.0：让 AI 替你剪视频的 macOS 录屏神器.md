@@ -10,7 +10,7 @@ confidence: medium
 last_compiled: '2026-04-21'
 source_tags: macOS, Agent, Claude, codex, GitHub, 开源
 source_article_url: https://www.notion.so/349701074b68819bba25f8d0430bece1
-notion_url: https://www.notion.so/0c94a989ce164fef95defbe39544f997
+notion_url: https://www.notion.so/Tizer/0c94a989ce164fef95defbe39544f997
 notion_id: 0c94a989-ce16-4fef-95de-fbe39544f997
 ---
 

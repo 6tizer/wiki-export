@@ -1,15 +1,13 @@
 ---
 title: AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施
 type: synthesis
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3cb2730c412d464d93b55e8dd5306f29
+notion_url: https://www.notion.so/Tizer/3cb2730c412d464d93b55e8dd5306f29
 notion_id: 3cb2730c-412d-464d-93b5-5e8dd5306f29
 ---
 

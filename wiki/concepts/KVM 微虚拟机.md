@@ -2,8 +2,9 @@
 title: KVM 微虚拟机
 type: concept
 tags:
-- 开发工具
-- 安全/隐私
+- 浏览器自动化
+- Agent 协作模式
+- 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

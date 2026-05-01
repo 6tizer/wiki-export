@@ -1,14 +1,13 @@
 ---
 title: Compound Engineering
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/995a938a9d424feb8e7a54f03ac6630a
+notion_url: https://www.notion.so/Tizer/995a938a9d424feb8e7a54f03ac6630a
 notion_id: 995a938a-9d42-4feb-8e7a-54f03ac6630a
 ---
 

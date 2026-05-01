@@ -1,15 +1,13 @@
 ---
 title: 摘要：LangChain Deep Agents Deploy：开源 Agent 部署的生产级方案
 type: summary
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33e701074b6881c3802ee6e90fdb73d1
-notion_url: https://www.notion.so/1c89b3620b5743c3be76c55c62c3c7b5
+notion_url: https://www.notion.so/Tizer/1c89b3620b5743c3be76c55c62c3c7b5
 notion_id: 1c89b362-0b57-43c3-be76-c55c62c3c7b5
 ---
 

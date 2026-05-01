@@ -2,9 +2,9 @@
 title: Git 共享记忆层
 type: concept
 tags:
-- Agent 编排
-- 记忆系统
+- 知识管理
 - 长期记忆
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

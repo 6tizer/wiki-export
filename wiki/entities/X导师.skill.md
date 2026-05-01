@@ -1,15 +1,13 @@
 ---
 title: X导师.skill
 type: entity
-tags:
-- Agent 技能
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/303ce417a1d8456a9f51b38a154b2dea
+notion_url: https://www.notion.so/Tizer/303ce417a1d8456a9f51b38a154b2dea
 notion_id: 303ce417-a1d8-456a-9f51-b38a154b2dea
 ---
 

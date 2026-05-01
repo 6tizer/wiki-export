@@ -2,14 +2,13 @@
 title: Mintlify
 type: entity
 tags:
-- 开发工具
 - 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b0f80a4742064e33b820cae311bacb5d
+notion_url: https://www.notion.so/Tizer/b0f80a4742064e33b820cae311bacb5d
 notion_id: b0f80a47-4206-4e33-b820-cae311bacb5d
 ---
 

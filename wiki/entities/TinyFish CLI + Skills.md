@@ -1,15 +1,13 @@
 ---
 title: TinyFish CLI + Skills
 type: entity
-tags:
-- Agent 技能
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ae17afe3abe144d8b171c4cb2af1a972
+notion_url: https://www.notion.so/Tizer/ae17afe3abe144d8b171c4cb2af1a972
 notion_id: ae17afe3-abe1-44d8-b171-c4cb2af1a972
 ---
 

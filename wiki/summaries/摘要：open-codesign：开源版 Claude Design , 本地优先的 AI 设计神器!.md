@@ -1,15 +1,13 @@
 ---
 title: 摘要：open-codesign：开源版 Claude Design , 本地优先的 AI 设计神器!
 type: summary
-tags:
-- 内容创作
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: https://www.notion.so/34c701074b6881c18f1ce1545f89edeb
-notion_url: https://www.notion.so/e0cff91ebe0246be9c398f00767070ca
+notion_url: https://www.notion.so/Tizer/e0cff91ebe0246be9c398f00767070ca
 notion_id: e0cff91e-be02-46be-9c39-8f00767070ca
 ---
 

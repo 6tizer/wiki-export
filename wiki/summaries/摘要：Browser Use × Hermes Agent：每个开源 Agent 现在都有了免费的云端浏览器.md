@@ -1,15 +1,13 @@
 ---
 title: 摘要：Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器
 type: summary
-tags:
-- Agent 技能
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: https://www.notion.so/33f701074b688166b69cfdce03bbeb56
-notion_url: https://www.notion.so/4e3edf01bd4540fa97e7b2d64f3b4e54
+notion_url: https://www.notion.so/Tizer/4e3edf01bd4540fa97e7b2d64f3b4e54
 notion_id: 4e3edf01-bd45-40fa-97e7-b2d64f3b4e54
 ---
 

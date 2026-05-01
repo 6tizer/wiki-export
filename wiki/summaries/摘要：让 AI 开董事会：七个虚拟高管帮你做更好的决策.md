@@ -2,14 +2,13 @@
 title: 摘要：让 AI 开董事会：七个虚拟高管帮你做更好的决策
 type: summary
 tags:
-- Agent 编排
-- 工作流
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881a09819ed15c45cd3a3
-notion_url: https://www.notion.so/e61b2093a8894712b4ed6731ee48cc36
+notion_url: https://www.notion.so/Tizer/e61b2093a8894712b4ed6731ee48cc36
 notion_id: e61b2093-a889-4712-b4ed-6731ee48cc36
 ---
 

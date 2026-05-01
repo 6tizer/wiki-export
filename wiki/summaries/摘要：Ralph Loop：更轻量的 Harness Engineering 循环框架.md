@@ -1,15 +1,13 @@
 ---
 title: 摘要：Ralph Loop：更轻量的 Harness Engineering 循环框架
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b688168947ed46743b276bb
-notion_url: https://www.notion.so/da8d2a2d62e5497483ab094bd8cfe696
+notion_url: https://www.notion.so/Tizer/da8d2a2d62e5497483ab094bd8cfe696
 notion_id: da8d2a2d-62e5-4974-83ab-094bd8cfe696
 ---
 

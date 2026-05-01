@@ -2,13 +2,14 @@
 title: AI自主研究循环
 type: concept
 tags:
-- Agent 编排
+- Agent 协作模式
+- AI 对齐
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/17b5c53cd18247ef8a811cf837ca3fbe
+notion_url: https://www.notion.so/Tizer/17b5c53cd18247ef8a811cf837ca3fbe
 notion_id: 17b5c53c-d182-47ef-8a81-1cf837ca3fbe
 ---
 

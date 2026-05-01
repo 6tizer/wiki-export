@@ -3,13 +3,12 @@ title: 摘要：queryable Property Graph database to leverage sparse matrices
 type: summary
 tags:
 - 知识管理
-- 开发工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68812ea585ee01fb2865d8
-notion_url: https://www.notion.so/54ec919ad38c4cec93ba1aabe4e5cc0a
+notion_url: https://www.notion.so/Tizer/54ec919ad38c4cec93ba1aabe4e5cc0a
 notion_id: 54ec919a-d38c-4cec-93ba-1aabe4e5cc0a
 ---
 

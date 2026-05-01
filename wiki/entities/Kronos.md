@@ -1,15 +1,13 @@
 ---
 title: Kronos
 type: entity
-tags:
-- LLM
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/2f1c813fa34b432380e9007ad52be093
+notion_url: https://www.notion.so/Tizer/2f1c813fa34b432380e9007ad52be093
 notion_id: 2f1c813f-a34b-4323-80e9-007ad52be093
 ---
 

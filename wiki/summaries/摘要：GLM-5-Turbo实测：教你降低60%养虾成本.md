@@ -2,15 +2,15 @@
 title: 摘要：GLM-5-Turbo实测：教你降低60%养虾成本
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 推理优化
 - OpenClaw
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: GLM, OpenClaw, 成本优化
 source_article_url: ''
-notion_url: https://www.notion.so/90787ae858c540ecacabf19683d2349c
+notion_url: https://www.notion.so/Tizer/90787ae858c540ecacabf19683d2349c
 notion_id: 90787ae8-58c5-40ec-acab-f19683d2349c
 ---
 

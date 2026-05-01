@@ -1,15 +1,13 @@
 ---
 title: 摘要：Video generation is now live on OpenRouter!
 type: summary
-tags:
-- 开发工具
-- 内容创作
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881159826d7f5472b5a40
-notion_url: https://www.notion.so/3620e3237ded4165aa6232e74b91a3ff
+notion_url: https://www.notion.so/Tizer/3620e3237ded4165aa6232e74b91a3ff
 notion_id: 3620e323-7ded-4165-aa62-32e74b91a3ff
 ---
 

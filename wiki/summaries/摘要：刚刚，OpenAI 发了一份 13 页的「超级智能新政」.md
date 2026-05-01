@@ -2,14 +2,14 @@
 title: 摘要：刚刚，OpenAI 发了一份 13 页的「超级智能新政」
 type: summary
 tags:
-- LLM
-- 商业/生态
+- AI 政策
+- AI 对齐
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1729b0ed010e4d12a38a9bd5f1cadacd
+notion_url: https://www.notion.so/Tizer/1729b0ed010e4d12a38a9bd5f1cadacd
 notion_id: 1729b0ed-010e-4d12-a38a-9bd5f1cadacd
 ---
 

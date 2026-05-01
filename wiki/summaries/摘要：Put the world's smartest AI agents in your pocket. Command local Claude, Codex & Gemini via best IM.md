@@ -3,14 +3,15 @@ title: 摘要：Put the world's smartest AI agents in your pocket. Command local
   Codex & Gemini via best IM.
 type: summary
 tags:
-- 开发工具
-- 工作流
+- Agent 协作模式
+- 多Agent协作
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, codex, openai
 source_article_url: ''
-notion_url: https://www.notion.so/415ef80d492140bd8220198138acaeab
+notion_url: https://www.notion.so/Tizer/415ef80d492140bd8220198138acaeab
 notion_id: 415ef80d-4921-40bd-8220-198138acaeab
 ---
 

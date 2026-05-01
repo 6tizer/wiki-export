@@ -1,15 +1,13 @@
 ---
 title: 摘要：四个 GitHub 项目串起短视频副业全流程：生成、剪辑、翻译、发布一条龙
 type: summary
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: LLM, 自动化, Agent
 source_article_url: https://www.notion.so/33d701074b688168960fe82162ad184d
-notion_url: https://www.notion.so/9159b8ab5b664a0ab5ba4ae0269f0dbd
+notion_url: https://www.notion.so/Tizer/9159b8ab5b664a0ab5ba4ae0269f0dbd
 notion_id: 9159b8ab-5b66-4a0a-b5ba-4ae0269f0dbd
 ---
 

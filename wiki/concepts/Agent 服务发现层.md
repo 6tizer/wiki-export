@@ -1,8 +1,7 @@
 ---
 title: Agent 服务发现层
 type: concept
-tags:
-- Agent 编排
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

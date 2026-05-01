@@ -2,14 +2,17 @@
 title: 摘要：Solana AI 黑客松：400+ 项目角逐，哪些已发币项目值得关注？
 type: summary
 tags:
-- Crypto/DeFi
-- LLM
+- 商业/生态
+- 链上协议
+- 多Agent协作
+- Agent 协作模式
+- 算力基础设施
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/4f84bb85c4cf4afeb4199cf5d5411c59
+notion_url: https://www.notion.so/Tizer/4f84bb85c4cf4afeb4199cf5d5411c59
 notion_id: 4f84bb85-c4cf-4afe-b419-9cf5d5411c59
 ---
 

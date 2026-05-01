@@ -2,13 +2,14 @@
 title: 摘要：一个App管好所有Agent技能，Chops来了
 type: summary
 tags:
-- 开发工具
+- Agent 协作模式
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, Skill 开发, 工具推荐
 source_article_url: ''
-notion_url: https://www.notion.so/1a43f935c2564f88bea4828efbe4d994
+notion_url: https://www.notion.so/Tizer/1a43f935c2564f88bea4828efbe4d994
 notion_id: 1a43f935-c256-4f88-bea4-828efbe4d994
 ---
 

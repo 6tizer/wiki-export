@@ -2,14 +2,13 @@
 title: 摘要：字节Seedance 2.0发论文了，171人署名，吴永辉曾妍在列
 type: summary
 tags:
-- 内容创作
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b68815a88b9d20a27726eef
-notion_url: https://www.notion.so/08b3079b3b3f49df981c37c38261ec4d
+notion_url: https://www.notion.so/Tizer/08b3079b3b3f49df981c37c38261ec4d
 notion_id: 08b3079b-3b3f-49df-981c-37c38261ec4d
 ---
 

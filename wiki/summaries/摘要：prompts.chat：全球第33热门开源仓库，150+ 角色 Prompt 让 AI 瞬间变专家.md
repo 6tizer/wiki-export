@@ -3,13 +3,12 @@ title: 摘要：prompts.chat：全球第33热门开源仓库，150+ 角色 Promp
 type: summary
 tags:
 - 知识管理
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/336701074b688189bf83ccd06a8074af
-notion_url: https://www.notion.so/506eec87660c4d86acccd2820ffd35b3
+notion_url: https://www.notion.so/Tizer/506eec87660c4d86acccd2820ffd35b3
 notion_id: 506eec87-660c-4d86-accc-d2820ffd35b3
 ---
 

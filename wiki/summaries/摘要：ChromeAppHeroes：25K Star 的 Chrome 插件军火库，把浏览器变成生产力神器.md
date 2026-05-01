@@ -2,14 +2,13 @@
 title: 摘要：ChromeAppHeroes：25K Star 的 Chrome 插件军火库，把浏览器变成生产力神器
 type: summary
 tags:
-- 开发工具
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Chrome插件, 效率工具, 开源工具
 source_article_url: ''
-notion_url: https://www.notion.so/176515b62a6b4f63866f7fe6f162d70a
+notion_url: https://www.notion.so/Tizer/176515b62a6b4f63866f7fe6f162d70a
 notion_id: 176515b6-2a6b-4f63-866f-7fe6f162d70a
 ---
 

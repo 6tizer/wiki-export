@@ -2,8 +2,8 @@
 title: Self-Refinement
 type: concept
 tags:
-- Coding Agent
-- 工作流
+- 知识管理
+- 提示工程
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

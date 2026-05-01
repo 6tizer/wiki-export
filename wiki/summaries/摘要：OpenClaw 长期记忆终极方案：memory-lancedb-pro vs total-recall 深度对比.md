@@ -3,13 +3,12 @@ title: 摘要：OpenClaw 长期记忆终极方案：memory-lancedb-pro vs total-
 type: summary
 tags:
 - OpenClaw
-- 记忆系统
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: OpenClaw, 自动化, Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/9492a7abc6c447c19c8de2640506e2ba
+notion_url: https://www.notion.so/Tizer/9492a7abc6c447c19c8de2640506e2ba
 notion_id: 9492a7ab-c6c4-47c1-9c8d-e2640506e2ba
 ---
 

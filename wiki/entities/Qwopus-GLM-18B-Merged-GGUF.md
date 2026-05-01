@@ -1,9 +1,7 @@
 ---
 title: Qwopus-GLM-18B-Merged-GGUF
 type: entity
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

@@ -2,14 +2,13 @@
 title: Coding Agent 驱动的知识管理范式迁移：从被动文档到可编译项目知识系统的架构路径
 type: synthesis
 tags:
-- Coding Agent
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e8d1cde3b12b4ec0808d6ce603c438ca
+notion_url: https://www.notion.so/Tizer/e8d1cde3b12b4ec0808d6ce603c438ca
 notion_id: e8d1cde3-b12b-4ec0-808d-6ce603c438ca
 ---
 

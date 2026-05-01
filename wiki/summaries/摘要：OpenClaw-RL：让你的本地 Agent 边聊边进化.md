@@ -3,13 +3,14 @@ title: 摘要：OpenClaw-RL：让你的本地 Agent 边聊边进化
 type: summary
 tags:
 - OpenClaw
-- LLM
+- 训练/微调
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/def21626d3d14b7696158ded44079e34
+notion_url: https://www.notion.so/Tizer/def21626d3d14b7696158ded44079e34
 notion_id: def21626-d3d1-4b76-9615-8ded44079e34
 ---
 

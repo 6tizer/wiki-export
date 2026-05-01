@@ -1,15 +1,13 @@
 ---
 title: 摘要：Depth Anything V2 is a total beast for real-time 3D.
 type: summary
-tags:
-- 内容创作
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688197bf87f39339234a5d
-notion_url: https://www.notion.so/bbceb984e78c4f5999a2d2210c3bcf70
+notion_url: https://www.notion.so/Tizer/bbceb984e78c4f5999a2d2210c3bcf70
 notion_id: bbceb984-e78c-4f59-99a2-d2210c3bcf70
 ---
 

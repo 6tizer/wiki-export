@@ -1,15 +1,13 @@
 ---
 title: 摘要：Claude Code 全屏渲染来了：长对话不再闪烁，还能用鼠标！
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881f4bcf5e5ee8e7352ab
-notion_url: https://www.notion.so/3170edf7c2eb47e89494e6e6775eee7d
+notion_url: https://www.notion.so/Tizer/3170edf7c2eb47e89494e6e6775eee7d
 notion_id: 3170edf7-c2eb-47e8-9494-e6e6775eee7d
 ---
 

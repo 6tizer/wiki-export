@@ -2,7 +2,6 @@
 title: MiniMax M2.5
 type: entity
 tags:
-- Coding Agent
 - 模型评测
 - 模型部署
 - 多模态

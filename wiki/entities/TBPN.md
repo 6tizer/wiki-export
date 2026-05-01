@@ -3,13 +3,12 @@ title: TBPN
 type: entity
 tags:
 - 商业/生态
-- 内容创作
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f90c96df6d7d4ea1b548df41a1426894
+notion_url: https://www.notion.so/Tizer/f90c96df6d7d4ea1b548df41a1426894
 notion_id: f90c96df-6d7d-4ea1-b548-df41a1426894
 ---
 

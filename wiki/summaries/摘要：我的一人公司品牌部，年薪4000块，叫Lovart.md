@@ -1,15 +1,13 @@
 ---
 title: 摘要：我的一人公司品牌部，年薪4000块，叫Lovart
 type: summary
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881cdb7fdf2772de7f76a
-notion_url: https://www.notion.so/f867425be5f84908992c69a26c3d1363
+notion_url: https://www.notion.so/Tizer/f867425be5f84908992c69a26c3d1363
 notion_id: f867425b-e5f8-4908-992c-69a26c3d1363
 ---
 

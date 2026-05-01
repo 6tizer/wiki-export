@@ -2,8 +2,9 @@
 title: Xesim
 type: entity
 tags:
-- 开发工具
 - 商业/生态
+- AI 产品
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

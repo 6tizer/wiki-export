@@ -2,13 +2,17 @@
 title: 摘要：AI 编程三大 SDD 工具深度对比（OpenSpec vs Superpowers vs GSD）
 type: summary
 tags:
-- 开发工具
+- 代码生成
+- 上下文管理
+- 多Agent协作
+- IDE 集成
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c6043734a27f43f98556587155652d92
+notion_url: https://www.notion.so/Tizer/c6043734a27f43f98556587155652d92
 notion_id: c6043734-a27f-43f9-8556-587155652d92
 ---
 

@@ -2,13 +2,17 @@
 title: 摘要：昨天公开的 Claude Code 源码是没法直接编译的，因为缺乏依赖文件。
 type: summary
 tags:
-- 开发工具
+- 上下文管理
+- 长期记忆
+- 多Agent协作
+- Agent 协作模式
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/486a5b4665074693b6a33f319e4f33bf
+notion_url: https://www.notion.so/Tizer/486a5b4665074693b6a33f319e4f33bf
 notion_id: 486a5b46-6507-4693-b6a3-3f319e4f33bf
 ---
 

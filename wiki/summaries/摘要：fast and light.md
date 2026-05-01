@@ -1,15 +1,13 @@
 ---
 title: 摘要：fast and light
 type: summary
-tags:
-- 开发工具
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881bf8a7cd3e77067de5c
-notion_url: https://www.notion.so/1bbbc73d09e7473891ec6faafdfee3c5
+notion_url: https://www.notion.so/Tizer/1bbbc73d09e7473891ec6faafdfee3c5
 notion_id: 1bbbc73d-09e7-4738-91ec-6faafdfee3c5
 ---
 

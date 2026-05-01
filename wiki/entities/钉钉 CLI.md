@@ -2,13 +2,15 @@
 title: 钉钉 CLI
 type: entity
 tags:
-- MCP 协议
+- CLI 工具
+- Agent 协作模式
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/291ed3c9259f48108ce250e80d888578
+notion_url: https://www.notion.so/Tizer/291ed3c9259f48108ce250e80d888578
 notion_id: 291ed3c9-259f-4810-8ce2-50e80d888578
 ---
 

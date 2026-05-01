@@ -13,7 +13,7 @@ confidence: high
 last_compiled: '2026-04-20'
 source_tags: OpenClaw, Agent, LLM, harness, GitHub
 source_article_url: https://www.notion.so/348701074b6881c2ae93fbbafccf6ede
-notion_url: https://www.notion.so/a5b0d8ec693945c3a34ed6afe52f8986
+notion_url: https://www.notion.so/Tizer/a5b0d8ec693945c3a34ed6afe52f8986
 notion_id: a5b0d8ec-6939-45c3-a34e-d6afe52f8986
 ---
 

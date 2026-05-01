@@ -3,12 +3,14 @@ title: 摘要：300万人围观，Karpathy怒喷OpenClaw。然后推荐了一个
 type: summary
 tags:
 - OpenClaw
+- CLI 工具
+- 代码生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/ba09d47dc3fd407187ad33b5f7d83173
+notion_url: https://www.notion.so/Tizer/ba09d47dc3fd407187ad33b5f7d83173
 notion_id: ba09d47d-c3fd-4071-87ad-33b5f7d83173
 ---
 

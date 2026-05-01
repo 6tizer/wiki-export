@@ -1,15 +1,13 @@
 ---
 title: 摘要：Seedance2.0 Prompt 圣经
 type: summary
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68817fa490fa0df94269a4
-notion_url: https://www.notion.so/ce60a6adce3e4d5793032a0fc24f20ee
+notion_url: https://www.notion.so/Tizer/ce60a6adce3e4d5793032a0fc24f20ee
 notion_id: ce60a6ad-ce3e-4d57-9303-2a0fc24f20ee
 ---
 

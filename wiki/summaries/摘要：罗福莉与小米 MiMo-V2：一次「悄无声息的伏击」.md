@@ -1,15 +1,13 @@
 ---
 title: 摘要：罗福莉与小米 MiMo-V2：一次「悄无声息的伏击」
 type: summary
-tags:
-- LLM
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881d89794eb375a36f6a2
-notion_url: https://www.notion.so/cea50ec3c9874940b3aacaacd17ce103
+notion_url: https://www.notion.so/Tizer/cea50ec3c9874940b3aacaacd17ce103
 notion_id: cea50ec3-c987-4940-b3aa-caacd17ce103
 ---
 

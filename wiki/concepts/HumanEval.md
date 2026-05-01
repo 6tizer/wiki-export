@@ -1,15 +1,13 @@
 ---
 title: HumanEval
 type: concept
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/812b9a2d9444420d8559795ec37b1262
+notion_url: https://www.notion.so/Tizer/812b9a2d9444420d8559795ec37b1262
 notion_id: 812b9a2d-9444-420d-8559-795ec37b1262
 ---
 

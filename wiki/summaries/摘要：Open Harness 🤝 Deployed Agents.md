@@ -1,15 +1,13 @@
 ---
 title: 摘要：Open Harness 🤝 Deployed Agents
 type: summary
-tags:
-- Agent 编排
-- Agent 框架
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688105b5abe6826ffde1f5
-notion_url: https://www.notion.so/1d899288e987445ea1dfbe9f870fe579
+notion_url: https://www.notion.so/Tizer/1d899288e987445ea1dfbe9f870fe579
 notion_id: 1d899288-e987-445e-a1df-be9f870fe579
 ---
 

@@ -2,8 +2,9 @@
 title: Checkpoint-and-Resume
 type: concept
 tags:
-- Agent 编排
-- 工作流
+- Agent 协作模式
+- 长期记忆
+- 知识管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

@@ -1,9 +1,7 @@
 ---
 title: Mediator 层
 type: concept
-tags:
-- Agent 编排
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

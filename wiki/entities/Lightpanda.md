@@ -2,8 +2,9 @@
 title: Lightpanda
 type: entity
 tags:
-- Agent 技能
-- 开发工具
+- 浏览器自动化
+- AI 产品
+- 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

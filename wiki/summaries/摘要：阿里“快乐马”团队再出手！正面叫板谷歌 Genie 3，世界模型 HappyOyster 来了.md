@@ -1,15 +1,13 @@
 ---
 title: 摘要：阿里“快乐马”团队再出手！正面叫板谷歌 Genie 3，世界模型 HappyOyster 来了
 type: summary
-tags:
-- 内容创作
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688199ac82feb7e9b56e29
-notion_url: https://www.notion.so/2dc31d9693a945e1ae1d78466cfaab93
+notion_url: https://www.notion.so/Tizer/2dc31d9693a945e1ae1d78466cfaab93
 notion_id: 2dc31d96-93a9-45e1-ae1d-78466cfaab93
 ---
 

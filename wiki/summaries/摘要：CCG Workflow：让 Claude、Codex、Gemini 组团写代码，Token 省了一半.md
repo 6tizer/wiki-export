@@ -2,14 +2,16 @@
 title: 摘要：CCG Workflow：让 Claude、Codex、Gemini 组团写代码，Token 省了一半
 type: summary
 tags:
-- 开发工具
-- Agent 编排
+- Agent 协作模式
+- 多Agent协作
+- 代码生成
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, OpenClaw, Cursor
 source_article_url: ''
-notion_url: https://www.notion.so/f13eb9e9c1fd45b7ba09b71a3b36e3b2
+notion_url: https://www.notion.so/Tizer/f13eb9e9c1fd45b7ba09b71a3b36e3b2
 notion_id: f13eb9e9-c1fd-45b7-ba09-b71a3b36e3b2
 ---
 

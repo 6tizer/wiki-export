@@ -2,14 +2,13 @@
 title: Canva
 type: entity
 tags:
-- 内容创作
 - 商业/生态
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6841d14d4b5a47d1a3381968a9fb81a2
+notion_url: https://www.notion.so/Tizer/6841d14d4b5a47d1a3381968a9fb81a2
 notion_id: 6841d14d-4b5a-47d1-a338-1968a9fb81a2
 ---
 

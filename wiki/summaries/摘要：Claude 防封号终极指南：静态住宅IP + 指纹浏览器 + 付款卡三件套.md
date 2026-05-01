@@ -1,15 +1,13 @@
 ---
 title: 摘要：Claude 防封号终极指南：静态住宅IP + 指纹浏览器 + 付款卡三件套
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Claude, 风控, 防封号, IP/代理
 source_article_url: ''
-notion_url: https://www.notion.so/fc5472c2b6494c2f87a0571703db93a0
+notion_url: https://www.notion.so/Tizer/fc5472c2b6494c2f87a0571703db93a0
 notion_id: fc5472c2-b649-4c2f-87a0-571703db93a0
 ---
 

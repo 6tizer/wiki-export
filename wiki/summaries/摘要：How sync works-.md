@@ -1,15 +1,13 @@
 ---
 title: '摘要：How sync works:'
 type: summary
-tags:
-- 开发工具
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688177881bdde74c5ee8c3
-notion_url: https://www.notion.so/d89c05decb8e4808886f711c60aaafa1
+notion_url: https://www.notion.so/Tizer/d89c05decb8e4808886f711c60aaafa1
 notion_id: d89c05de-cb8e-4808-886f-711c60aaafa1
 ---
 

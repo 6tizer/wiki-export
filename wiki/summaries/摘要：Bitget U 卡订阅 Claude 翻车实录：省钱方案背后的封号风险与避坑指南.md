@@ -2,14 +2,14 @@
 title: 摘要：Bitget U 卡订阅 Claude 翻车实录：省钱方案背后的封号风险与避坑指南
 type: summary
 tags:
-- 安全/隐私
 - 商业/生态
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Cursor
 source_article_url: ''
-notion_url: https://www.notion.so/f9ee32c6031645ab8d3ff33496b8fe7e
+notion_url: https://www.notion.so/Tizer/f9ee32c6031645ab8d3ff33496b8fe7e
 notion_id: f9ee32c6-0316-45ab-8d3f-f33496b8fe7e
 ---
 

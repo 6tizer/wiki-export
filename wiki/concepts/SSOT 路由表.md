@@ -3,7 +3,6 @@ title: SSOT 路由表
 type: concept
 tags:
 - 知识管理
-- Coding Agent
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'

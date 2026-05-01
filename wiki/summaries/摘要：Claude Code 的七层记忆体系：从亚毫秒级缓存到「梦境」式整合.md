@@ -1,15 +1,13 @@
 ---
 title: 摘要：Claude Code 的七层记忆体系：从亚毫秒级缓存到「梦境」式整合
 type: summary
-tags:
-- Coding Agent
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33d701074b68819db6c5e39bb1c81c28
-notion_url: https://www.notion.so/39bc652c44bc4c89a5ebc5676c491b0a
+notion_url: https://www.notion.so/Tizer/39bc652c44bc4c89a5ebc5676c491b0a
 notion_id: 39bc652c-44bc-4c89-a5eb-c5676c491b0a
 ---
 

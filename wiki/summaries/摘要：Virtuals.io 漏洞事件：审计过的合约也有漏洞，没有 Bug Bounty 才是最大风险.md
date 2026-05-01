@@ -2,13 +2,13 @@
 title: 摘要：Virtuals.io 漏洞事件：审计过的合约也有漏洞，没有 Bug Bounty 才是最大风险
 type: summary
 tags:
-- Crypto/DeFi
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: 网络安全, 漏洞, DeFi, Solana
 source_article_url: ''
-notion_url: https://www.notion.so/c8c6133936e84b3fb683415e0a5bfa3a
+notion_url: https://www.notion.so/Tizer/c8c6133936e84b3fb683415e0a5bfa3a
 notion_id: c8c61339-36e8-4b3f-b683-415e0a5bfa3a
 ---
 

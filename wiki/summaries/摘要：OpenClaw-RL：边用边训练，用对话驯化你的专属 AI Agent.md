@@ -3,13 +3,14 @@ title: 摘要：OpenClaw-RL：边用边训练，用对话驯化你的专属 AI A
 type: summary
 tags:
 - OpenClaw
-- LLM
+- 训练/微调
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b688142be20fbec38d8cdce
-notion_url: https://www.notion.so/19954c1868054048a05615fd2189f9a0
+notion_url: https://www.notion.so/Tizer/19954c1868054048a05615fd2189f9a0
 notion_id: 19954c18-6805-4048-a056-15fd2189f9a0
 ---
 

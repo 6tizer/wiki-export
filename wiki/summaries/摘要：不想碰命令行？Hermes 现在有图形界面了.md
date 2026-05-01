@@ -1,14 +1,13 @@
 ---
 title: 摘要：不想碰命令行？Hermes 现在有图形界面了
 type: summary
-tags:
-- Agent 框架
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68815e9cc0e3e19c4898b3
-notion_url: https://www.notion.so/fbfb7b13473d410995006f11104fb2a0
+notion_url: https://www.notion.so/Tizer/fbfb7b13473d410995006f11104fb2a0
 notion_id: fbfb7b13-473d-4109-9500-6f11104fb2a0
 ---
 

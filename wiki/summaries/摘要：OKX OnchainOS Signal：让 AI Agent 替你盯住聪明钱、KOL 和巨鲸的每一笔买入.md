@@ -2,14 +2,15 @@
 title: 摘要：OKX OnchainOS Signal：让 AI Agent 替你盯住聪明钱、KOL 和巨鲸的每一笔买入
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 框架
+- 加密资产
+- 量化交易
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/b3a4770164ca4a23a656666ac0c25a40
+notion_url: https://www.notion.so/Tizer/b3a4770164ca4a23a656666ac0c25a40
 notion_id: b3a47701-64ca-4a23-a656-666ac0c25a40
 ---
 
@@ -27,7 +28,7 @@ OKX OnchainOS 的 Signal 能力把链上聪明钱、KOL 和巨鲸的买入行为
 
 ### 提取的概念
 
-- [OKX OnchainOS](concepts/OKX OnchainOS.md)
+- [OKX OnchainOS](entities/OKX OnchainOS.md)
 
 - OnchainOS Signal
 

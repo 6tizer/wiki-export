@@ -2,13 +2,14 @@
 title: Coinglass
 type: entity
 tags:
-- Crypto/DeFi
+- 量化交易
+- 加密资产
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6c5ceb58e8814dfc8dcb8ff1e6426880
+notion_url: https://www.notion.so/Tizer/6c5ceb58e8814dfc8dcb8ff1e6426880
 notion_id: 6c5ceb58-e881-4dfc-8dcb-8ff1e6426880
 ---
 

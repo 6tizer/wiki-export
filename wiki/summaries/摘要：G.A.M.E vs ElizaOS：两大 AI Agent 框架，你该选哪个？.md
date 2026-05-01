@@ -2,13 +2,15 @@
 title: 摘要：G.A.M.E vs ElizaOS：两大 AI Agent 框架，你该选哪个？
 type: summary
 tags:
-- Crypto/DeFi
+- Agent 协作模式
+- 多Agent协作
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, Crypto
 source_article_url: ''
-notion_url: https://www.notion.so/a8560bdceb5f402387b59a047bf6c6e2
+notion_url: https://www.notion.so/Tizer/a8560bdceb5f402387b59a047bf6c6e2
 notion_id: a8560bdc-eb5f-4023-87b5-9a047bf6c6e2
 ---
 

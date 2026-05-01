@@ -2,14 +2,14 @@
 title: OpenShell
 type: entity
 tags:
-- 安全/隐私
+- Agent 安全
 - OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a9666bb7044c4dbc9ef6db1f76b628d0
+notion_url: https://www.notion.so/Tizer/a9666bb7044c4dbc9ef6db1f76b628d0
 notion_id: a9666bb7-044c-4dbc-9ef6-db1f76b628d0
 ---
 

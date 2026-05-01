@@ -2,14 +2,17 @@
 title: 摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」
 type: summary
 tags:
-- Crypto/DeFi
 - OpenClaw
+- 加密资产
+- 量化交易
+- 商业/生态
+- Agent 安全
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/df54843fbd074a49aa0f502718377357
+notion_url: https://www.notion.so/Tizer/df54843fbd074a49aa0f502718377357
 notion_id: df54843f-bd07-4a49-aa0f-502718377357
 ---
 

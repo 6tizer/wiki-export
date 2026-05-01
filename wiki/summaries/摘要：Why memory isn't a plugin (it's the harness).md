@@ -1,15 +1,13 @@
 ---
 title: 摘要：Why memory isn't a plugin (it's the harness)
 type: summary
-tags:
-- Agent 编排
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-14'
 source_tags: ''
 source_article_url: https://www.notion.so/342701074b6881838523edddb7a69874
-notion_url: https://www.notion.so/aeb3b1394a9840f2b80443c4fa55c573
+notion_url: https://www.notion.so/Tizer/aeb3b1394a9840f2b80443c4fa55c573
 notion_id: aeb3b139-4a98-40f2-b804-43c4fa55c573
 ---
 

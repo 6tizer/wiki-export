@@ -2,13 +2,15 @@
 title: 摘要：对话 OiiOii 创始人闹闹：做 AI 时代的皮克斯
 type: summary
 tags:
-- 工作流
+- 商业/生态
+- 视频/3D
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e5022ab129704c63b4a4373281b38a06
+notion_url: https://www.notion.so/Tizer/e5022ab129704c63b4a4373281b38a06
 notion_id: e5022ab1-2970-4c63-b4a4-373281b38a06
 ---
 

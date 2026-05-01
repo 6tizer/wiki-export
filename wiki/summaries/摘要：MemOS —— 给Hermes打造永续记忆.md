@@ -33,7 +33,7 @@ MemOS 为 Hermes Agent 提供系统级长期记忆能力，通过语义切块、
 
 - [MemOS](entities/MemOS.md)
 
-- [Hermes](entities/Hermes.md)
+- Hermes
 
 - [记忆操作系统](concepts/记忆操作系统.md)
 

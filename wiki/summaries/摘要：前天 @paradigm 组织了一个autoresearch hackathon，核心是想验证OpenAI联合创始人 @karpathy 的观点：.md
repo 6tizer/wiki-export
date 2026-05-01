@@ -1,15 +1,13 @@
 ---
 title: 摘要：前天 @paradigm 组织了一个autoresearch hackathon，核心是想验证OpenAI联合创始人 @karpathy 的观点：
 type: summary
-tags:
-- Agent 编排
-- 工作流
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b68815ab4bdeb2f81f19553
-notion_url: https://www.notion.so/655d715b97ec4b83ba85a34051b3f139
+notion_url: https://www.notion.so/Tizer/655d715b97ec4b83ba85a34051b3f139
 notion_id: 655d715b-97ec-4b83-ba85-a34051b3f139
 ---
 

@@ -4,13 +4,12 @@ type: entity
 tags:
 - 前端开发
 - 浏览器自动化
-- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/a02775a05eba45d48c0c353c8e36be37
+notion_url: https://www.notion.so/Tizer/a02775a05eba45d48c0c353c8e36be37
 notion_id: a02775a0-5eba-45d4-8c0c-353c8e36be37
 ---
 

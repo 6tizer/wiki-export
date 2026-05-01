@@ -3,12 +3,16 @@ title: 摘要：龙虾成本狂陆58%！ClawXRouter开源智能调度员
 type: summary
 tags:
 - OpenClaw
+- 多Agent协作
+- Agent 协作模式
+- 长期记忆
+- 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1f19c381702b44e0a32dd43c7e38600c
+notion_url: https://www.notion.so/Tizer/1f19c381702b44e0a32dd43c7e38600c
 notion_id: 1f19c381-702b-44e0-a32d-d43c7e38600c
 ---
 

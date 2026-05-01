@@ -1,15 +1,13 @@
 ---
 title: 摘要：Hermes Agent 从中级到高级进阶指南
 type: summary
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68813687c2d3061814a312
-notion_url: https://www.notion.so/430960793e1b4d608d12845c98f00579
+notion_url: https://www.notion.so/Tizer/430960793e1b4d608d12845c98f00579
 notion_id: 43096079-3e1b-4d60-8d12-845c98f00579
 ---
 

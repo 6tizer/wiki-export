@@ -1,15 +1,13 @@
 ---
 title: AAAK 方言
 type: concept
-tags:
-- 记忆系统
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4e3e3b4abc12438284bc2cb897394aff
+notion_url: https://www.notion.so/Tizer/4e3e3b4abc12438284bc2cb897394aff
 notion_id: 4e3e3b4a-bc12-4382-84bc-2cb897394aff
 ---
 

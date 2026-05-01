@@ -4,14 +4,13 @@ title: 摘要：20-year-old Chinese developer made more than $100,000 starting b
   to Verse.
 type: summary
 tags:
-- Coding Agent
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881a8ba8bc2060c2542c6
-notion_url: https://www.notion.so/cf3b3a1fe1b34c15b922cf0dd3e3f4b0
+notion_url: https://www.notion.so/Tizer/cf3b3a1fe1b34c15b922cf0dd3e3f4b0
 notion_id: cf3b3a1f-e1b3-4c15-b922-cf0dd3e3f4b0
 ---
 

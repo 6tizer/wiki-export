@@ -1,14 +1,13 @@
 ---
 title: Auto Memory
 type: concept
-tags:
-- 记忆系统
+tags: []
 status: 审核中
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f6a14ecd58434e4699b9469eb343f4fd
+notion_url: https://www.notion.so/Tizer/f6a14ecd58434e4699b9469eb343f4fd
 notion_id: f6a14ecd-5843-4e46-99b9-469eb343f4fd
 ---
 

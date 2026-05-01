@@ -8,7 +8,7 @@ confidence: high
 last_compiled: '2026-04-28'
 source_tags: Claude Code, 行业观察
 source_article_url: ''
-notion_url: https://www.notion.so/aef689f92616486088a4951ffdcf21b0
+notion_url: https://www.notion.so/Tizer/aef689f92616486088a4951ffdcf21b0
 notion_id: aef689f9-2616-4860-88a4-951ffdcf21b0
 ---
 

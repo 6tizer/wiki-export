@@ -1,15 +1,13 @@
 ---
 title: 摘要：用AI蒸馏了一下我做的很准的比特币交易策略给大家
 type: summary
-tags:
-- Crypto/DeFi
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688102a573d9c9b410c688
-notion_url: https://www.notion.so/d576e1fde8904592a24e67504b4ecb47
+notion_url: https://www.notion.so/Tizer/d576e1fde8904592a24e67504b4ecb47
 notion_id: d576e1fd-e890-4592-a24e-67504b4ecb47
 ---
 

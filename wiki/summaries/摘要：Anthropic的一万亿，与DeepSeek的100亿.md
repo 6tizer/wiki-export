@@ -2,14 +2,13 @@
 title: 摘要：Anthropic的一万亿，与DeepSeek的100亿
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881f5940ddeb66150526c
-notion_url: https://www.notion.so/883f560ef99b4422b4c395c262d781a5
+notion_url: https://www.notion.so/Tizer/883f560ef99b4422b4c395c262d781a5
 notion_id: 883f560e-f99b-4422-b4c3-95c262d781a5
 ---
 

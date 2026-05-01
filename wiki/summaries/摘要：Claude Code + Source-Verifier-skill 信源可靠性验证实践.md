@@ -2,14 +2,15 @@
 title: 摘要：Claude Code + Source-Verifier-skill 信源可靠性验证实践
 type: summary
 tags:
-- 开发工具
 - 知识管理
+- 内容自动化
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/9ce5f9981ebf4114b2b36f42f88950f9
+notion_url: https://www.notion.so/Tizer/9ce5f9981ebf4114b2b36f42f88950f9
 notion_id: 9ce5f998-1ebf-4114-b2b3-6f42f88950f9
 ---
 

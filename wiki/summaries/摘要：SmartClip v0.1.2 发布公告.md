@@ -3,13 +3,12 @@ title: 摘要：SmartClip v0.1.2 发布公告
 type: summary
 tags:
 - 知识管理
-- Agent 技能
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688173bb18e7e01de70180
-notion_url: https://www.notion.so/66ba89b86b954c9cbd556c304ecbcf21
+notion_url: https://www.notion.so/Tizer/66ba89b86b954c9cbd556c304ecbcf21
 notion_id: 66ba89b8-6b95-4c9c-bd55-6c304ecbcf21
 ---
 

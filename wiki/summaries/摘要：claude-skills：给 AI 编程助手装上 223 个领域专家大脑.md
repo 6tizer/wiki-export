@@ -2,14 +2,16 @@
 title: 摘要：claude-skills：给 AI 编程助手装上 223 个领域专家大脑
 type: summary
 tags:
-- Agent 技能
-- 开发工具
+- Agent 协作模式
+- OpenClaw
+- 代码生成
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, Cursor, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/568e3f7cdaee40fc9661a04ae75b1641
+notion_url: https://www.notion.so/Tizer/568e3f7cdaee40fc9661a04ae75b1641
 notion_id: 568e3f7c-daee-40fc-9661-a04ae75b1641
 ---
 

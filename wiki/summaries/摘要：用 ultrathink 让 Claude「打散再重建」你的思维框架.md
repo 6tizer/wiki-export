@@ -2,14 +2,15 @@
 title: 摘要：用 ultrathink 让 Claude「打散再重建」你的思维框架
 type: summary
 tags:
-- Coding Agent
-- LLM
+- 知识管理
+- 提示工程
+- 推理优化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent
 source_article_url: https://www.notion.so/335701074b688157bec7f98a66ea6b18
-notion_url: https://www.notion.so/6755708544f0456281be0cd62544bc7e
+notion_url: https://www.notion.so/Tizer/6755708544f0456281be0cd62544bc7e
 notion_id: 67557085-44f0-4562-81be-0cd62544bc7e
 ---
 

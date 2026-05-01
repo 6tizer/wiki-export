@@ -2,14 +2,17 @@
 title: 摘要：脑子是个好东西：为龙虾和 CC 加装外脑之后，这俩货要上天了
 type: summary
 tags:
-- 记忆系统
 - OpenClaw
+- RAG/检索
+- 上下文管理
+- 长期记忆
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/3e89900528b249209a3e73079da33c52
+notion_url: https://www.notion.so/Tizer/3e89900528b249209a3e73079da33c52
 notion_id: 3e899005-28b2-4920-9a3e-73079da33c52
 ---
 

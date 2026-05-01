@@ -2,14 +2,13 @@
 title: 开发工具驱动的知识管理新范式：从手动收藏到 Agent 原生知识编译的工具链演进
 type: synthesis
 tags:
-- 开发工具
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a58dd081ebbc4a90938b42eb8d5a84c0
+notion_url: https://www.notion.so/Tizer/a58dd081ebbc4a90938b42eb8d5a84c0
 notion_id: a58dd081-ebbc-4a90-938b-42eb8d5a84c0
 ---
 

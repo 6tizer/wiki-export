@@ -1,15 +1,13 @@
 ---
 title: 摘要：auth2api：用 Claude Max 订阅伪装成真实 CLI 用户，自建 OpenAI 兼容 API 代理
 type: summary
-tags:
-- Coding Agent
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: LLM, Agent, 自动化
 source_article_url: https://www.notion.so/33e701074b6881e498e1d9699ef0f9f1
-notion_url: https://www.notion.so/02ad180c67534982804276a719195739
+notion_url: https://www.notion.so/Tizer/02ad180c67534982804276a719195739
 notion_id: 02ad180c-6753-4982-8042-76a719195739
 ---
 

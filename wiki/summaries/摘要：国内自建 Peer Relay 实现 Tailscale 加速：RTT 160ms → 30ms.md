@@ -1,15 +1,13 @@
 ---
 title: 摘要：国内自建 Peer Relay 实现 Tailscale 加速：RTT 160ms → 30ms
 type: summary
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688115a09bde547a7828d4
-notion_url: https://www.notion.so/291ac9e2807a4cdfad5f3ba36ef5d23c
+notion_url: https://www.notion.so/Tizer/291ac9e2807a4cdfad5f3ba36ef5d23c
 notion_id: 291ac9e2-807a-4cdf-ad5f-3ba36ef5d23c
 ---
 

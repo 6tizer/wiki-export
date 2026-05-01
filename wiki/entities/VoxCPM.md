@@ -1,9 +1,7 @@
 ---
 title: VoxCPM
 type: entity
-tags:
-- 内容创作
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'

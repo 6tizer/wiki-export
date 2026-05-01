@@ -10,7 +10,7 @@ confidence: medium
 last_compiled: '2026-04-20'
 source_tags: 计算机视觉, 目标检测, YOLO, 提示词, skills
 source_article_url: https://www.notion.so/348701074b688152b7e5deba742da9d0
-notion_url: https://www.notion.so/03ea816771d3423c954cef9619c2cde9
+notion_url: https://www.notion.so/Tizer/03ea816771d3423c954cef9619c2cde9
 notion_id: 03ea8167-71d3-423c-954c-ef9619c2cde9
 ---
 

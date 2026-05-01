@@ -3,13 +3,12 @@ title: 摘要：🇩🇪 德国O2 eSIM神卡-保姆级申请教程 | 0元开卡 
 type: summary
 tags:
 - 商业/生态
-- 安全/隐私
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881a4927cc3f01ccea92b
-notion_url: https://www.notion.so/d0f828ab1585454da4959928be15982d
+notion_url: https://www.notion.so/Tizer/d0f828ab1585454da4959928be15982d
 notion_id: d0f828ab-1585-454d-a495-9928be15982d
 ---
 

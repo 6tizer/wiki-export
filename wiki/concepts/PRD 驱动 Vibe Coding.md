@@ -1,15 +1,13 @@
 ---
 title: PRD 驱动 Vibe Coding
 type: concept
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: OpenClaw, 自动化, Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/1358db3d1f2241f2a8768f90cbaa065d
+notion_url: https://www.notion.so/Tizer/1358db3d1f2241f2a8768f90cbaa065d
 notion_id: 1358db3d-1f22-41f2-a876-8f90cbaa065d
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: opencli-rs
 type: entity
-tags:
-- 开发工具
-- Agent 技能
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c34dba9dbd854cfd904c7bde71a1f078
+notion_url: https://www.notion.so/Tizer/c34dba9dbd854cfd904c7bde71a1f078
 notion_id: c34dba9d-bd85-4cfd-904c-7bde71a1f078
 ---
 

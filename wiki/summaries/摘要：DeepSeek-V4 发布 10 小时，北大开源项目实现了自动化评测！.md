@@ -1,15 +1,13 @@
 ---
 title: 摘要：DeepSeek-V4 发布 10 小时，北大开源项目实现了自动化评测！
 type: summary
-tags:
-- LLM
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: https://www.notion.so/34c701074b6881969eb8d77d3c26dc2f
-notion_url: https://www.notion.so/24a65771096541a7b80467d44299c92e
+notion_url: https://www.notion.so/Tizer/24a65771096541a7b80467d44299c92e
 notion_id: 24a65771-0965-41a7-b804-67d44299c92e
 ---
 

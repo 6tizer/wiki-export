@@ -1,14 +1,13 @@
 ---
 title: MiniMax M2.7
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8bca626000864f3b9ce1e029fc869ccd
+notion_url: https://www.notion.so/Tizer/8bca626000864f3b9ce1e029fc869ccd
 notion_id: 8bca6260-0086-4f3b-9ce1-e029fc869ccd
 ---
 

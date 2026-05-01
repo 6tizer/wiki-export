@@ -1,15 +1,13 @@
 ---
 title: 摘要：Skill 的机会不在单点，在编排：一种你可能还没想过的架构能力
 type: summary
-tags:
-- Agent 编排
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688157909ce1898ca4d71e
-notion_url: https://www.notion.so/219a66931a8245f986858f171daef8ee
+notion_url: https://www.notion.so/Tizer/219a66931a8245f986858f171daef8ee
 notion_id: 219a6693-1a82-45f9-8685-8f171daef8ee
 ---
 
@@ -33,7 +31,7 @@ notion_id: 219a6693-1a82-45f9-8685-8f171daef8ee
 
 - [Skill 编排](concepts/Skill 编排.md)
 
-- [Skill Architecture](concepts/Skill Architecture.md)
+- Skill Architecture
 
 - [Skill Architect](concepts/Skill Architect.md)
 

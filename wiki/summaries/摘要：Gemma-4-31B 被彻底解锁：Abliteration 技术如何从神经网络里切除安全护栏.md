@@ -1,15 +1,13 @@
 ---
 title: 摘要：Gemma-4-31B 被彻底解锁：Abliteration 技术如何从神经网络里切除安全护栏
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: LLM, Agent
 source_article_url: https://www.notion.so/33d701074b68816abe47e9756d2514ad
-notion_url: https://www.notion.so/8fd88d8ffe244dc4a788c9604265928f
+notion_url: https://www.notion.so/Tizer/8fd88d8ffe244dc4a788c9604265928f
 notion_id: 8fd88d8f-fe24-4dc4-a788-c9604265928f
 ---
 

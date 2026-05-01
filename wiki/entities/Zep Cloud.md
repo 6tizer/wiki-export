@@ -2,13 +2,15 @@
 title: Zep Cloud
 type: entity
 tags:
+- Agent 协作模式
 - 长期记忆
+- 上下文管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3aca6ba513ce4e25afe7a000e480933c
+notion_url: https://www.notion.so/Tizer/3aca6ba513ce4e25afe7a000e480933c
 notion_id: 3aca6ba5-13ce-4e25-afe7-a000e480933c
 ---
 

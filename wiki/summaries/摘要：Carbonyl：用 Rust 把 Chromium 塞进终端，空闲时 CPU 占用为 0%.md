@@ -2,13 +2,15 @@
 title: 摘要：Carbonyl：用 Rust 把 Chromium 塞进终端，空闲时 CPU 占用为 0%
 type: summary
 tags:
-- 开发工具
+- 浏览器自动化
+- CLI 工具
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: 自动化, 终端, Rust
 source_article_url: ''
-notion_url: https://www.notion.so/90dba44c09e14a149eb348b346272051
+notion_url: https://www.notion.so/Tizer/90dba44c09e14a149eb348b346272051
 notion_id: 90dba44c-09e1-4a14-9eb3-48b346272051
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: 摘要：找到了一种Codex自由的方式，无限量
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化, codex, openai
 source_article_url: ''
-notion_url: https://www.notion.so/ccc3fe3c2d7449e5a30c228635e10be7
+notion_url: https://www.notion.so/Tizer/ccc3fe3c2d7449e5a30c228635e10be7
 notion_id: ccc3fe3c-2d74-49e5-a30c-228635e10be7
 ---
 

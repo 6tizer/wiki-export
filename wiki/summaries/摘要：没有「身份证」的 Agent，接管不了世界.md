@@ -2,14 +2,13 @@
 title: 摘要：没有「身份证」的 Agent，接管不了世界
 type: summary
 tags:
-- 安全/隐私
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68816eaddff769cca6a313
-notion_url: https://www.notion.so/087b5db3abcc4c128aa4b4c6fbf7fd1e
+notion_url: https://www.notion.so/Tizer/087b5db3abcc4c128aa4b4c6fbf7fd1e
 notion_id: 087b5db3-abcc-4c12-8aa4-b4c6fbf7fd1e
 ---
 

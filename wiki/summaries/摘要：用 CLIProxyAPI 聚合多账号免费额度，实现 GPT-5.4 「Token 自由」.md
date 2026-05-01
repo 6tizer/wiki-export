@@ -1,15 +1,13 @@
 ---
 title: 摘要：用 CLIProxyAPI 聚合多账号免费额度，实现 GPT-5.4 「Token 自由」
 type: summary
-tags:
-- 开发工具
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: LLM, 自动化, Cliproxy
 source_article_url: https://www.notion.so/33d701074b688159aba0dd3e8bd19d7d
-notion_url: https://www.notion.so/12d3e47d76d941079fbb028e118d0056
+notion_url: https://www.notion.so/Tizer/12d3e47d76d941079fbb028e118d0056
 notion_id: 12d3e47d-76d9-4107-9fbb-028e118d0056
 ---
 

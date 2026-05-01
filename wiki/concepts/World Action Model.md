@@ -1,8 +1,7 @@
 ---
 title: World Action Model
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

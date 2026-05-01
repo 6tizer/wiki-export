@@ -1,15 +1,13 @@
 ---
 title: 摘要：Nunchi agent-cli：让 AI 在 Hyperliquid 上自主交易的开源全栈方案
 type: summary
-tags:
-- Crypto/DeFi
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: Agent, OpenClaw, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b6881968d88c0e03a37a5db
-notion_url: https://www.notion.so/446e39abdc66472eb5dc28da37cdc729
+notion_url: https://www.notion.so/Tizer/446e39abdc66472eb5dc28da37cdc729
 notion_id: 446e39ab-dc66-472e-b5dc-28da37cdc729
 ---
 

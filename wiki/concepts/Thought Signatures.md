@@ -1,15 +1,13 @@
 ---
 title: Thought Signatures
 type: concept
-tags:
-- LLM
-- 记忆系统
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/117e32afaa164fa483111bc003a0ccea
+notion_url: https://www.notion.so/Tizer/117e32afaa164fa483111bc003a0ccea
 notion_id: 117e32af-aa16-4fa4-8311-1bc003a0ccea
 ---
 

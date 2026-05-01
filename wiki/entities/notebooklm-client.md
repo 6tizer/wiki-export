@@ -2,7 +2,6 @@
 title: notebooklm-client
 type: entity
 tags:
-- Agent 技能
 - 知识管理
 status: 审核中
 confidence: high

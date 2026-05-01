@@ -1,15 +1,13 @@
 ---
 title: Catch-All 邮件路由
 type: concept
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b40adbc847ea45178318aa862fc0f543
+notion_url: https://www.notion.so/Tizer/b40adbc847ea45178318aa862fc0f543
 notion_id: b40adbc8-47ea-4517-8318-aa862fc0f543
 ---
 

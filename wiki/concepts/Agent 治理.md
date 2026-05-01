@@ -1,9 +1,7 @@
 ---
 title: Agent 治理
 type: concept
-tags:
-- Agent 编排
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

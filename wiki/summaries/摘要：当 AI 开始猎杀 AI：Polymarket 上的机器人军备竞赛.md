@@ -2,13 +2,18 @@
 title: 摘要：当 AI 开始猎杀 AI：Polymarket 上的机器人军备竞赛
 type: summary
 tags:
-- Crypto/DeFi
+- 量化交易
+- 加密资产
+- 商业/生态
+- 多Agent协作
+- Agent 协作模式
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b688170b4e7f40f5adc2d24
-notion_url: https://www.notion.so/e24fb400e7bf470e965e6132dbdcf7f4
+notion_url: https://www.notion.so/Tizer/e24fb400e7bf470e965e6132dbdcf7f4
 notion_id: e24fb400-e7bf-470e-965e-6132dbdcf7f4
 ---
 

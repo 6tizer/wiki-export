@@ -1,15 +1,13 @@
 ---
 title: MLX 框架
 type: entity
-tags:
-- 开发工具
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3814fd869c2b464ebc5ab8d28a6a2ca6
+notion_url: https://www.notion.so/Tizer/3814fd869c2b464ebc5ab8d28a6a2ca6
 notion_id: 3814fd86-9c2b-464e-bc5a-b8d28a6a2ca6
 ---
 

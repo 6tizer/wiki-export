@@ -2,6 +2,8 @@
 title: Symphony
 type: entity
 tags:
+- AI 设计
+- Harness 工程
 - Agent 协作模式
 status: 审核中
 confidence: high

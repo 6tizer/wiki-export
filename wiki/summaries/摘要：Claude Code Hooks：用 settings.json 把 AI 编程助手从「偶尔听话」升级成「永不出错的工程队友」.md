@@ -1,14 +1,13 @@
 ---
 title: 摘要：Claude Code Hooks：用 settings.json 把 AI 编程助手从「偶尔听话」升级成「永不出错的工程队友」
 type: summary
-tags:
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, 自动化, LLM, Claude, Hooks
 source_article_url: https://www.notion.so/33d701074b68812eb95be233c9e5a03b
-notion_url: https://www.notion.so/95548ae67e4a4f6382808fe6a40c720e
+notion_url: https://www.notion.so/Tizer/95548ae67e4a4f6382808fe6a40c720e
 notion_id: 95548ae6-7e4a-4f63-8280-8fe6a40c720e
 ---
 

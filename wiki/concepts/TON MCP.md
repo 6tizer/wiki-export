@@ -1,15 +1,13 @@
 ---
 title: TON MCP
 type: concept
-tags:
-- Agent 技能
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/98b3432bb34b4e14a57893a610defba8
+notion_url: https://www.notion.so/Tizer/98b3432bb34b4e14a57893a610defba8
 notion_id: 98b3432b-b34b-4e14-a578-93a610defba8
 ---
 

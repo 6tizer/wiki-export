@@ -1,14 +1,13 @@
 ---
 title: KV Prefix Caching
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ed578041b1ef478488dc0114f2f29e53
+notion_url: https://www.notion.so/Tizer/ed578041b1ef478488dc0114f2f29e53
 notion_id: ed578041-b1ef-4784-88dc-0114f2f29e53
 ---
 

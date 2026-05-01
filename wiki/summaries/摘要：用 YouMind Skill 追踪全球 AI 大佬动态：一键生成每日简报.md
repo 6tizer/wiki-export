@@ -2,14 +2,15 @@
 title: 摘要：用 YouMind Skill 追踪全球 AI 大佬动态：一键生成每日简报
 type: summary
 tags:
-- 知识管理
-- 工作流
+- 内容自动化
+- OpenClaw
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/06eed12afa124627acfdba0f8443dab3
+notion_url: https://www.notion.so/Tizer/06eed12afa124627acfdba0f8443dab3
 notion_id: 06eed12a-fa12-4627-acfd-ba0f8443dab3
 ---
 

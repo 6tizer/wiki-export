@@ -2,13 +2,15 @@
 title: 摘要：Meta-Harness：斯坦福让 harness 实现自我改进
 type: summary
 tags:
-- 工作流
+- Harness 工程
+- OpenClaw
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Harness, Research, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/7fe93720ca734f3abae4cfe34a14bdbb
+notion_url: https://www.notion.so/Tizer/7fe93720ca734f3abae4cfe34a14bdbb
 notion_id: 7fe93720-ca73-4f3a-bae4-cfe34a14bdbb
 ---
 

@@ -2,14 +2,13 @@
 title: 摘要：The AI Native Human —— 为什么你其实只是个办了 AI 包月会员卡的山顶洞人？
 type: summary
 tags:
-- 工作流
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688182bc65d3cb8c73a986
-notion_url: https://www.notion.so/a3bbf0a51e8045db916613bc06854950
+notion_url: https://www.notion.so/Tizer/a3bbf0a51e8045db916613bc06854950
 notion_id: a3bbf0a5-1e80-45db-9166-13bc06854950
 ---
 

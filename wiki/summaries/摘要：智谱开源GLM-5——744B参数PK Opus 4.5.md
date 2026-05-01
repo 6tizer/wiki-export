@@ -2,14 +2,15 @@
 title: 摘要：智谱开源GLM-5——744B参数PK Opus 4.5
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 模型评测
 - OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/7a6286e94fc941f691dd8ba2bc289289
+notion_url: https://www.notion.so/Tizer/7a6286e94fc941f691dd8ba2bc289289
 notion_id: 7a6286e9-4fc9-41f6-91dd-8ba2bc289289
 ---
 

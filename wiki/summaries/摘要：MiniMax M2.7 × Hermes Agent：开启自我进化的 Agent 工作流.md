@@ -1,15 +1,13 @@
 ---
 title: 摘要：MiniMax M2.7 × Hermes Agent：开启自我进化的 Agent 工作流
 type: summary
-tags:
-- Agent 框架
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-14'
 source_tags: ''
 source_article_url: https://www.notion.so/342701074b6881d68234f254fe799a6c
-notion_url: https://www.notion.so/a1c73d6921c44022931c0e64658e1807
+notion_url: https://www.notion.so/Tizer/a1c73d6921c44022931c0e64658e1807
 notion_id: a1c73d69-21c4-4022-931c-0e64658e1807
 ---
 

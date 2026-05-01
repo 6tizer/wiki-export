@@ -1,15 +1,13 @@
 ---
 title: Vaults
 type: concept
-tags:
-- Agent 技能
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/de0ba365ac704f5ca7421859e5e9b132
+notion_url: https://www.notion.so/Tizer/de0ba365ac704f5ca7421859e5e9b132
 notion_id: de0ba365-ac70-4f5c-a742-1859e5e9b132
 ---
 

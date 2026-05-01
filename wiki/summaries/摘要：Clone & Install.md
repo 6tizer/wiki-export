@@ -1,15 +1,13 @@
 ---
 title: 摘要：Clone & Install
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881f997fbdb5ecd25a32c
-notion_url: https://www.notion.so/7bfd8ac97d564d2dadd85baeddd1cb0f
+notion_url: https://www.notion.so/Tizer/7bfd8ac97d564d2dadd85baeddd1cb0f
 notion_id: 7bfd8ac9-7d56-4d2d-add8-5baeddd1cb0f
 ---
 

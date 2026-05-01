@@ -3,11 +3,9 @@ title: CoPaw
 type: entity
 tags:
 - AI 产品
-- Agent 框架
-- Agent 技能
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-27'
+last_compiled: '2026-05-01'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/76d43c0e5bce46a2a06e3a9e0a7b7639

@@ -2,14 +2,16 @@
 title: 摘要：sim-predict：用多Agent社会模拟预测FDA事件如何在金融市场「扩散」
 type: summary
 tags:
-- Agent 编排
-- 商业/生态
+- 量化交易
+- 多Agent协作
+- Agent 协作模式
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/06aad9b416ed45bc8a1c875dbdf5ca59
+notion_url: https://www.notion.so/Tizer/06aad9b416ed45bc8a1c875dbdf5ca59
 notion_id: 06aad9b4-16ed-45bc-8a1c-875dbdf5ca59
 ---
 

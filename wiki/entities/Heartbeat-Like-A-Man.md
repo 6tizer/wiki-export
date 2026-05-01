@@ -3,7 +3,6 @@ title: Heartbeat-Like-A-Man
 type: entity
 tags:
 - OpenClaw
-- 记忆系统
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

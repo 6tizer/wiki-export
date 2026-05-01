@@ -3,7 +3,8 @@ title: 摘要：SEO 时代正在结束——GEO 生成式引擎优化入门
 type: summary
 tags:
 - 商业/生态
-- 内容自动化
+- AI 政策
+- MCP 协议
 status: 已审核
 confidence: medium
 last_compiled: '2026-05-01'

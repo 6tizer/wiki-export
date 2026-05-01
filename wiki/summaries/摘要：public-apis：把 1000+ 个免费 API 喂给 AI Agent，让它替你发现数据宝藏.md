@@ -2,14 +2,15 @@
 title: 摘要：public-apis：把 1000+ 个免费 API 喂给 AI Agent，让它替你发现数据宝藏
 type: summary
 tags:
-- Agent 技能
-- 开发工具
+- Agent 协作模式
+- MCP 协议
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/8427e906664d464999bbaaad0c8e566f
+notion_url: https://www.notion.so/Tizer/8427e906664d464999bbaaad0c8e566f
 notion_id: 8427e906-664d-4649-99bb-aaad0c8e566f
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：Botgroup.chat 开源多 AI 群聊应用
 type: summary
 tags:
-- LLM
+- Agent 协作模式
+- 多Agent协作
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/5d5b2a5c4172410abd6676cd7babb971
+notion_url: https://www.notion.so/Tizer/5d5b2a5c4172410abd6676cd7babb971
 notion_id: 5d5b2a5c-4172-410a-bd66-76cd7babb971
 ---
 

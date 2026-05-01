@@ -2,14 +2,14 @@
 title: 摘要：全球超 53 万台「肉虾」在线：OpenClaw 公网暴露的安全警示
 type: summary
 tags:
+- Agent 安全
 - OpenClaw
-- 安全/隐私
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/9f91beca715e42cdb5c61bd76d3f5dea
+notion_url: https://www.notion.so/Tizer/9f91beca715e42cdb5c61bd76d3f5dea
 notion_id: 9f91beca-715e-42cd-b5c6-1bd76d3f5dea
 ---
 

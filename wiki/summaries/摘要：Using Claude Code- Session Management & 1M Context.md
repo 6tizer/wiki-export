@@ -1,15 +1,13 @@
 ---
 title: '摘要：Using Claude Code: Session Management & 1M Context'
 type: summary
-tags:
-- Coding Agent
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68817d8ebce127c9a648a3
-notion_url: https://www.notion.so/072d72417f1843088024c0facd1557d0
+notion_url: https://www.notion.so/Tizer/072d72417f1843088024c0facd1557d0
 notion_id: 072d7241-7f18-4308-8024-c0facd1557d0
 ---
 

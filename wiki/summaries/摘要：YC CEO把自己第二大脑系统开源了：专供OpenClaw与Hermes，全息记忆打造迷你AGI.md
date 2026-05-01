@@ -2,14 +2,13 @@
 title: 摘要：YC CEO把自己第二大脑系统开源了：专供OpenClaw与Hermes，全息记忆打造迷你AGI
 type: summary
 tags:
-- 记忆系统
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-14'
 source_tags: ''
 source_article_url: https://www.notion.so/342701074b688189a2b2e043d95c53fe
-notion_url: https://www.notion.so/5daab5eb88114b2d897331ab20ff6c5d
+notion_url: https://www.notion.so/Tizer/5daab5eb88114b2d897331ab20ff6c5d
 notion_id: 5daab5eb-8811-4b2d-8973-31ab20ff6c5d
 ---
 

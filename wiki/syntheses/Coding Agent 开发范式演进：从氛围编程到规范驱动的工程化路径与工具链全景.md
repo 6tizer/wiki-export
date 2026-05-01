@@ -2,13 +2,16 @@
 title: Coding Agent 开发范式演进：从氛围编程到规范驱动的工程化路径与工具链全景
 type: synthesis
 tags:
-- Coding Agent
+- 多Agent协作
+- 上下文管理
+- Agent 协作模式
+- CLI 工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d2256ba29b034a51a8ee5e862428c9b0
+notion_url: https://www.notion.so/Tizer/d2256ba29b034a51a8ee5e862428c9b0
 notion_id: d2256ba2-9b03-4a51-a8ee-5e862428c9b0
 ---
 
@@ -144,7 +147,7 @@ AI 自修改代码能力（NanoClaw 中的 `/add-telegram` 自动改源码安装
 
 ### 概念页面
 
-[AGENTS.md](concepts/AGENTS.md.md) · [AI 自修改代码](concepts/AI 自修改代码.md) · [AI 辅助代码阅读](concepts/AI 辅助代码阅读.md) · [BMAD Method](concepts/BMAD Method.md) · [Claude Code Agent 循环](concepts/Claude Code Agent 循环.md) · [Claude Code Channels](concepts/Claude Code Channels.md) · [Claude Code Hooks](concepts/Claude Code Hooks.md) · [Claude Code Memory](concepts/Claude Code Memory.md) · [Claude Code 上下文管理](concepts/Claude Code 上下文管理.md) · [Claude Code 多 Agent 协调](concepts/Claude Code 多 Agent 协调.md) · [Claude Cowork Skills](concepts/Claude Cowork Skills.md) · [CLAUDE.md](concepts/CLAUDE.md.md) · [CLI Harness](concepts/CLI Harness.md) · [CodeBrain](concepts/CodeBrain.md) · [Codex GitHub Action](concepts/Codex GitHub Action.md) · [CoPaw](entities/CoPaw.md) · [Gemini CLI](entities/Gemini CLI.md) · [GEO-SEO Claude Code Skill](concepts/GEO-SEO Claude Code Skill.md) · [OpenSpec](concepts/OpenSpec.md) · [program.md](concepts/program.md.md) · [SKILL.md](concepts/SKILL.md.md) · [Spec Kit](concepts/Spec Kit.md) · [Vibe Coding](concepts/Vibe Coding.md) · [wshobson/agents](entities/wshobson-agents.md) · [规范驱动开发 SDD](concepts/规范驱动开发 SDD.md) · [superpowers 框架](concepts/superpowers 框架.md)
+[AGENTS.md](concepts/AGENTS.md.md) · [AI 自修改代码](concepts/AI 自修改代码.md) · [AI 辅助代码阅读](concepts/AI 辅助代码阅读.md) · [BMAD Method](concepts/BMAD Method.md) · [Claude Code Agent 循环](concepts/Claude Code Agent 循环.md) · [Claude Code Channels](concepts/Claude Code Channels.md) · [Claude Code Hooks](concepts/Claude Code Hooks.md) · [Claude Code Memory](concepts/Claude Code Memory.md) · [Claude Code 上下文管理](concepts/Claude Code 上下文管理.md) · [Claude Code 多 Agent 协调](concepts/Claude Code 多 Agent 协调.md) · [Claude Cowork Skills](concepts/Claude Cowork Skills.md) · [CLAUDE.md](concepts/CLAUDE.md.md) · [CLI Harness](concepts/CLI Harness.md) · [CodeBrain](concepts/CodeBrain.md) · [Codex GitHub Action](concepts/Codex GitHub Action.md) · [CoPaw](entities/CoPaw.md) · [Gemini CLI](entities/Gemini CLI.md) · [GEO-SEO Claude Code Skill](concepts/GEO-SEO Claude Code Skill.md) · [OpenSpec](concepts/OpenSpec.md) · [program.md](concepts/program.md.md) · [SKILL.md](concepts/SKILL.md.md) · [Spec Kit](concepts/Spec Kit.md) · [Vibe Coding](concepts/Vibe Coding.md) · [wshobson/agents](entities/wshobson-agents.md) · [规范驱动开发 SDD](concepts/规范驱动开发 SDD.md) · [superpowers 框架](entities/superpowers 框架.md)
 
 ## 行动建议
 

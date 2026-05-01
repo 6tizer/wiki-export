@@ -1,15 +1,13 @@
 ---
 title: Skill 触发条件
 type: concept
-tags:
-- Agent 技能
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0529cfac072a464a8fd9b148b0b5b907
+notion_url: https://www.notion.so/Tizer/0529cfac072a464a8fd9b148b0b5b907
 notion_id: 0529cfac-072a-464a-8fd9-b148b0b5b907
 ---
 

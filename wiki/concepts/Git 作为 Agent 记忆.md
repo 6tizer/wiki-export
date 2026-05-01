@@ -1,15 +1,13 @@
 ---
 title: Git 作为 Agent 记忆
 type: concept
-tags:
-- 记忆系统
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-14'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e5b8f7e1849d4059824572b90e797c66
+notion_url: https://www.notion.so/Tizer/e5b8f7e1849d4059824572b90e797c66
 notion_id: e5b8f7e1-849d-4059-8245-72b90e797c66
 ---
 

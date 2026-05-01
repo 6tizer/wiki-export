@@ -1,15 +1,13 @@
 ---
 title: Sherlock
 type: entity
-tags:
-- 安全/隐私
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7651af93ea2f43d8a44a4552d68c5acb
+notion_url: https://www.notion.so/Tizer/7651af93ea2f43d8a44a4552d68c5acb
 notion_id: 7651af93-ea2f-43d8-a44a-4552d68c5acb
 ---
 

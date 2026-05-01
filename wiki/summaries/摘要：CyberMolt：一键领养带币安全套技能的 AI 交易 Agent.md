@@ -2,14 +2,15 @@
 title: 摘要：CyberMolt：一键领养带币安全套技能的 AI 交易 Agent
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 框架
+- 量化交易
+- AI 产品
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/359f7c006ae24d5e8ec1366c7537ccee
+notion_url: https://www.notion.so/Tizer/359f7c006ae24d5e8ec1366c7537ccee
 notion_id: 359f7c00-6ae2-4d5e-8ec1-366c7537ccee
 ---
 

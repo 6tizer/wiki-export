@@ -2,14 +2,15 @@
 title: 摘要：DailyNews：6551Team 推出的永久免费加密新闻日报 MCP Server
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 加密资产
+- MCP 协议
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, Cursor, 自动化
 source_article_url: https://www.notion.so/335701074b6881a79937e8ab16d691ef
-notion_url: https://www.notion.so/661d885f885b418ba2b0e227d470db37
+notion_url: https://www.notion.so/Tizer/661d885f885b418ba2b0e227d470db37
 notion_id: 661d885f-885b-418b-a2b0-e227d470db37
 ---
 

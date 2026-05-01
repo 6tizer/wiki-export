@@ -1,15 +1,13 @@
 ---
 title: 首Token延迟
 type: concept
-tags:
-- LLM
-- Agent 编排
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e69ea09ebb9d443eba4828b4e8763585
+notion_url: https://www.notion.so/Tizer/e69ea09ebb9d443eba4828b4e8763585
 notion_id: e69ea09e-bb9d-443e-ba48-28b4e8763585
 ---
 

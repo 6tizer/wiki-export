@@ -2,14 +2,15 @@
 title: 摘要：OpenClaw 养虾踩坑实录：如何用 CDP 把浏览器完全交给 AI Agent 控制
 type: summary
 tags:
+- 浏览器自动化
 - OpenClaw
-- Agent 技能
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/bcd0403318bd44679d24dbeb28e1cb4d
+notion_url: https://www.notion.so/Tizer/bcd0403318bd44679d24dbeb28e1cb4d
 notion_id: bcd04033-18bd-4467-9d24-dbeb28e1cb4d
 ---
 

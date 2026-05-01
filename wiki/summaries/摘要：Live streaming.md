@@ -33,7 +33,7 @@ Multica 是一个开源的模型无关多智能体编排平台，定位为 OpenA
 
 - [Multica](entities/Multica.md)
 
-- [Symphony](concepts/Symphony.md)
+- [Symphony](entities/Symphony.md)
 
 - [Paperclip](entities/Paperclip.md)
 

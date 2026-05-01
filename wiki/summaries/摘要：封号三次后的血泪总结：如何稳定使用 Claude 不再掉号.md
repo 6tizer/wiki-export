@@ -2,14 +2,15 @@
 title: 摘要：封号三次后的血泪总结：如何稳定使用 Claude 不再掉号
 type: summary
 tags:
-- 安全/隐私
-- LLM
+- AI 产品
+- 算力基础设施
+- Harness 工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/9174fc6d4a014ae29ada491210ef9e3c
+notion_url: https://www.notion.so/Tizer/9174fc6d4a014ae29ada491210ef9e3c
 notion_id: 9174fc6d-4a01-4ae2-9ada-491210ef9e3c
 ---
 

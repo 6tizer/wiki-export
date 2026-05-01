@@ -5,8 +5,6 @@ tags:
 - 推理优化
 - 模型部署
 - CLI 工具
-- 开发工具
-- LLM
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

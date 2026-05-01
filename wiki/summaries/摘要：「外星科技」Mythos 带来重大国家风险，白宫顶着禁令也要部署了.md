@@ -1,15 +1,13 @@
 ---
 title: 摘要：「外星科技」Mythos 带来重大国家风险，白宫顶着禁令也要部署了
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-19'
 source_tags: ''
 source_article_url: https://www.notion.so/347701074b688150af4bf97850cd95e4
-notion_url: https://www.notion.so/ac1da5b92a6f4d8f9196896c7f48abdd
+notion_url: https://www.notion.so/Tizer/ac1da5b92a6f4d8f9196896c7f48abdd
 notion_id: ac1da5b9-2a6f-4d8f-9196-896c7f48abdd
 ---
 

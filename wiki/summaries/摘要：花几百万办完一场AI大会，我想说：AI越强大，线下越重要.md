@@ -8,7 +8,7 @@ confidence: medium
 last_compiled: '2026-04-12'
 source_tags: LLM, AI大会
 source_article_url: https://www.notion.so/33f701074b68817bbf39e8f03f41a382
-notion_url: https://www.notion.so/cf106044dfbf432d9aca09488088e919
+notion_url: https://www.notion.so/Tizer/cf106044dfbf432d9aca09488088e919
 notion_id: cf106044-dfbf-432d-9aca-09488088e919
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: 摘要：Claude强到不敢发的Mythos，被质疑用了字节Seed技术
 type: summary
-tags:
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b688191bdeef7c3aa860a74
-notion_url: https://www.notion.so/1f02778b434f47ab94561e940f3b019e
+notion_url: https://www.notion.so/Tizer/1f02778b434f47ab94561e940f3b019e
 notion_id: 1f02778b-434f-47ab-9456-1e940f3b019e
 ---
 

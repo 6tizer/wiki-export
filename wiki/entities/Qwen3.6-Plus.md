@@ -2,14 +2,13 @@
 title: Qwen3.6-Plus
 type: entity
 tags:
-- LLM
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/25a6f6b22fd64dae93b5fd6af176333c
+notion_url: https://www.notion.so/Tizer/25a6f6b22fd64dae93b5fd6af176333c
 notion_id: 25a6f6b2-2fd6-4dae-93b5-fd6af176333c
 ---
 

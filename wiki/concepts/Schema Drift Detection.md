@@ -1,14 +1,13 @@
 ---
 title: Schema Drift Detection
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/188f0402790a436d8a3ac5ea384f8020
+notion_url: https://www.notion.so/Tizer/188f0402790a436d8a3ac5ea384f8020
 notion_id: 188f0402-790a-436d-8a3a-c5ea384f8020
 ---
 

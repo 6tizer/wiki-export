@@ -2,14 +2,13 @@
 title: SkillHub
 type: entity
 tags:
-- Agent 技能
 - OpenClaw
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7007194449474ebfb45cf9b3c8bf7674
+notion_url: https://www.notion.so/Tizer/7007194449474ebfb45cf9b3c8bf7674
 notion_id: 70071944-4947-4ebf-b45c-f9b3c8bf7674
 ---
 

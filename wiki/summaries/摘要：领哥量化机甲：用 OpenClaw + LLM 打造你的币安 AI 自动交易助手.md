@@ -2,14 +2,15 @@
 title: 摘要：领哥量化机甲：用 OpenClaw + LLM 打造你的币安 AI 自动交易助手
 type: summary
 tags:
-- Crypto/DeFi
+- 量化交易
 - OpenClaw
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b688140a403ca3ed393d3c5
-notion_url: https://www.notion.so/271b007536774ac5ae247b5845570ac9
+notion_url: https://www.notion.so/Tizer/271b007536774ac5ae247b5845570ac9
 notion_id: 271b0075-3677-4ac5-ae24-7b5845570ac9
 ---
 

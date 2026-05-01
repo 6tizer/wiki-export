@@ -1,15 +1,13 @@
 ---
 title: 摘要：how I automate my X contents pipeline using claude code.
 type: summary
-tags:
-- Coding Agent
-- 内容创作
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68818c96fcec842accdacc
-notion_url: https://www.notion.so/4408d5c80fc4452a9a1f4c68f5072dbf
+notion_url: https://www.notion.so/Tizer/4408d5c80fc4452a9a1f4c68f5072dbf
 notion_id: 4408d5c8-0fc4-452a-9a1f-4c68f5072dbf
 ---
 

@@ -2,7 +2,6 @@
 title: sim-predict
 type: entity
 tags:
-- Agent 编排
 - 商业/生态
 status: 审核中
 confidence: medium

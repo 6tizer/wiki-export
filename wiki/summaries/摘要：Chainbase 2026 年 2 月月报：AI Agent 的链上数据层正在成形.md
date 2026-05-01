@@ -2,14 +2,15 @@
 title: 摘要：Chainbase 2026 年 2 月月报：AI Agent 的链上数据层正在成形
 type: summary
 tags:
-- Crypto/DeFi
-- Agent 技能
+- 商业/生态
+- Agent 协作模式
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b6881bfac7ac6e4568d3ed6
-notion_url: https://www.notion.so/a6656dffd09549ab9ceeca9d16f321a2
+notion_url: https://www.notion.so/Tizer/a6656dffd09549ab9ceeca9d16f321a2
 notion_id: a6656dff-d095-49ab-9cee-ca9d16f321a2
 ---
 

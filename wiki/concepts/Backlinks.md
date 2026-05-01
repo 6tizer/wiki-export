@@ -3,6 +3,8 @@ title: Backlinks
 type: concept
 tags:
 - 知识管理
+- Agent 协作模式
+- 笔记工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

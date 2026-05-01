@@ -1,15 +1,13 @@
 ---
 title: 摘要：154K Star！Anthropic黑客松冠军的Claude Code配置大公开
 type: summary
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881939fa3ec74b45fd1ed
-notion_url: https://www.notion.so/5c5a378309c442058efe50e3cf673abb
+notion_url: https://www.notion.so/Tizer/5c5a378309c442058efe50e3cf673abb
 notion_id: 5c5a3783-09c4-4205-8efe-50e3cf673abb
 ---
 

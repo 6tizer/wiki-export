@@ -2,14 +2,13 @@
 title: ACP（Agent Commerce Protocol）
 type: concept
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d358eff27a7a4ac18d5d169ab3c797c1
+notion_url: https://www.notion.so/Tizer/d358eff27a7a4ac18d5d169ab3c797c1
 notion_id: d358eff2-7a7a-4ac1-8d5d-169ab3c797c1
 ---
 

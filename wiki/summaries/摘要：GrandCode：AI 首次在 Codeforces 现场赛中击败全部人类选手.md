@@ -1,15 +1,13 @@
 ---
 title: 摘要：GrandCode：AI 首次在 Codeforces 现场赛中击败全部人类选手
 type: summary
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: Agent, LLM
 source_article_url: https://www.notion.so/33d701074b6881b9a191c4b5d51659e0
-notion_url: https://www.notion.so/6f1cf3e40cab4b1f804137135629897f
+notion_url: https://www.notion.so/Tizer/6f1cf3e40cab4b1f804137135629897f
 notion_id: 6f1cf3e4-0cab-4b1f-8041-37135629897f
 ---
 

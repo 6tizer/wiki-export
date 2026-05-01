@@ -2,14 +2,18 @@
 title: 摘要：OpenClaw 生态七件套：那些大项目之外值得关注的小众开源神器
 type: summary
 tags:
+- 商业/生态
+- 多Agent协作
+- 长期记忆
+- MCP 协议
+- Agent 安全
 - OpenClaw
-- 开发工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: https://www.notion.so/335701074b688168aefad0f9882e9bfd
-notion_url: https://www.notion.so/e4651c9120534536b7cd154dbd8e4ca7
+notion_url: https://www.notion.so/Tizer/e4651c9120534536b7cd154dbd8e4ca7
 notion_id: e4651c91-2053-4536-b7cd-154dbd8e4ca7
 ---
 

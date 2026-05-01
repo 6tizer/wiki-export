@@ -1,14 +1,13 @@
 ---
 title: 摘要：hostc：轻量级内网穿透神器，一行命令获得公网 HTTPS 隧道！
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b6881568c6bf69f3a46f1f7
-notion_url: https://www.notion.so/2574e2c9bb25402d9534be5a54024837
+notion_url: https://www.notion.so/Tizer/2574e2c9bb25402d9534be5a54024837
 notion_id: 2574e2c9-bb25-402d-9534-be5a54024837
 ---
 

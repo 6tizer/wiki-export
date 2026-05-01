@@ -1,16 +1,13 @@
 ---
 title: 摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源
 type: summary
-tags:
-- LLM
-- 记忆系统
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/991a9ff7d9494653a6a6684d362ae95e
+notion_url: https://www.notion.so/Tizer/991a9ff7d9494653a6a6684d362ae95e
 notion_id: 991a9ff7-d949-4653-a6a6-684d362ae95e
 ---
 

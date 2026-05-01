@@ -1,14 +1,13 @@
 ---
 title: PolyCop BOT
 type: concept
-tags:
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7cf6b0a601984e4992e54b91602bb77a
+notion_url: https://www.notion.so/Tizer/7cf6b0a601984e4992e54b91602bb77a
 notion_id: 7cf6b0a6-0198-4e49-92e5-4b91602bb77a
 ---
 

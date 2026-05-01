@@ -2,8 +2,9 @@
 title: Echo
 type: entity
 tags:
-- LLM
-- Crypto/DeFi
+- 量化交易
+- AI 产品
+- 模型评测
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

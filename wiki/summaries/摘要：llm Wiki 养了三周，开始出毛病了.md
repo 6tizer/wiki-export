@@ -3,13 +3,12 @@ title: 摘要：llm Wiki 养了三周，开始出毛病了
 type: summary
 tags:
 - 知识管理
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: https://www.notion.so/34c701074b688161bb0bc10f1d0b1837
-notion_url: https://www.notion.so/ac7c0c677d3249e789ec3a9d508ab95f
+notion_url: https://www.notion.so/Tizer/ac7c0c677d3249e789ec3a9d508ab95f
 notion_id: ac7c0c67-7d32-49e7-89ec-3a9d508ab95f
 ---
 

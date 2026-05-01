@@ -2,9 +2,8 @@
 title: Agent 自我调试
 type: concept
 tags:
-- Agent 技能
+- Agent 协作模式
 - 浏览器自动化
-- 工作流
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

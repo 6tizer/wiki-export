@@ -3,13 +3,12 @@ title: 摘要：OpenClaw + GLM 5.1 = FREE AI AGENTS
 type: summary
 tags:
 - OpenClaw
-- 开发工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68816ba5d7cfcc81bdae68
-notion_url: https://www.notion.so/2986c33d8248440f930f61d4201387e3
+notion_url: https://www.notion.so/Tizer/2986c33d8248440f930f61d4201387e3
 notion_id: 2986c33d-8248-440f-930f-61d4201387e3
 ---
 

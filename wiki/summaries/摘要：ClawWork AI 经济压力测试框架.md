@@ -2,13 +2,16 @@
 title: 摘要：ClawWork AI 经济压力测试框架
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/76f75a966cb042d093533a677fe5c862
+notion_url: https://www.notion.so/Tizer/76f75a966cb042d093533a677fe5c862
 notion_id: 76f75a96-6cb0-42d0-9353-3a677fe5c862
 ---
 

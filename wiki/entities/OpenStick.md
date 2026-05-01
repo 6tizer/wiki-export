@@ -1,14 +1,13 @@
 ---
 title: OpenStick
 type: entity
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/92af5e7797dd45e4ae6e88178b21932a
+notion_url: https://www.notion.so/Tizer/92af5e7797dd45e4ae6e88178b21932a
 notion_id: 92af5e77-97dd-45e4-ae6e-88178b21932a
 ---
 

@@ -2,13 +2,14 @@
 title: 摘要：LLM Graph Transformer：用 LangChain 把非结构化文本变成知识图谱
 type: summary
 tags:
-- LLM
+- 知识管理
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/fff4efc7872f4313890ea288450cfbfa
+notion_url: https://www.notion.so/Tizer/fff4efc7872f4313890ea288450cfbfa
 notion_id: fff4efc7-872f-4313-890e-a288450cfbfa
 ---
 

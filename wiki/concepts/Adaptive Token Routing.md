@@ -1,14 +1,13 @@
 ---
 title: Adaptive Token Routing
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b64b45a27d7e4889b5cc51dd485e1a8f
+notion_url: https://www.notion.so/Tizer/b64b45a27d7e4889b5cc51dd485e1a8f
 notion_id: b64b45a2-7d7e-4889-b5cc-51dd485e1a8f
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：OpenAI GPT-5.4-Cyber：用 AI 武装网络安全防御者
 type: summary
-tags:
-- 安全/隐私
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: 网络安全, LLM, Agent, openai
 source_article_url: https://www.notion.so/343701074b6881029a8bc3fef3872b2a
-notion_url: https://www.notion.so/b98bf52c12df46b4aacdcfed51465116
+notion_url: https://www.notion.so/Tizer/b98bf52c12df46b4aacdcfed51465116
 notion_id: b98bf52c-12df-46b4-aacd-cfed51465116
 ---
 

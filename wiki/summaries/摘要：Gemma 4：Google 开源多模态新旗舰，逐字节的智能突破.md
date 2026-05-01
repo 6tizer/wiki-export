@@ -1,14 +1,13 @@
 ---
 title: 摘要：Gemma 4：Google 开源多模态新旗舰，逐字节的智能突破
 type: summary
-tags:
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: LLM, 自动化
 source_article_url: https://www.notion.so/33e701074b6881d18495f841158d1a57
-notion_url: https://www.notion.so/f1bddb865bf64a36aed136b3beba9021
+notion_url: https://www.notion.so/Tizer/f1bddb865bf64a36aed136b3beba9021
 notion_id: f1bddb86-5bf6-4a36-aed1-36b3beba9021
 ---
 

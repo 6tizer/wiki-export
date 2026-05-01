@@ -1,15 +1,13 @@
 ---
 title: 摘要：这个开源工具太猛了！让 Claude Code 成本爆降 89%
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b68811ba5f0c3ea3d84af19
-notion_url: https://www.notion.so/2225b85c241d4858b873dbdeefb18fe2
+notion_url: https://www.notion.so/Tizer/2225b85c241d4858b873dbdeefb18fe2
 notion_id: 2225b85c-241d-4858-b873-dbdeefb18fe2
 ---
 

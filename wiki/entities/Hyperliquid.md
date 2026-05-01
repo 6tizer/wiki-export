@@ -1,8 +1,7 @@
 ---
 title: Hyperliquid
 type: entity
-tags:
-- Crypto/DeFi
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'

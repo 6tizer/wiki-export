@@ -2,14 +2,18 @@
 title: 摘要：Deep Research Web UI 开源深度研究助手
 type: summary
 tags:
-- LLM
-- 开发工具
+- 知识管理
+- 前端开发
+- 浏览器自动化
+- 多模态
+- RAG/检索
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/70854c0018e743f49637fa8a8fe1396e
+notion_url: https://www.notion.so/Tizer/70854c0018e743f49637fa8a8fe1396e
 notion_id: 70854c00-18e7-43f4-9637-fa8a8fe1396e
 ---
 

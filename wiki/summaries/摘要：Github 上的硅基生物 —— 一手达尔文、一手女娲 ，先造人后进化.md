@@ -1,15 +1,13 @@
 ---
 title: 摘要：Github 上的硅基生物 —— 一手达尔文、一手女娲 ，先造人后进化
 type: summary
-tags:
-- Agent 技能
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881548af1c36d55956f78
-notion_url: https://www.notion.so/3848be5c7d6841cebaa0b1de52be61e6
+notion_url: https://www.notion.so/Tizer/3848be5c7d6841cebaa0b1de52be61e6
 notion_id: 3848be5c-7d68-41ce-baa0-b1de52be61e6
 ---
 

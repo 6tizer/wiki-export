@@ -3,13 +3,12 @@ title: 摘要：EdgeClaw 2.0：把 Claude Code 的顶级记忆系统注入开源
 type: summary
 tags:
 - OpenClaw
-- 记忆系统
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: OpenClaw, Agent, LLM, 自动化, Claude, 记忆
 source_article_url: https://www.notion.so/33d701074b6881adb5bee90d0718b020
-notion_url: https://www.notion.so/cddd19f1a3164552af08e785b20dfa7f
+notion_url: https://www.notion.so/Tizer/cddd19f1a3164552af08e785b20dfa7f
 notion_id: cddd19f1-a316-4552-af08-e785b20dfa7f
 ---
 

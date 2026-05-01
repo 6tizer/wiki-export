@@ -2,14 +2,15 @@
 title: AP2
 type: concept
 tags:
+- 身份准入
 - 商业/生态
-- Agent 技能
+- MCP 协议
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/16c931cda021462cacecba4be3250e94
+notion_url: https://www.notion.so/Tizer/16c931cda021462cacecba4be3250e94
 notion_id: 16c931cd-a021-462c-acec-ba4be3250e94
 ---
 

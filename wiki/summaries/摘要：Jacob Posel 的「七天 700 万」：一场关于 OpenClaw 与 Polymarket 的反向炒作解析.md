@@ -2,13 +2,14 @@
 title: 摘要：Jacob Posel 的「七天 700 万」：一场关于 OpenClaw 与 Polymarket 的反向炒作解析
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/d62b49ab69c04de3931d1943ac195405
+notion_url: https://www.notion.so/Tizer/d62b49ab69c04de3931d1943ac195405
 notion_id: d62b49ab-69c0-4de3-931d-1943ac195405
 ---
 

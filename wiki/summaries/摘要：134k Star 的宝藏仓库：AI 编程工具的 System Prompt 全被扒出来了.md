@@ -2,14 +2,18 @@
 title: 摘要：134k Star 的宝藏仓库：AI 编程工具的 System Prompt 全被扒出来了
 type: summary
 tags:
-- LLM
-- 开发工具
+- 商业/生态
+- 提示工程
+- 代码生成
+- Agent 安全
+- AI 产品
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Cursor, Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/8ac22bdc691044e598a9f89ec9b1836b
+notion_url: https://www.notion.so/Tizer/8ac22bdc691044e598a9f89ec9b1836b
 notion_id: 8ac22bdc-6910-44e5-98a9-f89ec9b1836b
 ---
 

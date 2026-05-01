@@ -1,15 +1,13 @@
 ---
 title: Mano-Action 双向自增强学习框架
 type: concept
-tags:
-- LLM
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/48fee8bc6443476585e683874c0bf371
+notion_url: https://www.notion.so/Tizer/48fee8bc6443476585e683874c0bf371
 notion_id: 48fee8bc-6443-4765-85e6-83874c0bf371
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: Hermes Agent 最佳配置实践：从文件化大脑到自进化多 Agent 系统的工程化调优全景
 type: synthesis
-tags:
-- Agent 框架
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9eca1094acaa445c8963f10ea2abd68f
+notion_url: https://www.notion.so/Tizer/9eca1094acaa445c8963f10ea2abd68f
 notion_id: 9eca1094-acaa-445c-8963-f10ea2abd68f
 ---
 
@@ -299,7 +297,7 @@ Hermes 最独特的能力是自进化（Self-Evolution）——通过 DSPy + GEP
 
 - [摘要：【万字】CC vs OpenClaw vs Hermes：一文深入拆解三大 Agent 框架](summaries/摘要：【万字】CC vs OpenClaw vs Hermes：一文深入拆解三大 Agent 框架.md)
 
-- [摘要：Hermes Agent实测，龙虾新对手是进化爱马仕](summaries/摘要：Hermes Agent实测，龙虾新对手是进化爱马仕.md)
+- 摘要：Hermes Agent实测，龙虾新对手是进化爱马仕
 
 - [摘要：Hermes Agent新手教程：从入门到精通，附带变现方式](summaries/摘要：Hermes Agent新手教程：从入门到精通，附带变现方式.md)
 

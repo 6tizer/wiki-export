@@ -1,14 +1,13 @@
 ---
 title: 摘要：TPAMI 2026 | 北大彭宇新团队提出CPL++框架，实现视觉定位模型的「自知之明」和「自我纠错」
 type: summary
-tags:
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68810a8fe7d1efeec5ca41
-notion_url: https://www.notion.so/659f3f42a14a4884b97bd843e4e37f47
+notion_url: https://www.notion.so/Tizer/659f3f42a14a4884b97bd843e4e37f47
 notion_id: 659f3f42-a14a-4884-b97b-d843e4e37f47
 ---
 

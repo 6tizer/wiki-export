@@ -1,14 +1,13 @@
 ---
 title: CrewAI
 type: entity
-tags:
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0d5a9c766ada4f4e9f828ad669873394
+notion_url: https://www.notion.so/Tizer/0d5a9c766ada4f4e9f828ad669873394
 notion_id: 0d5a9c76-6ada-4f4e-9f82-8ad669873394
 ---
 

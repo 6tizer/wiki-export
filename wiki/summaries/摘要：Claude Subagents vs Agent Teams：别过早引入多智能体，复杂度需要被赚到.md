@@ -2,14 +2,15 @@
 title: 摘要：Claude Subagents vs Agent Teams：别过早引入多智能体，复杂度需要被赚到
 type: summary
 tags:
-- Agent 编排
-- Coding Agent
+- Agent 协作模式
+- 多Agent协作
+- 上下文管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: https://www.notion.so/335701074b688175aa45e97e2f78f61a
-notion_url: https://www.notion.so/2fe51a8e58dd458cafe40d983f945237
+notion_url: https://www.notion.so/Tizer/2fe51a8e58dd458cafe40d983f945237
 notion_id: 2fe51a8e-58dd-458c-afe4-0d983f945237
 ---
 

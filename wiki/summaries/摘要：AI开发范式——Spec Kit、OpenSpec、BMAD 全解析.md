@@ -1,15 +1,13 @@
 ---
 title: 摘要：AI开发范式——Spec Kit、OpenSpec、BMAD 全解析
 type: summary
-tags:
-- 开发工具
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/a9f4a95709784fa6bb4b6f6150df79c6
+notion_url: https://www.notion.so/Tizer/a9f4a95709784fa6bb4b6f6150df79c6
 notion_id: a9f4a957-0978-4fa6-bb4b-6f6150df79c6
 ---
 

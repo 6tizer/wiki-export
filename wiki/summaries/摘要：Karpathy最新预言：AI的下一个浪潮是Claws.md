@@ -2,13 +2,18 @@
 title: 摘要：Karpathy最新预言：AI的下一个浪潮是"Claws"
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 多Agent协作
+- OpenClaw
+- Agent 协作模式
+- 上下文管理
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Research, NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/94e77acd3a1e42d0925f3ac2ca770a1d
+notion_url: https://www.notion.so/Tizer/94e77acd3a1e42d0925f3ac2ca770a1d
 notion_id: 94e77acd-3a1e-42d0-925f-3ac2ca770a1d
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: Octo
 type: entity
-tags:
-- 内容创作
-- Agent 框架
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/4fe0e836f97c4c3da43ef17ea785f5b5
+notion_url: https://www.notion.so/Tizer/4fe0e836f97c4c3da43ef17ea785f5b5
 notion_id: 4fe0e836-f97c-4c3d-a43e-f17ea785f5b5
 ---
 

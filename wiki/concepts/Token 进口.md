@@ -3,6 +3,8 @@ title: Token 进口
 type: concept
 tags:
 - 商业/生态
+- AI 政策
+- 模型部署
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

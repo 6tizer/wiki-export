@@ -1,15 +1,13 @@
 ---
 title: 摘要：tokenizer-free
 type: summary
-tags:
-- 内容创作
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881438addd107e8083f2f
-notion_url: https://www.notion.so/fb160effb7bd4d58a4694b8bb5ec51ae
+notion_url: https://www.notion.so/Tizer/fb160effb7bd4d58a4694b8bb5ec51ae
 notion_id: fb160eff-b7bd-4d58-a469-4b8bb5ec51ae
 ---
 

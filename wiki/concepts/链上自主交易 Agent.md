@@ -2,14 +2,15 @@
 title: 链上自主交易 Agent
 type: concept
 tags:
-- Crypto/DeFi
-- Agent 编排
+- 量化交易
+- Agent 安全
+- OpenClaw
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/f6abb66d1f5c406f93f964df0eeb99ce
+notion_url: https://www.notion.so/Tizer/f6abb66d1f5c406f93f964df0eeb99ce
 notion_id: f6abb66d-1f5c-406f-93f9-64df0eeb99ce
 ---
 
@@ -31,6 +32,6 @@ notion_id: f6abb66d-1f5c-406f-93f9-64df0eeb99ce
 
 ## 关联概念
 
-- [OKX OnchainOS](concepts/OKX OnchainOS.md)
+- [OKX OnchainOS](entities/OKX OnchainOS.md)
 
 - [OpenClaw](entities/OpenClaw.md)

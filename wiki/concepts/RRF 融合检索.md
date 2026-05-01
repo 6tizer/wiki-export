@@ -3,13 +3,12 @@ title: RRF 融合检索
 type: concept
 tags:
 - 知识管理
-- 记忆系统
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/edf249abea904e438f2c333132ed10c7
+notion_url: https://www.notion.so/Tizer/edf249abea904e438f2c333132ed10c7
 notion_id: edf249ab-ea90-4e43-8f2c-333132ed10c7
 ---
 

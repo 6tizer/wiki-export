@@ -1,9 +1,7 @@
 ---
 title: Token Optimizer
 type: entity
-tags:
-- Coding Agent
-- 记忆系统
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

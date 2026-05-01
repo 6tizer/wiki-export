@@ -2,14 +2,13 @@
 title: 摘要：GEO Content Writer：用 Agent 把 AI 可见度做到行业第一
 type: summary
 tags:
-- 内容创作
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: Agent, 自动化, LLM, GEO/SEO
 source_article_url: https://www.notion.so/33f701074b68811692ebddfb87d43bc2
-notion_url: https://www.notion.so/d7567ef6bf3f4604990e6a256429026e
+notion_url: https://www.notion.so/Tizer/d7567ef6bf3f4604990e6a256429026e
 notion_id: d7567ef6-bf3f-4604-990e-6a256429026e
 ---
 

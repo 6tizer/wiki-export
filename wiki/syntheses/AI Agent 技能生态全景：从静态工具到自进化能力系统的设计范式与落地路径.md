@@ -2,13 +2,17 @@
 title: AI Agent 技能生态全景：从静态工具到自进化能力系统的设计范式与落地路径
 type: synthesis
 tags:
-- Agent 技能
+- 商业/生态
+- 多Agent协作
+- Agent 安全
+- OpenClaw
+- MCP 协议
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/15476d5c2750457ba97891286f0c6f79
+notion_url: https://www.notion.so/Tizer/15476d5c2750457ba97891286f0c6f79
 notion_id: 15476d5c-2750-457b-a978-91286f0c6f79
 ---
 

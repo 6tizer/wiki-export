@@ -1,14 +1,13 @@
 ---
 title: 摘要：codex-plugin-cc：OpenAI 官方出手，把 Codex 塞进了 Claude Code
 type: summary
-tags:
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化, codex, openai
 source_article_url: https://www.notion.so/33d701074b6881c09625c017c5629b80
-notion_url: https://www.notion.so/d57ca254f7a34d9ebf3b049e7ba40ec0
+notion_url: https://www.notion.so/Tizer/d57ca254f7a34d9ebf3b049e7ba40ec0
 notion_id: d57ca254-f7a3-4d9e-bf3b-049e7ba40ec0
 ---
 

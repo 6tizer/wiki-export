@@ -2,7 +2,9 @@
 title: LiteLLM
 type: entity
 tags:
-- 开发工具
+- AI 产品
+- Agent 协作模式
+- 模型部署
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

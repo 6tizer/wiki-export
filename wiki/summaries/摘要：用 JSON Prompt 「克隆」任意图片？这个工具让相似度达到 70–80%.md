@@ -1,14 +1,13 @@
 ---
 title: 摘要：用 JSON Prompt 「克隆」任意图片？这个工具让相似度达到 70–80%
 type: summary
-tags:
-- 内容创作
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: LLM, 自动化
 source_article_url: https://www.notion.so/33d701074b6881118a46d96c60ca5bc7
-notion_url: https://www.notion.so/bc9a8adbd7f342bc87ed1fb2e242d33d
+notion_url: https://www.notion.so/Tizer/bc9a8adbd7f342bc87ed1fb2e242d33d
 notion_id: bc9a8adb-d7f3-42bc-87ed-1fb2e242d33d
 ---
 

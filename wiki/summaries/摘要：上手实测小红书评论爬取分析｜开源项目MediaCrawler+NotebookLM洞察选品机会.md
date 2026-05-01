@@ -1,15 +1,13 @@
 ---
 title: 摘要：上手实测小红书评论爬取分析｜开源项目MediaCrawler+NotebookLM洞察选品机会
 type: summary
-tags:
-- 开发工具
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881d091f1e72b3da9f948
-notion_url: https://www.notion.so/8534452a28244bc999489e06f3580037
+notion_url: https://www.notion.so/Tizer/8534452a28244bc999489e06f3580037
 notion_id: 8534452a-2824-4bc9-9948-9e06f3580037
 ---
 

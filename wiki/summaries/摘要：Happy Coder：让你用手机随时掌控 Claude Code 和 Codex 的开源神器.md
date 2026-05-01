@@ -2,14 +2,14 @@
 title: 摘要：Happy Coder：让你用手机随时掌控 Claude Code 和 Codex 的开源神器
 type: summary
 tags:
-- LLM
-- 开发工具
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/7460eb93d3954dd78ee09de042a5f765
+notion_url: https://www.notion.so/Tizer/7460eb93d3954dd78ee09de042a5f765
 notion_id: 7460eb93-d395-4dd7-8ee0-9de042a5f765
 ---
 

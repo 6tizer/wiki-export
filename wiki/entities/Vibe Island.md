@@ -1,14 +1,13 @@
 ---
 title: Vibe Island
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/3a5d6d08cd4142528a04ff0f05126b39
+notion_url: https://www.notion.so/Tizer/3a5d6d08cd4142528a04ff0f05126b39
 notion_id: 3a5d6d08-cd41-4252-8a04-ff0f05126b39
 ---
 

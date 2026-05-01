@@ -2,14 +2,15 @@
 title: OpenAlex
 type: entity
 tags:
+- RAG/检索
 - 知识管理
-- 开发工具
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b153c355255549b8a8269cee94ca2b6c
+notion_url: https://www.notion.so/Tizer/b153c355255549b8a8269cee94ca2b6c
 notion_id: b153c355-2555-49b8-a826-9cee94ca2b6c
 ---
 

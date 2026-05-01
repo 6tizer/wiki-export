@@ -2,14 +2,15 @@
 title: 摘要：KAT-Coder-ProV2，最近一个让我意外的 Coding 模型
 type: summary
 tags:
-- LLM
-- 开发工具
+- 前端开发
+- 代码生成
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Coding Agent, 工具推荐
 source_article_url: ''
-notion_url: https://www.notion.so/023f4703312443e898aa092c4933f5d0
+notion_url: https://www.notion.so/Tizer/023f4703312443e898aa092c4933f5d0
 notion_id: 023f4703-3124-43e8-98aa-092c4933f5d0
 ---
 

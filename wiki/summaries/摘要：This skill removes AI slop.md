@@ -1,15 +1,13 @@
 ---
 title: 摘要：This skill removes AI slop.
 type: summary
-tags:
-- Agent 技能
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688182905af53e17048e98
-notion_url: https://www.notion.so/65c004290b4640d89c142e107e1a3ae4
+notion_url: https://www.notion.so/Tizer/65c004290b4640d89c142e107e1a3ae4
 notion_id: 65c00429-0b46-40d8-9c14-2e107e1a3ae4
 ---
 

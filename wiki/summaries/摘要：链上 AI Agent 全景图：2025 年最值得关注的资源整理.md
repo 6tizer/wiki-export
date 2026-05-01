@@ -1,14 +1,13 @@
 ---
 title: 摘要：链上 AI Agent 全景图：2025 年最值得关注的资源整理
 type: summary
-tags:
-- LLM
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/c0b305fc0c23405d9659d8f039c35a02
+notion_url: https://www.notion.so/Tizer/c0b305fc0c23405d9659d8f039c35a02
 notion_id: c0b305fc-0c23-405d-9659-d8f039c35a02
 ---
 

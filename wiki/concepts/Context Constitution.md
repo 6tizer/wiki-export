@@ -1,15 +1,13 @@
 ---
 title: Context Constitution
 type: concept
-tags:
-- Agent 编排
-- 记忆系统
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-14'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0181a906fdb74bc0a1caf503b8f6c927
+notion_url: https://www.notion.so/Tizer/0181a906fdb74bc0a1caf503b8f6c927
 notion_id: 0181a906-fdb7-4bc0-a1ca-f503b8f6c927
 ---
 

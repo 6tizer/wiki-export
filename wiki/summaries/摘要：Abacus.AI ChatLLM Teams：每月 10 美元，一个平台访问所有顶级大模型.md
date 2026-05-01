@@ -2,14 +2,15 @@
 title: 摘要：Abacus.AI ChatLLM Teams：每月 10 美元，一个平台访问所有顶级大模型
 type: summary
 tags:
-- LLM
+- 商业/生态
 - OpenClaw
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Agent, OpenClaw
 source_article_url: ''
-notion_url: https://www.notion.so/eb360c39f1864cda85bf714bdd740d5b
+notion_url: https://www.notion.so/Tizer/eb360c39f1864cda85bf714bdd740d5b
 notion_id: eb360c39-f186-4cda-85bf-714bdd740d5b
 ---
 

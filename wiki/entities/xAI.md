@@ -2,14 +2,13 @@
 title: xAI
 type: entity
 tags:
-- LLM
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/30a2e96360544796af61c524ae1af33f
+notion_url: https://www.notion.so/Tizer/30a2e96360544796af61c524ae1af33f
 notion_id: 30a2e963-6054-4796-af61-c524ae1af33f
 ---
 
@@ -34,3 +33,5 @@ xAI 是马斯克旗下的大模型公司与 AI 基础设施运营方，在本文
 ## 关联概念
 
 - [Cursor](entities/Cursor.md)
+
+- Grok

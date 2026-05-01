@@ -1,15 +1,13 @@
 ---
 title: Session Event Log
 type: concept
-tags:
-- Agent 编排
-- 记忆系统
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/05f7fc4d48cd458d98a62ad7fa08ddc1
+notion_url: https://www.notion.so/Tizer/05f7fc4d48cd458d98a62ad7fa08ddc1
 notion_id: 05f7fc4d-48cd-458d-98a6-2ad7fa08ddc1
 ---
 

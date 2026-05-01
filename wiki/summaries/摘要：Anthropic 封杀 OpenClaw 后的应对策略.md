@@ -2,13 +2,15 @@
 title: 摘要：Anthropic 封杀 OpenClaw 后的应对策略
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
+- 多Agent协作
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/f50c71665c40461dbd61e65625aa64a1
+notion_url: https://www.notion.so/Tizer/f50c71665c40461dbd61e65625aa64a1
 notion_id: f50c7166-5c40-461d-bd61-e65625aa64a1
 ---
 

@@ -2,14 +2,13 @@
 title: 摘要：Mythos造假/Opus降智/Agent新平台，Anthropic所有更新一次性看懂
 type: summary
 tags:
-- Agent 编排
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881b6adbcff9f6f95eb9a
-notion_url: https://www.notion.so/4854cab856f844af9cce510af35505d1
+notion_url: https://www.notion.so/Tizer/4854cab856f844af9cce510af35505d1
 notion_id: 4854cab8-56f8-44af-9cce-510af35505d1
 ---
 

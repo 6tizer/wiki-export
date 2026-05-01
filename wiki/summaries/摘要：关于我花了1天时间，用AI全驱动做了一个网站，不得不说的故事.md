@@ -1,15 +1,13 @@
 ---
 title: 摘要：关于我花了1天时间，用AI全驱动做了一个网站，不得不说的故事
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68812bb584ce36401fd2af
-notion_url: https://www.notion.so/9058e73d56f6471e9c70ff3c294a22b6
+notion_url: https://www.notion.so/Tizer/9058e73d56f6471e9c70ff3c294a22b6
 notion_id: 9058e73d-56f6-471e-9c70-ff3c294a22b6
 ---
 

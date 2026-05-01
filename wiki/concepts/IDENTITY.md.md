@@ -2,15 +2,15 @@
 title: IDENTITY.md
 type: concept
 tags:
-- OpenClaw
+- Agent 协作模式
 - 提示工程
-- 长期记忆
+- OpenClaw
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/486c74e49de542f38999b734601a83ec
+notion_url: https://www.notion.so/Tizer/486c74e49de542f38999b734601a83ec
 notion_id: 486c74e4-9de5-42f3-8999-b734601a83ec
 ---
 

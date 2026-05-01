@@ -2,14 +2,15 @@
 title: 摘要：OpenClaw正在杀死中层
 type: summary
 tags:
+- 商业/生态
+- 上下文管理
 - OpenClaw
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/6e7294a58d8b46dbad6ae03bc924b67f
+notion_url: https://www.notion.so/Tizer/6e7294a58d8b46dbad6ae03bc924b67f
 notion_id: 6e7294a5-8d8b-46db-ad6a-e03bc924b67f
 ---
 

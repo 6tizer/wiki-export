@@ -1,15 +1,13 @@
 ---
 title: 摘要：一文带你看懂，火爆全网的Harness Engineering到底是个啥。
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68812bb525ca5df6623074
-notion_url: https://www.notion.so/9ae01ee5d35f430d957c6489a5471c15
+notion_url: https://www.notion.so/Tizer/9ae01ee5d35f430d957c6489a5471c15
 notion_id: 9ae01ee5-d35f-430d-957c-6489a5471c15
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：字节最火的开源Agent项目，如何思考Agent的自我进化？
 type: summary
-tags:
-- Agent 编排
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881c0bf8dd109349c75a1
-notion_url: https://www.notion.so/1a125e0d1282489a8f6f875f6dc3fe67
+notion_url: https://www.notion.so/Tizer/1a125e0d1282489a8f6f875f6dc3fe67
 notion_id: 1a125e0d-1282-489a-8f6f-875f6dc3fe67
 ---
 

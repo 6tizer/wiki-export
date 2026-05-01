@@ -1,14 +1,13 @@
 ---
 title: Trae
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8754584f7f5b45e0862a95ac36a635a4
+notion_url: https://www.notion.so/Tizer/8754584f7f5b45e0862a95ac36a635a4
 notion_id: 8754584f-7f5b-45e0-862a-95ac36a635a4
 ---
 

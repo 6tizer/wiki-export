@@ -1,15 +1,13 @@
 ---
 title: 摘要：30 分钟精通 Claude Code
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: Claude, Agent, 自动化
 source_article_url: https://www.notion.so/34b701074b68819ea95cc7afceb4adb3
-notion_url: https://www.notion.so/aa635dc29f2f4a369738bf6aa8942cf1
+notion_url: https://www.notion.so/Tizer/aa635dc29f2f4a369738bf6aa8942cf1
 notion_id: aa635dc2-9f2f-4a36-9738-bf6aa8942cf1
 ---
 

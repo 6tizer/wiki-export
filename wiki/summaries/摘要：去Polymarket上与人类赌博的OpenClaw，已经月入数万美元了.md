@@ -2,13 +2,15 @@
 title: 摘要：去Polymarket上与人类赌博的OpenClaw，已经月入数万美元了
 type: summary
 tags:
-- Crypto/DeFi
+- OpenClaw
+- 量化交易
+- 加密资产
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: Agent
 source_article_url: ''
-notion_url: https://www.notion.so/4f38504c86044cdbb27c57b03e972d0b
+notion_url: https://www.notion.so/Tizer/4f38504c86044cdbb27c57b03e972d0b
 notion_id: 4f38504c-8604-4cdb-b27c-57b03e972d0b
 ---
 

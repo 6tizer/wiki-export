@@ -2,13 +2,15 @@
 title: 摘要：OpenFang 开源 Agent 操作系统——Rust 构建的 OpenClaw 替代
 type: summary
 tags:
-- 开发工具
+- Agent 协作模式
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/d077f0a809d44fb69b88faf3ff4a21c8
+notion_url: https://www.notion.so/Tizer/d077f0a809d44fb69b88faf3ff4a21c8
 notion_id: d077f0a8-09d4-4fb6-9b88-faf3ff4a21c8
 ---
 

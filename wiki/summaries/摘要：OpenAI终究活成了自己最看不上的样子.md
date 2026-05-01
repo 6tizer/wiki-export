@@ -2,14 +2,13 @@
 title: 摘要：OpenAI终究活成了自己最看不上的样子
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-14'
 source_tags: ''
 source_article_url: https://www.notion.so/342701074b68819ebebfcad1155f99f0
-notion_url: https://www.notion.so/3f076b91cda74c39b7a179779cfc93cd
+notion_url: https://www.notion.so/Tizer/3f076b91cda74c39b7a179779cfc93cd
 notion_id: 3f076b91-cda7-4c39-b7a1-79779cfc93cd
 ---
 

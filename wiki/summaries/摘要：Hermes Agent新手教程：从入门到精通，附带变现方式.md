@@ -1,15 +1,13 @@
 ---
 title: 摘要：Hermes Agent新手教程：从入门到精通，附带变现方式
 type: summary
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68818d9624fc0e1b1fe714
-notion_url: https://www.notion.so/63979231a8a04a1ea6fe27545b8d11f1
+notion_url: https://www.notion.so/Tizer/63979231a8a04a1ea6fe27545b8d11f1
 notion_id: 63979231-a8a0-4a1e-a6fe-27545b8d11f1
 ---
 

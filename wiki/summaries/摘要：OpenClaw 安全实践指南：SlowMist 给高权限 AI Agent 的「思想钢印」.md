@@ -3,13 +3,13 @@ title: 摘要：OpenClaw 安全实践指南：SlowMist 给高权限 AI Agent 的
 type: summary
 tags:
 - OpenClaw
-- 安全/隐私
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/3576c57427534c5baabd5f39bb7bdada
+notion_url: https://www.notion.so/Tizer/3576c57427534c5baabd5f39bb7bdada
 notion_id: 3576c574-2753-4c5b-aabd-5f39bb7bdada
 ---
 

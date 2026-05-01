@@ -1,15 +1,13 @@
 ---
 title: Ratchet-Driven Development
 type: concept
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f6db11e31c2d4dd5967e10de0555ce7a
+notion_url: https://www.notion.so/Tizer/f6db11e31c2d4dd5967e10de0555ce7a
 notion_id: f6db11e3-1c2d-4dd5-967e-10de0555ce7a
 ---
 

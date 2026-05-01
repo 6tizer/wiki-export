@@ -1,15 +1,13 @@
 ---
 title: GGUF
 type: concept
-tags:
-- LLM
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/635fe6e1bfdd4750b13b1c6546ace4c9
+notion_url: https://www.notion.so/Tizer/635fe6e1bfdd4750b13b1c6546ace4c9
 notion_id: 635fe6e1-bfdd-4750-b13b-1c6546ace4c9
 ---
 

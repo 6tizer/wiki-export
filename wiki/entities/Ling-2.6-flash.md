@@ -1,14 +1,13 @@
 ---
 title: Ling-2.6-flash
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/51cc8c9db6054aafa1c319956cdb774b
+notion_url: https://www.notion.so/Tizer/51cc8c9db6054aafa1c319956cdb774b
 notion_id: 51cc8c9d-b605-4aaf-a1c3-19956cdb774b
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: XOR 问题
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/69890533b3f14550a0c9fa268bb64f46
+notion_url: https://www.notion.so/Tizer/69890533b3f14550a0c9fa268bb64f46
 notion_id: 69890533-b3f1-4550-a0c9-fa268bb64f46
 ---
 

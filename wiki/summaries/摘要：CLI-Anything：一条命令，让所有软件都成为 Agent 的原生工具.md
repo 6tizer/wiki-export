@@ -2,14 +2,15 @@
 title: 摘要：CLI-Anything：一条命令，让所有软件都成为 Agent 的原生工具
 type: summary
 tags:
-- 开发工具
-- Agent 编排
+- 内容自动化
+- CLI 工具
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, 自动化, OpenClaw
 source_article_url: ''
-notion_url: https://www.notion.so/6000f94f5a7e412897b50d070a7ffd11
+notion_url: https://www.notion.so/Tizer/6000f94f5a7e412897b50d070a7ffd11
 notion_id: 6000f94f-5a7e-4128-97b5-0d070a7ffd11
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：Anthropic 如何用单点突破抢占企业 AI 市场
 type: summary
 tags:
-- LLM
+- 商业/生态
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/dd4b09ee9fda41a2af3616a2c69892dc
+notion_url: https://www.notion.so/Tizer/dd4b09ee9fda41a2af3616a2c69892dc
 notion_id: dd4b09ee-9fda-41a2-af36-16a2c69892dc
 ---
 

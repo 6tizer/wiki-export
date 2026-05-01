@@ -2,13 +2,15 @@
 title: 摘要：MiniMax M2.7：国产最强 Agent 基模，会自我进化的模型来了
 type: summary
 tags:
-- LLM
+- Agent 协作模式
+- 训练/微调
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/335701074b688151876de058fc3334d9
-notion_url: https://www.notion.so/1407e065c1a84750b6a09d0754aa6952
+notion_url: https://www.notion.so/Tizer/1407e065c1a84750b6a09d0754aa6952
 notion_id: 1407e065-c1a8-4750-b6a0-9d0754aa6952
 ---
 

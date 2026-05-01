@@ -1,14 +1,13 @@
 ---
 title: 摘要：Google Maps 免信用卡 Demo Key：开发者的低门槛入场券
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Google Maps, API Key, Maps Platform, 定价/计费, 开发者工具
 source_article_url: https://www.notion.so/335701074b688173a329cee676815aba
-notion_url: https://www.notion.so/0bfbcab07c3d4dfcbfe1ec8e848a9089
+notion_url: https://www.notion.so/Tizer/0bfbcab07c3d4dfcbfe1ec8e848a9089
 notion_id: 0bfbcab0-7c3d-4dfc-bfe1-ec8e848a9089
 ---
 

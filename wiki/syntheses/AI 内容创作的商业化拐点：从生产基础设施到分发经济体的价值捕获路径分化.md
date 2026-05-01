@@ -2,15 +2,13 @@
 title: AI 内容创作的商业化拐点：从生产基础设施到分发经济体的价值捕获路径分化
 type: synthesis
 tags:
-- 内容创作
 - 商业/生态
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/157df47a30874afdac43e76b088b710b
+notion_url: https://www.notion.so/Tizer/157df47a30874afdac43e76b088b710b
 notion_id: 157df47a-3087-4afd-ac43-e76b088b710b
 ---
 

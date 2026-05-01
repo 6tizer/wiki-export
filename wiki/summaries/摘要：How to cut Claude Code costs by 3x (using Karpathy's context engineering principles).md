@@ -2,15 +2,13 @@
 title: 摘要：How to cut Claude Code costs by 3x (using Karpathy's context engineering
   principles)
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688157bc39c058f210648c
-notion_url: https://www.notion.so/427638587db747e1a8e9784a98b318b2
+notion_url: https://www.notion.so/Tizer/427638587db747e1a8e9784a98b318b2
 notion_id: 42763858-7db7-47e1-a8e9-784a98b318b2
 ---
 

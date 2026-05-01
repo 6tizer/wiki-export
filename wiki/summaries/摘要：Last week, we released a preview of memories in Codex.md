@@ -10,7 +10,7 @@ confidence: medium
 last_compiled: '2026-04-21'
 source_tags: Agent, LLM, codex, 记忆, openai
 source_article_url: https://www.notion.so/349701074b6881d5b4cadaf96260b0f6
-notion_url: https://www.notion.so/fc34889e7fef467d87fa15d2497561ab
+notion_url: https://www.notion.so/Tizer/fc34889e7fef467d87fa15d2497561ab
 notion_id: fc34889e-7fef-467d-87fa-15d2497561ab
 ---
 

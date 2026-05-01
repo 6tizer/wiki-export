@@ -1,15 +1,13 @@
 ---
 title: 摘要：后续来了兄弟们，卧槽真的太炸了，同样的任务，同样的配置，速度比Claude Sonnet 4.6还快 6 倍，成本低约 50 倍，
 type: summary
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: https://www.notion.so/34c701074b6881b1b14dec5e4a14dc82
-notion_url: https://www.notion.so/0c0b72dde40c400b9c5ace92f1154947
+notion_url: https://www.notion.so/Tizer/0c0b72dde40c400b9c5ace92f1154947
 notion_id: 0c0b72dd-e40c-400b-9c5a-ce92f1154947
 ---
 

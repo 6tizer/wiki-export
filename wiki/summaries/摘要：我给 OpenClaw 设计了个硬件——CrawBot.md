@@ -3,12 +3,14 @@ title: 摘要：我给 OpenClaw 设计了个硬件——CrawBot
 type: summary
 tags:
 - OpenClaw
+- AI 设计
+- 多Agent协作
 status: 已审核
 confidence: low
 last_compiled: '2026-04-10'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/fc3de41fd1384d89a420383540fba12a
+notion_url: https://www.notion.so/Tizer/fc3de41fd1384d89a420383540fba12a
 notion_id: fc3de41f-d138-4d89-a420-383540fba12a
 ---
 

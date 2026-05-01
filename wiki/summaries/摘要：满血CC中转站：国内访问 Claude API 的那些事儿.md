@@ -2,14 +2,13 @@
 title: 摘要：满血CC中转站：国内访问 Claude API 的那些事儿
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881bdbfd1f81017155b28
-notion_url: https://www.notion.so/07d2b2f1b0484a9da44cac1973e3a452
+notion_url: https://www.notion.so/Tizer/07d2b2f1b0484a9da44cac1973e3a452
 notion_id: 07d2b2f1-b048-4a9d-a44c-ac1973e3a452
 ---
 

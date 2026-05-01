@@ -2,13 +2,15 @@
 title: 摘要：一键搞定全流程！AI 漫剧一站式生成工具分享
 type: summary
 tags:
-- 工作流
+- 内容自动化
+- 视频/3D
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/1f12afbbd7344886b7b0a4375e46b2c2
+notion_url: https://www.notion.so/Tizer/1f12afbbd7344886b7b0a4375e46b2c2
 notion_id: 1f12afbb-d734-4886-b7b0-a4375e46b2c2
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: Coding Agent 开发工具链深度融合：从终端交互到上下文治理的基础设施协同演进
 type: synthesis
-tags:
-- 开发工具
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f4ad8ad500c2459aa05b8a510866573f
+notion_url: https://www.notion.so/Tizer/f4ad8ad500c2459aa05b8a510866573f
 notion_id: f4ad8ad5-00c2-459a-a05b-8a510866573f
 ---
 

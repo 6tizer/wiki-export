@@ -2,13 +2,15 @@
 title: 摘要：SALA架构——线性注意力+稀疏注意力拉满上下文能力
 type: summary
 tags:
-- LLM
+- 推理优化
+- 上下文管理
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: LLM, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/a01399ec08dc410d82e73c004d14ba97
+notion_url: https://www.notion.so/Tizer/a01399ec08dc410d82e73c004d14ba97
 notion_id: a01399ec-08dc-410d-82e7-3c004d14ba97
 ---
 

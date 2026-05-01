@@ -1,15 +1,13 @@
 ---
 title: Magic Layers
 type: entity
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/645c97f6daf84b4d9fa0b8383a43f6c8
+notion_url: https://www.notion.so/Tizer/645c97f6daf84b4d9fa0b8383a43f6c8
 notion_id: 645c97f6-daf8-4b4d-9fa0-b8383a43f6c8
 ---
 

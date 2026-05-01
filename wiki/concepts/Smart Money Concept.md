@@ -2,7 +2,10 @@
 title: Smart Money Concept
 type: concept
 tags:
-- Crypto/DeFi
+- 量化交易
+- AI 产品
+- OpenClaw
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

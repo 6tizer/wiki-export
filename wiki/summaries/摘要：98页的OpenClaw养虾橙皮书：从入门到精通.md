@@ -3,12 +3,13 @@ title: 摘要：98页的OpenClaw养虾橙皮书：从入门到精通
 type: summary
 tags:
 - OpenClaw
+- 模型部署
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/fea19ae411b44fe197356a7657ef2bb4
+notion_url: https://www.notion.so/Tizer/fea19ae411b44fe197356a7657ef2bb4
 notion_id: fea19ae4-11b4-4fe1-9735-6a7657ef2bb4
 ---
 

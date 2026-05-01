@@ -2,14 +2,15 @@
 title: 摘要：camoufox-cli：让 AI Agent 的浏览器不再被识破
 type: summary
 tags:
-- Agent 技能
-- 开发工具
+- 浏览器自动化
+- CLI 工具
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/a9ba2d48bde4461b9883cfdd9e603050
+notion_url: https://www.notion.so/Tizer/a9ba2d48bde4461b9883cfdd9e603050
 notion_id: a9ba2d48-bde4-461b-9883-cfdd9e603050
 ---
 

@@ -3,13 +3,12 @@ title: 摘要：首发开源7*24小时不停干活的Harness for OpenClaw！
 type: summary
 tags:
 - OpenClaw
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: OpenClaw, Harness, 开源项目
 source_article_url: ''
-notion_url: https://www.notion.so/c51b3735c7aa4c1fb8f6e5686c1416be
+notion_url: https://www.notion.so/Tizer/c51b3735c7aa4c1fb8f6e5686c1416be
 notion_id: c51b3735-c7aa-4c1f-b8f6-e5686c1416be
 ---
 

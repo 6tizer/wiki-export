@@ -2,7 +2,9 @@
 title: SpacetimeDB 2.0
 type: entity
 tags:
-- 开发工具
+- 商业/生态
+- AI 产品
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

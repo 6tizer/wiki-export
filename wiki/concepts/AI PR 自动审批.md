@@ -1,9 +1,7 @@
 ---
 title: AI PR 自动审批
 type: concept
-tags:
-- Coding Agent
-- Agent 编排
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'

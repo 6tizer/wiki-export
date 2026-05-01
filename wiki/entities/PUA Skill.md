@@ -2,7 +2,9 @@
 title: PUA Skill
 type: entity
 tags:
-- Coding Agent
+- AI 设计
+- 提示工程
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

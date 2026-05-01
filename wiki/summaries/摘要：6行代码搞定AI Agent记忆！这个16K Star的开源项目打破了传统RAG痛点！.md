@@ -1,14 +1,13 @@
 ---
 title: 摘要：6行代码搞定AI Agent记忆！这个16K Star的开源项目打破了传统RAG痛点！
 type: summary
-tags:
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b6881e59750c0abed178be0
-notion_url: https://www.notion.so/1d091af497a94062a83f0ca852db95f8
+notion_url: https://www.notion.so/Tizer/1d091af497a94062a83f0ca852db95f8
 notion_id: 1d091af4-97a9-4062-a83f-0ca852db95f8
 ---
 

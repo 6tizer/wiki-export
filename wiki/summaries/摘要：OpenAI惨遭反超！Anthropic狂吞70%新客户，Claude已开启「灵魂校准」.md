@@ -2,14 +2,13 @@
 title: 摘要：OpenAI惨遭反超！Anthropic狂吞70%新客户，Claude已开启「灵魂校准」
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b6881efb950db0a107db1df
-notion_url: https://www.notion.so/05a22ddc56574164905132e6000ec466
+notion_url: https://www.notion.so/Tizer/05a22ddc56574164905132e6000ec466
 notion_id: 05a22ddc-5657-4164-9051-32e6000ec466
 ---
 

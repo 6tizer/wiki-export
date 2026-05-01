@@ -2,13 +2,15 @@
 title: 摘要：Agent 记忆五款开源框架横评与选型指南
 type: summary
 tags:
-- 记忆系统
+- 长期记忆
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, 记忆
 source_article_url: ''
-notion_url: https://www.notion.so/be53e86808da49e0b987b0d6e52a967b
+notion_url: https://www.notion.so/Tizer/be53e86808da49e0b987b0d6e52a967b
 notion_id: be53e868-08da-49e0-b987-b0d6e52a967b
 ---
 

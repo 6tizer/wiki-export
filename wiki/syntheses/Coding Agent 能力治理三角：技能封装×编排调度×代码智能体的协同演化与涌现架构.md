@@ -1,16 +1,13 @@
 ---
 title: Coding Agent 能力治理三角：技能封装×编排调度×代码智能体的协同演化与涌现架构
 type: synthesis
-tags:
-- Agent 技能
-- Coding Agent
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6d68fc838c6a47baa016b8fa94c05c8e
+notion_url: https://www.notion.so/Tizer/6d68fc838c6a47baa016b8fa94c05c8e
 notion_id: 6d68fc83-8c6a-47ba-a016-b8fa94c05c8e
 ---
 

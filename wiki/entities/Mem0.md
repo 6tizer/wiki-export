@@ -3,13 +3,12 @@ title: Mem0
 type: entity
 tags:
 - OpenClaw
-- 记忆系统
 status: 审核中
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9a3d2b5bf31940a29b94c64ed3f7a8a5
+notion_url: https://www.notion.so/Tizer/9a3d2b5bf31940a29b94c64ed3f7a8a5
 notion_id: 9a3d2b5b-f319-40a2-9b94-c64ed3f7a8a5
 ---
 

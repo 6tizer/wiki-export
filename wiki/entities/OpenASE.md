@@ -1,15 +1,13 @@
 ---
 title: OpenASE
 type: entity
-tags:
-- Coding Agent
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/d128d7a90b2940f5b70243d128b5edfc
+notion_url: https://www.notion.so/Tizer/d128d7a90b2940f5b70243d128b5edfc
 notion_id: d128d7a9-0b29-40f5-b702-43d128b5edfc
 ---
 

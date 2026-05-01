@@ -32,7 +32,7 @@ notion_id: 16eb061b-9b83-4962-9c0e-babfc8f5e738
 
 **提取的概念**
 
-- [Symphony](concepts/Symphony.md)
+- [Symphony](entities/Symphony.md)
 
 - [Harness Engineering](concepts/Harness Engineering.md)
 

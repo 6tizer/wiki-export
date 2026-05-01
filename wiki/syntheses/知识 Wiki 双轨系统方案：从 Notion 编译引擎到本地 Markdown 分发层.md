@@ -3,13 +3,12 @@ title: 知识 Wiki 双轨系统方案：从 Notion 编译引擎到本地 Markdow
 type: synthesis
 tags:
 - 知识管理
-- Agent 编排
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/22dabdd5d3a349d9a15bf6a0e86fda2f
+notion_url: https://www.notion.so/Tizer/22dabdd5d3a349d9a15bf6a0e86fda2f
 notion_id: 22dabdd5-d3a3-49d9-a15b-f6a0e86fda2f
 ---
 
@@ -497,7 +496,7 @@ Notion 页面中的关联概念 `<mention-page url="xxx">名称</mention-page>` 
 
 - Untitled — Workers 能力边界评估
 
-- Wiki Schema（规则文件） — 系统宪法
+- [Wiki Schema（规则文件）](index/Wiki Schema（规则文件）.md) — 系统宪法
 
 - [Obsidian](entities/Obsidian.md) — 本地 GUI 层
 

@@ -1,15 +1,13 @@
 ---
 title: Windsurf
 type: entity
-tags:
-- Coding Agent
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/5a0a255b3c21485b89fc3bc97e77ae16
+notion_url: https://www.notion.so/Tizer/5a0a255b3c21485b89fc3bc97e77ae16
 notion_id: 5a0a255b-3c21-485b-89fc-3bc97e77ae16
 ---
 

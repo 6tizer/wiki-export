@@ -1,14 +1,13 @@
 ---
 title: 桌面 Agent
 type: concept
-tags:
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/e3c947cb589846318f8c1f054b246a21
+notion_url: https://www.notion.so/Tizer/e3c947cb589846318f8c1f054b246a21
 notion_id: e3c947cb-5898-4631-8f8c-1f054b246a21
 ---
 

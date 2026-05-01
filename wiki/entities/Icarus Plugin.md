@@ -1,9 +1,7 @@
 ---
 title: Icarus Plugin
 type: entity
-tags:
-- 记忆系统
-- Agent 技能
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-21'

@@ -2,14 +2,15 @@
 title: HyperAgent
 type: entity
 tags:
-- Agent 技能
-- 开发工具
+- 浏览器自动化
+- 前端开发
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/95c082df45724c75945bd32e2580ef91
+notion_url: https://www.notion.so/Tizer/95c082df45724c75945bd32e2580ef91
 notion_id: 95c082df-4572-4c75-945b-d32e2580ef91
 ---
 

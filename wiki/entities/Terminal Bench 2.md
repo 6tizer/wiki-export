@@ -1,14 +1,13 @@
 ---
 title: Terminal Bench 2
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8611ef4fcd7341e7b4d391a44171b1a9
+notion_url: https://www.notion.so/Tizer/8611ef4fcd7341e7b4d391a44171b1a9
 notion_id: 8611ef4f-cd73-41e7-b4d3-91a44171b1a9
 ---
 

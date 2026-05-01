@@ -2,13 +2,15 @@
 title: 摘要：Agent Skills 的设计哲学——为什么文件夹成了最强武器
 type: summary
 tags:
-- 工作流
+- Agent 协作模式
+- 上下文管理
+- 提示工程
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/bc3546c88fec462495f67dbdbc9bdcc0
+notion_url: https://www.notion.so/Tizer/bc3546c88fec462495f67dbdbc9bdcc0
 notion_id: bc3546c8-8fec-4624-95f6-7dbdbc9bdcc0
 ---
 

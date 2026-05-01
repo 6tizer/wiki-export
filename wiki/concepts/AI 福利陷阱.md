@@ -1,9 +1,7 @@
 ---
 title: AI 福利陷阱
 type: concept
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-22'

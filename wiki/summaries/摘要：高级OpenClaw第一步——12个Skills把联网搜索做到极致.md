@@ -3,13 +3,14 @@ title: 摘要：高级OpenClaw第一步——12个Skills把联网搜索做到极
 type: summary
 tags:
 - OpenClaw
-- 开发工具
+- 浏览器自动化
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/a3489db712fe4f03be73f9bbedce5a65
+notion_url: https://www.notion.so/Tizer/a3489db712fe4f03be73f9bbedce5a65
 notion_id: a3489db7-12fe-4f03-be73-f9bbedce5a65
 ---
 

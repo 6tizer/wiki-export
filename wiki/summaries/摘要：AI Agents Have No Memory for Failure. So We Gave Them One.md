@@ -1,15 +1,13 @@
 ---
 title: 摘要：AI Agents Have No Memory for Failure. So We Gave Them One.
 type: summary
-tags:
-- 记忆系统
-- Crypto/DeFi
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881f6a1e9f0548d0b12f1
-notion_url: https://www.notion.so/4878aff50f9a4b1dbc2d974f1569782f
+notion_url: https://www.notion.so/Tizer/4878aff50f9a4b1dbc2d974f1569782f
 notion_id: 4878aff5-0f9a-4b1d-bc2d-974f1569782f
 ---
 

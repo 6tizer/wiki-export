@@ -1,15 +1,13 @@
 ---
 title: 摘要：git worktree在AI编程智能体时代为啥火了
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881809e27ebbb215eb501
-notion_url: https://www.notion.so/0402b5df0cd1412d94bca712831dbfba
+notion_url: https://www.notion.so/Tizer/0402b5df0cd1412d94bca712831dbfba
 notion_id: 0402b5df-0cd1-412d-94bc-a712831dbfba
 ---
 

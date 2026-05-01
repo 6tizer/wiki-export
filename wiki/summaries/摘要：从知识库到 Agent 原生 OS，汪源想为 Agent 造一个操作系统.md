@@ -2,13 +2,15 @@
 title: 摘要：从知识库到 Agent 原生 OS，汪源想为 Agent 造一个操作系统
 type: summary
 tags:
-- 知识管理
+- MCP 协议
+- 上下文管理
+- 长期记忆
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e9729e9342f341dd93c2161ea3c56df8
+notion_url: https://www.notion.so/Tizer/e9729e9342f341dd93c2161ea3c56df8
 notion_id: e9729e93-42f3-41dd-93c2-161ea3c56df8
 ---
 

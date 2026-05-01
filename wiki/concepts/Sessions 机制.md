@@ -3,13 +3,12 @@ title: Sessions 机制
 type: concept
 tags:
 - 商业/生态
-- Crypto/DeFi
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e3c50beb727e4022b5ac10669efb888c
+notion_url: https://www.notion.so/Tizer/e3c50beb727e4022b5ac10669efb888c
 notion_id: e3c50beb-727e-4022-b5ac-10669efb888c
 ---
 

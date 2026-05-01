@@ -2,14 +2,13 @@
 title: 摘要：没想到！DeepSeek V4里，竟还藏着一个中国万亿开源模型
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: https://www.notion.so/34c701074b688177accce89c786d7c7e
-notion_url: https://www.notion.so/620cdd459bb8460f9aae10aaf7dd682a
+notion_url: https://www.notion.so/Tizer/620cdd459bb8460f9aae10aaf7dd682a
 notion_id: 620cdd45-9bb8-460f-9aae-10aaf7dd682a
 ---
 

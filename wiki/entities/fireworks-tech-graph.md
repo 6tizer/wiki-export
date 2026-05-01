@@ -1,15 +1,13 @@
 ---
 title: fireworks-tech-graph
 type: entity
-tags:
-- 开发工具
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0c710cc678824e28a3ec2ef98c6c5531
+notion_url: https://www.notion.so/Tizer/0c710cc678824e28a3ec2ef98c6c5531
 notion_id: 0c710cc6-7882-4e28-a3ec-2ef98c6c5531
 ---
 

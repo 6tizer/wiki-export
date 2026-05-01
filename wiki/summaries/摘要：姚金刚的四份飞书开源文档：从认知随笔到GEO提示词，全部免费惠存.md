@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-12'
 source_tags: LLM, GEO/SEO, 提示词
 source_article_url: https://www.notion.so/33d701074b6881f58bdce672b2b2373d
-notion_url: https://www.notion.so/bd0ee7a015f04e6ab98302edd313e379
+notion_url: https://www.notion.so/Tizer/bd0ee7a015f04e6ab98302edd313e379
 notion_id: bd0ee7a0-15f0-4e6a-b983-02edd313e379
 ---
 

@@ -3,13 +3,12 @@ title: IPO 媒体化
 type: concept
 tags:
 - 商业/生态
-- 内容创作
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/bf00fab52b494400ba4b10c7928ce5e0
+notion_url: https://www.notion.so/Tizer/bf00fab52b494400ba4b10c7928ce5e0
 notion_id: bf00fab5-2b49-4400-ba4b-10c7928ce5e0
 ---
 

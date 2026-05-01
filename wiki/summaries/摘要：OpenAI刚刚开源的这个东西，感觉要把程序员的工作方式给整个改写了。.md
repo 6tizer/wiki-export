@@ -30,7 +30,7 @@ notion_id: acb90a1e-bb02-461c-9c58-feef18461544
 
 **提取的概念**
 
-- [Symphony](concepts/Symphony.md)
+- [Symphony](entities/Symphony.md)
 
 - [Codex](entities/Codex.md)
 

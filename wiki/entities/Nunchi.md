@@ -2,7 +2,12 @@
 title: Nunchi
 type: entity
 tags:
-- Crypto/DeFi
+- 量化交易
+- 加密资产
+- CLI 工具
+- OpenClaw
+- MCP 协议
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

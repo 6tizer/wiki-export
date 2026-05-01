@@ -2,14 +2,16 @@
 title: 摘要：Coxy ——将 GitHub Copilot 额度代理为 OpenAI 兼容 API
 type: summary
 tags:
-- 开发工具
 - OpenClaw
+- IDE 集成
+- CLI 工具
+- 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, Cursor
 source_article_url: ''
-notion_url: https://www.notion.so/77a8aa5bb9314ddaaf31c3666c3ae6cc
+notion_url: https://www.notion.so/Tizer/77a8aa5bb9314ddaaf31c3666c3ae6cc
 notion_id: 77a8aa5b-b931-4dda-af31-c3666c3ae6cc
 ---
 

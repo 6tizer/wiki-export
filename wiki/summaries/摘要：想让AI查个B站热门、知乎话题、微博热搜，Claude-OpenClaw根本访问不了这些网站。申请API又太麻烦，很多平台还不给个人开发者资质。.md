@@ -1,15 +1,13 @@
 ---
 title: 摘要：想让AI查个B站热门、知乎话题、微博热搜，Claude/OpenClaw根本访问不了这些网站。申请API又太麻烦，很多平台还不给个人开发者资质。
 type: summary
-tags:
-- Agent 技能
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881979e90f8c1132b7a1e
-notion_url: https://www.notion.so/fd26e84d70ec4d89a96165a54327d41f
+notion_url: https://www.notion.so/Tizer/fd26e84d70ec4d89a96165a54327d41f
 notion_id: fd26e84d-70ec-4d89-a961-65a54327d41f
 ---
 

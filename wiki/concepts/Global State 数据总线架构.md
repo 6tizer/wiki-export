@@ -2,14 +2,15 @@
 title: Global State 数据总线架构
 type: concept
 tags:
-- Agent 编排
-- 工作流
+- 商业/生态
+- 模型评测
+- 长期记忆
 status: 草稿
 confidence: medium
 last_compiled: '2026-04-24'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6bb90e4960394699bf6a472a18fed446
+notion_url: https://www.notion.so/Tizer/6bb90e4960394699bf6a472a18fed446
 notion_id: 6bb90e49-6039-4699-bf6a-472a18fed446
 ---
 

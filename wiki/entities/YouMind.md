@@ -3,7 +3,6 @@ title: YouMind
 type: entity
 tags:
 - 知识管理
-- Agent 技能
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

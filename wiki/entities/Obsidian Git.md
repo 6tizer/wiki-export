@@ -3,13 +3,12 @@ title: Obsidian Git
 type: entity
 tags:
 - 知识管理
-- 开发工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/901c8c49cf984519b02e91223f4507e8
+notion_url: https://www.notion.so/Tizer/901c8c49cf984519b02e91223f4507e8
 notion_id: 901c8c49-cf98-4519-b02e-91223f4507e8
 ---
 

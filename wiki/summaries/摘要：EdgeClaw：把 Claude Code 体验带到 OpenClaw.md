@@ -3,14 +3,16 @@ title: 摘要：EdgeClaw：把 Claude Code 体验带到 OpenClaw
 type: summary
 tags:
 - OpenClaw
-- 记忆系统
-- 开发工具
+- 长期记忆
+- 推理优化
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化, Claude, 记忆
 source_article_url: ''
-notion_url: https://www.notion.so/12bb594d2d3d425b8e80b3f5afbe7796
+notion_url: https://www.notion.so/Tizer/12bb594d2d3d425b8e80b3f5afbe7796
 notion_id: 12bb594d-2d3d-425b-8e80-b3f5afbe7796
 ---
 

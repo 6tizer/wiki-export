@@ -2,14 +2,15 @@
 title: 摘要：OpenClaw 配置三原则：启动轻、分层严、记忆精
 type: summary
 tags:
+- 长期记忆
 - OpenClaw
-- 工作流
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: https://www.notion.so/335701074b688151ad99cf676d4ec42b
-notion_url: https://www.notion.so/c2cdef5d530344fdb4f6ffe0fb3ac5a2
+notion_url: https://www.notion.so/Tizer/c2cdef5d530344fdb4f6ffe0fb3ac5a2
 notion_id: c2cdef5d-5303-44fd-b4f6-ffe0fb3ac5a2
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: 三省六部式多 Agent 架构
 type: concept
-tags:
-- Agent 编排
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8935535883d9452e9869ef89e65195cb
+notion_url: https://www.notion.so/Tizer/8935535883d9452e9869ef89e65195cb
 notion_id: 89355358-83d9-452e-9869-ef89e65195cb
 ---
 

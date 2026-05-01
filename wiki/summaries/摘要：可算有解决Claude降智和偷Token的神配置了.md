@@ -2,8 +2,11 @@
 title: 摘要：可算有解决Claude降智和偷Token的神配置了
 type: summary
 tags:
-- Coding Agent
-- 工作流
+- 知识管理
+- AI 产品
+- OpenClaw
+- Agent 协作模式
+- 推理优化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'

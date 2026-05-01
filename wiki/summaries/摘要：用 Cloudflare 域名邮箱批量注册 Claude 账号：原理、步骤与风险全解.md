@@ -1,15 +1,13 @@
 ---
 title: 摘要：用 Cloudflare 域名邮箱批量注册 Claude 账号：原理、步骤与风险全解
 type: summary
-tags:
-- 安全/隐私
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: LLM, 自动化, Cloudflare, Claude
 source_article_url: https://www.notion.so/33d701074b6881f589faf3073efb111f
-notion_url: https://www.notion.so/7a0f2a945b0546f58c4062c7b5ba20a2
+notion_url: https://www.notion.so/Tizer/7a0f2a945b0546f58c4062c7b5ba20a2
 notion_id: 7a0f2a94-5b05-46f5-8c40-62c7b5ba20a2
 ---
 

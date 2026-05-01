@@ -2,13 +2,15 @@
 title: 摘要：部署 Mac 本地大模型新利器--oMLX 实测
 type: summary
 tags:
-- 开发工具
+- 推理优化
+- 模型部署
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: 本地部署, 工具推荐
 source_article_url: ''
-notion_url: https://www.notion.so/fe5a55f8243749aaba1033a29265723f
+notion_url: https://www.notion.so/Tizer/fe5a55f8243749aaba1033a29265723f
 notion_id: fe5a55f8-2437-49aa-ba10-33a29265723f
 ---
 

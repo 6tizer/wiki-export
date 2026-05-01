@@ -3,13 +3,15 @@ title: 摘要：startup-founder-skills：一个创始人的 50 个 AI 外挂，�
 type: summary
 tags:
 - 商业/生态
-- Agent 技能
+- 上下文管理
+- AI 产品
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Cursor
 source_article_url: https://www.notion.so/335701074b6881e59fa2c80ff226eadd
-notion_url: https://www.notion.so/ad161099fc41461a9b87a629d264a2ca
+notion_url: https://www.notion.so/Tizer/ad161099fc41461a9b87a629d264a2ca
 notion_id: ad161099-fc41-461a-9b87-a629d264a2ca
 ---
 

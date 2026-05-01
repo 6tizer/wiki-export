@@ -1,15 +1,13 @@
 ---
 title: 摘要：模型只是引擎，System Prompt 才是底盘：用 Claude 优化自身的迁移实验
 type: summary
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, OpenClaw, 自动化, Claude
 source_article_url: https://www.notion.so/33d701074b6881bb8398eda3ef438bdb
-notion_url: https://www.notion.so/e8a5f8e037254c16957f9d51250dd630
+notion_url: https://www.notion.so/Tizer/e8a5f8e037254c16957f9d51250dd630
 notion_id: e8a5f8e0-3725-4c16-957f-9d51250dd630
 ---
 

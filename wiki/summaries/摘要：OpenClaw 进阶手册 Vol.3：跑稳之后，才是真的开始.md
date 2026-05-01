@@ -3,13 +3,15 @@ title: 摘要：OpenClaw 进阶手册 Vol.3：跑稳之后，才是真的开始
 type: summary
 tags:
 - OpenClaw
-- 工作流
+- 多Agent协作
+- Agent 协作模式
+- 浏览器自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/fcd1bacf91b449b0b523d155b0dbbcb5
+notion_url: https://www.notion.so/Tizer/fcd1bacf91b449b0b523d155b0dbbcb5
 notion_id: fcd1bacf-91b4-49b0-b523-d155b0dbbcb5
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：LeviX：用五个 AI Agent 帮你读懂预测市场，电竞+AI 的大胆组合
 type: summary
-tags:
-- Crypto/DeFi
-- Agent 框架
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/33d701074b68813daf30e1db660d15f2
-notion_url: https://www.notion.so/20654d3c63304f409d315cef4803c1b4
+notion_url: https://www.notion.so/Tizer/20654d3c63304f409d315cef4803c1b4
 notion_id: 20654d3c-6330-4f40-9d31-5cef4803c1b4
 ---
 

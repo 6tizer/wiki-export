@@ -2,14 +2,13 @@
 title: 摘要：awesome-autoresearch：一份带优化轨迹的 AutoResearch 实战案例索引
 type: summary
 tags:
-- LLM
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/48aa7d19e9a647d381c95ec95aa19ce8
+notion_url: https://www.notion.so/Tizer/48aa7d19e9a647d381c95ec95aa19ce8
 notion_id: 48aa7d19-e9a6-47d3-81c9-5ec95aa19ce8
 ---
 

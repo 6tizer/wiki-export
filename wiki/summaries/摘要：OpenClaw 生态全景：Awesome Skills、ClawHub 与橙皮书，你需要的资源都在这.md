@@ -2,14 +2,14 @@
 title: 摘要：OpenClaw 生态全景：Awesome Skills、ClawHub 与橙皮书，你需要的资源都在这
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
-- Agent 技能
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/fb792aaf72f746d08b7a7ed42068360c
+notion_url: https://www.notion.so/Tizer/fb792aaf72f746d08b7a7ed42068360c
 notion_id: fb792aaf-72f7-46d0-8b7a-7ed42068360c
 ---
 

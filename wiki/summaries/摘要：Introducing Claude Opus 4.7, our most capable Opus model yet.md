@@ -1,15 +1,13 @@
 ---
 title: 摘要：Introducing Claude Opus 4.7, our most capable Opus model yet.
 type: summary
-tags:
-- LLM
-- Coding Agent
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688153a1afd5ace1aec5ec
-notion_url: https://www.notion.so/49e3e6b160524ddd92ae936e09d39a98
+notion_url: https://www.notion.so/Tizer/49e3e6b160524ddd92ae936e09d39a98
 notion_id: 49e3e6b1-6052-4ddd-92ae-936e09d39a98
 ---
 

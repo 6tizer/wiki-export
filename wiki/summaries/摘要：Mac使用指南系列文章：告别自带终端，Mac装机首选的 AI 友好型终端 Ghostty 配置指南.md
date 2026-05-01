@@ -1,15 +1,13 @@
 ---
 title: 摘要：Mac使用指南系列文章：告别自带终端，Mac装机首选的 AI 友好型终端 Ghostty 配置指南
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881c9bb6ddb56cab209b1
-notion_url: https://www.notion.so/a1f1c3b23d294fae860852f2312e897e
+notion_url: https://www.notion.so/Tizer/a1f1c3b23d294fae860852f2312e897e
 notion_id: a1f1c3b2-3d29-4fae-8608-52f2312e897e
 ---
 

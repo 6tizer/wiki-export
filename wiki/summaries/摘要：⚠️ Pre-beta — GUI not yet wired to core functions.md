@@ -1,15 +1,13 @@
 ---
 title: 摘要：⚠️ Pre-beta — GUI not yet wired to core functions.
 type: summary
-tags:
-- Agent 框架
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b68819d9675c74c8a087f33
-notion_url: https://www.notion.so/b20bd9e34f974a22abb9b3d456b8e8ae
+notion_url: https://www.notion.so/Tizer/b20bd9e34f974a22abb9b3d456b8e8ae
 notion_id: b20bd9e3-4f97-4a22-abb9-b3d456b8e8ae
 ---
 

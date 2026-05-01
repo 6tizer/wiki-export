@@ -3,12 +3,14 @@ title: 摘要：Skill Graph > SKILL.md 渐进式披露典范
 type: summary
 tags:
 - 知识管理
+- 上下文管理
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Skill 开发, Agent, Prompt Engineering
 source_article_url: ''
-notion_url: https://www.notion.so/6fe0d94ed87a425ba745496db9aca3e5
+notion_url: https://www.notion.so/Tizer/6fe0d94ed87a425ba745496db9aca3e5
 notion_id: 6fe0d94e-d87a-425b-a745-496db9aca3e5
 ---
 

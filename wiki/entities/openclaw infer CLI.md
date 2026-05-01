@@ -3,13 +3,12 @@ title: openclaw infer CLI
 type: entity
 tags:
 - OpenClaw
-- 开发工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/89f62efbb7354808969e828e28d4959b
+notion_url: https://www.notion.so/Tizer/89f62efbb7354808969e828e28d4959b
 notion_id: 89f62efb-b735-4808-969e-828e28d4959b
 ---
 

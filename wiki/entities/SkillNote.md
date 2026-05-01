@@ -2,8 +2,9 @@
 title: SkillNote
 type: entity
 tags:
-- Coding Agent
-- Agent 技能
+- 知识管理
+- Agent 协作模式
+- CLI 工具
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

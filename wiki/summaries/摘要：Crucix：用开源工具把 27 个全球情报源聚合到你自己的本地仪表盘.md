@@ -1,15 +1,13 @@
 ---
 title: 摘要：Crucix：用开源工具把 27 个全球情报源聚合到你自己的本地仪表盘
 type: summary
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b6881d4a8e5c48a5b9ae282
-notion_url: https://www.notion.so/623d92681338449da9f36a7d6b557391
+notion_url: https://www.notion.so/Tizer/623d92681338449da9f36a7d6b557391
 notion_id: 623d9268-1338-449d-a9f3-6a7d6b557391
 ---
 

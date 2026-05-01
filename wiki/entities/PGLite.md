@@ -1,14 +1,13 @@
 ---
 title: PGLite
 type: entity
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/46715959a69a48bda3f8b9780e698f09
+notion_url: https://www.notion.so/Tizer/46715959a69a48bda3f8b9780e698f09
 notion_id: 46715959-a69a-48bd-a3f8-b9780e698f09
 ---
 

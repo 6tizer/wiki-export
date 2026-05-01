@@ -2,13 +2,15 @@
 title: 摘要：CoPaw、OpenFang、ClawPhD、Eggent、RedBookSkills 工具合集
 type: summary
 tags:
-- 开发工具
+- 内容自动化
+- MCP 协议
+- OpenClaw
 status: 已审核
 confidence: low
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/0ccccf43da53413ba3ca4ae4c2fa0ff6
+notion_url: https://www.notion.so/Tizer/0ccccf43da53413ba3ca4ae4c2fa0ff6
 notion_id: 0ccccf43-da53-413b-a3ca-4ae4c2fa0ff6
 ---
 

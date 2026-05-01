@@ -2,13 +2,15 @@
 title: Agent-Skill-Script 三层架构
 type: concept
 tags:
-- Agent 编排
+- Agent 协作模式
+- 知识管理
+- 内容自动化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b2cae6d86fc749af98ab944305eb434a
+notion_url: https://www.notion.so/Tizer/b2cae6d86fc749af98ab944305eb434a
 notion_id: b2cae6d8-6fc7-49af-98ab-944305eb434a
 ---
 

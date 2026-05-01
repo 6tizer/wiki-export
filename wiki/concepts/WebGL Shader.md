@@ -4,7 +4,6 @@ type: concept
 tags:
 - 前端开发
 - 代码生成
-- Coding Agent
 - 图像生成
 status: 审核中
 confidence: medium

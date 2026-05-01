@@ -2,14 +2,13 @@
 title: '摘要：Avatar V: The End of Avatar Drift'
 type: summary
 tags:
-- 内容创作
 - 视频/3D
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68815b85e8f7250d1cd980
-notion_url: https://www.notion.so/275f10570da84b688df5e82e04974507
+notion_url: https://www.notion.so/Tizer/275f10570da84b688df5e82e04974507
 notion_id: 275f1057-0da8-4b68-8df5-e82e04974507
 ---
 

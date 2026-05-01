@@ -7,10 +7,10 @@ tags:
 - 提示工程
 status: 审核中
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-04-28'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f017ef06f33f4f6fb3f9f09740bd4063
+notion_url: https://www.notion.so/Tizer/f017ef06f33f4f6fb3f9f09740bd4063
 notion_id: f017ef06-f33f-4f6f-b3f9-f09740bd4063
 ---
 

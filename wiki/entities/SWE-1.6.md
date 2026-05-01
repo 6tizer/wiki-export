@@ -1,15 +1,13 @@
 ---
 title: SWE-1.6
 type: entity
-tags:
-- Coding Agent
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6d270e3d46ab49819166a2a4f8690e56
+notion_url: https://www.notion.so/Tizer/6d270e3d46ab49819166a2a4f8690e56
 notion_id: 6d270e3d-46ab-4981-9166-a2a4f8690e56
 ---
 

@@ -2,7 +2,6 @@
 title: wenyan_poetry
 type: entity
 tags:
-- LLM
 - OpenClaw
 status: 审核中
 confidence: high

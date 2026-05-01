@@ -1,15 +1,13 @@
 ---
 title: 摘要：A dream come true for every human anxious about their agents leaking secrets.
 type: summary
-tags:
-- 安全/隐私
-- Agent 技能
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688115ab99ebccefd26162
-notion_url: https://www.notion.so/bd2c01f99bab44518011253a07ef40d0
+notion_url: https://www.notion.so/Tizer/bd2c01f99bab44518011253a07ef40d0
 notion_id: bd2c01f9-9bab-4451-8011-253a07ef40d0
 ---
 

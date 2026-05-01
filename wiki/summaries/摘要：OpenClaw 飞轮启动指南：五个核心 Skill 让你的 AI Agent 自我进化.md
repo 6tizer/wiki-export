@@ -3,13 +3,14 @@ title: 摘要：OpenClaw 飞轮启动指南：五个核心 Skill 让你的 AI Ag
 type: summary
 tags:
 - OpenClaw
-- Agent 技能
+- Agent 协作模式
+- 内容自动化
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/ddabe393165f430aacee3431862eae00
+notion_url: https://www.notion.so/Tizer/ddabe393165f430aacee3431862eae00
 notion_id: ddabe393-165f-430a-acee-3431862eae00
 ---
 
@@ -39,7 +40,7 @@ notion_id: ddabe393-165f-430a-acee-3431862eae00
 
 - [find-skills](concepts/find-skills.md)
 
-- [skills-vetter](concepts/skills-vetter.md)
+- [skills-vetter](entities/skills-vetter.md)
 
 - [automation-workflows](entities/automation-workflows.md)
 

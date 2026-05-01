@@ -3,13 +3,12 @@ title: 摘要：claude code + obsidian + skill graph. how to build a local resea
 type: summary
 tags:
 - 知识管理
-- Coding Agent
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881569ab1fb4295195486
-notion_url: https://www.notion.so/f957068bb3f043c6b22cee5e040932c2
+notion_url: https://www.notion.so/Tizer/f957068bb3f043c6b22cee5e040932c2
 notion_id: f957068b-b3f0-43c6-b22c-ee5e040932c2
 ---
 

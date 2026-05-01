@@ -2,13 +2,14 @@
 title: CryptoQuant
 type: entity
 tags:
-- Crypto/DeFi
+- 加密资产
+- 链上协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/6711ae7e8c4444aba7ddec3c76fa486a
+notion_url: https://www.notion.so/Tizer/6711ae7e8c4444aba7ddec3c76fa486a
 notion_id: 6711ae7e-8c44-44ab-a7dd-ec3c76fa486a
 ---
 

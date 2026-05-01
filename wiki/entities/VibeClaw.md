@@ -2,8 +2,9 @@
 title: VibeClaw
 type: entity
 tags:
-- OpenClaw
 - 前端开发
+- 浏览器自动化
+- OpenClaw
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'

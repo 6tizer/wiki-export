@@ -2,14 +2,15 @@
 title: 摘要：OpenClaw：Jensen Huang 口中「下一个 Linux」，Agent 时代的操作系统
 type: summary
 tags:
-- Agent 框架
 - OpenClaw
+- 商业/生态
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化, LLM
 source_article_url: https://www.notion.so/335701074b68817ebb52f6a05262d9bf
-notion_url: https://www.notion.so/7b800871952144ad80016d63ff40936c
+notion_url: https://www.notion.so/Tizer/7b800871952144ad80016d63ff40936c
 notion_id: 7b800871-9521-44ad-8001-6d63ff40936c
 ---
 

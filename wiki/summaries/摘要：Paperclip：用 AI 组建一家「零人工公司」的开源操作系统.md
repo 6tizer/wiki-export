@@ -2,14 +2,15 @@
 title: 摘要：Paperclip：用 AI 组建一家「零人工公司」的开源操作系统
 type: summary
 tags:
-- Agent 框架
-- 工作流
+- Agent 协作模式
+- 多Agent协作
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, Cursor, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e4cf2e255b174394b869dfe4c0992107
+notion_url: https://www.notion.so/Tizer/e4cf2e255b174394b869dfe4c0992107
 notion_id: e4cf2e25-5b17-4394-b869-dfe4c0992107
 ---
 

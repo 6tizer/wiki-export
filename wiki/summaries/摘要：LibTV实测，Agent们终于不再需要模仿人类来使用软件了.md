@@ -2,13 +2,17 @@
 title: 摘要：LibTV实测，Agent们终于不再需要模仿人类来使用软件了
 type: summary
 tags:
-- 开发工具
+- 内容自动化
+- 视频/3D
+- 多模态
+- OpenClaw
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: AI 视频, Agent, 工具推荐
 source_article_url: ''
-notion_url: https://www.notion.so/3e80d84d418140759bffdcce896d65ea
+notion_url: https://www.notion.so/Tizer/3e80d84d418140759bffdcce896d65ea
 notion_id: 3e80d84d-4181-4075-9bff-dcce896d65ea
 ---
 

@@ -3,15 +3,13 @@ title: Camoufox
 type: entity
 tags:
 - 浏览器自动化
-- Agent 技能
 - CLI 工具
-- 开发工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/42b13acdc039487ca5d351aff73f80b4
+notion_url: https://www.notion.so/Tizer/42b13acdc039487ca5d351aff73f80b4
 notion_id: 42b13acd-c039-487c-a5d3-51aff73f80b4
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：谷歌昨天发布了 Gemma 4，这次非常牛逼！
 type: summary
 tags:
-- LLM
+- Agent 协作模式
+- 多模态
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/cae3b3755e894b8eb67b1bc1bed813e7
+notion_url: https://www.notion.so/Tizer/cae3b3755e894b8eb67b1bc1bed813e7
 notion_id: cae3b375-5e89-4b8e-b67b-1bc1bed813e7
 ---
 

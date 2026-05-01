@@ -2,13 +2,15 @@
 title: Knowledge Work Plugins
 type: concept
 tags:
-- 知识管理
+- 商业/生态
+- MCP 协议
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-10'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f9286c81cce14a88bb890dfeb4d24f95
+notion_url: https://www.notion.so/Tizer/f9286c81cce14a88bb890dfeb4d24f95
 notion_id: f9286c81-cce1-4a88-bb89-0dfeb4d24f95
 ---
 

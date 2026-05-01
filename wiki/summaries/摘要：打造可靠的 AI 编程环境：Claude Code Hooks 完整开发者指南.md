@@ -1,15 +1,13 @@
 ---
 title: 摘要：打造可靠的 AI 编程环境：Claude Code Hooks 完整开发者指南
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b6881f3a5a7f21546b32318
-notion_url: https://www.notion.so/37bcd801a84347bba99b23db2ec7b275
+notion_url: https://www.notion.so/Tizer/37bcd801a84347bba99b23db2ec7b275
 notion_id: 37bcd801-a843-47bb-a99b-23db2ec7b275
 ---
 

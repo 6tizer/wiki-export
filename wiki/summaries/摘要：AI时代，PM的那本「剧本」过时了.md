@@ -1,15 +1,13 @@
 ---
 title: 摘要：AI时代，PM的那本「剧本」过时了
 type: summary
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: LLM, Agent, 自动化
 source_article_url: https://www.notion.so/335701074b6881449a76f06a900cb603
-notion_url: https://www.notion.so/38f3a132eeb94916b8fb4fbda434e3fd
+notion_url: https://www.notion.so/Tizer/38f3a132eeb94916b8fb4fbda434e3fd
 notion_id: 38f3a132-eeb9-4916-b8fb-4fbda434e3fd
 ---
 

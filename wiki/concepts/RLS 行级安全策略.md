@@ -1,15 +1,13 @@
 ---
 title: RLS 行级安全策略
 type: concept
-tags:
-- 安全/隐私
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9e81d30a8bb049919282a4a7534a8670
+notion_url: https://www.notion.so/Tizer/9e81d30a8bb049919282a4a7534a8670
 notion_id: 9e81d30a-8bb0-4991-9282-a4a7534a8670
 ---
 

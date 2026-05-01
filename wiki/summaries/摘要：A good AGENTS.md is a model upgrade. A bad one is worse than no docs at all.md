@@ -3,14 +3,13 @@ title: 摘要：A good AGENTS.md is a model upgrade. A bad one is worse than no 
   all.
 type: summary
 tags:
-- Coding Agent
 - 知识管理
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688111a111df616a7befdf
-notion_url: https://www.notion.so/0755270d2733417b87dd14319b51b765
+notion_url: https://www.notion.so/Tizer/0755270d2733417b87dd14319b51b765
 notion_id: 0755270d-2733-417b-87dd-14319b51b765
 ---
 

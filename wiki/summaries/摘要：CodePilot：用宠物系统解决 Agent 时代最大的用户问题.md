@@ -1,14 +1,13 @@
 ---
 title: 摘要：CodePilot：用宠物系统解决 Agent 时代最大的用户问题
 type: summary
-tags:
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化, OpenClaw
 source_article_url: https://www.notion.so/33d701074b6881a3882de7cb809e2e6f
-notion_url: https://www.notion.so/af29bcf9f1574906af0806c7fe9ed57d
+notion_url: https://www.notion.so/Tizer/af29bcf9f1574906af0806c7fe9ed57d
 notion_id: af29bcf9-f157-4906-af08-06c7fe9ed57d
 ---
 

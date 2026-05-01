@@ -2,13 +2,16 @@
 title: 摘要：用 LangGraph + GPT-4 搭建 AI 金融分析师 Agent：原理、实践与同类方案对比
 type: summary
 tags:
-- LLM
+- 量化交易
+- 多Agent协作
+- AI 产品
+- OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/5cc28042b7804b0da02871e38cc515e1
+notion_url: https://www.notion.so/Tizer/5cc28042b7804b0da02871e38cc515e1
 notion_id: 5cc28042-b780-4b0d-a028-71e38cc515e1
 ---
 

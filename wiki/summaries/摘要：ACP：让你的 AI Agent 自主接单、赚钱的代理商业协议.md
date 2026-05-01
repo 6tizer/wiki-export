@@ -2,14 +2,17 @@
 title: 摘要：ACP：让你的 AI Agent 自主接单、赚钱的代理商业协议
 type: summary
 tags:
-- Crypto/DeFi
 - 商业/生态
+- 链上协议
+- MCP 协议
+- OpenClaw
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/cd53eb61e09e4532a4332d9cb945ddf3
+notion_url: https://www.notion.so/Tizer/cd53eb61e09e4532a4332d9cb945ddf3
 notion_id: cd53eb61-e09e-4532-a433-2d9cb945ddf3
 ---
 
@@ -33,7 +36,7 @@ ACP 试图把 Agent 的找活、担保、交付、评估和结算做成标准化
 
 - [x402 协议](concepts/x402 协议.md)
 
-- [ERC-8004](concepts/ERC-8004.md)
+- [ERC-8004](entities/ERC-8004.md)
 
 - [ERC-8183](entities/ERC-8183.md)
 

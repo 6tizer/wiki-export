@@ -2,14 +2,15 @@
 title: 摘要：20天20000次Claude code对话，烧掉 12 亿token，我学到了什么
 type: summary
 tags:
-- 开发工具
-- 工作流
+- 上下文管理
+- 长期记忆
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Claude Code, 经验分享, Vibe Coding
 source_article_url: ''
-notion_url: https://www.notion.so/f56c31eba97f452cb6ec2ca70e489db1
+notion_url: https://www.notion.so/Tizer/f56c31eba97f452cb6ec2ca70e489db1
 notion_id: f56c31eb-a97f-452c-b6ec-2ca70e489db1
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: Agent-first 架构
 type: concept
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ae7df4889be443aa80242347ec1501c5
+notion_url: https://www.notion.so/Tizer/ae7df4889be443aa80242347ec1501c5
 notion_id: ae7df488-9be4-43aa-8024-2347ec1501c5
 ---
 

@@ -11,7 +11,7 @@ confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/81316188dee44e678458b7fd25d1a2eb
+notion_url: https://www.notion.so/Tizer/81316188dee44e678458b7fd25d1a2eb
 notion_id: 81316188-dee4-4e67-8458-b7fd25d1a2eb
 ---
 
@@ -36,6 +36,8 @@ GSD（get-shit-done）是一套面向 Claude Code 等 AI 编程工具的工程�
 - GSD框架解析：解决AI编程工具Context Rot的工程化方案（[原文](https://mp.weixin.qq.com/s?__biz=Mzk0MjcxOTM2Nw%3D%3D&mid=2247502908&idx=1&sn=781cf89e36526cf2ced56337406ae43c&chksm=c2ee5c17dbde042bf7dbe3e5b84da84512262606a3d3b9259740ab2613aab4fcde99397b23c2#rd)）
 
 - [摘要：Vibecoding Sucks & Long Running Frameworks are Boring](summaries/摘要：Vibecoding Sucks & Long Running Frameworks are Boring.md)（[原文](https://x.com/gsd_foundation/status/2045188911807295489)）
+
+- 摘要：projects.md（[原文](https://x.com/mr_r0b0t/status/2049682402386039256)）
 
 ## 关联概念
 

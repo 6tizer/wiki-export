@@ -1,15 +1,13 @@
 ---
 title: Dokobot
 type: entity
-tags:
-- Agent 技能
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a0a0f7642645446b9539bd71169b5b49
+notion_url: https://www.notion.so/Tizer/a0a0f7642645446b9539bd71169b5b49
 notion_id: a0a0f764-2645-446b-9539-bd71169b5b49
 ---
 

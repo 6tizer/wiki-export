@@ -2,13 +2,15 @@
 title: 摘要：Polymarket 上的「印钞机」：一篇病毒式营销帖背后的套利真相
 type: summary
 tags:
-- Crypto/DeFi
+- 量化交易
+- 加密资产
+- 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Polymarket, 套利, Crypto, 交易
 source_article_url: https://www.notion.so/335701074b6881a18c36f273fe22ae32
-notion_url: https://www.notion.so/a29954db4ceb42ccb29e89dbd0862402
+notion_url: https://www.notion.so/Tizer/a29954db4ceb42ccb29e89dbd0862402
 notion_id: a29954db-4ceb-42cc-b29e-89dbd0862402
 ---
 

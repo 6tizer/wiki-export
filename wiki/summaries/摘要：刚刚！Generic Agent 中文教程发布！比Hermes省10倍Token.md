@@ -1,15 +1,13 @@
 ---
 title: 摘要：刚刚！Generic Agent 中文教程发布！比Hermes省10倍Token
 type: summary
-tags:
-- Coding Agent
-- Agent 框架
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881fc9dfbea326b515161
-notion_url: https://www.notion.so/f82de70c409c4f29b5c1e60f41bf67e8
+notion_url: https://www.notion.so/Tizer/f82de70c409c4f29b5c1e60f41bf67e8
 notion_id: f82de70c-409c-4f29-b5c1-e60f41bf67e8
 ---
 

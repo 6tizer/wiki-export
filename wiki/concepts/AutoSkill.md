@@ -2,13 +2,13 @@
 title: AutoSkill
 type: concept
 tags:
-- Harness 工程
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9ed5df73b96543709f43eb6974097d74
+notion_url: https://www.notion.so/Tizer/9ed5df73b96543709f43eb6974097d74
 notion_id: 9ed5df73-b965-4370-9f43-eb6974097d74
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: AI 模式排版请求
 type: concept
-tags:
-- 内容创作
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/edd2150f668548f88fc37ad8ad64b77f
+notion_url: https://www.notion.so/Tizer/edd2150f668548f88fc37ad8ad64b77f
 notion_id: edd2150f-6685-48f8-8fc3-7ad8ad64b77f
 ---
 

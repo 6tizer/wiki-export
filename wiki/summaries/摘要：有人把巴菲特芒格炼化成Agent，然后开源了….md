@@ -1,15 +1,13 @@
 ---
 title: 摘要：有人把巴菲特芒格炼化成Agent，然后开源了…
 type: summary
-tags:
-- Agent 框架
-- Agent 编排
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881b7af11e845b499513e
-notion_url: https://www.notion.so/71c3b86c156047209468ad539d6fecad
+notion_url: https://www.notion.so/Tizer/71c3b86c156047209468ad539d6fecad
 notion_id: 71c3b86c-1560-4720-9468-ad539d6fecad
 ---
 

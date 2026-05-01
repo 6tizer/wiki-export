@@ -2,7 +2,6 @@
 title: AI科学家
 type: entity
 tags:
-- 工作流
 - 知识管理
 status: 审核中
 confidence: medium

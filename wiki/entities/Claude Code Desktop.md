@@ -1,14 +1,13 @@
 ---
 title: Claude Code Desktop
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9b8f6edc77f54d33af87eb995fc7b5a7
+notion_url: https://www.notion.so/Tizer/9b8f6edc77f54d33af87eb995fc7b5a7
 notion_id: 9b8f6edc-77f5-4d33-af87-eb995fc7b5a7
 ---
 

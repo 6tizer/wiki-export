@@ -2,7 +2,6 @@
 title: Cursor CLI
 type: entity
 tags:
-- Coding Agent
 - CLI 工具
 status: 审核中
 confidence: medium

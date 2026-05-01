@@ -1,15 +1,13 @@
 ---
 title: 摘要：Once you understand neuroplasticity your life will never be the same again
 type: summary
-tags:
-- 记忆系统
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881bc9d42e28f2ab63e16
-notion_url: https://www.notion.so/4f361ce2edc94be48feb9d9220dfc02c
+notion_url: https://www.notion.so/Tizer/4f361ce2edc94be48feb9d9220dfc02c
 notion_id: 4f361ce2-edc9-4be4-8feb-9d9220dfc02c
 ---
 

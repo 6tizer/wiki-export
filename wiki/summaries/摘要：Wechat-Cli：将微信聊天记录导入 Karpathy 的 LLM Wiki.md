@@ -3,13 +3,12 @@ title: 摘要：Wechat-Cli：将微信聊天记录导入 Karpathy 的 LLM Wiki
 type: summary
 tags:
 - 知识管理
-- 开发工具
 status: 已审核
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68815499ecec214d0e32c7
-notion_url: https://www.notion.so/936aaa78fb2e475f8e41d4da807d07f7
+notion_url: https://www.notion.so/Tizer/936aaa78fb2e475f8e41d4da807d07f7
 notion_id: 936aaa78-fb2e-475f-8e41-d4da807d07f7
 ---
 

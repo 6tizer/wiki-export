@@ -2,13 +2,16 @@
 title: 摘要：Hyperliquid 生态 AI Agent 全景图：从 Tier 1 蓝筹到 Tier 4 赌注，哪些值得关注？
 type: summary
 tags:
-- LLM
+- 商业/生态
+- 链上协议
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/c07080410bb746248f34298acba852a7
+notion_url: https://www.notion.so/Tizer/c07080410bb746248f34298acba852a7
 notion_id: c0708041-0bb7-4624-8f34-298acba852a7
 ---
 

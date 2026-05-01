@@ -1,14 +1,13 @@
 ---
 title: LoopLM
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/05ef444677d3480bb2f18165ade9a4fe
+notion_url: https://www.notion.so/Tizer/05ef444677d3480bb2f18165ade9a4fe
 notion_id: 05ef4446-77d3-480b-b2f1-8165ade9a4fe
 ---
 

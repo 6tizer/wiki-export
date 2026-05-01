@@ -2,14 +2,13 @@
 title: 摘要：OpenAI也开始恐惧自己训练出的新模型了
 type: summary
 tags:
-- 安全/隐私
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: https://www.notion.so/341701074b6881af873bf6a55fd3d7b9
-notion_url: https://www.notion.so/fc5043d0ee094d01aa6ba2d1701b9f22
+notion_url: https://www.notion.so/Tizer/fc5043d0ee094d01aa6ba2d1701b9f22
 notion_id: fc5043d0-ee09-4d01-aa6b-a2d1701b9f22
 ---
 

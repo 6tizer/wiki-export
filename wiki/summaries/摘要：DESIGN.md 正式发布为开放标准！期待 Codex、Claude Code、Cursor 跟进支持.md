@@ -1,15 +1,13 @@
 ---
 title: 摘要：DESIGN.md 正式发布为开放标准！期待 Codex、Claude Code、Cursor 跟进支持
 type: summary
-tags:
-- Coding Agent
-- 开发工具
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688176808dfdc4becd6f15
-notion_url: https://www.notion.so/f89dcbf6be7840ea8e37503a6378932a
+notion_url: https://www.notion.so/Tizer/f89dcbf6be7840ea8e37503a6378932a
 notion_id: f89dcbf6-be78-40ea-8e37-503a6378932a
 ---
 

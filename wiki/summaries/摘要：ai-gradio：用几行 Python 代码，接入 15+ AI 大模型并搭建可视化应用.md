@@ -2,13 +2,16 @@
 title: 摘要：ai-gradio：用几行 Python 代码，接入 15+ AI 大模型并搭建可视化应用
 type: summary
 tags:
-- LLM
+- 浏览器自动化
+- 多模态
+- AI 产品
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/843f3b17d2384b4398418d1e42710f36
+notion_url: https://www.notion.so/Tizer/843f3b17d2384b4398418d1e42710f36
 notion_id: 843f3b17-d238-4b43-9841-8d1e42710f36
 ---
 

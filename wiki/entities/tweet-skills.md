@@ -2,8 +2,9 @@
 title: tweet-skills
 type: entity
 tags:
-- 内容创作
-- Agent 技能
+- 社交媒体
+- 内容自动化
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

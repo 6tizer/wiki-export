@@ -1,15 +1,13 @@
 ---
 title: MarkItDown
 type: entity
-tags:
-- 开发工具
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/c3da0bbab2ee444883822b50f46e8012
+notion_url: https://www.notion.so/Tizer/c3da0bbab2ee444883822b50f46e8012
 notion_id: c3da0bba-b2ee-4448-8382-2b50f46e8012
 ---
 

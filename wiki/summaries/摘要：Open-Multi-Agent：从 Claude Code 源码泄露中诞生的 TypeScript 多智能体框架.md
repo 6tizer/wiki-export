@@ -1,14 +1,13 @@
 ---
 title: 摘要：Open-Multi-Agent：从 Claude Code 源码泄露中诞生的 TypeScript 多智能体框架
 type: summary
-tags:
-- Agent 编排
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, 自动化, Multi-Agent, Claude
 source_article_url: https://www.notion.so/33d701074b68810cb7e9ffa07fafd8fe
-notion_url: https://www.notion.so/c747da35f145449093136679b39f0868
+notion_url: https://www.notion.so/Tizer/c747da35f145449093136679b39f0868
 notion_id: c747da35-f145-4490-9313-6679b39f0868
 ---
 

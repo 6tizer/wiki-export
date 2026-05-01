@@ -2,14 +2,15 @@
 title: 摘要：我用 OpenClaw 让 11 个 Agent 在群里开会，复盘自己就变强了
 type: summary
 tags:
+- Agent 协作模式
+- 多Agent协作
 - OpenClaw
-- 工作流
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, NewStuff
 source_article_url: ''
-notion_url: https://www.notion.so/745a65122a254b14a9a723cc62af0be0
+notion_url: https://www.notion.so/Tizer/745a65122a254b14a9a723cc62af0be0
 notion_id: 745a6512-2a25-4b14-a9a7-23cc62af0be0
 ---
 

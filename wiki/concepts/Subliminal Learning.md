@@ -1,15 +1,13 @@
 ---
 title: Subliminal Learning
 type: concept
-tags:
-- 安全/隐私
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b05612aecac54078b801b4a4e84a740b
+notion_url: https://www.notion.so/Tizer/b05612aecac54078b801b4a4e84a740b
 notion_id: b05612ae-cac5-4078-b801-b4a4e84a740b
 ---
 

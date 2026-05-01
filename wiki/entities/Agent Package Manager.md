@@ -1,15 +1,13 @@
 ---
 title: Agent Package Manager
 type: entity
-tags:
-- 开发工具
-- Agent 技能
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/a2d3f2bf003b4b708e1b490785a4250a
+notion_url: https://www.notion.so/Tizer/a2d3f2bf003b4b708e1b490785a4250a
 notion_id: a2d3f2bf-003b-4b70-8e1b-490785a4250a
 ---
 

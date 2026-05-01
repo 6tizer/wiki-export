@@ -1,15 +1,13 @@
 ---
 title: 摘要：EverMind MSA：把「记忆」直接长进注意力机制，4B 小模型干翻 235B RAG
 type: summary
-tags:
-- LLM
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: LLM, Agent
 source_article_url: https://www.notion.so/335701074b6881b38686c033c8950dfd
-notion_url: https://www.notion.so/96c2f72ddd7b4f839bc57b0b7408e814
+notion_url: https://www.notion.so/Tizer/96c2f72ddd7b4f839bc57b0b7408e814
 notion_id: 96c2f72d-dd7b-4f83-9bc5-7b0b7408e814
 ---
 

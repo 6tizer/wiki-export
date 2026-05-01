@@ -2,14 +2,15 @@
 title: 摘要：Dify v1.0 正式开源发布
 type: summary
 tags:
-- 开发工具
-- 工作流
+- 商业/生态
+- 多模态
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/dd58b53f58c7433d8cd742a327b6fcc1
+notion_url: https://www.notion.so/Tizer/dd58b53f58c7433d8cd742a327b6fcc1
 notion_id: dd58b53f-58c7-433d-8cd7-42a327b6fcc1
 ---
 

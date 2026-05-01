@@ -2,13 +2,14 @@
 title: 摘要：ai16z 代币经济学解析：Agent 生态飞轮如何驱动 $ai16z 价值捕获
 type: summary
 tags:
-- Crypto/DeFi
+- 商业/生态
+- 加密资产
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Crypto, Tokenomics, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/1701c913e724440ba33e6dc19e7d10db
+notion_url: https://www.notion.so/Tizer/1701c913e724440ba33e6dc19e7d10db
 notion_id: 1701c913-e724-440b-a33e-6dc19e7d10db
 ---
 

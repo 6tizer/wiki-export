@@ -1,14 +1,13 @@
 ---
 title: AI 辅助代码阅读
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/06f9bf471af840c1a883734ba6a80ffe
+notion_url: https://www.notion.so/Tizer/06f9bf471af840c1a883734ba6a80ffe
 notion_id: 06f9bf47-1af8-40c1-a883-734ba6a80ffe
 ---
 

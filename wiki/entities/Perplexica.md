@@ -3,7 +3,8 @@ title: Perplexica
 type: entity
 tags:
 - 知识管理
-- 开发工具
+- RAG/检索
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

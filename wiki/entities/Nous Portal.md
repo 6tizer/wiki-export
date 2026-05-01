@@ -1,8 +1,7 @@
 ---
 title: Nous Portal
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

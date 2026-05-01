@@ -1,15 +1,13 @@
 ---
 title: Coding Agent 工作流方法论光谱：从验证闭环到自进化开发管线的十种设计模式
 type: synthesis
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/984c245b7a6e4d278446e5ff8b29a6ea
+notion_url: https://www.notion.so/Tizer/984c245b7a6e4d278446e5ff8b29a6ea
 notion_id: 984c245b-7a6e-4d27-8446-e5ff8b29a6ea
 ---
 

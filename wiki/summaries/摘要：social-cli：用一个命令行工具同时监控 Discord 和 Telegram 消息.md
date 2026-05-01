@@ -2,14 +2,15 @@
 title: 摘要：social-cli：用一个命令行工具同时监控 Discord 和 Telegram 消息
 type: summary
 tags:
-- 开发工具
-- 工作流
+- 社交媒体
+- CLI 工具
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: 自动化, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/84042d6dbbf040129a2e850154b62913
+notion_url: https://www.notion.so/Tizer/84042d6dbbf040129a2e850154b62913
 notion_id: 84042d6d-bbf0-4012-9a2e-850154b62913
 ---
 

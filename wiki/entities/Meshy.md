@@ -2,8 +2,9 @@
 title: Meshy
 type: entity
 tags:
-- 内容创作
+- AI 设计
 - 商业/生态
+- 视频/3D
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

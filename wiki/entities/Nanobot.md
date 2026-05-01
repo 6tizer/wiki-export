@@ -1,11 +1,10 @@
 ---
 title: Nanobot
 type: entity
-tags:
-- Agent 框架
+tags: []
 status: 审核中
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-05-01'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/83231adbe69f4e6fb3dc222c6d2ee9cb

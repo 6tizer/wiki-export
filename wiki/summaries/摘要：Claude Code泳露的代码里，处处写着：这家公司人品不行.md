@@ -2,13 +2,16 @@
 title: 摘要：Claude Code泳露的代码里，处处写着：这家公司人品不行
 type: summary
 tags:
-- Coding Agent
+- 代码生成
+- 内容自动化
+- AI 政策
+- Agent 安全
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/657aa52b237447d788390ff031306f58
+notion_url: https://www.notion.so/Tizer/657aa52b237447d788390ff031306f58
 notion_id: 657aa52b-2374-47d7-8839-0ff031306f58
 ---
 

@@ -2,15 +2,15 @@
 title: 摘要：6551-twitter-to-binance-square：用龙虾一句话同步推特到币安广场
 type: summary
 tags:
+- 内容自动化
 - OpenClaw
-- 内容创作
-- 工作流
+- 社交媒体
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化, Agent
 source_article_url: ''
-notion_url: https://www.notion.so/48416d61416a42dea42e7663d3130a3c
+notion_url: https://www.notion.so/Tizer/48416d61416a42dea42e7663d3130a3c
 notion_id: 48416d61-416a-42de-a42e-7663d3130a3c
 ---
 

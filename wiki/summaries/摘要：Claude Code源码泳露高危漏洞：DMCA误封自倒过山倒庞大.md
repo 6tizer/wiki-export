@@ -2,14 +2,14 @@
 title: 摘要：Claude Code源码泳露高危漏洞：DMCA误封自倒过山倒庞大
 type: summary
 tags:
-- Coding Agent
-- 安全/隐私
+- Agent 安全
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/4874634c4b7a414a8c2c0c8d621556bc
+notion_url: https://www.notion.so/Tizer/4874634c4b7a414a8c2c0c8d621556bc
 notion_id: 4874634c-4b7a-414a-8c2c-0c8d621556bc
 ---
 

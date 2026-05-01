@@ -1,15 +1,13 @@
 ---
 title: Model Sense
 type: concept
-tags:
-- Coding Agent
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/7b1d65c1893d44d39c1bd5868d6df598
+notion_url: https://www.notion.so/Tizer/7b1d65c1893d44d39c1bd5868d6df598
 notion_id: 7b1d65c1-893d-44d3-9c1b-d5868d6df598
 ---
 

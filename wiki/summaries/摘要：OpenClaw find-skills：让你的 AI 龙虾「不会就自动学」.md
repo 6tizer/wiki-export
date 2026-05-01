@@ -2,14 +2,15 @@
 title: 摘要：OpenClaw find-skills：让你的 AI 龙虾「不会就自动学」
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
-- Agent 技能
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/4688592864fb480586427191fd70a39c
+notion_url: https://www.notion.so/Tizer/4688592864fb480586427191fd70a39c
 notion_id: 46885928-64fb-4805-8642-7191fd70a39c
 ---
 

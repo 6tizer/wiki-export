@@ -4,7 +4,6 @@ type: entity
 tags:
 - 推理优化
 - 模型部署
-- LLM
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'

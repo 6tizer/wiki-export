@@ -1,15 +1,13 @@
 ---
 title: Crypto/DeFi 隐私计算技术栈分层图谱：从零知识证明到盲计算的密码学基础设施演进与 AI Agent 融合路径
 type: synthesis
-tags:
-- Crypto/DeFi
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/95e2120948f742edb9ef65762933c7ad
+notion_url: https://www.notion.so/Tizer/95e2120948f742edb9ef65762933c7ad
 notion_id: 95e21209-48f7-42ed-b9ef-65762933c7ad
 ---
 

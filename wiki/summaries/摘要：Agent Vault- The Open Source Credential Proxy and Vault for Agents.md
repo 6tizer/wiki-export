@@ -1,15 +1,13 @@
 ---
 title: '摘要：Agent Vault: The Open Source Credential Proxy and Vault for Agents'
 type: summary
-tags:
-- 安全/隐私
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881818672f1f1d51bd0f1
-notion_url: https://www.notion.so/aab2ff857cae405caa7c570c3c17c819
+notion_url: https://www.notion.so/Tizer/aab2ff857cae405caa7c570c3c17c819
 notion_id: aab2ff85-7cae-405c-aa7c-570c3c17c819
 ---
 

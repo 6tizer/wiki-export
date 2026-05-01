@@ -2,14 +2,13 @@
 title: Agent World
 type: entity
 tags:
-- Agent 框架
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8fe015e8d0a64073a6671d37b97d2277
+notion_url: https://www.notion.so/Tizer/8fe015e8d0a64073a6671d37b97d2277
 notion_id: 8fe015e8-d0a6-4073-a667-1d37b97d2277
 ---
 

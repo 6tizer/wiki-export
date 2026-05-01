@@ -2,14 +2,13 @@
 title: 摘要：微信支付推出 AI 原生接入 Skills：一句话完成支付接入
 type: summary
 tags:
-- Agent 技能
 - 商业/生态
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, Cursor, OpenClaw, 自动化, 支付, skills
 source_article_url: https://www.notion.so/33f701074b6881d3917bcb4d76094b49
-notion_url: https://www.notion.so/8b8a47055ce1424791e4ba5cea500151
+notion_url: https://www.notion.so/Tizer/8b8a47055ce1424791e4ba5cea500151
 notion_id: 8b8a4705-5ce1-4247-91e4-ba5cea500151
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：Anthropic 封杀 OpenClaw 订阅额度事件始末
 type: summary
 tags:
+- 商业/生态
 - OpenClaw
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/c55aa53666ff4ac1942be1534a8be581
+notion_url: https://www.notion.so/Tizer/c55aa53666ff4ac1942be1534a8be581
 notion_id: c55aa536-66ff-4ac1-942b-e1534a8be581
 ---
 

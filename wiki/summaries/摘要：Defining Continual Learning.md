@@ -1,15 +1,13 @@
 ---
 title: 摘要：Defining Continual Learning
 type: summary
-tags:
-- LLM
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881779892e6e3ed20ea2a
-notion_url: https://www.notion.so/c57ff4b784d646fa90f46f1f5643fa35
+notion_url: https://www.notion.so/Tizer/c57ff4b784d646fa90f46f1f5643fa35
 notion_id: c57ff4b7-84d6-46fa-90f4-6f1f5643fa35
 ---
 

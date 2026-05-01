@@ -1,9 +1,7 @@
 ---
 title: Connector 上下文接入
 type: concept
-tags:
-- Agent 技能
-- 工作流
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-28'

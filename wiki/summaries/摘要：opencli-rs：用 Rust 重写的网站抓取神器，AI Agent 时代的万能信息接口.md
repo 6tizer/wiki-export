@@ -1,15 +1,13 @@
 ---
 title: 摘要：opencli-rs：用 Rust 重写的网站抓取神器，AI Agent 时代的万能信息接口
 type: summary
-tags:
-- 开发工具
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-12'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: https://www.notion.so/33d701074b6881c7b377e25d3247b1a2
-notion_url: https://www.notion.so/215974ee819d49e8b20b6650d8b51a8d
+notion_url: https://www.notion.so/Tizer/215974ee819d49e8b20b6650d8b51a8d
 notion_id: 215974ee-819d-49e8-b20b-6650d8b51a8d
 ---
 

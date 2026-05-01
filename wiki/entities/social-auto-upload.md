@@ -3,13 +3,12 @@ title: social-auto-upload
 type: entity
 tags:
 - 社交媒体
-- 内容创作
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f8616b9ef03342d585a3c1f1a709a630
+notion_url: https://www.notion.so/Tizer/f8616b9ef03342d585a3c1f1a709a630
 notion_id: f8616b9e-f033-42d5-85a3-c1f1a709a630
 ---
 

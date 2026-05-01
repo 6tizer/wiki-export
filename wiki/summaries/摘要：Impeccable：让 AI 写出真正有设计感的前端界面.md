@@ -2,14 +2,16 @@
 title: 摘要：Impeccable：让 AI 写出真正有设计感的前端界面
 type: summary
 tags:
-- 开发工具
-- 内容创作
+- 前端开发
+- AI 设计
+- 代码生成
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Cursor, Agent, 自动化, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/1e8da20f34cb4bd990bf796d997e4246
+notion_url: https://www.notion.so/Tizer/1e8da20f34cb4bd990bf796d997e4246
 notion_id: 1e8da20f-34cb-4bd9-90bf-796d997e4246
 ---
 

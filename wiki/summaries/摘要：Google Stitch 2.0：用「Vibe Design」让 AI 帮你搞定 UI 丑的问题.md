@@ -1,15 +1,13 @@
 ---
 title: 摘要：Google Stitch 2.0：用「Vibe Design」让 AI 帮你搞定 UI 丑的问题
 type: summary
-tags:
-- LLM
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Agent, Cursor, LLM, 自动化, OpenClaw
 source_article_url: ''
-notion_url: https://www.notion.so/0566e5a0a9784215b518e23bd010dbca
+notion_url: https://www.notion.so/Tizer/0566e5a0a9784215b518e23bd010dbca
 notion_id: 0566e5a0-a978-4215-b518-e23bd010dbca
 ---
 

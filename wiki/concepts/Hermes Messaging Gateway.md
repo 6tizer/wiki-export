@@ -1,15 +1,13 @@
 ---
 title: Hermes Messaging Gateway
 type: concept
-tags:
-- Agent 技能
-- Agent 框架
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/e41d68a88bb2499ca6ca388dbec9b80b
+notion_url: https://www.notion.so/Tizer/e41d68a88bb2499ca6ca388dbec9b80b
 notion_id: e41d68a8-8bb2-499c-a6ca-388dbec9b80b
 ---
 

@@ -1,14 +1,13 @@
 ---
 title: Open-SWE
 type: entity
-tags:
-- Coding Agent
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-22'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/9ca68c4ebb764068a3712d8f5ad27592
+notion_url: https://www.notion.so/Tizer/9ca68c4ebb764068a3712d8f5ad27592
 notion_id: 9ca68c4e-bb76-4068-a371-2d8f5ad27592
 ---
 

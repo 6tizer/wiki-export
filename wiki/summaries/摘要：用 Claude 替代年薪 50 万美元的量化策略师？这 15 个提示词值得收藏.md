@@ -2,14 +2,14 @@
 title: 摘要：用 Claude 替代年薪 50 万美元的量化策略师？这 15 个提示词值得收藏
 type: summary
 tags:
-- Crypto/DeFi
-- Coding Agent
+- 量化交易
+- 提示工程
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化, Agent
 source_article_url: https://www.notion.so/335701074b688152b282e0711158770a
-notion_url: https://www.notion.so/400ab35f851f4054a965bcba994957af
+notion_url: https://www.notion.so/Tizer/400ab35f851f4054a965bcba994957af
 notion_id: 400ab35f-851f-4054-a965-bcba994957af
 ---
 

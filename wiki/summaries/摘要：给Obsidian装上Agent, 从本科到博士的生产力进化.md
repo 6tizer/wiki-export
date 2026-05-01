@@ -3,13 +3,12 @@ title: 摘要：给Obsidian装上Agent, 从本科到博士的生产力进化
 type: summary
 tags:
 - 知识管理
-- Coding Agent
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68810e9b88ecafa9ca7720
-notion_url: https://www.notion.so/9cdcf032d9264314af57b82f8cebd147
+notion_url: https://www.notion.so/Tizer/9cdcf032d9264314af57b82f8cebd147
 notion_id: 9cdcf032-d926-4314-af57-b82f8cebd147
 ---
 

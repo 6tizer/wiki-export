@@ -2,7 +2,6 @@
 title: Alameda Research
 type: entity
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 审核中
 confidence: medium

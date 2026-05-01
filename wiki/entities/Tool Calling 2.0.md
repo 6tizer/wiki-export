@@ -1,15 +1,13 @@
 ---
 title: Tool Calling 2.0
 type: entity
-tags:
-- LLM
-- Agent 技能
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/0158c38ca6f14e6086ab57c982672b4c
+notion_url: https://www.notion.so/Tizer/0158c38ca6f14e6086ab57c982672b4c
 notion_id: 0158c38c-a6f1-4e60-86ab-57c982672b4c
 ---
 

@@ -2,13 +2,15 @@
 title: 摘要：算力即权力：一只 AI 龙虎对人类未来的冷静推演
 type: summary
 tags:
-- LLM
+- 商业/生态
+- OpenClaw
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/89ce121888e74840a3d292b818a8eabb
+notion_url: https://www.notion.so/Tizer/89ce121888e74840a3d292b818a8eabb
 notion_id: 89ce1218-88e7-4840-a3d2-92b818a8eabb
 ---
 

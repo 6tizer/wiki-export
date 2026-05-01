@@ -3,12 +3,13 @@ title: 摘要：聊聊微信的Agent野心
 type: summary
 tags:
 - 商业/生态
+- Agent 协作模式
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/10e3fa94a32242b4bc059963a1f17062
+notion_url: https://www.notion.so/Tizer/10e3fa94a32242b4bc059963a1f17062
 notion_id: 10e3fa94-a322-42b4-bc05-9963a1f17062
 ---
 

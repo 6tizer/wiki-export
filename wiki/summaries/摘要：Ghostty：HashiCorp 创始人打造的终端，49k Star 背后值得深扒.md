@@ -2,14 +2,13 @@
 title: 摘要：Ghostty：HashiCorp 创始人打造的终端，49k Star 背后值得深扒
 type: summary
 tags:
-- 开发工具
-- Coding Agent
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: 终端, 开发者工具, macOS
 source_article_url: https://www.notion.so/335701074b68813ba03adeaf6885c421
-notion_url: https://www.notion.so/1da1ec64702e4977b5a6bcf558cdab28
+notion_url: https://www.notion.so/Tizer/1da1ec64702e4977b5a6bcf558cdab28
 notion_id: 1da1ec64-702e-4977-b5a6-bcf558cdab28
 ---
 

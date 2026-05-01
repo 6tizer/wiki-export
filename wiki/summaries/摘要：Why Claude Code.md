@@ -1,15 +1,13 @@
 ---
 title: 摘要：Why Claude Code?
 type: summary
-tags:
-- Coding Agent
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b688127a534e64097f8dc03
-notion_url: https://www.notion.so/30bc0c861d624448a3382ae95e985925
+notion_url: https://www.notion.so/Tizer/30bc0c861d624448a3382ae95e985925
 notion_id: 30bc0c86-1d62-4448-a338-2ae95e985925
 ---
 

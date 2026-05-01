@@ -2,7 +2,9 @@
 title: Radar 机会雷达
 type: concept
 tags:
-- Crypto/DeFi
+- 量化交易
+- MCP 协议
+- 多Agent协作
 status: 审核中
 confidence: medium
 last_compiled: '2026-05-01'

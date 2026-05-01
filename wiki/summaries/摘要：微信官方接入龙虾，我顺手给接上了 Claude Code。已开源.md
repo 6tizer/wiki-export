@@ -2,13 +2,15 @@
 title: 摘要：微信官方接入龙虾，我顺手给接上了 Claude Code。已开源
 type: summary
 tags:
+- 商业/生态
+- MCP 协议
 - OpenClaw
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: 微信生态, OpenClaw, Claude Code
 source_article_url: ''
-notion_url: https://www.notion.so/647373e795f342d69e99398db8c9e6c4
+notion_url: https://www.notion.so/Tizer/647373e795f342d69e99398db8c9e6c4
 notion_id: 647373e7-95f3-42d6-9e99-398db8c9e6c4
 ---
 

@@ -3,13 +3,12 @@ title: 摘要：AI Knowledge Layer (and why your agents are useless without it)
 type: summary
 tags:
 - 知识管理
-- Agent 编排
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881db95a7fc95cae1416b
-notion_url: https://www.notion.so/d7de8f8be30d463082afe80926abc1c4
+notion_url: https://www.notion.so/Tizer/d7de8f8be30d463082afe80926abc1c4
 notion_id: d7de8f8b-e30d-4630-82af-e80926abc1c4
 ---
 

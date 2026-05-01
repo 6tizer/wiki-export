@@ -2,14 +2,15 @@
 title: 摘要：Zenmux：Claude 被封之后，多模型聚合平台值得用吗？
 type: summary
 tags:
-- LLM
 - 商业/生态
+- 模型部署
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: LLM, API中转, Claude
 source_article_url: https://www.notion.so/335701074b6881bc889cf7f6ea4b9a5f
-notion_url: https://www.notion.so/4787fc464ccb4fe7bdf3fbcbdac41f48
+notion_url: https://www.notion.so/Tizer/4787fc464ccb4fe7bdf3fbcbdac41f48
 notion_id: 4787fc46-4ccb-4fe7-bdf3-fbcbdac41f48
 ---
 

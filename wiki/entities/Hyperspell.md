@@ -2,14 +2,13 @@
 title: Hyperspell
 type: entity
 tags:
-- 记忆系统
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/19ffd538895842499494da588318d154
+notion_url: https://www.notion.so/Tizer/19ffd538895842499494da588318d154
 notion_id: 19ffd538-8958-4249-9494-da588318d154
 ---
 

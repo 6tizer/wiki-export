@@ -1,15 +1,13 @@
 ---
 title: 摘要：Claude Opus 4.7 配 Lovart：全套品牌设计只需点击 2 次，设计师可能不太需要了
 type: summary
-tags:
-- 内容创作
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: https://www.notion.so/345701074b68819589d4db4cb6f2e367
-notion_url: https://www.notion.so/966eb96e2abe410c8b5c6c1dcf927d31
+notion_url: https://www.notion.so/Tizer/966eb96e2abe410c8b5c6c1dcf927d31
 notion_id: 966eb96e-2abe-410c-8b5c-6c1dcf927d31
 ---
 

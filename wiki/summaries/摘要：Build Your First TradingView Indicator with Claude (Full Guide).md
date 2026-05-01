@@ -1,15 +1,13 @@
 ---
 title: 摘要：Build Your First TradingView Indicator with Claude (Full Guide)
 type: summary
-tags:
-- Coding Agent
-- Crypto/DeFi
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881948cfcd44724ddd4df
-notion_url: https://www.notion.so/a7a340a8ee194d14a6566bf9a786e329
+notion_url: https://www.notion.so/Tizer/a7a340a8ee194d14a6566bf9a786e329
 notion_id: a7a340a8-ee19-4d14-a656-6bf9a786e329
 ---
 

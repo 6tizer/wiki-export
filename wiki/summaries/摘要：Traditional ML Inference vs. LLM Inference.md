@@ -2,14 +2,13 @@
 title: 摘要：Traditional ML Inference vs. LLM Inference
 type: summary
 tags:
-- LLM
 - 推理优化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688171a407ee88165c7467
-notion_url: https://www.notion.so/b78cdaacd3d24a6ebd81ea252f84b8ae
+notion_url: https://www.notion.so/Tizer/b78cdaacd3d24a6ebd81ea252f84b8ae
 notion_id: b78cdaac-d3d2-4a6e-bd81-ea252f84b8ae
 ---
 

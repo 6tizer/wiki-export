@@ -1,9 +1,7 @@
 ---
 title: Panel + Node 分离架构
 type: concept
-tags:
-- 开发工具
-- 安全/隐私
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-27'

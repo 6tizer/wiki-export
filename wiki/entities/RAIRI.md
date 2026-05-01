@@ -2,7 +2,6 @@
 title: RAIRI
 type: entity
 tags:
-- LLM
 - 商业/生态
 status: 审核中
 confidence: high

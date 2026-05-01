@@ -2,14 +2,15 @@
 title: Hyperbrowser
 type: entity
 tags:
-- Agent 技能
-- 开发工具
+- 浏览器自动化
+- AI 产品
+- 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/110a6801f31d4e5d87bdef2a21e46744
+notion_url: https://www.notion.so/Tizer/110a6801f31d4e5d87bdef2a21e46744
 notion_id: 110a6801-f31d-4e5d-87bd-ef2a21e46744
 ---
 

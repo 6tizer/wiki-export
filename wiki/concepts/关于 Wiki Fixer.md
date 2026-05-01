@@ -8,7 +8,7 @@ confidence: high
 last_compiled: ''
 source_tags: ''
 source_article_url: https://www.notion.so/1249bdf6ad334e11ad3d44fde9cb241f
-notion_url: https://www.notion.so/60be26ada85b4d0594c644285458aa97
+notion_url: https://www.notion.so/Tizer/60be26ada85b4d0594c644285458aa97
 notion_id: 60be26ad-a85b-4d05-94c6-44285458aa97
 ---
 

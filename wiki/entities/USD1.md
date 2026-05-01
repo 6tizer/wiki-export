@@ -2,14 +2,13 @@
 title: USD1
 type: entity
 tags:
-- Crypto/DeFi
 - 商业/生态
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-13'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/b49a8b10bc2a457cb875250192fb07af
+notion_url: https://www.notion.so/Tizer/b49a8b10bc2a457cb875250192fb07af
 notion_id: b49a8b10-bc2a-457c-b875-250192fb07af
 ---
 

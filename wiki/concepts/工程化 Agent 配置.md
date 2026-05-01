@@ -2,13 +2,15 @@
 title: 工程化 Agent 配置
 type: concept
 tags:
-- Coding Agent
+- Agent 协作模式
+- 多Agent协作
+- MCP 协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/cb80a996ed914dac8a02f247f2c2759c
+notion_url: https://www.notion.so/Tizer/cb80a996ed914dac8a02f247f2c2759c
 notion_id: cb80a996-ed91-4dac-8a02-f247f2c2759c
 ---
 

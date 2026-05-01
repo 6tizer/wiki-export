@@ -1,8 +1,7 @@
 ---
 title: 规范驱动开发 SDD
 type: concept
-tags:
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-30'

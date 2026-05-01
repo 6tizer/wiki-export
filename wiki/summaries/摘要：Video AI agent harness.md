@@ -1,15 +1,13 @@
 ---
 title: 摘要：Video AI agent harness
 type: summary
-tags:
-- 内容创作
-- Agent 框架
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6880488db6efa3ef9614ad
-notion_url: https://www.notion.so/044093db2aeb4d47864e843356c405ad
+notion_url: https://www.notion.so/Tizer/044093db2aeb4d47864e843356c405ad
 notion_id: 044093db-2aeb-4d47-864e-843356c405ad
 ---
 

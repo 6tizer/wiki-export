@@ -1,14 +1,13 @@
 ---
 title: GPU 虚拟内存
 type: concept
-tags:
-- 开发工具
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/8f6d24e4ea904756a893dedd15ba875d
+notion_url: https://www.notion.so/Tizer/8f6d24e4ea904756a893dedd15ba875d
 notion_id: 8f6d24e4-ea90-4756-a893-dedd15ba875d
 ---
 

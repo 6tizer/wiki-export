@@ -2,14 +2,15 @@
 title: 摘要：InsForge：专为 AI 编码 Agent 打造的开源后端平台
 type: summary
 tags:
-- 开发工具
-- Agent 技能
+- OpenClaw
+- Agent 协作模式
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/48eb8bee50c9477a9c7efa060ca97267
+notion_url: https://www.notion.so/Tizer/48eb8bee50c9477a9c7efa060ca97267
 notion_id: 48eb8bee-50c9-477a-9c7e-fa060ca97267
 ---
 

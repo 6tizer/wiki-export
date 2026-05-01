@@ -3,12 +3,14 @@ title: 摘要：LLM Wiki 深度解读——比传统知识库多了哪一层
 type: summary
 tags:
 - 知识管理
+- 长期记忆
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, 自动化, Agent, wiki
 source_article_url: ''
-notion_url: https://www.notion.so/bc9df14ae1b845ed81465bab27320c7a
+notion_url: https://www.notion.so/Tizer/bc9df14ae1b845ed81465bab27320c7a
 notion_id: bc9df14a-e1b8-45ed-8146-5bab27320c7a
 ---
 

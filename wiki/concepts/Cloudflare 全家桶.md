@@ -2,8 +2,6 @@
 title: Cloudflare 全家桶
 type: concept
 tags:
-- 开发工具
-- 工作流
 - 商业/生态
 status: 审核中
 confidence: medium

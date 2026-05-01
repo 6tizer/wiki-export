@@ -1,15 +1,13 @@
 ---
 title: 摘要：从《基地》到Claude：AI心理学，正在从科幻变成现实
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b68812bb988f5ec46f27984
-notion_url: https://www.notion.so/25f7a90d3dbe4377bfde16a76a285c21
+notion_url: https://www.notion.so/Tizer/25f7a90d3dbe4377bfde16a76a285c21
 notion_id: 25f7a90d-3dbe-4377-bfde-16a76a285c21
 ---
 

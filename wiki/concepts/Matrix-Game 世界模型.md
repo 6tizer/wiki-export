@@ -2,13 +2,15 @@
 title: Matrix-Game 世界模型
 type: concept
 tags:
-- LLM
+- AI 设计
+- 长期记忆
+- 模型部署
 status: 审核中
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/96c50b89f7b84ae28567f44b2b3d5775
+notion_url: https://www.notion.so/Tizer/96c50b89f7b84ae28567f44b2b3d5775
 notion_id: 96c50b89-f7b8-4ae2-8567-f44b2b3d5775
 ---
 

@@ -3,9 +3,6 @@ title: CLI Harness
 type: concept
 tags:
 - CLI 工具
-- Agent 编排
-- Agent 技能
-- 工作流
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-30'

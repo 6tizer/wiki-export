@@ -2,13 +2,14 @@
 title: 摘要：Node.js禁止AI代码：1.9万行引发百人联名请愿
 type: summary
 tags:
-- Coding Agent
+- AI 政策
+- 代码生成
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/16a5e21679924e729bd8855b4a9cf5c8
+notion_url: https://www.notion.so/Tizer/16a5e21679924e729bd8855b4a9cf5c8
 notion_id: 16a5e216-7992-4e72-9bd8-855b4a9cf5c8
 ---
 

@@ -2,14 +2,16 @@
 title: 摘要：OpenClaw 最强 Skill：让 AI 自动爬完整个互联网
 type: summary
 tags:
+- 商业/生态
+- 浏览器自动化
 - OpenClaw
-- 开发工具
+- RAG/检索
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Web Scraping, Skill 开发
 source_article_url: ''
-notion_url: https://www.notion.so/9ad8668ae05b4611a940d8d29ada5c72
+notion_url: https://www.notion.so/Tizer/9ad8668ae05b4611a940d8d29ada5c72
 notion_id: 9ad8668a-e05b-4611-a940-d8d29ada5c72
 ---
 

@@ -2,13 +2,14 @@
 title: 摘要：Addy Osmani 开源 Agent Skills ——专治 AI 偷懒
 type: summary
 tags:
-- 开发工具
+- Agent 协作模式
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, skills
 source_article_url: ''
-notion_url: https://www.notion.so/20915ad37728457aae8a5e5a644247fc
+notion_url: https://www.notion.so/Tizer/20915ad37728457aae8a5e5a644247fc
 notion_id: 20915ad3-7728-457a-ae8a-5e5a644247fc
 ---
 

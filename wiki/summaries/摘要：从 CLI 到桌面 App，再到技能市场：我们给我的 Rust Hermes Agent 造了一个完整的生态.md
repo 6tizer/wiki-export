@@ -1,15 +1,13 @@
 ---
 title: 摘要：从 CLI 到桌面 App，再到技能市场：我们给我的 Rust Hermes Agent 造了一个完整的生态
 type: summary
-tags:
-- 开发工具
-- Agent 技能
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-14'
 source_tags: ''
 source_article_url: https://www.notion.so/342701074b6881f28b7ee13ab030bc6f
-notion_url: https://www.notion.so/6262bd4058c24e0abd402cba398b0ff4
+notion_url: https://www.notion.so/Tizer/6262bd4058c24e0abd402cba398b0ff4
 notion_id: 6262bd40-58c2-4e0a-bd40-2cba398b0ff4
 ---
 

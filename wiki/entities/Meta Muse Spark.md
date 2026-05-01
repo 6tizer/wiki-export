@@ -1,14 +1,13 @@
 ---
 title: Meta Muse Spark
 type: entity
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-20'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/35267fc18195401f8273b14885d03eea
+notion_url: https://www.notion.so/Tizer/35267fc18195401f8273b14885d03eea
 notion_id: 35267fc1-8195-401f-8273-b14885d03eea
 ---
 

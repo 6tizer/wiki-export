@@ -2,14 +2,15 @@
 title: 摘要：用 Vibe Coding 搭出 5 个链上 AI 交易 Agent：AI SDK + LI.FI MCP + 免 Gas 全攻略
 type: summary
 tags:
-- Crypto/DeFi
-- 开发工具
+- 链上协议
+- MCP 协议
+- 量化交易
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/e715e5db2617441b8ee743f47151f2b5
+notion_url: https://www.notion.so/Tizer/e715e5db2617441b8ee743f47151f2b5
 notion_id: e715e5db-2617-441b-8ee7-43f47151f2b5
 ---
 

@@ -2,14 +2,15 @@
 title: 摘要：Ghostty：Claude Code 的最佳终端搭档，从安装到鬼混全攻略
 type: summary
 tags:
-- Coding Agent
-- 开发工具
+- AI 产品
+- CLI 工具
+- 代码生成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: LLM, Cursor, Agent
 source_article_url: https://www.notion.so/335701074b688163928af58511408ccc
-notion_url: https://www.notion.so/d5e890110fd0490abcc8912aba2d1de1
+notion_url: https://www.notion.so/Tizer/d5e890110fd0490abcc8912aba2d1de1
 notion_id: d5e89011-0fd0-490a-bcc8-912aba2d1de1
 ---
 

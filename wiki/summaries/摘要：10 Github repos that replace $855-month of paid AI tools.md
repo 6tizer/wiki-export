@@ -1,15 +1,13 @@
 ---
 title: 摘要：10 Github repos that replace $855/month of paid AI tools
 type: summary
-tags:
-- 开发工具
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881ccadb1fd5cd74131a4
-notion_url: https://www.notion.so/b35e23ec2f254ff4a6536bebd5c130ff
+notion_url: https://www.notion.so/Tizer/b35e23ec2f254ff4a6536bebd5c130ff
 notion_id: b35e23ec-2f25-4ff4-a653-6bebd5c130ff
 ---
 

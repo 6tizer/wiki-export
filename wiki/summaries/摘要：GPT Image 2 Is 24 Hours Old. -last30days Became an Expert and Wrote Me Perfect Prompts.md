@@ -2,15 +2,13 @@
 title: 摘要：GPT Image 2 Is 24 Hours Old. /last30days Became an Expert and Wrote Me Perfect
   Prompts
 type: summary
-tags:
-- 内容创作
-- 工作流
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688135aea9f5a0178cd15e
-notion_url: https://www.notion.so/82051fb614584b27b3cb0914180df545
+notion_url: https://www.notion.so/Tizer/82051fb614584b27b3cb0914180df545
 notion_id: 82051fb6-1458-4b27-b3cb-0914180df545
 ---
 

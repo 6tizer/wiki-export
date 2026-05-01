@@ -1,15 +1,13 @@
 ---
 title: 摘要：hermes101.dev 上线了！5 分钟装完、7 天入门、OpenClaw 老用户无痛迁移
 type: summary
-tags:
-- Agent 框架
-- 工作流
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b68811c8fc7d563fd71c363
-notion_url: https://www.notion.so/e9d875f1d3764544878cb4b9e4048e77
+notion_url: https://www.notion.so/Tizer/e9d875f1d3764544878cb4b9e4048e77
 notion_id: e9d875f1-d376-4544-878c-b4b9e4048e77
 ---
 

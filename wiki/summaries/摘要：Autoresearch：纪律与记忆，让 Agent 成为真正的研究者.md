@@ -2,14 +2,14 @@
 title: 摘要：Autoresearch：纪律与记忆，让 Agent 成为真正的研究者
 type: summary
 tags:
-- 工作流
-- 记忆系统
+- Agent 协作模式
+- 长期记忆
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b688173ac47f6a4c64ee55b
-notion_url: https://www.notion.so/d129e12538774731b8f9cfd4e1e31095
+notion_url: https://www.notion.so/Tizer/d129e12538774731b8f9cfd4e1e31095
 notion_id: d129e125-3877-4731-b8f9-cfd4e1e31095
 ---
 

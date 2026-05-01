@@ -2,13 +2,15 @@
 title: 摘要：Claude Code 开源编译版来了！45+实验功能全开，隐私无遥测，开发者终于等到了
 type: summary
 tags:
-- 开发工具
+- Agent 协作模式
+- 多Agent协作
+- CLI 工具
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: Claude Code, 开源项目, 工具推荐
 source_article_url: ''
-notion_url: https://www.notion.so/d3591bd9b8c6469f938b2c802586c269
+notion_url: https://www.notion.so/Tizer/d3591bd9b8c6469f938b2c802586c269
 notion_id: d3591bd9-b8c6-469f-938b-2c802586c269
 ---
 

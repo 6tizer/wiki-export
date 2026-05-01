@@ -2,14 +2,15 @@
 title: 摘要：Claude Subconscious：给 Claude Code 装上「潜意识」的开源插件
 type: summary
 tags:
-- LLM
-- 记忆系统
+- 长期记忆
+- 上下文管理
+- IDE 集成
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM
 source_article_url: ''
-notion_url: https://www.notion.so/b26df848b3e54f71b92a43774b2457c3
+notion_url: https://www.notion.so/Tizer/b26df848b3e54f71b92a43774b2457c3
 notion_id: b26df848-b3e5-4f71-b92a-43774b2457c3
 ---
 

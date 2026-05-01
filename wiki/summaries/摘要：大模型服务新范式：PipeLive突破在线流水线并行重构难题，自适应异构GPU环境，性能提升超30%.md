@@ -2,14 +2,13 @@
 title: 摘要：大模型服务新范式：PipeLive突破在线流水线并行重构难题，自适应异构GPU环境，性能提升超30%
 type: summary
 tags:
-- LLM
 - 推理优化
 status: 已审核
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b6881cbb74cf9178ac32d35
-notion_url: https://www.notion.so/f70ce3075bee42c7be5b371642e20856
+notion_url: https://www.notion.so/Tizer/f70ce3075bee42c7be5b371642e20856
 notion_id: f70ce307-5bee-42c7-be5b-371642e20856
 ---
 

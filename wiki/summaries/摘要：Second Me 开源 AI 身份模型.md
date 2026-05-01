@@ -2,13 +2,16 @@
 title: 摘要：Second Me 开源 AI 身份模型
 type: summary
 tags:
-- LLM
+- 训练/微调
+- 长期记忆
+- 模型部署
+- AI 产品
 status: 已审核
 confidence: high
 last_compiled: '2026-04-10'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/232e386e6775441d99e33e92ad63d7d3
+notion_url: https://www.notion.so/Tizer/232e386e6775441d99e33e92ad63d7d3
 notion_id: 232e386e-6775-441d-99e3-3e92ad63d7d3
 ---
 

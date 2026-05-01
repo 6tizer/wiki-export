@@ -1,15 +1,13 @@
 ---
 title: 摘要：Meta-Harness 代码开源：让 Agent 在新领域自主优化 Harness
 type: summary
-tags:
-- Agent 编排
-- Coding Agent
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: LLM, Agent, harness, 开源, GitHub
 source_article_url: https://www.notion.so/344701074b688123b173fcf4510226b3
-notion_url: https://www.notion.so/5a68220d947e49659754456b03852e01
+notion_url: https://www.notion.so/Tizer/5a68220d947e49659754456b03852e01
 notion_id: 5a68220d-947e-4965-9754-456b03852e01
 ---
 

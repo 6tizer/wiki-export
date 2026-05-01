@@ -3,13 +3,12 @@ title: 摘要：OpenAI，又买一家公司：帮你管钱，68亿
 type: summary
 tags:
 - 商业/生态
-- LLM
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68815ca1cafc1069bce488
-notion_url: https://www.notion.so/f7a8d9b67110476d88e6093328a150d5
+notion_url: https://www.notion.so/Tizer/f7a8d9b67110476d88e6093328a150d5
 notion_id: f7a8d9b6-7110-476d-88e6-093328a150d5
 ---
 

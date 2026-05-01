@@ -1,14 +1,13 @@
 ---
 title: Contemplating 模式
 type: concept
-tags:
-- LLM
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/1050886363524e2b91f7c465fd8389f6
+notion_url: https://www.notion.so/Tizer/1050886363524e2b91f7c465fd8389f6
 notion_id: 10508863-6352-4e2b-91f7-c465fd8389f6
 ---
 

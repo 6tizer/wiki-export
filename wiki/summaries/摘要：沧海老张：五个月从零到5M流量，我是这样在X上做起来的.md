@@ -2,13 +2,15 @@
 title: 摘要：沧海老张：五个月从零到5M流量，我是这样在X上做起来的
 type: summary
 tags:
-- 工作流
+- 社交媒体
+- 内容自动化
+- OpenClaw
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/09ad9000283f46689528054ce159d043
+notion_url: https://www.notion.so/Tizer/09ad9000283f46689528054ce159d043
 notion_id: 09ad9000-283f-4668-9528-054ce159d043
 ---
 

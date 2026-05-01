@@ -2,15 +2,13 @@
 title: 摘要：有人开发出了一款 AI，它解读 K 线图的方式就像 GPT 阅读英文一样。该模型基于来自 45 个交易所的 120 亿条记录训练而成。其表现优于所有其他模型
   93%。提供 BTC 实盘演示。免费。
 type: summary
-tags:
-- Crypto/DeFi
-- LLM
+tags: []
 status: 已审核
 confidence: low
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: https://www.notion.so/34b701074b688180a07fce8a623f660b
-notion_url: https://www.notion.so/23c9823704e94c069abee652f35e9465
+notion_url: https://www.notion.so/Tizer/23c9823704e94c069abee652f35e9465
 notion_id: 23c98237-04e9-4c06-9abe-e652f35e9465
 ---
 

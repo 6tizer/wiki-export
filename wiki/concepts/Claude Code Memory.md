@@ -1,15 +1,13 @@
 ---
 title: Claude Code Memory
 type: concept
-tags:
-- Coding Agent
-- 记忆系统
+tags: []
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/23703fcaad8f40f0b8b03a81cbfa4e88
+notion_url: https://www.notion.so/Tizer/23703fcaad8f40f0b8b03a81cbfa4e88
 notion_id: 23703fca-ad8f-40f0-b8b0-3a81cbfa4e88
 ---
 

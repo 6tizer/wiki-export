@@ -3,13 +3,12 @@ title: MEMORY.md
 type: concept
 tags:
 - OpenClaw
-- 记忆系统
 status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ab005533aacb4dc7b3b484ca8fe67969
+notion_url: https://www.notion.so/Tizer/ab005533aacb4dc7b3b484ca8fe67969
 notion_id: ab005533-aacb-4dc7-b3b4-84ca8fe67969
 ---
 

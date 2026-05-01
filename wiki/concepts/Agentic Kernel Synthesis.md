@@ -2,8 +2,9 @@
 title: Agentic Kernel Synthesis
 type: concept
 tags:
-- 开发工具
 - 推理优化
+- Agent 协作模式
+- AI 设计
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'

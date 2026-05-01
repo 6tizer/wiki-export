@@ -1,15 +1,13 @@
 ---
 title: 摘要：从阿西莫夫到Anthropic，万字长文解析AI心理学
 type: summary
-tags:
-- LLM
-- 安全/隐私
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b688143bcb8eeaa5fa5aad3
-notion_url: https://www.notion.so/93effd7cf5da4c61a0c8c198eeadca86
+notion_url: https://www.notion.so/Tizer/93effd7cf5da4c61a0c8c198eeadca86
 notion_id: 93effd7c-f5da-4c61-a0c8-c198eeadca86
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：first open-source foundation model
 type: summary
-tags:
-- LLM
-- Crypto/DeFi
+tags: []
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: https://www.notion.so/340701074b6881198655cba4414fb827
-notion_url: https://www.notion.so/978b45c32a074170849705239adac678
+notion_url: https://www.notion.so/Tizer/978b45c32a074170849705239adac678
 notion_id: 978b45c3-2a07-4170-8497-05239adac678
 ---
 

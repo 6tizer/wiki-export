@@ -4,13 +4,13 @@ type: concept
 tags:
 - 内容自动化
 - 知识管理
-- AI 产品
+- Agent 协作模式
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/753eb26622024cceb00b2158befed358
+notion_url: https://www.notion.so/Tizer/753eb26622024cceb00b2158befed358
 notion_id: 753eb266-2202-4cce-b00b-2158befed358
 ---
 

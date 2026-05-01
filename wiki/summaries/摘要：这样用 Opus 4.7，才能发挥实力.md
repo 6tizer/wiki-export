@@ -1,15 +1,13 @@
 ---
 title: 摘要：这样用 Opus 4.7，才能发挥实力
 type: summary
-tags:
-- Coding Agent
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-18'
 source_tags: ''
 source_article_url: https://www.notion.so/346701074b6881c6bdf4fc5dc8f499ba
-notion_url: https://www.notion.so/e222a86d7e3345bfbd5325287fd05868
+notion_url: https://www.notion.so/Tizer/e222a86d7e3345bfbd5325287fd05868
 notion_id: e222a86d-7e33-45bf-bd53-25287fd05868
 ---
 

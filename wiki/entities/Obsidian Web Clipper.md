@@ -3,13 +3,12 @@ title: Obsidian Web Clipper
 type: entity
 tags:
 - 知识管理
-- 开发工具
 status: 审核中
 confidence: high
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/30523a9db66740de99cef0d736aac96d
+notion_url: https://www.notion.so/Tizer/30523a9db66740de99cef0d736aac96d
 notion_id: 30523a9d-b667-40de-99ce-f0d736aac96d
 ---
 

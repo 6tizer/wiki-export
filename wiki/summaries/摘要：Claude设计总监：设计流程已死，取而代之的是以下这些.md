@@ -2,14 +2,14 @@
 title: 摘要：Claude设计总监：设计流程已死，取而代之的是以下这些
 type: summary
 tags:
-- LLM
-- 工作流
+- AI 设计
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化, Claude
 source_article_url: ''
-notion_url: https://www.notion.so/1b31892fa2ee40d39f634fc498d8d4bf
+notion_url: https://www.notion.so/Tizer/1b31892fa2ee40d39f634fc498d8d4bf
 notion_id: 1b31892f-a2ee-40d3-9f63-4fc498d8d4bf
 ---
 

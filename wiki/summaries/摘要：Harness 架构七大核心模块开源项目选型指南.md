@@ -1,14 +1,13 @@
 ---
 title: 摘要：Harness 架构七大核心模块开源项目选型指南
 type: summary
-tags:
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-28'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/b00f6db575974b6bbda4d01815b40d15
+notion_url: https://www.notion.so/Tizer/b00f6db575974b6bbda4d01815b40d15
 notion_id: b00f6db5-7597-4b6b-bda4-d01815b40d15
 ---
 

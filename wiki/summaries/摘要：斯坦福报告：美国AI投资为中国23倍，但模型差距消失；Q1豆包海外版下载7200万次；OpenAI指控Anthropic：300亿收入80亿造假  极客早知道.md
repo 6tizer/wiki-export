@@ -3,14 +3,13 @@ title: 摘要：斯坦福报告：美国AI投资为中国23倍，但模型差距
   | 极客早知道
 type: summary
 tags:
-- LLM
 - 商业/生态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b68812e83dae5dec73947d9
-notion_url: https://www.notion.so/b257c3f40127457dbea33ff5c3347441
+notion_url: https://www.notion.so/Tizer/b257c3f40127457dbea33ff5c3347441
 notion_id: b257c3f4-0127-457d-bea3-3ff5c3347441
 ---
 

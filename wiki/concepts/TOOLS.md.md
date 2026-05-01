@@ -3,13 +3,12 @@ title: TOOLS.md
 type: concept
 tags:
 - OpenClaw
-- Agent 技能
 status: 审核中
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/011d99a83ea04109a9e19581305b7ef7
+notion_url: https://www.notion.so/Tizer/011d99a83ea04109a9e19581305b7ef7
 notion_id: 011d99a8-3ea0-4109-a9e1-9581305b7ef7
 ---
 

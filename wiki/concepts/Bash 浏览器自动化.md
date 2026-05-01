@@ -1,15 +1,13 @@
 ---
 title: Bash 浏览器自动化
 type: concept
-tags:
-- Agent 技能
-- 开发工具
+tags: []
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/67b900d2ee1546dd86fbca4cc116014b
+notion_url: https://www.notion.so/Tizer/67b900d2ee1546dd86fbca4cc116014b
 notion_id: 67b900d2-ee15-46dd-86fb-ca4cc116014b
 ---
 

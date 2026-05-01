@@ -2,14 +2,13 @@
 title: 多平台 AI 搜索聚合
 type: concept
 tags:
-- Agent 技能
 - 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/ca2e4813350f4df7a6142c21834c1dea
+notion_url: https://www.notion.so/Tizer/ca2e4813350f4df7a6142c21834c1dea
 notion_id: ca2e4813-350f-4df7-a614-2c21834c1dea
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: 摘要：Page Agent：阿里开源的网页内 GUI Agent，一行代码让你的 Web 应用开口说话
 type: summary
-tags:
-- Agent 技能
-- 开发工具
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: Agent, LLM, 自动化
 source_article_url: https://www.notion.so/335701074b688173a9fdc7dcc2c5e4f8
-notion_url: https://www.notion.so/5bd81895ae004a99ba8599e8bb0b86e3
+notion_url: https://www.notion.so/Tizer/5bd81895ae004a99ba8599e8bb0b86e3
 notion_id: 5bd81895-ae00-4a99-ba85-99e8bb0b86e3
 ---
 

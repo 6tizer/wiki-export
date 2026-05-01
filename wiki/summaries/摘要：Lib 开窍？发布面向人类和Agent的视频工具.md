@@ -2,13 +2,16 @@
 title: 摘要：Lib 开窍？发布面向人类和Agent的视频工具
 type: summary
 tags:
-- 内容创作
+- 内容自动化
+- 视频/3D
+- OpenClaw
+- AI 产品
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: AI 视频, Agent, 工具推荐
 source_article_url: ''
-notion_url: https://www.notion.so/ca3396421bf64741b633bd5da100d628
+notion_url: https://www.notion.so/Tizer/ca3396421bf64741b633bd5da100d628
 notion_id: ca339642-1bf6-4741-b633-bd5da100d628
 ---
 

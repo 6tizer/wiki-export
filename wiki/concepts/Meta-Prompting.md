@@ -2,7 +2,9 @@
 title: Meta-Prompting
 type: concept
 tags:
-- Coding Agent
+- 提示工程
+- AI 设计
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

@@ -1,15 +1,13 @@
 ---
 title: 摘要：How Skills Work in Hermes Agent
 type: summary
-tags:
-- Agent 技能
-- 记忆系统
+tags: []
 status: 已审核
 confidence: high
 last_compiled: '2026-04-16'
 source_tags: ''
 source_article_url: https://www.notion.so/344701074b6881b18752c94f1d0d87ef
-notion_url: https://www.notion.so/01039c1432c64201ba986e5eeaa6ed10
+notion_url: https://www.notion.so/Tizer/01039c1432c64201ba986e5eeaa6ed10
 notion_id: 01039c14-32c6-4201-ba98-6e5eeaa6ed10
 ---
 

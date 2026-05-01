@@ -3,13 +3,15 @@ title: 摘要：Hermes Agent 实测，龙虾新对手是进化版爱马仕
 type: summary
 tags:
 - OpenClaw
-- 记忆系统
+- Agent 协作模式
+- 长期记忆
+- Agent 安全
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, OpenClaw, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/0cc24936b20e4007a2df2a294012aedb
+notion_url: https://www.notion.so/Tizer/0cc24936b20e4007a2df2a294012aedb
 notion_id: 0cc24936-b20e-4007-a2df-2a294012aedb
 ---
 

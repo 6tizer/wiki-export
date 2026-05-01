@@ -3,12 +3,14 @@ title: 摘要：我给龙虾接上了语音能力，1分钟克隆音色，终于
 type: summary
 tags:
 - OpenClaw
+- 内容自动化
+- 多模态
 status: 已审核
 confidence: medium
 last_compiled: '2026-04-11'
 source_tags: OpenClaw, Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/f43e5764d38c4f9681d34f5838a1275f
+notion_url: https://www.notion.so/Tizer/f43e5764d38c4f9681d34f5838a1275f
 notion_id: f43e5764-d38c-4f96-81d3-4f5838a1275f
 ---
 

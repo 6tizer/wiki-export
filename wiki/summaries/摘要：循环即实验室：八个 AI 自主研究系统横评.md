@@ -2,13 +2,15 @@
 title: 摘要：循环即实验室：八个 AI 自主研究系统横评
 type: summary
 tags:
-- Agent 编排
+- OpenClaw
+- 多Agent协作
+- Agent 协作模式
 status: 已审核
 confidence: high
 last_compiled: '2026-04-11'
 source_tags: Agent, LLM, 自动化
 source_article_url: ''
-notion_url: https://www.notion.so/cacf8bfcf29c4c0db0e3b1742155f1ed
+notion_url: https://www.notion.so/Tizer/cacf8bfcf29c4c0db0e3b1742155f1ed
 notion_id: cacf8bfc-f29c-4c0d-b0e3-b1742155f1ed
 ---
 
@@ -40,7 +42,7 @@ notion_id: cacf8bfc-f29c-4c0d-b0e3-b1742155f1ed
 
 - [AlphaEvolve](entities/AlphaEvolve.md)
 
-- [Darwin Gödel Machine](concepts/Darwin Gödel Machine.md)
+- [Darwin Gödel Machine](entities/Darwin Gödel Machine.md)
 
 - [NemoClaw](entities/NemoClaw.md)
 
