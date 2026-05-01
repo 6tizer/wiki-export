@@ -5,7 +5,7 @@ tags:
 - Crypto/DeFi
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-30'
+last_compiled: '2026-05-01'
 source_tags: 预测市场, Polymarket, 量化交易, 做市
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/0eca5bb6c97a40a5bcc2fe47897ff9eb
