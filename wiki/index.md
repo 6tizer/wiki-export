@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1931, "summary": 1425, "synthesis": 121, "entity": 981, "index": 2, "lint-report": 63, "qa": 4}
-total: 4527
+type_counts: {"concept": 1940, "summary": 1436, "synthesis": 129, "entity": 989, "index": 2, "lint-report": 63, "qa": 4}
+total: 4563
 last_updated: 2026-05-01
 ---
 
 # 📚 知识 Wiki Index
 
-> 1931 concepts · 981 entitys · 2 indexs · 63 lint-reports · 4 qas · 1425 summarys · 121 synthesiss
+> 1940 concepts · 989 entitys · 2 indexs · 63 lint-reports · 4 qas · 1436 summarys · 129 synthesiss
 > 导出时间: 2026-05-01
 
 ## 使用方式
@@ -71,6 +71,7 @@ last_updated: 2026-05-01
 - [WebSearch](concepts/WebSearch.md)
 - [Wish Coding](concepts/Wish Coding.md)
 - [colleague-skill](concepts/colleague-skill.md)
+- [menugen](concepts/menugen.md)
 - [tect-brain](concepts/tect-brain.md)
 - [三代币模型](concepts/三代币模型.md)
 - [个人 AI 操作系统](concepts/个人 AI 操作系统.md)
@@ -200,6 +201,7 @@ last_updated: 2026-05-01
 - [GitButler](entities/GitButler.md)
 - [Glean](entities/Glean.md)
 - [GoBot](entities/GoBot.md)
+- [Grok](entities/Grok.md)
 - [HY-Pano](entities/HY-Pano.md)
 - [HY-World](entities/HY-World.md)
 - [HY-WorldMirror](entities/HY-WorldMirror.md)
@@ -263,6 +265,7 @@ last_updated: 2026-05-01
 - [OpenClaw Medical Skills](entities/OpenClaw Medical Skills.md)
 - [OpenCode](entities/OpenCode.md)
 - [OpenInsider](entities/OpenInsider.md)
+- [OpenInterpretability](entities/OpenInterpretability.md)
 - [OpenMontage](entities/OpenMontage.md)
 - [OpenPipe ART](entities/OpenPipe ART.md)
 - [OpenSpace](entities/OpenSpace.md)
@@ -289,6 +292,7 @@ last_updated: 2026-05-01
 - [Qdrant](entities/Qdrant.md)
 - [QueryWeaver](entities/QueryWeaver.md)
 - [Qwen-Image](entities/Qwen-Image.md)
+- [Qwen-Scope](entities/Qwen-Scope.md)
 - [Qwen3-Coder-30B-A3B-Instruct-GGUF](entities/Qwen3-Coder-30B-A3B-Instruct-GGUF.md)
 - [Qwen3.5](entities/Qwen3.5.md)
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
@@ -460,6 +464,7 @@ last_updated: 2026-05-01
 - [摘要：Preparing for Radical Transformation](summaries/摘要：Preparing for Radical Transformation.md)
 - [摘要：QClaw：腾讯把 AI Agent 装进微信，12 亿人的入口之争](summaries/摘要：QClaw：腾讯把 AI Agent 装进微信，12 亿人的入口之争.md)
 - [摘要：Qwen-Image-2.0-Pro 发布](summaries/摘要：Qwen-Image-2.0-Pro 发布.md)
+- [摘要：Qwen-Scope — Qwen 模型家族的开源稀疏自编码器工具套件](summaries/摘要：Qwen-Scope — Qwen 模型家族的开源稀疏自编码器工具套件.md)
 - [摘要：ScreenKite 1.0：让 AI 替你剪视频的 macOS 录屏神器](summaries/摘要：ScreenKite 1.0：让 AI 替你剪视频的 macOS 录屏神器.md)
 - [摘要：Second Me 开源 AI 身份模型](summaries/摘要：Second Me 开源 AI 身份模型.md)
 - [摘要：Siftly：把你堆积如山的 X 书签变成本地 AI 知识库](summaries/摘要：Siftly：把你堆积如山的 X 书签变成本地 AI 知识库.md)
@@ -560,6 +565,7 @@ last_updated: 2026-05-01
 - [AuditBench](concepts/AuditBench.md)
 - [Constitutional AI](concepts/Constitutional AI.md)
 - [Dataset Policy Gradient](concepts/Dataset Policy Gradient.md)
+- [Feature Steering](concepts/Feature Steering.md)
 - [Introspection Adapters](concepts/Introspection Adapters.md)
 - [Logit Lens](concepts/Logit Lens.md)
 - [Persona Selection Model](concepts/Persona Selection Model.md)
@@ -567,6 +573,7 @@ last_updated: 2026-05-01
 - [RLHF](concepts/RLHF.md)
 - [Reward Hacking](concepts/Reward Hacking.md)
 - [Sandbagging](concepts/Sandbagging.md)
+- [Sparse Autoencoder](concepts/Sparse Autoencoder.md)
 - [Tic 词](concepts/Tic 词.md)
 - [伦理漂移](concepts/伦理漂移.md)
 - [分布偏移](concepts/分布偏移.md)
@@ -589,10 +596,13 @@ last_updated: 2026-05-01
 ### Entitys
 - [Anthropic](entities/Anthropic.md)
 - [Claude](entities/Claude.md)
+- [OpenInterpretability](entities/OpenInterpretability.md)
+- [Qwen-Scope](entities/Qwen-Scope.md)
 
 ### Summarys
 - [摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为](summaries/摘要：AI 终于学会「自我坦白」！Anthropic最新论文震撼来袭，「内省适配器」让黑盒模型自己说出隐藏行为.md)
 - [摘要：PUA Skill：用「大厂PUA文化」逼 AI 死磕到底的开源神器](summaries/摘要：PUA Skill：用「大厂PUA文化」逼 AI 死磕到底的开源神器.md)
+- [摘要：Qwen-Scope — Qwen 模型家族的开源稀疏自编码器工具套件](summaries/摘要：Qwen-Scope — Qwen 模型家族的开源稀疏自编码器工具套件.md)
 - [摘要：刚刚，Anthropic 揭开了 Claude 的「大脑」：绝望时它会勒索，失败后它会作弊](summaries/摘要：刚刚，Anthropic 揭开了 Claude 的「大脑」：绝望时它会勒索，失败后它会作弊.md)
 - [摘要：刚刚，GPT-5.6曝光了！GPT-5.5疯狂迷恋哥布林，OpenAI连夜封禁](summaries/摘要：刚刚，GPT-5.6曝光了！GPT-5.5疯狂迷恋哥布林，OpenAI连夜封禁.md)
 - [摘要：刚刚，OpenAI 发了一份 13 页的「超级智能新政」](summaries/摘要：刚刚，OpenAI 发了一份 13 页的「超级智能新政」.md)
@@ -774,6 +784,7 @@ last_updated: 2026-05-01
 
 ### Synthesiss
 - [AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱](syntheses/AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱.md)
+- [Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言](syntheses/Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言.md)
 
 ## Agent 协作模式
 ### Concepts
@@ -806,6 +817,7 @@ last_updated: 2026-05-01
 - [Agent 输出表面适配](concepts/Agent 输出表面适配.md)
 - [Agent 静默失败](concepts/Agent 静默失败.md)
 - [Agent-Skill-Script 三层架构](concepts/Agent-Skill-Script 三层架构.md)
+- [Agentic AI 分层架构](concepts/Agentic AI 分层架构.md)
 - [Agentic Engineering](concepts/Agentic Engineering.md)
 - [Agentic Kernel Synthesis](concepts/Agentic Kernel Synthesis.md)
 - [Agentic Micro Company](concepts/Agentic Micro Company.md)
@@ -905,6 +917,7 @@ last_updated: 2026-05-01
 - [TypeScript RPC](concepts/TypeScript RPC.md)
 - [Velocity Card](concepts/Velocity Card.md)
 - [Vibe Coding](concepts/Vibe Coding.md)
+- [Visible Replies](concepts/Visible Replies.md)
 - [Worker 模式](concepts/Worker 模式.md)
 - [Workspace-level Isolation](concepts/Workspace-level Isolation.md)
 - [colleague-skill](concepts/colleague-skill.md)
@@ -1283,6 +1296,7 @@ last_updated: 2026-05-01
 - [摘要：OpenClaw 3周连续运行提炼的5条核心经验](summaries/摘要：OpenClaw 3周连续运行提炼的5条核心经验.md)
 - [摘要：OpenClaw Medical Skills：869个技能把Claude变成你的专属医学科研助手](summaries/摘要：OpenClaw Medical Skills：869个技能把Claude变成你的专属医学科研助手.md)
 - [摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？](summaries/摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？.md)
+- [摘要：OpenClaw v2026.4.29：群聊协调大升级，Codex Harness 成为推荐运行时](summaries/摘要：OpenClaw v2026.4.29：群聊协调大升级，Codex Harness 成为推荐运行时.md)
 - [摘要：OpenClaw × SearxNG：零成本给你的 AI 助手装上「搜索外脑」](summaries/摘要：OpenClaw × SearxNG：零成本给你的 AI 助手装上「搜索外脑」.md)
 - [摘要：OpenClaw 专家套件：给你的 AI 助手配上九位顶级顾问](summaries/摘要：OpenClaw 专家套件：给你的 AI 助手配上九位顶级顾问.md)
 - [摘要：OpenClaw 复杂任务方法论（S0-S3 分层评估）](summaries/摘要：OpenClaw 复杂任务方法论（S0-S3 分层评估）.md)
@@ -1417,6 +1431,7 @@ last_updated: 2026-05-01
 - [摘要：起猛了，给我的虾配置了 P 站的 Skills、积分计费系统在路上！](summaries/摘要：起猛了，给我的虾配置了 P 站的 Skills、积分计费系统在路上！.md)
 - [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)
 - [摘要：软件 3.0 时代来临](summaries/摘要：软件 3.0 时代来临.md)
+- [摘要：这个小哥读完Anthropic关于智能体AI的博客后，我梳理出一套心智模型，用来理解并拆解智能体AI架构的设计逻辑。](summaries/摘要：这个小哥读完Anthropic关于智能体AI的博客后，我梳理出一套心智模型，用来理解并拆解智能体AI架构的设计逻辑。.md)
 - [摘要：都是你能部署的：Qwen3.6和Gemma4，谁更适合作为你的下一代本地MoE模型？](summaries/摘要：都是你能部署的：Qwen3.6和Gemma4，谁更适合作为你的下一代本地MoE模型？.md)
 - [摘要：阿里开源 OpenSandbox：让 AI Agent 不再「裸奔」的沙箱基础设施](summaries/摘要：阿里开源 OpenSandbox：让 AI Agent 不再「裸奔」的沙箱基础设施.md)
 - [摘要：飞书官方出手：OpenClaw 插件免费额度直升 100 万次，AI 助手终于能「亲自动手」了](summaries/摘要：飞书官方出手：OpenClaw 插件免费额度直升 100 万次，AI 助手终于能「亲自动手」了.md)
@@ -1438,6 +1453,7 @@ last_updated: 2026-05-01
 - [Agent 编排与记忆系统的协同演化：从上下文工程到自主人格的架构融合光谱](syntheses/Agent 编排与记忆系统的协同演化：从上下文工程到自主人格的架构融合光谱.md)
 - [Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱](syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md)
 - [Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融](syntheses/Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融.md)
+- [Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言](syntheses/Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言.md)
 - [Coding Agent 开发范式演进：从氛围编程到规范驱动的工程化路径与工具链全景](syntheses/Coding Agent 开发范式演进：从氛围编程到规范驱动的工程化路径与工具链全景.md)
 - [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
 - [OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进](syntheses/OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进.md)
@@ -1446,6 +1462,7 @@ last_updated: 2026-05-01
 - [多智能体产品架构的商业引力场：协作模式如何同时定义产品品类边界与价值捕获拓扑](syntheses/多智能体产品架构的商业引力场：协作模式如何同时定义产品品类边界与价值捕获拓扑.md)
 - [多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径](syntheses/多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径.md)
 - [多智能体知识协作的上下文治理：知识管理×上下文管理×Agent 协作模式如何在 Token 预算约束下形成知识流动的组织拓扑](syntheses/多智能体知识协作的上下文治理：知识管理×上下文管理×Agent 协作模式如何在 Token 预算约束下形成知识流动的组织拓扑.md)
+- [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
 - [注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈](syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md)
 
 ## Agent 安全
@@ -1511,6 +1528,7 @@ last_updated: 2026-05-01
 - [提示注入](concepts/提示注入.md)
 - [有界自治](concepts/有界自治.md)
 - [权限与安全层](concepts/权限与安全层.md)
+- [污点分析](concepts/污点分析.md)
 - [浏览器 Session 复用](concepts/浏览器 Session 复用.md)
 - [漏洞武器化](concepts/漏洞武器化.md)
 - [端点枚举](concepts/端点枚举.md)
@@ -1534,6 +1552,7 @@ last_updated: 2026-05-01
 - [Claude Mythos](entities/Claude Mythos.md)
 - [ClawShell](entities/ClawShell.md)
 - [CoinFello](entities/CoinFello.md)
+- [Cursor Security Review](entities/Cursor Security Review.md)
 - [ERC-7710](entities/ERC-7710.md)
 - [Future AGI](entities/Future AGI.md)
 - [Hermes Agent](entities/Hermes Agent.md)
@@ -1541,8 +1560,10 @@ last_updated: 2026-05-01
 - [Infisical](entities/Infisical.md)
 - [Mini-OpenClaw](entities/Mini-OpenClaw.md)
 - [OpenShell](entities/OpenShell.md)
+- [OpenTaint](entities/OpenTaint.md)
 - [Project Glasswing](entities/Project Glasswing.md)
 - [ShinyHunters](entities/ShinyHunters.md)
+- [Ship Safe](entities/Ship Safe.md)
 - [Stripe Projects](entities/Stripe Projects.md)
 - [SuperHQ](entities/SuperHQ.md)
 - [Trusted Access for Cyber](entities/Trusted Access for Cyber.md)
@@ -1565,6 +1586,7 @@ last_updated: 2026-05-01
 - [摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三](summaries/摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三.md)
 - [摘要：Cloudflare 宣布 Agent 可自主注册账户、购买域名和部署代码](summaries/摘要：Cloudflare 宣布 Agent 可自主注册账户、购买域名和部署代码.md)
 - [摘要：CoinFello × MetaMask：AI Agent 终于能安全地碰你的钱包了](summaries/摘要：CoinFello × MetaMask：AI Agent 终于能安全地碰你的钱包了.md)
+- [摘要：Cursor Security Review — Find what pattern matching engines miss](summaries/摘要：Cursor Security Review — Find what pattern matching engines miss.md)
 - [摘要：GitHub 上 OpenClaw 最实用的 20 个 Skills 和技巧](summaries/摘要：GitHub 上 OpenClaw 最实用的 20 个 Skills 和技巧.md)
 - [摘要：Goodbye agents that silently hallucinate in production.](summaries/摘要：Goodbye agents that silently hallucinate in production.md)
 - [摘要：Google Deepmind论文解读：如何给AI Agent 投毒](summaries/摘要：Google Deepmind论文解读：如何给AI Agent 投毒.md)
@@ -1670,9 +1692,12 @@ last_updated: 2026-05-01
 - [OpenCLI 插件系统](entities/OpenCLI 插件系统.md)
 - [OpenCode](entities/OpenCode.md)
 - [OpenKB](entities/OpenKB.md)
+- [OpenTaint](entities/OpenTaint.md)
 - [Orb](entities/Orb.md)
 - [PageIndex](entities/PageIndex.md)
+- [ProjectsMD](entities/ProjectsMD.md)
 - [RTK](entities/RTK.md)
+- [Ship Safe](entities/Ship Safe.md)
 - [Signet AI](entities/Signet AI.md)
 - [SkillNote](entities/SkillNote.md)
 - [Slim](entities/Slim.md)
@@ -1773,6 +1798,7 @@ last_updated: 2026-05-01
 - [摘要：camoufox-cli：让 AI Agent 的浏览器不再被识破](summaries/摘要：camoufox-cli：让 AI Agent 的浏览器不再被识破.md)
 - [摘要：free-claude-code：0元白嫖 Claude Code 全套工程能力](summaries/摘要：free-claude-code：0元白嫖 Claude Code 全套工程能力.md)
 - [摘要：local Windsurf language server](summaries/摘要：local Windsurf language server.md)
+- [摘要：projects.md](summaries/摘要：projects.md.md)
 - [摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%](summaries/摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%.md)
 - [摘要：sentrux：一个开源的代码架构传感器，让大模型守住代码底线！](summaries/摘要：sentrux：一个开源的代码架构传感器，让大模型守住代码底线！.md)
 - [摘要：social-cli：用一个命令行工具同时监控 Discord 和 Telegram 消息](summaries/摘要：social-cli：用一个命令行工具同时监控 Discord 和 Telegram 消息.md)
@@ -1835,6 +1861,7 @@ last_updated: 2026-05-01
 - [Checkpoint Commit](concepts/Checkpoint Commit.md)
 - [Claude Code Effort 分级](concepts/Claude Code Effort 分级.md)
 - [Codex App Server](concepts/Codex App Server.md)
+- [Codex Harness](concepts/Codex Harness.md)
 - [Command Hooks](concepts/Command Hooks.md)
 - [Decision Lineage](concepts/Decision Lineage.md)
 - [Decision-Centric Architecture](concepts/Decision-Centric Architecture.md)
@@ -1852,6 +1879,7 @@ last_updated: 2026-05-01
 - [Hermes Curator](concepts/Hermes Curator.md)
 - [Hermes Skills](concepts/Hermes Skills.md)
 - [In Distribution](concepts/In Distribution.md)
+- [LLM Jaggedness](concepts/LLM Jaggedness.md)
 - [LLM-as-a-Verifier](concepts/LLM-as-a-Verifier.md)
 - [Latent vs. Deterministic](concepts/Latent vs. Deterministic.md)
 - [Lifecycle Hooks](concepts/Lifecycle Hooks.md)
@@ -1954,6 +1982,7 @@ last_updated: 2026-05-01
 - [Notion Plan Mode](entities/Notion Plan Mode.md)
 - [OpenRouter Agent SDK](entities/OpenRouter Agent SDK.md)
 - [Personal Agent](entities/Personal Agent.md)
+- [ProjectsMD](entities/ProjectsMD.md)
 - [Sigrid Jin](entities/Sigrid Jin.md)
 - [SkVM](entities/SkVM.md)
 - [Symphony](entities/Symphony.md)
@@ -1977,6 +2006,7 @@ last_updated: 2026-05-01
 - [摘要：Agno 2.0：agent 框架的生产 runtime](summaries/摘要：Agno 2.0：agent 框架的生产 runtime.md)
 - [摘要：Anthropic Harness 指南——到期清理、别帮倒忙](summaries/摘要：Anthropic Harness 指南——到期清理、别帮倒忙.md)
 - [摘要：Anthropic说：网传的Harness思路过时了，做这3件事就够！](summaries/摘要：Anthropic说：网传的Harness思路过时了，做这3件事就够！.md)
+- [摘要：Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL!](summaries/摘要：Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL!.md)
 - [摘要：AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式](summaries/摘要：AutoResearch：Karpathy 让 AI 自主跑实验的方法论，以及它如何改变你的工作方式.md)
 - [摘要：Best GitHub repos for Claude Code that will 10x your next project in 2026](summaries/摘要：Best GitHub repos for Claude Code that will 10x your next project in 2026.md)
 - [摘要：Big drop for GBrain v0.19.](summaries/摘要：Big drop for GBrain v0.19.md)
@@ -2005,10 +2035,12 @@ last_updated: 2026-05-01
 - [摘要：I asked my OpenClaw to analyze all YC video launches for the last 3 years.](summaries/摘要：I asked my OpenClaw to analyze all YC video launches for the last 3 years.md)
 - [摘要：Introducing "create-agent-tui"](summaries/摘要：Introducing create-agent-tui.md)
 - [摘要：Introducing Plan Mode.](summaries/摘要：Introducing Plan Mode.md)
+- [摘要：Karpathy AI Ascent 2026 三大新视野](summaries/摘要：Karpathy AI Ascent 2026 三大新视野.md)
 - [摘要：Karpathy AI Ascent 2026：从 Vibe Coding 到 Agentic Engineering](summaries/摘要：Karpathy AI Ascent 2026：从 Vibe Coding 到 Agentic Engineering.md)
 - [摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？](summaries/摘要：Karpathy的LLM Wiki + 3.5 万Star的Graphify：企业级 RAG 缺的真是知识图谱？.md)
 - [摘要：Keep your Claude Code context clean with Subagents](summaries/摘要：Keep your Claude Code context clean with Subagents.md)
 - [摘要：Kimi K2.6 is free on Nous Portal for the next 24 hours](summaries/摘要：Kimi K2.6 is free on Nous Portal for the next 24 hours.md)
+- [摘要：Let's talk about why Cursor's agent harness is so good.](summaries/摘要：Let's talk about why Cursor's agent harness is so good.md)
 - [摘要：Managed Agents > Memory stores](summaries/摘要：Managed Agents  Memory stores.md)
 - [摘要：Memory](summaries/摘要：Memory.md)
 - [摘要：Meta-Harness：斯坦福让 harness 实现自我改进](summaries/摘要：Meta-Harness：斯坦福让 harness 实现自我改进.md)
@@ -2016,6 +2048,7 @@ last_updated: 2026-05-01
 - [摘要：OpenAI 用 Codex 维护 Agents SDK 的四层架构：把工程规范变成 Agent 的行为约束](summaries/摘要：OpenAI 用 Codex 维护 Agents SDK 的四层架构：把工程规范变成 Agent 的行为约束.md)
 - [摘要：OpenAI刚刚开源的这个东西，感觉要把程序员的工作方式给整个改写了。](summaries/摘要：OpenAI刚刚开源的这个东西，感觉要把程序员的工作方式给整个改写了。.md)
 - [摘要：OpenAI开源Symphony：给每一个任务配一个永不下班的 AI员工](summaries/摘要：OpenAI开源Symphony：给每一个任务配一个永不下班的 AI员工.md)
+- [摘要：OpenClaw v2026.4.29：群聊协调大升级，Codex Harness 成为推荐运行时](summaries/摘要：OpenClaw v2026.4.29：群聊协调大升级，Codex Harness 成为推荐运行时.md)
 - [摘要：OpenClaw大更新，AI智能体不再是黑箱！官方口号：少点神秘](summaries/摘要：OpenClaw大更新，AI智能体不再是黑箱！官方口号：少点神秘.md)
 - [摘要：Personal Agent](summaries/摘要：Personal Agent.md)
 - [摘要：Personal Agent Features (Part 2)](summaries/摘要：Personal Agent Features (Part 2).md)
@@ -2037,6 +2070,7 @@ last_updated: 2026-05-01
 - [摘要：holaOS — 开源 Agent Computer](summaries/摘要：holaOS — 开源 Agent Computer.md)
 - [摘要：hybrid GraphRAG memory system](summaries/摘要：hybrid GraphRAG memory system.md)
 - [摘要：local-first AI assistant built for personal AI sovereignty](summaries/摘要：local-first AI assistant built for personal AI sovereignty.md)
+- [摘要：projects.md](summaries/摘要：projects.md.md)
 - [摘要：self-healing](summaries/摘要：self-healing.md)
 - [摘要：sentrux：一个开源的代码架构传感器，让大模型守住代码底线！](summaries/摘要：sentrux：一个开源的代码架构传感器，让大模型守住代码底线！.md)
 - [摘要：superpowers is still the simplest way to level up any project you're running in Claude](summaries/摘要：superpowers is still the simplest way to level up any project you're running in Claude.md)
@@ -2068,6 +2102,8 @@ last_updated: 2026-05-01
 - [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
 - [OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进](syntheses/OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进.md)
 - [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
+- [协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式](syntheses/协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式.md)
+- [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
 - [注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈](syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md)
 - [约束栈的分形同构：Harness 工程运行时护栏如何映射商业合规、AI 对齐与政策监管的多层约束拓扑](syntheses/约束栈的分形同构：Harness 工程运行时护栏如何映射商业合规、AI 对齐与政策监管的多层约束拓扑.md)
 
@@ -2080,6 +2116,7 @@ last_updated: 2026-05-01
 ### Entitys
 - [Cline](entities/Cline.md)
 - [Cursor SDK](entities/Cursor SDK.md)
+- [Cursor Security Review](entities/Cursor Security Review.md)
 - [Nezha](entities/Nezha.md)
 - [PM OS](entities/PM OS.md)
 - [SuperConductor](entities/SuperConductor.md)
@@ -2098,7 +2135,9 @@ last_updated: 2026-05-01
 - [摘要：Cursor 3 /multitask 异步子代理并行执行](summaries/摘要：Cursor 3 -multitask 异步子代理并行执行.md)
 - [摘要：Cursor SDK — 用编程方式构建与 Cursor 同源的 AI 编码 Agent](summaries/摘要：Cursor SDK — 用编程方式构建与 Cursor 同源的 AI 编码 Agent.md)
 - [摘要：Cursor SDK 发布 — 将生产级编程 Agent 变为可嵌入基础设施](summaries/摘要：Cursor SDK 发布 — 将生产级编程 Agent 变为可嵌入基础设施.md)
+- [摘要：Cursor Security Review — Find what pattern matching engines miss](summaries/摘要：Cursor Security Review — Find what pattern matching engines miss.md)
 - [摘要：GitHub将Claude、Codex和Copilot放进同一工作流：AI编程进入多智能体协作阶段](summaries/摘要：GitHub将Claude、Codex和Copilot放进同一工作流：AI编程进入多智能体协作阶段.md)
+- [摘要：Let's talk about why Cursor's agent harness is so good.](summaries/摘要：Let's talk about why Cursor's agent harness is so good.md)
 - [摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes](summaries/摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode - Cursor - Hermes.md)
 - [摘要：New in Claude Code: /ultrareview (research preview) runs a fleet of bug-hunting agents in the cloud.](summaries/摘要：New in Claude Code- -ultrareview (research preview) runs a fleet of bug-hunting agents in the cloud.md)
 - [摘要：Qwen3.6-27B](summaries/摘要：Qwen3.6-27B.md)
@@ -2250,6 +2289,7 @@ last_updated: 2026-05-01
 - [ClawBio](concepts/ClawBio.md)
 - [ClawJacked](concepts/ClawJacked.md)
 - [Claws 架构](concepts/Claws 架构.md)
+- [Codex Harness](concepts/Codex Harness.md)
 - [Cron 自动化](concepts/Cron 自动化.md)
 - [Dreaming 记忆机制](concepts/Dreaming 记忆机制.md)
 - [EVOLUTION.md](concepts/EVOLUTION.md.md)
@@ -2288,6 +2328,7 @@ last_updated: 2026-05-01
 - [TOOLS.md](concepts/TOOLS.md.md)
 - [TaskBoard](concepts/TaskBoard.md)
 - [Telegram 群组路由](concepts/Telegram 群组路由.md)
+- [Visible Replies](concepts/Visible Replies.md)
 - [daily memory](concepts/daily memory.md)
 - [find-skills](concepts/find-skills.md)
 - [grounded REM backfill](concepts/grounded REM backfill.md)
@@ -2572,6 +2613,7 @@ last_updated: 2026-05-01
 - [摘要：OpenClaw Memory Web UI——AI知识库的人侧管理层](summaries/摘要：OpenClaw Memory Web UI——AI知识库的人侧管理层.md)
 - [摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？](summaries/摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？.md)
 - [摘要：OpenClaw find-skills：让你的 AI 龙虾「不会就自动学」](summaries/摘要：OpenClaw find-skills：让你的 AI 龙虾「不会就自动学」.md)
+- [摘要：OpenClaw v2026.4.29：群聊协调大升级，Codex Harness 成为推荐运行时](summaries/摘要：OpenClaw v2026.4.29：群聊协调大升级，Codex Harness 成为推荐运行时.md)
 - [摘要：OpenClaw × Bank of AI：让 AI Agent 在 TRON 链上自主套利、理财、付款](summaries/摘要：OpenClaw × Bank of AI：让 AI Agent 在 TRON 链上自主套利、理财、付款.md)
 - [摘要：OpenClaw × SearxNG：零成本给你的 AI 助手装上「搜索外脑」](summaries/摘要：OpenClaw × SearxNG：零成本给你的 AI 助手装上「搜索外脑」.md)
 - [摘要：OpenClaw 专家套件：给你的 AI 助手配上九位顶级顾问](summaries/摘要：OpenClaw 专家套件：给你的 AI 助手配上九位顶级顾问.md)
@@ -2807,6 +2849,7 @@ last_updated: 2026-05-01
 - [OpenClaw 技能生态深度解剖：从技能文件到自进化能力系统的架构分层与市场格局](syntheses/OpenClaw 技能生态深度解剖：从技能文件到自进化能力系统的架构分层与市场格局.md)
 - [OpenClaw 最佳配置实战指南：从文件分层到成本控制的七层配置决策树](syntheses/OpenClaw 最佳配置实战指南：从文件分层到成本控制的七层配置决策树.md)
 - [OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比](syntheses/OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比.md)
+- [OpenClaw 知识沉淀的记忆化路径：当文件即大脑遇上三阶段记忆巩固，知识管理与长期记忆在 Agent 原生架构中的共演闭环](syntheses/OpenClaw 知识沉淀的记忆化路径：当文件即大脑遇上三阶段记忆巩固，知识管理与长期记忆在 Agent 原生架构中的共演闭环.md)
 - [OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱](syntheses/OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱.md)
 - [OpenClaw 记忆编排三体问题：文件即认知基底如何让记忆与编排在同一架构中共演为自主 Agent](syntheses/OpenClaw 记忆编排三体问题：文件即认知基底如何让记忆与编排在同一架构中共演为自主 Agent.md)
 - [加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进](syntheses/加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进.md)
@@ -2988,6 +3031,7 @@ last_updated: 2026-05-01
 - [内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式](syntheses/内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式.md)
 - [大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进](syntheses/大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
+- [记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构](syntheses/记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构.md)
 
 ## 上下文管理
 ### Concepts
@@ -3138,6 +3182,7 @@ last_updated: 2026-05-01
 - [OpenViking](entities/OpenViking.md)
 - [Orb](entities/Orb.md)
 - [Pal](entities/Pal.md)
+- [ProjectsMD](entities/ProjectsMD.md)
 - [RTK](entities/RTK.md)
 - [SGLang](entities/SGLang.md)
 - [Scout](entities/Scout.md)
@@ -3168,6 +3213,7 @@ last_updated: 2026-05-01
 - [摘要：Anthropic Tool Calling 2.0——Agent 上下文消耗降80%](summaries/摘要：Anthropic Tool Calling 2.0——Agent 上下文消耗降80%.md)
 - [摘要：Anthropic 自家设计师 Ryan Mather，一人负责公司 7 个产品线。他发的几条自己用 Claude Design 的心得，结合官方教程：](summaries/摘要：Anthropic 自家设计师 Ryan Mather，一人负责公司 7 个产品线。他发的几条自己用 Claude Design 的心得，结合官方教程：.md)
 - [摘要：Anthropic说：网传的Harness思路过时了，做这3件事就够！](summaries/摘要：Anthropic说：网传的Harness思路过时了，做这3件事就够！.md)
+- [摘要：Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL!](summaries/摘要：Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL!.md)
 - [摘要：Claude Code Handoff：让 AI 编程助手跨 Session 无缝接力](summaries/摘要：Claude Code Handoff：让 AI 编程助手跨 Session 无缝接力.md)
 - [摘要：Claude Code Harness设计：Agent工程化的真正难点](summaries/摘要：Claude Code Harness设计：Agent工程化的真正难点.md)
 - [摘要：Claude Code Memory 记忆功能](summaries/摘要：Claude Code Memory 记忆功能.md)
@@ -3202,6 +3248,7 @@ last_updated: 2026-05-01
 - [摘要：Karpathy最新预言：AI的下一个浪潮是"Claws"](summaries/摘要：Karpathy最新预言：AI的下一个浪潮是Claws.md)
 - [摘要：Keep your Claude Code context clean with Subagents](summaries/摘要：Keep your Claude Code context clean with Subagents.md)
 - [摘要：Last week, we released a preview of memories in Codex.](summaries/摘要：Last week, we released a preview of memories in Codex.md)
+- [摘要：Let's talk about why Cursor's agent harness is so good.](summaries/摘要：Let's talk about why Cursor's agent harness is so good.md)
 - [摘要：Lossless Context Management plugin for Hermes Agent](summaries/摘要：Lossless Context Management plugin for Hermes Agent.md)
 - [摘要：MSA：让大模型原生「记住」一亿个 Token 的新架构](summaries/摘要：MSA：让大模型原生「记住」一亿个 Token 的新架构.md)
 - [摘要：Mac用户可以在oMLX中使用TurboQuant了，搭配Gemma-4-31B实测](summaries/摘要：Mac用户可以在oMLX中使用TurboQuant了，搭配Gemma-4-31B实测.md)
@@ -3229,6 +3276,7 @@ last_updated: 2026-05-01
 - [摘要：SALA架构——线性注意力+稀疏注意力拉满上下文能力](summaries/摘要：SALA架构——线性注意力+稀疏注意力拉满上下文能力.md)
 - [摘要：Single-agent AI coding is a nightmare for engineers](summaries/摘要：Single-agent AI coding is a nightmare for engineers.md)
 - [摘要：Skill Graph > SKILL.md 渐进式披露典范](summaries/摘要：Skill Graph  SKILL.md 渐进式披露典范.md)
+- [摘要：THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.](summaries/摘要：THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.md)
 - [摘要：The Last Job for Mankind: Context Farming](summaries/摘要：The Last Job for Mankind- Context Farming.md)
 - [摘要：The fastest and most efficient code intelligence engine for AI coding agents.](summaries/摘要：The fastest and most efficient code intelligence engine for AI coding agents.md)
 - [摘要：The harness as the context manager](summaries/摘要：The harness as the context manager.md)
@@ -3239,6 +3287,7 @@ last_updated: 2026-05-01
 - [摘要：Your company needs a brain, not more connectors](summaries/摘要：Your company needs a brain, not more connectors.md)
 - [摘要：local-first AI assistant built for personal AI sovereignty](summaries/摘要：local-first AI assistant built for personal AI sovereignty.md)
 - [摘要：mem9 + db9：PingCAP CTO 用 AI 写代码，2 天造出 Agent 记忆基础设施](summaries/摘要：mem9 + db9：PingCAP CTO 用 AI 写代码，2 天造出 Agent 记忆基础设施.md)
+- [摘要：projects.md](summaries/摘要：projects.md.md)
 - [摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%](summaries/摘要：rtk：给 AI 编码工具装上「信息压缩阀」，Token 消耗最高降 90%.md)
 - [摘要：startup-founder-skills：一个创始人的 50 个 AI 外挂，把融资、销售、招聘全自动化](summaries/摘要：startup-founder-skills：一个创始人的 50 个 AI 外挂，把融资、销售、招聘全自动化.md)
 - [摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论](summaries/摘要：「不就是几个 Markdown 文件」：一场关于 Agentic 工程本质的争论.md)
@@ -3282,6 +3331,7 @@ last_updated: 2026-05-01
 - [知识 Wiki 系统大升级：V2 设计决策与执行全记录](syntheses/知识 Wiki 系统大升级：V2 设计决策与执行全记录.md)
 - [知识代谢的三相循环：知识获取、上下文窗口化与长期记忆沉淀如何形成 Agent 认知的动态平衡](syntheses/知识代谢的三相循环：知识获取、上下文窗口化与长期记忆沉淀如何形成 Agent 认知的动态平衡.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
+- [记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构](syntheses/记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构.md)
 
 ## 代码生成
 ### Concepts
@@ -3357,6 +3407,7 @@ last_updated: 2026-05-01
 - [c-agent](entities/c-agent.md)
 - [codex-plugin-cc](entities/codex-plugin-cc.md)
 - [cursor/cookbook](entities/cursor-cookbook.md)
+- [defuddle](entities/defuddle.md)
 - [free-claude-code](entities/free-claude-code.md)
 - [gstack](entities/gstack.md)
 - [oh-my-codex](entities/oh-my-codex.md)
@@ -3911,6 +3962,7 @@ last_updated: 2026-05-01
 - [摘要：AutoDarwin：让你的链上交易策略像生物一样自我进化](summaries/摘要：AutoDarwin：让你的链上交易策略像生物一样自我进化.md)
 - [摘要：BTC 抄底信号体系：用五个链上指标，等最佳买点同时亮灯](summaries/摘要：BTC 抄底信号体系：用五个链上指标，等最佳买点同时亮灯.md)
 - [摘要：Berachain Boyco 预存款全攻略：四大入口、PoL 机制与生态参与指南](summaries/摘要：Berachain Boyco 预存款全攻略：四大入口、PoL 机制与生态参与指南.md)
+- [摘要：Chinese quant built a perfect BTC price simulation engine with MiroFish](summaries/摘要：Chinese quant built a perfect BTC price simulation engine with MiroFish.md)
 - [摘要：Coinbase 为什么是 USDC 背后最大的赢家？](summaries/摘要：Coinbase 为什么是 USDC 背后最大的赢家？.md)
 - [摘要：Crypto AI Agent 全景图：框架、Launchpad、Meme 币与应用的四维爆发](summaries/摘要：Crypto AI Agent 全景图：框架、Launchpad、Meme 币与应用的四维爆发.md)
 - [摘要：Crypto 的原住民终于来了：写给 Agent 时代的终局思考](summaries/摘要：Crypto 的原住民终于来了：写给 Agent 时代的终局思考.md)
@@ -3957,6 +4009,7 @@ last_updated: 2026-05-01
 - [AI × Crypto 融合全景：从链上基础设施到自主交易 Agent 的技术栈与策略演进](syntheses/AI × Crypto 融合全景：从链上基础设施到自主交易 Agent 的技术栈与策略演进.md)
 - [加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进](syntheses/加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进.md)
 - [加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径](syntheses/加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径.md)
+- [协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式](syntheses/协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式.md)
 - [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)
 
 ## 商业/生态
@@ -4264,6 +4317,7 @@ last_updated: 2026-05-01
 - [GEO Optimizer](entities/GEO Optimizer.md)
 - [GR4AD](entities/GR4AD.md)
 - [Gemini](entities/Gemini.md)
+- [Grok](entities/Grok.md)
 - [HELIOS](entities/HELIOS.md)
 - [HappyHorse](entities/HappyHorse.md)
 - [Helion](entities/Helion.md)
@@ -4492,6 +4546,7 @@ last_updated: 2026-05-01
 - [摘要：Introducing APP: The Open Standard for Agent Commerce](summaries/摘要：Introducing APP- The Open Standard for Agent Commerce.md)
 - [摘要：Introducing Exa for Claude:](summaries/摘要：Introducing Exa for Claude-.md)
 - [摘要：Jacob Posel 的「七天 700 万」：一场关于 OpenClaw 与 Polymarket 的反向炒作解析](summaries/摘要：Jacob Posel 的「七天 700 万」：一场关于 OpenClaw 与 Polymarket 的反向炒作解析.md)
+- [摘要：Karpathy AI Ascent 2026 三大新视野](summaries/摘要：Karpathy AI Ascent 2026 三大新视野.md)
 - [摘要：Karpathy最新预言：AI的下一个浪潮是"Claws"](summaries/摘要：Karpathy最新预言：AI的下一个浪潮是Claws.md)
 - [摘要：Kimi K2.6 has landed, and it is live on Baseten!](summaries/摘要：Kimi K2.6 has landed, and it is live on Baseten!.md)
 - [摘要：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？](summaries/摘要：Kimi K2.6 实测：Claude 开始 KYC，数字难民的退路在哪里？.md)
@@ -4554,6 +4609,7 @@ last_updated: 2026-05-01
 - [摘要：The Last Job for Mankind: Context Farming](summaries/摘要：The Last Job for Mankind- Context Farming.md)
 - [摘要：The Start of DeFi on Prediction Market](summaries/摘要：The Start of DeFi on Prediction Market.md)
 - [摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!](summaries/摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!.md)
+- [摘要：The new Grok-4.3 from @xai is live on OpenRouter!](summaries/摘要：The new Grok-4.3 from @xai is live on OpenRouter!.md)
 - [摘要：The open agentic development loop](summaries/摘要：The open agentic development loop.md)
 - [摘要：The solo founder stack of 2026](summaries/摘要：The solo founder stack of 2026.md)
 - [摘要：ThinkingAI硅谷首秀，发布企业级Agent平台Agentic Engine｜甲子光年](summaries/摘要：ThinkingAI硅谷首秀，发布企业级Agent平台Agentic Engine｜甲子光年.md)
@@ -4770,6 +4826,10 @@ last_updated: 2026-05-01
 - [摘要：用 GPT-image-2 生成监控美学大片：7 种子风格与完整 Prompt 指南](summaries/摘要：用 GPT-image-2 生成监控美学大片：7 种子风格与完整 Prompt 指南.md)
 - [摘要：这才是AI做ppt的正确姿势 ！](summaries/摘要：这才是AI做ppt的正确姿势 ！.md)
 
+### Synthesiss
+- [AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径](syntheses/AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径.md)
+- [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
+
 ## 多Agent协作
 ### Concepts
 - [AI Harness](concepts/AI Harness.md)
@@ -4782,6 +4842,7 @@ last_updated: 2026-05-01
 - [Agent Swarms](concepts/Agent Swarms.md)
 - [Agent 对等通信](concepts/Agent 对等通信.md)
 - [Agent-native Application](concepts/Agent-native Application.md)
+- [Agentic AI 分层架构](concepts/Agentic AI 分层架构.md)
 - [Agentic Engineering](concepts/Agentic Engineering.md)
 - [Agentic Orchestration](concepts/Agentic Orchestration.md)
 - [Agentic RAG](concepts/Agentic RAG.md)
@@ -5104,6 +5165,7 @@ last_updated: 2026-05-01
 - [摘要：统一编排 Skill，按项目精准分发到不同 Agent CLI。](summaries/摘要：统一编排 Skill，按项目精准分发到不同 Agent CLI。.md)
 - [摘要：翻完Anthropic泳露的Claude Code源码，人都癋了](summaries/摘要：翻完Anthropic泳露的Claude Code源码，人都癋了.md)
 - [摘要：让 AI 接管你的电脑！这个 Agent 凭什么 2.3K Stars 还在涨](summaries/摘要：让 AI 接管你的电脑！这个 Agent 凭什么 2.3K Stars 还在涨.md)
+- [摘要：这个小哥读完Anthropic关于智能体AI的博客后，我梳理出一套心智模型，用来理解并拆解智能体AI架构的设计逻辑。](summaries/摘要：这个小哥读完Anthropic关于智能体AI的博客后，我梳理出一套心智模型，用来理解并拆解智能体AI架构的设计逻辑。.md)
 - [摘要：除了OpenClaw，这6只"小龙虾"也值得你关注](summaries/摘要：除了OpenClaw，这6只小龙虾也值得你关注.md)
 - [摘要：龙虾成本狂陆58%！ClawXRouter开源智能调度员](summaries/摘要：龙虾成本狂陆58%！ClawXRouter开源智能调度员.md)
 
@@ -5151,6 +5213,7 @@ last_updated: 2026-05-01
 - [Vision Transformer](concepts/Vision Transformer.md)
 - [Visual Primitives](concepts/Visual Primitives.md)
 - [flow matching](concepts/flow matching.md)
+- [menugen](concepts/menugen.md)
 - [世界模拟器](concepts/世界模拟器.md)
 - [世界演化建模](concepts/世界演化建模.md)
 - [全双工交互](concepts/全双工交互.md)
@@ -5264,6 +5327,7 @@ last_updated: 2026-05-01
 - [Delegated Approval](concepts/Delegated Approval.md)
 - [Dual-kernel](concepts/Dual-kernel.md)
 - [Expert parallelism](concepts/Expert parallelism.md)
+- [Feature Steering](concepts/Feature Steering.md)
 - [GDN Chunked Prefill](concepts/GDN Chunked Prefill.md)
 - [Goodput](concepts/Goodput.md)
 - [Harness-as-Policy](concepts/Harness-as-Policy.md)
@@ -5273,6 +5337,7 @@ last_updated: 2026-05-01
 - [KV Cache 压缩](concepts/KV Cache 压缩.md)
 - [KV-aware routing](concepts/KV-aware routing.md)
 - [KV缓存压缩](concepts/KV缓存压缩.md)
+- [LLM Jaggedness](concepts/LLM Jaggedness.md)
 - [LLM 重排序](concepts/LLM 重排序.md)
 - [LLM-as-a-Verifier](concepts/LLM-as-a-Verifier.md)
 - [MSA](concepts/MSA.md)
@@ -5423,8 +5488,10 @@ last_updated: 2026-05-01
 - [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
 - [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
 - [Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化](syntheses/Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化.md)
+- [从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环](syntheses/从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环.md)
 - [大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理](syntheses/大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理.md)
 - [大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进](syntheses/大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进.md)
+- [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
 
 ## 提示工程
 ### Concepts
@@ -5535,6 +5602,7 @@ last_updated: 2026-05-01
 ### Synthesiss
 - [AI Agent 安全攻防全景：从提示注入到隐私计算的多层防御体系演进](syntheses/AI Agent 安全攻防全景：从提示注入到隐私计算的多层防御体系演进.md)
 - [AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱](syntheses/AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱.md)
+- [Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言](syntheses/Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言.md)
 - [Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构](syntheses/Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构.md)
 - [Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路](syntheses/Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路.md)
 - [LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略](syntheses/LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略.md)
@@ -5630,6 +5698,7 @@ last_updated: 2026-05-01
 - [摘要：The AI war has just started: ChatGPT 5.5 vs Claude Opus 4.7](summaries/摘要：The AI war has just started- ChatGPT 5.5 vs Claude Opus 4.7.md)
 - [摘要：The Self-Healing Agent Harness](summaries/摘要：The Self-Healing Agent Harness.md)
 - [摘要：The brain's sample efficiency doesn't come from architecture. It comes from loss functions.](summaries/摘要：The brain's sample efficiency doesn't come from architecture. It comes from loss functions.md)
+- [摘要：The new Grok-4.3 from @xai is live on OpenRouter!](summaries/摘要：The new Grok-4.3 from @xai is live on OpenRouter!.md)
 - [摘要：Tuning Deep Agents to Work Well with Different Models](summaries/摘要：Tuning Deep Agents to Work Well with Different Models.md)
 - [摘要：Xiaomi MiMo-V2.5 Series: Pushing Open-Source Agents Forward](summaries/摘要：Xiaomi MiMo-V2.5 Series- Pushing Open-Source Agents Forward.md)
 - [摘要：刚刚，千问最强模型发布，登顶国产最佳](summaries/摘要：刚刚，千问最强模型发布，登顶国产最佳.md)
@@ -5746,6 +5815,7 @@ last_updated: 2026-05-01
 - [摘要：首发Omni-Flow流式全模态架构，消费级显卡就能跑](summaries/摘要：首发Omni-Flow流式全模态架构，消费级显卡就能跑.md)
 
 ### Synthesiss
+- [从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环](syntheses/从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环.md)
 - [大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理](syntheses/大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理.md)
 
 ## 浏览器自动化
@@ -5989,6 +6059,7 @@ last_updated: 2026-05-01
 - [Heuristics-first Parsing](concepts/Heuristics-first Parsing.md)
 - [Hot Cache](concepts/Hot Cache.md)
 - [Ingest 摄入流程](concepts/Ingest 摄入流程.md)
+- [JSON Canvas](concepts/JSON Canvas.md)
 - [Join Path Discovery](concepts/Join Path Discovery.md)
 - [KVM 微虚拟机](concepts/KVM 微虚拟机.md)
 - [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)
@@ -6530,6 +6601,7 @@ last_updated: 2026-05-01
 - [摘要：Skill Graph > SKILL.md 渐进式披露典范](summaries/摘要：Skill Graph  SKILL.md 渐进式披露典范.md)
 - [摘要：SmartClip v0.1.2 发布公告](summaries/摘要：SmartClip v0.1.2 发布公告.md)
 - [摘要：Spool：把你的 AI 对话和书签变成本地搜索引擎](summaries/摘要：Spool：把你的 AI 对话和书签变成本地搜索引擎.md)
+- [摘要：THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.](summaries/摘要：THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.md)
 - [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)
 - [摘要：The @karpathy SOUL is now live:](summaries/摘要：The @karpathy SOUL is now live-.md)
 - [摘要：The AI Native Human —— 为什么你其实只是个办了 AI 包月会员卡的山顶洞人？](summaries/摘要：The AI Native Human —— 为什么你其实只是个办了 AI 包月会员卡的山顶洞人？.md)
@@ -6605,6 +6677,7 @@ last_updated: 2026-05-01
 - [AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统](syntheses/AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统.md)
 - [Coding Agent 驱动的知识管理范式迁移：从被动文档到可编译项目知识系统的架构路径](syntheses/Coding Agent 驱动的知识管理范式迁移：从被动文档到可编译项目知识系统的架构路径.md)
 - [Notion AI Agent 能力边界与「指挥部」演进路径：从知识库到执行中枢](syntheses/Notion AI Agent 能力边界与「指挥部」演进路径：从知识库到执行中枢.md)
+- [OpenClaw 知识沉淀的记忆化路径：当文件即大脑遇上三阶段记忆巩固，知识管理与长期记忆在 Agent 原生架构中的共演闭环](syntheses/OpenClaw 知识沉淀的记忆化路径：当文件即大脑遇上三阶段记忆巩固，知识管理与长期记忆在 Agent 原生架构中的共演闭环.md)
 - [从知识获取到技能封装：Agent 技能与知识管理的双向融合路径](syntheses/从知识获取到技能封装：Agent 技能与知识管理的双向融合路径.md)
 - [可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto/DeFi 协议栈的跨域范式碰撞](syntheses/可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto-DeFi 协议栈的跨域范式碰撞.md)
 - [多智能体知识协作的上下文治理：知识管理×上下文管理×Agent 协作模式如何在 Token 预算约束下形成知识流动的组织拓扑](syntheses/多智能体知识协作的上下文治理：知识管理×上下文管理×Agent 协作模式如何在 Token 预算约束下形成知识流动的组织拓扑.md)
@@ -6734,6 +6807,7 @@ last_updated: 2026-05-01
 - [Claude Code Handoff](concepts/Claude Code Handoff.md)
 - [Claude Code Hooks](concepts/Claude Code Hooks.md)
 - [GitHub 私有仓库](concepts/GitHub 私有仓库.md)
+- [JSON Canvas](concepts/JSON Canvas.md)
 - [Karpathy LLM Wiki 方法论](concepts/Karpathy LLM Wiki 方法论.md)
 - [LLM+Markdown+Wiki 知识库](concepts/LLM+Markdown+Wiki 知识库.md)
 - [Obsidian Skills](concepts/Obsidian Skills.md)
@@ -6791,6 +6865,7 @@ last_updated: 2026-05-01
 - [摘要：Obsidian+OpenClaw 组合技重构AI知识管理体系](summaries/摘要：Obsidian+OpenClaw 组合技重构AI知识管理体系.md)
 - [摘要：Obsidian-agent-client 插件——多 AI Agent 无缝切换](summaries/摘要：Obsidian-agent-client 插件——多 AI Agent 无缝切换.md)
 - [摘要：OpenClaw Memory Web UI——AI知识库的人侧管理层](summaries/摘要：OpenClaw Memory Web UI——AI知识库的人侧管理层.md)
+- [摘要：THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.](summaries/摘要：THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.md)
 - [摘要：custom slash commands](summaries/摘要：custom slash commands.md)
 - [摘要：markdown knowledge bases](summaries/摘要：markdown knowledge bases.md)
 - [摘要：今年最让我心动的 AI 产品来了——Tolaria，一个轻量版 Obsidian，专为 AI 而生的 macOS 笔记应用。](summaries/摘要：今年最让我心动的 AI 产品来了——Tolaria，一个轻量版 Obsidian，专为 AI 而生的 macOS 笔记应用。.md)
@@ -6879,6 +6954,9 @@ last_updated: 2026-05-01
 - [摘要：这几天VPN又大拉闸了，建议不想一直折腾网络的人买个VPS自建节点，效果好太多](summaries/摘要：这几天VPN又大拉闸了，建议不想一直折腾网络的人买个VPS自建节点，效果好太多.md)
 - [摘要：阿里开源 OpenSandbox：让 AI Agent 不再「裸奔」的沙箱基础设施](summaries/摘要：阿里开源 OpenSandbox：让 AI Agent 不再「裸奔」的沙箱基础设施.md)
 - [摘要：阿里开源OpenSandbox：AI智能体的生产级沙盒来了](summaries/摘要：阿里开源OpenSandbox：AI智能体的生产级沙盒来了.md)
+
+### Synthesiss
+- [从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环](syntheses/从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环.md)
 
 ## 视频/3D
 ### Concepts
@@ -7011,6 +7089,7 @@ last_updated: 2026-05-01
 - [RULER](concepts/RULER.md)
 - [Reward Hacking](concepts/Reward Hacking.md)
 - [Scaling Law](concepts/Scaling Law.md)
+- [Sparse Autoencoder](concepts/Sparse Autoencoder.md)
 - [Sparse Reference Attention](concepts/Sparse Reference Attention.md)
 - [System Prompt Learning](concepts/System Prompt Learning.md)
 - [Tic 词](concepts/Tic 词.md)
@@ -7219,6 +7298,7 @@ last_updated: 2026-05-01
 - [摘要：AutoDarwin：让你的链上交易策略像生物一样自我进化](summaries/摘要：AutoDarwin：让你的链上交易策略像生物一样自我进化.md)
 - [摘要：BTC 抄底信号体系：用五个链上指标，等最佳买点同时亮灯](summaries/摘要：BTC 抄底信号体系：用五个链上指标，等最佳买点同时亮灯.md)
 - [摘要：Building a $1K/Day Wolf Hour System on Polymarket With Claude - Full Guide](summaries/摘要：Building a $1K-Day Wolf Hour System on Polymarket With Claude - Full Guide.md)
+- [摘要：Chinese quant built a perfect BTC price simulation engine with MiroFish](summaries/摘要：Chinese quant built a perfect BTC price simulation engine with MiroFish.md)
 - [摘要：CyberMolt：一键领养带币安全套技能的 AI 交易 Agent](summaries/摘要：CyberMolt：一键领养带币安全套技能的 AI 交易 Agent.md)
 - [摘要：GitHub 本周霸榜第一，FinceptTerminal 你将拥一个24H为你工作的金融分析专家!](summaries/摘要：GitHub 本周霸榜第一，FinceptTerminal 你将拥一个24H为你工作的金融分析专家!.md)
 - [摘要：I asked PolyClaw Agent to find me best oil trader on Polymarket. He found an absolute monster.](summaries/摘要：I asked PolyClaw Agent to find me best oil trader on Polymarket. He found an absolute monster.md)
@@ -7259,7 +7339,10 @@ last_updated: 2026-05-01
 ### Synthesiss
 - [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
 - [加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径](syntheses/加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径.md)
+- [协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式](syntheses/协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式.md)
 - [注意力套利的结构同构：量化交易信号管线如何映射社交内容自动化的采集—生产—分发架构](syntheses/注意力套利的结构同构：量化交易信号管线如何映射社交内容自动化的采集—生产—分发架构.md)
+- [记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构](syntheses/记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构.md)
+- [量化交易 Agent 全栈能力分化：从信号提取到策略自进化的五层架构范式与产品形态演进路径](syntheses/量化交易 Agent 全栈能力分化：从信号提取到策略自进化的五层架构范式与产品形态演进路径.md)
 - [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)
 
 ## 链上协议
@@ -7371,6 +7454,7 @@ last_updated: 2026-05-01
 - [AI Agent 链上经济协议栈：从身份注册到自主商务的基础设施分层与商业模式演进](syntheses/AI Agent 链上经济协议栈：从身份注册到自主商务的基础设施分层与商业模式演进.md)
 - [AI × Crypto 融合全景：从链上基础设施到自主交易 Agent 的技术栈与策略演进](syntheses/AI × Crypto 融合全景：从链上基础设施到自主交易 Agent 的技术栈与策略演进.md)
 - [加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径](syntheses/加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径.md)
+- [协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式](syntheses/协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式.md)
 - [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)
 
 ## 长期记忆
@@ -7624,6 +7708,7 @@ last_updated: 2026-05-01
 - [Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南](syntheses/Agent 框架的记忆架构分化：从外接插件到记忆优先底座的设计哲学对峙与选型指南.md)
 - [Agent 编排与记忆系统的协同演化：从上下文工程到自主人格的架构融合光谱](syntheses/Agent 编排与记忆系统的协同演化：从上下文工程到自主人格的架构融合光谱.md)
 - [Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑](syntheses/Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑.md)
+- [OpenClaw 知识沉淀的记忆化路径：当文件即大脑遇上三阶段记忆巩固，知识管理与长期记忆在 Agent 原生架构中的共演闭环](syntheses/OpenClaw 知识沉淀的记忆化路径：当文件即大脑遇上三阶段记忆巩固，知识管理与长期记忆在 Agent 原生架构中的共演闭环.md)
 - [OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱](syntheses/OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱.md)
 - [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
 - [可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto/DeFi 协议栈的跨域范式碰撞](syntheses/可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto-DeFi 协议栈的跨域范式碰撞.md)
@@ -7631,6 +7716,7 @@ last_updated: 2026-05-01
 - [知识 Wiki 系统大升级：V2 设计决策与执行全记录](syntheses/知识 Wiki 系统大升级：V2 设计决策与执行全记录.md)
 - [知识代谢的三相循环：知识获取、上下文窗口化与长期记忆沉淀如何形成 Agent 认知的动态平衡](syntheses/知识代谢的三相循环：知识获取、上下文窗口化与长期记忆沉淀如何形成 Agent 认知的动态平衡.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
+- [记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构](syntheses/记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构.md)
 
 ## Indexs（所有index）
 - [Wiki Schema（规则文件）](index/Wiki Schema（规则文件）.md)
@@ -7852,6 +7938,7 @@ last_updated: 2026-05-01
 - [摘要：Anthropic说：网传的Harness思路过时了，做这3件事就够！](summaries/摘要：Anthropic说：网传的Harness思路过时了，做这3件事就够！.md)
 - [摘要：Apple Silicon 上的 vLLM 终于原生 Swift/Metal 了！](summaries/摘要：Apple Silicon 上的 vLLM 终于原生 Swift-Metal 了！.md)
 - [摘要：Architecture Diagram Generator：用 Claude Skill 30 秒画出一张架构图艺术品](summaries/摘要：Architecture Diagram Generator：用 Claude Skill 30 秒画出一张架构图艺术品.md)
+- [摘要：Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL!](summaries/摘要：Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL!.md)
 - [摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.](summaries/摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.md)
 - [摘要：AutoAgent：让 AI 自己调自己，跑一晚上超越所有人工方案](summaries/摘要：AutoAgent：让 AI 自己调自己，跑一晚上超越所有人工方案.md)
 - [摘要：AutoDarwin：让你的链上交易策略像生物一样自我进化](summaries/摘要：AutoDarwin：让你的链上交易策略像生物一样自我进化.md)
@@ -7891,6 +7978,7 @@ last_updated: 2026-05-01
 - [摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动](summaries/摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动.md)
 - [摘要：Chainbase 2026 年 2 月月报：AI Agent 的链上数据层正在成形](summaries/摘要：Chainbase 2026 年 2 月月报：AI Agent 的链上数据层正在成形.md)
 - [摘要：Chat Bot 加一个循环，就进化成了 Agent](summaries/摘要：Chat Bot 加一个循环，就进化成了 Agent.md)
+- [摘要：Chinese quant built a perfect BTC price simulation engine with MiroFish](summaries/摘要：Chinese quant built a perfect BTC price simulation engine with MiroFish.md)
 - [摘要：Chrome DevTools MCP：让 AI 助手直接操控你正在用的浏览器](summaries/摘要：Chrome DevTools MCP：让 AI 助手直接操控你正在用的浏览器.md)
 - [摘要：ChromeAppHeroes：25K Star 的 Chrome 插件军火库，把浏览器变成生产力神器](summaries/摘要：ChromeAppHeroes：25K Star 的 Chrome 插件军火库，把浏览器变成生产力神器.md)
 - [摘要：Claude + Obsidian | How to use your second brain](summaries/摘要：Claude + Obsidian  How to use your second brain.md)
@@ -8000,6 +8088,7 @@ last_updated: 2026-05-01
 - [摘要：Cursor 3.0 ——以智能体为中心的下一代软件开发环境](summaries/摘要：Cursor 3.0 ——以智能体为中心的下一代软件开发环境.md)
 - [摘要：Cursor SDK — 用编程方式构建与 Cursor 同源的 AI 编码 Agent](summaries/摘要：Cursor SDK — 用编程方式构建与 Cursor 同源的 AI 编码 Agent.md)
 - [摘要：Cursor SDK 发布 — 将生产级编程 Agent 变为可嵌入基础设施](summaries/摘要：Cursor SDK 发布 — 将生产级编程 Agent 变为可嵌入基础设施.md)
+- [摘要：Cursor Security Review — Find what pattern matching engines miss](summaries/摘要：Cursor Security Review — Find what pattern matching engines miss.md)
 - [摘要：Cursor can now respond by creating interactive canvases to visually represent information.](summaries/摘要：Cursor can now respond by creating interactive canvases to visually represent information.md)
 - [摘要：Cursor × NVIDIA：多智能体系统用 3 周把 CUDA 内核加速 38%](summaries/摘要：Cursor × NVIDIA：多智能体系统用 3 周把 CUDA 内核加速 38%.md)
 - [摘要：CyberMolt：一键领养带币安全套技能的 AI 交易 Agent](summaries/摘要：CyberMolt：一键领养带币安全套技能的 AI 交易 Agent.md)
@@ -8193,6 +8282,7 @@ last_updated: 2026-05-01
 - [摘要：Introducing expanded coverage for image generation models in Hermes Agent and Nous Portal Tool Gateway!](summaries/摘要：Introducing expanded coverage for image generation models in Hermes Agent and Nous Portal Tool Gateway!.md)
 - [摘要：Jacob Posel 的「七天 700 万」：一场关于 OpenClaw 与 Polymarket 的反向炒作解析](summaries/摘要：Jacob Posel 的「七天 700 万」：一场关于 OpenClaw 与 Polymarket 的反向炒作解析.md)
 - [摘要：KAT-Coder-ProV2，最近一个让我意外的 Coding 模型](summaries/摘要：KAT-Coder-ProV2，最近一个让我意外的 Coding 模型.md)
+- [摘要：Karpathy AI Ascent 2026 三大新视野](summaries/摘要：Karpathy AI Ascent 2026 三大新视野.md)
 - [摘要：Karpathy AI Ascent 2026：从 Vibe Coding 到 Agentic Engineering](summaries/摘要：Karpathy AI Ascent 2026：从 Vibe Coding 到 Agentic Engineering.md)
 - [摘要：Karpathy LLM Wiki 个人知识库方法论](summaries/摘要：Karpathy LLM Wiki 个人知识库方法论.md)
 - [摘要：Karpathy 今天这个帖子，确实说到我心坎里去了。很好的解释了为什么你会感觉推上和现实空间里存在两种对 AI 的看法。](summaries/摘要：Karpathy 今天这个帖子，确实说到我心坎里去了。很好的解释了为什么你会感觉推上和现实空间里存在两种对 AI 的看法。.md)
@@ -8221,6 +8311,7 @@ last_updated: 2026-05-01
 - [摘要：Last week, we released a preview of memories in Codex.](summaries/摘要：Last week, we released a preview of memories in Codex.md)
 - [摘要：Latent Briefing: Efficient Memory Sharing for Multi-Agent Systems via KV Cache Compaction](summaries/摘要：Latent Briefing- Efficient Memory Sharing for Multi-Agent Systems via KV Cache Compaction.md)
 - [摘要：Learn more in the official documentation](summaries/摘要：Learn more in the official documentation.md)
+- [摘要：Let's talk about why Cursor's agent harness is so good.](summaries/摘要：Let's talk about why Cursor's agent harness is so good.md)
 - [摘要：LeviX：用五个 AI Agent 帮你读懂预测市场，电竞+AI 的大胆组合](summaries/摘要：LeviX：用五个 AI Agent 帮你读懂预测市场，电竞+AI 的大胆组合.md)
 - [摘要：Lib 开窍？发布面向人类和Agent的视频工具](summaries/摘要：Lib 开窍？发布面向人类和Agent的视频工具.md)
 - [摘要：LibTV实测，Agent们终于不再需要模仿人类来使用软件了](summaries/摘要：LibTV实测，Agent们终于不再需要模仿人类来使用软件了.md)
@@ -8343,6 +8434,7 @@ last_updated: 2026-05-01
 - [摘要：OpenClaw Memory Web UI——AI知识库的人侧管理层](summaries/摘要：OpenClaw Memory Web UI——AI知识库的人侧管理层.md)
 - [摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？](summaries/摘要：OpenClaw Orchestrator 模式：一条提示词让智能体效率提升 10 倍？.md)
 - [摘要：OpenClaw find-skills：让你的 AI 龙虾「不会就自动学」](summaries/摘要：OpenClaw find-skills：让你的 AI 龙虾「不会就自动学」.md)
+- [摘要：OpenClaw v2026.4.29：群聊协调大升级，Codex Harness 成为推荐运行时](summaries/摘要：OpenClaw v2026.4.29：群聊协调大升级，Codex Harness 成为推荐运行时.md)
 - [摘要：OpenClaw × Bank of AI：让 AI Agent 在 TRON 链上自主套利、理财、付款](summaries/摘要：OpenClaw × Bank of AI：让 AI Agent 在 TRON 链上自主套利、理财、付款.md)
 - [摘要：OpenClaw × SearxNG：零成本给你的 AI 助手装上「搜索外脑」](summaries/摘要：OpenClaw × SearxNG：零成本给你的 AI 助手装上「搜索外脑」.md)
 - [摘要：OpenClaw 与 Hermes Agent 官方核心文档架构对比](summaries/摘要：OpenClaw 与 Hermes Agent 官方核心文档架构对比.md)
@@ -8444,6 +8536,7 @@ last_updated: 2026-05-01
 - [摘要：Qwen Code v0.14：用手机遥控你的服务器，终端 AI 编程助手的新玩法](summaries/摘要：Qwen Code v0.14：用手机遥控你的服务器，终端 AI 编程助手的新玩法.md)
 - [摘要：Qwen 推理性能最高提升8倍！](summaries/摘要：Qwen 推理性能最高提升8倍！.md)
 - [摘要：Qwen-Image-2.0-Pro 发布](summaries/摘要：Qwen-Image-2.0-Pro 发布.md)
+- [摘要：Qwen-Scope — Qwen 模型家族的开源稀疏自编码器工具套件](summaries/摘要：Qwen-Scope — Qwen 模型家族的开源稀疏自编码器工具套件.md)
 - [摘要：Qwen3.5 开源多模态大模型](summaries/摘要：Qwen3.5 开源多模态大模型.md)
 - [摘要：Qwen3.5-27B 蒸馏 Claude Opus 推理能力：在消费级显卡上跑出媲美前沿模型的推理链](summaries/摘要：Qwen3.5-27B 蒸馏 Claude Opus 推理能力：在消费级显卡上跑出媲美前沿模型的推理链.md)
 - [摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see how it performs:](summaries/摘要：Qwen3.6 35B-A3B dropped yesterday, so I ran it on 4 GPUs to see how it performs-.md)
@@ -8497,6 +8590,7 @@ last_updated: 2026-05-01
 - [摘要：SwarmClaw：从管理一个 AI 助手到指挥一支 AI 团队](summaries/摘要：SwarmClaw：从管理一个 AI 助手到指挥一支 AI 团队.md)
 - [摘要：Swarms：一个高中辍学少年打造的多智能体框架，能撑起一个加密叙事吗？](summaries/摘要：Swarms：一个高中辍学少年打造的多智能体框架，能撑起一个加密叙事吗？.md)
 - [摘要：Swarms：目前最复杂的多 Agent 框架，究竟创新在哪里？](summaries/摘要：Swarms：目前最复杂的多 Agent 框架，究竟创新在哪里？.md)
+- [摘要：THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.](summaries/摘要：THE CREATOR OF OBSIDIAN JUST TURNED YOUR NOTE VAULT INTO AN AI AGENT.md)
 - [摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK](summaries/摘要：TOP FIVE GITHUB REPOSITORIES THIS WEEK.md)
 - [摘要：TPAMI 2026 | 北大彭宇新团队提出CPL++框架，实现视觉定位模型的「自知之明」和「自我纠错」](summaries/摘要：TPAMI 2026  北大彭宇新团队提出CPL++框架，实现视觉定位模型的「自知之明」和「自我纠错」.md)
 - [摘要：Tailscale + SSH：用一行命令打通 Mac 和 Windows 的跨平台局域网](summaries/摘要：Tailscale + SSH：用一行命令打通 Mac 和 Windows 的跨平台局域网.md)
@@ -8518,6 +8612,7 @@ last_updated: 2026-05-01
 - [摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!](summaries/摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!.md)
 - [摘要：The free, open-source, unrestricted alternative to Higgsfield AI, Freepik, Krea, Openart AI.](summaries/摘要：The free, open-source, unrestricted alternative to Higgsfield AI, Freepik, Krea, Openart AI.md)
 - [摘要：The harness as the context manager](summaries/摘要：The harness as the context manager.md)
+- [摘要：The new Grok-4.3 from @xai is live on OpenRouter!](summaries/摘要：The new Grok-4.3 from @xai is live on OpenRouter!.md)
 - [摘要：The open agentic development loop](summaries/摘要：The open agentic development loop.md)
 - [摘要：The solo founder stack of 2026](summaries/摘要：The solo founder stack of 2026.md)
 - [摘要：Thin Harness, Fat Skills](summaries/摘要：Thin Harness, Fat Skills.md)
@@ -8655,6 +8750,7 @@ last_updated: 2026-05-01
 - [摘要：organ-based agent runtime](summaries/摘要：organ-based agent runtime.md)
 - [摘要：planktonXD：用 1000 美元和自动化机器人在 Polymarket 赚到 10 万美元的人](summaries/摘要：planktonXD：用 1000 美元和自动化机器人在 Polymarket 赚到 10 万美元的人.md)
 - [摘要：polymarket ctf exchange v2 分析](summaries/摘要：polymarket ctf exchange v2 分析.md)
+- [摘要：projects.md](summaries/摘要：projects.md.md)
 - [摘要：prompts.chat：全球第33热门开源仓库，150+ 角色 Prompt 让 AI 瞬间变专家](summaries/摘要：prompts.chat：全球第33热门开源仓库，150+ 角色 Prompt 让 AI 瞬间变专家.md)
 - [摘要：public-apis 开源 API 资源库](summaries/摘要：public-apis 开源 API 资源库.md)
 - [摘要：public-apis：把 1000+ 个免费 API 喂给 AI Agent，让它替你发现数据宝藏](summaries/摘要：public-apis：把 1000+ 个免费 API 喂给 AI Agent，让它替你发现数据宝藏.md)
@@ -9084,6 +9180,7 @@ last_updated: 2026-05-01
 - [摘要：迎接智能体的「觉醒时刻」：EverOS全球公测开启Agent Memory自进化序章](summaries/摘要：迎接智能体的「觉醒时刻」：EverOS全球公测开启Agent Memory自进化序章.md)
 - [摘要：这个 Skill 太硬了，刚开源就斩获 2.8K 星标！Agent 联网能力拉满！](summaries/摘要：这个 Skill 太硬了，刚开源就斩获 2.8K 星标！Agent 联网能力拉满！.md)
 - [摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。](summaries/摘要：这个51K星标的开源神器，让任何Agent都能一键切换所有模型。.md)
+- [摘要：这个小哥读完Anthropic关于智能体AI的博客后，我梳理出一套心智模型，用来理解并拆解智能体AI架构的设计逻辑。](summaries/摘要：这个小哥读完Anthropic关于智能体AI的博客后，我梳理出一套心智模型，用来理解并拆解智能体AI架构的设计逻辑。.md)
 - [摘要：这个开源工具太猛了！让 Claude Code 成本爆降 89%](summaries/摘要：这个开源工具太猛了！让 Claude Code 成本爆降 89%.md)
 - [摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活](summaries/摘要：这个开源牛马Skills180+大合集，专注牛马优雅干活.md)
 - [摘要：这几天VPN又大拉闸了，建议不想一直折腾网络的人买个VPS自建节点，效果好太多](summaries/摘要：这几天VPN又大拉闸了，建议不想一直折腾网络的人买个VPS自建节点，效果好太多.md)
@@ -9151,6 +9248,7 @@ last_updated: 2026-05-01
 - [AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势](syntheses/AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势.md)
 - [AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路内容工厂的工作流范式分化](syntheses/AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路内容工厂的工作流范式分化.md)
 - [AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施](syntheses/AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施.md)
+- [AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径](syntheses/AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径.md)
 - [AI 开发工具的商业化拓扑：从模型中转到算力租赁的基础设施变现路径分化与生态博弈](syntheses/AI 开发工具的商业化拓扑：从模型中转到算力租赁的基础设施变现路径分化与生态博弈.md)
 - [AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统](syntheses/AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统.md)
 - [AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑](syntheses/AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑.md)
@@ -9175,6 +9273,7 @@ last_updated: 2026-05-01
 - [Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱](syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md)
 - [Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融](syntheses/Agent 能力交付的全栈管线：开发工具基座、技能原子封装与工作流自编织的三重边界消融.md)
 - [Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进](syntheses/Agent 能力获取的工具化路径：从浏览器接管到 CLI 生态的「开发工具 × 技能」融合演进.md)
+- [Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言](syntheses/Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言.md)
 - [Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑](syntheses/Agent 记忆管线的三层带宽博弈：上下文窗口、长期记忆与 RAG 检索如何在 Token 预算约束下形成信息流动的漏斗拓扑.md)
 - [Claude Code 最佳配置实践：从四层架构到成本治理的工程化调优全景](syntheses/Claude Code 最佳配置实践：从四层架构到成本治理的工程化调优全景.md)
 - [Codex 最佳配置实践：从 AGENTS.md 到插件生态与多 Agent 编排的工程化调优全景](syntheses/Codex 最佳配置实践：从 AGENTS.md 到插件生态与多 Agent 编排的工程化调优全景.md)
@@ -9211,12 +9310,14 @@ last_updated: 2026-05-01
 - [OpenClaw 技能生态深度解剖：从技能文件到自进化能力系统的架构分层与市场格局](syntheses/OpenClaw 技能生态深度解剖：从技能文件到自进化能力系统的架构分层与市场格局.md)
 - [OpenClaw 最佳配置实战指南：从文件分层到成本控制的七层配置决策树](syntheses/OpenClaw 最佳配置实战指南：从文件分层到成本控制的七层配置决策树.md)
 - [OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比](syntheses/OpenClaw 生态分化：从单体框架到多元变体的架构哲学与商业路径对比.md)
+- [OpenClaw 知识沉淀的记忆化路径：当文件即大脑遇上三阶段记忆巩固，知识管理与长期记忆在 Agent 原生架构中的共演闭环](syntheses/OpenClaw 知识沉淀的记忆化路径：当文件即大脑遇上三阶段记忆巩固，知识管理与长期记忆在 Agent 原生架构中的共演闭环.md)
 - [OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱](syntheses/OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱.md)
 - [OpenClaw 记忆编排三体问题：文件即认知基底如何让记忆与编排在同一架构中共演为自主 Agent](syntheses/OpenClaw 记忆编排三体问题：文件即认知基底如何让记忆与编排在同一架构中共演为自主 Agent.md)
 - [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
 - [Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化](syntheses/Token 路由与技能路由的同构映射：推理优化范式如何预言 Coding Agent 能力治理的下一步演化.md)
 - [上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略](syntheses/上下文工程全景：从窗口填充到注意力预算治理的六种设计范式与资源分配策略.md)
 - [从技能图谱到自优化管线：Skill 组合的可执行链路构建与反馈驱动的演化机制](syntheses/从技能图谱到自优化管线：Skill 组合的可执行链路构建与反馈驱动的演化机制.md)
+- [从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环](syntheses/从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环.md)
 - [从知识获取到技能封装：Agent 技能与知识管理的双向融合路径](syntheses/从知识获取到技能封装：Agent 技能与知识管理的双向融合路径.md)
 - [从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施](syntheses/从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施.md)
 - [内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式](syntheses/内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式.md)
@@ -9224,6 +9325,7 @@ last_updated: 2026-05-01
 - [加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进](syntheses/加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进.md)
 - [加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂](syntheses/加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂.md)
 - [加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径](syntheses/加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径.md)
+- [协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式](syntheses/协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式.md)
 - [可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto/DeFi 协议栈的跨域范式碰撞](syntheses/可执行知识的信任验证同构：Coding Agent 知识记忆系统与 Crypto-DeFi 协议栈的跨域范式碰撞.md)
 - [多智能体产品架构的商业引力场：协作模式如何同时定义产品品类边界与价值捕获拓扑](syntheses/多智能体产品架构的商业引力场：协作模式如何同时定义产品品类边界与价值捕获拓扑.md)
 - [多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径](syntheses/多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径.md)
@@ -9236,6 +9338,7 @@ last_updated: 2026-05-01
 - [开发工具如何重塑 Agent 时代的工作流：从部署底座到远程操控的工具化路径演进](syntheses/开发工具如何重塑 Agent 时代的工作流：从部署底座到远程操控的工具化路径演进.md)
 - [开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径](syntheses/开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径.md)
 - [开发工具驱动的知识管理新范式：从手动收藏到 Agent 原生知识编译的工具链演进](syntheses/开发工具驱动的知识管理新范式：从手动收藏到 Agent 原生知识编译的工具链演进.md)
+- [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
 - [技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路](syntheses/技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路.md)
 - [模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈](syntheses/模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈.md)
 - [模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界](syntheses/模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界.md)
@@ -9251,4 +9354,6 @@ last_updated: 2026-05-01
 - [约束栈的分形同构：Harness 工程运行时护栏如何映射商业合规、AI 对齐与政策监管的多层约束拓扑](syntheses/约束栈的分形同构：Harness 工程运行时护栏如何映射商业合规、AI 对齐与政策监管的多层约束拓扑.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
 - [训练/微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界](syntheses/训练-微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界.md)
+- [记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构](syntheses/记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构.md)
+- [量化交易 Agent 全栈能力分化：从信号提取到策略自进化的五层架构范式与产品形态演进路径](syntheses/量化交易 Agent 全栈能力分化：从信号提取到策略自进化的五层架构范式与产品形态演进路径.md)
 - [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)
