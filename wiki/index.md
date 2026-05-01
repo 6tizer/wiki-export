@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1934, "summary": 1422, "synthesis": 118, "entity": 979, "index": 2, "lint-report": 62, "qa": 4}
-total: 4521
+type_counts: {"concept": 1931, "summary": 1425, "synthesis": 118, "entity": 981, "index": 2, "lint-report": 63, "qa": 4}
+total: 4524
 last_updated: 2026-05-01
 ---
 
 # 📚 知识 Wiki Index
 
-> 1934 concepts · 979 entitys · 2 indexs · 62 lint-reports · 4 qas · 1422 summarys · 118 synthesiss
+> 1931 concepts · 981 entitys · 2 indexs · 63 lint-reports · 4 qas · 1425 summarys · 118 synthesiss
 > 导出时间: 2026-05-01
 
 ## 使用方式
@@ -426,6 +426,7 @@ last_updated: 2026-05-01
 - [模型福利](concepts/模型福利.md)
 - [电路追踪](concepts/电路追踪.md)
 - [知识流形](concepts/知识流形.md)
+- [联邦学习](concepts/联邦学习.md)
 - [评估意识](concepts/评估意识.md)
 - [隐藏信号传递](concepts/隐藏信号传递.md)
 
@@ -721,6 +722,7 @@ last_updated: 2026-05-01
 - [Smallville](entities/Smallville.md)
 - [SuperConductor](entities/SuperConductor.md)
 - [SuperHQ](entities/SuperHQ.md)
+- [Symphony](entities/Symphony.md)
 - [Telegram](entities/Telegram.md)
 - [TinyAgentOS](entities/TinyAgentOS.md)
 - [TradingAgents-CN](entities/TradingAgents-CN.md)
@@ -834,6 +836,7 @@ last_updated: 2026-05-01
 - [摘要：用了这么久 Claude Code，很多人都在研究 CLAUDE.md、Hooks、Sub-Agent，但其实它 GitHub 仓库里还藏着一批官方插件，很多人根本没注意到。](summaries/摘要：用了这么久 Claude Code，很多人都在研究 CLAUDE.md、Hooks、Sub-Agent，但其实它 GitHub 仓库里还藏着一批官方插件，很多人根本没注意到。.md)
 - [摘要：终于有了一个用龙虾而不是 Claude Code 的理由](summaries/摘要：终于有了一个用龙虾而不是 Claude Code 的理由.md)
 - [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)
+- [摘要：软件 3.0 时代来临](summaries/摘要：软件 3.0 时代来临.md)
 - [摘要：都是你能部署的：Qwen3.6和Gemma4，谁更适合作为你的下一代本地MoE模型？](summaries/摘要：都是你能部署的：Qwen3.6和Gemma4，谁更适合作为你的下一代本地MoE模型？.md)
 - [摘要：高效率，超快速，极易用](summaries/摘要：高效率，超快速，极易用.md)
 - [摘要：📦New in · OKX Agent Trade Kit 上新！](summaries/摘要：📦New in · OKX Agent Trade Kit 上新！.md)
@@ -1058,7 +1061,6 @@ last_updated: 2026-05-01
 - [情绪雷达](concepts/情绪雷达.md)
 - [托管式链上交易 API](concepts/托管式链上交易 API.md)
 - [提示词工作流化](concepts/提示词工作流化.md)
-- [提示词缓存](concepts/提示词缓存.md)
 - [搜索增强语言模型](concepts/搜索增强语言模型.md)
 - [数据窃取陷阱](concepts/数据窃取陷阱.md)
 - [最小原子工具集](concepts/最小原子工具集.md)
@@ -1654,7 +1656,6 @@ last_updated: 2026-05-01
 - [Success Detection](concepts/Success Detection.md)
 - [Super Agent](concepts/Super Agent.md)
 - [SuperAgent Harness](concepts/SuperAgent Harness.md)
-- [Symphony](concepts/Symphony.md)
 - [TAOR 循环](concepts/TAOR 循环.md)
 - [Task Horizon](concepts/Task Horizon.md)
 - [Telegram 群组路由](concepts/Telegram 群组路由.md)
@@ -2327,7 +2328,6 @@ last_updated: 2026-05-01
 - [用户指纹复刻](concepts/用户指纹复刻.md)
 - [目录级会话绑定](concepts/目录级会话绑定.md)
 - [程序化工作流](concepts/程序化工作流.md)
-- [第二大脑系统](concepts/第二大脑系统.md)
 - [终端编程 Agent](concepts/终端编程 Agent.md)
 - [终端输出净化](concepts/终端输出净化.md)
 - [结构化意图表示层](concepts/结构化意图表示层.md)
@@ -3189,6 +3189,7 @@ last_updated: 2026-05-01
 - [摘要：清华团队预言：90%的人将脱离谋生劳动，「零人公司」时代来了！](summaries/摘要：清华团队预言：90%的人将脱离谋生劳动，「零人公司」时代来了！.md)
 - [摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经](summaries/摘要：用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜42章经.md)
 - [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)
+- [摘要：软件 3.0 时代来临](summaries/摘要：软件 3.0 时代来临.md)
 
 ### Synthesiss
 - [Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱](syntheses/Agent 编排的开发工具化路径：从消息分发基础设施到远程 Agent 操控面板的工程落地图谱.md)
@@ -3269,12 +3270,10 @@ last_updated: 2026-05-01
 - [External Memory](concepts/External Memory.md)
 - [GEPA](concepts/GEPA.md)
 - [GGUF](concepts/GGUF.md)
-- [GR4AD](concepts/GR4AD.md)
 - [GRPO](concepts/GRPO.md)
 - [GSPruning](concepts/GSPruning.md)
 - [GUI-VLA](concepts/GUI-VLA.md)
 - [GatedDeltaNet](concepts/GatedDeltaNet.md)
-- [Goodput](concepts/Goodput.md)
 - [GraphRAG](concepts/GraphRAG.md)
 - [GraphWalks BFS](concepts/GraphWalks BFS.md)
 - [Grokking](concepts/Grokking.md)
@@ -3442,7 +3441,6 @@ last_updated: 2026-05-01
 - [统一语义空间](concepts/统一语义空间.md)
 - [编译式知识库](concepts/编译式知识库.md)
 - [群体智能预测](concepts/群体智能预测.md)
-- [联邦学习](concepts/联邦学习.md)
 - [脑机接口](concepts/脑机接口.md)
 - [自适应思考](concepts/自适应思考.md)
 - [自适应计算时间](concepts/自适应计算时间.md)
@@ -3933,7 +3931,6 @@ last_updated: 2026-05-01
 - [多智能体编排](concepts/多智能体编排.md)
 - [子 Agent 派生](concepts/子 Agent 派生.md)
 - [异常值逻辑](concepts/异常值逻辑.md)
-- [提示词缓存](concepts/提示词缓存.md)
 - [数据主权](concepts/数据主权.md)
 - [文件即大脑](concepts/文件即大脑.md)
 - [梦境思考](concepts/梦境思考.md)
@@ -4752,6 +4749,7 @@ last_updated: 2026-05-01
 - [摘要：我把 Karpathy 的 AutoResearch 搬到了软件开发领域，效果炸了](summaries/摘要：我把 Karpathy 的 AutoResearch 搬到了软件开发领域，效果炸了.md)
 - [摘要：最近开发 Slocal 过程中，UI真是太折磨我了！](summaries/摘要：最近开发 Slocal 过程中，UI真是太折磨我了！.md)
 - [摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助](summaries/摘要：等了五年，AI 终端 Warp 终于开源！OpenAI 赞助.md)
+- [摘要：软件 3.0 时代来临](summaries/摘要：软件 3.0 时代来临.md)
 - [摘要：这可能是东半球最丝滑的 Claude Code iOS 客户端了](summaries/摘要：这可能是东半球最丝滑的 Claude Code iOS 客户端了.md)
 
 ### Synthesiss
@@ -5085,6 +5083,7 @@ last_updated: 2026-05-01
 ### Summarys
 - [摘要：40 Claude Cowork Commands, Workflows & Automations Most Users Don't Know — The Complete List](summaries/摘要：40 Claude Cowork Commands, Workflows & Automations Most Users Don't Know — The Complete List.md)
 - [摘要：43 个排版模块，Agent 帮你一键完成公众号排版](summaries/摘要：43 个排版模块，Agent 帮你一键完成公众号排版.md)
+- [摘要：AI破局_06_GEO下_六步行动清单](summaries/摘要：AI破局_06_GEO下_六步行动清单.md)
 - [摘要：Agentic Video is HTML: Open Sourcing HyperFrames](summaries/摘要：Agentic Video is HTML- Open Sourcing HyperFrames.md)
 - [摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.](summaries/摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.md)
 - [摘要：Claude Design](summaries/摘要：Claude Design.md)
@@ -5107,6 +5106,7 @@ last_updated: 2026-05-01
 - [摘要：OpenAI Privacy Filter：1.5B MoE 隐私脱敏模型支持 128k 上下文](summaries/摘要：OpenAI Privacy Filter：1.5B MoE 隐私脱敏模型支持 128k 上下文.md)
 - [摘要：OpenClaw 烧 Token 的真相：最贵的不是写代码，而是 web fetch](summaries/摘要：OpenClaw 烧 Token 的真相：最贵的不是写代码，而是 web fetch.md)
 - [摘要：Perplexity做GEO太恐怖，3天网站流量破5w](summaries/摘要：Perplexity做GEO太恐怖，3天网站流量破5w.md)
+- [摘要：SEO 时代正在结束——GEO 生成式引擎优化入门](summaries/摘要：SEO 时代正在结束——GEO 生成式引擎优化入门.md)
 - [摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.](summaries/摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.md)
 - [摘要：ScreenKite 1.0：让 AI 替你剪视频的 macOS 录屏神器](summaries/摘要：ScreenKite 1.0：让 AI 替你剪视频的 macOS 录屏神器.md)
 - [摘要：Ship Safe v9.1.0](summaries/摘要：Ship Safe v9.1.0.md)
@@ -5546,6 +5546,7 @@ last_updated: 2026-05-01
 - [FinGPT](entities/FinGPT.md)
 - [FloatIM](entities/FloatIM.md)
 - [GEO Optimizer](entities/GEO Optimizer.md)
+- [GR4AD](entities/GR4AD.md)
 - [Gemini](entities/Gemini.md)
 - [HappyHorse](entities/HappyHorse.md)
 - [Helion](entities/Helion.md)
@@ -5656,6 +5657,7 @@ last_updated: 2026-05-01
 - [摘要：AI Super Quant：把资金费率套利和 Polymarket 对冲做成人人可用的面板](summaries/摘要：AI Super Quant：把资金费率套利和 Polymarket 对冲做成人人可用的面板.md)
 - [摘要：AI“中转站”月入百万？五问揭开Token交易真相！](summaries/摘要：AI“中转站”月入百万？五问揭开Token交易真相！.md)
 - [摘要：AI创业公司们，困在“眼前一黑”的账单里](summaries/摘要：AI创业公司们，困在“眼前一黑”的账单里.md)
+- [摘要：AI破局_06_GEO下_六步行动清单](summaries/摘要：AI破局_06_GEO下_六步行动清单.md)
 - [摘要：Abundance: Building an AI Capital Allocator](summaries/摘要：Abundance- Building an AI Capital Allocator.md)
 - [摘要：Add Codex seats with a $0 seat fee for a limited time.](summaries/摘要：Add Codex seats with a $0 seat fee for a limited time.md)
 - [摘要：Agent 不是你该做的事：OS 与 Agent-native 应用的分野](summaries/摘要：Agent 不是你该做的事：OS 与 Agent-native 应用的分野.md)
@@ -5723,6 +5725,7 @@ last_updated: 2026-05-01
 - [摘要：Preparing for Radical Transformation](summaries/摘要：Preparing for Radical Transformation.md)
 - [摘要：Re: M2.7 license — what changed and why](summaries/摘要：Re- M2.7 license — what changed and why.md)
 - [摘要：Remnawave：比 3x-ui 更现代的代理面板，俄罗斯团队打造的全自动化管理方案](summaries/摘要：Remnawave：比 3x-ui 更现代的代理面板，俄罗斯团队打造的全自动化管理方案.md)
+- [摘要：SEO 时代正在结束——GEO 生成式引擎优化入门](summaries/摘要：SEO 时代正在结束——GEO 生成式引擎优化入门.md)
 - [摘要：STRC：微策略打造的比特币资本炼油厂，以及它带来的反身性风险](summaries/摘要：STRC：微策略打造的比特币资本炼油厂，以及它带来的反身性风险.md)
 - [摘要：Shopify刚放了个大招，绝大多数人估计半年后才会反应过来。](summaries/摘要：Shopify刚放了个大招，绝大多数人估计半年后才会反应过来。.md)
 - [摘要：Smartclaw：用 AI 找到链上最值得跟踪的钱包和信号](summaries/摘要：Smartclaw：用 AI 找到链上最值得跟踪的钱包和信号.md)
@@ -6249,7 +6252,6 @@ last_updated: 2026-05-01
 - [签名指纹](concepts/签名指纹.md)
 - [红队演练](concepts/红队演练.md)
 - [编排与计算分离](concepts/编排与计算分离.md)
-- [联邦学习](concepts/联邦学习.md)
 - [能力分级开放](concepts/能力分级开放.md)
 - [脑机接口](concepts/脑机接口.md)
 - [虚拟卡风控](concepts/虚拟卡风控.md)
@@ -7388,6 +7390,7 @@ last_updated: 2026-05-01
 - [Dual-kernel](concepts/Dual-kernel.md)
 - [Expert parallelism](concepts/Expert parallelism.md)
 - [GDN Chunked Prefill](concepts/GDN Chunked Prefill.md)
+- [Goodput](concepts/Goodput.md)
 - [Harness-as-Policy](concepts/Harness-as-Policy.md)
 - [JIT 优化](concepts/JIT 优化.md)
 - [KV Cache 压缩](concepts/KV Cache 压缩.md)
@@ -7454,6 +7457,7 @@ last_updated: 2026-05-01
 - [FlashQLA](entities/FlashQLA.md)
 - [GPT-5.4 Pro](entities/GPT-5.4 Pro.md)
 - [GPT-5.5](entities/GPT-5.5.md)
+- [GR4AD](entities/GR4AD.md)
 - [Gemini Robotics-ER](entities/Gemini Robotics-ER.md)
 - [Gemma4-26B-A4B](entities/Gemma4-26B-A4B.md)
 - [Hy3 preview](entities/Hy3 preview.md)
@@ -8081,6 +8085,7 @@ last_updated: 2026-05-01
 - [研究资产](concepts/研究资产.md)
 - [确定性检索](concepts/确定性检索.md)
 - [稀疏矩阵图表示](concepts/稀疏矩阵图表示.md)
+- [第二大脑系统](concepts/第二大脑系统.md)
 - [组织级知识层](concepts/组织级知识层.md)
 - [编译式知识库](concepts/编译式知识库.md)
 - [编译真相+时间线模式](concepts/编译真相+时间线模式.md)
@@ -8279,6 +8284,7 @@ last_updated: 2026-05-01
 - [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29-4ec1ffa7.md)
 - [Lint Report 2026-04-30](lint-report/Lint Report 2026-04-30.md)
 - [Lint Report 2026-04-30 22:00](lint-report/Lint Report 2026-04-30 22-00.md)
+- [Lint Report 2026-05-01 10:00](lint-report/Lint Report 2026-05-01 10-00.md)
 
 ### Qas
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
@@ -8767,6 +8773,7 @@ last_updated: 2026-05-01
 - [确定性训练](concepts/确定性训练.md)
 - [组合泛化](concepts/组合泛化.md)
 - [聊天记录微调](concepts/聊天记录微调.md)
+- [联邦学习](concepts/联邦学习.md)
 - [自我进化 Agent](concepts/自我进化 Agent.md)
 - [自监督关联校正](concepts/自监督关联校正.md)
 - [自监督关联验证](concepts/自监督关联验证.md)
@@ -8818,7 +8825,6 @@ last_updated: 2026-05-01
 ## 记忆系统
 ### Concepts
 - [AAAK 方言](concepts/AAAK 方言.md)
-- [AI-Native Memory](concepts/AI-Native Memory.md)
 - [Agent 上下文数据库](concepts/Agent 上下文数据库.md)
 - [Agent 持续学习三层框架](concepts/Agent 持续学习三层框架.md)
 - [Agent-curated memory](concepts/Agent-curated memory.md)
@@ -8894,7 +8900,6 @@ last_updated: 2026-05-01
 - [知识库投毒](concepts/知识库投毒.md)
 - [神经修剪](concepts/神经修剪.md)
 - [端侧模型](concepts/端侧模型.md)
-- [第二大脑系统](concepts/第二大脑系统.md)
 - [综合式理解](concepts/综合式理解.md)
 - [自我进化 Skills 系统](concepts/自我进化 Skills 系统.md)
 - [自描述协议](concepts/自描述协议.md)
@@ -9286,6 +9291,7 @@ last_updated: 2026-05-01
 - [研究记忆](concepts/研究记忆.md)
 - [神经可塑性](concepts/神经可塑性.md)
 - [程序性记忆](concepts/程序性记忆.md)
+- [第二大脑系统](concepts/第二大脑系统.md)
 - [线程延续型自动化](concepts/线程延续型自动化.md)
 - [自我进化 Agent](concepts/自我进化 Agent.md)
 - [自生长人格](concepts/自生长人格.md)
@@ -9459,6 +9465,7 @@ last_updated: 2026-05-01
 - [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29-4ec1ffa7.md)
 - [Lint Report 2026-04-30](lint-report/Lint Report 2026-04-30.md)
 - [Lint Report 2026-04-30 22:00](lint-report/Lint Report 2026-04-30 22-00.md)
+- [Lint Report 2026-05-01 10:00](lint-report/Lint Report 2026-05-01 10-00.md)
 ## Qas（所有qa）
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
 - [QA：Wiki Agent 集群有哪些角色？职责边界是什么？](qa/QA：Wiki Agent 集群有哪些角色？职责边界是什么？.md)
@@ -9559,6 +9566,7 @@ last_updated: 2026-05-01
 - [摘要：AI手和脚，企业微信：wecom-cli](summaries/摘要：AI手和脚，企业微信：wecom-cli.md)
 - [摘要：AI时代，PM的那本「剧本」过时了](summaries/摘要：AI时代，PM的那本「剧本」过时了.md)
 - [摘要：AI智力天花板崩了！GPT-5.5 Pro视觉智商145，撞倒门萨俱乐部门槛](summaries/摘要：AI智力天花板崩了！GPT-5.5 Pro视觉智商145，撞倒门萨俱乐部门槛.md)
+- [摘要：AI破局_06_GEO下_六步行动清单](summaries/摘要：AI破局_06_GEO下_六步行动清单.md)
 - [摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车](summaries/摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车.md)
 - [摘要：Abacus.AI ChatLLM Teams：每月 10 美元，一个平台访问所有顶级大模型](summaries/摘要：Abacus.AI ChatLLM Teams：每月 10 美元，一个平台访问所有顶级大模型.md)
 - [摘要：Abundance: Building an AI Capital Allocator](summaries/摘要：Abundance- Building an AI Capital Allocator.md)
@@ -10220,6 +10228,7 @@ last_updated: 2026-05-01
 - [摘要：Rust 实现的 tect-brain 大更新：增加了 GitHub Trending & mcp 能力，交互体验大幅上升](summaries/摘要：Rust 实现的 tect-brain 大更新：增加了 GitHub Trending & mcp 能力，交互体验大幅上升.md)
 - [摘要：Rust-llm-wiki & Rust-mempalace合并，提供22 个 MCP 工具，Agent 终于有了"持久大脑"，持续的高质量上下文，这事靠谱了](summaries/摘要：Rust-llm-wiki & Rust-mempalace合并，提供22 个 MCP 工具，Agent 终于有了持久大脑，持续的高质量上下文，这事靠谱了.md)
 - [摘要：SALA架构——线性注意力+稀疏注意力拉满上下文能力](summaries/摘要：SALA架构——线性注意力+稀疏注意力拉满上下文能力.md)
+- [摘要：SEO 时代正在结束——GEO 生成式引擎优化入门](summaries/摘要：SEO 时代正在结束——GEO 生成式引擎优化入门.md)
 - [摘要：SHL0MS | HERMES AGENT](summaries/摘要：SHL0MS  HERMES AGENT.md)
 - [摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.](summaries/摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.md)
 - [摘要：STRC：微策略打造的比特币资本炼油厂，以及它带来的反身性风险](summaries/摘要：STRC：微策略打造的比特币资本炼油厂，以及它带来的反身性风险.md)
@@ -10836,6 +10845,7 @@ last_updated: 2026-05-01
 - [摘要：超22万OpenClaw实例暴露公网——Agent裸奔](summaries/摘要：超22万OpenClaw实例暴露公网——Agent裸奔.md)
 - [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)
 - [摘要：跌破100美元，Strategy的买币“永动机”卡壳了](summaries/摘要：跌破100美元，Strategy的买币“永动机”卡壳了.md)
+- [摘要：软件 3.0 时代来临](summaries/摘要：软件 3.0 时代来临.md)
 - [摘要：轻松掌握Anthropic官方给的五种"多Agent协作"模式](summaries/摘要：轻松掌握Anthropic官方给的五种多Agent协作模式.md)
 - [摘要：达尔文.skill正式发布，一个无限进化的skill系统！](summaries/摘要：达尔文.skill正式发布，一个无限进化的skill系统！.md)
 - [摘要：迎接智能体的「觉醒时刻」：EverOS全球公测开启Agent Memory自进化序章](summaries/摘要：迎接智能体的「觉醒时刻」：EverOS全球公测开启Agent Memory自进化序章.md)

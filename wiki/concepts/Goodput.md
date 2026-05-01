@@ -2,7 +2,7 @@
 title: Goodput
 type: concept
 tags:
-- LLM
+- 推理优化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

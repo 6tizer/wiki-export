@@ -4,12 +4,12 @@ type: concept
 tags:
 - 商业/生态
 - Crypto/DeFi
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/23b475860ee04614ab6d260cf7c123a0
+notion_url: https://www.notion.so/Tizer/23b475860ee04614ab6d260cf7c123a0
 notion_id: 23b47586-0ee0-4614-ab6d-260cf7c123a0
 ---
 

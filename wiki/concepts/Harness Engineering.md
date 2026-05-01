@@ -6,7 +6,7 @@ tags:
 - 上下文管理
 status: 审核中
 confidence: high
-last_compiled: '2026-04-30'
+last_compiled: '2026-05-01'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/b77f7ca635c34485855ccc89f4406e46
@@ -176,6 +176,8 @@ Harness Engineering 是围绕模型构建文件系统、执行环境、验证机
 - [摘要：holaOS — 开源 Agent Computer](summaries/摘要：holaOS — 开源 Agent Computer.md)（[原文](https://x.com/JeliPenguin/status/2049147344315388281)）
 
 - [摘要：OpenAI开源Symphony：给每一个任务配一个永不下班的 AI员工](summaries/摘要：OpenAI开源Symphony：给每一个任务配一个永不下班的 AI员工.md)（[原文](https://x.com/vista8/status/2049484504444834126)）
+
+- [摘要：软件 3.0 时代来临](summaries/摘要：软件 3.0 时代来临.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483261&idx=1&sn=cb6b022f6372657475687143a4ab33bb&chksm=860f87620bc9685632e714cdaddbe215724ff7e2328e46057f2f9ff940644865d447f06ac7e5#rd)）
 
 ## 关联概念
 

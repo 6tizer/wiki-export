@@ -10,7 +10,7 @@ confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/f7bf57a9331043c38914550648f2465c
+notion_url: https://www.notion.so/Tizer/f7bf57a9331043c38914550648f2465c
 notion_id: f7bf57a9-3310-43c3-8914-550648f2465c
 ---
 
@@ -65,6 +65,10 @@ GEO 的核心目标是让品牌在 AI 助手生成回答时被引用、被推荐
 - [摘要：Perplexity做GEO太恐怖，3天网站流量破5w](summaries/摘要：Perplexity做GEO太恐怖，3天网站流量破5w.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzY5NzExMTcwMQ%3D%3D&mid=2247483881&idx=1&sn=fed427c6d0136edbc261ab0119af9562&chksm=f522f05b3273e081092074ba9774308f72abaf930156e8b1fbfe80be63f137123775c10a84c5#rd)）
 
 - [摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.](summaries/摘要：Audit, fix, and optimize any website to be cited by ChatGPT, Perplexity, Claude, and Gemini.md)（[原文](https://x.com/shannholmberg/status/2046891905389334958)）
+
+- [摘要：SEO 时代正在结束——GEO 生成式引擎优化入门](summaries/摘要：SEO 时代正在结束——GEO 生成式引擎优化入门.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzAwNzE5MzgzMQ%3D%3D&mid=2653911700&idx=1&sn=6e0c64b3e368e766c1bf1ba18499851b&chksm=816b31b65d9a53aa98ceee0ef05db214c70b5cd366ec66fd2fc198320afa482da0ce527838ce#rd)）
+
+- [摘要：AI破局_06_GEO下_六步行动清单](summaries/摘要：AI破局_06_GEO下_六步行动清单.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzAwNzE5MzgzMQ%3D%3D&mid=2653911728&idx=1&sn=72f4a95030eb88fc28889b54f1f6b91c&chksm=81d328baf90a2a8b64c83734f278a9cb682f1f0165221b272a0b0fc6440a1d0e752a817a0c0b#rd)）
 
 ## 关联概念
 

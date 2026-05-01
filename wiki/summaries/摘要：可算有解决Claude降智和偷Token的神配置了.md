@@ -9,7 +9,7 @@ confidence: medium
 last_compiled: '2026-04-15'
 source_tags: ''
 source_article_url: https://www.notion.so/343701074b6881cbbc75e54aaa9a8315
-notion_url: https://www.notion.so/7a7b10306f4247c29891642cb2ec266c
+notion_url: https://www.notion.so/Tizer/7a7b10306f4247c29891642cb2ec266c
 notion_id: 7a7b1030-6f42-47c2-9891-642cb2ec266c
 ---
 
@@ -39,7 +39,7 @@ notion_id: 7a7b1030-6f42-47c2-9891-642cb2ec266c
 
 - [上下文压缩](concepts/上下文压缩.md)
 
-- [提示词缓存](concepts/提示词缓存.md)
+- [Prompt Caching](concepts/Prompt Caching.md)
 
 - [读改比](concepts/读改比.md)
 
