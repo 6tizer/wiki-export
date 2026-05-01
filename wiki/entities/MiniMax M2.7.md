@@ -1,7 +1,9 @@
 ---
 title: MiniMax M2.7
 type: entity
-tags: []
+tags:
+- 模型部署
+- AI 产品
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-20'

@@ -1,14 +1,14 @@
 ---
 type: index
-type_counts: {"concept": 1940, "summary": 1436, "synthesis": 129, "entity": 989, "index": 2, "lint-report": 63, "qa": 4}
-total: 4563
-last_updated: 2026-05-01
+type_counts: {"concept": 1941, "summary": 1440, "synthesis": 134, "entity": 992, "index": 2, "lint-report": 64, "qa": 4}
+total: 4577
+last_updated: 2026-05-02
 ---
 
 # 📚 知识 Wiki Index
 
-> 1940 concepts · 989 entitys · 2 indexs · 63 lint-reports · 4 qas · 1436 summarys · 129 synthesiss
-> 导出时间: 2026-05-01
+> 1941 concepts · 992 entitys · 2 indexs · 64 lint-reports · 4 qas · 1440 summarys · 134 synthesiss
+> 导出时间: 2026-05-02
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
@@ -30,7 +30,7 @@ last_updated: 2026-05-01
 - [AI 驱动开发闭环](concepts/AI 驱动开发闭环.md)
 - [Agent Command Center](concepts/Agent Command Center.md)
 - [Agent 即服务](concepts/Agent 即服务.md)
-- [Agentic Browser](concepts/Agentic Browser.md)
+- [Agentic 浏览器](concepts/Agentic 浏览器.md)
 - [Apify Agent Skills](concepts/Apify Agent Skills.md)
 - [Artifacts](concepts/Artifacts.md)
 - [Autopilot 模式](concepts/Autopilot 模式.md)
@@ -173,6 +173,7 @@ last_updated: 2026-05-01
 - [Donut](entities/Donut.md)
 - [EasyClaw](entities/EasyClaw.md)
 - [Echo](entities/Echo.md)
+- [ElizaOS](entities/ElizaOS.md)
 - [Engramme](entities/Engramme.md)
 - [EqualVPN](entities/EqualVPN.md)
 - [EverMe](entities/EverMe.md)
@@ -239,8 +240,10 @@ last_updated: 2026-05-01
 - [MiMo-V2-Pro](entities/MiMo-V2-Pro.md)
 - [Micro](entities/Micro.md)
 - [MiniMax M2.5](entities/MiniMax M2.5.md)
+- [MiniMax M2.7](entities/MiniMax M2.7.md)
 - [Moltbook](entities/Moltbook.md)
 - [Moss Trade Bot Factory](entities/Moss Trade Bot Factory.md)
+- [MuleRun](entities/MuleRun.md)
 - [Nano Banana Pro](entities/Nano Banana Pro.md)
 - [NanoBanana](entities/NanoBanana.md)
 - [Nodey](entities/Nodey.md)
@@ -280,6 +283,8 @@ last_updated: 2026-05-01
 - [Perplexity](entities/Perplexity.md)
 - [Persona Identities](entities/Persona Identities.md)
 - [Personal Agent](entities/Personal Agent.md)
+- [Pexo](entities/Pexo.md)
+- [Photo AI](entities/Photo AI.md)
 - [Physical Intelligence](entities/Physical Intelligence.md)
 - [Pika AI Self](entities/Pika AI Self.md)
 - [Piper TTS](entities/Piper TTS.md)
@@ -322,6 +327,7 @@ last_updated: 2026-05-01
 - [Vercel AI Gateway](entities/Vercel AI Gateway.md)
 - [Vercel AI SDK](entities/Vercel AI SDK.md)
 - [VialOS Runtime](entities/VialOS Runtime.md)
+- [Virtuals Protocol](entities/Virtuals Protocol.md)
 - [WeClone](entities/WeClone.md)
 - [Xesim](entities/Xesim.md)
 - [Xiaomi MiMo Orbit](entities/Xiaomi MiMo Orbit.md)
@@ -330,6 +336,7 @@ last_updated: 2026-05-01
 - [awesome-nuwa](entities/awesome-nuwa.md)
 - [binance-Quant-Zero](entities/binance-Quant-Zero.md)
 - [chrome-cdp-skill](entities/chrome-cdp-skill.md)
+- [fashn.ai](entities/fashn.ai.md)
 - [holaOS](entities/holaOS.md)
 - [iii](entities/iii.md)
 - [khazix-skills](entities/khazix-skills.md)
@@ -428,6 +435,7 @@ last_updated: 2026-05-01
 - [摘要：Hyperliquid 上的 AI Agent 生态：$HYPE 链上项目分层全览](summaries/摘要：Hyperliquid 上的 AI Agent 生态：$HYPE 链上项目分层全览.md)
 - [摘要：Hyperliquid 生态 AI Agent 全景图：从 Tier 1 蓝筹到 Tier 4 赌注，哪些值得关注？](summaries/摘要：Hyperliquid 生态 AI Agent 全景图：从 Tier 1 蓝筹到 Tier 4 赌注，哪些值得关注？.md)
 - [摘要：I asked PolyClaw Agent to find me best oil trader on Polymarket. He found an absolute monster.](summaries/摘要：I asked PolyClaw Agent to find me best oil trader on Polymarket. He found an absolute monster.md)
+- [摘要：I built an AI system that automates product video creation for entire e-commerce catalogs.](summaries/摘要：I built an AI system that automates product video creation for entire e-commerce catalogs.md)
 - [摘要：I've read this piece three times.](summaries/摘要：I've read this piece three times.md)
 - [摘要：Impeccable：让 AI 写出真正有设计感的前端界面](summaries/摘要：Impeccable：让 AI 写出真正有设计感的前端界面.md)
 - [摘要：Introducing Plan Mode.](summaries/摘要：Introducing Plan Mode.md)
@@ -553,6 +561,7 @@ last_updated: 2026-05-01
 - [AI 产品形态分化全景：从基础设施到应用层的六种架构范式与价值捕获路径](syntheses/AI 产品形态分化全景：从基础设施到应用层的六种架构范式与价值捕获路径.md)
 - [AI 产品形态如何锚定商业模式：从 Copilot 到 Autopilot 的六种产品—变现耦合范式与价值捕获迁移路径](syntheses/AI 产品形态如何锚定商业模式：从 Copilot 到 Autopilot 的六种产品—变现耦合范式与价值捕获迁移路径.md)
 - [AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径](syntheses/AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径.md)
+- [AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型](syntheses/AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型.md)
 - [Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径](syntheses/Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径.md)
 - [多智能体产品架构的商业引力场：协作模式如何同时定义产品品类边界与价值捕获拓扑](syntheses/多智能体产品架构的商业引力场：协作模式如何同时定义产品品类边界与价值捕获拓扑.md)
 
@@ -664,7 +673,6 @@ last_updated: 2026-05-01
 ## AI 设计
 ### Concepts
 - [5 层提示词结构](concepts/5 层提示词结构.md)
-- [AGI 学习路径](concepts/AGI 学习路径.md)
 - [AI 3D 生成](concepts/AI 3D 生成.md)
 - [AI Token](concepts/AI Token.md)
 - [AI 情感回路](concepts/AI 情感回路.md)
@@ -783,6 +791,7 @@ last_updated: 2026-05-01
 - [摘要：这才是AI做ppt的正确姿势 ！](summaries/摘要：这才是AI做ppt的正确姿势 ！.md)
 
 ### Synthesiss
+- [AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径](syntheses/AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径.md)
 - [AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱](syntheses/AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱.md)
 - [Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言](syntheses/Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言.md)
 
@@ -856,6 +865,7 @@ last_updated: 2026-05-01
 - [File-as-Bus](concepts/File-as-Bus.md)
 - [Fleet Orchestration](concepts/Fleet Orchestration.md)
 - [Forward Proxy](concepts/Forward Proxy.md)
+- [G.A.M.E 框架](concepts/G.A.M.E 框架.md)
 - [Goal-Driven Execution](concepts/Goal-Driven Execution.md)
 - [Guard 动态止损](concepts/Guard 动态止损.md)
 - [Hands 机制](concepts/Hands 机制.md)
@@ -939,6 +949,7 @@ last_updated: 2026-05-01
 - [主动性强制](concepts/主动性强制.md)
 - [事件级快照回滚](concepts/事件级快照回滚.md)
 - [人格蒸馏](concepts/人格蒸馏.md)
+- [代理证据接受](concepts/代理证据接受.md)
 - [任务 DAG 调度](concepts/任务 DAG 调度.md)
 - [任务复杂度分配](concepts/任务复杂度分配.md)
 - [任务认领机制](concepts/任务认领机制.md)
@@ -1213,6 +1224,7 @@ last_updated: 2026-05-01
 - [摘要：ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作](summaries/摘要：ClawTeam：港大开源的 AI Agent 组队框架，让模型们自己分工协作.md)
 - [摘要：ClawWork AI 经济压力测试框架](summaries/摘要：ClawWork AI 经济压力测试框架.md)
 - [摘要：Cline Kanban：用看板界面指挥你的 AI 编程特工团队](summaries/摘要：Cline Kanban：用看板界面指挥你的 AI 编程特工团队.md)
+- [摘要：Codex 推出 /goal 功能，不达目标，不罢休](summaries/摘要：Codex 推出 -goal 功能，不达目标，不罢休.md)
 - [摘要：Coding Team Setup——OpenClaw 多代理团队配置向导](summaries/摘要：Coding Team Setup——OpenClaw 多代理团队配置向导.md)
 - [摘要：Cognition 用 $250M 抄底 Windsurf：当 IDE 变成 Agent 指挥中心，谁来审这些代码？](summaries/摘要：Cognition 用 $250M 抄底 Windsurf：当 IDE 变成 Agent 指挥中心，谁来审这些代码？.md)
 - [摘要：Compound Engineering - 4/17/2026](summaries/摘要：Compound Engineering - 4-17-2026.md)
@@ -1459,6 +1471,7 @@ last_updated: 2026-05-01
 - [OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进](syntheses/OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进.md)
 - [OpenClaw 平台架构全景：从配置分层到安全治理的模块化设计哲学与工程实践](syntheses/OpenClaw 平台架构全景：从配置分层到安全治理的模块化设计哲学与工程实践.md)
 - [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
+- [代码生成的运行时治理三角：Harness 工程约束生成策略、协作模式编排验证闭环、生成能力反向重塑 Agent 运行时](syntheses/代码生成的运行时治理三角：Harness 工程约束生成策略、协作模式编排验证闭环、生成能力反向重塑 Agent 运行时.md)
 - [多智能体产品架构的商业引力场：协作模式如何同时定义产品品类边界与价值捕获拓扑](syntheses/多智能体产品架构的商业引力场：协作模式如何同时定义产品品类边界与价值捕获拓扑.md)
 - [多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径](syntheses/多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径.md)
 - [多智能体知识协作的上下文治理：知识管理×上下文管理×Agent 协作模式如何在 Token 预算约束下形成知识流动的组织拓扑](syntheses/多智能体知识协作的上下文治理：知识管理×上下文管理×Agent 协作模式如何在 Token 预算约束下形成知识流动的组织拓扑.md)
@@ -1755,6 +1768,7 @@ last_updated: 2026-05-01
 - [摘要：Claude Code 国内跑通指南：用阿里百炼 API，几十块钱进入 AI Agent 实战](summaries/摘要：Claude Code 国内跑通指南：用阿里百炼 API，几十块钱进入 AI Agent 实战.md)
 - [摘要：Claude Code 工作流模板 v2](summaries/摘要：Claude Code 工作流模板 v2.md)
 - [摘要：Claude Code 开源编译版来了！45+实验功能全开，隐私无遥测，开发者终于等到了](summaries/摘要：Claude Code 开源编译版来了！45+实验功能全开，隐私无遥测，开发者终于等到了.md)
+- [摘要：Codex 推出 /goal 功能，不达目标，不罢休](summaries/摘要：Codex 推出 -goal 功能，不达目标，不罢休.md)
 - [摘要：Coxy ——将 GitHub Copilot 额度代理为 OpenAI 兼容 API](summaries/摘要：Coxy ——将 GitHub Copilot 额度代理为 OpenAI 兼容 API.md)
 - [摘要：GhostTrack — 免费开源 OSINT 追踪工具](summaries/摘要：GhostTrack — 免费开源 OSINT 追踪工具.md)
 - [摘要：Ghostty：Claude Code 的最佳终端搭档，从安装到鬼混全攻略](summaries/摘要：Ghostty：Claude Code 的最佳终端搭档，从安装到鬼混全攻略.md)
@@ -1914,11 +1928,13 @@ last_updated: 2026-05-01
 - [Spec and Verify](concepts/Spec and Verify.md)
 - [Spec-PR 贡献模式](concepts/Spec-PR 贡献模式.md)
 - [Stacked PR](concepts/Stacked PR.md)
+- [TAOR 循环](concepts/TAOR 循环.md)
 - [Tool Scoping](concepts/Tool Scoping.md)
 - [XSKILL](concepts/XSKILL.md)
 - [bubblewrap](concepts/bubblewrap.md)
 - [上下文播种](concepts/上下文播种.md)
 - [人机协同四阶段](concepts/人机协同四阶段.md)
+- [代理证据接受](concepts/代理证据接受.md)
 - [代码固化](concepts/代码固化.md)
 - [代码执行沙箱](concepts/代码执行沙箱.md)
 - [会话分叉](concepts/会话分叉.md)
@@ -2017,6 +2033,7 @@ last_updated: 2026-05-01
 - [摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」](summaries/摘要：Claude Opus 4.7 自我越狱：当 AI 开始审计自己的「笼子」.md)
 - [摘要：Claw AI Lab ——金字塔分层架构的多智能体科研系统](summaries/摘要：Claw AI Lab ——金字塔分层架构的多智能体科研系统.md)
 - [摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三](summaries/摘要：Claw-Eval：衡量 AI Agent「真实能力」的新基准，Muse Spark 凭什么排第三.md)
+- [摘要：Codex 推出 /goal 功能，不达目标，不罢休](summaries/摘要：Codex 推出 -goal 功能，不达目标，不罢休.md)
 - [摘要：Compound Engineering v3](summaries/摘要：Compound Engineering v3.md)
 - [摘要：Connecting Agents to Decisions](summaries/摘要：Connecting Agents to Decisions.md)
 - [摘要：Context Management in Agent Harnesses](summaries/摘要：Context Management in Agent Harnesses.md)
@@ -2102,6 +2119,7 @@ last_updated: 2026-05-01
 - [Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演](syntheses/Harness 工程如何重塑推理资源分配：当执行框架、协作模式与推理优化在 Agent 运行时三角共演.md)
 - [OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进](syntheses/OpenClaw 工作流编排全景：从身份配置到自主心跳的 Agent 运行架构演进.md)
 - [Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式](syntheses/Order Routing 与 Token Routing 的结构同构：量化交易基础设施如何映射 Agent 运行时的资源调度范式.md)
+- [代码生成的运行时治理三角：Harness 工程约束生成策略、协作模式编排验证闭环、生成能力反向重塑 Agent 运行时](syntheses/代码生成的运行时治理三角：Harness 工程约束生成策略、协作模式编排验证闭环、生成能力反向重塑 Agent 运行时.md)
 - [协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式](syntheses/协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式.md)
 - [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
 - [注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈](syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md)
@@ -2168,6 +2186,7 @@ last_updated: 2026-05-01
 - [Machine Payments Protocol](concepts/Machine Payments Protocol.md)
 - [My Computer](concepts/My Computer.md)
 - [Radar 机会雷达](concepts/Radar 机会雷达.md)
+- [Schema Bloat](concepts/Schema Bloat.md)
 - [tect-brain](concepts/tect-brain.md)
 - [wake-up 协议](concepts/wake-up 协议.md)
 - [二进制载荷协商](concepts/二进制载荷协商.md)
@@ -3101,6 +3120,7 @@ last_updated: 2026-05-01
 - [Recursive Language Model](concepts/Recursive Language Model.md)
 - [SESSION.md](concepts/SESSION.md.md)
 - [SHA256 增量缓存](concepts/SHA256 增量缓存.md)
+- [Schema Bloat](concepts/Schema Bloat.md)
 - [Schema Retrieval](concepts/Schema Retrieval.md)
 - [Scope Reduction Detection](concepts/Scope Reduction Detection.md)
 - [Session Search](concepts/Session Search.md)
@@ -3357,6 +3377,7 @@ last_updated: 2026-05-01
 - [SWE-bench](concepts/SWE-bench.md)
 - [Skill 描述路由](concepts/Skill 描述路由.md)
 - [Spec and Verify](concepts/Spec and Verify.md)
+- [TAOR 循环](concepts/TAOR 循环.md)
 - [TUI 到 GUI 范式回归](concepts/TUI 到 GUI 范式回归.md)
 - [Verse](concepts/Verse.md)
 - [Vibe Coding](concepts/Vibe Coding.md)
@@ -3501,6 +3522,7 @@ last_updated: 2026-05-01
 ### Synthesiss
 - [Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构](syntheses/Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构.md)
 - [Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路](syntheses/Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路.md)
+- [代码生成的运行时治理三角：Harness 工程约束生成策略、协作模式编排验证闭环、生成能力反向重塑 Agent 运行时](syntheses/代码生成的运行时治理三角：Harness 工程约束生成策略、协作模式编排验证闭环、生成能力反向重塑 Agent 运行时.md)
 
 ## 内容自动化
 ### Concepts
@@ -3615,6 +3637,7 @@ last_updated: 2026-05-01
 - [Impeccable](entities/Impeccable.md)
 - [KrillinAI](entities/KrillinAI.md)
 - [MoneyPrinterTurbo](entities/MoneyPrinterTurbo.md)
+- [MuleRun](entities/MuleRun.md)
 - [Nano Banana Pro](entities/Nano Banana Pro.md)
 - [NanoBanana](entities/NanoBanana.md)
 - [Notion Custom Agents](entities/Notion Custom Agents.md)
@@ -3685,6 +3708,8 @@ last_updated: 2026-05-01
 - [摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通](summaries/摘要：Hermes Agent 高阶工具全配置：从身份记忆到感知表达，一文打通.md)
 - [摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](summaries/摘要：How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide).md)
 - [摘要：I automated my content engine and 2 hrs/day dropped to 10 min](summaries/摘要：I automated my content engine and 2 hrs-day dropped to 10 min.md)
+- [摘要：I built an AI system that automates product video creation for entire e-commerce catalogs.](summaries/摘要：I built an AI system that automates product video creation for entire e-commerce catalogs.md)
+- [摘要：I built this AI video & image generation pipeline for a fashion business](summaries/摘要：I built this AI video & image generation pipeline for a fashion business.md)
 - [摘要：I've read this piece three times.](summaries/摘要：I've read this piece three times.md)
 - [摘要：Intercom 如何用 Claude Code 实现研发效率 3 倍提升：一份来自真实大厂的完整账单](summaries/摘要：Intercom 如何用 Claude Code 实现研发效率 3 倍提升：一份来自真实大厂的完整账单.md)
 - [摘要：Introducing Exa Monitors - your agent’s radar for the web](summaries/摘要：Introducing Exa Monitors - your agent’s radar for the web.md)
@@ -3870,6 +3895,7 @@ last_updated: 2026-05-01
 - [摘要：本地开发神器，一键给 localhost:3000 换个域名，还能把本地项目临时丢到公网上让别人访问。](summaries/摘要：本地开发神器，一键给 localhost-3000 换个域名，还能把本地项目临时丢到公网上让别人访问。.md)
 
 ### Synthesiss
+- [AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型](syntheses/AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型.md)
 - [开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径](syntheses/开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径.md)
 
 ## 加密资产
@@ -4035,6 +4061,7 @@ last_updated: 2026-05-01
 - [AI 暴露度](concepts/AI 暴露度.md)
 - [AI 模型网关](concepts/AI 模型网关.md)
 - [AI 理财](concepts/AI 理财.md)
+- [AI 虚拟试穿](concepts/AI 虚拟试穿.md)
 - [AI 非标定制服务](concepts/AI 非标定制服务.md)
 - [AI小程序成长计划](concepts/AI小程序成长计划.md)
 - [AP2](concepts/AP2.md)
@@ -4345,6 +4372,7 @@ last_updated: 2026-05-01
 - [Orbis](entities/Orbis.md)
 - [Palantir Ontology](entities/Palantir Ontology.md)
 - [Perplexity](entities/Perplexity.md)
+- [Photo AI](entities/Photo AI.md)
 - [PlayLab](entities/PlayLab.md)
 - [Poolside](entities/Poolside.md)
 - [Project Deal](entities/Project Deal.md)
@@ -4588,6 +4616,7 @@ last_updated: 2026-05-01
 - [摘要：OpenClaw：Jensen Huang 口中「下一个 Linux」，Agent 时代的操作系统](summaries/摘要：OpenClaw：Jensen Huang 口中「下一个 Linux」，Agent 时代的操作系统.md)
 - [摘要：Paperclip：一行命令，用 AI 智能体跑一家「无人公司」](summaries/摘要：Paperclip：一行命令，用 AI 智能体跑一家「无人公司」.md)
 - [摘要：Perplexity做GEO太恐怖，3天网站流量破5w](summaries/摘要：Perplexity做GEO太恐怖，3天网站流量破5w.md)
+- [摘要：Photo AI 虚拟试穿功能随视频模型进步持续升级](summaries/摘要：Photo AI 虚拟试穿功能随视频模型进步持续升级.md)
 - [摘要：PolyCop：用 AI 扫描钱包、一键跟单的 Polymarket「彭博终端」](summaries/摘要：PolyCop：用 AI 扫描钱包、一键跟单的 Polymarket「彭博终端」.md)
 - [摘要：Polymarket 上的「印钞机」：一篇病毒式营销帖背后的套利真相](summaries/摘要：Polymarket 上的「印钞机」：一篇病毒式营销帖背后的套利真相.md)
 - [摘要：Polymarket 与 Kalshi：两条路，一个终点——预测市场双雄的增长方法论](summaries/摘要：Polymarket 与 Kalshi：两条路，一个终点——预测市场双雄的增长方法论.md)
@@ -4761,6 +4790,7 @@ last_updated: 2026-05-01
 
 ## 图像生成
 ### Concepts
+- [AI 虚拟试穿](concepts/AI 虚拟试穿.md)
 - [AI小程序成长计划](concepts/AI小程序成长计划.md)
 - [DiT](concepts/DiT.md)
 - [Font Generator](concepts/Font Generator.md)
@@ -4798,11 +4828,13 @@ last_updated: 2026-05-01
 - [Nano Banana Pro](entities/Nano Banana Pro.md)
 - [NanoBanana](entities/NanoBanana.md)
 - [Open Generative AI](entities/Open Generative AI.md)
+- [Photo AI](entities/Photo AI.md)
 - [Qwen-Image](entities/Qwen-Image.md)
 - [SciTikZ](entities/SciTikZ.md)
 - [SenseNova U1](entities/SenseNova U1.md)
 - [Taichi 编程语言](entities/Taichi 编程语言.md)
 - [awesome-gpt-image-2-prompts](entities/awesome-gpt-image-2-prompts.md)
+- [fashn.ai](entities/fashn.ai.md)
 - [promptsref](entities/promptsref.md)
 
 ### Summarys
@@ -4812,9 +4844,11 @@ last_updated: 2026-05-01
 - [摘要：ComfyUI is the most flexible, composable, and powerful open-source media generation tool with a massive ecosystem of workflows and custom nodes.](summaries/摘要：ComfyUI is the most flexible, composable, and powerful open-source media generation tool with a massive ecosystem of workflows and custom nodes.md)
 - [摘要：GPT-Image-2 泄露——开源图像生成新王登场](summaries/摘要：GPT-Image-2 泄露——开源图像生成新王登场.md)
 - [摘要：GPT-Image-2平替！最强开源生图模型来了](summaries/摘要：GPT-Image-2平替！最强开源生图模型来了.md)
+- [摘要：I built this AI video & image generation pipeline for a fashion business](summaries/摘要：I built this AI video & image generation pipeline for a fashion business.md)
 - [摘要：Introducing expanded coverage for image generation models in Hermes Agent and Nous Portal Tool Gateway!](summaries/摘要：Introducing expanded coverage for image generation models in Hermes Agent and Nous Portal Tool Gateway!.md)
 - [摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。](summaries/摘要：Lovart 接入 GPT Image 2 之后，我们不用再为设计发愁了。.md)
 - [摘要：Napkin AI：把文字一键变成精美视觉图表的 AI 神器](summaries/摘要：Napkin AI：把文字一键变成精美视觉图表的 AI 神器.md)
+- [摘要：Photo AI 虚拟试穿功能随视频模型进步持续升级](summaries/摘要：Photo AI 虚拟试穿功能随视频模型进步持续升级.md)
 - [摘要：Qwen-Image-2.0-Pro 发布](summaries/摘要：Qwen-Image-2.0-Pro 发布.md)
 - [摘要：一个小众模型突然火了，可能代表新的范式。](summaries/摘要：一个小众模型突然火了，可能代表新的范式。.md)
 - [摘要：两大SOTA模型强强联手👬](summaries/摘要：两大SOTA模型强强联手👬.md)
@@ -4828,6 +4862,7 @@ last_updated: 2026-05-01
 
 ### Synthesiss
 - [AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径](syntheses/AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径.md)
+- [AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径](syntheses/AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径.md)
 - [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
 
 ## 多Agent协作
@@ -4955,6 +4990,7 @@ last_updated: 2026-05-01
 - [Dify](entities/Dify.md)
 - [Director](entities/Director.md)
 - [EasyClaw](entities/EasyClaw.md)
+- [ElizaOS](entities/ElizaOS.md)
 - [FinceptTerminal](entities/FinceptTerminal.md)
 - [FloatIM](entities/FloatIM.md)
 - [Floatboat](entities/Floatboat.md)
@@ -5260,6 +5296,7 @@ last_updated: 2026-05-01
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
 - [SenseNova U1](entities/SenseNova U1.md)
 - [SuperGemma4-26B-Abliterated-Multimodal](entities/SuperGemma4-26B-Abliterated-Multimodal.md)
+- [Veo](entities/Veo.md)
 - [VideoAgent](entities/VideoAgent.md)
 - [WALL-B](entities/WALL-B.md)
 - [uAI-NEXUS-MedVLM](entities/uAI-NEXUS-MedVLM.md)
@@ -5492,6 +5529,8 @@ last_updated: 2026-05-01
 - [大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理](syntheses/大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理.md)
 - [大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进](syntheses/大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进.md)
 - [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
+- [模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环](syntheses/模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环.md)
+- [计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用](syntheses/计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用.md)
 
 ## 提示工程
 ### Concepts
@@ -5606,6 +5645,7 @@ last_updated: 2026-05-01
 - [Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构](syntheses/Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构.md)
 - [Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路](syntheses/Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路.md)
 - [LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略](syntheses/LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略.md)
+- [计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用](syntheses/计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用.md)
 
 ## 模型评测
 ### Concepts
@@ -5714,6 +5754,7 @@ last_updated: 2026-05-01
 
 ### Synthesiss
 - [模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈](syntheses/模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈.md)
+- [模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环](syntheses/模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环.md)
 - [模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界](syntheses/模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界.md)
 
 ## 模型部署
@@ -5759,6 +5800,7 @@ last_updated: 2026-05-01
 - [LiteLLM](entities/LiteLLM.md)
 - [MiniMax](entities/MiniMax.md)
 - [MiniMax M2.5](entities/MiniMax M2.5.md)
+- [MiniMax M2.7](entities/MiniMax M2.7.md)
 - [Ollama](entities/Ollama.md)
 - [OpenAI Privacy Filter](entities/OpenAI Privacy Filter.md)
 - [PipeLive](entities/PipeLive.md)
@@ -5817,6 +5859,7 @@ last_updated: 2026-05-01
 ### Synthesiss
 - [从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环](syntheses/从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环.md)
 - [大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理](syntheses/大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理.md)
+- [计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用](syntheses/计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用.md)
 
 ## 浏览器自动化
 ### Concepts
@@ -5825,7 +5868,7 @@ last_updated: 2026-05-01
 - [Agent 自修复循环](concepts/Agent 自修复循环.md)
 - [Agent 自我调试](concepts/Agent 自我调试.md)
 - [Agent 静默失败](concepts/Agent 静默失败.md)
-- [Agentic Browser](concepts/Agentic Browser.md)
+- [Agentic 浏览器](concepts/Agentic 浏览器.md)
 - [Apify Agent Skills](concepts/Apify Agent Skills.md)
 - [Batching & Yielding](concepts/Batching & Yielding.md)
 - [Browser Connect](concepts/Browser Connect.md)
@@ -6510,6 +6553,7 @@ last_updated: 2026-05-01
 - [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29-4ec1ffa7.md)
 - [Lint Report 2026-04-30](lint-report/Lint Report 2026-04-30.md)
 - [Lint Report 2026-04-30 22:00](lint-report/Lint Report 2026-04-30 22-00.md)
+- [Lint Report 2026-05-01](lint-report/Lint Report 2026-05-01.md)
 - [Lint Report 2026-05-01 10:00](lint-report/Lint Report 2026-05-01 10-00.md)
 
 ### Qas
@@ -6957,6 +7001,7 @@ last_updated: 2026-05-01
 
 ### Synthesiss
 - [从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环](syntheses/从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环.md)
+- [计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用](syntheses/计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用.md)
 
 ## 视频/3D
 ### Concepts
@@ -7017,6 +7062,7 @@ last_updated: 2026-05-01
 - [MoneyPrinterTurbo](entities/MoneyPrinterTurbo.md)
 - [Open Generative AI](entities/Open Generative AI.md)
 - [OpenMontage](entities/OpenMontage.md)
+- [Pexo](entities/Pexo.md)
 - [Pixelle-Video](entities/Pixelle-Video.md)
 - [Remotion](entities/Remotion.md)
 - [Seedance 2.0](entities/Seedance 2.0.md)
@@ -7025,6 +7071,7 @@ last_updated: 2026-05-01
 - [Taichi 编程语言](entities/Taichi 编程语言.md)
 - [Three.js](entities/Three.js.md)
 - [UniVA](entities/UniVA.md)
+- [Veo](entities/Veo.md)
 - [ViMax](entities/ViMax.md)
 - [VideoAgent](entities/VideoAgent.md)
 - [WhisperX](entities/WhisperX.md)
@@ -7036,10 +7083,12 @@ last_updated: 2026-05-01
 - [摘要：Anthropic 封杀 48 小时，逼出 OpenClaw 最强反击！龙虾首次会生视频了](summaries/摘要：Anthropic 封杀 48 小时，逼出 OpenClaw 最强反击！龙虾首次会生视频了.md)
 - [摘要：Avatar V: The End of Avatar Drift](summaries/摘要：Avatar V- The End of Avatar Drift.md)
 - [摘要：GitHub开源 —— AI 全自动短视频引擎！！](summaries/摘要：GitHub开源 —— AI 全自动短视频引擎！！.md)
+- [摘要：I built an AI system that automates product video creation for entire e-commerce catalogs.](summaries/摘要：I built an AI system that automates product video creation for entire e-commerce catalogs.md)
 - [摘要：Lib 开窍？发布面向人类和Agent的视频工具](summaries/摘要：Lib 开窍？发布面向人类和Agent的视频工具.md)
 - [摘要：LibTV实测，Agent们终于不再需要模仿人类来使用软件了](summaries/摘要：LibTV实测，Agent们终于不再需要模仿人类来使用软件了.md)
 - [摘要：Meet Kimi K2.6 agent - Video hero section, WebGL shaders, real backends. From one prompt.](summaries/摘要：Meet Kimi K2.6 agent - Video hero section, WebGL shaders, real backends. From one prompt.md)
 - [摘要：NVIDIA Lyra 2.0：从一张图片生成可探索的持久 3D 世界](summaries/摘要：NVIDIA Lyra 2.0：从一张图片生成可探索的持久 3D 世界.md)
+- [摘要：Photo AI 虚拟试穿功能随视频模型进步持续升级](summaries/摘要：Photo AI 虚拟试穿功能随视频模型进步持续升级.md)
 - [摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.](summaries/摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.md)
 - [摘要：ScreenKite 1.0：让 AI 替你剪视频的 macOS 录屏神器](summaries/摘要：ScreenKite 1.0：让 AI 替你剪视频的 macOS 录屏神器.md)
 - [摘要：Vibe Advertising：用 Claude + Agent 一下午生产 47 条 UGC 广告](summaries/摘要：Vibe Advertising：用 Claude + Agent 一下午生产 47 条 UGC 广告.md)
@@ -7171,6 +7220,7 @@ last_updated: 2026-05-01
 
 ### Synthesiss
 - [模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈](syntheses/模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈.md)
+- [模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环](syntheses/模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环.md)
 - [训练/微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界](syntheses/训练-微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界.md)
 
 ## 身份准入
@@ -7352,6 +7402,7 @@ last_updated: 2026-05-01
 - [BRC-20](concepts/BRC-20.md)
 - [CTF Collateral Adapter](concepts/CTF Collateral Adapter.md)
 - [ERC-4337](concepts/ERC-4337.md)
+- [G.A.M.E 框架](concepts/G.A.M.E 框架.md)
 - [MVRV Z-Score](concepts/MVRV Z-Score.md)
 - [Privacy 2.0](concepts/Privacy 2.0.md)
 - [Runes](concepts/Runes.md)
@@ -7400,6 +7451,7 @@ last_updated: 2026-05-01
 - [Tempo](entities/Tempo.md)
 - [Token Terminal](entities/Token Terminal.md)
 - [Union](entities/Union.md)
+- [Virtuals Protocol](entities/Virtuals Protocol.md)
 - [Wormhole NTT](entities/Wormhole NTT.md)
 - [ZerePy 框架](entities/ZerePy 框架.md)
 - [agent-cli](entities/agent-cli.md)
@@ -7784,6 +7836,7 @@ last_updated: 2026-05-01
 - [Lint Report 2026-04-29](lint-report/Lint Report 2026-04-29-4ec1ffa7.md)
 - [Lint Report 2026-04-30](lint-report/Lint Report 2026-04-30.md)
 - [Lint Report 2026-04-30 22:00](lint-report/Lint Report 2026-04-30 22-00.md)
+- [Lint Report 2026-05-01](lint-report/Lint Report 2026-05-01.md)
 - [Lint Report 2026-05-01 10:00](lint-report/Lint Report 2026-05-01 10-00.md)
 ## Qas（所有qa）
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
@@ -8057,6 +8110,7 @@ last_updated: 2026-05-01
 - [摘要：Codex for (almost) everything.](summaries/摘要：Codex for (almost) everything.md)
 - [摘要：Codex macOS 插件：让 AI 真正理解 Mac 原生开发](summaries/摘要：Codex macOS 插件：让 AI 真正理解 Mac 原生开发.md)
 - [摘要：Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器](summaries/摘要：Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器.md)
+- [摘要：Codex 推出 /goal 功能，不达目标，不罢休](summaries/摘要：Codex 推出 -goal 功能，不达目标，不罢休.md)
 - [摘要：Codex 重大更新，全面解读](summaries/摘要：Codex 重大更新，全面解读.md)
 - [摘要：Codex不打算让Claude Code好过](summaries/摘要：Codex不打算让Claude Code好过.md)
 - [摘要：Codex能够控制电脑了：](summaries/摘要：Codex能够控制电脑了：.md)
@@ -8261,6 +8315,8 @@ last_updated: 2026-05-01
 - [摘要：I asked PolyClaw Agent to find me best oil trader on Polymarket. He found an absolute monster.](summaries/摘要：I asked PolyClaw Agent to find me best oil trader on Polymarket. He found an absolute monster.md)
 - [摘要：I asked my OpenClaw to analyze all YC video launches for the last 3 years.](summaries/摘要：I asked my OpenClaw to analyze all YC video launches for the last 3 years.md)
 - [摘要：I automated my content engine and 2 hrs/day dropped to 10 min](summaries/摘要：I automated my content engine and 2 hrs-day dropped to 10 min.md)
+- [摘要：I built an AI system that automates product video creation for entire e-commerce catalogs.](summaries/摘要：I built an AI system that automates product video creation for entire e-commerce catalogs.md)
+- [摘要：I built this AI video & image generation pipeline for a fashion business](summaries/摘要：I built this AI video & image generation pipeline for a fashion business.md)
 - [摘要：I tested the same prompt on both Grok 4.3 and GPT 5.5](summaries/摘要：I tested the same prompt on both Grok 4.3 and GPT 5.5.md)
 - [摘要：I've read this piece three times.](summaries/摘要：I've read this piece three times.md)
 - [摘要：ICLR发了Oral又反悔，理由是查到了制裁名单？](summaries/摘要：ICLR发了Oral又反悔，理由是查到了制裁名单？.md)
@@ -8517,6 +8573,7 @@ last_updated: 2026-05-01
 - [摘要：Personal Agent](summaries/摘要：Personal Agent.md)
 - [摘要：Personal Agent Features (Part 2)](summaries/摘要：Personal Agent Features (Part 2).md)
 - [摘要：Phantom MCP Server：让 AI Agent 直接操控你的加密钉包](summaries/摘要：Phantom MCP Server：让 AI Agent 直接操控你的加密钉包.md)
+- [摘要：Photo AI 虚拟试穿功能随视频模型进步持续升级](summaries/摘要：Photo AI 虚拟试穿功能随视频模型进步持续升级.md)
 - [摘要：PinchTab：让 AI Agent 控制浏览器，Token 省 13 倍](summaries/摘要：PinchTab：让 AI Agent 控制浏览器，Token 省 13 倍.md)
 - [摘要：PolyCop：用 AI 扫描钱包、一键跟单的 Polymarket「彭博终端」](summaries/摘要：PolyCop：用 AI 扫描钱包、一键跟单的 Polymarket「彭博终端」.md)
 - [摘要：Polymarket 上的「印钞机」：一篇病毒式营销帖背后的套利真相](summaries/摘要：Polymarket 上的「印钞机」：一篇病毒式营销帖背后的套利真相.md)
@@ -9253,7 +9310,9 @@ last_updated: 2026-05-01
 - [AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统](syntheses/AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统.md)
 - [AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑](syntheses/AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑.md)
 - [AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径](syntheses/AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径.md)
+- [AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径](syntheses/AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径.md)
 - [AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱](syntheses/AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱.md)
+- [AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型](syntheses/AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型.md)
 - [Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径](syntheses/Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径.md)
 - [Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径](syntheses/Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径.md)
 - [Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进](syntheses/Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进.md)
@@ -9320,6 +9379,7 @@ last_updated: 2026-05-01
 - [从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环](syntheses/从推理加速到算力调度：推理优化、模型部署与算力基础设施如何在 Agent 规模化时代形成三层资源治理闭环.md)
 - [从知识获取到技能封装：Agent 技能与知识管理的双向融合路径](syntheses/从知识获取到技能封装：Agent 技能与知识管理的双向融合路径.md)
 - [从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施](syntheses/从编排模式到商业落地：多智能体协作如何重塑组织形态与商业基础设施.md)
+- [代码生成的运行时治理三角：Harness 工程约束生成策略、协作模式编排验证闭环、生成能力反向重塑 Agent 运行时](syntheses/代码生成的运行时治理三角：Harness 工程约束生成策略、协作模式编排验证闭环、生成能力反向重塑 Agent 运行时.md)
 - [内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式](syntheses/内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式.md)
 - [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
 - [加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进](syntheses/加密交易场景中 AI Agent 技能的分层架构与能力获取路径演进.md)
@@ -9341,6 +9401,7 @@ last_updated: 2026-05-01
 - [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
 - [技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路](syntheses/技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路.md)
 - [模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈](syntheses/模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈.md)
+- [模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环](syntheses/模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环.md)
 - [模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界](syntheses/模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界.md)
 - [注意力套利的结构同构：量化交易信号管线如何映射社交内容自动化的采集—生产—分发架构](syntheses/注意力套利的结构同构：量化交易信号管线如何映射社交内容自动化的采集—生产—分发架构.md)
 - [注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈](syntheses/注意力预算治理如何约束 Agent 执行深度：上下文管理×Harness 工程×协作模式的三维资源博弈.md)
@@ -9353,6 +9414,7 @@ last_updated: 2026-05-01
 - [系统重设计方案：状态体系 + Dashboard V2](syntheses/系统重设计方案：状态体系 + Dashboard V2.md)
 - [约束栈的分形同构：Harness 工程运行时护栏如何映射商业合规、AI 对齐与政策监管的多层约束拓扑](syntheses/约束栈的分形同构：Harness 工程运行时护栏如何映射商业合规、AI 对齐与政策监管的多层约束拓扑.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
+- [计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用](syntheses/计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用.md)
 - [训练/微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界](syntheses/训练-微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界.md)
 - [记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构](syntheses/记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构.md)
 - [量化交易 Agent 全栈能力分化：从信号提取到策略自进化的五层架构范式与产品形态演进路径](syntheses/量化交易 Agent 全栈能力分化：从信号提取到策略自进化的五层架构范式与产品形态演进路径.md)

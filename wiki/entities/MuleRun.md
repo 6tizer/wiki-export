@@ -1,7 +1,9 @@
 ---
 title: MuleRun
 type: entity
-tags: []
+tags:
+- AI 产品
+- 内容自动化
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-29'

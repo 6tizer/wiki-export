@@ -35,3 +35,7 @@ Software 3.0 是 Andrej Karpathy 在 AI Ascent 2026 上提出的概念框架，�
 - [摘要：Karpathy AI Ascent 2026：从 Vibe Coding 到 Agentic Engineering](summaries/摘要：Karpathy AI Ascent 2026：从 Vibe Coding 到 Agentic Engineering.md)
 
 - [摘要：软件 3.0 时代来临](summaries/摘要：软件 3.0 时代来临.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483261&idx=1&sn=cb6b022f6372657475687143a4ab33bb&chksm=860f87620bc9685632e714cdaddbe215724ff7e2328e46057f2f9ff940644865d447f06ac7e5#rd)）
+
+- [摘要：Karpathy AI Ascent 2026 三大新视野](summaries/摘要：Karpathy AI Ascent 2026 三大新视野.md)（[原文](https://x.com/karpathy/status/2049903821095354523)）
+
+- [摘要：Codex 推出 /goal 功能，不达目标，不罢休](summaries/摘要：Codex 推出 -goal 功能，不达目标，不罢休.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483290&idx=1&sn=904eb46992f4d152d712fd963e274f9f&chksm=864bb17a8af07573edffe69e9e5007899c121000987a37dc35d01aae2065033c2c8f9fdc3806#rd)）

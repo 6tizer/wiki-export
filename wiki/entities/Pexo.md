@@ -1,7 +1,9 @@
 ---
 title: Pexo
 type: entity
-tags: []
+tags:
+- AI 产品
+- 视频/3D
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-29'

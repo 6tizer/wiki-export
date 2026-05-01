@@ -1,7 +1,9 @@
 ---
 title: Virtuals Protocol
 type: entity
-tags: []
+tags:
+- 链上协议
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

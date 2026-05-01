@@ -1,7 +1,9 @@
 ---
 title: G.A.M.E 框架
 type: concept
-tags: []
+tags:
+- 链上协议
+- Agent 协作模式
 status: 审核中
 confidence: high
 last_compiled: '2026-05-01'

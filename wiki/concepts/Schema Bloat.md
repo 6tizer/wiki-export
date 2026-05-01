@@ -1,7 +1,9 @@
 ---
 title: Schema Bloat
 type: concept
-tags: []
+tags:
+- MCP 协议
+- 上下文管理
 status: 审核中
 confidence: high
 last_compiled: '2026-04-29'
