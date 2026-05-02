@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-05-02T22:42:06.250928+08:00",
+  "last_sync_time": "2026-05-03T02:45:06.526074+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 4692,
+  "total_pages_exported": 4695,
   "page_mapping": {
     "0fe9d271-3d82-4995-ad15-00fc8d446de0": {
       "type": "concept",
@@ -216,7 +216,7 @@
     "016612da-dd7c-4e70-a207-d0c1edeb8745": {
       "type": "entity",
       "file_path": "wiki/entities/planktonXD.md",
-      "last_edited": "2026-05-02T13:08:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "1358db3d-1f22-41f2-a876-8f90cbaa065d": {
       "type": "concept",
@@ -366,7 +366,7 @@
     "0db371cc-337d-457f-924f-190a9a796a00": {
       "type": "concept",
       "file_path": "wiki/concepts/延迟优势.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "0f6a151f-21b0-4cf8-ba9c-cefe297ad843": {
       "type": "concept",
@@ -1476,7 +1476,7 @@
     "15309080-58f2-4637-8df0-d56550fd6fe9": {
       "type": "concept",
       "file_path": "wiki/concepts/混合模型策略.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "15476d5c-2750-457b-a978-91286f0c6f79": {
       "type": "synthesis",
@@ -2331,7 +2331,7 @@
     "21e6bec3-4ae5-4c0a-944a-6589a4ec49aa": {
       "type": "concept",
       "file_path": "wiki/concepts/Weibull 遗忘曲线.md",
-      "last_edited": "2026-05-02T12:17:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "21ec3ba2-ad2b-448f-9d4e-d4c8e256f320": {
       "type": "concept",
@@ -2371,7 +2371,7 @@
     "22cda294-74a5-4c5a-ab5f-545395790afb": {
       "type": "entity",
       "file_path": "wiki/entities/OpenClaw Context Engine.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "22d0525f-b054-41be-8026-78991bf48df0": {
       "type": "entity",
@@ -2421,7 +2421,7 @@
     "236699ac-0dfe-44a6-a55a-d380274cdfa5": {
       "type": "concept",
       "file_path": "wiki/concepts/Anti-996.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "23703fca-ad8f-40f0-b8b0-3a81cbfa4e88": {
       "type": "concept",
@@ -2496,7 +2496,7 @@
     "249af11e-2ddb-4404-b6cd-8ac5e85946c4": {
       "type": "entity",
       "file_path": "wiki/entities/Codex.md",
-      "last_edited": "2026-05-02T13:33:00.000Z"
+      "last_edited": "2026-05-02T14:42:00.000Z"
     },
     "24aa72c2-4b43-4b7c-ad72-0ab8cbccaf74": {
       "type": "entity",
@@ -2596,7 +2596,7 @@
     "263d46a0-8f2e-4695-aa04-1c9ccdd5cf01": {
       "type": "concept",
       "file_path": "wiki/concepts/RAG.md",
-      "last_edited": "2026-05-02T14:17:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "264972e9-e45f-4fc7-8029-17d9b321ca6c": {
       "type": "concept",
@@ -2846,7 +2846,7 @@
     "2a82a631-fad9-4b52-b195-63c56c6cfdae": {
       "type": "concept",
       "file_path": "wiki/concepts/AaaS 商业模式.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "2aaa31af-7642-47f8-9c32-07919284ceea": {
       "type": "entity",
@@ -2946,7 +2946,7 @@
     "2c66f293-176a-4ebc-875d-c75b85c18f03": {
       "type": "concept",
       "file_path": "wiki/concepts/LLM 叠 LLM 反模式.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "2c8dd593-b5d3-4c3c-9d83-dc5585b30396": {
       "type": "concept",
@@ -3086,7 +3086,7 @@
     "2e874e05-04cb-4cc1-9b77-0eaccba62d06": {
       "type": "entity",
       "file_path": "wiki/entities/FRED.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "2e896964-b6e5-4b28-99ff-2b0e06a05bc3": {
       "type": "entity",
@@ -3131,7 +3131,7 @@
     "2f0a3acb-3165-4ef3-b48d-844a1bfb865a": {
       "type": "concept",
       "file_path": "wiki/concepts/Builder-Reviewer 模式.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "2f19b74b-c7f3-483d-97fd-7a7c94837d53": {
       "type": "concept",
@@ -3176,7 +3176,7 @@
     "2f8d8f6b-3eef-45c6-b039-3b1c6228bd8f": {
       "type": "concept",
       "file_path": "wiki/concepts/x402 协议.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T14:57:00.000Z"
     },
     "2fb4fbb1-fd5d-404f-9f07-65cf54df6e4e": {
       "type": "summary",
@@ -3226,7 +3226,7 @@
     "30a29f15-234e-49fe-a734-26146502d231": {
       "type": "concept",
       "file_path": "wiki/concepts/体育延迟套利.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "30a2e963-6054-4796-af61-c524ae1af33f": {
       "type": "entity",
@@ -3276,7 +3276,7 @@
     "30f873c8-9165-44ae-8e0f-e14ed4e6b2d4": {
       "type": "entity",
       "file_path": "wiki/entities/Context Hub.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "310b8491-9c4f-4110-a047-6958ada35423": {
       "type": "summary",
@@ -3366,7 +3366,7 @@
     "3220aeff-b5b5-4069-9d9c-9e932024571d": {
       "type": "entity",
       "file_path": "wiki/entities/SafePal.md",
-      "last_edited": "2026-05-02T14:17:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "32597a4c-5cc9-4c56-b025-aad33925f79d": {
       "type": "entity",
@@ -3391,7 +3391,7 @@
     "3268a628-7b69-409b-9fb6-163bf440e3a7": {
       "type": "entity",
       "file_path": "wiki/entities/memory-lancedb-pro.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "326a7492-af7d-4281-ab85-3a98f286b556": {
       "type": "concept",
@@ -3536,7 +3536,7 @@
     "34ca699f-22cc-44f5-850f-34c83c4a830d": {
       "type": "concept",
       "file_path": "wiki/concepts/ClawBio.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "35267fc1-8195-401f-8273-b14885d03eea": {
       "type": "entity",
@@ -3671,7 +3671,7 @@
     "371704a7-4934-4d0f-921b-33e59f201ec1": {
       "type": "concept",
       "file_path": "wiki/concepts/Agent NPC.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "372b608e-2386-4b0d-853b-7206d4b590a1": {
       "type": "concept",
@@ -3796,7 +3796,7 @@
     "391753ac-8a14-4150-b860-88c9e2e2501d": {
       "type": "concept",
       "file_path": "wiki/concepts/SESSION.md.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "392c64d3-8986-4063-9c48-b70699176c08": {
       "type": "entity",
@@ -4061,7 +4061,7 @@
     "3dc1f1f6-7b88-4a08-b4b7-6283952f086c": {
       "type": "entity",
       "file_path": "wiki/entities/superpowers 框架.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "3dd87046-84ab-4478-8cb4-ebc096025ca4": {
       "type": "summary",
@@ -4101,12 +4101,12 @@
     "3e51193d-3e7c-40c6-a0ff-36f6b63acd95": {
       "type": "concept",
       "file_path": "wiki/concepts/Coordinator 技能.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "3e60e7fb-ba0b-4860-9ee9-7638cda58ab6": {
       "type": "concept",
       "file_path": "wiki/concepts/四层 Fallback 链.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "3e62fd33-533c-4bd3-bc83-cca5492f0a12": {
       "type": "entity",
@@ -4156,7 +4156,7 @@
     "3eecffad-1795-4231-9081-c198a570550b": {
       "type": "concept",
       "file_path": "wiki/concepts/聪明钱信号.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "3f076b91-cda7-4c39-b7a1-79779cfc93cd": {
       "type": "summary",
@@ -4486,7 +4486,7 @@
     "44f7e972-0ef6-4430-addb-ea5898b84bd8": {
       "type": "entity",
       "file_path": "wiki/entities/MiroFish.md",
-      "last_edited": "2026-05-01T21:04:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "45015797-f389-41c6-afe9-723449ddea6a": {
       "type": "entity",
@@ -4781,7 +4781,7 @@
     "4938a70d-98d2-405a-88bc-50f896958ce4": {
       "type": "concept",
       "file_path": "wiki/concepts/子智能体.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "495c710b-a0f3-4213-8f2d-0cfb53ee771d": {
       "type": "concept",
@@ -4961,7 +4961,7 @@
     "4c8520d7-8dd7-457f-8b52-cc054adf00d5": {
       "type": "concept",
       "file_path": "wiki/concepts/Agent 人设.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "4ccd48a4-0ead-456d-ba9e-9214737a8548": {
       "type": "entity",
@@ -5001,7 +5001,7 @@
     "4d8a4b0b-fcce-4bfb-abdc-e140d488d5ce": {
       "type": "concept",
       "file_path": "wiki/concepts/插件化多智能体编排.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "4d8ee340-a337-481d-ba94-b753ae1a0a02": {
       "type": "summary",
@@ -5026,7 +5026,7 @@
     "4dc361b7-7dbb-4f0f-9e1f-71c5bf83f600": {
       "type": "concept",
       "file_path": "wiki/concepts/三层防御矩阵.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "4dc8c0d7-cc77-4901-86d3-e7321f992f8b": {
       "type": "summary",
@@ -5111,7 +5111,7 @@
     "4f3b2753-d359-4e87-9583-ddb377419b9b": {
       "type": "concept",
       "file_path": "wiki/concepts/潜规则挖掘提示法.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "4f4bf1a6-6d91-4a18-9e9e-2443110fce22": {
       "type": "concept",
@@ -5181,7 +5181,7 @@
     "4ff102b0-0546-41b4-975e-5393b0c56556": {
       "type": "concept",
       "file_path": "wiki/concepts/AI Wallet Matcher.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "4ff57379-f8f9-4cfb-8352-9063d0a6e934": {
       "type": "entity",
@@ -5271,7 +5271,7 @@
     "51899a21-2091-43d1-9b0b-d28657508e92": {
       "type": "entity",
       "file_path": "wiki/entities/LangChain.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "518c2257-4da5-4f70-b93f-32a05257d932": {
       "type": "summary",
@@ -5361,7 +5361,7 @@
     "52fe28b9-fbcd-489f-a376-0e469f231301": {
       "type": "concept",
       "file_path": "wiki/concepts/AI 工具逆向分析.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "531518c2-ee79-4184-b4d3-cb11b26fbc3e": {
       "type": "entity",
@@ -5381,7 +5381,7 @@
     "534679cf-e35b-4f92-8ff6-ee4e081f2bdb": {
       "type": "concept",
       "file_path": "wiki/concepts/交易信号自动化.md",
-      "last_edited": "2026-05-01T21:04:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "53523807-bac1-4fa1-afa0-85b1c3263a73": {
       "type": "concept",
@@ -6081,7 +6081,7 @@
     "5eb51589-5d32-4e3c-8404-2123e330ee48": {
       "type": "concept",
       "file_path": "wiki/concepts/思想钢印.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "5ecc6932-9563-4696-99aa-d2f34b8f5479": {
       "type": "summary",
@@ -6216,7 +6216,7 @@
     "60f6197c-c144-404b-b4c1-3a50259bd595": {
       "type": "concept",
       "file_path": "wiki/concepts/投资人压力测试.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "615a5478-9aec-4f03-a1f6-4c75318fc0ef": {
       "type": "concept",
@@ -6316,7 +6316,7 @@
     "62eca442-3ff7-427f-a3b7-1dbbbe5f983f": {
       "type": "concept",
       "file_path": "wiki/concepts/OpenClaw 安全实践指南.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "6317e470-fb67-4c46-9b0f-19efa913f697": {
       "type": "entity",
@@ -6376,7 +6376,7 @@
     "63d01251-c6e2-4f7d-893a-a0c1c49b8ff4": {
       "type": "concept",
       "file_path": "wiki/concepts/GraphRAG.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "63e1a8a8-e4a1-492d-afa9-5225ddfb2acb": {
       "type": "concept",
@@ -6396,7 +6396,7 @@
     "6449d112-806e-4d3c-a67b-ca93875e0919": {
       "type": "concept",
       "file_path": "wiki/concepts/LLM Graph Transformer.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "64566ba9-4db7-4a2e-a76c-f5a688144932": {
       "type": "concept",
@@ -6466,7 +6466,7 @@
     "6512283b-6eee-4eaa-9723-a1971b49c482": {
       "type": "concept",
       "file_path": "wiki/concepts/OnchainOS Signal.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "651ee71b-7c79-4c73-8fb3-f5599f6176be": {
       "type": "entity",
@@ -6591,7 +6591,7 @@
     "66b8dc82-63f7-4c2e-bf7f-c69f84163955": {
       "type": "entity",
       "file_path": "wiki/entities/Impeccable.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "66ba89b8-6b95-4c9c-bd55-6c304ecbcf21": {
       "type": "summary",
@@ -6746,7 +6746,7 @@
     "686fe3d2-f262-428f-94fc-bc5d1b5ecb4a": {
       "type": "entity",
       "file_path": "wiki/entities/Tempo.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T14:52:00.000Z"
     },
     "6877aaf1-183d-48d1-aa58-d15118d8a812": {
       "type": "concept",
@@ -6771,7 +6771,7 @@
     "68d73fe2-a355-4c16-82d1-d8d60c18e9db": {
       "type": "concept",
       "file_path": "wiki/concepts/OpenClaw 九层 System Prompt 架构.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "68dd8559-5090-488f-9ca6-11f51a2d4ce4": {
       "type": "concept",
@@ -6926,7 +6926,7 @@
     "6b211c84-7cf2-407c-aa6d-f65d2bab0fbc": {
       "type": "concept",
       "file_path": "wiki/concepts/多模型交叉验证筛选.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "6b39e7de-337c-4884-848d-3f90b584d684": {
       "type": "concept",
@@ -7001,12 +7001,12 @@
     "6c73cfb3-9112-49c0-96ea-3e7e6ea0a070": {
       "type": "concept",
       "file_path": "wiki/concepts/设计反模式.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "6c91e3fe-fa1a-4181-bded-33e783cb7f68": {
       "type": "entity",
       "file_path": "wiki/entities/DeFiLlama.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "6c9f5048-15ac-4d33-8890-b56d53922840": {
       "type": "concept",
@@ -7101,7 +7101,7 @@
     "6e5da399-8c2e-45da-a767-9127734660fc": {
       "type": "concept",
       "file_path": "wiki/concepts/高频刮痧.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "6e7294a5-8d8b-46db-ad6a-e03bc924b67f": {
       "type": "summary",
@@ -7181,7 +7181,7 @@
     "6f8c86df-6cfc-4147-bb9d-567c555fa2e3": {
       "type": "concept",
       "file_path": "wiki/concepts/账号风控.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "6fe0d94e-d87a-425b-a745-496db9aca3e5": {
       "type": "summary",
@@ -7191,7 +7191,7 @@
     "6fef3755-453e-4748-bf82-a5fbe209d4ba": {
       "type": "concept",
       "file_path": "wiki/concepts/X 列表.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "70071944-4947-4ebf-b45c-f9b3c8bf7674": {
       "type": "entity",
@@ -7586,7 +7586,7 @@
     "774a8205-358a-4e76-854b-1a3c85136c70": {
       "type": "entity",
       "file_path": "wiki/entities/Gate MCP Skills.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "778df128-abf7-40e8-b86c-e5bd3e45ea21": {
       "type": "concept",
@@ -7801,7 +7801,7 @@
     "7ae23b98-8997-4d18-9f8e-8c48035cf9f5": {
       "type": "concept",
       "file_path": "wiki/concepts/飞书官方 OpenClaw 插件.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "7aebe3fa-f8e0-46e7-af86-583f433cd4df": {
       "type": "concept",
@@ -7926,7 +7926,7 @@
     "7c9a4c2b-025a-4e91-91fe-d4196beab4fe": {
       "type": "concept",
       "file_path": "wiki/concepts/Polymarket Analytics.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "7caf2f68-2036-4a0b-afdf-4d5482b1bd5e": {
       "type": "concept",
@@ -8236,7 +8236,7 @@
     "820aa186-39ce-48d0-9e2e-058a45a373e9": {
       "type": "entity",
       "file_path": "wiki/entities/6551-twitter-to-binance-square.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "820e5a35-b46b-4a9d-82eb-f263c0e53e72": {
       "type": "concept",
@@ -8886,7 +8886,7 @@
     "8c420ca4-22fe-4fd5-b4bd-5fffa12fd690": {
       "type": "concept",
       "file_path": "wiki/concepts/鲸鱼跟单.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "8c4c7573-475f-480c-8ad5-f05bb5872e63": {
       "type": "summary",
@@ -9386,7 +9386,7 @@
     "93e51fc6-a78f-4539-8ee6-aae983d0a14e": {
       "type": "concept",
       "file_path": "wiki/concepts/参与感设计.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "93e9d474-11f3-43aa-a2b0-4f373fa65a37": {
       "type": "concept",
@@ -9451,7 +9451,7 @@
     "94e3b386-cdba-4ef0-8881-308d13aef4e6": {
       "type": "entity",
       "file_path": "wiki/entities/x-tweet-fetcher.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "94e77acd-3a1e-42d0-925f-3ac2ca770a1d": {
       "type": "summary",
@@ -9526,7 +9526,7 @@
     "95ed9c82-66fa-4cba-9e0b-fd3ca84353aa": {
       "type": "concept",
       "file_path": "wiki/concepts/ClawJacked.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "9600b745-3e70-4ac4-914e-dd0a5fd430f0": {
       "type": "entity",
@@ -9726,7 +9726,7 @@
     "99121d92-1244-4d99-a86d-5b5e48a05751": {
       "type": "concept",
       "file_path": "wiki/concepts/沉浸式翻译.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "9912d7ad-ebad-4d80-a30f-19d7c6509d90": {
       "type": "concept",
@@ -9861,7 +9861,7 @@
     "9b461ffd-38fa-4b10-81a2-810ae21f8b71": {
       "type": "concept",
       "file_path": "wiki/concepts/子 Agent 派生.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "9b4d7d6f-65f5-4492-a26b-76766b3b54a4": {
       "type": "concept",
@@ -9906,7 +9906,7 @@
     "9c0a65ce-ea40-4e78-84fa-580aba92d6f2": {
       "type": "concept",
       "file_path": "wiki/concepts/XHS Bridge.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "9c114792-2a04-421e-9f44-dc4720ec8dcf": {
       "type": "summary",
@@ -10206,7 +10206,7 @@
     "a037248e-a62b-49f8-ab36-292f0e93ffac": {
       "type": "entity",
       "file_path": "wiki/entities/AutoGen.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "a067ddc1-65c8-4ee8-8715-31d12319fd3c": {
       "type": "summary",
@@ -10976,7 +10976,7 @@
     "ac06eb5e-1e28-41a3-99d0-ca0662de7840": {
       "type": "entity",
       "file_path": "wiki/entities/agency-agents.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "ac0f9faa-b9ab-4771-aa31-bc154b4658e5": {
       "type": "concept",
@@ -11201,7 +11201,7 @@
     "af2fc402-059c-4656-b099-7fc81e03baa2": {
       "type": "entity",
       "file_path": "wiki/entities/total-recall.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "af37b9e7-bbba-4259-aa71-da95e0788824": {
       "type": "concept",
@@ -11351,7 +11351,7 @@
     "b183e91a-0d1c-4690-948a-99e5c5750689": {
       "type": "entity",
       "file_path": "wiki/entities/xiaohongshu-skills.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "b1c71476-721b-415a-b298-3b52c583fc63": {
       "type": "summary",
@@ -11361,7 +11361,7 @@
     "b1f9a269-6a39-4dda-854f-ea5ea30091e0": {
       "type": "concept",
       "file_path": "wiki/concepts/跨交易所套利.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "b20bd9e3-4f97-4a22-abb9-b3d456b8e8ae": {
       "type": "summary",
@@ -11461,7 +11461,7 @@
     "b35317a3-b5bf-4f81-bad9-9b465d540716": {
       "type": "entity",
       "file_path": "wiki/entities/CME FedWatch.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "b362a031-fe00-419a-9d37-7b132f61dc0c": {
       "type": "concept",
@@ -11476,7 +11476,7 @@
     "b38538c7-88ca-4004-8420-ab6767771db4": {
       "type": "entity",
       "file_path": "wiki/entities/Binance Skills Hub.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "b38ac806-581f-4bd4-bb94-2f2c0ecbd4b3": {
       "type": "concept",
@@ -11676,7 +11676,7 @@
     "b6983322-e71b-4107-aa2a-31cf19c6ecf8": {
       "type": "concept",
       "file_path": "wiki/concepts/obsidian-cli.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "b6990dcf-3345-487c-b0c3-13a0b05374ab": {
       "type": "concept",
@@ -11701,22 +11701,22 @@
     "b6efbd7f-d8bf-48da-b13e-1920845fd5a8": {
       "type": "concept",
       "file_path": "wiki/concepts/Cursor Skills 生态.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "b6f0530b-2e72-4fc1-962b-bab7bce8e491": {
       "type": "entity",
       "file_path": "wiki/entities/ERC-8004.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "b6ff9476-2683-4d84-affd-864297e82754": {
       "type": "concept",
       "file_path": "wiki/concepts/SuperAgent Harness.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "b7025e4f-b3aa-4bfd-9bbf-54b21f3985ed": {
       "type": "concept",
       "file_path": "wiki/concepts/阿里百炼 Coding Plan.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "b7236eeb-aeba-49cb-9f0b-648c7bf34ba7": {
       "type": "concept",
@@ -11786,7 +11786,7 @@
     "b896bd17-776f-4d4f-9451-ff9a9198f3cd": {
       "type": "concept",
       "file_path": "wiki/concepts/AI 代理经济.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T14:52:00.000Z"
     },
     "b8acfe1d-d43b-4bfe-bacc-045b49ac0a8c": {
       "type": "summary",
@@ -11956,7 +11956,7 @@
     "bb112c94-669e-4eae-9ade-4a7d6402d6b4": {
       "type": "entity",
       "file_path": "wiki/entities/MiniMax M2.5.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "bb12d319-9348-4821-b34a-b85f18c5fc2a": {
       "type": "entity",
@@ -12271,7 +12271,7 @@
     "bf9e3a4b-5316-4d66-a9a6-7e48aacee34c": {
       "type": "concept",
       "file_path": "wiki/concepts/三层追问链.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "bf9edd6c-9373-4744-80e3-e500a0b14c00": {
       "type": "summary",
@@ -12331,7 +12331,7 @@
     "c08d8f26-fe51-40b7-ba12-a42d2a6b6bf5": {
       "type": "concept",
       "file_path": "wiki/concepts/双向链接.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "c08f5ba6-df13-4a35-b4e5-6a359a6c7a37": {
       "type": "entity",
@@ -12656,7 +12656,7 @@
     "c59d367c-d757-4198-bc76-5fbed91756db": {
       "type": "entity",
       "file_path": "wiki/entities/ChromeAppHeroes.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "c5cf5850-3638-478d-89ae-88c3ac6f0b71": {
       "type": "concept",
@@ -12856,7 +12856,7 @@
     "c96d2b4c-039a-420a-8c5a-664f95bcae35": {
       "type": "entity",
       "file_path": "wiki/entities/Vane.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "c974f735-49ab-448b-b89d-8262cca5d476": {
       "type": "concept",
@@ -13001,7 +13001,7 @@
     "cadc36e6-5d02-4bed-b0f6-4a01288759c6": {
       "type": "concept",
       "file_path": "wiki/concepts/Antigravity MCP.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "cae3b375-5e89-4b8e-b67b-1bc1bed813e7": {
       "type": "summary",
@@ -13136,7 +13136,7 @@
     "cce5707a-dd6c-4188-968c-a407dd16b49b": {
       "type": "entity",
       "file_path": "wiki/entities/OpenViking.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "ccefd76b-5bb4-46e8-a9e1-ebca57f294c6": {
       "type": "entity",
@@ -13341,7 +13341,7 @@
     "cf5d62b5-1834-4617-b224-8e1fd8765f8b": {
       "type": "concept",
       "file_path": "wiki/concepts/Vibe Coding.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "cf5f9362-fcd1-4dc7-a3e8-88c677318b93": {
       "type": "summary",
@@ -13366,7 +13366,7 @@
     "cfaafbf8-dab1-4f57-9f42-a0fab6c78e37": {
       "type": "concept",
       "file_path": "wiki/concepts/OpenClaw Expert Suite.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "cfc3d42f-b088-48ed-9eda-70f8bf64de37": {
       "type": "summary",
@@ -13406,7 +13406,7 @@
     "d0b0efba-5ec2-4057-9039-8c4a0dedfe8c": {
       "type": "entity",
       "file_path": "wiki/entities/Driftwatch.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "d0cfa90d-ccfb-49c4-b619-b5b5cbebdd50": {
       "type": "summary",
@@ -13551,7 +13551,7 @@
     "d32763ed-36f3-41fe-a933-93accbb08587": {
       "type": "entity",
       "file_path": "wiki/entities/OmniRoute.md",
-      "last_edited": "2026-05-01T21:04:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "d3344b32-5685-4989-b382-8f6f16e44ca1": {
       "type": "concept",
@@ -13666,7 +13666,7 @@
     "d4d29445-74b0-44cd-9b06-f8e129e30e5a": {
       "type": "concept",
       "file_path": "wiki/concepts/本地 LLM 网关.md",
-      "last_edited": "2026-05-01T21:04:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "d4d85291-b634-4317-9cc4-540e47b1c258": {
       "type": "summary",
@@ -13871,7 +13871,7 @@
     "d701c529-1bde-4f08-ad35-939865cc5865": {
       "type": "entity",
       "file_path": "wiki/entities/ARC-Rig 框架.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "d7033ac8-39d7-4020-b290-79aee63c36d7": {
       "type": "entity",
@@ -13966,7 +13966,7 @@
     "d8b27216-fa70-447f-8593-297e712c66c8": {
       "type": "concept",
       "file_path": "wiki/concepts/逆向分析.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "d8b82b0f-7f97-49a9-9e71-53cc539a7e17": {
       "type": "entity",
@@ -14096,7 +14096,7 @@
     "da63f07e-ae2b-449e-861c-c01d1d0411e9": {
       "type": "concept",
       "file_path": "wiki/concepts/NanoClaw.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "da65436d-e82e-44c5-91b5-500a5d1a794f": {
       "type": "summary",
@@ -14221,7 +14221,7 @@
     "dc81a894-a891-4800-8103-b29a4acf4f21": {
       "type": "concept",
       "file_path": "wiki/concepts/Telegram 群组路由.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "dc85e5b3-6351-477f-9a95-638bcd8e8e60": {
       "type": "summary",
@@ -14431,7 +14431,7 @@
     "dfd33d0c-c709-4c7a-9446-3e242f52bdbc": {
       "type": "concept",
       "file_path": "wiki/concepts/Volume Profile.md",
-      "last_edited": "2026-05-01T21:04:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "dffaf3df-ae59-47a8-91ab-53037aeea3cc": {
       "type": "summary",
@@ -14531,7 +14531,7 @@
     "e1da0601-e31b-40b0-b49a-cba9d37b657b": {
       "type": "concept",
       "file_path": "wiki/concepts/QClaw.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:12:00.000Z"
     },
     "e1e21457-0fe4-4f29-8f16-6febd51f145d": {
       "type": "concept",
@@ -14746,7 +14746,7 @@
     "e607b082-3958-41c5-b000-e089b246decf": {
       "type": "entity",
       "file_path": "wiki/entities/Fiat24.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "e61b2093-a889-4712-b4ed-6731ee48cc36": {
       "type": "summary",
@@ -14856,7 +14856,7 @@
     "e73fe233-d65c-4646-a1d2-f0e444cf1224": {
       "type": "concept",
       "file_path": "wiki/concepts/反蒸馏.md",
-      "last_edited": "2026-05-02T14:17:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "e750199d-d541-4040-90b6-0a3e5abb07d6": {
       "type": "entity",
@@ -15156,7 +15156,7 @@
     "ec8301ab-3a54-46ac-8ef1-06a682ed6d84": {
       "type": "concept",
       "file_path": "wiki/concepts/OASIS.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "ec8644c6-4365-4eda-8885-ced774a39a56": {
       "type": "concept",
@@ -15236,7 +15236,7 @@
     "edc2bbaa-7078-4db1-96de-1e7407dacd9e": {
       "type": "concept",
       "file_path": "wiki/concepts/分层模型路由.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "edd2150f-6685-48f8-8fc3-7ad8ad64b77f": {
       "type": "concept",
@@ -15681,7 +15681,7 @@
     "f5dd73e0-2229-4e91-bab8-c535056a6934": {
       "type": "entity",
       "file_path": "wiki/entities/LanceDB.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "f5e38554-9998-4298-bada-014ad5e539bf": {
       "type": "summary",
@@ -15796,7 +15796,7 @@
     "f798dd15-4829-4d36-a546-088e512db9e8": {
       "type": "concept",
       "file_path": "wiki/concepts/传播飞轮.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "f799174f-9789-46f3-ae07-4f2ccc5a8194": {
       "type": "summary",
@@ -15871,7 +15871,7 @@
     "f8eb2f2b-de23-47ba-93ca-b9b0ad148a9c": {
       "type": "concept",
       "file_path": "wiki/concepts/Smart Extraction.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "f8f6f829-4325-4e27-ab06-e378d92288db": {
       "type": "concept",
@@ -16006,7 +16006,7 @@
     "fb5b5c5f-c1ff-4620-bed4-688b02f8efff": {
       "type": "entity",
       "file_path": "wiki/entities/Qdrant.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "fb5d1ada-172f-4531-b7e7-d82e4f032f18": {
       "type": "concept",
@@ -16031,7 +16031,7 @@
     "fb74dd69-2360-463f-8002-901fadbe5108": {
       "type": "concept",
       "file_path": "wiki/concepts/X 信息源矩阵.md",
-      "last_edited": "2026-05-02T14:19:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "fb792aaf-72f7-46d0-8b7a-7ed42068360c": {
       "type": "summary",
@@ -16161,7 +16161,7 @@
     "fce3a27f-9450-4ba2-8165-c55dfaafb546": {
       "type": "concept",
       "file_path": "wiki/concepts/AI小程序成长计划.md",
-      "last_edited": "2026-05-02T14:17:00.000Z"
+      "last_edited": "2026-05-02T16:18:00.000Z"
     },
     "fce6ec14-a24c-4360-aa12-3ce16a2b7ecf": {
       "type": "summary",
@@ -16196,7 +16196,7 @@
     "fd4bc123-9c10-4c8a-a462-b8a8fb930a10": {
       "type": "entity",
       "file_path": "wiki/entities/OKX OnchainOS.md",
-      "last_edited": "2026-05-02T14:18:00.000Z"
+      "last_edited": "2026-05-02T16:19:00.000Z"
     },
     "fd7772b1-df8e-423d-a1f0-16f41a430cf1": {
       "type": "concept",
@@ -16231,7 +16231,7 @@
     "fdec0c95-6c0e-4d30-af4e-17a6083b2de1": {
       "type": "entity",
       "file_path": "wiki/entities/Smallville.md",
-      "last_edited": "2026-05-01T05:50:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "fdf5badc-2952-42b5-a2e2-703424ff5d03": {
       "type": "concept",
@@ -16246,7 +16246,7 @@
     "fe154ffa-4cfd-4660-8bc6-dee5a109244c": {
       "type": "concept",
       "file_path": "wiki/concepts/wechat-decrypt.md",
-      "last_edited": "2026-05-01T21:05:00.000Z"
+      "last_edited": "2026-05-02T18:11:00.000Z"
     },
     "fe5a55f8-2437-49aa-ba10-33a29265723f": {
       "type": "summary",
@@ -22946,7 +22946,7 @@
     "64ef7090-7655-4288-b7b6-914c51f2a816": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈.md",
-      "last_edited": "2026-05-02T01:22:00.000Z"
+      "last_edited": "2026-05-02T18:42:00.000Z"
     },
     "22093302-1e6e-4776-92f6-0f63f1913017": {
       "type": "synthesis",
@@ -23356,7 +23356,7 @@
     "b79a1be3-e607-46c1-bee0-9917c4fb59cd": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/对齐内核与安全外壳的共演动力学：模型内部价值约束如何与 Agent 运行时防御在攻防博弈中形成双层免疫系统.md",
-      "last_edited": "2026-05-02T13:11:00.000Z"
+      "last_edited": "2026-05-02T17:00:00.000Z"
     },
     "1b456217-e440-4f06-9c99-33eea5f11834": {
       "type": "synthesis",
@@ -23371,12 +23371,12 @@
     "8ed1013c-367e-42a5-ad00-8e0167ce905d": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/金融基础模型的训练-评测-交易三角闭环：当量化交易的回测验证逻辑遇上基础模型的预训练-评测管线，金融 AI 的能力度量与策略验证如何形成共演回路.md",
-      "last_edited": "2026-05-02T13:13:00.000Z"
+      "last_edited": "2026-05-02T16:48:00.000Z"
     },
     "35d5c9e9-8257-44c1-a829-ee2d14ac72e8": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/验证管线的四面体同构：当模型评测的「评估感知困境」遇上 Agent 信任基础设施的「身份-权限-执行」三层验证，度量失真如何在安全、身份与协议三个域中独立涌现出相同的 Goodhart 拓扑.md",
-      "last_edited": "2026-05-02T13:15:00.000Z"
+      "last_edited": "2026-05-02T15:53:00.000Z"
     },
     "69236b20-58e6-45c5-a897-9da165e5b159": {
       "type": "entity",
@@ -23406,7 +23406,7 @@
     "97a697f3-6038-417f-8d94-19b4096cfe6f": {
       "type": "entity",
       "file_path": "wiki/entities/GPT Image 2.0.md",
-      "last_edited": "2026-05-02T14:38:00.000Z"
+      "last_edited": "2026-05-02T14:39:00.000Z"
     },
     "da04d28b-a640-40fd-9a03-f016dbd35bee": {
       "type": "entity",
@@ -23426,7 +23426,7 @@
     "854147bf-6727-47a8-a443-c303a9ddfe74": {
       "type": "entity",
       "file_path": "wiki/entities/Phaser.md",
-      "last_edited": "2026-05-02T14:38:00.000Z"
+      "last_edited": "2026-05-02T14:39:00.000Z"
     },
     "da31e992-562b-4114-a230-7e021d7c3694": {
       "type": "entity",
@@ -23442,6 +23442,41 @@
       "type": "lint-report",
       "file_path": "wiki/lint-report/Lint Report 2026-05-02.md",
       "last_edited": "2026-05-02T14:25:00.000Z"
+    },
+    "1d9f039f-f8c1-47c3-839e-25ef20a8782f": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：USDC 是唯一的 AI 代币.md",
+      "last_edited": "2026-05-02T14:51:00.000Z"
+    },
+    "75ae4b1b-3158-4ec2-adb1-6be674844c1b": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：我用 AI 做了个修仙游戏两天，从视频号梗到可下载试玩.md",
+      "last_edited": "2026-05-02T14:38:00.000Z"
+    },
+    "567e71c2-b5d4-4d16-a073-6219f2f54ba8": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/OpenClaw 配置反模式全景：十二种故障模式的根因图谱、诊断方法与修复路径.md",
+      "last_edited": "2026-05-02T17:19:00.000Z"
+    },
+    "429082ca-c67a-468d-8100-b604edc64185": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/多模态模型从训练到部署的全栈断裂：原生多模态训练范式、端侧推理压缩与消费级部署架构如何在参数效率—模态完整性—部署可达性的三角约束中分化演进.md",
+      "last_edited": "2026-05-02T17:30:00.000Z"
+    },
+    "5240b465-00d4-4a91-b6d3-0f8b0c22f54d": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/对齐税与推理效率的微观博弈：安全护栏的计算成本、可解释性工具的推理开销与去对齐技术如何共同重塑模型内部的价值—效率边界.md",
+      "last_edited": "2026-05-02T17:30:00.000Z"
+    },
+    "5598d0af-d65b-4f43-b3e0-9ea352a58c26": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/研究计划：Cross-Layer Failure Propagation in AI Safety.md",
+      "last_edited": "2026-05-02T17:08:00.000Z"
+    },
+    "d76d4b4a-748e-4c86-894e-b6d80d07b0c8": {
+      "type": "synthesis",
+      "file_path": "wiki/syntheses/视觉生成的模态跃迁管线：图像生成、多模态理解与视频-3D 生成三层技术栈如何从独立分化走向统一架构.md",
+      "last_edited": "2026-05-02T16:30:00.000Z"
     }
   }
 }

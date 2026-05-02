@@ -6,7 +6,7 @@ tags:
 - 提示工程
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-30'
+last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/4c8520d78dd7457f8b52cc054adf00d5
