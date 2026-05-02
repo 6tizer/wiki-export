@@ -92,6 +92,8 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 
 - [摘要：我把 Karpathy 的 AutoResearch 搬到了软件开发领域，效果炸了](summaries/摘要：我把 Karpathy 的 AutoResearch 搬到了软件开发领域，效果炸了.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ%3D%3D&mid=2247606664&idx=1&sn=34e95bd76d66935c85b61ed791983041&chksm=c14a0674bcce5652baa86c6abc2cd4e4c262f81d5315768d929af6f36022a87c42917c19224f#rd)）
 
+- [摘要：1.3K Star！让 Coding Agent 在你睡觉时持续工作的神奇开源工具！](summaries/摘要：1.3K Star！让 Coding Agent 在你睡觉时持续工作的神奇开源工具！.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkwMjQ0NzI0OQ%3D%3D&mid=2247506012&idx=1&sn=59df2a6364a3fa6f7b5c6fd4fc260317&chksm=c19e01c3a46ee4fa7c969e3448080d0d1b886bf7118572e4e3e26f60022a32a35d7c8ab3b2da#rd)）
+
 ## 关联概念
 
 - [Compound Engineering](concepts/Compound Engineering.md)
@@ -129,3 +131,5 @@ autoresearch 是 Andrej Karpathy 开源的 AI 自主研究框架，让 Agent 在
 - [Keep-or-revert loop](concepts/Keep-or-revert loop.md)
 
 - [Research Agent](concepts/Research Agent.md)
+
+- [gnhf](entities/gnhf.md)

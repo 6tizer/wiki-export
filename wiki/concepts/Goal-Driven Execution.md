@@ -48,3 +48,5 @@ notion_id: 17551187-d569-4af9-bcc5-060c2ac2901d
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzI0ODk2NDIyMQ%3D%3D&mid=2247502836&idx=1&sn=bc1037b3490abbe4c22277672f9f0191&chksm=e86fcdd39fd3d2961bc8025efd7d093f04b7608ae7887433e37539f88532a95a6bfee7812824#rd)｜《就一个 skills，凭啥 4w Star？》｜来源条目：[摘要：就一个 skills，凭啥 4w Star？](summaries/摘要：就一个 skills，凭啥 4w Star？.md)
 
 - [摘要：Codex 推出 /goal 功能，不达目标，不罢休](summaries/摘要：Codex 推出 -goal 功能，不达目标，不罢休.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483290&idx=1&sn=904eb46992f4d152d712fd963e274f9f&chksm=864bb17a8af07573edffe69e9e5007899c121000987a37dc35d01aae2065033c2c8f9fdc3806#rd)）
+
+- [摘要：Codex推出/pet和/goal，不管是啥我都要学](summaries/摘要：Codex推出-pet和-goal，不管是啥我都要学.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA5MTIxNTY4MQ%3D%3D&mid=2461159607&idx=1&sn=a5b83cb73c3f68c2a272084aba243351&chksm=86423cd650291c6afa26f42686776cc115aa9bea16e70740052fe2c6f25f9fa46d966baf5d22#rd)）

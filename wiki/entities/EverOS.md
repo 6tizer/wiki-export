@@ -35,6 +35,8 @@ EverOS 是 EverMind 推出的长期记忆基础设施平台，定位为面向自
 
 - [原文链接](https://x.com/berryxia/status/2044054552639627375)｜源文章：EverOS：让 AI Agent 拥有「长期记忆」的开源操作系统
 
+- [摘要：对话EverMind：4个月做到SOTA，要给所有Agent装上长期记忆](summaries/摘要：对话EverMind：4个月做到SOTA，要给所有Agent装上长期记忆.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ%3D%3D&mid=2247628413&idx=1&sn=3a2d41025ce091f6d4b4d8912a5016cc&chksm=c3b17d6b8af06121ac86e9f4fad7e604cda3195b857da8c1e23e204e3e5ff39ca99087f2f655#rd)）
+
 ## 关联概念
 
 - [EverMind](entities/EverMind.md)

@@ -42,6 +42,8 @@ notion_id: 73065867-e3bc-49ad-a6a2-00e7a05f8ddb
 
 - [摘要：DESIGN.md | The One File AI Needs to Match Your UI](summaries/摘要：DESIGN.md  The One File AI Needs to Match Your UI.md)（[原文](https://x.com/nurijanian/status/2048327986777350425)）
 
+- [摘要：Open Design开源AI设计平台操作指南](summaries/摘要：Open Design开源AI设计平台操作指南.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2MjIwODc3Mw%3D%3D&mid=2247518546&idx=1&sn=b7e340057327e37eaa414da8f73f2c54&chksm=cf03bb2e5e663169f8ac4d30e861142ad85293ab74b7795fb00b0d259549bef37aa984e1a38e#rd)）
+
 ## 关联概念
 
 - [Google Stitch](entities/Google Stitch.md)
