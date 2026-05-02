@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1952, "summary": 1448, "synthesis": 144, "entity": 999, "index": 2, "lint-report": 65, "qa": 4}
-total: 4614
+type_counts: {"concept": 1963, "summary": 1455, "synthesis": 146, "entity": 1003, "index": 2, "lint-report": 65, "qa": 4}
+total: 4638
 last_updated: 2026-05-02
 ---
 
 # 📚 知识 Wiki Index
 
-> 1952 concepts · 999 entitys · 2 indexs · 65 lint-reports · 4 qas · 1448 summarys · 144 synthesiss
+> 1963 concepts · 1003 entitys · 2 indexs · 65 lint-reports · 4 qas · 1455 summarys · 146 synthesiss
 > 导出时间: 2026-05-02
 
 ## 使用方式
@@ -85,6 +85,7 @@ last_updated: 2026-05-02
 - [三代币模型](concepts/三代币模型.md)
 - [个人 AI 操作系统](concepts/个人 AI 操作系统.md)
 - [个人超级智能](concepts/个人超级智能.md)
+- [互动影游](concepts/互动影游.md)
 - [交互式可视化](concepts/交互式可视化.md)
 - [内容再利用引擎](concepts/内容再利用引擎.md)
 - [动态视觉解释](concepts/动态视觉解释.md)
@@ -130,6 +131,7 @@ last_updated: 2026-05-02
 - [AI Benchy](entities/AI Benchy.md)
 - [AI Co-scientist](entities/AI Co-scientist.md)
 - [AI Hedge Fund](entities/AI Hedge Fund.md)
+- [AI Prompting for Everyone](entities/AI Prompting for Everyone.md)
 - [AI Scientist](entities/AI Scientist.md)
 - [AI Search Hub](entities/AI Search Hub.md)
 - [AI Super Quant](entities/AI Super Quant.md)
@@ -419,6 +421,7 @@ last_updated: 2026-05-02
 - [X导师.skill](entities/X导师.skill.md)
 - [ZeeLinClaw](entities/ZeeLinClaw.md)
 - [Zenmux](entities/Zenmux.md)
+- [ai-goofish-monitor](entities/ai-goofish-monitor.md)
 - [ai-gradio](entities/ai-gradio.md)
 - [auth2api](entities/auth2api.md)
 - [awesome-nuwa](entities/awesome-nuwa.md)
@@ -467,6 +470,7 @@ last_updated: 2026-05-02
 - [摘要：2025 年 AI Agent 生态全景图：框架、启动板、明星 Agent 与顶级 Builder](summaries/摘要：2025 年 AI Agent 生态全景图：框架、启动板、明星 Agent 与顶级 Builder.md)
 - [摘要：2026年AI产品订阅实战指南——9种付费场景](summaries/摘要：2026年AI产品订阅实战指南——9种付费场景.md)
 - [摘要：20天20000次Claude code对话，烧掉 12 亿token，我学到了什么](summaries/摘要：20天20000次Claude code对话，烧掉 12 亿token，我学到了什么.md)
+- [摘要：22年的提示词技巧过时了！刚刚，吴恩达新课来了](summaries/摘要：22年的提示词技巧过时了！刚刚，吴恩达新课来了.md)
 - [摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了](summaries/摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了.md)
 - [摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst](summaries/摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst.md)
 - [摘要：40 Claude Cowork Commands, Workflows & Automations Most Users Don't Know — The Complete List](summaries/摘要：40 Claude Cowork Commands, Workflows & Automations Most Users Don't Know — The Complete List.md)
@@ -476,6 +480,7 @@ last_updated: 2026-05-02
 - [摘要：AI Coding 时代的企业 IT 组织重塑](summaries/摘要：AI Coding 时代的企业 IT 组织重塑.md)
 - [摘要：AI Coding大有可为，但Vibe Coding还是先洗洗睡吧](summaries/摘要：AI Coding大有可为，但Vibe Coding还是先洗洗睡吧.md)
 - [摘要：AI Super Quant：把资金费率套利和 Polymarket 对冲做成人人可用的面板](summaries/摘要：AI Super Quant：把资金费率套利和 Polymarket 对冲做成人人可用的面板.md)
+- [摘要：AI圈公认最强的二手好物监控工具，懂的人已经开始躺着捡漏了](summaries/摘要：AI圈公认最强的二手好物监控工具，懂的人已经开始躺着捡漏了.md)
 - [摘要：AI时代，PM的那本「剧本」过时了](summaries/摘要：AI时代，PM的那本「剧本」过时了.md)
 - [摘要：AI智力天花板崩了！GPT-5.5 Pro视觉智商145，撞倒门萨俱乐部门槛](summaries/摘要：AI智力天花板崩了！GPT-5.5 Pro视觉智商145，撞倒门萨俱乐部门槛.md)
 - [摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车](summaries/摘要：APEX-SWE：当 AI 编码基准开始测「真实软件工程」，顶级模型依然在60%的任务上翻车.md)
@@ -681,6 +686,7 @@ last_updated: 2026-05-02
 - [摘要：最近搞OPC提效，这个AI浏览器让我回不去了...](summaries/摘要：最近搞OPC提效，这个AI浏览器让我回不去了.md)
 - [摘要：有人开发出了一款 AI，它解读 K 线图的方式就像 GPT 阅读英文一样。该模型基于来自 45 个交易所的 120 亿条记录训练而成。其表现优于所有其他模型 93%。提供 BTC 实盘演示。免费。](summaries/摘要：有人开发出了一款 AI，它解读 K 线图的方式就像 GPT 阅读英文一样。该模型基于来自 45 个交易所的 120 亿条记录训练而成。其表现优于所有其他模型 93%。提供 BTC 实盘演示。免费。.md)
 - [摘要：每天陪长辈聊几分钟，年底自动生成一本回忆录——这个AI产品让我哭了](summaries/摘要：每天陪长辈聊几分钟，年底自动生成一本回忆录——这个AI产品让我哭了.md)
+- [摘要：清新团队发布互动影游Demo](summaries/摘要：清新团队发布互动影游Demo.md)
 - [摘要：灵光：日抛「APP」，用「Feed流」分发](summaries/摘要：灵光：日抛「APP」，用「Feed流」分发.md)
 - [摘要：炸了！学术论文「全自动撰写 Skill」来了：research→write→review→revise→finalize，连审稿都给你包了](summaries/摘要：炸了！学术论文「全自动撰写 Skill」来了：research→write→review→revise→finalize，连审稿都给你包了.md)
 - [摘要：王炸！AI时代的"360管家"来了，腾讯管家下场做"龙虾"，可对接微信](summaries/摘要：王炸！AI时代的360管家来了，腾讯管家下场做龙虾，可对接微信.md)
@@ -723,6 +729,7 @@ last_updated: 2026-05-02
 ## AI 对齐
 ### Concepts
 - [AGI 学习路径](concepts/AGI 学习路径.md)
+- [AI Sycophancy](concepts/AI Sycophancy.md)
 - [AI 福利陷阱](concepts/AI 福利陷阱.md)
 - [AI心理学](concepts/AI心理学.md)
 - [AI自主研究循环](concepts/AI自主研究循环.md)
@@ -1085,12 +1092,14 @@ last_updated: 2026-05-02
 - [摘要：这才是AI做ppt的正确姿势 ！](summaries/摘要：这才是AI做ppt的正确姿势 ！.md)
 
 ### Synthesiss
+- [AI 原生界面工程的三维融合：设计语言约束如何塑造代码生成策略、前端架构如何重塑生成管线、生成能力如何反向定义设计标准](syntheses/AI 原生界面工程的三维融合：设计语言约束如何塑造代码生成策略、前端架构如何重塑生成管线、生成能力如何反向定义设计标准.md)
 - [AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径](syntheses/AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径.md)
 - [AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱](syntheses/AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱.md)
 - [Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言](syntheses/Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言.md)
 - [系统设计模式的双域同构：AI 基础设施与协议架构如何独立演化出相同的并发治理、资源调度与状态隔离范式](syntheses/系统设计模式的双域同构：AI 基础设施与协议架构如何独立演化出相同的并发治理、资源调度与状态隔离范式.md)
 - [视觉内容工厂的三角引擎：AI 设计约束、图像生成能力与内容自动化规模如何在「品质—产能—创意」的三维张力中共演分化](syntheses/视觉内容工厂的三角引擎：AI 设计约束、图像生成能力与内容自动化规模如何在「品质—产能—创意」的三维张力中共演分化.md)
 - [视觉生成的三角引力场：图像生成技术栈、AI 设计语言与多模态架构如何在「生成—约束—理解」的闭环中共演分化](syntheses/视觉生成的三角引力场：图像生成技术栈、AI 设计语言与多模态架构如何在「生成—约束—理解」的闭环中共演分化.md)
+- [设计知识的可计算化路径：当 AI 设计规范成为可编译的知识资产，知识管理体系如何反哺设计系统的结构化沉淀与自动化复用](syntheses/设计知识的可计算化路径：当 AI 设计规范成为可编译的知识资产，知识管理体系如何反哺设计系统的结构化沉淀与自动化复用.md)
 
 ## Agent 协作模式
 ### Concepts
@@ -2504,6 +2513,7 @@ last_updated: 2026-05-02
 - [摘要：想让AI查个B站热门、知乎话题、微博热搜，Claude/OpenClaw根本访问不了这些网站。申请API又太麻烦，很多平台还不给个人开发者资质。](summaries/摘要：想让AI查个B站热门、知乎话题、微博热搜，Claude-OpenClaw根本访问不了这些网站。申请API又太麻烦，很多平台还不给个人开发者资质。.md)
 - [摘要：我把微信 cli 开源了，群消息终于不用爬楼了](summaries/摘要：我把微信 cli 开源了，群消息终于不用爬楼了.md)
 - [摘要：我给Claude Code 增加了多模型切换功能](summaries/摘要：我给Claude Code 增加了多模型切换功能.md)
+- [摘要：手把手配 3 个实用 Hermes 定时任务](summaries/摘要：手把手配 3 个实用 Hermes 定时任务.md)
 - [摘要：扣子2.5，开启全新 Agent World！](summaries/摘要：扣子2.5，开启全新 Agent World！.md)
 - [摘要：扣子编程 CLI，对所有 Agent 全面开放](summaries/摘要：扣子编程 CLI，对所有 Agent 全面开放.md)
 - [摘要：找到了一种Codex自由的方式，无限量](summaries/摘要：找到了一种Codex自由的方式，无限量.md)
@@ -3155,6 +3165,8 @@ last_updated: 2026-05-02
 - [Agentic Engineering](concepts/Agentic Engineering.md)
 - [Artifact](concepts/Artifact.md)
 - [Claude Code Routines](concepts/Claude Code Routines.md)
+- [Codex /goal](concepts/Codex -goal.md)
+- [Codex Pets](concepts/Codex Pets.md)
 - [Codex 插件系统](concepts/Codex 插件系统.md)
 - [Cursor /multitask](concepts/Cursor -multitask.md)
 - [DESIGN.md](concepts/DESIGN.md.md)
@@ -3224,6 +3236,7 @@ last_updated: 2026-05-02
 - [摘要：codex-plugin-cc：OpenAI 官方出手，把 Codex 塞进了 Claude Code](summaries/摘要：codex-plugin-cc：OpenAI 官方出手，把 Codex 塞进了 Claude Code.md)
 - [摘要：fireworks-tech-graph：用自然语言生成工业级架构图，Claude Code 绘图神器！](summaries/摘要：fireworks-tech-graph：用自然语言生成工业级架构图，Claude Code 绘图神器！.md)
 - [摘要：local Windsurf language server](summaries/摘要：local Windsurf language server.md)
+- [摘要：今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了](summaries/摘要：今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了.md)
 - [摘要：前端 Gemini、后端 Codex：用 Claude Code 调度多 Agent 的分工哲学](summaries/摘要：前端 Gemini、后端 Codex：用 Claude Code 调度多 Agent 的分工哲学.md)
 - [摘要：各家Coding Plan为啥不兼容Claude WebSearch格式](summaries/摘要：各家Coding Plan为啥不兼容Claude WebSearch格式.md)
 - [摘要：国企领导："现在都是 Agent自动开发了，你还在对话模式，太落后了！"](summaries/摘要：国企领导：现在都是 Agent自动开发了，你还在对话模式，太落后了！.md)
@@ -4877,7 +4890,9 @@ last_updated: 2026-05-02
 - [Claude Code Agent 循环](concepts/Claude Code Agent 循环.md)
 - [Claude Code Teleport](concepts/Claude Code Teleport.md)
 - [CodeBrain](concepts/CodeBrain.md)
+- [Codex /goal](concepts/Codex -goal.md)
 - [Codex App Server](concepts/Codex App Server.md)
+- [Codex Pets](concepts/Codex Pets.md)
 - [Codex 插件系统](concepts/Codex 插件系统.md)
 - [Coding Agent](concepts/Coding Agent.md)
 - [CrystalBLEU](concepts/CrystalBLEU.md)
@@ -5092,6 +5107,7 @@ last_updated: 2026-05-02
 - [摘要：superpowers：把 AI 编码代理关进工程规范「笼子」的开源框架](summaries/摘要：superpowers：把 AI 编码代理关进工程规范「笼子」的开源框架.md)
 - [摘要：「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？](summaries/摘要：「双线实测」Qwen 3.6-Plus，Agentic Coding 已经这么能“扛活儿”了？.md)
 - [摘要：今天才发现自己 80.8% 的 Claude Code skill 是装废的。](summaries/摘要：今天才发现自己 80.8% 的 Claude Code skill 是装废的。.md)
+- [摘要：今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了](summaries/摘要：今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了.md)
 - [摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课](summaries/摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课.md)
 - [摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。](summaries/摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。.md)
 - [摘要：从Vibe Coding到Wish Coding，AI编程迎来C端拐点](summaries/摘要：从Vibe Coding到Wish Coding，AI编程迎来C端拐点.md)
@@ -5127,6 +5143,7 @@ last_updated: 2026-05-02
 - [摘要：阿里下场做了中国版的 Lovable，好用到炸。](summaries/摘要：阿里下场做了中国版的 Lovable，好用到炸。.md)
 
 ### Synthesiss
+- [AI 原生界面工程的三维融合：设计语言约束如何塑造代码生成策略、前端架构如何重塑生成管线、生成能力如何反向定义设计标准](syntheses/AI 原生界面工程的三维融合：设计语言约束如何塑造代码生成策略、前端架构如何重塑生成管线、生成能力如何反向定义设计标准.md)
 - [Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构](syntheses/Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构.md)
 - [Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路](syntheses/Coding Agent 开发管线的三维共演：当工具链成为工作流运行时，Hooks 如何缝合工具—方法—执行的反馈回路.md)
 - [Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式](syntheses/Coding Agent 技能设计模式：从文件协议到结构化能力封装的五种 Skill 架构范式.md)
@@ -5142,7 +5159,9 @@ last_updated: 2026-05-02
 - [AI Post Verification](concepts/AI Post Verification.md)
 - [AI Token](concepts/AI Token.md)
 - [AI 优先视频工作流](concepts/AI 优先视频工作流.md)
+- [AI 内容管线](concepts/AI 内容管线.md)
 - [AI 冷外展自动化](concepts/AI 冷外展自动化.md)
+- [AI 商品监控](concepts/AI 商品监控.md)
 - [AI 模式排版请求](concepts/AI 模式排版请求.md)
 - [AI 生成 BOM](concepts/AI 生成 BOM.md)
 - [AI 电商带货视频](concepts/AI 电商带货视频.md)
@@ -5192,6 +5211,7 @@ last_updated: 2026-05-02
 - [Playbook 驱动策略](concepts/Playbook 驱动策略.md)
 - [PostToolUse](concepts/PostToolUse.md)
 - [Pretext 渲染引擎](concepts/Pretext 渲染引擎.md)
+- [Prompt 自包含原则](concepts/Prompt 自包含原则.md)
 - [Proof Review Loop](concepts/Proof Review Loop.md)
 - [RPA](concepts/RPA.md)
 - [Review Agents](concepts/Review Agents.md)
@@ -5523,6 +5543,7 @@ last_updated: 2026-05-02
 - [摘要：我给了他一个梦想：超越 Claude Code](summaries/摘要：我给了他一个梦想：超越 Claude Code.md)
 - [摘要：我给龙虾接上了语音能力，1分钟克隆音色，终于可以退订NotebookLM了](summaries/摘要：我给龙虾接上了语音能力，1分钟克隆音色，终于可以退订NotebookLM了.md)
 - [摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线](summaries/摘要：我翻了 Codex App的插件后，开始相信 skills pipeline 才是 AI 系统的主线.md)
+- [摘要：手把手配 3 个实用 Hermes 定时任务](summaries/摘要：手把手配 3 个实用 Hermes 定时任务.md)
 - [摘要：扣子编程 CLI，对所有 Agent 全面开放](summaries/摘要：扣子编程 CLI，对所有 Agent 全面开放.md)
 - [摘要：技术动态 | OpenClaw带火的大量Skill如何做RAG？一项实验报告及学科图表转LaTeXcode强化学习思路](summaries/摘要：技术动态  OpenClaw带火的大量Skill如何做RAG？一项实验报告及学科图表转LaTeXcode强化学习思路.md)
 - [摘要：把一个月的研究压缩到 3 小时：一位 YC 创始人的 Claude 提问法](summaries/摘要：把一个月的研究压缩到 3 小时：一位 YC 创始人的 Claude 提问法.md)
@@ -5534,6 +5555,7 @@ last_updated: 2026-05-02
 - [摘要：模型只是引擎，System Prompt 才是底盘：用 Claude 优化自身的迁移实验](summaries/摘要：模型只是引擎，System Prompt 才是底盘：用 Claude 优化自身的迁移实验.md)
 - [摘要：沧海老张：五个月从零到5M流量，我是这样在X上做起来的](summaries/摘要：沧海老张：五个月从零到5M流量，我是这样在X上做起来的.md)
 - [摘要：清华沈阳团队发布：首个由 AI 自动化科研框架独立研发的新型压缩算法](summaries/摘要：清华沈阳团队发布：首个由 AI 自动化科研框架独立研发的新型压缩算法.md)
+- [摘要：清新团队发布互动影游Demo](summaries/摘要：清新团队发布互动影游Demo.md)
 - [摘要：湾大北交大开源 CutClaw，自动踩点音乐的 AI 智能视频剪辑师](summaries/摘要：湾大北交大开源 CutClaw，自动踩点音乐的 AI 智能视频剪辑师.md)
 - [摘要：灵光：日抛「APP」，用「Feed流」分发](summaries/摘要：灵光：日抛「APP」，用「Feed流」分发.md)
 - [摘要：用 CLIProxyAPI 聚合多账号免费额度，实现 GPT-5.4 「Token 自由」](summaries/摘要：用 CLIProxyAPI 聚合多账号免费额度，实现 GPT-5.4 「Token 自由」.md)
@@ -5703,6 +5725,7 @@ last_updated: 2026-05-02
 - [摘要：设计师们的天塌了，谷歌 Stitch 太疯狂了](summaries/摘要：设计师们的天塌了，谷歌 Stitch 太疯狂了.md)
 
 ### Synthesiss
+- [AI 原生界面工程的三维融合：设计语言约束如何塑造代码生成策略、前端架构如何重塑生成管线、生成能力如何反向定义设计标准](syntheses/AI 原生界面工程的三维融合：设计语言约束如何塑造代码生成策略、前端架构如何重塑生成管线、生成能力如何反向定义设计标准.md)
 - [AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型](syntheses/AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型.md)
 - [前端技术栈如何重塑浏览器自动化：从 DOM 操控到浏览器内 Agent 的交互层融合与能力边界演进](syntheses/前端技术栈如何重塑浏览器自动化：从 DOM 操控到浏览器内 Agent 的交互层融合与能力边界演进.md)
 - [开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径](syntheses/开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径.md)
@@ -6733,6 +6756,7 @@ last_updated: 2026-05-02
 - [摘要：中国西部小城成为全球 Token 工厂](summaries/摘要：中国西部小城成为全球 Token 工厂.md)
 - [摘要：为了Token，阿里云竟然出了一个TPN？](summaries/摘要：为了Token，阿里云竟然出了一个TPN？.md)
 - [摘要：互联网已死，Agent 永生：oran_ge 的六刀与四块基石](summaries/摘要：互联网已死，Agent 永生：oran_ge 的六刀与四块基石.md)
+- [摘要：今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了](summaries/摘要：今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了.md)
 - [摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课](summaries/摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课.md)
 - [摘要：从 Harness 到 Environment? 这波 Agent 创业还有护城河吗？](summaries/摘要：从 Harness 到 Environment 这波 Agent 创业还有护城河吗？.md)
 - [摘要：传播定价模型：用「猜疑链」解剖 Crypto 的 FOMO 本质](summaries/摘要：传播定价模型：用「猜疑链」解剖 Crypto 的 FOMO 本质.md)
@@ -6989,6 +7013,7 @@ last_updated: 2026-05-02
 - [Agentic RAG](concepts/Agentic RAG.md)
 - [Agentic Workflow](concepts/Agentic Workflow.md)
 - [Agent八原语框架](concepts/Agent八原语框架.md)
+- [Aggregation Drift](concepts/Aggregation Drift.md)
 - [Ambient Processing](concepts/Ambient Processing.md)
 - [Autoreason](concepts/Autoreason.md)
 - [Auxiliary 副驾模型](concepts/Auxiliary 副驾模型.md)
@@ -7027,6 +7052,8 @@ last_updated: 2026-05-02
 - [MCP 协议](concepts/MCP 协议.md)
 - [Mediator 层](concepts/Mediator 层.md)
 - [Meme 币扫链](concepts/Meme 币扫链.md)
+- [Mixture-of-Agents](concepts/Mixture-of-Agents.md)
+- [Mixture-of-Judges](concepts/Mixture-of-Judges.md)
 - [Multi-Agent 群聊](concepts/Multi-Agent 群聊.md)
 - [OASIS](concepts/OASIS.md)
 - [OPSX](concepts/OPSX.md)
@@ -7212,6 +7239,7 @@ last_updated: 2026-05-02
 - [Paperclip](entities/Paperclip.md)
 - [PraisonAI](entities/PraisonAI.md)
 - [Qoder](entities/Qoder.md)
+- [RouteMoA](entities/RouteMoA.md)
 - [SOL-ExecBench](entities/SOL-ExecBench.md)
 - [Sigrid Jin](entities/Sigrid Jin.md)
 - [Slock](entities/Slock.md)
@@ -7267,6 +7295,7 @@ last_updated: 2026-05-02
 - [摘要：50个Skills让你的OpenClaw脱胎换骨](summaries/摘要：50个Skills让你的OpenClaw脱胎换骨.md)
 - [摘要：A complete AI agency at your fingertips](summaries/摘要：A complete AI agency at your fingertips.md)
 - [摘要：A new way to think about composing skills to increase leverage: Skill Graphs 2.0](summaries/摘要：A new way to think about composing skills to increase leverage- Skill Graphs 2.0.md)
+- [摘要：ACL 2026 | RouteMoA：无需预推理的动态路由，实现高效多智能体混合](summaries/摘要：ACL 2026  RouteMoA：无需预推理的动态路由，实现高效多智能体混合.md)
 - [摘要：AI 编程三大 SDD 工具深度对比（OpenSpec vs Superpowers vs GSD）](summaries/摘要：AI 编程三大 SDD 工具深度对比（OpenSpec vs Superpowers vs GSD）.md)
 - [摘要：Abacus.AI ChatLLM Teams：每月 10 美元，一个平台访问所有顶级大模型](summaries/摘要：Abacus.AI ChatLLM Teams：每月 10 美元，一个平台访问所有顶级大模型.md)
 - [摘要：Agent 军团屠榜 GitHub：2026 年春值得关注的五个爆款开源项目](summaries/摘要：Agent 军团屠榜 GitHub：2026 年春值得关注的五个爆款开源项目.md)
@@ -7958,6 +7987,7 @@ last_updated: 2026-05-02
 - [Qwen3.5-9B-GLM5.1-Distill-v1](entities/Qwen3.5-9B-GLM5.1-Distill-v1.md)
 - [Qwen3.6-35B-A3B](entities/Qwen3.6-35B-A3B.md)
 - [Qwopus-GLM-18B-Merged-GGUF](entities/Qwopus-GLM-18B-Merged-GGUF.md)
+- [RouteMoA](entities/RouteMoA.md)
 - [SGLang](entities/SGLang.md)
 - [Step 3.5 Flash](entities/Step 3.5 Flash.md)
 - [TileLang](entities/TileLang.md)
@@ -7975,6 +8005,7 @@ last_updated: 2026-05-02
 - [摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了](summaries/摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了.md)
 - [摘要：7天用Claude+Codex实现谷歌 TurboQuant 算法（已开源）](summaries/摘要：7天用Claude+Codex实现谷歌 TurboQuant 算法（已开源）.md)
 - [摘要：88岁图灵奖得主，用Claude一小时破解30年数学悬案](summaries/摘要：88岁图灵奖得主，用Claude一小时破解30年数学悬案.md)
+- [摘要：ACL 2026 | RouteMoA：无需预推理的动态路由，实现高效多智能体混合](summaries/摘要：ACL 2026  RouteMoA：无需预推理的动态路由，实现高效多智能体混合.md)
 - [摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.](summaries/摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.md)
 - [摘要：Claude Opus 4.7 is now available in Windsurf 2.0!](summaries/摘要：Claude Opus 4.7 is now available in Windsurf 2.0!.md)
 - [摘要：Claude 推出 Advisor Strategy](summaries/摘要：Claude 推出 Advisor Strategy.md)
@@ -8104,6 +8135,7 @@ last_updated: 2026-05-02
 - [Prompt Stack](concepts/Prompt Stack.md)
 - [Prompt Stack](concepts/Prompt Stack-6afdfa72.md)
 - [Prompt Templates](concepts/Prompt Templates.md)
+- [Prompt 自包含原则](concepts/Prompt 自包含原则.md)
 - [Push back 协作](concepts/Push back 协作.md)
 - [ReAct Agent](concepts/ReAct Agent.md)
 - [SCQA 写作框架](concepts/SCQA 写作框架.md)
@@ -8168,6 +8200,7 @@ last_updated: 2026-05-02
 - [道法术器框架](concepts/道法术器框架.md)
 
 ### Entitys
+- [AI Prompting for Everyone](entities/AI Prompting for Everyone.md)
 - [Blueprint.am](entities/Blueprint.am.md)
 - [Claude Opus 4.7](entities/Claude Opus 4.7.md)
 - [Claude Token Efficient](entities/Claude Token Efficient.md)
@@ -8186,6 +8219,7 @@ last_updated: 2026-05-02
 ### Summarys
 - [摘要：134k Star 的宝藏仓库：AI 编程工具的 System Prompt 全被扒出来了](summaries/摘要：134k Star 的宝藏仓库：AI 编程工具的 System Prompt 全被扒出来了.md)
 - [摘要：20 Powerful Agentic-Skills for Claude, ChatGPT & Gemini.](summaries/摘要：20 Powerful Agentic-Skills for Claude, ChatGPT & Gemini.md)
+- [摘要：22年的提示词技巧过时了！刚刚，吴恩达新课来了](summaries/摘要：22年的提示词技巧过时了！刚刚，吴恩达新课来了.md)
 - [摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了](summaries/摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了.md)
 - [摘要：5 pipelines I'd sell today using Claude Code (none of them are coding)](summaries/摘要：5 pipelines I'd sell today using Claude Code (none of them are coding).md)
 - [摘要：Agent Skills 的设计哲学——为什么文件夹成了最强武器](summaries/摘要：Agent Skills 的设计哲学——为什么文件夹成了最强武器.md)
@@ -8265,6 +8299,7 @@ last_updated: 2026-05-02
 - [8维度评估体系](concepts/8维度评估体系.md)
 - [APEX-SWE](concepts/APEX-SWE.md)
 - [ARC-AGI-2](concepts/ARC-AGI-2.md)
+- [ARC-AGI-3](concepts/ARC-AGI-3.md)
 - [Agent 模拟测试](concepts/Agent 模拟测试.md)
 - [Agentic Review 偏差](concepts/Agentic Review 偏差.md)
 - [AuditBench](concepts/AuditBench.md)
@@ -8295,6 +8330,7 @@ last_updated: 2026-05-02
 - [MedVidBench](concepts/MedVidBench.md)
 - [Metric Library](concepts/Metric Library.md)
 - [MiMo Coding Bench](concepts/MiMo Coding Bench.md)
+- [Mixture-of-Judges](concepts/Mixture-of-Judges.md)
 - [Pass^3](concepts/Pass^3.md)
 - [QwenChineseBench](concepts/QwenChineseBench.md)
 - [QwenClawBench](concepts/QwenClawBench.md)
@@ -8353,6 +8389,7 @@ last_updated: 2026-05-02
 
 ### Entitys
 - [AI Benchy](entities/AI Benchy.md)
+- [ARC Prize](entities/ARC Prize.md)
 - [Artificial Analysis Video Arena](entities/Artificial Analysis Video Arena.md)
 - [Better-Harness](entities/Better-Harness.md)
 - [BixBench](entities/BixBench.md)
@@ -8459,6 +8496,7 @@ last_updated: 2026-05-02
 - [摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！](summaries/摘要：让大模型理解真实医疗视频，全球首个开源技术方案来了！.md)
 - [摘要：谷歌掀语音Agent新纪元！开口就是生产力](summaries/摘要：谷歌掀语音Agent新纪元！开口就是生产力.md)
 - [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)
+- [摘要：这套题，GPT-5.5、Opus 4.7加起来没考到「1分」，人类却拿了满分100？](summaries/摘要：这套题，GPT-5.5、Opus 4.7加起来没考到「1分」，人类却拿了满分100？.md)
 
 ### Synthesiss
 - [扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈](syntheses/扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈.md)
@@ -8647,6 +8685,7 @@ last_updated: 2026-05-02
 ## 浏览器自动化
 ### Concepts
 - [AI 冷外展自动化](concepts/AI 冷外展自动化.md)
+- [AI 商品监控](concepts/AI 商品监控.md)
 - [Accessibility Tree](concepts/Accessibility Tree.md)
 - [Agent 自修复循环](concepts/Agent 自修复循环.md)
 - [Agent 自我调试](concepts/Agent 自我调试.md)
@@ -8740,6 +8779,7 @@ last_updated: 2026-05-02
 - [VibeClaw](entities/VibeClaw.md)
 - [XCrawl](entities/XCrawl.md)
 - [agent-browser](entities/agent-browser.md)
+- [ai-goofish-monitor](entities/ai-goofish-monitor.md)
 - [ai-gradio](entities/ai-gradio.md)
 - [bb-browser](entities/bb-browser.md)
 - [byob](entities/byob.md)
@@ -8758,6 +8798,7 @@ last_updated: 2026-05-02
 ### Summarys
 - [摘要：15岁少年养AI龙虾，月入3万美元！智能体黄金时代真来了](summaries/摘要：15岁少年养AI龙虾，月入3万美元！智能体黄金时代真来了.md)
 - [摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst](summaries/摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst.md)
+- [摘要：AI圈公认最强的二手好物监控工具，懂的人已经开始躺着捡漏了](summaries/摘要：AI圈公认最强的二手好物监控工具，懂的人已经开始躺着捡漏了.md)
 - [摘要：Agent Reach 一键解锁全网调研超能力](summaries/摘要：Agent Reach 一键解锁全网调研超能力.md)
 - [摘要：Bring Your Own Browser](summaries/摘要：Bring Your Own Browser.md)
 - [摘要：Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器](summaries/摘要：Browser Use × Hermes Agent：每个开源 Agent 现在都有了免费的云端浏览器.md)
@@ -9590,6 +9631,7 @@ last_updated: 2026-05-02
 - [知识管理与记忆系统的架构融合：从文档检索到编译式知识引擎的设计范式演进](syntheses/知识管理与记忆系统的架构融合：从文档检索到编译式知识引擎的设计范式演进.md)
 - [系统重设计方案：状态体系 + Dashboard V2](syntheses/系统重设计方案：状态体系 + Dashboard V2.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
+- [设计知识的可计算化路径：当 AI 设计规范成为可编译的知识资产，知识管理体系如何反哺设计系统的结构化沉淀与自动化复用](syntheses/设计知识的可计算化路径：当 AI 设计规范成为可编译的知识资产，知识管理体系如何反哺设计系统的结构化沉淀与自动化复用.md)
 
 ## 社交媒体
 ### Concepts
@@ -9952,6 +9994,7 @@ last_updated: 2026-05-02
 - [5 层提示词结构](concepts/5 层提示词结构.md)
 - [AI 3D 生成](concepts/AI 3D 生成.md)
 - [AI 优先视频工作流](concepts/AI 优先视频工作流.md)
+- [AI 内容管线](concepts/AI 内容管线.md)
 - [AI 电商带货视频](concepts/AI 电商带货视频.md)
 - [Agent 原生视频编辑](concepts/Agent 原生视频编辑.md)
 - [Documentary Montage](concepts/Documentary Montage.md)
@@ -9975,6 +10018,7 @@ last_updated: 2026-05-02
 - [一句话成片](concepts/一句话成片.md)
 - [上下文感知创作](concepts/上下文感知创作.md)
 - [世界演化建模](concepts/世界演化建模.md)
+- [互动影游](concepts/互动影游.md)
 - [体素重建](concepts/体素重建.md)
 - [动画风格库](concepts/动画风格库.md)
 - [单变量受控迭代](concepts/单变量受控迭代.md)
@@ -10094,6 +10138,7 @@ last_updated: 2026-05-02
 - [摘要：坏了！这下真能玩了](summaries/摘要：坏了！这下真能玩了.md)
 - [摘要：对话 OiiOii 创始人闹闹：做 AI 时代的皮克斯](summaries/摘要：对话 OiiOii 创始人闹闹：做 AI 时代的皮克斯.md)
 - [摘要：接入拓竹只是开始，AI 3D 赛道第一个盈利样本长什么样](summaries/摘要：接入拓竹只是开始，AI 3D 赛道第一个盈利样本长什么样.md)
+- [摘要：清新团队发布互动影游Demo](summaries/摘要：清新团队发布互动影游Demo.md)
 - [摘要：湾大北交大开源 CutClaw，自动踩点音乐的 AI 智能视频剪辑师](summaries/摘要：湾大北交大开源 CutClaw，自动踩点音乐的 AI 智能视频剪辑师.md)
 - [摘要：腾讯混元开源世界模型！2.0版本一键生成3D空间，游戏关卡随心造](summaries/摘要：腾讯混元开源世界模型！2.0版本一键生成3D空间，游戏关卡随心造.md)
 - [摘要：阿里“快乐马”团队再出手！正面叫板谷歌 Genie 3，世界模型 HappyOyster 来了](summaries/摘要：阿里“快乐马”团队再出手！正面叫板谷歌 Genie 3，世界模型 HappyOyster 来了.md)
@@ -11416,6 +11461,7 @@ last_updated: 2026-05-02
 - [摘要：2026年的开源社区，已经不是人在玩AI了，已经进化到 AI在玩AI，玩得比人类还好很多😆😆😆](summaries/摘要：2026年的开源社区，已经不是人在玩AI了，已经进化到 AI在玩AI，玩得比人类还好很多😆😆😆.md)
 - [摘要：20万变30亿！也许，我们都错怪SBF了...](summaries/摘要：20万变30亿！也许，我们都错怪SBF了.md)
 - [摘要：20天20000次Claude code对话，烧掉 12 亿token，我学到了什么](summaries/摘要：20天20000次Claude code对话，烧掉 12 亿token，我学到了什么.md)
+- [摘要：22年的提示词技巧过时了！刚刚，吴恩达新课来了](summaries/摘要：22年的提示词技巧过时了！刚刚，吴恩达新课来了.md)
 - [摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了](summaries/摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了.md)
 - [摘要：28 tools under the hood of bot that made $1M on Polymarket](summaries/摘要：28 tools under the hood of bot that made $1M on Polymarket.md)
 - [摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst](summaries/摘要：3 Things I learnt after 3 weeks of using Hermes as a personal analyst.md)
@@ -11446,6 +11492,7 @@ last_updated: 2026-05-02
 - [摘要：A dream come true for every human anxious about their agents leaking secrets.](summaries/摘要：A dream come true for every human anxious about their agents leaking secrets.md)
 - [摘要：A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all.](summaries/摘要：A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all.md)
 - [摘要：A new way to think about composing skills to increase leverage: Skill Graphs 2.0](summaries/摘要：A new way to think about composing skills to increase leverage- Skill Graphs 2.0.md)
+- [摘要：ACL 2026 | RouteMoA：无需预推理的动态路由，实现高效多智能体混合](summaries/摘要：ACL 2026  RouteMoA：无需预推理的动态路由，实现高效多智能体混合.md)
 - [摘要：ACP：让你的 AI Agent 自主接单、赚钱的代理商业协议](summaries/摘要：ACP：让你的 AI Agent 自主接单、赚钱的代理商业协议.md)
 - [摘要：AI Agent 不只会付款，更会做生意](summaries/摘要：AI Agent 不只会付款，更会做生意.md)
 - [摘要：AI Agent 堆栈的终局：去中心化算力、分布式训练与链上 AI 预言机](summaries/摘要：AI Agent 堆栈的终局：去中心化算力、分布式训练与链上 AI 预言机.md)
@@ -11472,6 +11519,7 @@ last_updated: 2026-05-02
 - [摘要：AI“中转站”月入百万？五问揭开Token交易真相！](summaries/摘要：AI“中转站”月入百万？五问揭开Token交易真相！.md)
 - [摘要：AI不会产生意识！谷歌DeepMind重磅论文看透大模型“伪装”的底层逻辑](summaries/摘要：AI不会产生意识！谷歌DeepMind重磅论文看透大模型“伪装”的底层逻辑.md)
 - [摘要：AI创业公司们，困在“眼前一黑”的账单里](summaries/摘要：AI创业公司们，困在“眼前一黑”的账单里.md)
+- [摘要：AI圈公认最强的二手好物监控工具，懂的人已经开始躺着捡漏了](summaries/摘要：AI圈公认最强的二手好物监控工具，懂的人已经开始躺着捡漏了.md)
 - [摘要：AI安全得查祖宗三代？Anthropic登Nature揭秘大模型潜意识传染](summaries/摘要：AI安全得查祖宗三代？Anthropic登Nature揭秘大模型潜意识传染.md)
 - [摘要：AI开发范式——Spec Kit、OpenSpec、BMAD 全解析](summaries/摘要：AI开发范式——Spec Kit、OpenSpec、BMAD 全解析.md)
 - [摘要：AI手和脚，企业微信：wecom-cli](summaries/摘要：AI手和脚，企业微信：wecom-cli.md)
@@ -12432,6 +12480,7 @@ last_updated: 2026-05-02
 - [摘要：五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了](summaries/摘要：五大真实场景横测GPT-image-2和Nano Banana2，我只能说香蕉要过气了.md)
 - [摘要：什么才是真正的 Harness Engineering？](summaries/摘要：什么才是真正的 Harness Engineering？.md)
 - [摘要：今天才发现自己 80.8% 的 Claude Code skill 是装废的。](summaries/摘要：今天才发现自己 80.8% 的 Claude Code skill 是装废的。.md)
+- [摘要：今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了](summaries/摘要：今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了.md)
 - [摘要：今年最让我心动的 AI 产品来了——Tolaria，一个轻量版 Obsidian，专为 AI 而生的 macOS 笔记应用。](summaries/摘要：今年最让我心动的 AI 产品来了——Tolaria，一个轻量版 Obsidian，专为 AI 而生的 macOS 笔记应用。.md)
 - [摘要：从 CLI 到桌面 App，再到技能市场：我们给我的 Rust Hermes Agent 造了一个完整的生态](summaries/摘要：从 CLI 到桌面 App，再到技能市场：我们给我的 Rust Hermes Agent 造了一个完整的生态.md)
 - [摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课](summaries/摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课.md)
@@ -12598,6 +12647,7 @@ last_updated: 2026-05-02
 - [摘要：我花 3 天逆向 gstack to dbs，发现方法论比代码更值钱](summaries/摘要：我花 3 天逆向 gstack to dbs，发现方法论比代码更值钱.md)
 - [摘要：我说怎么BTC NFT 全部爆涨了](summaries/摘要：我说怎么BTC NFT 全部爆涨了.md)
 - [摘要：手把手教你低成本用上 Claude Code：VPS + 住宅 IP + 订阅全流程](summaries/摘要：手把手教你低成本用上 Claude Code：VPS + 住宅 IP + 订阅全流程.md)
+- [摘要：手把手配 3 个实用 Hermes 定时任务](summaries/摘要：手把手配 3 个实用 Hermes 定时任务.md)
 - [摘要：扒完 Claude Code 源码里的记忆系统，我重新审视了 OpenClaw 的设计](summaries/摘要：扒完 Claude Code 源码里的记忆系统，我重新审视了 OpenClaw 的设计.md)
 - [摘要：打造可靠的 AI 编程环境：Claude Code Hooks 完整开发者指南](summaries/摘要：打造可靠的 AI 编程环境：Claude Code Hooks 完整开发者指南.md)
 - [摘要：扣子2.5，开启全新 Agent World！](summaries/摘要：扣子2.5，开启全新 Agent World！.md)
@@ -12662,6 +12712,7 @@ last_updated: 2026-05-02
 - [摘要：清华2年前预言，正成为全球共识！Meta等三大AI机构已得出同一结论](summaries/摘要：清华2年前预言，正成为全球共识！Meta等三大AI机构已得出同一结论.md)
 - [摘要：清华团队预言：90%的人将脱离谋生劳动，「零人公司」时代来了！](summaries/摘要：清华团队预言：90%的人将脱离谋生劳动，「零人公司」时代来了！.md)
 - [摘要：清华沈阳团队发布：首个由 AI 自动化科研框架独立研发的新型压缩算法](summaries/摘要：清华沈阳团队发布：首个由 AI 自动化科研框架独立研发的新型压缩算法.md)
+- [摘要：清新团队发布互动影游Demo](summaries/摘要：清新团队发布互动影游Demo.md)
 - [摘要：港大刚刚开源了 CLI-Anything！一个命令让任意软件秒变 AI Agent 原生工具！](summaries/摘要：港大刚刚开源了 CLI-Anything！一个命令让任意软件秒变 AI Agent 原生工具！.md)
 - [摘要：湾大北交大开源 CutClaw，自动踩点音乐的 AI 智能视频剪辑师](summaries/摘要：湾大北交大开源 CutClaw，自动踩点音乐的 AI 智能视频剪辑师.md)
 - [摘要：源码被开源，Claude Code之父回应了：纯内部开发者手滑](summaries/摘要：源码被开源，Claude Code之父回应了：纯内部开发者手滑.md)
@@ -12790,6 +12841,7 @@ last_updated: 2026-05-02
 - [摘要：这可能是东半球最丝滑的 Claude Code iOS 客户端了](summaries/摘要：这可能是东半球最丝滑的 Claude Code iOS 客户端了.md)
 - [摘要：这可能是我在 X 上到目前为止看到的最详细最具实操性的 TikTok AI slideshow 手册了，是 Roman 月营收从 0 到 10 万刀的完整路径复盘。](summaries/摘要：这可能是我在 X 上到目前为止看到的最详细最具实操性的 TikTok AI slideshow 手册了，是 Roman 月营收从 0 到 10 万刀的完整路径复盘。.md)
 - [摘要：这太疯狂了……有人做出了硬件工程师们渴望了几十年的东西](summaries/摘要：这太疯狂了……有人做出了硬件工程师们渴望了几十年的东西.md)
+- [摘要：这套题，GPT-5.5、Opus 4.7加起来没考到「1分」，人类却拿了满分100？](summaries/摘要：这套题，GPT-5.5、Opus 4.7加起来没考到「1分」，人类却拿了满分100？.md)
 - [摘要：这才是AI做ppt的正确姿势 ！](summaries/摘要：这才是AI做ppt的正确姿势 ！.md)
 - [摘要：这样用 Opus 4.7，才能发挥实力](summaries/摘要：这样用 Opus 4.7，才能发挥实力.md)
 - [摘要：这首AI歌曲为何戳中所有人，我们从未如此孤独。](summaries/摘要：这首AI歌曲为何戳中所有人，我们从未如此孤独。.md)
@@ -12852,6 +12904,7 @@ last_updated: 2026-05-02
 - [AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势](syntheses/AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势.md)
 - [AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路内容工厂的工作流范式分化](syntheses/AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路内容工厂的工作流范式分化.md)
 - [AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施](syntheses/AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施.md)
+- [AI 原生界面工程的三维融合：设计语言约束如何塑造代码生成策略、前端架构如何重塑生成管线、生成能力如何反向定义设计标准](syntheses/AI 原生界面工程的三维融合：设计语言约束如何塑造代码生成策略、前端架构如何重塑生成管线、生成能力如何反向定义设计标准.md)
 - [AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径](syntheses/AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径.md)
 - [AI 开发工具的商业化拓扑：从模型中转到算力租赁的基础设施变现路径分化与生态博弈](syntheses/AI 开发工具的商业化拓扑：从模型中转到算力租赁的基础设施变现路径分化与生态博弈.md)
 - [AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统](syntheses/AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统.md)
@@ -12973,5 +13026,6 @@ last_updated: 2026-05-02
 - [计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用](syntheses/计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用.md)
 - [训练/微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界](syntheses/训练-微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界.md)
 - [记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构](syntheses/记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构.md)
+- [设计知识的可计算化路径：当 AI 设计规范成为可编译的知识资产，知识管理体系如何反哺设计系统的结构化沉淀与自动化复用](syntheses/设计知识的可计算化路径：当 AI 设计规范成为可编译的知识资产，知识管理体系如何反哺设计系统的结构化沉淀与自动化复用.md)
 - [量化交易 Agent 全栈能力分化：从信号提取到策略自进化的五层架构范式与产品形态演进路径](syntheses/量化交易 Agent 全栈能力分化：从信号提取到策略自进化的五层架构范式与产品形态演进路径.md)
 - [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)

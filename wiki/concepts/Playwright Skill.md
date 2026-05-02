@@ -33,3 +33,5 @@ Playwright Skill 是 OpenClaw 的一个浏览器自动化技能，通过集成 P
 - [摘要：OpenClaw + Playwright：几乎能爬任意网页了](summaries/摘要：OpenClaw + Playwright：几乎能爬任意网页了.md)（Alex AI自动化，2026-02-27）— 用 MWC 议程抓取为案例，对比 n8n 方案展示 Playwright Skill 的优势
 
 - [摘要：Chrome DevTools MCP：让 AI 助手直接操控你正在用的浏览器](summaries/摘要：Chrome DevTools MCP：让 AI 助手直接操控你正在用的浏览器.md)（X书签，2026-03-16）— 作为"新开隔离实例"路线的典型对照方案
+
+- [摘要：AI圈公认最强的二手好物监控工具，懂的人已经开始躺着捡漏了](summaries/摘要：AI圈公认最强的二手好物监控工具，懂的人已经开始躺着捡漏了.md)（前端新视野brizer，2026-05-02）— ai-goofish-monitor 使用 Playwright 实现闲鱼商品监控
