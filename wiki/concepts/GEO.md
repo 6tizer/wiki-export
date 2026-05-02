@@ -70,6 +70,8 @@ GEO 的核心目标是让品牌在 AI 助手生成回答时被引用、被推荐
 
 - [摘要：AI破局_06_GEO下_六步行动清单](summaries/摘要：AI破局_06_GEO下_六步行动清单.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzAwNzE5MzgzMQ%3D%3D&mid=2653911728&idx=1&sn=72f4a95030eb88fc28889b54f1f6b91c&chksm=81d328baf90a2a8b64c83734f278a9cb682f1f0165221b272a0b0fc6440a1d0e752a817a0c0b#rd)）
 
+- [摘要：AI狂飙：12份AI深度研究报告重磅出炉！拆解2026年AI产业机遇](summaries/摘要：AI狂飙：12份AI深度研究报告重磅出炉！拆解2026年AI产业机遇.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyMDU4ODUwMw%3D%3D&mid=2247493269&idx=1&sn=e30611ec4cc3d6495fc3bb74519c8608&chksm=c0635664e7d61ca45ddf0c70a6ab070a3417e27ab60e5d0abcda389c55fc447e36d1cfa0855a#rd)）
+
 ## 关联概念
 
 - [Perplexity](entities/Perplexity.md)

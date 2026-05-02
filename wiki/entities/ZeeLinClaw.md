@@ -5,7 +5,7 @@ tags:
 - AI 产品
 status: 审核中
 confidence: low
-last_compiled: '2026-04-20'
+last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/d427d8422aa7414f95408da805f995a6
@@ -29,3 +29,5 @@ ZeeLinClaw 是本文附带更新说明中提到的桌面端发布包名称，当
 ## 来源引用
 
 - [摘要：用户超十万的“AI科学家”更新，科研AI全面进化](summaries/摘要：用户超十万的“AI科学家”更新，科研AI全面进化.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyMDU4ODUwMw%3D%3D&mid=2247491902&idx=1&sn=b7370f9ca466c86d73a532bb22ea6fda&chksm=c0ae9cb87d6c9e109295b9285b5a19915a891bd7301b9a0144240be7bc71a6277bb8f016dea6#rd)）
+
+- [摘要：AI狂飙：12份AI深度研究报告重磅出炉！拆解2026年AI产业机遇](summaries/摘要：AI狂飙：12份AI深度研究报告重磅出炉！拆解2026年AI产业机遇.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyMDU4ODUwMw%3D%3D&mid=2247493269&idx=1&sn=e30611ec4cc3d6495fc3bb74519c8608&chksm=c0635664e7d61ca45ddf0c70a6ab070a3417e27ab60e5d0abcda389c55fc447e36d1cfa0855a#rd)）

@@ -8,7 +8,7 @@ tags:
 - 长期记忆
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-29'
+last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/cce5707add6c4188968ca407dd16b49b
@@ -81,7 +81,7 @@ OpenViking 是字节跳动火山引擎（Volcengine）Viking 团队开源的 Age
 
 - [多智能体社会仿真](concepts/多智能体社会仿真.md)
 
-- 《memory-lancedb-pro：给你的 OpenClaw Agent 装上真正会记忆的大脑》（axiaisacat，2026-03-07）— 文章将 OpenViking 作为对照，强调其在 Token 效率上的优势
+- [摘要：memory-lancedb-pro：给你的 OpenClaw Agent 装上真正会记忆的大脑](summaries/摘要：memory-lancedb-pro：给你的 OpenClaw Agent 装上真正会记忆的大脑.md)（axiaisacat，2026-03-07）— 文章将 OpenViking 作为对照，强调其在 Token 效率上的优势
 
 - [摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析](summaries/摘要：一周暴涨 8.4k Star：GitHub Coding AI 开源项目周榜 Top 20 深度解析.md)— 将 OpenViking 视为 Agent 上下文数据库与文件系统范式代表
 

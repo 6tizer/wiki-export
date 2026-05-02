@@ -5,7 +5,7 @@ tags:
 - 浏览器自动化
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-18'
+last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/9a0f362cf3a74b00b062347fc2ad4b18
@@ -33,5 +33,7 @@ Playwright Skill 是 OpenClaw 的一个浏览器自动化技能，通过集成 P
 - [摘要：OpenClaw + Playwright：几乎能爬任意网页了](summaries/摘要：OpenClaw + Playwright：几乎能爬任意网页了.md)（Alex AI自动化，2026-02-27）— 用 MWC 议程抓取为案例，对比 n8n 方案展示 Playwright Skill 的优势
 
 - [摘要：Chrome DevTools MCP：让 AI 助手直接操控你正在用的浏览器](summaries/摘要：Chrome DevTools MCP：让 AI 助手直接操控你正在用的浏览器.md)（X书签，2026-03-16）— 作为"新开隔离实例"路线的典型对照方案
+
+- [摘要：一文彻底了解浏览器自动化，cdp、playwright、browser-user、midscene、browsermcp](summaries/摘要：一文彻底了解浏览器自动化，cdp、playwright、browser-user、midscene、browsermcp.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU5ODg1NDk1Ng%3D%3D&mid=2247484662&idx=1&sn=86710f5235fc8287ed0fdf470145617d&chksm=ffb825b8a302ea2f0bb235145fc1d6b62eb3c0ad603642f1d2e993302656ef5c5996f49a76c5#rd)）
 
 - [摘要：AI圈公认最强的二手好物监控工具，懂的人已经开始躺着捡漏了](summaries/摘要：AI圈公认最强的二手好物监控工具，懂的人已经开始躺着捡漏了.md)（前端新视野brizer，2026-05-02）— ai-goofish-monitor 使用 Playwright 实现闲鱼商品监控

@@ -8,340 +8,248 @@ confidence: high
 last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
-notion_url: https://www.notion.so/Tizer/a5ad13b9e3e54d16a78ad0932352774f
-notion_id: a5ad13b9-e3e5-4d16-a78a-d0932352774f
+notion_url: https://www.notion.so/Tizer/f6196a480a864d538bf0a8b4ac070f58
+notion_id: f6196a48-0a86-4d53-8bf0-a8b4ac070f58
 ---
 
-## 检查日期
+## 执行摘要
 
-2026-05-02（定时触发，北京时间 10:00）
+本报告由 Wiki Lint Agent 于 2026-05-02（Asia/Shanghai）自动生成，覆盖全库 concept / entity / summary / synthesis / qa 五种类型，共约 **4,622 条目**（不含 index 与 lint-report 自身）。
 
-## 总体健康度
-
-**65 / 100** 🟡
-
-主要扣分项：草稿积压（4条，-12）、系统页时效过期（4条，-12）、孤岛条目（2条已确认，-10）、引用混合问题（-1）。
+**核心结论：得分 44/100 🟡，本期最大问题为 4 对重复条目（-40 分），其次为 2 个确认孤岛（-10 分）与 2 个过期草稿（-6 分）。**
 
 ---
 
-## 全库统计
+## 全库快照
 
 | 类型 | 草稿 | 审核中 | 已审核 | 需更新 | 合计 |
 
 | --- | --- | --- | --- | --- | --- |
 
-| entity | 160 | 831 | 5 | 0 | 996 |
+| concept | 304 | 1,648 | 29 | 1 | 1,982 |
 
-| synthesis | 0 | 36 | 108 | 0 | 144 |
+| entity | 177 | 831 | 5 | 0 | 1,013 |
 
-| **合计** | **426** | **2516** | **1586** | **1** | **4529** |
+| summary | 0 | 0 | 1,472 | 0 | 1,472 |
 
-> 注：index 和 lint-report 类型已从统计中排除。
+| synthesis | 0 | 43 | 108 | 0 | 151 |
 
----
+| qa | 0 | 0 | 4 | 0 | 4 |
 
-## 孤岛条目
+| **合计** | **481** | **2,522** | **1,618** | **1** | **4,622** |
 
-Phase 1 初筛（concept/entity 名称是否出现在 summary 标题）+ Phase 2 页面验证：
-
-**已确认孤岛（来源引用为空）：**
-
-- [画布式 Agent 编排](concepts/画布式 Agent 编排.md) — 来源引用区块完全为空，创建于 2026-04-24，无任何 summary 引用
-
-- [Open Swarm](entities/Open Swarm.md) — 来源引用区块完全为空，创建于 2026-04-24，无任何 summary 引用
-
-**说明：** 这两条均为 2026-04-24 批次创建的草稿，可能是 Compiler 在单次运行中生成了概念但未完成引用绑定。建议人工确认是否有对应摘要，若无则标记为待补充引用。
+所有 1,472 条 summary 已处于「已审核」，summary 层健康度优秀。concept + entity 共 2,995 条，其中草稿 481 条，最新批次来自 2026-05-02。
 
 ---
 
-## 过期草稿（创建超过 7 天，状态仍为草稿）
+## 健康得分
 
-> 截至检查日期 2026-05-02，超过 7 天的草稿（创建早于 2026-04-25）：
+**本期得分：44 / 100 🟡**
 
-| 页面 | 类型 | 创建日期 | 已超时天数 | 是否内容完整 |
+| 扣分项 | 数量 | 单项 | 小计 |
+
+| --- | --- | --- | --- |
+
+| 确认孤岛（无引用 + 无来源） | 2 | -5 | -10 |
+
+| 过期草稿（≥7 天，缺来源引用） | 2 | -3 | -6 |
+
+| 重复对（精确同名 + 中英近义） | 4 对 | -10 | -40 |
+
+| 状态异常 | 0 | -5 | 0 |
+
+| 废弃标签 | 0 | -2 | 0 |
+
+| 过时内容（系统页豁免后） | 0 | -3 | 0 |
+
+| **总扣分** |  |  | **-56** |
+
+> 注：7 个疑似孤岛（仅标题初筛）暂不计入扣分，待 Fixer 验证后补录。
+
+---
+
+## 详细发现
+
+### P0：精确同名重复（立即合并）
+
+以下条目因 Wiki Compiler 疑似在同一时间段内重复触发，产生完全同名的 concept/entity 对。**应保留内容更完整者，删除另一个。**
+
+**重复对 1 — Prompt Stack（concept）**
+
+- [Prompt Stack](concepts/Prompt Stack.md) — 创建 2026-05-02 05:21:32Z，标签：提示工程，内容完整，来源引用齐全 ✅
+
+- Prompt Stack — 创建 2026-05-02 05:20:50Z，标签：提示工程 / AI 设计，内容略简
+
+- **建议：保留前者（内容更完整），删除后者**
+
+**重复对 2 — Open Design（entity）**
+
+- Open Design — 创建 2026-05-02 05:21:32Z，标签：AI 设计 / AI 产品
+
+- [Open Design](entities/Open Design.md) — 创建 2026-05-02 05:20:48Z，标签：AI 设计 / 代码生成 / AI 产品（标签更完整）
+
+- **建议：保留后者（标签更完整），删除前者**
+
+---
+
+### P0：中英文近义重复（确认后合并）
+
+以下条目为同一概念的中英文版本，在同一 Wiki 中形成冗余知识节点。
+
+**重复对 3 — Prompt Injection / 提示注入**
+
+- Prompt Injection（concept，审核中，标签：Agent 安全 / 上下文管理 / AI 政策）
+
+- [提示注入](concepts/提示注入.md)（concept，审核中，标签：Agent 安全）
+
+- **建议：以「提示注入」为主条目，将 Prompt Injection 作为别名写入定义节，内容合并后删除英文版**
+
+**重复对 4 — 反 AI-Slop 机制 / Anti-AI-Slop**
+
+- 反 AI-Slop 机制（concept，草稿，标签：AI 设计 / 提示工程）
+
+- [Anti-AI-Slop](concepts/Anti-AI-Slop.md)（concept，草稿，标签：AI 设计 / 提示工程，来源引用更完整）
+
+- **建议：保留 Anti-AI-Slop（来源更清晰），将「反 AI-Slop 机制」作为中文别名写入并删除**
+
+---
+
+### P1：确认孤岛（补引用或人工复核）
+
+以下 2 个条目经 loadPage 核查，「来源引用」章节完全为空，且无源文章 URL，无法追溯编译来源。内容本身完整，可能为手动创建或早期 Compiler 遗留。
+
+- [画布式 Agent 编排](concepts/画布式 Agent 编排.md)（concept，草稿，2026-04-24，已 8 天，标签：多Agent协作 / Agent 协作模式）
+
+- [Open Swarm](entities/Open Swarm.md)（entity，草稿，2026-04-24，已 8 天，标签：多Agent协作 / Agent 协作模式 / AI 产品）
+
+**建议：补全来源引用后晋升「审核中」，或确认为独立知识节点并标注「手动创建」。**
+
+疑似孤岛（标题初筛，待验证）
+
+以下 7 个条目在全量 summary 标题扫描中无命中，疑似孤岛，建议 Fixer 进行 mention-page 内容核查后确认：
+
+- [存在姿态三角形](concepts/存在姿态三角形.md)（concept，审核中）
+
+- [梦境思考](concepts/梦境思考.md)（concept，审核中）
+
+- [随机心跳机制](concepts/随机心跳机制.md)（concept，审核中）
+
+- [XXYY](entities/XXYY.md)（entity，审核中）
+
+- [读写分离控制面板](concepts/读写分离控制面板.md)（concept，审核中）
+
+- [ZCT Momentum Filter](concepts/ZCT Momentum Filter.md)（concept，审核中）
+
+- [GR4AD](entities/GR4AD.md)（entity，审核中）
+
+---
+
+### P1：过期草稿（≥7 天，缺来源引用）
+
+全库 481 条草稿中，仅以下 2 条创建时间超过 7 天（截至 2026-05-02）。其余 479 条均为 2026-04-25 之后创建，尚在正常积压周期内。
+
+| 条目 | 类型 | 创建日期 | 已积压 | 问题 |
 
 | --- | --- | --- | --- | --- |
 
-| [Untitled](concepts/画布式 Agent 编排.md) | concept | 2026-04-24 | 8天 | ⚠️ 有定义+关键要点，但来源引用为空 |
+| [Untitled](concepts/画布式 Agent 编排.md) | concept | 2026-04-24 | 8 天 | 来源引用为空 |
 
-| [Untitled](concepts/数字资产财库.md) | concept | 2026-04-24 | 8天 | ✅ 有定义+核心要点+1个mention-page引用 |
-
----
-
-## 过时内容（最后编译时间 > 30 天或为空）
-
-以下页面最后编译时间为 NULL（已豁免 7 个系统元 concept 页，但以下「关于」页不在豁免名单中）：
-
-| 页面 | 类型 | 状态 | 最后编译时间 | 备注 |
-
-| --- | --- | --- | --- | --- |
-
-| [Untitled](concepts/关于 Wiki Fixer.md) | concept | 已审核 | NULL | 系统文档页，建议豁免或补填日期 |
-
-| [Untitled](concepts/关于 Wiki QA Agent.md) | concept | 已审核 | NULL | 系统文档页，建议豁免或补填日期 |
-
-> 💡 建议：将这 4 个「关于 ...」系统页加入豁免名单，或统一设置象征性的编译时间避免持续误报。
+| [Untitled](entities/Open Swarm.md) | entity | 2026-04-24 | 8 天 | 来源引用为空 |
 
 ---
 
-## 重复疑似
+### P2：类型启发式筛查（人工复核）
 
-### A. 完全同名重复
+以下 concept 条目经启发式规则判断，**疑似应分类为 entity**，建议人工确认后更新类型字段。
 
-**concept/entity：** SQL `GROUP BY 名称 HAVING COUNT(*) > 1` 结果 = 0 对，无完全同名重复。
+**Rule A — 含版本号（产品/基准版本）：**
 
-**summary：** SQL `GROUP BY 名称 HAVING COUNT(*) > 1` 结果 = 0 对，无完全同名 summary 重复。
+- [FSRS-6](concepts/FSRS-6.md)（concept → 疑似 entity）
 
-### B. 归一化后近似重复（concept/entity）
+- [ARC-AGI-3](concepts/ARC-AGI-3.md)（concept → 疑似 entity）
 
-对已获取的 ~2000 条 concept/entity 名称进行推理层归一化匹配，发现以下疑似对：
+**Rule B — 含产品/协议后缀（Tool/SDK/Protocol/API）：**
 
-| # | 条目A | 条目B | 差异原因 | 1 | [Untitled](entities/Vane.md)（entity） | — | 单一词，暂无匹配对 |
+- [Tool Registry](concepts/Tool Registry.md)（concept → 疑似 entity）
 
-| --- | --- | --- | --- | --- | --- | --- | --- |
+- [A2UI 协议](concepts/A2UI 协议.md)（concept → 疑似 entity）
 
-| 2 | 子 Agent 派生（concept） | 子智能体（concept） | 语义相近，但定义侧重不同（派生操作 vs 架构角色），建议人工确认是否合并 | 3 | 飞书 CLI（entity） | 钉钉 CLI（entity） | 不同产品，非重复 ✅ |
+**Rule C — 英文专有名词（基准/工具/平台）：**
 
-> 注：本次覆盖约 2000 条（全库 2938 条），剩余 ~938 条受 SQL 分页限制未覆盖，建议后续扩大扫描范围。实际重复对数量可能更多。
+- [SWE-bench](concepts/SWE-bench.md) · [SkillsBench](concepts/SkillsBench.md) · [GEO-bench](concepts/GEO-bench.md) · [pgvector](concepts/pgvector.md) · [Farside Investors](concepts/Farside Investors.md) · [LoopLM](concepts/LoopLM.md) · [Verse](concepts/Verse.md) · [Muon 优化器](concepts/Muon 优化器.md) · [menugen](concepts/menugen.md) · [AuditBench](concepts/AuditBench.md)
 
-### C. Summary 近似重复
+**Rule D — 全大写缩写产品名：**
 
-本次 summary 名称样本（按字母序抽取前 100 条）未发现近似重复，且 GROUP BY 精确匹配也未命中。Compiler 触发机制目前运行正常。
-
----
-
-## 状态异常
-
-全库所有 concept/entity/summary/synthesis 条目均已设置状态，状态为 NULL 的页面数 = **0**。✅
+- [SONA](concepts/SONA.md) · [DERP](concepts/DERP.md) · [ECL 管道](concepts/ECL 管道.md) · [TAOR 循环](concepts/TAOR 循环.md) · [APEX 多槽位编排器](concepts/APEX 多槽位编排器.md)
 
 ---
 
-## 标签异常
+### P2：引用结构化检查（抽样 10 页）
 
-### 缺失标签
+对近期草稿进行分层抽样（2026-04-24 / 04-30 / 05-01 / 05-02 各时间段），结果如下：
 
-SQL 查询 `标签 IS NULL OR 标签 = '[]'` WHERE 类型 IN (concept, entity) 返回 **0 条**。✅ 全库 concept/entity 均已设置标签。
+- **8/10** 页包含规范的 `<mention-page>` 结构化引用 ✅
 
-### 废弃标签使用
+- **2/10** 页来源引用为空（即上述两个确认孤岛）
 
-针对早期废弃标签（AI Agent、MCP、Notion）及新退休标签（LLM、Agent 框架、Agent 编排、Agent 技能、Coding Agent、开发工具、工作流、记忆系统、安全/隐私、Crypto/DeFi、内容创作）的 LIKE 检索返回 **0 条**。✅ 全库已完成标签迁移到新三维体系。
+- 纯文本引用（无 mention-page）：0 条
 
----
-
-## 标签分布统计
-
-以下为基于 ~2000 条 concept/entity 样本的标签频率估算（排序由高到低）：
-
-| 标签 | 估算条目数 | 备注 |
-
-| --- | --- | --- |
-
-| 商业/生态 | ~170 | 高频，覆盖面广 |
-
-| Harness 工程 | ~150 | 高频 |
-
-| 推理优化 | ~140 | 高频 |
-
-| 多Agent协作 | ~130 | 高频 |
-
-| 长期记忆 | ~100 | 中频 |
-
-| 链上协议 | ~80 | 中频 |
-
-| Agent 安全 | ~75 | 中频 |
-
-| CLI 工具 | ~70 | 中频 |
-
-| 量化交易 | ~60 | 中频 |
-
-| 模型评测 | ~55 | 中频 |
-
-| 浏览器自动化 | ~50 | 中频 |
-
-| AI 设计 | ~50 | 中频 |
-
-| 社交媒体 | ~35 | 低频 |
-
-| 多模态 | ~35 | 低频 |
-
-| 视频/3D | ~25 | 低频 |
-
-| 稳定币 | ~15 | 低频 |
-
-| 身份准入 | ~15 | 低频 |
-
-| 图像生成 | ~10 | 低频 |
-
-| DevOps/运维 | ~5 | 极低 |
-
-| 认知科学 | ~3 | 极低 |
-
-| 嵌入式硬件 | ~2 | 极低 |
-
-> 数据基于 ~2000/2938 条样本估算，供参考。
+- **结论：整体引用规范性良好，未触发系统性风险阈值（affected rate < 30%）**
 
 ---
 
-## 类型启发式筛查结果（疑似 concept→entity）
+## 标签分布（concept + entity，出现 ≥20 次）
 
-以下 concept 类型条目命中启发式规则，建议人工确认是否改为 entity：
+| 标签 | 出现次数 |
 
-| 条目 | 命中规则 | 说明 |
+| --- | --- |
 
-| --- | --- | --- |
+| 商业/生态 | 184 |
 
-| [Untitled](concepts/Knowledge Work Plugins.md) | Rule B（Plugins 后缀） | 插件集合产品 |
+| 知识管理 | 148 |
 
-| [Untitled](concepts/Antigravity MCP.md) | Rule C（英文专有名词） | 疑似具体 MCP 产品 |
+| OpenClaw | 56 |
 
-| [Untitled](concepts/QClaw.md) | Rule C（大写缩写+专名） | 疑似具体产品 |
+| Harness 工程 | 42 |
 
-| [Untitled](concepts/Claude Code Plugins.md) | Rule B（Plugins 后缀） | 插件体系，疑似实体 |
+| Agent 安全 | 33 |
 
-| [Untitled](concepts/OASIS.md) | Rule D（大写缩写） | 全大写缩写，疑似具体产品 |
+| 推理优化 | 27 |
 
-> **注意**：以上为启发式建议，需人工确认。部分可能是架构范式（如 OASIS）而非具体产品。计分按 Phase 1 原则：每 3 个确认误分类 -3 分（当前未确认，不扣分）。
+| 量化交易 | 25 |
 
----
+| 模型评测 | 25 |
 
-## 标签分类合理性检查（Phase 2 抽样）
+| 长期记忆 | 24 |
 
-抽样 12 个页面（含 4 个过期草稿 + 8 个审核中），均未发现明显标签误分类。所有页面标签均与内容吻合，使用的是新三维标签体系。
+| 训练/微调 | 24 |
 
-**特别观察：**
+| Agent 协作模式 | 23 |
 
-- [Single Source of Truth](concepts/Single Source of Truth.md) 仅标注「Agent 协作模式」，可考虑补充「知识管理」标签（该概念在知识库设计中同样重要）
-
----
-
-## 引用结构化检查
-
-### 抽样统计（共 12 个页面）
-
-| 状态 | 抽样量 | 纯 mention-page | 混合引用 | 无引用 | 结构化率 |
-
-| --- | --- | --- | --- | --- | --- |
-
-| 审核中（April 10-17） | 8 | 5 | 3 | 0 | 63% 纯结构化，37% 混合 |
-
-**总体 affected page rate（含混合引用）：** 5/12 = **42%** ⚠️（注：若仅计"纯文本、无 mention-page"则为 2/12 = 17%）
-
-**系统性判定：**
-
-- 若将「混合引用」（有 mention-page 但也有纯文本链接）计入，affected rate = 42% > 30% → 接近系统性问题阈值
-
-- 若仅计「完全无 mention-page」的页面，affected rate = 17% < 30% → 未触发全局警报
-
-- **本次判定：不触发【🚨 系统性问题】警报**，但混合引用现象普遍，建议逐步清理
-
-**含混合引用的页面（需修复）：**
-
-- [Single Source of Truth](concepts/Single Source of Truth.md) — 来源引用中混有 `[原文链接]` 纯文本，另有 1 个 mention-page
-
-- [Claude Code Memory](concepts/Claude Code Memory.md) — 多条纯文本引用（@gerrox 账号引用、X 书签文章文本）与 mention-page 混用
-
-- [Claude Cowork](entities/Claude Cowork.md) — 来源引用中混有纯文本日期+账号格式
-
-**无引用的草稿（孤岛）：**
-
-- [画布式 Agent 编排](concepts/画布式 Agent 编排.md)
-
-- [Open Swarm](entities/Open Swarm.md)
-
----
-
-## 计分明细
-
-| 检查项 | 发现 | 扣分 | 孤岛条目 | 2 条已确认（画布式 Agent 编排、Open Swarm） | -10 |
-
-| --- | --- | --- | --- | --- | --- |
-
-| 过期草稿（>7天） | 4 条（比特币增益、画布式 Agent 编排、Open Swarm、数字资产财库） | -12 | 过时内容（>30天/null） | 4 条系统文档页（关于 Wiki Compiler/Fixer/Gap Agent/QA Agent） | -12（建议豁免） |
-
-| 重复疑似 | 0 对确认重复（子 Agent 派生 vs 子智能体 待确认） | 0 | 状态异常 | 0 条 | 0 |
-
-| 缺失/空标签 | 0 条 | 0 | 废弃标签使用 | 0 条 | 0 |
-
-| 引用混合/纯文本 | ~5 处纯文本引用（3 个页面） | -1 | **合计** |  | **-35（其中 -12 为建议豁免项）** |
-
-**最终得分：100 - 10 - 12 - 12 - 1 = 65 / 100** 🟡
-
-（若豁免 4 条系统文档页：**77 / 100** 🟡）
+无废弃标签命中，无标签分布异常。
 
 ---
 
 ## 状态晋升建议
 
-| 页面 | 当前状态 | 建议状态 | 原因 | [Untitled](concepts/比特币增益.md) | 草稿 | 审核中 | 内容完整（定义+核心要点+1个mention-page来源），创建 >7 天 |
+- **Summary → 无需操作**：1,472 条 summary 全部已处于「已审核」，本期无晋升动作。
 
-| --- | --- | --- | --- | --- | --- | --- | --- |
+- **草稿 → 审核中**：2 个过期草稿（画布式 Agent 编排、Open Swarm）内容完整但缺来源引用，**补引用后方可晋升**，不满足自动晋升条件，需人工介入。
 
-| [Untitled](concepts/数字资产财库.md) | 草稿 | 审核中 | 内容完整（定义+核心要点+1个mention-page来源），创建 >7 天 | [Untitled](concepts/Agent八原语框架.md) | 审核中 | 已审核 | 被 ≥2 个 summary 引用（摘要：循环即实验室 两个版本） |
-
-| [Untitled](concepts/DESIGN.md.md) | 审核中 | 已审核 | 被 ≥6 个不同 summary 引用，多源交叉验证高置信度 | [Untitled](concepts/MoE 架构.md) | 审核中 | 已审核 | 被 ≥12 个不同 summary 引用，置信度 high，多源高度验证 |
+- **审核中 → 需更新**：过时内容检查中，4 个系统说明页（关于 Wiki Compiler / Fixer / Gap Agent / QA Agent）compile_time 为 null，属豁免范畴，不触发「需更新」流转。
 
 ---
 
-## 改进建议
+## 系统运行状态
 
-### 🤖 自动修复项
+- 触发方式：Recurrence Trigger（每 12 小时，14:00 Asia/Shanghai）
 
-1. **状态晋升 E1（草稿→审核中）**
+- 本次运行时间：2026-05-02 22:01 CST
 
-  - 修复类型：状态更新
+- 执行阶段：Phase 1 SQL 全量扫描 ✅ · Phase 2 loadPage 抽样 ✅
 
-  - 目标：[比特币增益](concepts/比特币增益.md) → 状态改为「审核中」
-
-  - 目标：[数字资产财库](concepts/数字资产财库.md) → 状态改为「审核中」
-
-1. **状态晋升 E2（审核中→已审核）**
-
-  - 修复类型：状态更新
-
-  - 目标：[Agent八原语框架](concepts/Agent八原语框架.md) → 状态改为「已审核」
-
-  - 目标：[DESIGN.md](concepts/DESIGN.md.md) → 状态改为「已审核」
-
-  - 目标：[MoE 架构](concepts/MoE 架构.md) → 状态改为「已审核」
-
-1. **引用修复（混合→纯 mention-page）**
-
-  - 修复类型：引用结构化升级
-
-  - 目标：[Single Source of Truth](concepts/Single Source of Truth.md) — 将「[原文链接](...)｜来源条目：<mention-page>」格式精简为纯 `<mention-page>` 引用
-
-  - 目标：[Claude Code Memory](concepts/Claude Code Memory.md) — 将 @gerrox、《Claude Code七层记忆架构》等纯文本条目替换为对应 summary 的 `<mention-page>` 引用
-
-  - 目标：[Claude Cowork](entities/Claude Cowork.md) — 将 `2026-04-09｜@claudeai｜...｜源页：` 格式统一为纯 `<mention-page>` 格式
-
-1. **标签补充**
-
-  - 修复类型：标签更新
-
-  - 目标：[Single Source of Truth](concepts/Single Source of Truth.md) — 建议增加「知识管理」标签
-
-### 👤 人工介入项
-
-1. **孤岛草稿处置**
-
-  - [画布式 Agent 编排](concepts/画布式 Agent 编排.md) 和 [Open Swarm](entities/Open Swarm.md)：来源引用为空，无 summary 与其关联。请确认：①是否有对应 summary 尚未绑定？②还是源文章已在书签库中但 Compiler 未能提取来源引用？若确认无源，建议手动添加对应 summary 的 mention-page 引用，或保留为「待补充」草稿。
-
-1. **系统文档页豁免规则**
-
-  - 「关于 Wiki Compiler / Fixer / Gap Agent / QA Agent」4 个页面持续触发时效性误报。建议：将其加入豁免名单（与「Wiki Lint Agent」等 7 个系统元 concept 同等处理），或统一设置固定编译时间（如 2026-04-10）。
-
-1. **类型误分类确认**
-
-  - 以下 concept 页面可能应为 entity，请人工确认：
-
-  - obsidian-cli、Knowledge Work Plugins、OpenClaw Expert Suite、Antigravity MCP、NanoClaw、QClaw、ClawBio、Claude Code Plugins、MCP-Atlas、OASIS
-
-  - 确认后由 Fixer 批量修改类型字段。
-
-1. **「子 Agent 派生」vs「子智能体」重复判断**
-
-  - 两者语义相近，但定义侧重不同。请确认是否需要合并，或保留为独立词条并在内容中互相引用。
+- 豁免页面（compile_time = null）：[关于 Wiki Compiler](concepts/关于 Wiki Compiler.md) · [关于 Wiki Fixer](concepts/关于 Wiki Fixer.md) · [关于 Gap Agent](concepts/关于 Gap Agent.md) · [关于 Wiki QA Agent](concepts/关于 Wiki QA Agent.md)
 
 ---
 
->  请根据以上报告执行自动修复。
+>  请根据以上报告执行自动修复。优先处理 P0 重复合并（4 对），其次处理 P1 孤岛补引用（2 个确认 + 7 个疑似），最后进行 P2 类型启发式复核（15 个 concept 疑似应为 entity）。

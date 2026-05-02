@@ -65,3 +65,5 @@ HappyHorse（快乐小马）是阿里巴巴推出的 AI 视频生成与编辑模
 - [摘要：阿里「快乐小马」来了，首批网友已玩疯！720P低至0.44元/秒](summaries/摘要：阿里「快乐小马」来了，首批网友已玩疯！720P低至0.44元-秒.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652695709&idx=1&sn=28912efd11e0430f1f71113f20567298&chksm=f037f03efe37824790e1a6bac199399193ffb1f824b4c24ca3fd750435e3491eab69b8ee94d5#rd)）
 
 - [摘要：即梦、可灵、HappyHorse三强测评，谁翻车了？](summaries/摘要：即梦、可灵、HappyHorse三强测评，谁翻车了？.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzk3NTQxODIxMQ%3D%3D&mid=2247533316&idx=1&sn=0e08b2934b99d56fb508ce3f5b2c10d1&chksm=c57e5300b36c287962503a985fe8d650287d0126ad8536a89b79d3524ceeca40880e99c91e15#rd)）
+
+- [摘要：欢乐马Happy Horse 1.0模型vs Seedance2.0对比测评](summaries/摘要：欢乐马Happy Horse 1.0模型vs Seedance2.0对比测评.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU2MjQ0MjA5MQ%3D%3D&mid=2247485596&idx=1&sn=64e50d018932549c7bc2f25c78e05e9c&chksm=fdb641cc7e7fc3c15a451ee2c544e3ce3c47bfdfbd10952ac824834b59f59024cea1b38e4822#rd)）

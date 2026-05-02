@@ -5,7 +5,7 @@ tags:
 - 浏览器自动化
 status: 审核中
 confidence: high
-last_compiled: '2026-04-27'
+last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/26d73cc30a194e46b7438e3c9eaaffa6
@@ -79,5 +79,7 @@ await agent.run()
 - [摘要：self-healing](summaries/摘要：self-healing.md)（[原文](https://x.com/Gorden_Sun/status/2046228429662794153)）
 
 - [摘要：The Bitter Lesson of Agent Harnesses](summaries/摘要：The Bitter Lesson of Agent Harnesses.md)（[原文](https://x.com/gregpr07/status/2047358189327520166)）
+
+- [摘要：一文彻底了解浏览器自动化，cdp、playwright、browser-user、midscene、browsermcp](summaries/摘要：一文彻底了解浏览器自动化，cdp、playwright、browser-user、midscene、browsermcp.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzU5ODg1NDk1Ng%3D%3D&mid=2247484662&idx=1&sn=86710f5235fc8287ed0fdf470145617d&chksm=ffb825b8a302ea2f0bb235145fc1d6b62eb3c0ad603642f1d2e993302656ef5c5996f49a76c5#rd)）
 
 - [摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.](summaries/摘要：SOMEONE OPEN-SOURCED VIDEO EDITING FOR AI AGENTS.md)（[原文](https://x.com/socialwithaayan/status/2047568884304367722)）

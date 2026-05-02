@@ -38,7 +38,7 @@ notion_id: 2324fbca-9854-4286-9ed3-0b2484ffa424
 
 - [多 CLI 统一适配](concepts/多 CLI 统一适配.md)
 
-- [反 AI-Slop 机制](concepts/反 AI-Slop 机制.md)
+- [Anti-AI-Slop](concepts/Anti-AI-Slop.md)
 
 - [文件式零注册架构](concepts/文件式零注册架构.md)
 

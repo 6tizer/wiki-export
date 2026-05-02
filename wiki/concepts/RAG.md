@@ -43,6 +43,8 @@ notion_id: 263d46a0-8f2e-4695-aa04-1c9ccdd5cf01
 
 - [摘要：用好NotebookLM立省80%Token](summaries/摘要：用好NotebookLM立省80%Token.md)（[原文](https://x.com/MinLiBuilds/status/2046002143937941988)）
 
+- [摘要：聊聊 Karpathy 的 LLM Wiki，以及 V2 为什么值得认真看一眼!](summaries/摘要：聊聊 Karpathy 的 LLM Wiki，以及 V2 为什么值得认真看一眼!.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIwNDM3Mjk1Mg%3D%3D&mid=2247485284&idx=1&sn=34642e6230221907f8a21e7af458cf0d&chksm=97f055cb0fb0b7d46d2721656379d6119622c506163231c1305fe73a29ad22ba0b9a4d098323#rd)）——RAG 的无状态本质被详细阐述，与 LLM Wiki 编译方式形成对比
+
 ## 关联概念
 
 - [MCP 协议](concepts/MCP 协议.md)

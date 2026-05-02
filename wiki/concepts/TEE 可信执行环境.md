@@ -62,7 +62,13 @@ TEE 在链上 AI Agent 场景中解决了核心信任问题：如何证明 Agent
 
 - [Beginners' Guide to Privacy](https://defi0xjeff.substack.com/p/beginners-guide-to-privacy) — 源文章：Web3 隐私入门全景报告：从混币器到 Privacy 2.0，一文读懂链上隐私革命
 
+- [摘要：用一个App统一管理所有AI的记忆和技能](summaries/摘要：用一个App统一管理所有AI的记忆和技能.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI5MTEwMDgyMA%3D%3D&mid=2247484252&idx=1&sn=170e13385d8b9279d9635415b3bd4c1e&chksm=ed55f24b6cf7d8cdcffcb566a0fea0d5c7099bfd12cda305d4304211ada2618d72fd82c575d7#rd)）
+
 ## 关联概念
+
+- [Clawdi](entities/Clawdi.md)
+
+- [BYOA 模式](concepts/BYOA 模式.md)
 
 - [Privacy 2.0](concepts/Privacy 2.0.md)
 

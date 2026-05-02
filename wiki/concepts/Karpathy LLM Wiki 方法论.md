@@ -275,3 +275,5 @@ Karpathy LLM Wiki方法论是Andrej Karpathy提出的一种用LLM算力「编译
 - [摘要：Mercury asks first — and remembers what matters.](summaries/摘要：Mercury asks first — and remembers what matters.md)（[原文](https://x.com/AYi_AInotes/status/2049318687065174449)）
 
 - [摘要：Nowledge Mem 0.8：LLM Wiki](summaries/摘要：Nowledge Mem 0.8：LLM Wiki.md)（[原文](https://x.com/wey_gu/status/2049720331850625229)）
+
+- [摘要：聊聊 Karpathy 的 LLM Wiki，以及 V2 为什么值得认真看一眼!](summaries/摘要：聊聊 Karpathy 的 LLM Wiki，以及 V2 为什么值得认真看一眼!.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIwNDM3Mjk1Mg%3D%3D&mid=2247485284&idx=1&sn=34642e6230221907f8a21e7af458cf0d&chksm=97f055cb0fb0b7d46d2721656379d6119622c506163231c1305fe73a29ad22ba0b9a4d098323#rd)）

@@ -7,7 +7,7 @@ tags:
 - Agent 协作模式
 status: 审核中
 confidence: high
-last_compiled: '2026-04-26'
+last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/09a31eaf99cc4161b51e7029278bc78e
@@ -49,6 +49,8 @@ notion_id: 09a31eaf-99cc-4161-b51e-7029278bc78e
 - [原文链接](https://x.com/berryxia/status/2043918551552274690)｜《卧槽！本地 AI 又出神器了 🔥》｜源文章：SuperGemma4-26B：本地跑起来的无审查多模态神器，Mac 用户专属
 
 - [原文链接](https://x.com/AYi_AInotes/status/2044964220005965927)｜《2026年的开源社区，已经不是人在玩AI了，已经进化到 AI在玩AI，玩得比人类还好很多😆😆😆》｜来源条目：[摘要：2026年的开源社区，已经不是人在玩AI了，已经进化到 AI在玩AI，玩得比人类还好很多😆😆😆](summaries/摘要：2026年的开源社区，已经不是人在玩AI了，已经进化到 AI在玩AI，玩得比人类还好很多😆😆😆.md)
+
+- [摘要：Claude Code + Gemma 4 一键理清Mac 30000+图片](summaries/摘要：Claude Code + Gemma 4 一键理清Mac 30000+图片.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw%3D%3D&mid=2247516043&idx=1&sn=e2b7667a501ddf0fae30c4e3e5d34253&chksm=e970810309a2dcc99d38de4807aa58df859fda450a4a518557848e649aacceb7f9364127a2ac#rd)）
 
 ## 关联概念
 

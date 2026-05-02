@@ -5,7 +5,7 @@ tags:
 - 模型部署
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-29'
+last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/b7025e4fb3aa4bfd9bbf54b21f3985ed

@@ -77,3 +77,5 @@ A2A 协议（Agent-to-Agent 协议）是让不同 AI Agent 彼此发现、发送
 - [摘要：上交大54页综述讲透Agent认知外部化的演进之路](summaries/摘要：上交大54页综述讲透Agent认知外部化的演进之路.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651029194&idx=2&sn=d468f16ac694682f072e150ac531e5a2&chksm=85cd02c33fc1ca1088db4f4f1a5b2219ed652157b32c004b7ef2cfb994654cfdfdd0d38512e7#rd)）
 
 - [摘要：Hermes-a2a](summaries/摘要：Hermes-a2a.md)（[原文](https://x.com/0xViviennn/status/2047626457191780527)）
+
+- [摘要：AI狂飙：12份AI深度研究报告重磅出炉！拆解2026年AI产业机遇](summaries/摘要：AI狂飙：12份AI深度研究报告重磅出炉！拆解2026年AI产业机遇.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkyMDU4ODUwMw%3D%3D&mid=2247493269&idx=1&sn=e30611ec4cc3d6495fc3bb74519c8608&chksm=c0635664e7d61ca45ddf0c70a6ab070a3417e27ab60e5d0abcda389c55fc447e36d1cfa0855a#rd)）

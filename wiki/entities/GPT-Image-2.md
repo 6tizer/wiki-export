@@ -5,7 +5,7 @@ tags:
 - 图像生成
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-26'
+last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/80940aa0a0e746b2a61a1bf0db011084
@@ -51,6 +51,10 @@ GPT-Image-2 是 OpenAI 的图像生成与编辑模型。在这篇实测中，它
 - [摘要：GPT-Image-2平替！最强开源生图模型来了](summaries/摘要：GPT-Image-2平替！最强开源生图模型来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652696301&idx=1&sn=40a255d23a8b0edaf8771b3799ad8304&chksm=f0f20c3245e872ed1063892734d3175e6fb20478e0bf12f8d4e99578455024aa9f648e6a7a31#rd)）
 
 - [摘要：保姆级教程！用Seedance 2.0+ GPT2.0做爆款短剧](summaries/摘要：保姆级教程！用Seedance 2.0+ GPT2.0做爆款短剧.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkxMjg4NDA4MA%3D%3D&mid=2247485201&idx=1&sn=761932ad14d55afec2386d56deb0da2c&chksm=c008f6758eaa1b093d3a668d2acd94d1eb5243fa03e46224a93f6ba078afead9f7eb221e4393#rd)）
+
+- [摘要：GPT-Image2 × Seedance2「一条龙」炸了！日本创作者用一句话生成整支广告片，22万人围观](summaries/摘要：GPT-Image2 × Seedance2「一条龙」炸了！日本创作者用一句话生成整支广告片，22万人围观.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzIyOTE4MTgxNA%3D%3D&mid=2247494122&idx=1&sn=1c59a1ac7c965a209513a57ca7e80132&chksm=e914c9dd77d1cfeac7b5e24970aa5ca3289bf068301b24c5101ecc4ec43fe3c2558e64ab4c19#rd)）
+
+- [摘要：别再只让 Codex 写代码了，它更适合接管整条 UI 生产线](summaries/摘要：别再只让 Codex 写代码了，它更适合接管整条 UI 生产线.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzkwNzU5OTI0OA%3D%3D&mid=2247483929&idx=1&sn=4615c470a1bc93064accaf47f625201d&chksm=c173957da6abdc22bcf2a6a0e701dc12d74082a9120659e9a37937228329feb55ae079893d27#rd)）
 
 ## 关联概念
 
