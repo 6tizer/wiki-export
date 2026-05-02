@@ -4,7 +4,7 @@ type: concept
 tags:
 - 浏览器自动化
 - 上下文管理
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-25'
 source_tags: ''
