@@ -59,3 +59,5 @@ Binance Skills Hub 是币安于 2026 年 3 月 3 日在 GitHub 开源的 **AI Ag
 - CyberMolt：一键领养带币安全套技能的 AI 交易 Agent
 
 - [摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」](summaries/摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」.md)
+
+- [摘要：币安刚上的 Agentic Wallet 解决了一个困扰我已久的资金安全难题。](summaries/摘要：币安刚上的 Agentic Wallet 解决了一个困扰我已久的资金安全难题。.md)（[原文](https://x.com/surpr164/status/2049805200823877901)）

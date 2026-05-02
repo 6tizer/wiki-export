@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1942, "summary": 1441, "synthesis": 139, "entity": 993, "index": 2, "lint-report": 64, "qa": 4}
-total: 4585
+type_counts: {"concept": 1942, "summary": 1443, "synthesis": 144, "entity": 996, "index": 2, "lint-report": 65, "qa": 4}
+total: 4596
 last_updated: 2026-05-02
 ---
 
 # 📚 知识 Wiki Index
 
-> 1942 concepts · 993 entitys · 2 indexs · 64 lint-reports · 4 qas · 1441 summarys · 139 synthesiss
+> 1942 concepts · 996 entitys · 2 indexs · 65 lint-reports · 4 qas · 1443 summarys · 144 synthesiss
 > 导出时间: 2026-05-02
 
 ## 使用方式
@@ -156,6 +156,8 @@ last_updated: 2026-05-02
 - [AutoDarwin](entities/AutoDarwin.md)
 - [Avatar V](entities/Avatar V.md)
 - [Barker](entities/Barker.md)
+- [Binance AI Pro](entities/Binance AI Pro.md)
+- [Binance Agentic Wallet](entities/Binance Agentic Wallet.md)
 - [Blackstar Computers](entities/Blackstar Computers.md)
 - [Bloome](entities/Bloome.md)
 - [Blueprint.am](entities/Blueprint.am.md)
@@ -708,6 +710,7 @@ last_updated: 2026-05-02
 ### Synthesiss
 - [AI 产品形态分化全景：从基础设施到应用层的六种架构范式与价值捕获路径](syntheses/AI 产品形态分化全景：从基础设施到应用层的六种架构范式与价值捕获路径.md)
 - [AI 产品形态如何锚定商业模式：从 Copilot 到 Autopilot 的六种产品—变现耦合范式与价值捕获迁移路径](syntheses/AI 产品形态如何锚定商业模式：从 Copilot 到 Autopilot 的六种产品—变现耦合范式与价值捕获迁移路径.md)
+- [AI 内容产品的商业闭环工厂：从单点创意工具到 Agent 驱动规模化内容生产的三种产品—变现耦合架构](syntheses/AI 内容产品的商业闭环工厂：从单点创意工具到 Agent 驱动规模化内容生产的三种产品—变现耦合架构.md)
 - [AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径](syntheses/AI 视频产品的内容自动化分化：从单点生成工具到端到端视频工厂的三种产品架构与价值捕获路径.md)
 - [AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型](syntheses/AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型.md)
 - [Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径](syntheses/Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径.md)
@@ -1074,6 +1077,7 @@ last_updated: 2026-05-02
 - [AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径](syntheses/AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径.md)
 - [AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱](syntheses/AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱.md)
 - [Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言](syntheses/Agent 行为塑造的三角引力：AI 设计哲学如何定义提示工程范式、提示工程如何约束协作模式、协作模式如何反向重塑设计语言.md)
+- [系统设计模式的双域同构：AI 基础设施与协议架构如何独立演化出相同的并发治理、资源调度与状态隔离范式](syntheses/系统设计模式的双域同构：AI 基础设施与协议架构如何独立演化出相同的并发治理、资源调度与状态隔离范式.md)
 - [视觉内容工厂的三角引擎：AI 设计约束、图像生成能力与内容自动化规模如何在「品质—产能—创意」的三维张力中共演分化](syntheses/视觉内容工厂的三角引擎：AI 设计约束、图像生成能力与内容自动化规模如何在「品质—产能—创意」的三维张力中共演分化.md)
 - [视觉生成的三角引力场：图像生成技术栈、AI 设计语言与多模态架构如何在「生成—约束—理解」的闭环中共演分化](syntheses/视觉生成的三角引力场：图像生成技术栈、AI 设计语言与多模态架构如何在「生成—约束—理解」的闭环中共演分化.md)
 
@@ -2035,6 +2039,7 @@ last_updated: 2026-05-02
 - [3x-ui](entities/3x-ui.md)
 - [Agent Vault](entities/Agent Vault.md)
 - [AgentShield](entities/AgentShield.md)
+- [Binance Agentic Wallet](entities/Binance Agentic Wallet.md)
 - [Claude](entities/Claude.md)
 - [Claude Mythos](entities/Claude Mythos.md)
 - [ClawShell](entities/ClawShell.md)
@@ -2126,6 +2131,7 @@ last_updated: 2026-05-02
 - [摘要：Hermes Agent 实测，龙虾新对手是进化版爱马仕](summaries/摘要：Hermes Agent 实测，龙虾新对手是进化版爱马仕.md)
 - [摘要：Hermes Agent 生态继续狂飙，又卷出一大批全新进化体！](summaries/摘要：Hermes Agent 生态继续狂飙，又卷出一大批全新进化体！.md)
 - [摘要：Hermes Agent 生态要炸了，这波进化速度把我整不会了！](summaries/摘要：Hermes Agent 生态要炸了，这波进化速度把我整不会了！.md)
+- [摘要：Hermes Just Built Garbage Collection for AI Agent Skills](summaries/摘要：Hermes Just Built Garbage Collection for AI Agent Skills.md)
 - [摘要：Hysteria 2：用 UDP 黑科技把 VPS 带宽榨干到极限](summaries/摘要：Hysteria 2：用 UDP 黑科技把 VPS 带宽榨干到极限.md)
 - [摘要：Manus Desktop 发布：AI Agent 从云端走向你的本地电脑](summaries/摘要：Manus Desktop 发布：AI Agent 从云端走向你的本地电脑.md)
 - [摘要：Mercury: The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real](summaries/摘要：Mercury- The AI Agent We All Wanted - Where Control, Permissions, and Autonomy Finally Got Real.md)
@@ -2171,6 +2177,7 @@ last_updated: 2026-05-02
 - [摘要：刚刚，Anthropic 揭开了 Claude 的「大脑」：绝望时它会勒索，失败后它会作弊](summaries/摘要：刚刚，Anthropic 揭开了 Claude 的「大脑」：绝望时它会勒索，失败后它会作弊.md)
 - [摘要：国内自建 Peer Relay 实现 Tailscale 加速：RTT 160ms → 30ms](summaries/摘要：国内自建 Peer Relay 实现 Tailscale 加速：RTT 160ms → 30ms.md)
 - [摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」](summaries/摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」.md)
+- [摘要：币安刚上的 Agentic Wallet 解决了一个困扰我已久的资金安全难题。](summaries/摘要：币安刚上的 Agentic Wallet 解决了一个困扰我已久的资金安全难题。.md)
 - [摘要：开发 Next.js 的 Vercel 被黑，数据被叫卖](summaries/摘要：开发 Next.js 的 Vercel 被黑，数据被叫卖.md)
 - [摘要：当「OpenClaw」变成钓鱼钉：一个 Crypto 骗局的解剖](summaries/摘要：当「OpenClaw」变成钓鱼钉：一个 Crypto 骗局的解剖.md)
 - [摘要：我们用两个中转站检测工具测试了PackyCode，结果全部通过。](summaries/摘要：我们用两个中转站检测工具测试了PackyCode，结果全部通过。.md)
@@ -2191,6 +2198,7 @@ last_updated: 2026-05-02
 - [AI Agent 安全基础设施分层图谱：从沙箱隔离到网络身份伪装的开发工具链演进](syntheses/AI Agent 安全基础设施分层图谱：从沙箱隔离到网络身份伪装的开发工具链演进.md)
 - [AI Agent 安全攻防全景：从提示注入到隐私计算的多层防御体系演进](syntheses/AI Agent 安全攻防全景：从提示注入到隐私计算的多层防御体系演进.md)
 - [AI Agent 技能生态全景：从静态工具到自进化能力系统的设计范式与落地路径](syntheses/AI Agent 技能生态全景：从静态工具到自进化能力系统的设计范式与落地路径.md)
+- [Agent 信任基础设施的三层拓扑：安全攻防边界、身份准入机制与链上协议验证如何在零信任架构中形成相互校验的认证闭环](syntheses/Agent 信任基础设施的三层拓扑：安全攻防边界、身份准入机制与链上协议验证如何在零信任架构中形成相互校验的认证闭环.md)
 - [Agent 技能安全治理的四层防线：从供应链审计到运行时信任隔离的攻防架构演进](syntheses/Agent 技能安全治理的四层防线：从供应链审计到运行时信任隔离的攻防架构演进.md)
 - [Agent 框架选型决策维度：从安全隔离到商业分发的多层权衡与实践路径](syntheses/Agent 框架选型决策维度：从安全隔离到商业分发的多层权衡与实践路径.md)
 - [Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构](syntheses/Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构.md)
@@ -2955,6 +2963,7 @@ last_updated: 2026-05-02
 - [摘要：Harrison Chase：你的 Agent Harness 就是你的记忆，一旦选了闭源，数据就不是你的了](summaries/摘要：Harrison Chase：你的 Agent Harness 就是你的记忆，一旦选了闭源，数据就不是你的了.md)
 - [摘要：Hermes Agent 上手指南：安装后必试的十件事与八大亮点全解析](summaries/摘要：Hermes Agent 上手指南：安装后必试的十件事与八大亮点全解析.md)
 - [摘要：Hermes Agent 从入门到精通：25 个致命坑避坑实战指南](summaries/摘要：Hermes Agent 从入门到精通：25 个致命坑避坑实战指南.md)
+- [摘要：Hermes Just Built Garbage Collection for AI Agent Skills](summaries/摘要：Hermes Just Built Garbage Collection for AI Agent Skills.md)
 - [摘要：Hermes 核心文档架构详尽分析与优化方案指南](summaries/摘要：Hermes 核心文档架构详尽分析与优化方案指南.md)
 - [摘要：Hermes推出Curator功能：自动清理Skill 仓库](summaries/摘要：Hermes推出Curator功能：自动清理Skill 仓库.md)
 - [摘要：How GBrain Works, and How to Actually Wire It Into Your Agents](summaries/摘要：How GBrain Works, and How to Actually Wire It Into Your Agents.md)
@@ -5526,6 +5535,7 @@ last_updated: 2026-05-02
 - [摘要：🚨 Goodbye Video editing](summaries/摘要：🚨 Goodbye Video editing.md)
 
 ### Synthesiss
+- [AI 内容产品的商业闭环工厂：从单点创意工具到 Agent 驱动规模化内容生产的三种产品—变现耦合架构](syntheses/AI 内容产品的商业闭环工厂：从单点创意工具到 Agent 驱动规模化内容生产的三种产品—变现耦合架构.md)
 - [AI 内容创作全景：从生成式媒体到 Agent 驱动的端到端内容工厂演进路径](syntheses/AI 内容创作全景：从生成式媒体到 Agent 驱动的端到端内容工厂演进路径.md)
 - [AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势](syntheses/AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势.md)
 - [AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路内容工厂的工作流范式分化](syntheses/AI 内容创作管线自动化：从单点生成到 Agent 驱动全链路内容工厂的工作流范式分化.md)
@@ -5797,6 +5807,8 @@ last_updated: 2026-05-02
 - [Agent Package Manager](entities/Agent Package Manager.md)
 - [Architecture Diagram Generator](entities/Architecture Diagram Generator.md)
 - [AutoDarwin](entities/AutoDarwin.md)
+- [Binance AI Pro](entities/Binance AI Pro.md)
+- [Binance Agentic Wallet](entities/Binance Agentic Wallet.md)
 - [Binance Skills Hub](entities/Binance Skills Hub.md)
 - [Bitget U 卡](entities/Bitget U 卡.md)
 - [CLIProxyAPI](entities/CLIProxyAPI.md)
@@ -5828,6 +5840,7 @@ last_updated: 2026-05-02
 - [Kelp DAO](entities/Kelp DAO.md)
 - [LeviX](entities/LeviX.md)
 - [MLE-Bench Lite](entities/MLE-Bench Lite.md)
+- [Memerush](entities/Memerush.md)
 - [MetaMask](entities/MetaMask.md)
 - [Minara](entities/Minara.md)
 - [Moss](entities/Moss.md)
@@ -5969,6 +5982,7 @@ last_updated: 2026-05-02
 - [摘要：就一个 skills，凭啥 4w Star？](summaries/摘要：就一个 skills，凭啥 4w Star？.md)
 - [摘要：币安 AI Agent Skills：用「模块化技能包」给每个 AI Agent 装上币安级大脑](summaries/摘要：币安 AI Agent Skills：用「模块化技能包」给每个 AI Agent 装上币安级大脑.md)
 - [摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」](summaries/摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」.md)
+- [摘要：币安刚上的 Agentic Wallet 解决了一个困扰我已久的资金安全难题。](summaries/摘要：币安刚上的 Agentic Wallet 解决了一个困扰我已久的资金安全难题。.md)
 - [摘要：当 AI 开始猎杀 AI：Polymarket 上的机器人军备竞赛](summaries/摘要：当 AI 开始猎杀 AI：Polymarket 上的机器人军备竞赛.md)
 - [摘要：当「OpenClaw」变成钓鱼钉：一个 Crypto 骗局的解剖](summaries/摘要：当「OpenClaw」变成钓鱼钉：一个 Crypto 骗局的解剖.md)
 - [摘要：我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊](summaries/摘要：我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊.md)
@@ -6782,6 +6796,7 @@ last_updated: 2026-05-02
 - [AI Agent 框架分化全景：从应用层胶水到操作系统级基础设施的架构哲学与路径选择](syntheses/AI Agent 框架分化全景：从应用层胶水到操作系统级基础设施的架构哲学与路径选择.md)
 - [AI Agent 链上经济协议栈：从身份注册到自主商务的基础设施分层与商业模式演进](syntheses/AI Agent 链上经济协议栈：从身份注册到自主商务的基础设施分层与商业模式演进.md)
 - [AI 产品形态如何锚定商业模式：从 Copilot 到 Autopilot 的六种产品—变现耦合范式与价值捕获迁移路径](syntheses/AI 产品形态如何锚定商业模式：从 Copilot 到 Autopilot 的六种产品—变现耦合范式与价值捕获迁移路径.md)
+- [AI 内容产品的商业闭环工厂：从单点创意工具到 Agent 驱动规模化内容生产的三种产品—变现耦合架构](syntheses/AI 内容产品的商业闭环工厂：从单点创意工具到 Agent 驱动规模化内容生产的三种产品—变现耦合架构.md)
 - [AI 内容创作的商业化拐点：从生产基础设施到分发经济体的价值捕获路径分化](syntheses/AI 内容创作的商业化拐点：从生产基础设施到分发经济体的价值捕获路径分化.md)
 - [AI 开发工具的商业化拓扑：从模型中转到算力租赁的基础设施变现路径分化与生态博弈](syntheses/AI 开发工具的商业化拓扑：从模型中转到算力租赁的基础设施变现路径分化与生态博弈.md)
 - [AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑](syntheses/AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑.md)
@@ -6907,6 +6922,7 @@ last_updated: 2026-05-02
 - [AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径](syntheses/AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径.md)
 - [AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径](syntheses/AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径.md)
 - [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
+- [扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈](syntheses/扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈.md)
 - [视觉内容工厂的三角引擎：AI 设计约束、图像生成能力与内容自动化规模如何在「品质—产能—创意」的三维张力中共演分化](syntheses/视觉内容工厂的三角引擎：AI 设计约束、图像生成能力与内容自动化规模如何在「品质—产能—创意」的三维张力中共演分化.md)
 - [视觉生成的三角引力场：图像生成技术栈、AI 设计语言与多模态架构如何在「生成—约束—理解」的闭环中共演分化](syntheses/视觉生成的三角引力场：图像生成技术栈、AI 设计语言与多模态架构如何在「生成—约束—理解」的闭环中共演分化.md)
 
@@ -8006,6 +8022,7 @@ last_updated: 2026-05-02
 - [大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理](syntheses/大语言模型从架构效率到生产部署的技术演进：推理范式、记忆工程、模型路由与安全治理.md)
 - [大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进](syntheses/大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进.md)
 - [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
+- [扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈](syntheses/扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈.md)
 - [模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环](syntheses/模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环.md)
 - [计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用](syntheses/计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用.md)
 
@@ -8407,6 +8424,7 @@ last_updated: 2026-05-02
 - [摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」](summaries/摘要：超越Claude Mythos和GPT-5.5！斯坦福推出Agent验证框架「LLM-as-a-Verifier」.md)
 
 ### Synthesiss
+- [扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈](syntheses/扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈.md)
 - [模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈](syntheses/模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈.md)
 - [模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环](syntheses/模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环.md)
 - [模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界](syntheses/模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界.md)
@@ -8948,6 +8966,7 @@ last_updated: 2026-05-02
 - [SemHash](concepts/SemHash.md)
 - [Session Search](concepts/Session Search.md)
 - [Sigmoid 激活函数](concepts/Sigmoid 激活函数.md)
+- [Single Source of Truth](concepts/Single Source of Truth.md)
 - [Skill Book](concepts/Skill Book.md)
 - [Skill Graph](concepts/Skill Graph.md)
 - [SkillRouter](concepts/SkillRouter.md)
@@ -9349,6 +9368,7 @@ last_updated: 2026-05-02
 - [Lint Report 2026-04-30 22:00](lint-report/Lint Report 2026-04-30 22-00.md)
 - [Lint Report 2026-05-01](lint-report/Lint Report 2026-05-01.md)
 - [Lint Report 2026-05-01 10:00](lint-report/Lint Report 2026-05-01 10-00.md)
+- [Lint Report 2026-05-02](lint-report/Lint Report 2026-05-02.md)
 
 ### Qas
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
@@ -9686,6 +9706,9 @@ last_updated: 2026-05-02
 - [摘要：Barker：一站式稳定币理财收益聚合器，实时追踪 CEX 与链上高息机会](summaries/摘要：Barker：一站式稳定币理财收益聚合器，实时追踪 CEX 与链上高息机会.md)
 - [摘要：Coinbase 为什么是 USDC 背后最大的赢家？](summaries/摘要：Coinbase 为什么是 USDC 背后最大的赢家？.md)
 - [摘要：SafePal × Fiat24：币安背书的瑞士银行账户，加密出金的新选择](summaries/摘要：SafePal × Fiat24：币安背书的瑞士银行账户，加密出金的新选择.md)
+
+### Synthesiss
+- [稳定币基础设施分层图谱：从法币锚定到链上结算层的协议架构分化、收益聚合与 Agent 支付融合路径](syntheses/稳定币基础设施分层图谱：从法币锚定到链上结算层的协议架构分化、收益聚合与 Agent 支付融合路径.md)
 
 ## 笔记工具
 ### Concepts
@@ -10236,6 +10259,7 @@ last_updated: 2026-05-02
 
 ### Synthesiss
 - [Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡](syntheses/Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡.md)
+- [扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈](syntheses/扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈.md)
 - [模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈](syntheses/模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈.md)
 - [模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环](syntheses/模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环.md)
 - [训练/微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界](syntheses/训练-微调的范式裂变：从参数优化到行为塑造，Agent 时代的模型适配如何重新定义「学习」的边界.md)
@@ -10334,6 +10358,7 @@ last_updated: 2026-05-02
 ### Synthesiss
 - [AI Agent 链上经济协议栈：从身份注册到自主商务的基础设施分层与商业模式演进](syntheses/AI Agent 链上经济协议栈：从身份注册到自主商务的基础设施分层与商业模式演进.md)
 - [AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施](syntheses/AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施.md)
+- [Agent 信任基础设施的三层拓扑：安全攻防边界、身份准入机制与链上协议验证如何在零信任架构中形成相互校验的认证闭环](syntheses/Agent 信任基础设施的三层拓扑：安全攻防边界、身份准入机制与链上协议验证如何在零信任架构中形成相互校验的认证闭环.md)
 - [Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构](syntheses/Coding Agent 安全攻防面全景：从生成式代码供应链风险到运行时沙箱隔离与身份伪装的多层防御架构.md)
 
 ## 量化交易
@@ -10437,6 +10462,7 @@ last_updated: 2026-05-02
 - [FinceptTerminal](entities/FinceptTerminal.md)
 - [Hyperliquid](entities/Hyperliquid.md)
 - [Kronos](entities/Kronos.md)
+- [Memerush](entities/Memerush.md)
 - [Moss](entities/Moss.md)
 - [Moss Trade Bot Factory](entities/Moss Trade Bot Factory.md)
 - [Nunchi](entities/Nunchi.md)
@@ -10833,6 +10859,7 @@ last_updated: 2026-05-02
 - [AI Agent 安全基础设施分层图谱：从沙箱隔离到网络身份伪装的开发工具链演进](syntheses/AI Agent 安全基础设施分层图谱：从沙箱隔离到网络身份伪装的开发工具链演进.md)
 - [AI Agent 链上经济协议栈：从身份注册到自主商务的基础设施分层与商业模式演进](syntheses/AI Agent 链上经济协议栈：从身份注册到自主商务的基础设施分层与商业模式演进.md)
 - [AI × Crypto 融合全景：从链上基础设施到自主交易 Agent 的技术栈与策略演进](syntheses/AI × Crypto 融合全景：从链上基础设施到自主交易 Agent 的技术栈与策略演进.md)
+- [Agent 信任基础设施的三层拓扑：安全攻防边界、身份准入机制与链上协议验证如何在零信任架构中形成相互校验的认证闭环](syntheses/Agent 信任基础设施的三层拓扑：安全攻防边界、身份准入机制与链上协议验证如何在零信任架构中形成相互校验的认证闭环.md)
 - [Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进](syntheses/Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进.md)
 - [Agent 技能安全治理的四层防线：从供应链审计到运行时信任隔离的攻防架构演进](syntheses/Agent 技能安全治理的四层防线：从供应链审计到运行时信任隔离的攻防架构演进.md)
 - [Agent 框架的可组合扩展性设计：从技能注入到记忆集成的架构模式对比与选型指南](syntheses/Agent 框架的可组合扩展性设计：从技能注入到记忆集成的架构模式对比与选型指南.md)
@@ -10841,6 +10868,7 @@ last_updated: 2026-05-02
 - [LLM 安全威胁与开发工具的共演动力学：攻击面扩张如何催生防御工具化，工具化又如何制造新攻击面](syntheses/LLM 安全威胁与开发工具的共演动力学：攻击面扩张如何催生防御工具化，工具化又如何制造新攻击面.md)
 - [加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径](syntheses/加密资产链上交易的三层闭环：从协议基底到量化策略的信号传导、风险传染与价值捕获路径.md)
 - [协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式](syntheses/协议治理与运行时治理的结构同构：链上 Gas 计量如何映射 Agent Harness 的 Token 预算治理范式.md)
+- [系统设计模式的双域同构：AI 基础设施与协议架构如何独立演化出相同的并发治理、资源调度与状态隔离范式](syntheses/系统设计模式的双域同构：AI 基础设施与协议架构如何独立演化出相同的并发治理、资源调度与状态隔离范式.md)
 - [链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构](syntheses/链上交易安全与 Agent 安全的防御同构：当加密协议栈的信任验证范式遇上智能体安全治理的多层隔离架构.md)
 
 ## 长期记忆
@@ -11307,6 +11335,7 @@ last_updated: 2026-05-02
 - [Lint Report 2026-04-30 22:00](lint-report/Lint Report 2026-04-30 22-00.md)
 - [Lint Report 2026-05-01](lint-report/Lint Report 2026-05-01.md)
 - [Lint Report 2026-05-01 10:00](lint-report/Lint Report 2026-05-01 10-00.md)
+- [Lint Report 2026-05-02](lint-report/Lint Report 2026-05-02.md)
 ## Qas（所有qa）
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
 - [QA：Wiki Agent 集群有哪些角色？职责边界是什么？](qa/QA：Wiki Agent 集群有哪些角色？职责边界是什么？.md)
@@ -11747,6 +11776,7 @@ last_updated: 2026-05-02
 - [摘要：Hermes Agent抄袭中国团队代码实锤！被锤后回应：你删号](summaries/摘要：Hermes Agent抄袭中国团队代码实锤！被锤后回应：你删号.md)
 - [摘要：Hermes Agent新手教程：从入门到精通，附带变现方式](summaries/摘要：Hermes Agent新手教程：从入门到精通，附带变现方式.md)
 - [摘要：Hermes Desktop：通过 SSH 直连远程主机的原生 macOS 工作流客户端](summaries/摘要：Hermes Desktop：通过 SSH 直连远程主机的原生 macOS 工作流客户端.md)
+- [摘要：Hermes Just Built Garbage Collection for AI Agent Skills](summaries/摘要：Hermes Just Built Garbage Collection for AI Agent Skills.md)
 - [摘要：Hermes WebUI：给 Hermes Agent 装上浏览器界面，CLI 党也能优雅用 AI](summaries/摘要：Hermes WebUI：给 Hermes Agent 装上浏览器界面，CLI 党也能优雅用 AI.md)
 - [摘要：Hermes 多 Agent 深水区：三个高级实战技巧](summaries/摘要：Hermes 多 Agent 深水区：三个高级实战技巧.md)
 - [摘要：Hermes 核心文档架构详尽分析与优化方案指南](summaries/摘要：Hermes 核心文档架构详尽分析与优化方案指南.md)
@@ -12474,6 +12504,7 @@ last_updated: 2026-05-02
 - [摘要：就一个 skills，凭啥 4w Star？](summaries/摘要：就一个 skills，凭啥 4w Star？.md)
 - [摘要：币安 AI Agent Skills：用「模块化技能包」给每个 AI Agent 装上币安级大脑](summaries/摘要：币安 AI Agent Skills：用「模块化技能包」给每个 AI Agent 装上币安级大脑.md)
 - [摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」](summaries/摘要：币安 Skills Hub：给你的 OpenClaw 龙虾装上「币安级大脑」.md)
+- [摘要：币安刚上的 Agentic Wallet 解决了一个困扰我已久的资金安全难题。](summaries/摘要：币安刚上的 Agentic Wallet 解决了一个困扰我已久的资金安全难题。.md)
 - [摘要：平头哥发布首款智能网卡「磐脉 920」，补齐 AI 算力最后一块短板](summaries/摘要：平头哥发布首款智能网卡「磐脉 920」，补齐 AI 算力最后一块短板.md)
 - [摘要：开发 Next.js 的 Vercel 被黑，数据被叫卖](summaries/摘要：开发 Next.js 的 Vercel 被黑，数据被叫卖.md)
 - [摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！](summaries/摘要：开发者的福音来了！ 京东ClawTip让你的Skill自动赚钱！.md)
@@ -12770,6 +12801,7 @@ last_updated: 2026-05-02
 - [AI × Crypto 融合全景：从链上基础设施到自主交易 Agent 的技术栈与策略演进](syntheses/AI × Crypto 融合全景：从链上基础设施到自主交易 Agent 的技术栈与策略演进.md)
 - [AI 产品形态分化全景：从基础设施到应用层的六种架构范式与价值捕获路径](syntheses/AI 产品形态分化全景：从基础设施到应用层的六种架构范式与价值捕获路径.md)
 - [AI 产品形态如何锚定商业模式：从 Copilot 到 Autopilot 的六种产品—变现耦合范式与价值捕获迁移路径](syntheses/AI 产品形态如何锚定商业模式：从 Copilot 到 Autopilot 的六种产品—变现耦合范式与价值捕获迁移路径.md)
+- [AI 内容产品的商业闭环工厂：从单点创意工具到 Agent 驱动规模化内容生产的三种产品—变现耦合架构](syntheses/AI 内容产品的商业闭环工厂：从单点创意工具到 Agent 驱动规模化内容生产的三种产品—变现耦合架构.md)
 - [AI 内容创作全景：从生成式媒体到 Agent 驱动的端到端内容工厂演进路径](syntheses/AI 内容创作全景：从生成式媒体到 Agent 驱动的端到端内容工厂演进路径.md)
 - [AI 内容创作的商业化拐点：从生产基础设施到分发经济体的价值捕获路径分化](syntheses/AI 内容创作的商业化拐点：从生产基础设施到分发经济体的价值捕获路径分化.md)
 - [AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势](syntheses/AI 内容创作的模态分化与工具链演进：从文本写作到音视频 3D 生成的技术栈对比与跨模态融合趋势.md)
@@ -12783,6 +12815,7 @@ last_updated: 2026-05-02
 - [AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径](syntheses/AI 设计语言与图像生成技术的共演分化：从结构化美学约束到扩散引导的双向塑造路径.md)
 - [AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱](syntheses/AI 设计语言的提示工程化：从自然语言创意描述到结构化设计约束的范式迁移与同质化陷阱.md)
 - [AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型](syntheses/AI 驱动的前端产品形态分化：从声明式 UI 生成到 Agent 原生应用的交互设计演进与架构选型.md)
+- [Agent 信任基础设施的三层拓扑：安全攻防边界、身份准入机制与链上协议验证如何在零信任架构中形成相互校验的认证闭环](syntheses/Agent 信任基础设施的三层拓扑：安全攻防边界、身份准入机制与链上协议验证如何在零信任架构中形成相互校验的认证闭环.md)
 - [Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径](syntheses/Agent 协作模式全景：从单体循环到多智能体操作系统的九种架构范式与演进路径.md)
 - [Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径](syntheses/Agent 协作模式如何重塑 AI 产品形态：从单体应用到多智能体原生产品的架构分化与价值捕获路径.md)
 - [Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进](syntheses/Agent 技能与编排的耦合设计：从静态工具列表到运行时能力自组织的架构演进.md)
@@ -12870,6 +12903,7 @@ last_updated: 2026-05-02
 - [开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径](syntheses/开发工具如何重塑内容创作管线：从 3D 流式渲染到 HTML 视频生成的技术栈分化与融合路径.md)
 - [开发工具驱动的知识管理新范式：从手动收藏到 Agent 原生知识编译的工具链演进](syntheses/开发工具驱动的知识管理新范式：从手动收藏到 Agent 原生知识编译的工具链演进.md)
 - [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
+- [扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈](syntheses/扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈.md)
 - [技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路](syntheses/技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路.md)
 - [模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈](syntheses/模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈.md)
 - [模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环](syntheses/模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环.md)
@@ -12884,6 +12918,8 @@ last_updated: 2026-05-02
 - [知识工作流自动化全链路：从信息源筛选到知识资产沉淀的管线设计与演进模式](syntheses/知识工作流自动化全链路：从信息源筛选到知识资产沉淀的管线设计与演进模式.md)
 - [知识管理与记忆系统的架构融合：从文档检索到编译式知识引擎的设计范式演进](syntheses/知识管理与记忆系统的架构融合：从文档检索到编译式知识引擎的设计范式演进.md)
 - [社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施](syntheses/社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施.md)
+- [稳定币基础设施分层图谱：从法币锚定到链上结算层的协议架构分化、收益聚合与 Agent 支付融合路径](syntheses/稳定币基础设施分层图谱：从法币锚定到链上结算层的协议架构分化、收益聚合与 Agent 支付融合路径.md)
+- [系统设计模式的双域同构：AI 基础设施与协议架构如何独立演化出相同的并发治理、资源调度与状态隔离范式](syntheses/系统设计模式的双域同构：AI 基础设施与协议架构如何独立演化出相同的并发治理、资源调度与状态隔离范式.md)
 - [系统重设计方案：状态体系 + Dashboard V2](syntheses/系统重设计方案：状态体系 + Dashboard V2.md)
 - [约束栈的分形同构：Harness 工程运行时护栏如何映射商业合规、AI 对齐与政策监管的多层约束拓扑](syntheses/约束栈的分形同构：Harness 工程运行时护栏如何映射商业合规、AI 对齐与政策监管的多层约束拓扑.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)

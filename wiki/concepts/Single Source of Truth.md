@@ -3,6 +3,7 @@ title: Single Source of Truth
 type: concept
 tags:
 - Agent 协作模式
+- 知识管理
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-12'
@@ -28,4 +29,4 @@ Single Source of Truth 指系统只保留一个权威状态源，其他界面与
 
 ## 来源引用
 
-- [原文链接](https://x.com/billtheinvestor/status/2042946398124150891)｜X书签｜来源条目：Hermes Desktop：用原生 macOS 应用直连远程 AI 工作流，彻底告别浏览器壳
+- Hermes Desktop：用原生 macOS 应用直连远程 AI 工作流，彻底告别浏览器壳

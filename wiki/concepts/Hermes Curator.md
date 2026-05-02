@@ -5,7 +5,7 @@ tags:
 - Harness 工程
 status: 草稿
 confidence: high
-last_compiled: '2026-04-30'
+last_compiled: '2026-05-02'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/6ea4f0a7869d40f6a9b512df878bf6c9
@@ -48,3 +48,5 @@ curator:
 ## 来源引用
 
 - [摘要：Hermes推出Curator功能：自动清理Skill 仓库](summaries/摘要：Hermes推出Curator功能：自动清理Skill 仓库.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA5MTIxNTY4MQ%3D%3D&mid=2461159595&idx=1&sn=118a32399db51abe9ca6ad54a390e59b&chksm=862d857db8f99a1e7421e0fba9162fba1aaf81ee3063a2ff913f7c6d41136ba6e6c215dc581c#rd)）
+
+- [摘要：Hermes Just Built Garbage Collection for AI Agent Skills](summaries/摘要：Hermes Just Built Garbage Collection for AI Agent Skills.md)（[原文](https://x.com/AlphaSignalAI/status/2050269010735018074)）
