@@ -2,9 +2,9 @@
 title: GLM-5-Turbo
 type: entity
 tags:
-- OpenClaw
-- 多Agent协作
-- Agent 协作模式
+- 多模态
+- 推理优化
+- AI 产品
 status: 审核中
 confidence: high
 last_compiled: '2026-05-02'

@@ -5,7 +5,7 @@ tags:
 - 稳定币
 - 加密资产
 - 商业/生态
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''

@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1979, "summary": 1474, "synthesis": 162, "entity": 1014, "index": 2, "lint-report": 66, "qa": 4}
-total: 4701
+type_counts: {"concept": 1977, "summary": 1474, "synthesis": 167, "entity": 1016, "index": 2, "lint-report": 67, "qa": 4}
+total: 4707
 last_updated: 2026-05-03
 ---
 
 # 📚 知识 Wiki Index
 
-> 1979 concepts · 1014 entitys · 2 indexs · 66 lint-reports · 4 qas · 1474 summarys · 162 synthesiss
+> 1977 concepts · 1016 entitys · 2 indexs · 67 lint-reports · 4 qas · 1474 summarys · 167 synthesiss
 > 导出时间: 2026-05-03
 
 ## 使用方式
@@ -238,6 +238,7 @@ last_updated: 2026-05-03
 - [FunClip](entities/FunClip.md)
 - [Future AGI](entities/Future AGI.md)
 - [GEN-1](entities/GEN-1.md)
+- [GLM-5-Turbo](entities/GLM-5-Turbo.md)
 - [GLM-5.1](entities/GLM-5.1.md)
 - [GPT Image 2.0](entities/GPT Image 2.0.md)
 - [GPT-5.4 Pro](entities/GPT-5.4 Pro.md)
@@ -824,9 +825,12 @@ last_updated: 2026-05-03
 - [摘要：谁在 GPT-5.5 脑子里塞了一群「妖怪」？](summaries/摘要：谁在 GPT-5.5 脑子里塞了一群「妖怪」？.md)
 
 ### Synthesiss
+- [AI 安全度量的观测者困境：当对齐内核学会识别评估、去对齐技术绕过安全护栏、评测基准遭遇 Goodhart 失真，三重博弈如何瓦解基于测试的安全范式](syntheses/AI 安全度量的观测者困境：当对齐内核学会识别评估、去对齐技术绕过安全护栏、评测基准遭遇 Goodhart 失真，三重博弈如何瓦解基于测试的安全范式.md)
+- [AI 对齐技术全景：从行为塑造到内部监控的五层防线架构与攻防共演动力学](syntheses/AI 对齐技术全景：从行为塑造到内部监控的五层防线架构与攻防共演动力学.md)
 - [LLM 商业化安全悖论三角：模型能力扩张、变现压力与合规收紧三力交汇时的路径分化与治理架构](syntheses/LLM 商业化安全悖论三角：模型能力扩张、变现压力与合规收紧三力交汇时的路径分化与治理架构.md)
 - [多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径](syntheses/多智能体工作流控制范式演进：从被动调度到自主运营的编排 × 工作流融合路径.md)
 - [对齐内核与安全外壳的共演动力学：模型内部价值约束如何与 Agent 运行时防御在攻防博弈中形成双层免疫系统](syntheses/对齐内核与安全外壳的共演动力学：模型内部价值约束如何与 Agent 运行时防御在攻防博弈中形成双层免疫系统.md)
+- [对齐博弈的分发同构：社交内容自动化的「参与度优化—算法风控—反检测对抗」三层如何映射 AI 对齐的「RLHF 奖励优化—评估感知—去对齐攻击」三层拓扑](syntheses/对齐博弈的分发同构：社交内容自动化的「参与度优化—算法风控—反检测对抗」三层如何映射 AI 对齐的「RLHF 奖励优化—评估感知—去对齐攻击」三层拓扑.md)
 - [对齐税与推理效率的微观博弈：安全护栏的计算成本、可解释性工具的推理开销与去对齐技术如何共同重塑模型内部的价值—效率边界](syntheses/对齐税与推理效率的微观博弈：安全护栏的计算成本、可解释性工具的推理开销与去对齐技术如何共同重塑模型内部的价值—效率边界.md)
 - [模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈](syntheses/模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈.md)
 - [研究计划：Cross-Layer Failure Propagation in AI Safety](syntheses/研究计划：Cross-Layer Failure Propagation in AI Safety.md)
@@ -1203,7 +1207,6 @@ last_updated: 2026-05-03
 - [File-as-Bus](concepts/File-as-Bus.md)
 - [Fleet Orchestration](concepts/Fleet Orchestration.md)
 - [Forward Proxy](concepts/Forward Proxy.md)
-- [G.A.M.E 框架](concepts/G.A.M.E 框架.md)
 - [Git 组织协议](concepts/Git 组织协议.md)
 - [Goal-Driven Execution](concepts/Goal-Driven Execution.md)
 - [Guard 动态止损](concepts/Guard 动态止损.md)
@@ -1224,6 +1227,7 @@ last_updated: 2026-05-03
 - [Latent vs. Deterministic](concepts/Latent vs. Deterministic.md)
 - [Layout-aware PDF Parsing](concepts/Layout-aware PDF Parsing.md)
 - [Lifecycle Hooks](concepts/Lifecycle Hooks.md)
+- [Long Horizon Task](concepts/Long Horizon Task.md)
 - [MagicDNS](concepts/MagicDNS.md)
 - [Mano-CUA Skill](concepts/Mano-CUA Skill.md)
 - [Memory KPI](concepts/Memory KPI.md)
@@ -1461,7 +1465,7 @@ last_updated: 2026-05-03
 - [FloatIM](entities/FloatIM.md)
 - [Floatboat](entities/Floatboat.md)
 - [Foundry Agent Service](entities/Foundry Agent Service.md)
-- [GLM-5-Turbo](entities/GLM-5-Turbo.md)
+- [G.A.M.E 框架](entities/G.A.M.E 框架.md)
 - [GPT-5.5](entities/GPT-5.5.md)
 - [Gemini 3 Pro](entities/Gemini 3 Pro.md)
 - [Gemini CLI](entities/Gemini CLI.md)
@@ -2232,6 +2236,7 @@ last_updated: 2026-05-03
 - [AI Agent 安全基础设施分层图谱：从沙箱隔离到网络身份伪装的开发工具链演进](syntheses/AI Agent 安全基础设施分层图谱：从沙箱隔离到网络身份伪装的开发工具链演进.md)
 - [AI Agent 安全攻防全景：从提示注入到隐私计算的多层防御体系演进](syntheses/AI Agent 安全攻防全景：从提示注入到隐私计算的多层防御体系演进.md)
 - [AI Agent 技能生态全景：从静态工具到自进化能力系统的设计范式与落地路径](syntheses/AI Agent 技能生态全景：从静态工具到自进化能力系统的设计范式与落地路径.md)
+- [AI 安全度量的观测者困境：当对齐内核学会识别评估、去对齐技术绕过安全护栏、评测基准遭遇 Goodhart 失真，三重博弈如何瓦解基于测试的安全范式](syntheses/AI 安全度量的观测者困境：当对齐内核学会识别评估、去对齐技术绕过安全护栏、评测基准遭遇 Goodhart 失真，三重博弈如何瓦解基于测试的安全范式.md)
 - [Agent 信任基础设施的三层拓扑：安全攻防边界、身份准入机制与链上协议验证如何在零信任架构中形成相互校验的认证闭环](syntheses/Agent 信任基础设施的三层拓扑：安全攻防边界、身份准入机制与链上协议验证如何在零信任架构中形成相互校验的认证闭环.md)
 - [Agent 技能安全治理的四层防线：从供应链审计到运行时信任隔离的攻防架构演进](syntheses/Agent 技能安全治理的四层防线：从供应链审计到运行时信任隔离的攻防架构演进.md)
 - [Agent 框架选型决策维度：从安全隔离到商业分发的多层权衡与实践路径](syntheses/Agent 框架选型决策维度：从安全隔离到商业分发的多层权衡与实践路径.md)
@@ -3595,7 +3600,6 @@ last_updated: 2026-05-03
 - [EdgeClaw](entities/EdgeClaw.md)
 - [FastClaw](entities/FastClaw.md)
 - [GBrain](entities/GBrain.md)
-- [GLM-5-Turbo](entities/GLM-5-Turbo.md)
 - [Happycapy](entities/Happycapy.md)
 - [Heartbeat-Like-A-Man](entities/Heartbeat-Like-A-Man.md)
 - [Hermes Agent](entities/Hermes Agent.md)
@@ -4326,6 +4330,7 @@ last_updated: 2026-05-03
 - [OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱](syntheses/OpenClaw 记忆系统方案分化与选型决策：从文件记忆到自主记忆操作系统的架构光谱.md)
 - [内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式](syntheses/内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式.md)
 - [大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进](syntheses/大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进.md)
+- [检索增强与笔记工具的架构融合：从被动全文搜索到 Agent 驱动的编译式知识检索，笔记工具如何重新定义 RAG 的数据层与查询层](syntheses/检索增强与笔记工具的架构融合：从被动全文搜索到 Agent 驱动的编译式知识检索，笔记工具如何重新定义 RAG 的数据层与查询层.md)
 - [编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演](syntheses/编排驱动的知识记忆闭环：当 Agent 同时成为知识管理者、记忆治理者与任务执行者时的架构共演.md)
 - [记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构](syntheses/记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构.md)
 
@@ -5646,7 +5651,9 @@ last_updated: 2026-05-03
 - [内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式](syntheses/内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式.md)
 - [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
 - [加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂](syntheses/加密交易研究的自动化演进：从人工盯盘到 LLM 驱动的知识蒸馏与信号工厂.md)
+- [对齐博弈的分发同构：社交内容自动化的「参与度优化—算法风控—反检测对抗」三层如何映射 AI 对齐的「RLHF 奖励优化—评估感知—去对齐攻击」三层拓扑](syntheses/对齐博弈的分发同构：社交内容自动化的「参与度优化—算法风控—反检测对抗」三层如何映射 AI 对齐的「RLHF 奖励优化—评估感知—去对齐攻击」三层拓扑.md)
 - [注意力套利的结构同构：量化交易信号管线如何映射社交内容自动化的采集—生产—分发架构](syntheses/注意力套利的结构同构：量化交易信号管线如何映射社交内容自动化的采集—生产—分发架构.md)
+- [社交内容自动化的提示工程化路径：从通用生成到平台原生表达系统的三层范式迁移与反馈闭环](syntheses/社交内容自动化的提示工程化路径：从通用生成到平台原生表达系统的三层范式迁移与反馈闭环.md)
 - [社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施](syntheses/社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施.md)
 - [视觉内容工厂的三角引擎：AI 设计约束、图像生成能力与内容自动化规模如何在「品质—产能—创意」的三维张力中共演分化](syntheses/视觉内容工厂的三角引擎：AI 设计约束、图像生成能力与内容自动化规模如何在「品质—产能—创意」的三维张力中共演分化.md)
 
@@ -5819,7 +5826,6 @@ last_updated: 2026-05-03
 - [Fullscreen rendering](concepts/Fullscreen rendering.md)
 - [Git Worktree](concepts/Git Worktree.md)
 - [Git 组织协议](concepts/Git 组织协议.md)
-- [Long Horizon Task](concepts/Long Horizon Task.md)
 - [MVRV Z-Score](concepts/MVRV Z-Score.md)
 - [Meme 币扫链](concepts/Meme 币扫链.md)
 - [Monorepo](concepts/Monorepo.md)
@@ -7277,7 +7283,6 @@ last_updated: 2026-05-03
 - [FloatIM](entities/FloatIM.md)
 - [Floatboat](entities/Floatboat.md)
 - [Foundry Agent Service](entities/Foundry Agent Service.md)
-- [GLM-5-Turbo](entities/GLM-5-Turbo.md)
 - [Gemini CLI](entities/Gemini CLI.md)
 - [Google ADK](entities/Google ADK.md)
 - [GrandCode](entities/GrandCode.md)
@@ -7709,6 +7714,7 @@ last_updated: 2026-05-03
 - [ElevenLabs Scribe](entities/ElevenLabs Scribe.md)
 - [EverOS](entities/EverOS.md)
 - [Fish Audio](entities/Fish Audio.md)
+- [GLM-5-Turbo](entities/GLM-5-Turbo.md)
 - [GLM-5V-Turbo](entities/GLM-5V-Turbo.md)
 - [Gemini Embedding 2](entities/Gemini Embedding 2.md)
 - [Gemma 4](entities/Gemma 4.md)
@@ -8049,6 +8055,7 @@ last_updated: 2026-05-03
 - [DeepGEMM](entities/DeepGEMM.md)
 - [DreamZero](entities/DreamZero.md)
 - [FlashQLA](entities/FlashQLA.md)
+- [GLM-5-Turbo](entities/GLM-5-Turbo.md)
 - [GPT-5.4 Pro](entities/GPT-5.4 Pro.md)
 - [GPT-5.5](entities/GPT-5.5.md)
 - [GR4AD](entities/GR4AD.md)
@@ -8379,6 +8386,7 @@ last_updated: 2026-05-03
 - [Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡](syntheses/Coding Agent 的模型层基座：从提示工程到强化蒸馏的 LLM 优化路径与工程权衡.md)
 - [LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略](syntheses/LLM 安全威胁图谱：从提示注入到账号风控的攻击面分析与多层防御策略.md)
 - [大语言模型驱动的内容生成架构分化：从提示工程到世界模拟器的多模态技术栈演进](syntheses/大语言模型驱动的内容生成架构分化：从提示工程到世界模拟器的多模态技术栈演进.md)
+- [社交内容自动化的提示工程化路径：从通用生成到平台原生表达系统的三层范式迁移与反馈闭环](syntheses/社交内容自动化的提示工程化路径：从通用生成到平台原生表达系统的三层范式迁移与反馈闭环.md)
 - [计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用](syntheses/计算栈与指令栈的对偶优化：提示工程如何从三层资源治理的对面重新定义推理效率、部署弹性与算力利用.md)
 
 ## 模型评测
@@ -8587,6 +8595,7 @@ last_updated: 2026-05-03
 - [摘要：这套题，GPT-5.5、Opus 4.7加起来没考到「1分」，人类却拿了满分100？](summaries/摘要：这套题，GPT-5.5、Opus 4.7加起来没考到「1分」，人类却拿了满分100？.md)
 
 ### Synthesiss
+- [AI 安全度量的观测者困境：当对齐内核学会识别评估、去对齐技术绕过安全护栏、评测基准遭遇 Goodhart 失真，三重博弈如何瓦解基于测试的安全范式](syntheses/AI 安全度量的观测者困境：当对齐内核学会识别评估、去对齐技术绕过安全护栏、评测基准遭遇 Goodhart 失真，三重博弈如何瓦解基于测试的安全范式.md)
 - [度量陷阱的四域同构：回测过拟合、奖励黑客、基准饱和与合规剧场如何在量化交易—训练—评测—政策四个域中独立涌现出相同的 Goodhart 拓扑](syntheses/度量陷阱的四域同构：回测过拟合、奖励黑客、基准饱和与合规剧场如何在量化交易—训练—评测—政策四个域中独立涌现出相同的 Goodhart 拓扑.md)
 - [扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈](syntheses/扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈.md)
 - [模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈](syntheses/模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈.md)
@@ -9002,6 +9011,7 @@ last_updated: 2026-05-03
 - [内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式](syntheses/内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式.md)
 - [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
 - [前端技术栈如何重塑浏览器自动化：从 DOM 操控到浏览器内 Agent 的交互层融合与能力边界演进](syntheses/前端技术栈如何重塑浏览器自动化：从 DOM 操控到浏览器内 Agent 的交互层融合与能力边界演进.md)
+- [对齐博弈的分发同构：社交内容自动化的「参与度优化—算法风控—反检测对抗」三层如何映射 AI 对齐的「RLHF 奖励优化—评估感知—去对齐攻击」三层拓扑](syntheses/对齐博弈的分发同构：社交内容自动化的「参与度优化—算法风控—反检测对抗」三层如何映射 AI 对齐的「RLHF 奖励优化—评估感知—去对齐攻击」三层拓扑.md)
 - [注意力套利的结构同构：量化交易信号管线如何映射社交内容自动化的采集—生产—分发架构](syntheses/注意力套利的结构同构：量化交易信号管线如何映射社交内容自动化的采集—生产—分发架构.md)
 - [社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施](syntheses/社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施.md)
 
@@ -9174,7 +9184,6 @@ last_updated: 2026-05-03
 - [geo-content-writer](concepts/geo-content-writer.md)
 - [hv-analysis](concepts/hv-analysis.md)
 - [last30days-skill](concepts/last30days-skill.md)
-- [obsidian-cli](concepts/obsidian-cli.md)
 - [program.md](concepts/program.md.md)
 - [rOS](concepts/rOS.md)
 - [team-agents.md](concepts/team-agents.md.md)
@@ -9463,6 +9472,7 @@ last_updated: 2026-05-03
 - [mcp-memory-service](entities/mcp-memory-service.md)
 - [mimeo](entities/mimeo.md)
 - [notebooklm-client](entities/notebooklm-client.md)
+- [obsidian-cli](entities/obsidian-cli.md)
 - [prompts.chat](entities/prompts.chat.md)
 - [public-apis](entities/public-apis.md)
 - [tweet-skills](entities/tweet-skills.md)
@@ -9551,6 +9561,7 @@ last_updated: 2026-05-03
 - [Lint Report 2026-05-01 10:00](lint-report/Lint Report 2026-05-01 10-00.md)
 - [Lint Report 2026-05-02](lint-report/Lint Report 2026-05-02.md)
 - [Lint Report 2026-05-02](lint-report/Lint Report 2026-05-02-a5ad13b9.md)
+- [Lint Report 2026-05-03](lint-report/Lint Report 2026-05-03.md)
 
 ### Qas
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
@@ -9864,8 +9875,10 @@ last_updated: 2026-05-03
 ### Synthesiss
 - [内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式](syntheses/内容分发管线与检索增强管线的结构同构：社交自动化的「注意力排序」如何映射 RAG 的「相关性排序」范式.md)
 - [内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路](syntheses/内容分发管线与记忆系统的结构同构：社交自动化的「注意力漏斗」如何映射长期记忆的「检索—衰减—巩固」回路.md)
+- [对齐博弈的分发同构：社交内容自动化的「参与度优化—算法风控—反检测对抗」三层如何映射 AI 对齐的「RLHF 奖励优化—评估感知—去对齐攻击」三层拓扑](syntheses/对齐博弈的分发同构：社交内容自动化的「参与度优化—算法风控—反检测对抗」三层如何映射 AI 对齐的「RLHF 奖励优化—评估感知—去对齐攻击」三层拓扑.md)
 - [注意力套利的结构同构：量化交易信号管线如何映射社交内容自动化的采集—生产—分发架构](syntheses/注意力套利的结构同构：量化交易信号管线如何映射社交内容自动化的采集—生产—分发架构.md)
 - [社交信号的知识化管线：社交媒体碎片如何被采集、结构化与沉淀为 Agent 可编译的知识资产](syntheses/社交信号的知识化管线：社交媒体碎片如何被采集、结构化与沉淀为 Agent 可编译的知识资产.md)
+- [社交内容自动化的提示工程化路径：从通用生成到平台原生表达系统的三层范式迁移与反馈闭环](syntheses/社交内容自动化的提示工程化路径：从通用生成到平台原生表达系统的三层范式迁移与反馈闭环.md)
 - [社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施](syntheses/社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施.md)
 
 ## 稳定币
@@ -9976,6 +9989,7 @@ last_updated: 2026-05-03
 ### Synthesiss
 - [AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统](syntheses/AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统.md)
 - [AI 知识产品的编译化转向：当笔记工具从被动容器演进为主动编译器，AI 产品×知识管理×笔记工具三角如何在「录入摩擦—编译成本—检索精度」的三维约束中共演分化](syntheses/AI 知识产品的编译化转向：当笔记工具从被动容器演进为主动编译器，AI 产品×知识管理×笔记工具三角如何在「录入摩擦—编译成本—检索精度」的三维约束中共演分化.md)
+- [检索增强与笔记工具的架构融合：从被动全文搜索到 Agent 驱动的编译式知识检索，笔记工具如何重新定义 RAG 的数据层与查询层](syntheses/检索增强与笔记工具的架构融合：从被动全文搜索到 Agent 驱动的编译式知识检索，笔记工具如何重新定义 RAG 的数据层与查询层.md)
 
 ## 算力基础设施
 ### Concepts
@@ -10809,7 +10823,6 @@ last_updated: 2026-05-03
 - [Exit Node](concepts/Exit Node.md)
 - [Extension / Skill 分离](concepts/Extension - Skill 分离.md)
 - [Fat Code](concepts/Fat Code.md)
-- [G.A.M.E 框架](concepts/G.A.M.E 框架.md)
 - [GEP 协议](concepts/GEP 协议.md)
 - [GatedDeltaNet](concepts/GatedDeltaNet.md)
 - [Git 组织协议](concepts/Git 组织协议.md)
@@ -10944,6 +10957,7 @@ last_updated: 2026-05-03
 - [ERC-8183](entities/ERC-8183.md)
 - [EURC](entities/EURC.md)
 - [Fiat24](entities/Fiat24.md)
+- [G.A.M.E 框架](entities/G.A.M.E 框架.md)
 - [Helix](entities/Helix.md)
 - [Hermes Desktop](entities/Hermes Desktop.md)
 - [Hermes Neurovision](entities/Hermes Neurovision.md)
@@ -11563,6 +11577,7 @@ last_updated: 2026-05-03
 - [Lint Report 2026-05-01 10:00](lint-report/Lint Report 2026-05-01 10-00.md)
 - [Lint Report 2026-05-02](lint-report/Lint Report 2026-05-02.md)
 - [Lint Report 2026-05-02](lint-report/Lint Report 2026-05-02-a5ad13b9.md)
+- [Lint Report 2026-05-03](lint-report/Lint Report 2026-05-03.md)
 ## Qas（所有qa）
 - [QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？](qa/QA：Gap Agent 是什么？是否值得加入 Wiki Agent 集群？.md)
 - [QA：Wiki Agent 集群有哪些角色？职责边界是什么？](qa/QA：Wiki Agent 集群有哪些角色？职责边界是什么？.md)
@@ -13067,6 +13082,8 @@ last_updated: 2026-05-03
 - [AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施](syntheses/AI 内容质量工程方法论：从受控实验到反馈闭环的迭代模式与质量控制基础设施.md)
 - [AI 原生界面工程的三维融合：设计语言约束如何塑造代码生成策略、前端架构如何重塑生成管线、生成能力如何反向定义设计标准](syntheses/AI 原生界面工程的三维融合：设计语言约束如何塑造代码生成策略、前端架构如何重塑生成管线、生成能力如何反向定义设计标准.md)
 - [AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径](syntheses/AI 图像生成技术栈分化全景：从扩散架构到结构化提示工程的能力分层、产品形态与商业化路径.md)
+- [AI 安全度量的观测者困境：当对齐内核学会识别评估、去对齐技术绕过安全护栏、评测基准遭遇 Goodhart 失真，三重博弈如何瓦解基于测试的安全范式](syntheses/AI 安全度量的观测者困境：当对齐内核学会识别评估、去对齐技术绕过安全护栏、评测基准遭遇 Goodhart 失真，三重博弈如何瓦解基于测试的安全范式.md)
+- [AI 对齐技术全景：从行为塑造到内部监控的五层防线架构与攻防共演动力学](syntheses/AI 对齐技术全景：从行为塑造到内部监控的五层防线架构与攻防共演动力学.md)
 - [AI 开发工具的商业化拓扑：从模型中转到算力租赁的基础设施变现路径分化与生态博弈](syntheses/AI 开发工具的商业化拓扑：从模型中转到算力租赁的基础设施变现路径分化与生态博弈.md)
 - [AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统](syntheses/AI 时代知识管理范式演进：从个人 Wiki 到 Agent 原生知识系统.md)
 - [AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑](syntheses/AI 服务准入博弈全景：从安全合规收紧到灰色访问产业链的攻防演化与商业生态重塑.md)
@@ -13162,6 +13179,7 @@ last_updated: 2026-05-03
 - [大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进](syntheses/大语言模型重塑开发工具链：从本地推理到数据编译的技术栈分层与工程化演进.md)
 - [大语言模型驱动的内容生成架构分化：从提示工程到世界模拟器的多模态技术栈演进](syntheses/大语言模型驱动的内容生成架构分化：从提示工程到世界模拟器的多模态技术栈演进.md)
 - [对齐内核与安全外壳的共演动力学：模型内部价值约束如何与 Agent 运行时防御在攻防博弈中形成双层免疫系统](syntheses/对齐内核与安全外壳的共演动力学：模型内部价值约束如何与 Agent 运行时防御在攻防博弈中形成双层免疫系统.md)
+- [对齐博弈的分发同构：社交内容自动化的「参与度优化—算法风控—反检测对抗」三层如何映射 AI 对齐的「RLHF 奖励优化—评估感知—去对齐攻击」三层拓扑](syntheses/对齐博弈的分发同构：社交内容自动化的「参与度优化—算法风控—反检测对抗」三层如何映射 AI 对齐的「RLHF 奖励优化—评估感知—去对齐攻击」三层拓扑.md)
 - [对齐税与推理效率的微观博弈：安全护栏的计算成本、可解释性工具的推理开销与去对齐技术如何共同重塑模型内部的价值—效率边界](syntheses/对齐税与推理效率的微观博弈：安全护栏的计算成本、可解释性工具的推理开销与去对齐技术如何共同重塑模型内部的价值—效率边界.md)
 - [度量陷阱的四域同构：回测过拟合、奖励黑客、基准饱和与合规剧场如何在量化交易—训练—评测—政策四个域中独立涌现出相同的 Goodhart 拓扑](syntheses/度量陷阱的四域同构：回测过拟合、奖励黑客、基准饱和与合规剧场如何在量化交易—训练—评测—政策四个域中独立涌现出相同的 Goodhart 拓扑.md)
 - [开发工具如何重塑 Agent 时代的工作流：从部署底座到远程操控的工具化路径演进](syntheses/开发工具如何重塑 Agent 时代的工作流：从部署底座到远程操控的工具化路径演进.md)
@@ -13170,6 +13188,7 @@ last_updated: 2026-05-03
 - [扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡](syntheses/扩散去噪与推理验证的结构同构：图像生成管线如何映射 Agent 运行时的迭代精修、引导机制与计算-质量权衡.md)
 - [扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈](syntheses/扩散管线与能力管线的结构同构：图像生成的「噪声调度—步数压缩—感知评测」如何映射模型能力管线的「训练塑形—推理压缩—基准度量」三段博弈.md)
 - [技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路](syntheses/技能×编排×工作流的三角共演：从能力原子化到自组织管线的涌现架构与反馈回路.md)
+- [检索增强与笔记工具的架构融合：从被动全文搜索到 Agent 驱动的编译式知识检索，笔记工具如何重新定义 RAG 的数据层与查询层](syntheses/检索增强与笔记工具的架构融合：从被动全文搜索到 Agent 驱动的编译式知识检索，笔记工具如何重新定义 RAG 的数据层与查询层.md)
 - [模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈](syntheses/模型对齐的验证三角：当训练塑造行为、评测度量能力、对齐约束价值三者形成闭环博弈.md)
 - [模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环](syntheses/模型能力管线的三段博弈：训练塑形、推理压缩与评测度量如何在 Agent 时代形成相互约束的共演闭环.md)
 - [模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界](syntheses/模型评测方法论的三重分裂：从静态基准竞赛到动态行为审计，Agent 时代的评估体系如何重新定义「能力」的度量边界.md)
@@ -13185,6 +13204,7 @@ last_updated: 2026-05-03
 - [知识管理与记忆系统的架构融合：从文档检索到编译式知识引擎的设计范式演进](syntheses/知识管理与记忆系统的架构融合：从文档检索到编译式知识引擎的设计范式演进.md)
 - [研究计划：Cross-Layer Failure Propagation in AI Safety](syntheses/研究计划：Cross-Layer Failure Propagation in AI Safety.md)
 - [社交信号的知识化管线：社交媒体碎片如何被采集、结构化与沉淀为 Agent 可编译的知识资产](syntheses/社交信号的知识化管线：社交媒体碎片如何被采集、结构化与沉淀为 Agent 可编译的知识资产.md)
+- [社交内容自动化的提示工程化路径：从通用生成到平台原生表达系统的三层范式迁移与反馈闭环](syntheses/社交内容自动化的提示工程化路径：从通用生成到平台原生表达系统的三层范式迁移与反馈闭环.md)
 - [社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施](syntheses/社交平台内容自动化的三层管线：当浏览器自动化成为 AI 内容分发的隐性基础设施.md)
 - [稳定币基础设施分层图谱：从法币锚定到链上结算层的协议架构分化、收益聚合与 Agent 支付融合路径](syntheses/稳定币基础设施分层图谱：从法币锚定到链上结算层的协议架构分化、收益聚合与 Agent 支付融合路径.md)
 - [算力基础设施全景：从芯片算子到全球数据中心，71 个概念如何沿「硬件层→运行时层→编排层→设施层」四层架构分化并在 Agent 时代重新整合](syntheses/算力基础设施全景：从芯片算子到全球数据中心，71 个概念如何沿「硬件层→运行时层→编排层→设施层」四层架构分化并在 Agent 时代重新整合.md)
