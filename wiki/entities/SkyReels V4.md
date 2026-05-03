@@ -5,7 +5,7 @@ tags:
 - 视频/3D
 status: 审核中
 confidence: high
-last_compiled: '2026-05-02'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/c420aeb410944931be9d83886566b025
@@ -29,3 +29,5 @@ SkyReels V4 是昆仑万维天工 AI 推出的视频大模型，在 Artificial A
 ## 来源引用
 
 - [摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术](summaries/摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术.md)
+
+- [摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程](summaries/摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2NzQ4MTI5Nw%3D%3D&mid=2247484142&idx=1&sn=43beb217d8e5f852bfc0214cf95b5eed&chksm=cf8bf31ce6636b221c266cb7bf06a61636464b8e2f0b41f79f60218898fdf7218e5ceb19ad33#rd)）

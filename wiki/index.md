@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1977, "summary": 1474, "synthesis": 167, "entity": 1016, "index": 2, "lint-report": 67, "qa": 4}
-total: 4707
+type_counts: {"concept": 1979, "summary": 1476, "synthesis": 167, "entity": 1017, "index": 2, "lint-report": 67, "qa": 4}
+total: 4712
 last_updated: 2026-05-03
 ---
 
 # 📚 知识 Wiki Index
 
-> 1977 concepts · 1016 entitys · 2 indexs · 67 lint-reports · 4 qas · 1474 summarys · 167 synthesiss
+> 1979 concepts · 1017 entitys · 2 indexs · 67 lint-reports · 4 qas · 1476 summarys · 167 synthesiss
 > 导出时间: 2026-05-03
 
 ## 使用方式
@@ -1427,6 +1427,7 @@ last_updated: 2026-05-03
 - [AgentCard](entities/AgentCard.md)
 - [AgentHub](entities/AgentHub.md)
 - [AgentLink](entities/AgentLink.md)
+- [Alphana](entities/Alphana.md)
 - [Anthropic API](entities/Anthropic API.md)
 - [AutoGen](entities/AutoGen.md)
 - [AutoResearchClaw](entities/AutoResearchClaw.md)
@@ -1803,12 +1804,14 @@ last_updated: 2026-05-03
 - [摘要：五只「龙虎」打工仔：用 OpenClaw 在 VPS 上搭建 AI 员工团队的实战心得](summaries/摘要：五只「龙虎」打工仔：用 OpenClaw 在 VPS 上搭建 AI 员工团队的实战心得.md)
 - [摘要：什么才是真正的 Harness Engineering？](summaries/摘要：什么才是真正的 Harness Engineering？.md)
 - [摘要：从"人肉路由"到 Agent 网络——AI Native 组织的构想](summaries/摘要：从人肉路由到 Agent 网络——AI Native 组织的构想.md)
+- [摘要：从"帮我做视频"到"你卡住了吗"：一个 AI 助手的通宵战场](summaries/摘要：从帮我做视频到你卡住了吗：一个 AI 助手的通宵战场.md)
 - [摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。](summaries/摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。.md)
 - [摘要：从1700多Skill里筛出真正有用的15个](summaries/摘要：从1700多Skill里筛出真正有用的15个.md)
 - [摘要：从命令行查询本地微信数据](summaries/摘要：从命令行查询本地微信数据.md)
 - [摘要：保姆级！多agent部署教程，一次养多只](summaries/摘要：保姆级！多agent部署教程，一次养多只.md)
 - [摘要：像素风 AI 办公室——Agent 可视化状态监控](summaries/摘要：像素风 AI 办公室——Agent 可视化状态监控.md)
 - [摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心](summaries/摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心.md)
+- [摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程](summaries/摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程.md)
 - [摘要：刚刚！OpenAI 凌晨甩出 Workspace Agents：一句话，给整个团队造一个 Agent](summaries/摘要：刚刚！OpenAI 凌晨甩出 Workspace Agents：一句话，给整个团队造一个 Agent.md)
 - [摘要：别只盯着"龙虾"看热闹了！这家量化机构已经用多Agent搞出了"无人投研工厂"](summaries/摘要：别只盯着龙虾看热闹了！这家量化机构已经用多Agent搞出了无人投研工厂.md)
 - [摘要：前端 Gemini、后端 Codex：用 Claude Code 调度多 Agent 的分工哲学](summaries/摘要：前端 Gemini、后端 Codex：用 Claude Code 调度多 Agent 的分工哲学.md)
@@ -4517,6 +4520,8 @@ last_updated: 2026-05-03
 - [上下文感知创作](concepts/上下文感知创作.md)
 - [上下文拆分优先于角色拆分](concepts/上下文拆分优先于角色拆分.md)
 - [上下文播种](concepts/上下文播种.md)
+- [上下文污染](concepts/上下文污染.md)
+- [上下文溢出](concepts/上下文溢出.md)
 - [上下文焦虑](concepts/上下文焦虑.md)
 - [上下文税](concepts/上下文税.md)
 - [上下文窗口](concepts/上下文窗口.md)
@@ -5367,6 +5372,7 @@ last_updated: 2026-05-03
 ### Entitys
 - [6551-twitter-to-binance-square](entities/6551-twitter-to-binance-square.md)
 - [AI爆款工厂](entities/AI爆款工厂.md)
+- [Alphana](entities/Alphana.md)
 - [AutoCLI.ai](entities/AutoCLI.ai.md)
 - [Avatar V](entities/Avatar V.md)
 - [Canva Grow](entities/Canva Grow.md)
@@ -5568,11 +5574,13 @@ last_updated: 2026-05-03
 - [摘要：不想碰命令行？Hermes 现在有图形界面了](summaries/摘要：不想碰命令行？Hermes 现在有图形界面了.md)
 - [摘要：两大SOTA模型强强联手👬](summaries/摘要：两大SOTA模型强强联手👬.md)
 - [摘要：什么才是真正的 Harness Engineering？](summaries/摘要：什么才是真正的 Harness Engineering？.md)
+- [摘要：从"帮我做视频"到"你卡住了吗"：一个 AI 助手的通宵战场](summaries/摘要：从帮我做视频到你卡住了吗：一个 AI 助手的通宵战场.md)
 - [摘要：你们需要的推文写作神器来了：tweet-skills，它是一组自动创作技能包。](summaries/摘要：你们需要的推文写作神器来了：tweet-skills，它是一组自动创作技能包。.md)
 - [摘要：保姆级教程！用Seedance 2.0+ GPT2.0做爆款短剧](summaries/摘要：保姆级教程！用Seedance 2.0+ GPT2.0做爆款短剧.md)
 - [摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测](summaries/摘要：做了十年设计，这次真觉得自己多余了｜GPT-Image-2 上手实测.md)
 - [摘要：免费 + 无限云浏览器小时](summaries/摘要：免费 + 无限云浏览器小时.md)
 - [摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术](summaries/摘要：其他家在接入龙虾的时候，快手默默上线了一套硬核技术.md)
+- [摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程](summaries/摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程.md)
 - [摘要：刚刚，一口气连发3个王炸模型、亮出2026年AGI战略，昆仑万维夯爆了](summaries/摘要：刚刚，一口气连发3个王炸模型、亮出2026年AGI战略，昆仑万维夯爆了.md)
 - [摘要：前两天还有人在评论区问我，不知道装了Hermes 能干嘛。](summaries/摘要：前两天还有人在评论区问我，不知道装了Hermes 能干嘛。.md)
 - [摘要：前天 @paradigm 组织了一个autoresearch hackathon，核心是想验证OpenAI联合创始人 @karpathy 的观点：](summaries/摘要：前天 @paradigm 组织了一个autoresearch hackathon，核心是想验证OpenAI联合创始人 @karpathy 的观点：.md)
@@ -7171,6 +7179,8 @@ last_updated: 2026-05-03
 - [viking://](concepts/viking---.md)
 - [三省六部式多 Agent 架构](concepts/三省六部式多 Agent 架构.md)
 - [上下文拆分优先于角色拆分](concepts/上下文拆分优先于角色拆分.md)
+- [上下文污染](concepts/上下文污染.md)
+- [上下文溢出](concepts/上下文溢出.md)
 - [上下文边界分解](concepts/上下文边界分解.md)
 - [上下文隔离](concepts/上下文隔离.md)
 - [中央 Skill 仓库](concepts/中央 Skill 仓库.md)
@@ -7536,6 +7546,7 @@ last_updated: 2026-05-03
 - [摘要：为什么要在OiiOii用Seedance2.0？](summaries/摘要：为什么要在OiiOii用Seedance2.0？.md)
 - [摘要：五只「龙虎」打工仔：用 OpenClaw 在 VPS 上搭建 AI 员工团队的实战心得](summaries/摘要：五只「龙虎」打工仔：用 OpenClaw 在 VPS 上搭建 AI 员工团队的实战心得.md)
 - [摘要：从"人肉路由"到 Agent 网络——AI Native 组织的构想](summaries/摘要：从人肉路由到 Agent 网络——AI Native 组织的构想.md)
+- [摘要：从"帮我做视频"到"你卡住了吗"：一个 AI 助手的通宵战场](summaries/摘要：从帮我做视频到你卡住了吗：一个 AI 助手的通宵战场.md)
 - [摘要：保姆级！多agent部署教程，一次养多只](summaries/摘要：保姆级！多agent部署教程，一次养多只.md)
 - [摘要：像素风 AI 办公室——Agent 可视化状态监控](summaries/摘要：像素风 AI 办公室——Agent 可视化状态监控.md)
 - [摘要：全世界消耗Token最多的人](summaries/摘要：全世界消耗Token最多的人.md)
@@ -10267,6 +10278,7 @@ last_updated: 2026-05-03
 - [摘要：两大SOTA模型强强联手👬](summaries/摘要：两大SOTA模型强强联手👬.md)
 - [摘要：为什么要在OiiOii用Seedance2.0？](summaries/摘要：为什么要在OiiOii用Seedance2.0？.md)
 - [摘要：保姆级教程！用Seedance 2.0+ GPT2.0做爆款短剧](summaries/摘要：保姆级教程！用Seedance 2.0+ GPT2.0做爆款短剧.md)
+- [摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程](summaries/摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程.md)
 - [摘要：刚刚，一口气连发3个王炸模型、亮出2026年AGI战略，昆仑万维夯爆了](summaries/摘要：刚刚，一口气连发3个王炸模型、亮出2026年AGI战略，昆仑万维夯爆了.md)
 - [摘要：刚刚，李飞飞最新成果发布，手机也能跑亿级粒子的 3D 世界了｜附体验地址](summaries/摘要：刚刚，李飞飞最新成果发布，手机也能跑亿级粒子的 3D 世界了｜附体验地址.md)
 - [摘要：即梦 CLI 正式开放：一行命令让你的 AI Agent 直接生图生视频](summaries/摘要：即梦 CLI 正式开放：一行命令让你的 AI Agent 直接生图生视频.md)
@@ -12652,6 +12664,7 @@ last_updated: 2026-05-03
 - [摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课](summaries/摘要：从 Claude Code 忠实用户到被说服切换到 Codex：一场 64 分钟的 OpenAI Codex 大师课.md)
 - [摘要：从 Harness 到 Environment? 这波 Agent 创业还有护城河吗？](summaries/摘要：从 Harness 到 Environment 这波 Agent 创业还有护城河吗？.md)
 - [摘要：从"人肉路由"到 Agent 网络——AI Native 组织的构想](summaries/摘要：从人肉路由到 Agent 网络——AI Native 组织的构想.md)
+- [摘要：从"帮我做视频"到"你卡住了吗"：一个 AI 助手的通宵战场](summaries/摘要：从帮我做视频到你卡住了吗：一个 AI 助手的通宵战场.md)
 - [摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。](summaries/摘要：从0开始，在国内用上Claude Code的终极保姆教程来了。.md)
 - [摘要：从1700多Skill里筛出真正有用的15个](summaries/摘要：从1700多Skill里筛出真正有用的15个.md)
 - [摘要：从Vibe Coding到Wish Coding，AI编程迎来C端拐点](summaries/摘要：从Vibe Coding到Wish Coding，AI编程迎来C端拐点.md)
@@ -12686,6 +12699,7 @@ last_updated: 2026-05-03
 - [摘要：养龙虾(OpenClaw)Tokens用不起？？？Codex Team这套方案是真无敌～](summaries/摘要：养龙虾(OpenClaw)Tokens用不起？？？Codex Team这套方案是真无敌～.md)
 - [摘要：再次推荐，这是我目前体验最好的桌面端 agent 产品](summaries/摘要：再次推荐，这是我目前体验最好的桌面端 agent 产品.md)
 - [摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心](summaries/摘要：凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心.md)
+- [摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程](summaries/摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程.md)
 - [摘要：凯文凯利：我们的未来是不确定的不确定。最值钱的能力不再是判断力](summaries/摘要：凯文凯利：我们的未来是不确定的不确定。最值钱的能力不再是判断力.md)
 - [摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软](summaries/摘要：分享2篇最新Harness论文，一篇谷歌，一篇微软.md)
 - [摘要：分享一个 Image2 的提示词库，Github已8K Star](summaries/摘要：分享一个 Image2 的提示词库，Github已8K Star.md)

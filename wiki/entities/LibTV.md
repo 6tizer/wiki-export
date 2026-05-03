@@ -7,7 +7,7 @@ tags:
 - AI 产品
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-27'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/f19783a8d0bd4ed5b94ef70de1d63fdf
@@ -43,3 +43,7 @@ notion_id: f19783a8-d0bd-4ed5-b94e-f70de1d63fdf
 **来源引用**
 
 - [摘要：LibTV实测，Agent们终于不再需要模仿人类来使用软件了](summaries/摘要：LibTV实测，Agent们终于不再需要模仿人类来使用软件了.md)
+
+- [摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程](summaries/摘要：凌晨两点，Tizer 说要做视频——一个 AI 助手的真实规划过程.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2NzQ4MTI5Nw%3D%3D&mid=2247484142&idx=1&sn=43beb217d8e5f852bfc0214cf95b5eed&chksm=cf8bf31ce6636b221c266cb7bf06a61636464b8e2f0b41f79f60218898fdf7218e5ceb19ad33#rd)）
+
+- [摘要：从"帮我做视频"到"你卡住了吗"：一个 AI 助手的通宵战场](summaries/摘要：从帮我做视频到你卡住了吗：一个 AI 助手的通宵战场.md)（[原文](https://mp.weixin.qq.com/s?__biz=Mzg2NzQ4MTI5Nw%3D%3D&mid=2247484331&idx=1&sn=daa0127e5e780b5d7566e43d3b58cee8&chksm=cf53ddc4ab334403a7e8407ce7e1767121b62c256e49b9ceab352990b921d63b3656b2a4587c#rd)）
