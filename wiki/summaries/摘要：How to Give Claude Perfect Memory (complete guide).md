@@ -42,7 +42,7 @@ notion_id: 4a6d5c49-e3ed-4061-a137-11d8afb39a27
 
 - [h5i](entities/h5i.md)（回复区提及的 AI 感知 Git 版本控制工具）
 
-- [Progressive Disclosure](concepts/Progressive Disclosure.md)（claude-mem 采用的分层记忆检索策略）
+- [渐进式披露](concepts/渐进式披露.md)（claude-mem 采用的分层记忆检索策略）
 
 ## 原始文章信息
 

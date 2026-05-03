@@ -4,7 +4,7 @@ type: synthesis
 tags:
 - 量化交易
 - MCP 协议
-status: 审核中
+status: 已审核
 confidence: high
 last_compiled: '2026-05-03'
 source_tags: ''

@@ -3,8 +3,6 @@ title: GatedDeltaNet
 type: concept
 tags:
 - 推理优化
-- 链上协议
-- AI 设计
 status: 审核中
 confidence: medium
 last_compiled: '2026-04-23'

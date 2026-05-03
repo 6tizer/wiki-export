@@ -43,7 +43,7 @@ notion_id: 42763858-7db7-47e1-a8e9-784a98b318b2
 
 - [Backend Context Engineering](concepts/Backend Context Engineering.md)
 
-- [Progressive Disclosure](concepts/Progressive Disclosure.md)
+- [渐进式披露](concepts/渐进式披露.md)
 
 ## 原始文章信息
 
