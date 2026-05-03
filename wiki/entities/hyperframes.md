@@ -7,7 +7,7 @@ tags:
 - 内容自动化
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-18'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/5d35e623c848486ab1518388c73567dc
@@ -57,3 +57,5 @@ hyperframes 是 HeyGen 推出的代码驱动视频生成工具，可把基于 HT
 - [摘要：HeyGen开源HyperFrames框架：Remotion劲敌，用HTML写视频的时代来了](summaries/摘要：HeyGen开源HyperFrames框架：Remotion劲敌，用HTML写视频的时代来了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA5MTIxNTY4MQ%3D%3D&mid=2461159423&idx=1&sn=f74418143cc1f6e6fb9dabb1db5b0d86&chksm=86c98175cb612164ddc9393fe4dc74f7486313483ec5199c0c3a3a97d81fd5fe3984e5f3abcb#rd)）
 
 - [摘要：Agentic Video is HTML: Open Sourcing HyperFrames](summaries/摘要：Agentic Video is HTML- Open Sourcing HyperFrames.md)（[原文](https://x.com/liu8in/status/2044827628700684463)）
+
+- [摘要：还在用剪映一帧帧手剪视频？太落后了！](summaries/摘要：还在用剪映一帧帧手剪视频？太落后了！.md)（[原文](https://x.com/0xKingsKuan/status/2050479505362591866)）

@@ -5,7 +5,7 @@ tags:
 - 商业/生态
 status: 审核中
 confidence: medium
-last_compiled: '2026-04-28'
+last_compiled: '2026-05-01'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/85cfbf61b5374b23a245218a40f29c53
@@ -51,6 +51,10 @@ OpenRouter 是全球最大的模型聚合平台，提供统一 API 接入多家 
 - [摘要：Turn Your Hermes Agent Into an OpenRouter Expert](summaries/摘要：Turn Your Hermes Agent Into an OpenRouter Expert.md)（[原文](https://x.com/OpenRouter/status/2047506176447783155)）
 
 - [摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!](summaries/摘要：The first public foundation models from @poolsideai just dropped on OpenRouter!.md)（[原文](https://x.com/OpenRouter/status/2049145538373947541)）
+
+- [摘要：The new Grok-4.3 from @xai is live on OpenRouter!](summaries/摘要：The new Grok-4.3 from @xai is live on OpenRouter!.md)（[原文](https://x.com/OpenRouter/status/2049996465263759563)）
+
+- [摘要：AI 竞争的下一个战场，不是模型，是管道](summaries/摘要：AI 竞争的下一个战场，不是模型，是管道.md)（[原文](https://x.com/HowardLouisHL/status/2050840441730617408)）
 
 ## 关联概念
 

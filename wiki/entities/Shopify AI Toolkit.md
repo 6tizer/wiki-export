@@ -5,7 +5,7 @@ tags:
 - 商业/生态
 status: 审核中
 confidence: high
-last_compiled: '2026-04-12'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/431572229e1040a1bf25890e2949706f
@@ -30,6 +30,8 @@ Shopify AI Toolkit 是 Shopify 推出的 Agent 接入工具包，让 Claude Code
 
 - [原文链接](https://x.com/AYi_AInotes/status/2042970104921542896)｜《Shopify刚放了个大招，绝大多数人估计半年后才会反应过来。》｜来源条目：Shopify AI Toolkit：把 AI Agent 变成你的电商运营团队
 
+- [摘要：Shopify 官方为 Hermes Agent 构建电商运营 Skill](summaries/摘要：Shopify 官方为 Hermes Agent 构建电商运营 Skill.md)（[原文](https://x.com/NousResearch/status/2050336291586187711)）
+
 ## 关联概念
 
 - [Claude Code](entities/Claude Code.md)
@@ -37,3 +39,9 @@ Shopify AI Toolkit 是 Shopify 推出的 Agent 接入工具包，让 Claude Code
 - [Codex](entities/Codex.md)
 
 - [MCP 协议](concepts/MCP 协议.md)
+
+- [Hermes Agent](entities/Hermes Agent.md)
+
+- [Hermes Skills](concepts/Hermes Skills.md)
+
+- [Agentic Commerce](concepts/Agentic Commerce.md)

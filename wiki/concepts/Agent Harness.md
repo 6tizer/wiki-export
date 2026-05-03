@@ -6,7 +6,7 @@ tags:
 - 上下文管理
 status: 审核中
 confidence: high
-last_compiled: '2026-04-29'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/dcd58da1f13f4d10bb04047f0678e5c4
@@ -218,3 +218,9 @@ Agent Harness 是围绕模型构建的一层执行底座，负责提供工具调
 - [摘要：AgentOS now supports Claude Code, LangGraph, and DSPy](summaries/摘要：AgentOS now supports Claude Code, LangGraph, and DSPy.md)（[原文](https://x.com/ashpreetbedi/status/2049511642946249143)）
 
 - [摘要：Cursor SDK 发布 — 将生产级编程 Agent 变为可嵌入基础设施](summaries/摘要：Cursor SDK 发布 — 将生产级编程 Agent 变为可嵌入基础设施.md)（[原文](https://x.com/AYi_AInotes/status/2049546472245408166)）
+
+- [摘要：Let's talk about why Cursor's agent harness is so good.](summaries/摘要：Let's talk about why Cursor's agent harness is so good.md)（[原文](https://x.com/jediahkatz/status/2049911241846718653)）
+
+- [摘要：Why Everyone Is Suddenly Building Their Own Agent Harness](summaries/摘要：Why Everyone Is Suddenly Building Their Own Agent Harness.md)（[原文](https://x.com/code_kartik/status/2050631735529095575)）
+
+- [摘要：精读 Cursor《Continually improving our agent harness》：一个 agent 产品团队的工程方法论全景](summaries/摘要：精读 Cursor《Continually improving our agent harness》：一个 agent 产品团队的工程方法论全景.md)（[原文](https://x.com/elliotchen100/status/2050757239364002193)）

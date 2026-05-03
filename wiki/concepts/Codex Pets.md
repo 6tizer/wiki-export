@@ -6,7 +6,7 @@ tags:
 - IDE 集成
 status: 草稿
 confidence: medium
-last_compiled: '2026-05-02'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/759c4abadac24b26bd6761fdedda2578
@@ -36,3 +36,5 @@ Codex Pets 是 OpenAI Codex 编辑器中的虚拟宠物功能，用户可通过 
 ## 来源引用
 
 - [摘要：今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了](summaries/摘要：今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652697384&idx=1&sn=bf02eae13ad3692f11cc7fcf04f88c9c&chksm=f0a9dc9e1926e308f8216ace1db77eaa230fd33e08e4848919c19cb7455c627ed58366aae513#rd)）
+
+- [摘要：Open Design 正式开源最完整版 codex 同款 pets 宠物](summaries/摘要：Open Design 正式开源最完整版 codex 同款 pets 宠物.md)（[原文](https://x.com/tuturetom/status/2050604396531143131)）

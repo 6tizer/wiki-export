@@ -35,3 +35,5 @@ NVIDIA NIM 是英伟达推出的推理微服务平台，用统一接口封装多
 - [摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode / Cursor / Hermes](summaries/摘要：NVIDIA 免费开放 80+ AI 模型 API，直接接入 OpenCode - Cursor - Hermes.md)（[原文](https://x.com/dhruvtwt_/status/2047006444701274380)）
 
 - [摘要：free-claude-code：0元白嫖 Claude Code 全套工程能力](summaries/摘要：free-claude-code：0元白嫖 Claude Code 全套工程能力.md)（[原文](https://x.com/VincentLogic/status/2047310943202181608)）
+
+- [摘要：AI 竞争的下一个战场，不是模型，是管道](summaries/摘要：AI 竞争的下一个战场，不是模型，是管道.md)（[原文](https://x.com/HowardLouisHL/status/2050840441730617408)）

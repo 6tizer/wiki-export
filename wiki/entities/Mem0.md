@@ -5,7 +5,7 @@ tags:
 - OpenClaw
 status: 审核中
 confidence: high
-last_compiled: '2026-04-28'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/9a3d2b5bf31940a29b94c64ed3f7a8a5
@@ -45,6 +45,8 @@ Mem0 是一个轻量级 AI 记忆插件，通过 **Markdown 结构化**知识管
 - 摘要：I Went Through Every AI Memory Tool I Could Find. There Are Two Camps.（[原文](https://x.com/witcheer/status/2044456778843238689)）
 
 - [原文链接](https://mp.weixin.qq.com/s?__biz=MzY5NzIxODM2MQ%3D%3D&mid=2247484388&idx=1&sn=d2f897dce455cb4abdcaa39f7f91a864&chksm=f5f28e3e3d180a1e33285f77fa24c32d02bd1a720aa00b7f6b5850934693a9f64e247fac389a#rd)｜《fireworks-tech-graph：用自然语言生成工业级架构图，Claude Code 绘图神器！》｜来源条目：[摘要：fireworks-tech-graph：用自然语言生成工业级架构图，Claude Code 绘图神器！](summaries/摘要：fireworks-tech-graph：用自然语言生成工业级架构图，Claude Code 绘图神器！.md)
+
+- [摘要：How Hermes Agent Solves Skill Drift and Context Rot as a Self-Improving Agent](summaries/摘要：How Hermes Agent Solves Skill Drift and Context Rot as a Self-Improving Agent.md)（[原文](https://x.com/mem0ai/status/2050351798142288050)）
 
 ## 关联概念
 

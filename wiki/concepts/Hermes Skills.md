@@ -6,7 +6,7 @@ tags:
 - AI 产品
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-29'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/1c53477c9312409081e71ef3a210dfdf
@@ -40,3 +40,15 @@ Hermes Skills 是 Hermes Agent 的模块化技能系统，将可复用的工作�
 ## 来源引用
 
 - [摘要：15 Hermes Agent features you've never touched](summaries/摘要：15 Hermes Agent features you've never touched.md)（[原文](https://x.com/sharbel/status/2049158152709382177)）
+
+- [摘要：Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL!](summaries/摘要：Architecture-diagram is one of my favorite @NousResearch Hermes agent skills, NGL!.md)（[原文](https://x.com/mr_r0b0t/status/2049821753195585740)）
+
+- [摘要：Shopify 官方为 Hermes Agent 构建电商运营 Skill](summaries/摘要：Shopify 官方为 Hermes Agent 构建电商运营 Skill.md)（[原文](https://x.com/NousResearch/status/2050336291586187711)）
+
+## 关联概念
+
+- [Hermes Agent](entities/Hermes Agent.md)
+
+- [Shopify AI Toolkit](entities/Shopify AI Toolkit.md)
+
+- [Agentic Commerce](concepts/Agentic Commerce.md)

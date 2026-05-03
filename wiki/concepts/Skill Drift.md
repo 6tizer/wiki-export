@@ -5,7 +5,7 @@ tags:
 - Harness 工程
 status: 草稿
 confidence: medium
-last_compiled: '2026-04-27'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/2f8116f816cc4c18bca82d811ec29b89
@@ -37,3 +37,5 @@ notion_id: 2f8116f8-16cc-4c18-bca8-2d811ec29b89
 ## 来源引用
 
 - [摘要：Big drop for GBrain v0.19.](summaries/摘要：Big drop for GBrain v0.19.md)（[原文](https://x.com/garrytan/status/2047504667127799974)）
+
+- [摘要：How Hermes Agent Solves Skill Drift and Context Rot as a Self-Improving Agent](summaries/摘要：How Hermes Agent Solves Skill Drift and Context Rot as a Self-Improving Agent.md)（[原文](https://x.com/mem0ai/status/2050351798142288050)）

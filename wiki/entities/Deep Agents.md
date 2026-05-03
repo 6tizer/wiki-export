@@ -7,7 +7,7 @@ tags:
 - 模型部署
 status: 审核中
 confidence: high
-last_compiled: '2026-04-30'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/edeb184fcf47450ab99e4edb4dc919e6
@@ -47,3 +47,5 @@ Deep Agents 是 LangChain 正在构建的开源 Agent 框架，核心主张是�
 - [原文链接](https://x.com/hwchase17/status/2042978500567609738)｜《Your harness, your memory》｜源文章：Harrison Chase：你的 Agent Harness，就是你的记忆
 
 - [摘要：Tuning Deep Agents to Work Well with Different Models](summaries/摘要：Tuning Deep Agents to Work Well with Different Models.md)（[原文](https://x.com/Vtrivedy10/status/2049535740233523600)）
+
+- [摘要：Why Everyone Is Suddenly Building Their Own Agent Harness](summaries/摘要：Why Everyone Is Suddenly Building Their Own Agent Harness.md)（[原文](https://x.com/code_kartik/status/2050631735529095575)）

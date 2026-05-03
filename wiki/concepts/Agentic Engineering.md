@@ -7,7 +7,7 @@ tags:
 - IDE 集成
 status: 审核中
 confidence: medium
-last_compiled: '2026-05-01'
+last_compiled: '2026-05-03'
 source_tags: ''
 source_article_url: ''
 notion_url: https://www.notion.so/Tizer/36ddcd72d4f547489ecb48175ca091d3
@@ -63,3 +63,7 @@ Vibe Coding 强调「自然语言描述意图，Agent 生成代码」；Agentic 
 - [摘要：Karpathy AI Ascent 2026：从 Vibe Coding 到 Agentic Engineering](summaries/摘要：Karpathy AI Ascent 2026：从 Vibe Coding 到 Agentic Engineering.md)（[原文](https://x.com/Av1dlive/status/2049561210593685876)）
 
 - [摘要：软件 3.0 时代来临](summaries/摘要：软件 3.0 时代来临.md)（[原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ%3D%3D&mid=2453483261&idx=1&sn=cb6b022f6372657475687143a4ab33bb&chksm=860f87620bc9685632e714cdaddbe215724ff7e2328e46057f2f9ff940644865d447f06ac7e5#rd)）
+
+- [摘要：Karpathy AI Ascent 2026 三大新视野](summaries/摘要：Karpathy AI Ascent 2026 三大新视野.md)（[原文](https://x.com/karpathy/status/2049903821095354523)）
+
+- [摘要：Why Everyone Is Suddenly Building Their Own Agent Harness](summaries/摘要：Why Everyone Is Suddenly Building Their Own Agent Harness.md)（[原文](https://x.com/code_kartik/status/2050631735529095575)）
