@@ -37,7 +37,7 @@ InsForge 是一个面向 AI 编码 Agent 的开源后端平台，提供数据库
 
 - [Backend Context Engineering](concepts/Backend Context Engineering.md)
 
-- [Progressive Disclosure](concepts/Progressive Disclosure.md)
+- Progressive Disclosure
 
 ## 来源引用
 
