@@ -4,7 +4,7 @@ type: entity
 tags:
 - 多Agent协作
 - Agent 协作模式
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-28'
 source_tags: ''

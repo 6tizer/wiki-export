@@ -3,7 +3,7 @@ title: L-GALAXIES 半解析模型
 type: concept
 tags:
 - 天体物理
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''

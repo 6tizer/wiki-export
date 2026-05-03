@@ -4,7 +4,7 @@ type: concept
 tags:
 - Agent 协作模式
 - 多Agent协作
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-26'
 source_tags: ''

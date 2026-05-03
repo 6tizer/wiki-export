@@ -5,7 +5,7 @@ tags:
 - 模型评测
 - 多模态
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-26'
 source_tags: ''

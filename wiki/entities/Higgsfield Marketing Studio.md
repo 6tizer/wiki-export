@@ -5,7 +5,7 @@ tags:
 - 内容自动化
 - 视频/3D
 - AI 产品
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-28'
 source_tags: ''

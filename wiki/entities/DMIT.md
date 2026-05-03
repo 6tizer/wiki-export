@@ -3,7 +3,7 @@ title: DMIT
 type: entity
 tags:
 - 算力基础设施
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-28'
 source_tags: ''

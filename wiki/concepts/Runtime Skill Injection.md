@@ -3,7 +3,7 @@ title: Runtime Skill Injection
 type: concept
 tags:
 - Harness 工程
-status: 草稿
+status: 审核中
 confidence: medium
 last_compiled: '2026-04-27'
 source_tags: ''

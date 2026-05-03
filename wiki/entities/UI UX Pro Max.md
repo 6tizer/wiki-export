@@ -4,7 +4,7 @@ type: entity
 tags:
 - AI 设计
 - Harness 工程
-status: 草稿
+status: 审核中
 confidence: high
 last_compiled: '2026-04-27'
 source_tags: ''
