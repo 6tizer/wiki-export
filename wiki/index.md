@@ -1,14 +1,14 @@
 ---
 type: index
-type_counts: {"concept": 1992, "summary": 1491, "synthesis": 176, "entity": 1033, "index": 2, "lint-report": 68, "qa": 4}
-total: 4766
-last_updated: 2026-05-04
+type_counts: {"concept": 1992, "summary": 1496, "synthesis": 176, "entity": 1033, "index": 3, "lint-report": 68, "qa": 4}
+total: 4772
+last_updated: 2026-05-05
 ---
 
 # 📚 知识 Wiki Index
 
-> 1992 concepts · 1033 entitys · 2 indexs · 68 lint-reports · 4 qas · 1491 summarys · 176 synthesiss
-> 导出时间: 2026-05-04
+> 1992 concepts · 1033 entitys · 3 indexs · 68 lint-reports · 4 qas · 1496 summarys · 176 synthesiss
+> 导出时间: 2026-05-05
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
@@ -519,6 +519,7 @@ last_updated: 2026-05-04
 - [摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动](summaries/摘要：Cerebral Valley × Anthropic：「Built with Opus 4.7」黑客松正式启动.md)
 - [摘要：Claude Code Web/Mobile 刷新与 Teleport 功能发布](summaries/摘要：Claude Code Web-Mobile 刷新与 Teleport 功能发布.md)
 - [摘要：Claude Code 官方远程连接 Telegram 和 Discord 的操作流程。](summaries/摘要：Claude Code 官方远程连接 Telegram 和 Discord 的操作流程。.md)
+- [摘要：Claude Code 的七层记忆架构：从毫秒级 Token 裁剪到「睡眠整理」系统](summaries/摘要：Claude Code 的七层记忆架构：从毫秒级 Token 裁剪到「睡眠整理」系统.md)
 - [摘要：Claude Code宠物系统悦悦上线，我把白板刷成了金色传说](summaries/摘要：Claude Code宠物系统悦悦上线，我把白板刷成了金色传说.md)
 - [摘要：Claude Code源码泳露高危漏洞：DMCA误封自倒过山倒庞大](summaries/摘要：Claude Code源码泳露高危漏洞：DMCA误封自倒过山倒庞大.md)
 - [摘要：Claude Design](summaries/摘要：Claude Design.md)
@@ -684,6 +685,7 @@ last_updated: 2026-05-04
 - [摘要：后续来了兄弟们，卧槽真的太炸了，同样的任务，同样的配置，速度比Claude Sonnet 4.6还快 6 倍，成本低约 50 倍，](summaries/摘要：后续来了兄弟们，卧槽真的太炸了，同样的任务，同样的配置，速度比Claude Sonnet 4.6还快 6 倍，成本低约 50 倍，.md)
 - [摘要：坏了！这下真能玩了](summaries/摘要：坏了！这下真能玩了.md)
 - [摘要：太抽象了，Alice 都来了。MemPalace AI记忆系统](summaries/摘要：太抽象了，Alice 都来了。MemPalace AI记忆系统.md)
+- [摘要：女娲.skill：让乔布斯、芒格、费曼在 Claude Code 里给你打工](summaries/摘要：女娲.skill：让乔布斯、芒格、费曼在 Claude Code 里给你打工.md)
 - [摘要：如何申请 Anthropic OSS Program](summaries/摘要：如何申请 Anthropic OSS Program.md)
 - [摘要：实测Hy3 preview后我发现小看腾讯做大模型决心了](summaries/摘要：实测Hy3 preview后我发现小看腾讯做大模型决心了.md)
 - [摘要：对话 OiiOii 创始人闹闹：做 AI 时代的皮克斯](summaries/摘要：对话 OiiOii 创始人闹闹：做 AI 时代的皮克斯.md)
@@ -1623,6 +1625,7 @@ last_updated: 2026-05-04
 - [摘要：Claude Code Harness设计：Agent工程化的真正难点](summaries/摘要：Claude Code Harness设计：Agent工程化的真正难点.md)
 - [摘要：Claude Code 国内跑通指南：用阿里百炼 API，几十块钱进入 AI Agent 实战](summaries/摘要：Claude Code 国内跑通指南：用阿里百炼 API，几十块钱进入 AI Agent 实战.md)
 - [摘要：Claude Code 开源编译版来了！45+实验功能全开，隐私无遥测，开发者终于等到了](summaries/摘要：Claude Code 开源编译版来了！45+实验功能全开，隐私无遥测，开发者终于等到了.md)
+- [摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构](summaries/摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构.md)
 - [摘要：Claude Code 的 99 种开通和 100 种封号方式](summaries/摘要：Claude Code 的 99 种开通和 100 种封号方式.md)
 - [摘要：Claude Opus 4.7 is now available in Windsurf 2.0!](summaries/摘要：Claude Opus 4.7 is now available in Windsurf 2.0!.md)
 - [摘要：Claude Subagents vs Agent Teams：别过早引入多智能体，复杂度需要被赚到](summaries/摘要：Claude Subagents vs Agent Teams：别过早引入多智能体，复杂度需要被赚到.md)
@@ -1791,6 +1794,8 @@ last_updated: 2026-05-04
 - [摘要：Your Ally. Together.](summaries/摘要：Your Ally. Together.md)
 - [摘要：Your next 10 hires won't be human.](summaries/摘要：Your next 10 hires won't be human.md)
 - [摘要：ZAILGO：用密码学叙事打造的 Solana 链上 AI 概念实验](summaries/摘要：ZAILGO：用密码学叙事打造的 Solana 链上 AI 概念实验.md)
+- [摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门](summaries/摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门.md)
+- [摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队](summaries/摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队.md)
 - [摘要：chrome-cdp-skill：让 AI Agent 直连你正在用的 Chrome，无需重新登录](summaries/摘要：chrome-cdp-skill：让 AI Agent 直连你正在用的 Chrome，无需重新登录.md)
 - [摘要：claude-skills：给 AI 编程助手装上 223 个领域专家大脑](summaries/摘要：claude-skills：给 AI 编程助手装上 223 个领域专家大脑.md)
 - [摘要：codex-plugin-cc：OpenAI 官方出手，把 Codex 塞进了 Claude Code](summaries/摘要：codex-plugin-cc：OpenAI 官方出手，把 Codex 塞进了 Claude Code.md)
@@ -3019,6 +3024,7 @@ last_updated: 2026-05-04
 - [摘要：Claude Code 动态循环（Dynamic Looping）来了！](summaries/摘要：Claude Code 动态循环（Dynamic Looping）来了！.md)
 - [摘要：Claude Code 就质量下滑发布事后复盘并重置配额](summaries/摘要：Claude Code 就质量下滑发布事后复盘并重置配额.md)
 - [摘要：Claude Code 工作流模板 v2](summaries/摘要：Claude Code 工作流模板 v2.md)
+- [摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构](summaries/摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构.md)
 - [摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行](summaries/摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行.md)
 - [摘要：Claude Code 的七层记忆体系：从亚毫秒级缓存到「梦境」式整合](summaries/摘要：Claude Code 的七层记忆体系：从亚毫秒级缓存到「梦境」式整合.md)
 - [摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.](summaries/摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.md)
@@ -3772,6 +3778,7 @@ last_updated: 2026-05-04
 - [摘要：Chainbase 2026 年 2 月月报：AI Agent 的链上数据层正在成形](summaries/摘要：Chainbase 2026 年 2 月月报：AI Agent 的链上数据层正在成形.md)
 - [摘要：Claude Code 51万行代码泄露，Anthropic为什么不慌？顶级团队的"不怕"哲学](summaries/摘要：Claude Code 51万行代码泄露，Anthropic为什么不慌？顶级团队的不怕哲学.md)
 - [摘要：Claude Code 官方远程连接 Telegram 和 Discord 的操作流程。](summaries/摘要：Claude Code 官方远程连接 Telegram 和 Discord 的操作流程。.md)
+- [摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构](summaries/摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构.md)
 - [摘要：Claude Code悄悄学会了做梦。](summaries/摘要：Claude Code悄悄学会了做梦。.md)
 - [摘要：Claude Code源码泳露后：终端 Agent 只该接3类活](summaries/摘要：Claude Code源码泳露后：终端 Agent 只该接3类活.md)
 - [摘要：Claude Superpowers：开发者的纪律框架，营销人的效率利器](summaries/摘要：Claude Superpowers：开发者的纪律框架，营销人的效率利器.md)
@@ -4767,6 +4774,7 @@ last_updated: 2026-05-04
 - [摘要：Claude Code 工作流模板 v2](summaries/摘要：Claude Code 工作流模板 v2.md)
 - [摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行](summaries/摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行.md)
 - [摘要：Claude Code 的七层记忆体系：从亚毫秒级缓存到「梦境」式整合](summaries/摘要：Claude Code 的七层记忆体系：从亚毫秒级缓存到「梦境」式整合.md)
+- [摘要：Claude Code 的七层记忆架构：从毫秒级 Token 裁剪到「睡眠整理」系统](summaries/摘要：Claude Code 的七层记忆架构：从毫秒级 Token 裁剪到「睡眠整理」系统.md)
 - [摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.](summaries/摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.md)
 - [摘要：Claude Code悄悄学会了做梦。](summaries/摘要：Claude Code悄悄学会了做梦。.md)
 - [摘要：Claude Code源码记忆系统深度详解，Agent竟会做梦？](summaries/摘要：Claude Code源码记忆系统深度详解，Agent竟会做梦？.md)
@@ -5135,6 +5143,7 @@ last_updated: 2026-05-04
 - [摘要：Claude Code Handoff：让 AI 编程助手跨 Session 无缝接力](summaries/摘要：Claude Code Handoff：让 AI 编程助手跨 Session 无缝接力.md)
 - [摘要：Claude Code Web/Mobile 刷新与 Teleport 功能发布](summaries/摘要：Claude Code Web-Mobile 刷新与 Teleport 功能发布.md)
 - [摘要：Claude Code 国内跑通指南：用阿里百炼 API，几十块钱进入 AI Agent 实战](summaries/摘要：Claude Code 国内跑通指南：用阿里百炼 API，几十块钱进入 AI Agent 实战.md)
+- [摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构](summaries/摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构.md)
 - [摘要：Claude Code泳露的代码里，处处写着：这家公司人品不行](summaries/摘要：Claude Code泳露的代码里，处处写着：这家公司人品不行.md)
 - [摘要：Claude Design能提供惊艳的设计，但...我认为必须通过GUI操作的已经是上一个时代的产品了。](summaries/摘要：Claude Design能提供惊艳的设计，但...我认为必须通过GUI操作的已经是上一个时代的产品了。.md)
 - [摘要：Claw-code：一个人用AI，8小时重写Claude Code](summaries/摘要：Claw-code：一个人用AI，8小时重写Claude Code.md)
@@ -7473,6 +7482,7 @@ last_updated: 2026-05-04
 - [摘要：Botgroup.chat 开源多 AI 群聊应用](summaries/摘要：Botgroup.chat 开源多 AI 群聊应用.md)
 - [摘要：CCG Workflow：让 Claude、Codex、Gemini 组团写代码，Token 省了一半](summaries/摘要：CCG Workflow：让 Claude、Codex、Gemini 组团写代码，Token 省了一半.md)
 - [摘要：Claude Code 开源编译版来了！45+实验功能全开，隐私无遥测，开发者终于等到了](summaries/摘要：Claude Code 开源编译版来了！45+实验功能全开，隐私无遥测，开发者终于等到了.md)
+- [摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构](summaries/摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构.md)
 - [摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行](summaries/摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行.md)
 - [摘要：Claude Opus 4.7 is now available in Windsurf 2.0!](summaries/摘要：Claude Opus 4.7 is now available in Windsurf 2.0!.md)
 - [摘要：Claude Subagents vs Agent Teams：别过早引入多智能体，复杂度需要被赚到](summaries/摘要：Claude Subagents vs Agent Teams：别过早引入多智能体，复杂度需要被赚到.md)
@@ -7591,6 +7601,8 @@ last_updated: 2026-05-04
 - [摘要：Video AI agent harness](summaries/摘要：Video AI agent harness.md)
 - [摘要：Web3 AI Agent 的真相：大多数都是 Vercel AI SDK 的外壳](summaries/摘要：Web3 AI Agent 的真相：大多数都是 Vercel AI SDK 的外壳.md)
 - [摘要：Your next 10 hires won't be human.](summaries/摘要：Your next 10 hires won't be human.md)
+- [摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门](summaries/摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门.md)
+- [摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队](summaries/摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队.md)
 - [摘要：ai-hedge-fund：让 AI 扮演巴菲特和芒格，帮你做投资决策](summaries/摘要：ai-hedge-fund：让 AI 扮演巴菲特和芒格，帮你做投资决策.md)
 - [摘要：ai16z 宣布 Agent Infra 生态：Agent Swarms 与 $ai16z 代币飞轮](summaries/摘要：ai16z 宣布 Agent Infra 生态：Agent Swarms 与 $ai16z 代币飞轮.md)
 - [摘要：claude-skills：给 AI 编程助手装上 223 个领域专家大脑](summaries/摘要：claude-skills：给 AI 编程助手装上 223 个领域专家大脑.md)
@@ -8427,6 +8439,8 @@ last_updated: 2026-05-04
 - [摘要：Vibe Coding规范工作流](summaries/摘要：Vibe Coding规范工作流.md)
 - [摘要：Vibecoding Sucks & Long Running Frameworks are Boring](summaries/摘要：Vibecoding Sucks & Long Running Frameworks are Boring.md)
 - [摘要：While 循环谁都会写，上下文工程才是真功夫](summaries/摘要：While 循环谁都会写，上下文工程才是真功夫.md)
+- [摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门](summaries/摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门.md)
+- [摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队](summaries/摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队.md)
 - [摘要：skills-manage：让一个 Skill 仓库驱动 20+ AI 编程工具](summaries/摘要：skills-manage：让一个 Skill 仓库驱动 20+ AI 编程工具.md)
 - [摘要：superpowers is still the simplest way to level up any project you're running in Claude](summaries/摘要：superpowers is still the simplest way to level up any project you're running in Claude.md)
 - [摘要：【豆包AI】一键生成AI女装带货视频（附万能提示词公式）](summaries/摘要：【豆包AI】一键生成AI女装带货视频（附万能提示词公式）.md)
@@ -8440,6 +8454,7 @@ last_updated: 2026-05-04
 - [摘要：分享如何寻找和构建属于自己的科研 Skill](summaries/摘要：分享如何寻找和构建属于自己的科研 Skill.md)
 - [摘要：卡兹克开源内容创作 Skill ——AI 辅助创作的第一性原则](summaries/摘要：卡兹克开源内容创作 Skill ——AI 辅助创作的第一性原则.md)
 - [摘要：只需 10 分钟，AI 就能「养废」你的大脑](summaries/摘要：只需 10 分钟，AI 就能「养废」你的大脑.md)
+- [摘要：女娲.skill：让乔布斯、芒格、费曼在 Claude Code 里给你打工](summaries/摘要：女娲.skill：让乔布斯、芒格、费曼在 Claude Code 里给你打工.md)
 - [摘要：就一个 skills，凭啥 4w Star？](summaries/摘要：就一个 skills，凭啥 4w Star？.md)
 - [摘要：开源一个 PPT Skill｜压进了我 10 年的设计经验](summaries/摘要：开源一个 PPT Skill｜压进了我 10 年的设计经验.md)
 - [摘要：我花 3 天逆向 gstack to dbs，发现方法论比代码更值钱](summaries/摘要：我花 3 天逆向 gstack to dbs，发现方法论比代码更值钱.md)
@@ -9587,6 +9602,7 @@ last_updated: 2026-05-04
 - [达尔文.skill](entities/达尔文.skill.md)
 
 ### Indexs
+- [Wiki Index（导航地图）](index/Wiki Index（导航地图）.md)
 - [Wiki Schema（规则文件）](index/Wiki Schema（规则文件）.md)
 - [系统工作流程图](index/系统工作流程图.md)
 
@@ -9791,6 +9807,7 @@ last_updated: 2026-05-04
 - [摘要：各种蒸馏 skill 汇总（@oragnes）](summaries/摘要：各种蒸馏 skill 汇总（@oragnes）.md)
 - [摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基](summaries/摘要：告别手动写文档！GitNexus：一键解析代码库，自动生成可交互项目维基.md)
 - [摘要：大模型开始“懂你”了！PersonaVLM如何实现长期个性化记忆](summaries/摘要：大模型开始“懂你”了！PersonaVLM如何实现长期个性化记忆.md)
+- [摘要：女娲.skill：让乔布斯、芒格、费曼在 Claude Code 里给你打工](summaries/摘要：女娲.skill：让乔布斯、芒格、费曼在 Claude Code 里给你打工.md)
 - [摘要：女娲.skill：输入一个名字，让芒格、费曼、马斯克给你打工](summaries/摘要：女娲.skill：输入一个名字，让芒格、费曼、马斯克给你打工.md)
 - [摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存](summaries/摘要：姚金刚的四份飞书开源文档：从认知随笔到GEO提示词，全部免费惠存.md)
 - [摘要：嫌 Obsidian 官方同步太贵？这套零成本的 GitHub 同步方案赶紧收好](summaries/摘要：嫌 Obsidian 官方同步太贵？这套零成本的 GitHub 同步方案赶紧收好.md)
@@ -11476,6 +11493,7 @@ last_updated: 2026-05-04
 - [摘要：Claude Code Auto Dream 记忆整理功能深度解析](summaries/摘要：Claude Code Auto Dream 记忆整理功能深度解析.md)
 - [摘要：Claude Code Memory 记忆功能](summaries/摘要：Claude Code Memory 记忆功能.md)
 - [摘要：Claude Code 的七层记忆体系：从亚毫秒级缓存到「梦境」式整合](summaries/摘要：Claude Code 的七层记忆体系：从亚毫秒级缓存到「梦境」式整合.md)
+- [摘要：Claude Code 的七层记忆架构：从毫秒级 Token 裁剪到「睡眠整理」系统](summaries/摘要：Claude Code 的七层记忆架构：从毫秒级 Token 裁剪到「睡眠整理」系统.md)
 - [摘要：Claude Code悄悄学会了做梦。](summaries/摘要：Claude Code悄悄学会了做梦。.md)
 - [摘要：Claude Code源码记忆系统深度详解，Agent竟会做梦？](summaries/摘要：Claude Code源码记忆系统深度详解，Agent竟会做梦？.md)
 - [摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源](summaries/摘要：Claude Code自动记忆来了！配合老金三层记忆系统全开源.md)
@@ -11631,6 +11649,7 @@ last_updated: 2026-05-04
 - [记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构](syntheses/记忆管线与交易管线的结构同构：Agent 三层带宽治理的「上下文窗口—长期记忆—RAG 检索」漏斗如何映射量化交易的「资本预算—因子库—信号筛选」架构.md)
 
 ## Indexs（所有index）
+- [Wiki Index（导航地图）](index/Wiki Index（导航地图）.md)
 - [Wiki Schema（规则文件）](index/Wiki Schema（规则文件）.md)
 - [系统工作流程图](index/系统工作流程图.md)
 ## Lint-reports（所有lint-report）
@@ -11929,9 +11948,11 @@ last_updated: 2026-05-04
 - [摘要：Claude Code 工作流模板 v2](summaries/摘要：Claude Code 工作流模板 v2.md)
 - [摘要：Claude Code 开源编译版来了！45+实验功能全开，隐私无遥测，开发者终于等到了](summaries/摘要：Claude Code 开源编译版来了！45+实验功能全开，隐私无遥测，开发者终于等到了.md)
 - [摘要：Claude Code 更新又遭泄露，Cursor 们的好日子到头了](summaries/摘要：Claude Code 更新又遭泄露，Cursor 们的好日子到头了.md)
+- [摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构](summaries/摘要：Claude Code 源码泄露始末：一个开发者如何让它真正跑起来，并拆解其内部架构.md)
 - [摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行](summaries/摘要：Claude Code 源码泄露深度解析：一个开发者如何让它重新编译运行.md)
 - [摘要：Claude Code 的 99 种开通和 100 种封号方式](summaries/摘要：Claude Code 的 99 种开通和 100 种封号方式.md)
 - [摘要：Claude Code 的七层记忆体系：从亚毫秒级缓存到「梦境」式整合](summaries/摘要：Claude Code 的七层记忆体系：从亚毫秒级缓存到「梦境」式整合.md)
+- [摘要：Claude Code 的七层记忆架构：从毫秒级 Token 裁剪到「睡眠整理」系统](summaries/摘要：Claude Code 的七层记忆架构：从毫秒级 Token 裁剪到「睡眠整理」系统.md)
 - [摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.](summaries/摘要：Claude Code's Limits Are Generous. The Problem Is Your Harness.md)
 - [摘要：Claude Code宠物系统悦悦上线，我把白板刷成了金色传说](summaries/摘要：Claude Code宠物系统悦悦上线，我把白板刷成了金色传说.md)
 - [摘要：Claude Code悄悄学会了做梦。](summaries/摘要：Claude Code悄悄学会了做梦。.md)
@@ -12636,6 +12657,8 @@ last_updated: 2026-05-04
 - [摘要：ZAILGO：用密码学叙事打造的 Solana 链上 AI 概念实验](summaries/摘要：ZAILGO：用密码学叙事打造的 Solana 链上 AI 概念实验.md)
 - [摘要：ZK101：一个不需要数学博士学位的零知识证明入门课程](summaries/摘要：ZK101：一个不需要数学博士学位的零知识证明入门课程.md)
 - [摘要：Zenmux：Claude 被封之后，多模型聚合平台值得用吗？](summaries/摘要：Zenmux：Claude 被封之后，多模型聚合平台值得用吗？.md)
+- [摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门](summaries/摘要：agency-agents：一个开源的 AI 虚拟团队，144 个专业 Agent 覆盖 12 个职能部门.md)
+- [摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队](summaries/摘要：agency-agents：用 147 个 Markdown 文件，搭建你的零成本 AI 专业团队.md)
 - [摘要：agent-browser：为AI Agent 写的浏览器CLI](summaries/摘要：agent-browser：为AI Agent 写的浏览器CLI.md)
 - [摘要：ai-gradio：用几行 Python 代码，接入 15+ AI 大模型并搭建可视化应用](summaries/摘要：ai-gradio：用几行 Python 代码，接入 15+ AI 大模型并搭建可视化应用.md)
 - [摘要：ai-hedge-fund：让 AI 扮演巴菲特和芒格，帮你做投资决策](summaries/摘要：ai-hedge-fund：让 AI 扮演巴菲特和芒格，帮你做投资决策.md)
@@ -12883,6 +12906,7 @@ last_updated: 2026-05-04
 - [摘要：大模型开始“懂你”了！PersonaVLM如何实现长期个性化记忆](summaries/摘要：大模型开始“懂你”了！PersonaVLM如何实现长期个性化记忆.md)
 - [摘要：大模型服务新范式：PipeLive突破在线流水线并行重构难题，自适应异构GPU环境，性能提升超30%](summaries/摘要：大模型服务新范式：PipeLive突破在线流水线并行重构难题，自适应异构GPU环境，性能提升超30%.md)
 - [摘要：太抽象了，Alice 都来了。MemPalace AI记忆系统](summaries/摘要：太抽象了，Alice 都来了。MemPalace AI记忆系统.md)
+- [摘要：女娲.skill：让乔布斯、芒格、费曼在 Claude Code 里给你打工](summaries/摘要：女娲.skill：让乔布斯、芒格、费曼在 Claude Code 里给你打工.md)
 - [摘要：女娲.skill：输入一个名字，让芒格、费曼、马斯克给你打工](summaries/摘要：女娲.skill：输入一个名字，让芒格、费曼、马斯克给你打工.md)
 - [摘要：如何使用Hermes Agent稳定爬取公众号文章](summaries/摘要：如何使用Hermes Agent稳定爬取公众号文章.md)
 - [摘要：如何申请 Anthropic OSS Program](summaries/摘要：如何申请 Anthropic OSS Program.md)
