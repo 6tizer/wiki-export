@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1992, "summary": 1491, "synthesis": 176, "entity": 1026, "index": 2, "lint-report": 68, "qa": 4}
-total: 4759
+type_counts: {"concept": 1992, "summary": 1491, "synthesis": 176, "entity": 1033, "index": 2, "lint-report": 68, "qa": 4}
+total: 4766
 last_updated: 2026-05-04
 ---
 
 # 📚 知识 Wiki Index
 
-> 1992 concepts · 1026 entitys · 2 indexs · 68 lint-reports · 4 qas · 1491 summarys · 176 synthesiss
+> 1992 concepts · 1033 entitys · 2 indexs · 68 lint-reports · 4 qas · 1491 summarys · 176 synthesiss
 > 导出时间: 2026-05-04
 
 ## 使用方式
@@ -173,6 +173,7 @@ last_updated: 2026-05-04
 - [ChatGPT](entities/ChatGPT.md)
 - [Chatbox](entities/Chatbox.md)
 - [Chrome Skills](entities/Chrome Skills.md)
+- [Chronos](entities/Chronos.md)
 - [Claude](entities/Claude.md)
 - [Claude API 中转站](entities/Claude API 中转站.md)
 - [Claude Connectors](entities/Claude Connectors.md)
@@ -230,6 +231,9 @@ last_updated: 2026-05-04
 - [Exa Monitors](entities/Exa Monitors.md)
 - [FARS](entities/FARS.md)
 - [FalkorDB](entities/FalkorDB.md)
+- [FinCast](entities/FinCast.md)
+- [FinGPT](entities/FinGPT.md)
+- [FinRobot](entities/FinRobot.md)
 - [FinceptTerminal](entities/FinceptTerminal.md)
 - [FireRed-OpenStoryline](entities/FireRed-OpenStoryline.md)
 - [Fish Audio](entities/Fish Audio.md)
@@ -263,6 +267,7 @@ last_updated: 2026-05-04
 - [HY-World](entities/HY-World.md)
 - [HY-WorldMirror](entities/HY-WorldMirror.md)
 - [HY-WorldStereo](entities/HY-WorldStereo.md)
+- [Hanabi-1](entities/Hanabi-1.md)
 - [HappyHorse](entities/HappyHorse.md)
 - [HappyOyster](entities/HappyOyster.md)
 - [Happycapy](entities/Happycapy.md)
@@ -301,6 +306,7 @@ last_updated: 2026-05-04
 - [LongCat](entities/LongCat.md)
 - [Lovart](entities/Lovart.md)
 - [MMX-CLI](entities/MMX-CLI.md)
+- [MOIRAI](entities/MOIRAI.md)
 - [Magic Layers](entities/Magic Layers.md)
 - [Mano-P](entities/Mano-P.md)
 - [Manus](entities/Manus.md)
@@ -409,7 +415,7 @@ last_updated: 2026-05-04
 - [Thinking Machines Lab](entities/Thinking Machines Lab.md)
 - [ThinkingAI](entities/ThinkingAI.md)
 - [Thoth](entities/Thoth.md)
-- [TimesFM](entities/TimesFM.md)
+- [TimesFM](entities/TimesFM-2e5aa055.md)
 - [Trusted Access for Cyber](entities/Trusted Access for Cyber.md)
 - [Twitter Buddy](entities/Twitter Buddy.md)
 - [TyClaw.rs](entities/TyClaw.rs.md)
@@ -6512,6 +6518,7 @@ last_updated: 2026-05-04
 - [EvoMap](entities/EvoMap.md)
 - [Exa](entities/Exa.md)
 - [FinGPT](entities/FinGPT.md)
+- [FinGPT](entities/FinGPT-14f5fab2.md)
 - [Foundry Agent Service](entities/Foundry Agent Service.md)
 - [GEO Optimizer](entities/GEO Optimizer.md)
 - [GR4AD](entities/GR4AD.md)
@@ -7348,6 +7355,7 @@ last_updated: 2026-05-04
 - [EasyClaw](entities/EasyClaw.md)
 - [ElizaOS](entities/ElizaOS.md)
 - [Everything Claude Code](entities/Everything Claude Code.md)
+- [FinRobot](entities/FinRobot.md)
 - [FinceptTerminal](entities/FinceptTerminal.md)
 - [FloatIM](entities/FloatIM.md)
 - [Floatboat](entities/Floatboat.md)
@@ -8578,15 +8586,18 @@ last_updated: 2026-05-04
 - [EverMemBench](entities/EverMemBench.md)
 - [EvoAgentBench](entities/EvoAgentBench.md)
 - [FARS](entities/FARS.md)
+- [FinCast](entities/FinCast.md)
 - [Future AGI](entities/Future AGI.md)
 - [GLM-5.1](entities/GLM-5.1.md)
 - [GPT-Rosalind](entities/GPT-Rosalind.md)
+- [Hanabi-1](entities/Hanabi-1.md)
 - [Harbor](entities/Harbor.md)
 - [Hy3 preview](entities/Hy3 preview.md)
 - [Kronos](entities/Kronos.md)
 - [LisanBench](entities/LisanBench.md)
 - [LiveCodeBench](entities/LiveCodeBench.md)
 - [MLE-Bench Lite](entities/MLE-Bench Lite.md)
+- [MOIRAI](entities/MOIRAI.md)
 - [MiniMax M2.5](entities/MiniMax M2.5.md)
 - [MotuBrain](entities/MotuBrain.md)
 - [OSWorld-Verified](entities/OSWorld-Verified.md)
@@ -8604,6 +8615,7 @@ last_updated: 2026-05-04
 - [Terminal Bench 2](entities/Terminal Bench 2.md)
 - [Terminal-Bench 2.0](entities/Terminal-Bench 2.0.md)
 - [TimesFM](entities/TimesFM.md)
+- [TimesFM](entities/TimesFM-2e5aa055.md)
 - [WorldArena](entities/WorldArena.md)
 - [talkie](entities/talkie.md)
 - [tau2-bench](entities/tau2-bench.md)
@@ -10502,6 +10514,7 @@ last_updated: 2026-05-04
 ### Entitys
 - [AfterQuery](entities/AfterQuery.md)
 - [Alec Radford](entities/Alec Radford.md)
+- [Chronos](entities/Chronos.md)
 - [DORA](entities/DORA.md)
 - [DataFlex](entities/DataFlex.md)
 - [DeepSeek V4](entities/DeepSeek V4.md)
@@ -10523,6 +10536,7 @@ last_updated: 2026-05-04
 - [Qwen3.5-9B-GLM5.1-Distill-v1](entities/Qwen3.5-9B-GLM5.1-Distill-v1.md)
 - [SciTikZ](entities/SciTikZ.md)
 - [TimesFM](entities/TimesFM.md)
+- [TimesFM](entities/TimesFM-2e5aa055.md)
 - [Trainium](entities/Trainium.md)
 - [WeClone](entities/WeClone.md)
 - [autoresearch](entities/autoresearch.md)
@@ -10788,7 +10802,10 @@ last_updated: 2026-05-04
 - [D0](entities/D0.md)
 - [Donut](entities/Donut.md)
 - [Echo](entities/Echo.md)
+- [FinGPT](entities/FinGPT.md)
+- [FinRobot](entities/FinRobot.md)
 - [FinceptTerminal](entities/FinceptTerminal.md)
+- [Hanabi-1](entities/Hanabi-1.md)
 - [Hyperliquid](entities/Hyperliquid.md)
 - [Kronos](entities/Kronos.md)
 - [Memerush](entities/Memerush.md)

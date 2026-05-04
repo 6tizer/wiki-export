@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-05-04T15:04:57.485550+08:00",
+  "last_sync_time": "2026-05-04T19:07:19.609950+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 4759,
+  "total_pages_exported": 4766,
   "page_mapping": {
     "0fe9d271-3d82-4995-ad15-00fc8d446de0": {
       "type": "concept",
@@ -1080,7 +1080,7 @@
     },
     "14f5fab2-e5b8-4bf9-a93b-d3e38cf780c8": {
       "type": "entity",
-      "file_path": "wiki/entities/FinGPT.md",
+      "file_path": "wiki/entities/FinGPT-14f5fab2.md",
       "last_edited": "2026-05-01T05:50:00.000Z"
     },
     "014afc1b-58aa-42be-8ed1-65f83a89208b": {
@@ -3070,7 +3070,7 @@
     },
     "2e5aa055-79f8-4e7e-97b2-cc3cdbff2844": {
       "type": "entity",
-      "file_path": "wiki/entities/TimesFM.md",
+      "file_path": "wiki/entities/TimesFM-2e5aa055.md",
       "last_edited": "2026-05-01T05:50:00.000Z"
     },
     "2e63fcd5-f38a-41d1-bae5-8ab7457bbe8f": {
@@ -23797,6 +23797,41 @@
       "type": "synthesis",
       "file_path": "wiki/syntheses/稳定币的协议化跃迁：从法币锚定代币到链上可编程结算层的架构分化与价值传导路径重构.md",
       "last_edited": "2026-05-03T15:27:00.000Z"
+    },
+    "48a873ef-8439-470f-9ff9-c72955a8a679": {
+      "type": "entity",
+      "file_path": "wiki/entities/Chronos.md",
+      "last_edited": "2026-05-04T08:31:00.000Z"
+    },
+    "c50de512-f0c0-47c6-9421-03b747d3c1d7": {
+      "type": "entity",
+      "file_path": "wiki/entities/FinCast.md",
+      "last_edited": "2026-05-04T08:31:00.000Z"
+    },
+    "8ea0e802-03f8-40ad-be9c-de4e3d660bc5": {
+      "type": "entity",
+      "file_path": "wiki/entities/FinGPT.md",
+      "last_edited": "2026-05-04T08:31:00.000Z"
+    },
+    "3d452f6f-30c6-4da4-9596-e02d3a919d3e": {
+      "type": "entity",
+      "file_path": "wiki/entities/FinRobot.md",
+      "last_edited": "2026-05-04T08:31:00.000Z"
+    },
+    "ab8457eb-4605-42b1-8bf6-863e5033d9a2": {
+      "type": "entity",
+      "file_path": "wiki/entities/Hanabi-1.md",
+      "last_edited": "2026-05-04T08:31:00.000Z"
+    },
+    "1a86c899-a9d9-43c3-882f-8e864579b29f": {
+      "type": "entity",
+      "file_path": "wiki/entities/MOIRAI.md",
+      "last_edited": "2026-05-04T08:31:00.000Z"
+    },
+    "4c1c4c36-5516-4dc8-a0a0-8cbc2e3e76fb": {
+      "type": "entity",
+      "file_path": "wiki/entities/TimesFM.md",
+      "last_edited": "2026-05-04T08:31:00.000Z"
     }
   }
 }
