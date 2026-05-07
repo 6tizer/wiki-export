@@ -2,9 +2,7 @@
 title: Git 组织协议
 type: concept
 tags:
-- 加密资产
 - Agent 协作模式
-- 链上协议
 status: 审核中
 confidence: high
 last_compiled: '2026-04-17'
