@@ -1,5 +1,5 @@
 {
-  "last_sync_time": "2026-05-11T13:02:32.310477+08:00",
+  "last_sync_time": "2026-05-11T17:07:33.294191+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
   "total_pages_exported": 4772,
   "page_mapping": {
@@ -23771,7 +23771,7 @@
     "4f83f9e3-f6c8-4fba-9b76-14a219d38548": {
       "type": "synthesis",
       "file_path": "wiki/syntheses/上下文预算感知的提示工程：当窗口约束从外部限制内化为指令设计的第一性原理.md",
-      "last_edited": "2026-05-03T11:18:00.000Z"
+      "last_edited": "2026-05-11T05:04:00.000Z"
     },
     "5fc1c6a0-22b7-43eb-8da6-3a0ffc0a5279": {
       "type": "synthesis",
