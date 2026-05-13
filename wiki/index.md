@@ -2,13 +2,13 @@
 type: index
 type_counts: {"concept": 1992, "summary": 1491, "synthesis": 176, "entity": 1033, "index": 2, "lint-report": 68, "qa": 4}
 total: 4766
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ---
 
 # 📚 知识 Wiki Index
 
 > 1992 concepts · 1033 entitys · 2 indexs · 68 lint-reports · 4 qas · 1491 summarys · 176 synthesiss
-> 导出时间: 2026-05-13
+> 导出时间: 2026-05-14
 
 ## 使用方式
 1. 搜索本文件定位感兴趣的条目名称
