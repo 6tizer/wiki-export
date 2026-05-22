@@ -1,13 +1,13 @@
 ---
 type: index
-type_counts: {"concept": 1992, "summary": 1491, "synthesis": 176, "entity": 1033, "index": 2, "lint-report": 68, "qa": 4}
-total: 4766
+type_counts: {"concept": 1998, "summary": 1492, "synthesis": 176, "entity": 1033, "index": 2, "lint-report": 68, "qa": 4}
+total: 4773
 last_updated: 2026-05-23
 ---
 
 # 📚 知识 Wiki Index
 
-> 1992 concepts · 1033 entitys · 2 indexs · 68 lint-reports · 4 qas · 1491 summarys · 176 synthesiss
+> 1998 concepts · 1033 entitys · 2 indexs · 68 lint-reports · 4 qas · 1492 summarys · 176 synthesiss
 > 导出时间: 2026-05-23
 
 ## 使用方式
@@ -7958,6 +7958,7 @@ last_updated: 2026-05-23
 - [GDN Chunked Prefill](concepts/GDN Chunked Prefill.md)
 - [GEPA](concepts/GEPA.md)
 - [GGUF](concepts/GGUF.md)
+- [GRAM](concepts/GRAM.md)
 - [GSPruning](concepts/GSPruning.md)
 - [GatedDeltaNet](concepts/GatedDeltaNet.md)
 - [Gene](concepts/Gene.md)
@@ -8058,6 +8059,7 @@ last_updated: 2026-05-23
 - [多步骤研究规划](concepts/多步骤研究规划.md)
 - [多潜在注意力](concepts/多潜在注意力.md)
 - [多角色决策](concepts/多角色决策.md)
+- [多轨迹推理](concepts/多轨迹推理.md)
 - [导师型 AI](concepts/导师型 AI.md)
 - [层堆叠](concepts/层堆叠.md)
 - [归因图](concepts/归因图.md)
@@ -8071,6 +8073,7 @@ last_updated: 2026-05-23
 - [思考预算](concepts/思考预算.md)
 - [惰性求值](concepts/惰性求值.md)
 - [投资人压力测试](concepts/投资人压力测试.md)
+- [推理时计算扩展](concepts/推理时计算扩展.md)
 - [推理经济学](concepts/推理经济学.md)
 - [推理蒸馏](concepts/推理蒸馏.md)
 - [无 NMS 端到端检测架构](concepts/无 NMS 端到端检测架构.md)
@@ -8116,6 +8119,7 @@ last_updated: 2026-05-23
 - [输出通胀](concepts/输出通胀.md)
 - [锯齿边界](concepts/锯齿边界.md)
 - [长度惩罚](concepts/长度惩罚.md)
+- [随机引导](concepts/随机引导.md)
 - [隐式思维链](concepts/隐式思维链.md)
 - [隐式推理](concepts/隐式推理.md)
 - [零样本泛化](concepts/零样本泛化.md)
@@ -8172,6 +8176,7 @@ last_updated: 2026-05-23
 - [ziggy-llm](entities/ziggy-llm.md)
 
 ### Summarys
+- [摘要：10M参数也能跑ARC与数独，Bengio团队押注「多轨迹推理」](summaries/摘要：10M参数也能跑ARC与数独，Bengio团队押注「多轨迹推理」.md)
 - [摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了](summaries/摘要：23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了.md)
 - [摘要：7天用Claude+Codex实现谷歌 TurboQuant 算法（已开源）](summaries/摘要：7天用Claude+Codex实现谷歌 TurboQuant 算法（已开源）.md)
 - [摘要：88岁图灵奖得主，用Claude一小时破解30年数学悬案](summaries/摘要：88岁图灵奖得主，用Claude一小时破解30年数学悬案.md)
@@ -10478,6 +10483,7 @@ last_updated: 2026-05-23
 - [弱监督视觉定位](concepts/弱监督视觉定位.md)
 - [思维压缩](concepts/思维压缩.md)
 - [思维链监督](concepts/思维链监督.md)
+- [截断梯度传播](concepts/截断梯度传播.md)
 - [技能原子](concepts/技能原子.md)
 - [技能自我进化](concepts/技能自我进化.md)
 - [推理蒸馏](concepts/推理蒸馏.md)
@@ -10491,6 +10497,7 @@ last_updated: 2026-05-23
 - [模型自我进化](concepts/模型自我进化.md)
 - [模型蒸馏](concepts/模型蒸馏.md)
 - [深度外推](concepts/深度外推.md)
+- [深度监督](concepts/深度监督.md)
 - [灾难性遗忘](concepts/灾难性遗忘.md)
 - [监督微调](concepts/监督微调.md)
 - [确定性训练](concepts/确定性训练.md)
@@ -10546,6 +10553,7 @@ last_updated: 2026-05-23
 - [锁妖塔 Skill](entities/锁妖塔 Skill.md)
 
 ### Summarys
+- [摘要：10M参数也能跑ARC与数独，Bengio团队押注「多轨迹推理」](summaries/摘要：10M参数也能跑ARC与数独，Bengio团队押注「多轨迹推理」.md)
 - [摘要：56% → 92%：Karpathy autoresearch 让 skill 成功率直接起飞](summaries/摘要：56% → 92%：Karpathy autoresearch 让 skill 成功率直接起飞.md)
 - [摘要：7 周 128K stars 爆火的 Hermes Agent，背后是 NousResearch 这群 web3 来的加密原住民](summaries/摘要：7 周 128K stars 爆火的 Hermes Agent，背后是 NousResearch 这群 web3 来的加密原住民.md)
 - [摘要：AI Agent 堆栈的终局：去中心化算力、分布式训练与链上 AI 预言机](summaries/摘要：AI Agent 堆栈的终局：去中心化算力、分布式训练与链上 AI 预言机.md)
@@ -11712,6 +11720,7 @@ last_updated: 2026-05-23
 - [摘要：10 Github repos that replace $855/month of paid AI tools](summaries/摘要：10 Github repos that replace $855-month of paid AI tools.md)
 - [摘要：10,000+ markdown files（GBrain 开源发布）](summaries/摘要：10,000+ markdown files（GBrain 开源发布）.md)
 - [摘要：100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？](summaries/摘要：100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？.md)
+- [摘要：10M参数也能跑ARC与数独，Bengio团队押注「多轨迹推理」](summaries/摘要：10M参数也能跑ARC与数独，Bengio团队押注「多轨迹推理」.md)
 - [摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。](summaries/摘要：11.4K Star！基于 AI 大神 Karpathy 的编程经验开源的 Claude Code 技能插件。.md)
 - [摘要：129位中文X头部博主大合集：AI、出海、独立开发，一份清单搞定高质量信息流](summaries/摘要：129位中文X头部博主大合集：AI、出海、独立开发，一份清单搞定高质量信息流.md)
 - [摘要：12万的墓碑和399的AI永生，你怎么选](summaries/摘要：12万的墓碑和399的AI永生，你怎么选.md)

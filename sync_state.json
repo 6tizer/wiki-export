@@ -1,7 +1,7 @@
 {
-  "last_sync_time": "2026-05-23T00:51:30.293700+08:00",
+  "last_sync_time": "2026-05-23T04:52:43.104421+08:00",
   "last_full_export_time": "2026-04-18T02:27:44.653987+08:00",
-  "total_pages_exported": 4766,
+  "total_pages_exported": 4773,
   "page_mapping": {
     "0fe9d271-3d82-4995-ad15-00fc8d446de0": {
       "type": "concept",
@@ -23832,6 +23832,41 @@
       "type": "entity",
       "file_path": "wiki/entities/TimesFM.md",
       "last_edited": "2026-05-04T08:31:00.000Z"
+    },
+    "604de84e-f49e-480a-817b-15e02b21b155": {
+      "type": "concept",
+      "file_path": "wiki/concepts/GRAM.md",
+      "last_edited": "2026-05-22T18:32:00.000Z"
+    },
+    "433e795f-8e50-431a-8151-448f2b5fd4f6": {
+      "type": "concept",
+      "file_path": "wiki/concepts/多轨迹推理.md",
+      "last_edited": "2026-05-22T18:32:00.000Z"
+    },
+    "bba4107f-98a6-4bec-a98d-6c191d849630": {
+      "type": "concept",
+      "file_path": "wiki/concepts/截断梯度传播.md",
+      "last_edited": "2026-05-22T18:32:00.000Z"
+    },
+    "3546de76-fb6f-44c8-b4c4-23e120d304ea": {
+      "type": "concept",
+      "file_path": "wiki/concepts/推理时计算扩展.md",
+      "last_edited": "2026-05-22T18:32:00.000Z"
+    },
+    "88014016-3592-48d4-8ca1-d5f54e398de2": {
+      "type": "concept",
+      "file_path": "wiki/concepts/深度监督.md",
+      "last_edited": "2026-05-22T18:32:00.000Z"
+    },
+    "c83439ef-11eb-470f-bd9f-d42175149440": {
+      "type": "concept",
+      "file_path": "wiki/concepts/随机引导.md",
+      "last_edited": "2026-05-22T18:32:00.000Z"
+    },
+    "001ec638-399e-4aa7-9a59-22d78d6160ce": {
+      "type": "summary",
+      "file_path": "wiki/summaries/摘要：10M参数也能跑ARC与数独，Bengio团队押注「多轨迹推理」.md",
+      "last_edited": "2026-05-22T18:30:00.000Z"
     }
   }
 }
